@@ -1,0 +1,21 @@
+card_name: Ruby Limb Tentacle
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 10
+
+text: This ally can't leave play except by fatal damage. At the start of Deathwing's turn, he deals 2 shadow damage to the MARKED hero for each card in that hero's controller's graveyard. When this ally is destroyed, the Raiders choose a Raider, and he puts a card from his graveyard into his hand.
+
+combat: Melee
+
+temp: Tentacle
+
+type: Boss

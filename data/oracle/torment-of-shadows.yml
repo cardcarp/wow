@@ -1,0 +1,19 @@
+card_name: Torment of Shadows
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals X shadow damage to attached character, where X is the cost of a non-hero Priest or Warlock you control.'
+
+class:
+  - Priest
+  - Warlock
+
+cost: '2'
+
+temp: Shadow Affliction

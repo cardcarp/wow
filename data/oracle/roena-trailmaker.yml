@@ -1,0 +1,23 @@
+card_name: Roena Trailmaker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: Protector Roena has +1 health for each quest you have.
+
+cost: '5'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Shaman

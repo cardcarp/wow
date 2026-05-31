@@ -1,0 +1,20 @@
+card_name: Shalug_doom, the Axe of Unmaking
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: As this weapon enters play, destroy any number of abilities, allies, and/or equipment you control. This weapon enters play with a +1 ATK counter on it for each card destroyed this way.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '0'
+
+temp: 2H Weapon Axe

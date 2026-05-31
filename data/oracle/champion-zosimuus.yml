@@ -1,0 +1,23 @@
+card_name: Champion Zosimuus
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: When a ally in your party is dealt damage, it deals 2 holy damage to the source of that damage.
+
+cost: '4'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Draenei Paladin

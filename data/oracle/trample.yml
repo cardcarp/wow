@@ -1,0 +1,15 @@
+card_name: Trample
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Onyxia has +2 ATK while attacking. When Onyxia attacks, you may exhaust target ally.'
+
+cost: '2'
+
+temp: ''

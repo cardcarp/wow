@@ -1,0 +1,21 @@
+card_name: Tyrygosa
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 8
+
+text: At the start of your turn, reveal the top card of your deck. If it's an ability, you can play it immediately without paying its cost. (If it has X in its cost, X is 0).
+
+cost: '6'
+
+combat: Ranged
+
+temp: Blue Dragonkin Consort

@@ -1,0 +1,23 @@
+card_name: Roger Mortis
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: 1 , Put 1 damage on another ally in your party → Roger deals 1 fire damage to target hero or ally. Use only on your turn.
+
+cost: '6'
+
+combat: Fire
+
+faction: Horde
+
+temp: Undead Warlock

@@ -1,0 +1,18 @@
+card_name: Bladestorm
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Arms Talent Attach to target weapon you control. Ongoing : Attached weapon has +3 ATK. When this ability enters play, your hero deals melee damage to each opposing ally equal to attached weapon's ATK."
+
+class:
+  - Warrior
+
+cost: '6'
+
+temp: Arms

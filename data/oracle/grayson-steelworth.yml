@@ -1,0 +1,21 @@
+card_name: Grayson Steelworth
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 3 → Flip Grayson
+
+faction: Alliance
+
+temp: Worgen Warrior
+
+transform:
+  - id: ability
+    text: Dual Wield

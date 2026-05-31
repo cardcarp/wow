@@ -1,0 +1,20 @@
+card_name: Mana-Etched Vestments
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Your hero deals 1 arcane damage to target hero or ally. Use only if you have seven or more cards in hand.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Armor Cloth

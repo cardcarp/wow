@@ -1,0 +1,18 @@
+card_name: Touch of Ice
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 1 frost damage to target hero or ally. If a hero is dealt damage this way, the next time its controller would draw a card this turn, he skips drawing that card instead.
+
+class:
+  - Mage
+
+cost: '1'
+
+temp: Frost

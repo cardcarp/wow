@@ -1,0 +1,18 @@
+card_name: Blessing of Salvation
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : When Blessing of Salvation enters play, choose a friendly player. That player is Untargetable .'
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection Blessing

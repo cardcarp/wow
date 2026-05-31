@@ -1,0 +1,21 @@
+card_name: Scarlet Torturer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: Stealth When this ally enters play, he deals 2 melee damage to each exhausted Raiding ally.
+
+combat: Melee
+
+temp: Human Torturer
+
+type: Dungeon

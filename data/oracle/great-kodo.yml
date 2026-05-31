@@ -1,0 +1,23 @@
+card_name: Great Kodo
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 4
+
+text: Tauren Hero Required You pay 1 to complete quests. When you place a resource face up, you may exhaust target card in play. (Mounts can't attack or be attacked.)
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Kodo

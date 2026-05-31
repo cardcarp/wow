@@ -1,0 +1,23 @@
+card_name: Silvermoon Sentinels
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: When Silvermoon Sentinels enters play, it deals 1 holy damage to each hero for each ally named Silvermoon Sentinels in your party.
+
+cost: '2'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Paladin

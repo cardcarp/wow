@@ -1,0 +1,23 @@
+card_name: Miner Moggun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Elusive → Put the top two cards of your deck into your graveyard.
+
+cost: '1'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Dwarf Hunter

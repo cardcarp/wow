@@ -1,0 +1,23 @@
+card_name: The Big Bad Wolf
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: When Big Bad enters play, target opposing ally can't attack or exhaust, loses and can't have powers, and becomes 0 / 5 until Big Bad leaves play. Big Bad must attack that ally if able. When Big Bad deals fatal combat damage to that ally, he has +5 / +5 and Invincible .
+
+cost: '7'
+
+combat: Melee
+
+temp: Worgen Warrior
+
+type: Monster

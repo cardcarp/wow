@@ -1,0 +1,23 @@
+card_name: Fumdol Mountainfrost
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: When this ally enters play, Delve .
+
+cost: '5'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Dwarf Shaman

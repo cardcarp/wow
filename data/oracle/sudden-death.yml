@@ -1,0 +1,18 @@
+card_name: Sudden Death
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Traitor Hero Required Destroy target ally without damage.
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Traitor

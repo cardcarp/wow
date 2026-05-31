@@ -1,0 +1,23 @@
+card_name: Kelvor Valorshine
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Combat damage that this ally would deal is unpreventable.
+
+cost: '3'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Paladin

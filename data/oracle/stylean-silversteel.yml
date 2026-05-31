@@ -1,0 +1,23 @@
+card_name: Stylean Silversteel
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: When Stylean Silversteel enters play, she heals 3 damage from each hero and ally in your party.
+
+cost: '6'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Priest

@@ -1,0 +1,18 @@
+card_name: Suffocating Grip
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Interrupt target ally with cost X played by an opponent. If you do, your hero deals X shadow damage to his hero.
+
+class:
+  - Death Knight
+
+cost: '3'
+
+temp: Unholy

@@ -1,0 +1,23 @@
+card_name: Taz_dingo
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When Taz'dingo enters play, he deals 1 ranged damage to target hero or ally.
+
+cost: '3'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Troll Hunter

@@ -1,0 +1,27 @@
+card_name: Jingling Bell
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 6 , , Make a jingle noise → Reveal the top card of your deck. If its an ability, ally, or equipment, you may play it this turn without paying its cost.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '6'
+
+temp: Item

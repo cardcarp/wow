@@ -1,0 +1,19 @@
+card_name: Leggings of the Tireless Sentry
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Opposing heroes and allies enter play exhausted. At the end of each opponent's turn, exhaust all heroes and allies he controls.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '3'
+
+temp: Armor Mail

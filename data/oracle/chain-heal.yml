@@ -1,0 +1,18 @@
+card_name: Chain Heal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target up to three heroes and/or allies. Your hero heals 3, 2, and 1 damage from them, respectively.
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Restoration

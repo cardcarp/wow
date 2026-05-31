@@ -1,0 +1,18 @@
+card_name: Ancient Bear Form
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Your hero has Protector . Your hero has +5 for each five resources you control.'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Feral Bear Form

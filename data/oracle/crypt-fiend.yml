@@ -1,0 +1,23 @@
+card_name: Crypt Fiend
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: Scourge Hero Required Prevent all damage that and allies would deal to this ally.
+
+cost: '6'
+
+combat: Shadow
+
+temp: Crypt Fiend
+
+type: Raid

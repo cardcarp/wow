@@ -1,0 +1,15 @@
+card_name: Echo of Tyrande
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 'Flip 2 , Assault 4 , Long-Range Entrance : Tyrande deals 3 arcane damage to each Raiding hero for each Caverns hero that has been defeated. When Tyrande deals damage to a Raiding hero, if she has dealt 10 or more damage to that hero this turn, reveal cards from the top of the Caverns deck until a Boss ally is revealed. Put that ally into play and shuffle the other revealed cards into the Caverns deck. This power triggers only once per turn for each Raiding hero.'
+
+temp: Night Elf Echo 25
+
+type: Boss

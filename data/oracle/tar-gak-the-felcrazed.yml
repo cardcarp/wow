@@ -1,0 +1,23 @@
+card_name: Tar_gak the Felcrazed
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 10
+
+health: 8
+
+text: You pay 1 less to play this ally for each Monster hero and ally you control.
+
+cost: '9'
+
+combat: Shadow
+
+temp: Ogre Warlock
+
+type: Monster

@@ -1,0 +1,18 @@
+card_name: Tower of Radiance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Holy Talent This ability enters play with four radiance counters on it. Ongoing : At the start of your turn, remove a radiance counter from this ability. If none remain, destroy this ability. Your hero has Assault 1 and Mend 1 for each radiance counter on this ability.'
+
+class:
+  - Paladin
+
+cost: '4'
+
+temp: Holy

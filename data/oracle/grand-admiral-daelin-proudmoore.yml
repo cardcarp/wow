@@ -1,0 +1,23 @@
+card_name: Grand Admiral Daelin Proudmoore
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: Protector While you control a Jaina ally, allies you control have Assault 1 for each exhausted opposing resource.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

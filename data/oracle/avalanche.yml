@@ -1,0 +1,18 @@
+card_name: Avalanche
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with this weapon, your hero has Long-Range this combat. When your hero deals combat damage with this weapon to a hero, your hero deals that much frost damage to target ally in that hero's party.
+
+class:
+  - Hunter
+
+cost: '5'
+
+temp: Ranged Weapon Bow

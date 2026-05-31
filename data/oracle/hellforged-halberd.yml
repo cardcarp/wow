@@ -1,0 +1,21 @@
+card_name: Hellforged Halberd
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You pay 1 less to play Hellforged Halberd if an ally with diplomacy is in your party. This is also true for Escape Artist , Inspiring Presence , Shadowmeld , and Find Treasure .
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '7'
+
+faction: Alliance
+
+temp: 2H Weapon Polearm

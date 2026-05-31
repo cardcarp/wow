@@ -1,0 +1,23 @@
+card_name: Narthadus
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 6
+
+text: Elusive At the end of your turn, you may destroy target ability.
+
+cost: '6'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Night Elf Priest

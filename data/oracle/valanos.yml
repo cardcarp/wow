@@ -1,0 +1,21 @@
+card_name: Valanos
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Hunter

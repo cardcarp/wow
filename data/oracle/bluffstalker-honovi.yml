@@ -1,0 +1,23 @@
+card_name: Bluffstalker Honovi
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Assault 2 Allies have -2 ATK while defending against this ally.
+
+cost: '6'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Tauren Hunter

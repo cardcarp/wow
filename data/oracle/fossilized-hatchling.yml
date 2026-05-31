@@ -1,0 +1,23 @@
+card_name: Fossilized Hatchling
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Play only if you have four or more allies in your graveyard.
+
+cost: '1'
+
+combat: Melee
+
+temp: Fossil Hatchling
+
+type: Monster

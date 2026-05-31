@@ -1,0 +1,23 @@
+card_name: Falixia Frizzleblast
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Elusive
+
+cost: '5'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Goblin Mage

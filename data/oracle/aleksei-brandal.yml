@@ -1,0 +1,23 @@
+card_name: Aleksei Brandal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: While an ability is attached to this ally, he has Elusive and Stealth .
+
+cost: '2'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Worgen Druid

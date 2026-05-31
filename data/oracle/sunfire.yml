@@ -1,0 +1,18 @@
+card_name: Sunfire
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals X arcane damage to target hero or ally, where X is the number of friendly heroes and allies. Draw a card.
+
+class:
+  - Druid
+
+cost: '7'
+
+temp: Balance

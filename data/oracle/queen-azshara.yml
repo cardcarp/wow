@@ -1,0 +1,15 @@
+card_name: Queen Azshara
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Flip 2 Azshara enters play with six guard counters on her. If Azshara would be dealt damage, remove a guard counter from her instead. Then, if none remain, she is defeated. At the start of Azshara's turn, each Raider puts the top two cards of his deck into his graveyard. Put a guard counter on Azshara for each raider that puts cards into his graveyard with a combined cost of 8 or higher. While Azshara has twelve or more guard counters on her, she has an additional Flip 2 , and Caverns allies have Assault 2 .
+
+temp: Night Elf Mage 25
+
+type: Boss

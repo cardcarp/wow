@@ -1,0 +1,18 @@
+card_name: Power Word_ Endurance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Friendly heroes and allies have +2 .'
+
+class:
+  - Priest
+
+cost: '4'
+
+temp: Discipline

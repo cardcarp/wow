@@ -1,0 +1,17 @@
+card_name: Durga Gravestone
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 1 , Flip Durga, remove up to five Combo cards in your graveyard from the game → Destroy target ally if its cost is less than or equal to the number of cards removed this way.
+
+faction: Alliance
+
+temp: Dwarf Rogue

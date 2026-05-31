@@ -1,0 +1,23 @@
+card_name: Boltaar, Shield of Velen
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Protector Equipment and Ongoing abilities you control have Spellshield .
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Paladin

@@ -1,0 +1,21 @@
+card_name: Amaria Kelsur
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 4 → Flip Amaria
+
+faction: Alliance
+
+temp: Human Hunter
+
+transform:
+  - id: ability
+    text: Opposing allies have -1 ATK while in combat with Amaria.

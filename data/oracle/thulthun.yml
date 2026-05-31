@@ -1,0 +1,24 @@
+card_name: Thulthun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Opposing allies lose and can't have elusive or stealth.
+
+class:
+  - Warlock
+
+cost: '2'
+
+combat: Melee
+
+temp: Felhunter Demon

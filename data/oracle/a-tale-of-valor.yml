@@ -1,0 +1,13 @@
+card_name: A Tale of Valor
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: "Pay 4 to complete this quest. Reward : Reveal the top card of your deck and put it into your hand. Your hero heals damage from itself equal to that card's cost."
+
+temp: ''

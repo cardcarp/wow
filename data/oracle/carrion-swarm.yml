@@ -1,0 +1,15 @@
+card_name: Carrion Swarm
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "The Caverns hero deals 4 shadow damage to each Raiding hero, and 2 shadow damage to each Raiding ally. Ongoing : Raiding heroes and allies can't be healed. When a Caverns hero is defeated, destroy this ability."
+
+temp: ''
+
+type: Boss

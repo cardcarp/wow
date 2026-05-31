@@ -1,0 +1,23 @@
+card_name: Helena Demonfire
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: 'Diplomacy: Demons Opposing heroes and allies have -1 ATK / -1 health for each Demon in your party.'
+
+cost: '5'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Warlock

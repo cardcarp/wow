@@ -1,0 +1,17 @@
+card_name: Chancellor Velora
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: 2 , Flip Velora → Velora deals 1 unpreventable holy damage to target hero or ally. Use only on your turn.
+
+faction: Horde
+
+temp: Undead Priest

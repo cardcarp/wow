@@ -1,0 +1,26 @@
+card_name: Blessed Medallion of Karabor
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Remove Blessed Medallion of Karabor from the game → Move to the right of another friendly player. Use only on your turn.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '8'
+
+temp: Item Neck

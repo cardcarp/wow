@@ -1,0 +1,23 @@
+card_name: Tarn Darkwalker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Demons have Ferocity .
+
+cost: '2'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Warlock

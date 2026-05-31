@@ -1,0 +1,21 @@
+card_name: Goblin Tinker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 6
+
+text: Time is Money 1 , → This ally deals 1 fire damage to target hero or ally. 1 , → Draw a card, then choose and discard a card. 1 , → Ready another target card. 1 → Ready this ally.
+
+cost: '4'
+
+combat: Fire
+
+temp: Goblin

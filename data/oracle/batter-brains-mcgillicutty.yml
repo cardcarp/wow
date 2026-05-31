@@ -1,0 +1,23 @@
+card_name: _Batter Brains_ McGillicutty
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When this ally is destroyed, target player discards a card.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Rogue

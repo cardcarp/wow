@@ -1,0 +1,18 @@
+card_name: Earthquake
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Elemental Talent Your hero deals 2 melee damage to each ally. Then, exhaust each ally with 5 or less ATK.
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Elemental

@@ -1,0 +1,13 @@
+card_name: On Even Ground
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: The Arena deals 5 evening damage to each Warrior hero; 4 evening damage to each Death Knight and Paladin hero; 3 evening damage to each Hunter, Shaman, and Warlock hero; 2 evening damage to each Druid and Rogue hero; and 1 evening damage to each Priest hero. The Arena deals 1 evening damage to each Tauren hero.
+
+temp: ''

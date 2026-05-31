@@ -1,0 +1,17 @@
+card_name: Keward the Ravager
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 3 , Flip Keward → Opposing allies have -1 health while Keward is defending this turn.
+
+faction: Alliance
+
+temp: Dwarf Warrior

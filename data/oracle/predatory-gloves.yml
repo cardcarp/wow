@@ -1,0 +1,19 @@
+card_name: Predatory Gloves
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When Predatory Gloves enters play, target opponent discards a card and you draw a card.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '3'
+
+temp: Armor Leather

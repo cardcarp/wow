@@ -1,0 +1,26 @@
+card_name: Monstrous Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+damage: 0
+
+health: 5
+
+text: "Ongoing : When you play a Monster ally from your hand, you may search your deck for an ally with the same name as that ally and put it into play. (Totems can't attack.)"
+
+class:
+  - Shaman
+
+cost: '3'
+
+combat: Melee
+
+temp: Enhancement
+
+type: Ally

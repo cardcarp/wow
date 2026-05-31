@@ -1,0 +1,18 @@
+card_name: Spell Reflection
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: You may exhaust one of your Shields rather than pay Spell Reflection's cost. If an ability card is targeting only your hero, change its target to its controller's hero.
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Protection

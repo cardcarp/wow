@@ -1,0 +1,15 @@
+card_name: Burn Away
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target ability.
+
+cost: '3'
+
+temp: ''

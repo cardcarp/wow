@@ -1,0 +1,23 @@
+card_name: Jerrak Krandle
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: 'Protector Stash : Add an heirloom counter to target equipment you control.'
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Paladin

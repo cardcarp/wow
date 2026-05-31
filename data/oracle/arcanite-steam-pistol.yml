@@ -1,0 +1,19 @@
+card_name: Arcanite Steam-Pistol
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with Arcanite Steam-Pistol, your hero has Long-Range this combat. When a hero is dealt damage with Arcanite Steam-Pistol, if its controller went first this game, he destroys one of his resources.
+
+class:
+  - Hunter
+  - Rogue
+
+cost: '5'
+
+temp: Ranged Weapon Gun

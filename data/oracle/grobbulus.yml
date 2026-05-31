@@ -1,0 +1,19 @@
+card_name: Grobbulus
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Conspicuous , Assault 7 At the start of your turn, put a poison counter on a random raiding hero. Then Grobbulus deals 3 nature damage to each hero for each poison counter on it. When Grobbulus is destroyed, remove all poison counters from play.
+
+temp: Flesh Giant 15
+
+transform:
+  - id: ability
+    text: Conspicuous , Assault 10 At the end of your turn, Grobbulus deals 10 nature damage to each hero for each posion counter on it. When Grobbulus is destroyed, remove all poison counters from play.
+
+type: Boss

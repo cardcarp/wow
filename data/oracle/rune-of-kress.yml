@@ -1,0 +1,15 @@
+card_name: Rune of Kress
+
+layout: standard
+
+regulation:
+
+category: Misc
+
+errata: []
+
+text: "At the end of your turn, roll a die. 1: Nothing happens. 2-3: Magmadar deals 1 fire damage to each hero and ally in a party of your choice. 4-5: Magmadar deals 3 fire damage to an opposing hero or ally. 6: Each opponent puts an ally from his party into its owner's hand."
+
+temp: Magmadar Boss 2
+
+type: Raid

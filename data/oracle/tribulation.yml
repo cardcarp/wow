@@ -1,0 +1,18 @@
+card_name: Tribulation
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the start of your turn, each opponent puts a card from the top of his deck into his graveyard for each hero and ally he controls.'
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Unholy

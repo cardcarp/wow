@@ -1,0 +1,23 @@
+card_name: Kagtha
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Opposing heroes and allies lose and can't have Elusive and Untargetable .
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Rogue

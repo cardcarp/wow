@@ -1,0 +1,23 @@
+card_name: Bleakheart Hellcaller
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When this ally is destroyed, Portal .
+
+cost: '4'
+
+combat: Shadow
+
+temp: Satyr Demon Warlock
+
+type: Monster

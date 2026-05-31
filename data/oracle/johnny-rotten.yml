@@ -1,0 +1,23 @@
+card_name: Johnny Rotten
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play, he may deal 3 melee damage to target exhausted hero or ally. Shadow Resistance
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Rogue

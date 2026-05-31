@@ -1,0 +1,19 @@
+card_name: Belt of Deep Shadow
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has Stealth . If your hero would deal combat damage, it deals that much +2 instead.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '4'
+
+temp: Armor Leather

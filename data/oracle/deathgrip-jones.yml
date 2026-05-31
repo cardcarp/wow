@@ -1,0 +1,23 @@
+card_name: _Deathgrip_ Jones
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Protector Your weapons can't be targeted by opponents.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Warrior

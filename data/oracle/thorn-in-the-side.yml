@@ -1,0 +1,18 @@
+card_name: Thorn in the Side
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero. Ongoing : While attached hero can attack your hero, it can attack only your hero.'
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Protection

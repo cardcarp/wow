@@ -1,0 +1,23 @@
+card_name: Falcore
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Long-Range Shadowmeld
+
+cost: '4'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Night Elf Hunter

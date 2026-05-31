@@ -1,0 +1,23 @@
+card_name: Hungry Ghoul
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: This ally can't attack unless you remove two cards in a graveyard from the game.
+
+cost: '1'
+
+combat: Melee
+
+temp: Scourge Ghoul
+
+type: Monster

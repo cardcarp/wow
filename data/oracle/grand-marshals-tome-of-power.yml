@@ -1,0 +1,25 @@
+card_name: Grand Marshals Tome of Power
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , → Allies you control have Assault 1 while in combat with heroes this turn, or Assault 2 if in combat with heroes.
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+faction: Alliance
+
+temp: Item Off-Hand

@@ -1,0 +1,18 @@
+card_name: Poison Bomb
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Your hero deals 3 nature damage to each opposing hero and ally. Ongoing : This ability enters play with three gas counters on it. At the start of your turn, remove a gas counter from this ability. If you do, your hero deals 1 nature damage to each opposing hero and ally. Then, if no gas counters remain, destroy this ability.'
+
+class:
+  - Rogue
+
+cost: '5'
+
+temp: Assassination

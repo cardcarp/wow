@@ -1,0 +1,21 @@
+card_name: Sinestra
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: 'Ferocity On your turn: Destroy another non-token ability, ally, or equipment you control → Put two 1 / 1 Twilight Dragonkin ally tokens into play with Ferocity .'
+
+cost: '6'
+
+combat: Fire
+
+temp: Black Dragonkin Consort

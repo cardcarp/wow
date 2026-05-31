@@ -1,0 +1,18 @@
+card_name: Greater Chain Heal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target up to five heroes and/or allies. Your hero heals 5, 4, 3, 2, and 1 damage from them, respectively.
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Restoration

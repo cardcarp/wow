@@ -1,0 +1,18 @@
+card_name: Mark of Goldrinn
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : Attached ally has +5 / +5.'
+
+class:
+  - Druid
+
+cost: '5'
+
+temp: Restoration

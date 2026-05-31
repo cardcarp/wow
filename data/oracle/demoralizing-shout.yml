@@ -1,0 +1,18 @@
+card_name: Demoralizing Shout
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Opposing allies have -1 ATK.'
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Fury Shout

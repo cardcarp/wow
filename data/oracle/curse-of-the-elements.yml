@@ -1,0 +1,18 @@
+card_name: Curse of the Elements
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero. Ongoing : If attached hero would be dealt fire, frost, or nature damage, it's dealt that much +3 instead."
+
+class:
+  - Warlock
+
+cost: '7'
+
+temp: Affliction Curse

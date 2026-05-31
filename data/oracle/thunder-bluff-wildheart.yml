@@ -1,0 +1,23 @@
+card_name: Thunder Bluff Wildheart
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: 'Tribe : When this or another Tauren ally enters play under your control, this ally heals 2 damage from target hero or ally.'
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

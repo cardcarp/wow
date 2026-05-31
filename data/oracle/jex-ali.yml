@@ -1,0 +1,23 @@
+card_name: Jex_ali
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When this ally enters play, she heals 4 damage from your hero. Then, if your hero is undamaged, you may draw a card.
+
+cost: '3'
+
+combat: Holy
+
+faction: Horde
+
+temp: Troll Priest

@@ -1,0 +1,18 @@
+card_name: Stormfury, Black Blade of the Betrayer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, if this weapon has two or fewer Demonic Counters on it, add a Demonic counter. This weapon has +1 ATK and costs 1 less to strike with for each Demonic counter on it.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: 1H Weapon Dagger

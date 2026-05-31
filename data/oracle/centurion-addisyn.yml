@@ -1,0 +1,23 @@
+card_name: Centurion Addisyn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Protector As Addisyn enters play, choose arcane, fire, frost, nature, or shadow. Addisyn has the chosen resistance .
+
+cost: '1'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Paladin

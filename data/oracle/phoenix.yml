@@ -1,0 +1,26 @@
+card_name: Phoenix
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 3
+
+text: When this ally enters play, it deals 1 fire damage to each opposing hero and ally. When your hero deals fire ( ) damage while this ally is in your graveyard, you may put this ally from your graveyard into your hand.
+
+class:
+  - Mage
+
+cost: '4'
+
+combat: Fire
+
+temp: Phoenix Elemental
+
+type: Monster

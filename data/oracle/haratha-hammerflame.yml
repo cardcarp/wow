@@ -1,0 +1,23 @@
+card_name: Haratha Hammerflame
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally is destroyed, she may deal 3 fire damage to target opposing hero.
+
+cost: '2'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Dwarf Shaman

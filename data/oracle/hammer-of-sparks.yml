@@ -1,0 +1,22 @@
+card_name: Hammer of Sparks
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the end of your turn, your hero deals 2 fire damage to target hero for each ally you control with 6 or more ATK.
+
+class:
+  - Warrior
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Shaman
+
+cost: '4'
+
+temp: 1H Weapon Mace

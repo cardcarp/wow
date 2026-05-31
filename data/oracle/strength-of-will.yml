@@ -1,0 +1,15 @@
+card_name: Strength of Will
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : Attached ally has +2 / +2.'
+
+cost: '3'
+
+temp: ''

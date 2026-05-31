@@ -1,0 +1,24 @@
+card_name: Shadow
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 7
+
+text: Elusive
+
+class:
+  - Hunter
+
+cost: '6'
+
+combat: Melee
+
+temp: Panther

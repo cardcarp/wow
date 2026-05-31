@@ -1,0 +1,18 @@
+card_name: Tormenting Gouge
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Exhaust each opposing ally with cost 4 or less.
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Combat

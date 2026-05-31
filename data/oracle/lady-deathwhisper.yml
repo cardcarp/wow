@@ -1,0 +1,23 @@
+card_name: Lady Deathwhisper
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 6
+
+text: 'Frostbolt Volley : When Lady Deathwhisper enters play, she deals 2 frost damage to each opposing hero and ally.'
+
+cost: '4'
+
+combat: Frost
+
+temp: Lich
+
+type: Raid

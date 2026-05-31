@@ -1,0 +1,23 @@
+card_name: Sylvanas, Queen of the Forsaken
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: When Sylvanas enters play, you may remove and number of allies in your graveyard from the game. If you do, put a 1 / 1 Skeleton ally token into play for each ally removed this way. Sylvanas has Assault 1 for each Skeleton ally you control.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Hunter

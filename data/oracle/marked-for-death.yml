@@ -1,0 +1,15 @@
+card_name: Marked for Death
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Dungeon allies have +2 ATK and Long-Range this turn.
+
+temp: ''
+
+type: Dungeon

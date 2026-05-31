@@ -1,0 +1,21 @@
+card_name: Wyrmrest Protector
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Allies you control have "When this ally deals damage to an opposing hero, this ally also heals that much damage from your hero."
+
+cost: '6'
+
+combat: Fire
+
+temp: Red Dragonkin

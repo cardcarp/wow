@@ -1,0 +1,18 @@
+card_name: Blessing of the Righteous
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally you control. Ongoing : Attached ally has +3 / +3 and Protector . When attached ally is destroyed, it heals 6 damage from your hero.'
+
+class:
+  - Paladin
+
+cost: '3'
+
+temp: Protection Blessing

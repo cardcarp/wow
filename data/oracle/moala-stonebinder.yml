@@ -1,0 +1,17 @@
+card_name: Moala Stonebinder
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Moala Stonebinder → Your weapons can't be destroyed this turn.
+
+faction: Alliance
+
+temp: Draenei Shaman

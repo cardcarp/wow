@@ -1,0 +1,21 @@
+card_name: Vindicator Trytan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: 'Aldor Reputation Protector Inspire: Armor'
+
+cost: '2'
+
+combat: Melee
+
+temp: Draenei Warrior

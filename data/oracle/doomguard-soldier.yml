@@ -1,0 +1,23 @@
+card_name: Doomguard Soldier
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: This ally has Assault 3 while you control another Demon.
+
+cost: '4'
+
+combat: Shadow
+
+temp: Doomguard Demon
+
+type: Monster

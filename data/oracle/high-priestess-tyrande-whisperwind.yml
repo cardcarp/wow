@@ -1,0 +1,23 @@
+card_name: High Priestess Tyrande Whisperwind
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: When a Night Elf in your party is destroyed, put a Wisp ally token with 0 ATK and 1 health into play. 1 , Destroy a Wisp in your party → That Wisp deals 1 nature damage to each opposing hero and ally.
+
+cost: '5'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Night Elf Priest

@@ -1,0 +1,21 @@
+card_name: Zombie Chow
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: 'Any raider: Exhaust a Death Knight, Hunter, Paladin, Shaman, or Warrior you control → Exhaust this ally.'
+
+combat: Melee
+
+temp: Zombie
+
+type: Ally

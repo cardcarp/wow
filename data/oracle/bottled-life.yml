@@ -1,0 +1,27 @@
+card_name: Bottled Life
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'When this item enters play, put a 1 / 1 Treant ally token into play. On your turn: Exhaust a Druid hero or ally you control and destroy this item → Put a 1 / 1 Treant ally token into play.'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item Potion

@@ -1,0 +1,18 @@
+card_name: Merciless Gladiators Battlegear
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If your hero would deal damage with a weapon, it deals double that much instead. → Exhaust target hero or ally, and your hero deals 1 melee damage to it.
+
+class:
+  - Warrior
+
+cost: '8'
+
+temp: Arena Armor Set Plate

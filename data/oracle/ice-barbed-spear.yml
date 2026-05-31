@@ -1,0 +1,20 @@
+card_name: Ice Barbed Spear
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Each opponent can't draw cards unless he pays 1 for each card.
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+
+cost: '5'
+
+temp: 2H Weapon Polearm

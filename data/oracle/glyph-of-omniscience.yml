@@ -1,0 +1,27 @@
+card_name: Glyph of Omniscience
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Reveal the top card of your deck. You may draw that card. If you do, destroy this item.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item

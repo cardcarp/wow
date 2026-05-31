@@ -1,0 +1,18 @@
+card_name: Convalescence
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero heals all damage from target ally. You may destroy an ability attached to that ally.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Holy

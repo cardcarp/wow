@@ -1,0 +1,23 @@
+card_name: Fianna Spellbinder
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: 1 , Remove Fianna Spellbinder from the game → Players can't draw cards this turn.
+
+cost: '3'
+
+combat: Frost
+
+faction: Horde
+
+temp: Blood Elf Mage

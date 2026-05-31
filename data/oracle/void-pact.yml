@@ -1,0 +1,18 @@
+card_name: Void Pact
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Draw a card for each opposing ally that left play this turn.
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Destruction

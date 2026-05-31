@@ -1,0 +1,23 @@
+card_name: Goblin Sapper
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When this ally deals combat damage to a defending hero, you may destroy this ally. If you do, destroy target resource.
+
+cost: '3'
+
+combat: Fire
+
+faction: Horde
+
+temp: Goblin Demolitionist

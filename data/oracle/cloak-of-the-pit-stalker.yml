@@ -1,0 +1,22 @@
+card_name: Cloak of the Pit Stalker
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Target attacker has -1 health this turn.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Shaman
+
+cost: '2'
+
+temp: Armor Cloth

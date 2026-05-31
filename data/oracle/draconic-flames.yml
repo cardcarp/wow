@@ -1,0 +1,18 @@
+card_name: Draconic Flames
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target a hero or ally, and you may target an additional character for each Dragonkin you control. Your hero deals 5 fire damage to each target.
+
+class:
+  - Mage
+
+cost: '5'
+
+temp: Fire

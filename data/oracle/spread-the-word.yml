@@ -1,0 +1,18 @@
+card_name: Spread the Word
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : Damage dealt by friendly heroes can't be prevented."
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Holy

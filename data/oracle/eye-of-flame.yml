@@ -1,0 +1,19 @@
+card_name: Eye of Flame
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , Exhaust your hero → If your hero has dealt fire damage this turn, it deals 1 fire damage to target hero or ally.
+
+class:
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: Armor Cloth

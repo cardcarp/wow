@@ -1,0 +1,18 @@
+card_name: Lobotomize
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target resource. If your hero is stealthed, put the top card of your deck into your resource row face down and exhausted.
+
+class:
+  - Rogue
+
+cost: '5'
+
+temp: Combat

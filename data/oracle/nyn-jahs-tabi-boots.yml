@@ -1,0 +1,19 @@
+card_name: Nyn_jahs Tabi Boots
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Other players can't use payment (→) powers during your turn. You can use the payment powers of any cards in play during your turn (including opposing cards) .
+
+class:
+  - Druid
+  - Rogue
+
+cost: '6'
+
+temp: Armor Leather

@@ -1,0 +1,18 @@
+card_name: Moonfire
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Attach to target hero or ally, and your hero deals 1 arcane damage to it. Ongoing : At the start of your turn, if Moonfire is in play, your hero deals 1 arcane damage to attached character. 1 → Put Moonfire into its owner's hand."
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Balance

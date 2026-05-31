@@ -1,0 +1,18 @@
+card_name: Ferocious Cat Form
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Your hero has Assault 1 for each Monster hero and ally you control.'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Feral Cat Form

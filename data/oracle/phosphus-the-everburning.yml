@@ -1,0 +1,17 @@
+card_name: Phosphus the Everburning
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: '4 , Flip Phosphus → Choose one: Phosphus deals 4 fire damage to target ally; or Phosphus deals 2 fire damage to each of two target allies. Use only on your turn.'
+
+faction: Horde
+
+temp: Undead Mage

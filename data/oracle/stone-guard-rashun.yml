@@ -1,0 +1,23 @@
+card_name: Stone Guard Rashun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Tauren Hero Required When an opposing ally enters play, exhaust it.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Shaman

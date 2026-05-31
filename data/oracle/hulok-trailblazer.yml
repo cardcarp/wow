@@ -1,0 +1,23 @@
+card_name: Hulok Trailblazer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When you place a quest, Hulok deals 1 arcane damage to target hero or ally.
+
+cost: '2'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Tauren Druid

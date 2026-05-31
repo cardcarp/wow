@@ -1,0 +1,23 @@
+card_name: Nethermaven Donna Chastain
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 6
+
+text: Assault 3
+
+cost: '5'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Warlock

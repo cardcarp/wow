@@ -1,0 +1,17 @@
+card_name: Zumix of Kezan
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 'On your turn: 4 , Flip Zumix → Draw two cards.'
+
+faction: Horde
+
+temp: Goblin Mage

@@ -1,0 +1,27 @@
+card_name: Oracle Talisman of Ablution
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Allies you control that share a class with your hero have Assault 1 .
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item Trinket

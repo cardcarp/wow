@@ -1,0 +1,23 @@
+card_name: High Chieftain Baine Bloodhoof
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 7
+
+text: Protector Prevent all damage that would be dealt to this ally while you control another ally.
+
+cost: '7'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren High Chieftain

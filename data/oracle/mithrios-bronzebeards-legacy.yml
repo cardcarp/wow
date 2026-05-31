@@ -1,0 +1,20 @@
+card_name: Mithrios, Bronzebeards Legacy
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Dwarves you control have Protector . At the end of each turn, put a 1 / 1 Dwarf Warrior ally token into play.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '7'
+
+temp: 1H Weapon Mace

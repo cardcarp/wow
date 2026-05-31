@@ -1,0 +1,23 @@
+card_name: Urn of Lost Memories
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn: , Destroy an ability or equipment you control with cost X → Put target ally with cost X or less from your graveyard into play.'
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Off-Hand

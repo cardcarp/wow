@@ -1,0 +1,18 @@
+card_name: Stormrage Cover
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , → Draw a card, then discard a card. When you play a ability, ready Stormrage Cover.
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Armor Leather

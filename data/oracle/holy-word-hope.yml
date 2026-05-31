@@ -1,0 +1,18 @@
+card_name: Holy Word_ Hope
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +3 . When attached ally is dealt damage while defending, your hero heals 3 damage from itself.'
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Holy Attachment

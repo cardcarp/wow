@@ -1,0 +1,18 @@
+card_name: Bad Seed
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target ally and exhaust it. Ongoing : The first time attached ally would ready during each of its controller’s ready steps, it doesn’t instead. At the start of attached ally's controller, he may pay 1 for each Ongoing ability you control. If he does, he readies attached ally."
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Balance Attachment

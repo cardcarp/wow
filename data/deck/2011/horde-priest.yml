@@ -1,0 +1,56 @@
+name: Horde Priest
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Horde
+  - Starter
+  - '2011'
+
+collection: '2011'
+
+highlight: starter-2011-horde-priest-001
+
+description: 2011 Horde Priest Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2011 Horde Priest
+
+total: 61
+
+list:
+  hero:
+    starter-2011-horde-priest-001: 1  # Teretha of the Undercity
+  main:
+    starter-2011-horde-priest-002: 2  # Chasten
+    starter-2011-horde-priest-003: 1 # Dark Extortion
+    starter-2011-horde-priest-004: 2 # Expel
+    starter-2011-horde-priest-005: 2 # Favor of Spirit
+    starter-2011-horde-priest-006: 2 # Flash Heal
+    starter-2011-horde-priest-007: 1 # Mind Melt
+    starter-2011-horde-priest-008: 2 # Mind Spike
+    starter-2011-horde-priest-009: 2 # Power Word_ Vigor
+    starter-2011-horde-priest-010: 1 # Prayer of Fortitude
+    starter-2011-horde-priest-011: 2 # Alecia Hall
+    starter-2011-horde-priest-012: 2 # Burom Bladeseer
+    starter-2011-horde-priest-013: 2 # Falixia Frizzleblast
+    starter-2011-horde-priest-014: 2 # Karkas Deathhowl
+    starter-2011-horde-priest-015: 2 # Kuatha Mornhoof
+    starter-2011-horde-priest-016: 3 # Nikka Blastbor
+    starter-2011-horde-priest-017: 2 # Oruk Starstorm
+    starter-2011-horde-priest-018: 2 # Ra_chee
+    starter-2011-horde-priest-019: 2 # Raztu_jor
+    starter-2011-horde-priest-020: 2 # Vesh_ral
+    starter-2011-horde-priest-021: 2 # Waz_luk
+    starter-2011-horde-priest-022: 2 # Yazli Earthspark
+    starter-2011-horde-priest-023: 2 # Zulbraka
+    starter-2011-horde-priest-024: 1 # Crimson Shocker
+    starter-2011-horde-priest-025: 3 # The Ichor of Undeath
+    starter-2011-horde-priest-026: 2 # A Bird in Hand
+    starter-2011-horde-priest-027: 2 # Entrenched
+    starter-2011-horde-priest-028: 4 # The Essence of Enmity
+    starter-2011-horde-priest-029: 4 # The Key to Freedom
+    starter-2011-horde-priest-030: 2 # Mystery Goo

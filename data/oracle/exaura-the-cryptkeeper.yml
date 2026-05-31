@@ -1,0 +1,17 @@
+card_name: Exaura the Cryptkeeper
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 2 , Flip Exaura → Remove two target ally cards in one graveyard from the game. Draw a card. Use only on your turn.
+
+faction: Horde
+
+temp: Undead Mage

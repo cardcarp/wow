@@ -1,0 +1,18 @@
+card_name: Faithful Heal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target up to two allies you control. Your hero heals damage from itself equal to their combined ATK.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Holy

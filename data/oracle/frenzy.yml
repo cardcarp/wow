@@ -1,0 +1,18 @@
+card_name: Frenzy
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : → Target ally you control has Assault 1 this turn.'
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Blood

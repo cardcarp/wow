@@ -1,0 +1,19 @@
+card_name: Boots of the Renewed Flight
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor prevents damage, you may pay 4 . If you do, draw a card.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '1'
+
+temp: Armor Mail

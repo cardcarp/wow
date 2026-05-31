@@ -1,0 +1,18 @@
+card_name: Reload
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Ready your hero and one of your Ranged weapons. If you ready a weapon this way, you pay 10 less the next time you strike with it this turn.
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Marksmanship

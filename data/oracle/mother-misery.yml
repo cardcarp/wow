@@ -1,0 +1,19 @@
+card_name: Mother Misery
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: Sextuple Wield
+
+temp: Shivan Demon
+
+transform:
+  - id: ability
+    text: "Sextuple Wield Deckbuilding: You can include only neutral quests and any Melee weapons. You can't include cards with reputation or text restrictions (like Fire Hero Required ) ."

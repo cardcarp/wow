@@ -1,0 +1,18 @@
+card_name: Raging Stance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : Your hero has Two-Handed Dual-Wield . (Your hero has Dual Wield . One or both weapons you control can be Two-Handed. You can control a Two-Handed weapon and an Off-Hand equipment.) You can't complete quests or play abilities, allies, armor, or items. You pay 2 less to strike with weapons. 4 , → Ready your hero and all weapons you control."
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Fury

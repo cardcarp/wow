@@ -1,0 +1,24 @@
+card_name: Jek_kresh
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: 'Protector , Shadow Resistance Death Rattle : Target ally you control has Shadow Resistance this turn.'
+
+class:
+  - Warlock
+
+cost: '3'
+
+combat: Melee
+
+temp: Voidwalker Demon

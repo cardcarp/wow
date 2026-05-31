@@ -1,0 +1,23 @@
+card_name: Wasteland Tallstrider
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Ferocity When this ally attacks, you may reveal the top card of your deck. If you revealed a quest or location this way, this and other allies you control have +2 ATK and Ferocity this turn.
+
+cost: '5'
+
+combat: Melee
+
+temp: Tallstrider
+
+type: Monster

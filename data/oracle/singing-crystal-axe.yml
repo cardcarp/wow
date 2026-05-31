@@ -1,0 +1,19 @@
+card_name: Singing Crystal Axe
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Singing Crystal Axe enters play with four slow counters. You pay 1 more to strike with Singing Crystal Axe for each slow counter. When you strike with Singing Crystal Axe, remove a slow counter.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '3'
+
+temp: 2H Weapon Axe

@@ -1,0 +1,21 @@
+card_name: Watcher Mal_wi
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When an opposing ally enters play, Watcher Mal'wi deals 1 ranged damage to it.
+
+cost: '4'
+
+faction: Horde
+
+temp: Troll Hunter

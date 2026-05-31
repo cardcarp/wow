@@ -1,0 +1,29 @@
+card_name: Darnassus Tabard
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 3 → Target ally has +2 ATK this turn. You pay 1 less to use this power for each Night Elf ally you control.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+faction: Alliance
+
+temp: Item Tabard

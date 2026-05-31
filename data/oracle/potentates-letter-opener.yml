@@ -1,0 +1,22 @@
+card_name: Potentates Letter Opener
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn: 2 , , Exhaust your hero → Your hero deals 2 fire damage to target hero or ally.'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: 1H Weapon Dagger

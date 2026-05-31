@@ -1,0 +1,19 @@
+card_name: Vigil of the Light
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Put target ally from your graveyard into play. If you do, attach this ability to it. Ongoing : At the start of each turn, your hero heals all damage from attached ally.'
+
+class:
+  - Paladin
+  - Priest
+
+cost: '6'
+
+temp: Holy

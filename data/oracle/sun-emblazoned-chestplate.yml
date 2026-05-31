@@ -1,0 +1,20 @@
+card_name: Sun-Emblazoned Chestplate
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor prevents damage that would be dealt by an attacker, your hero deals that much unpreventable holy damage to that attacker.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '5'
+
+temp: Armor Plate

@@ -1,0 +1,20 @@
+card_name: Crescent Wand
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'If you have 100 or more cards in your deck: 3 , → Put a 10 / 10 Echo of Tyrande Monster ally token into play.'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Ranged Weapon Wand

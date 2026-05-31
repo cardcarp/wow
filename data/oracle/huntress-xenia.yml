@@ -1,0 +1,23 @@
+card_name: Huntress Xenia
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 1
+
+text: Inspiring Presence At the start of each opponent's turn, target ally is a Protector this turn.
+
+cost: '3'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Draenei Hunter

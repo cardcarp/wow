@@ -1,0 +1,23 @@
+card_name: Torkar the Bloodsworn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: Protector When your hero is dealt combat damage, destroy this ally.
+
+cost: '3'
+
+combat: Frost
+
+faction: Horde
+
+temp: Orc Death Knight

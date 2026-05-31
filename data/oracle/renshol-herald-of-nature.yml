@@ -1,0 +1,23 @@
+card_name: Renshol, Herald of Nature
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: 'Empower Druid : When this ally enters play, if you control another Druid hero or ally, this ally heals 3 damage from target friendly hero or ally. Then put a 1 / 1 Treant ally token into play for each damage healed this way.'
+
+cost: '6'
+
+combat: Nature
+
+temp: Keeper of the Grove Druid
+
+type: Monster

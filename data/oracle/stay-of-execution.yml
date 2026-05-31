@@ -1,0 +1,15 @@
+card_name: Stay of Execution
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Each Raider destroys an ally he controls. Ongoing : 7 → Destroy this ability. Any Raider may use this power. When this ability is destroyed, each Raider may put an ally from his graveyard into play under his control.'
+
+temp: ''
+
+type: Dungeon

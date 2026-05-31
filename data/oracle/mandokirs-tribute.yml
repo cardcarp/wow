@@ -1,0 +1,18 @@
+card_name: Mandokirs Tribute
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Long-Range This weapon has +3 ATK for each Pet you control.
+
+class:
+  - Hunter
+
+cost: '6'
+
+temp: Ranged Weapon Bow

@@ -1,0 +1,23 @@
+card_name: Soggypaw
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: This ally has Ferocity and Assault 2 while there are no ready opposing allies.
+
+cost: '4'
+
+combat: Melee
+
+temp: Gnoll Rogue
+
+type: Monster

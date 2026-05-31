@@ -1,0 +1,20 @@
+card_name: Crimson Cranium Crusher
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When an opposing resource turns face down, you may draw a card.
+
+class:
+  - Paladin
+  - Shaman
+  - Rogue
+
+cost: '4'
+
+temp: 1H Weapon Mace

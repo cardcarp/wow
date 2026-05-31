@@ -1,0 +1,27 @@
+card_name: Shroud of Cooperation
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'As this armor enters play, choose a class. On your turn: 2 , → Put a 1 / 1 ally token of the chosen class into play.'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Armor Cloth

@@ -1,0 +1,23 @@
+card_name: Tortolla
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 13
+
+text: Monster Hero Required Protector Other Monster heroes and allies you control have Spellshield .
+
+cost: '6'
+
+combat: Melee
+
+temp: Turtle Beast Demigod
+
+type: Monster

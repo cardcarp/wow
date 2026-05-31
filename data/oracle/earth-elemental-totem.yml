@@ -1,0 +1,18 @@
+card_name: Earth Elemental Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : When Earth Elemental Totem enters play, put an Earth Elemental ally token into play with 2 ATK / 2 health, and Protector . (Totems can be attacked or targeted like allies.)'
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Enhancement 1

@@ -1,0 +1,17 @@
+card_name: Daspien Bladedancer
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 5 , Flip Daspien Bladedancer → Daspien deals X melee damage to target hero or ally, where X is the combined ATK of your Melee weapons.
+
+faction: Horde
+
+temp: Blood Elf Rogue

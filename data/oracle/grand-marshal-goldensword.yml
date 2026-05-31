@@ -1,0 +1,17 @@
+card_name: Grand Marshal Goldensword
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 'On your turn: 5 , Flip Goldensword → Target ally deals holy damage to itself equal to its ATK.'
+
+faction: Alliance
+
+temp: Human Paladin

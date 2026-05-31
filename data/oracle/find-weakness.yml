@@ -1,0 +1,18 @@
+card_name: Find Weakness
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Assassination Hero Required Ongoing : When you remove one or more Combo cards from your graveyard to play a Finishing Move, your hero deals that much melee damage to target hero or ally.'
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Assassination Talent

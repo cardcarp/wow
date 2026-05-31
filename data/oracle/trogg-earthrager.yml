@@ -1,0 +1,23 @@
+card_name: Trogg Earthrager
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: When this ally enters play, target Monster hero or ally has Assault 1 this turn for this and each other Monster hero and ally you control.
+
+cost: '5'
+
+combat: Melee
+
+temp: Trogg Shaman
+
+type: Monster

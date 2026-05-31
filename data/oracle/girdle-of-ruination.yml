@@ -1,0 +1,20 @@
+card_name: Girdle of Ruination
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, destroy the ability, ally, or equipment with the lowest cost. If two or more are tied, destroy all with that cost.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '6'
+
+temp: Armor Cloth

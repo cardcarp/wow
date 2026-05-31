@@ -1,0 +1,13 @@
+card_name: Verbal Assault
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Your hero may deal X alphabet damage to target ally, where X is the number of words in the names of cards in play you control.
+
+temp: ''

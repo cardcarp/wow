@@ -1,0 +1,19 @@
+card_name: Eredar Wand of Obliteration
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals shadow ( ) damage to an opponent's hero, you may destroy an ability, ally, or equipment you control. If you do, that opponent destroys an ability, ally, or equipment he controls.
+
+class:
+  - Priest
+  - Warlock
+
+cost: '4'
+
+temp: Ranged Weapon Wand

@@ -1,0 +1,20 @@
+card_name: Amice of Brilliant Light
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, your hero heals 1 damage from itself.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: Armor Cloth

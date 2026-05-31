@@ -1,0 +1,17 @@
+card_name: Dizdemona
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 3 , Flip Dizdemona, put X damage on her → Dizdemona deals X shadow damage to target ally. Use only on your turn.
+
+faction: Alliance
+
+temp: Gnome Warlock

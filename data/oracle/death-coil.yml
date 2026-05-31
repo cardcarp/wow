@@ -1,0 +1,18 @@
+card_name: Death Coil
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 3 shadow damage to target hero or ally. Ready a Ghoul in your party.
+
+class:
+  - Death Knight
+
+cost: '3'
+
+temp: Unholy

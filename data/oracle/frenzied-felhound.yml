@@ -1,0 +1,23 @@
+card_name: Frenzied Felhound
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this ally enters play, it may deal 1 shadow damage to target ally.
+
+cost: '3'
+
+combat: Shadow
+
+temp: Felhunter Demon
+
+type: Monster

@@ -1,0 +1,23 @@
+card_name: Mojo Mistress Zurania
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Mend 2
+
+cost: '3'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Troll Priest

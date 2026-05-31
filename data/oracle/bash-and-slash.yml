@@ -1,0 +1,15 @@
+card_name: Bash and Slash
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Empower Rogue : If you control a Rogue hero or ally, target ally has +3 ATK and Stealth this turn. Empower Warrior : If you control a Warrior hero or ally, if target ally would deal combat damage this turn, it deals double that much instead.'
+
+cost: '4'
+
+temp: ''

@@ -1,0 +1,23 @@
+card_name: Furan Rookbane
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 5
+
+text: When this ally enters play, reveal the top card of your deck. You may place it into your resource row exhausted as an additional resource.
+
+cost: '6'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Night Elf Druid

@@ -1,0 +1,18 @@
+card_name: Sprint
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : → Choose one: Ready your hero; or if your hero is defending, remove all attacking allies from combat.'
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: Combat

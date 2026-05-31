@@ -1,0 +1,15 @@
+card_name: Sen_jin Village
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: Troll Hero Required At the start of your turn, choose a Troll in your party, and it may heal 1 damage from itself.
+
+faction: Horde
+
+temp: City

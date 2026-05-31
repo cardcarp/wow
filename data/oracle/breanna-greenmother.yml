@@ -1,0 +1,23 @@
+card_name: Breanna Greenmother
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: Allies in your party can use activated ( ) powers from the turn they enter your party.
+
+cost: '6'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Night Elf Druid

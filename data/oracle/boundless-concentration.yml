@@ -1,0 +1,19 @@
+card_name: Boundless Concentration
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Ready up to X resources you control, where X is the cost of target non-hero Hunter or Mage you control.
+
+class:
+  - Hunter
+  - Mage
+
+cost: '1'
+
+temp: Beast Mastery Arcane

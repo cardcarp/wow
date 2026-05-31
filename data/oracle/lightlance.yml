@@ -1,0 +1,18 @@
+card_name: Lightlance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 1 unpreventable holy damage to target hero or ally, or 5 if your hero is undamaged.
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Holy

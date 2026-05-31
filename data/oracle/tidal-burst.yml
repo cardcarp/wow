@@ -1,0 +1,18 @@
+card_name: Tidal Burst
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Traitor Hero Required Your hero deals 3 frost damage to target opposing ally and each other opposing ally with the same cost as that ally.
+
+class:
+  - Mage
+
+cost: '1'
+
+temp: Traitor

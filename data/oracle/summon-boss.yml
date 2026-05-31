@@ -1,0 +1,15 @@
+card_name: Summon Boss
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Reveal cards from the top of the Deathwing deck until you reveal a Boss. Put that ally into play, then shuffle the remaining cards into the Deathwing deck.
+
+temp: ''
+
+type: Boss

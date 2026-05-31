@@ -1,0 +1,15 @@
+card_name: Flame Crash
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: 'Choose a number greater than 0, and destroy all opposing cards in play with that cost. Ongoing : At the start of your turn, if you control five Betrayer events, The Betrayer deals 20 fire damage to each opposing hero.'
+
+temp: ''
+
+stage: 3

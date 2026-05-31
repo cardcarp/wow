@@ -1,0 +1,24 @@
+card_name: Khorium Boar
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Jewelcrafting Hero Required Weapons you control have +1 ATK. Death Rattle : Put a 1 / 1 Boar ally token into play.'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Shaman
+
+cost: '1'
+
+temp: Item Trinket

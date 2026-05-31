@@ -1,0 +1,21 @@
+card_name: Sister of Pleasure
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Traitor Hero Required Protector When Sister of Pleasure defends, she heals 1 damage from target hero or ally.
+
+cost: '1'
+
+combat: Holy
+
+temp: Demon Traitor

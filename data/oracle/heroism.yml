@@ -1,0 +1,20 @@
+card_name: Heroism
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Alliance Hero Required Heroes and allies in your party have +2 ATK while attacking allies this turn.
+
+class:
+  - Shaman
+
+cost: '2'
+
+faction: Alliance
+
+temp: Enhancement

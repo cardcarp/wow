@@ -1,0 +1,23 @@
+card_name: Trista, Herald of the Fel
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 2
+
+text: 'Empower Warlock : When this ally enters play, if you control another Warlock hero or ally, search your deck for a Pet or Demon ally, reveal it, and put it into your hand.'
+
+cost: '4'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Worgen Warlock

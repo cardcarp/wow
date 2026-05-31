@@ -1,0 +1,23 @@
+card_name: _Quickhands_ Spigotgulp
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Protector If you would draw a card, you may skip drawing it instead. When you skip drawing a card this way, opposing allies have -1 ATK / -1 health this turn.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Warrior

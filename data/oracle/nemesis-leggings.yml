@@ -1,0 +1,18 @@
+card_name: Nemesis Leggings
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play a ability, you may pay 1 . If you do, your hero deals 1 shadow damage to target opposing hero for each ability attached to that hero.
+
+class:
+  - Warlock
+
+cost: '5'
+
+temp: Armor Cloth

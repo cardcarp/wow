@@ -1,0 +1,18 @@
+card_name: Pick Pocket
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Name a card, and then target opponent reveals his hand and discards all cards with that name.
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Subtlety

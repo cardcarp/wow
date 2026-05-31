@@ -1,0 +1,18 @@
+card_name: Psychic Scream
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Each opponent puts three allies from his party into their owners' hands.
+
+class:
+  - Priest
+
+cost: '6'
+
+temp: Shadow

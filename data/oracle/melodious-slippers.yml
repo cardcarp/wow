@@ -1,0 +1,20 @@
+card_name: Melodious Slippers
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the end of each turn, if you played two or more abilities this turn, draw a card.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Armor Cloth

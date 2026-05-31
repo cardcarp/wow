@@ -1,0 +1,17 @@
+card_name: Premature Departure
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: The raid leader destroys a raiding ability, ally, and equipment.
+
+temp: ''
+
+type: Raid
+
+stage: 13

@@ -1,0 +1,21 @@
+card_name: Erunak Stonespeaker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: 'When Erunak enters play, put a 0 / 2 Air, Earth, Fire, or Water Totem token into play. Exhaust a totem you control → Air: Ready Erunak. Earth: Erunak has Protector this turn. Fire: Erunak has +5 ATK this turn. Water: Erunak heals 5 damage from himself.'
+
+cost: '5'
+
+combat: Fire
+
+temp: Broken Shaman

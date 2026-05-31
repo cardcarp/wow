@@ -1,0 +1,23 @@
+card_name: Gurzuk
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Ferocity
+
+cost: '3'
+
+combat: Fire
+
+faction: Horde
+
+temp: Orc Shaman

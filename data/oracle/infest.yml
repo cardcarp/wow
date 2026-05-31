@@ -1,0 +1,17 @@
+card_name: Infest
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: The Lich King deals 3 shadow damage to target ally. When that ally is destroyed this turn, its controller discards a card.
+
+cost: '1'
+
+temp: ''
+
+type: Boss

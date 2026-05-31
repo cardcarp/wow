@@ -1,0 +1,21 @@
+card_name: Bearlady Brala
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When Brala enters play, make up a name. At the start of your turn, put a unique Bear ally token with that name and 1 ATK / 1 health into play.
+
+cost: '1'
+
+faction: Alliance
+
+temp: Dwarf Hunter

@@ -1,0 +1,21 @@
+card_name: Battlemage Vyara
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: Scryer Reputation You may exhaust Vyara rather than pay the cost of an ability with cost 7 or less, or a weapon's strike cost of 7 or less.
+
+cost: '7'
+
+combat: Melee
+
+temp: Blood Elf Battlemage

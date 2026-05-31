@@ -1,0 +1,21 @@
+card_name: Warmaster Blackhorn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 14
+
+text: "Boss When Blackhorn enters play, each Raider chooses an ability, ally, or equipment he controls and puts it on top of its owner's deck. Disrupting Roar (Deathwing Stages 2+) : At the start of Deathwing's turn, randomly choose \"ability,\" \"ally,\" or \"equipment.\" Raiders can't play cards of the chosen type until the start of Deathwing's next turn."
+
+combat: Melee
+
+temp: Tauren Warrior
+
+type: Boss

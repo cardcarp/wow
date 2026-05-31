@@ -1,0 +1,23 @@
+card_name: Jack Coor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: 1 , Discard a card → Jack deals 1 fire damage to each ally.
+
+cost: '3'
+
+combat: Fire
+
+faction: Horde
+
+temp: Undead Mage

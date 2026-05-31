@@ -1,0 +1,23 @@
+card_name: Instructor Antheol
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: 1 → This turn, target ally can't attack or protect, loses and can't have powers, and is a Boar. Use only once per turn.
+
+cost: '5'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Blood Elf Mage

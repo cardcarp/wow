@@ -1,0 +1,18 @@
+card_name: Seal of Purity
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : Weapons you control have Assault 1 . When your hero deals combat damage with a weapon, you may destroy target ability that's attached to a friendly card."
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Holy

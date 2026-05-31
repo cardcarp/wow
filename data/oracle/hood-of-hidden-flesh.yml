@@ -1,0 +1,20 @@
+card_name: Hood of Hidden Flesh
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'When this armor enters play, look at the top three cards of your deck. Remove one from the game face down and put the rest on the bottom of your deck. If you control seven or more resources: → Put the card you removed this way into your hand.'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '1'
+
+temp: Armor Cloth

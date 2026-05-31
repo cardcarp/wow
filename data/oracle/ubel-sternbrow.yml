@@ -1,0 +1,23 @@
+card_name: Ubel Sternbrow
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 6
+
+text: Protector Ubel Sternbrow can protect himself.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Paladin

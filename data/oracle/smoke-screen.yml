@@ -1,0 +1,18 @@
+card_name: Smoke Screen
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero has Elusive and Spellshield this turn.
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Subtlety

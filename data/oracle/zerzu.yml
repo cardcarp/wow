@@ -1,0 +1,23 @@
+card_name: Zerzu
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When this ally enters play, she heals all damage from allies you control.
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Troll Druid

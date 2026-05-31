@@ -1,0 +1,22 @@
+card_name: Seers Signet
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Scryer Reputation Your hero has " Sabotage: Ability or equipment ." When your hero sabotages a card, destroy it.'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '6'
+
+temp: Item Ring

@@ -1,0 +1,23 @@
+card_name: Bloodwatcher Denissa
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When an opposing ally enters play, Denissa deals 1 ranged damage to it.
+
+cost: '2'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Blood Elf Hunter

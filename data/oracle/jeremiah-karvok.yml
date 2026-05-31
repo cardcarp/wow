@@ -1,0 +1,17 @@
+card_name: Jeremiah Karvok
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: Flip Jeremiah, discard a Warlock → When you next play an ability this turn, exhaust all opposing heroes and allies.
+
+faction: Horde
+
+temp: Undead Warlock

@@ -1,0 +1,23 @@
+card_name: Gareth Ironshot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: Long-Range
+
+cost: '5'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Dwarf Hunter

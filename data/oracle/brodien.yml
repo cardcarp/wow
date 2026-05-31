@@ -1,0 +1,23 @@
+card_name: Brodien
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: As Brodien enters play, choose whether he is Elusive or Untargetable .
+
+cost: '4'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Gnome Mage

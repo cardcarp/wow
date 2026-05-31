@@ -1,0 +1,27 @@
+card_name: Landros Hitching Post
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You can control any number of Mounts.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item

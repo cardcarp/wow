@@ -1,0 +1,23 @@
+card_name: Boki Earthgaze
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 2
+
+text: Ferocity
+
+cost: '6'
+
+combat: Nature
+
+faction: Horde
+
+temp: Orc Shaman

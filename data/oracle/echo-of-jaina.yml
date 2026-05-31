@@ -1,0 +1,23 @@
+card_name: Echo of Jaina
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: 'Elusive If there is an Echo of Jaina in your graveyard: → You pay 2 less to play your next ability, ally, or equipment this turn.'
+
+cost: '3'
+
+combat: Frost
+
+temp: Human Echo
+
+type: Monster

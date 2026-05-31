@@ -1,0 +1,23 @@
+card_name: Plague Eruptor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Scourge Hero Required When this ally is dealt non-fatal damage, destroy it. If you do, it deals that much nature damage to each opposing hero and ally.
+
+cost: '3'
+
+combat: Nature
+
+temp: Zombie
+
+type: Raid

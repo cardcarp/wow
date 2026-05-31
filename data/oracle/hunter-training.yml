@@ -1,0 +1,18 @@
+card_name: Hunter Training
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target friendly ally. Ongoing : When an opposing ally enters play, attached ally deals 1 ranged damage to it.'
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Marksmanship

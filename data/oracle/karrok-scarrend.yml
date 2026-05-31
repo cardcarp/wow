@@ -1,0 +1,21 @@
+card_name: Karrok Scarrend
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

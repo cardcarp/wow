@@ -1,0 +1,19 @@
+card_name: Ar_tors Mainstay
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals damage with an ability, you may ready one of your resources.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '4'
+
+temp: Armor Mail

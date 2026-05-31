@@ -1,0 +1,18 @@
+card_name: Vanish
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Your hero is Elusive this turn. If it's defending, remove all attackers from combat. Ongoing : Your hero has Stealth . When your hero deals damage, destroy Vanish."
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Subtlety

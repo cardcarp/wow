@@ -1,0 +1,21 @@
+card_name: Death Knight Understudy
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 1
+
+health: 15
+
+text: 'Any raider: Exhaust a non-token ally you control → Gain control of this ally.'
+
+combat: Melee
+
+temp: Human Death Knight
+
+type: Ally

@@ -1,0 +1,18 @@
+card_name: Fel Flame
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When this ability enters play, your hero deals 2 unpreventable shadowfire damage to target hero or ally. 2 → and cards you control have +1 ATK this turn.'
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Destruction

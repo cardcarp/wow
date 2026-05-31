@@ -1,0 +1,19 @@
+card_name: Boraks Belt of Bravery
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When Borak's Belt of Bravery prevents damage, put 1 damage on your hero.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '2'
+
+temp: Armor Plate

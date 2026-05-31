@@ -1,0 +1,23 @@
+card_name: Shaera Strikewing
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: 'Stealth Stash : Target ally has Stealth this turn.'
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Rogue

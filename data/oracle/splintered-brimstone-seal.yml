@@ -1,0 +1,20 @@
+card_name: Splintered Brimstone Seal
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 4 , → Play target non-Ongoing ability in your graveyard immediately without paying its cost. The next time it would enter a graveyard from anywhere this turn, remove it from the game instead.
+
+class:
+  - Druid
+  - Hunter
+  - Shaman
+
+cost: '6'
+
+temp: Item Ring

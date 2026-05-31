@@ -1,0 +1,23 @@
+card_name: Rhonin the Time-Lost
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 6
+
+text: At the start of your turn, Rhonin may deal 1 arcane damage to target opposing hero. If a hero or ally you control would deal non-combat damage, it deals that much +1 for each ally you control instead.
+
+cost: '5'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Human Mage

@@ -1,0 +1,21 @@
+card_name: Sayge
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: At the start of your turn, remove the top card of target opponent's deck from the game. If it's an ability, ally, or equipment card, you may play it this game. (Pay costs as normal.)
+
+cost: '4'
+
+combat: Melee
+
+temp: Gnoll Fortuneteller

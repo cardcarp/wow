@@ -1,0 +1,26 @@
+card_name: Justicar Nimzi Banedrizzle
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: When this ally leaves play, you may remove target Druid ally, ability, or equipment from the game.
+
+class:
+  - Druid
+
+cost: '2'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Warlock

@@ -1,0 +1,23 @@
+card_name: Gatlin Clouds-the-Sky
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Gatlin has Long-Range while attacking exhausted heroes and allies.
+
+cost: '4'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Tauren Hunter

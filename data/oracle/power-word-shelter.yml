@@ -1,0 +1,18 @@
+card_name: Power Word_ Shelter
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally. Ongoing : Prevent all damage that would be dealt to attached ally. At the end of turn, destroy this ability.'
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Discipline

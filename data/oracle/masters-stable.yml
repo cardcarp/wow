@@ -1,0 +1,19 @@
+card_name: Masters Stable
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : You can control an additional Pet. Pets you control have +1 / +1 for each Hunter and Warlock you control.'
+
+class:
+  - Warlock
+  - Hunter
+
+cost: '3'
+
+temp: Beast Mastery Demonology

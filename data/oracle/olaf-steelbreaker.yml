@@ -1,0 +1,23 @@
+card_name: Olaf Steelbreaker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 6
+
+text: Protector
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Warrior

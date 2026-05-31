@@ -1,0 +1,19 @@
+card_name: Thud!
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Exhaust target card in play. It can't ready during its controller's next ready step.
+
+class:
+  - Paladin
+  - Rogue
+
+cost: '2'
+
+temp: Protection Combat Combo

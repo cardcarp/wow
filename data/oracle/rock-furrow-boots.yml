@@ -1,0 +1,20 @@
+card_name: Rock Furrow Boots
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When an armor you control prevents damage, you may add a +1 ATK counter to target weapon.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '3'
+
+temp: Armor Plate

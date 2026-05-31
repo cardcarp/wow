@@ -1,0 +1,21 @@
+card_name: Gladiators Salvation
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: x , Exhaust your hero → Prevent the next X damage that would be dealt to target hero or ally this turn.
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '3'
+
+temp: 1H Arena Weapon Mace

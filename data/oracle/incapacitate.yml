@@ -1,0 +1,18 @@
+card_name: Incapacitate
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target resource. Ongoing : Attached resource can't ready."
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Combat

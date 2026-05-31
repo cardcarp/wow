@@ -1,0 +1,21 @@
+card_name: Indauma Bloodfire
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 4
+
+cost: '6'
+
+combat: Fire
+
+faction: Horde
+
+temp: Blood Elf Warlock

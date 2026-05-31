@@ -1,0 +1,18 @@
+card_name: Frostbite
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Frost Hero Required Ongoing : 1 , Discard a Frost or card → Opponents play 2 more to play cards this turn.'
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Frost Talent

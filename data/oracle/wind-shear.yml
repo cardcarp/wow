@@ -1,0 +1,18 @@
+card_name: Wind Shear
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Choose one or both: Interrupt target ability; or exhaust target hero or ally.'
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Elemental

@@ -1,0 +1,18 @@
+card_name: Lesson of the Beast
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: You may exhaust a non-hero Hunter you control rather than pay this ability's cost. Target Pet you control deals melee damage equal to its ATK to target ally.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Beast Mastery

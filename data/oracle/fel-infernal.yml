@@ -1,0 +1,24 @@
+card_name: Fel Infernal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: When you discard a card, you may pay 1 . If you do, this ally deals 1 fire damage to each opposing hero and ally.
+
+class:
+  - Warlock
+
+cost: '4'
+
+combat: Fire
+
+temp: Infernal Demon

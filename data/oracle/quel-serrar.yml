@@ -1,0 +1,18 @@
+card_name: Quelserrar
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has +5 .
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: 1H Weapon Sword

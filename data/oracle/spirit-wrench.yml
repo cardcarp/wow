@@ -1,0 +1,15 @@
+card_name: Spirit Wrench
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Play only if seven or more Bloods are in play. Remove all damage from target opposing hero and put it on a second target hero.
+
+cost: '3'
+
+temp: ''

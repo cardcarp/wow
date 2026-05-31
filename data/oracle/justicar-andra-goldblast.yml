@@ -1,0 +1,26 @@
+card_name: Justicar Andra Goldblast
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: 2 → When the next opposing Mage or card enters play this turn, destroy it.
+
+class:
+  - Mage
+
+cost: '2'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Dwarf Hunter

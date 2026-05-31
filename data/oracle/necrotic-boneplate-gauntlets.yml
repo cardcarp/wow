@@ -1,0 +1,18 @@
+card_name: Necrotic Boneplate Gauntlets
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When an ally is destroyeed, you may add a +1 counter to this armor.
+
+class:
+  - Death Knight
+
+cost: '1'
+
+temp: Armor Plate

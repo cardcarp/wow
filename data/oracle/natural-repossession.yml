@@ -1,0 +1,18 @@
+card_name: Natural Repossession
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Choose one or both: Destroy target ability; or destroy target equipment.'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Balance

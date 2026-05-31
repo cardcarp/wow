@@ -1,0 +1,19 @@
+card_name: Prized Beastmasters Mantle
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Non- , non- allies you control have +3 . Stash : Your hero heals 3 damage from target non- , non- ally you control.'
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '4'
+
+temp: Armor Mail

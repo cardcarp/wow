@@ -1,0 +1,20 @@
+card_name: Seal of Vengeance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Alliance Hero Required Ongoing : At the end of each turn, your hero deals 1 holy damage to each hero and ally it dealt combat damage to this turn. 1 , Destroy Seal of Vengeance → Your hero deals 1 holy damage to each hero and ally it dealt combat damage to this turn.'
+
+class:
+  - Paladin
+
+cost: '2'
+
+faction: Alliance
+
+temp: Retribution

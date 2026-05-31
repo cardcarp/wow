@@ -1,0 +1,15 @@
+card_name: Fallen Champions
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: 'Pay 2 to initiate this event. Event : Draw a card for each opposing hero that was dealt damage this turn.'
+
+temp: ''
+
+type: Boss

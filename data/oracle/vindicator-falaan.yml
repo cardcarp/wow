@@ -1,0 +1,21 @@
+card_name: Vindicator Falaan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: 'Aldor Reputation Inspire: All friendly heroes and allies with activated powers'
+
+cost: '3'
+
+combat: Holy
+
+temp: Draenei Warrior

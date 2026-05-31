@@ -1,0 +1,21 @@
+card_name: Overseer Oilfist
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: When Overseer Oilfist enters play, reveal the top four cards of your deck. Put a revealed equipment card into your hand and the rest on the bottom of your deck.
+
+cost: '2'
+
+combat: Melee
+
+temp: Dwarf Warrior

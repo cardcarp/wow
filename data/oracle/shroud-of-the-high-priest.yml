@@ -1,0 +1,18 @@
+card_name: Shroud of the High Priest
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to your hero. Ongoing : Attached hero has: → You pay 2 less to play your next card this turn. → Your hero heals 3 damage from each friendly hero and ally. → Remove the top five cards of target player's deck from the game."
+
+class:
+  - Priest
+
+cost: '6'
+
+temp: Discipline Holy Shadow

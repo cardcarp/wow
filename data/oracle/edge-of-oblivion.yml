@@ -1,0 +1,20 @@
+card_name: Edge of Oblivion
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: This weapon enters play with five +1 ATK counters. At the start of your turn, remove a +1 ATK counter. If none remain, destroy this weapon.
+
+class:
+  - Warrior
+  - Death Knight
+  - Shaman
+
+cost: '4'
+
+temp: 2H Weapon Axe

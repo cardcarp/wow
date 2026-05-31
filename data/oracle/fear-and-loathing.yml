@@ -1,0 +1,15 @@
+card_name: Fear and Loathing
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Empower Hunter : If you control a Hunter hero or ally, destroy target opposing ally that entered play this turn. Empower Warlock : If you control a Warlock hero or ally, put target opposing ally into its owner's hand."
+
+cost: '3'
+
+temp: ''

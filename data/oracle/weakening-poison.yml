@@ -1,0 +1,18 @@
+card_name: Weakening Poison
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero or ally that was dealt combat damage by your hero this turn. Ongoing : Attached character has -4 ATK.'
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Poison

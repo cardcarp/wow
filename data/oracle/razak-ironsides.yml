@@ -1,0 +1,23 @@
+card_name: Razak Ironsides
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 8
+
+text: When an opposing hero or ally readies, Razak deals 4 ranged damage to it.
+
+cost: '7'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Gnome Sharpshooter

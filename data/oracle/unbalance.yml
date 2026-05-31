@@ -1,0 +1,18 @@
+card_name: Unbalance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Exhaust all opposing heroes and allies. If you have an equipment, each of them can't ready during its controller's next ready step.
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Combat Combo

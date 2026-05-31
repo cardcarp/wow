@@ -1,0 +1,21 @@
+card_name: Naxxramas Worshipper
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: 'Any raider: Exhaust a Priest you control → Gain control of this ally. Any raider who controls this ally: Destroy this ally → Flip Faerlina face up.'
+
+combat: Fire
+
+temp: Human Worshipper
+
+type: Ally

@@ -1,0 +1,21 @@
+card_name: Halion, Staff of Forgotten Love
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If an ally you controlled dealt damage to a hero this turn, you pay 1 less to play cards.
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: 2H Weapon Staff

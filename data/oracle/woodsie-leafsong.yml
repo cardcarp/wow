@@ -1,0 +1,23 @@
+card_name: Woodsie Leafsong
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: Shadowmeld When Woodsie deals combat damage to an opponent's defending hero, you may destroy target ability or equipment he controls.
+
+cost: '4'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Night Elf Druid

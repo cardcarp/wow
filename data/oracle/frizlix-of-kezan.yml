@@ -1,0 +1,17 @@
+card_name: Frizlix of Kezan
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 'On your turn: 2 , Flip Frizlix → Exhaust target hero or ally.'
+
+faction: Horde
+
+temp: Goblin Rogue

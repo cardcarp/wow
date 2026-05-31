@@ -1,0 +1,19 @@
+card_name: Pugius, Fist of Defiance
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero is dealt damage for the first time each turn, you may add a +1 ATK counter to this weapon.
+
+class:
+  - Shaman
+  - Rogue
+
+cost: '3'
+
+temp: 1H Weapon Fist

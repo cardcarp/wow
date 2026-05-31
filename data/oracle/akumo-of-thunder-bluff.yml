@@ -1,0 +1,17 @@
+card_name: Akumo of Thunder Bluff
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 'On your turn: 3 , Flip Akumo → Ready target ally.'
+
+faction: Horde
+
+temp: Tauren Shaman

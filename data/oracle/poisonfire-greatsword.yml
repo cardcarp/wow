@@ -1,0 +1,20 @@
+card_name: Poisonfire Greatsword
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Exhaust an ally you control → This weapon has +2 ATK this turn.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '3'
+
+temp: 2H Weapon Sword

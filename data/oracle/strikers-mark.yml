@@ -1,0 +1,20 @@
+card_name: Strikers Mark
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your Melee weapons have +1 ATK. When you strike with Striker's Mark, your hero has Long-Range this combat.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+
+cost: '2'
+
+temp: Ranged Weapon Bow

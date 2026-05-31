@@ -1,0 +1,18 @@
+card_name: Overload
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Interrupt target ally.
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Arcane

@@ -1,0 +1,23 @@
+card_name: Timewalker Guard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this ally enters play, put a 1 / 1 Human Warrior ally token into play with Protector .
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

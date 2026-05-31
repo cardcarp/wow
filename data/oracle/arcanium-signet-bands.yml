@@ -1,0 +1,20 @@
+card_name: Arcanium Signet Bands
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → If target ally would be dealt damage this turn, it's dealt double that much instead.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: Armor Cloth

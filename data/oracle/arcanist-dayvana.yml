@@ -1,0 +1,21 @@
+card_name: Arcanist Dayvana
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: 'Scryer Reputation Sabotage: Quest When Dayvana sabotages a quest, you may complete it this turn.'
+
+cost: '2'
+
+combat: Fire
+
+temp: Blood Elf Mage

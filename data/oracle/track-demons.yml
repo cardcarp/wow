@@ -1,0 +1,18 @@
+card_name: Track Demons
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the start of your turn, look at the top card of your deck. Either put it into your hand and put 3 damage on your hero, or put it on the bottom of your deck.'
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Survival

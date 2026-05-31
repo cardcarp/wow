@@ -1,0 +1,15 @@
+card_name: Path of Ruin
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Choose a number. Destroy all opposing abilities, allies, and equipment with cost equal to that number.
+
+cost: '4'
+
+temp: ''

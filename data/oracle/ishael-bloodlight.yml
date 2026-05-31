@@ -1,0 +1,23 @@
+card_name: Ishael Bloodlight
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: This ally has Protector and Sentinel while an ability is attached to him.
+
+cost: '1'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Paladin

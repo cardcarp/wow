@@ -1,0 +1,20 @@
+card_name: Twig of the World Tree
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Destroy one of your resources → You pay 3 less the next time you strike with Twig of the World Tree.
+
+class:
+  - Druid
+  - Warrior
+  - Paladin
+
+cost: '3'
+
+temp: 2H Weapon Mace

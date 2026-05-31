@@ -1,0 +1,18 @@
+card_name: Ambush
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Play only if your hero has stealth. Your hero deals X melee damage to target exhausted hero or ally, where X is 5 plus the ATK of one of your daggers.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Assassination Combo

@@ -1,0 +1,23 @@
+card_name: Jonas Targan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: → This ally deals 1 melee damage to target damaged hero or ally.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

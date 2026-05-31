@@ -1,0 +1,23 @@
+card_name: Vincent Brayden
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 3
+
+text: Protector
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Paladin

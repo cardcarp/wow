@@ -1,0 +1,21 @@
+card_name: Charles Worth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: This ally has Mend X , where X is the combined of Cloth armor you control.
+
+cost: '2'
+
+combat: Arcane
+
+temp: Human Tailoring Master

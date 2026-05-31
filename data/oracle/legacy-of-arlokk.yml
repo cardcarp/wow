@@ -1,0 +1,20 @@
+card_name: Legacy of Arlokk
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn: 2 , , Exhaust your hero → Your hero deals 1 fire damage to target ally. On your turn: 8 , , Exhaust your hero → Your hero deals 4 fire damage to target hero.'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: 2H Weapon Staff

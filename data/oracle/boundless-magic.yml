@@ -1,0 +1,18 @@
+card_name: Boundless Magic
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Eternal Look at cards from the top of your deck equal to the number of resources you control. Put one of those cards into your hand and the rest on the bottom of your deck.
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Arcane

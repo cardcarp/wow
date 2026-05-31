@@ -1,0 +1,18 @@
+card_name: Cowl of Dying Light
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor enters play, put target opposing ability, ally, or equipment with the lowest cost into its owner's hand. (If one or more cards are tied for lowest cost, you choose.)
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Armor Cloth

@@ -1,0 +1,20 @@
+card_name: Khadgars Kilt of Abjuration
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , → Opposing allies lose and can't have powers this turn.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Armor Cloth

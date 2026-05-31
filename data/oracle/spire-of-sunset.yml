@@ -1,0 +1,22 @@
+card_name: Spire of Sunset
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn: 2 , Exhaust your hero → Your hero deals fire damage to target hero or ally equal to the number of different classes among heroes and allies you control.'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: 2H Weapon Staff

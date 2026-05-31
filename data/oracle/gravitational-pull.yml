@@ -1,0 +1,20 @@
+card_name: Gravitational Pull
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: As this armor enters play, you may reveal any number of equipment from your hand. This armor enters play with a +1 counter on it for each card revealed this way.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '1'
+
+temp: Armor Plate

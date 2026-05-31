@@ -1,0 +1,23 @@
+card_name: Timriv the Enforcer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Time is Money → Destroy all opposing damaged allies.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Goblin Warrior

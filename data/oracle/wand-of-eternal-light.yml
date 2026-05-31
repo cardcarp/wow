@@ -1,0 +1,20 @@
+card_name: Wand of Eternal Light
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Damage that would be dealt with this weapon is unpreventable.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '1'
+
+temp: Ranged Weapon Wand

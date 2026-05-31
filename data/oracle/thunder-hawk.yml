@@ -1,0 +1,23 @@
+card_name: Thunder Hawk
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: Stealth
+
+cost: '4'
+
+combat: Melee
+
+temp: Hawk Beast
+
+type: Monster

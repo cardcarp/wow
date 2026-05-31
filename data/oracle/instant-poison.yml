@@ -1,0 +1,18 @@
+card_name: Instant Poison
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'You may play this ability without paying its cost if your hero dealt combat damage to an opposing hero this turn. Attach to target opposing hero. Ongoing : At the start of your turn, your hero deals 1 nature damage to attached hero.'
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Poison

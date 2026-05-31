@@ -1,0 +1,18 @@
+card_name: Black Death
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target opposing hero. Ongoing : At the start of your turn, your hero deals 1 shadow damage to attached hero, or 2 if there are no allies in its party.'
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Unholy Disease

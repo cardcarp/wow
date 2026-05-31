@@ -1,0 +1,18 @@
+card_name: Hand of Dread
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 1 shadow damage to target ally for each card in that ally's controller's graveyard.
+
+class:
+  - Death Knight
+
+cost: '3'
+
+temp: Unholy

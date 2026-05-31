@@ -1,0 +1,18 @@
+card_name: Freezing Trap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Trap Attach to target attacking ally and remove it from combat. Ongoing : Attached ally can't attack or protect and loses all powers."
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Survival

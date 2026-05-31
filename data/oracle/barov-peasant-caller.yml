@@ -1,0 +1,26 @@
+card_name: Barov Peasant Caller
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , , Destroy Barov Peasant Caller → Put three Peasant ally tokens into play with 1 ATK / 1 health, ferocity, and “At end of turn, destroy this ally.”
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item Trinket

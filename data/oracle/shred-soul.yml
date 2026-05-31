@@ -1,0 +1,18 @@
+card_name: Shred Soul
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Remove target ally from the game.
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Affliction

@@ -1,0 +1,23 @@
+card_name: Mossbark, Ancient of War
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Play this ally only if you control two or more Monster heroes and/or allies.
+
+cost: '4'
+
+combat: Nature
+
+temp: Ancient Warrior
+
+type: Monster

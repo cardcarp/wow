@@ -1,0 +1,23 @@
+card_name: Kurao Stormheart
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: When this ally readies, he may deal 1 melee damage to target ally.
+
+cost: '2'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Shaman

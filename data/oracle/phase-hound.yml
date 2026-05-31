@@ -1,0 +1,25 @@
+card_name: Phase Hound
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Stealth
+
+class:
+  - Warlock
+  - Hunter
+
+cost: '4'
+
+combat: Melee
+
+temp: Beast Demon

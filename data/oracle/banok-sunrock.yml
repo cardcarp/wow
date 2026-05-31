@@ -1,0 +1,23 @@
+card_name: Banok Sunrock
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Protector
+
+cost: '4'
+
+combat: Holy
+
+faction: Horde
+
+temp: Tauren Paladin

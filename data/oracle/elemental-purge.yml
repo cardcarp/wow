@@ -1,0 +1,18 @@
+card_name: Elemental Purge
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Destroy target ability. If you do, your hero deals 3 nature damage to that ability's controller's hero.
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Restoration

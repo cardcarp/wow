@@ -1,0 +1,22 @@
+card_name: Hypnotic Blade
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 3 , , Exhaust your hero → Target player discards a card. Use only on your turn.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: 1H Weapon Dagger

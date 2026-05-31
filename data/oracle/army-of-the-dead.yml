@@ -1,0 +1,18 @@
+card_name: Army of the Dead
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy all allies. For each ally destroyed this way, you put a 3 / 3 Ghoul ally token into play.
+
+class:
+  - Death Knight
+
+cost: '6'
+
+temp: Unholy

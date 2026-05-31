@@ -1,0 +1,23 @@
+card_name: Neptulon
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+damage: 3
+
+health: 38
+
+text: 'Fire Resistance When your hero becomes Neptulon, reveal the top ten cards of your deck. Remove all revealed Frost and cards from the game, and put the rest on the bottom of your deck. Tidal Surge : Allies you control have +1 / +1 for each card removed this way.'
+
+cost: '10'
+
+combat: Frost
+
+temp: Water Elemental Lord
+
+type: Master

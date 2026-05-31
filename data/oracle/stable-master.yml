@@ -1,0 +1,18 @@
+card_name: Stable Master
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : You can control an additional Pet.'
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Beast Mastery

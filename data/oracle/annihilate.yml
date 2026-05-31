@@ -1,0 +1,18 @@
+card_name: Annihilate
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target exhausted ally or exhausted equipment.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Combat Combo

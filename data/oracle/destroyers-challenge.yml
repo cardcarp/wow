@@ -1,0 +1,15 @@
+card_name: Destroyers Challenge
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Each Raider puts the top card of his deck into his graveyard. If it was an ally, Deathwing puts a Corrupted Blood ally token into play. Otherwise that Raider draws a card, and his hero heals 3 damage from itself.
+
+temp: ''
+
+type: Boss

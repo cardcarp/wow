@@ -1,0 +1,15 @@
+card_name: The Final Message to the Wildhammer
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: "On your turn, pay 2 to complete this quest. Reward : Draw a card. Put a Message item token into play with \"If your hero would be dealt damage, it's dealt that much +1 instead.\" At the start of your next turn, remove that token from the game."
+
+faction: Horde
+
+temp: ''

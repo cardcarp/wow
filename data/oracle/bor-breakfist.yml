@@ -1,0 +1,23 @@
+card_name: Bor Breakfist
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: → Target orc ally has Ferocity this turn.
+
+cost: '1'
+
+combat: Fire
+
+faction: Horde
+
+temp: Orc Shaman

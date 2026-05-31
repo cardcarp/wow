@@ -1,0 +1,18 @@
+card_name: Searing Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Totem Ongoing : At the start of each turn, Searing Totem deals 1 fire damage to target hero or ally.'
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Elemental 1

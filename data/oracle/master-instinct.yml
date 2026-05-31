@@ -1,0 +1,18 @@
+card_name: Master Instinct
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Your hero is in Bear Form . → This turn, your hero loses Bear Form and is in Cat Form while you control Master Instinct.'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Feral

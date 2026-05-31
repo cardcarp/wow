@@ -1,0 +1,23 @@
+card_name: Rampaging Furbolg
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: When this ally enters play, put the top two cards of target player's deck into his graveyard.
+
+cost: '1'
+
+combat: Melee
+
+temp: Furbolg Warrior
+
+type: Monster

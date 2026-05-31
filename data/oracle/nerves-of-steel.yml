@@ -1,0 +1,18 @@
+card_name: Nerves of Steel
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Combat Hero Required Ready your hero. It can't be exhausted by opposing cards and effects this turn.
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Combat Talent

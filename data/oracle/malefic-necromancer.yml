@@ -1,0 +1,23 @@
+card_name: Malefic Necromancer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Scourge Hero Required When this ally enters play, you may put target ally in your graveyard on top of your deck.
+
+cost: '2'
+
+combat: Shadow
+
+temp: Necromancer
+
+type: Raid

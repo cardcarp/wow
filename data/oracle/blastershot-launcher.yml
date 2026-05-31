@@ -1,0 +1,20 @@
+card_name: Blastershot Launcher
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'When you strike with Blastershot Launcher, your hero has Long-Range this combat. : When Blastershot Launcher enters play, your hero deals 3 ranged damage to target hero or ally.'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+
+cost: '5'
+
+temp: Ranged Weapon Gun

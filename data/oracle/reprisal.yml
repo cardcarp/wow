@@ -1,0 +1,18 @@
+card_name: Reprisal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: If damage was dealt with target ability or equipment this turn, destroy it.
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Retribution

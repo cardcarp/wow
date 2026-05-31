@@ -1,0 +1,21 @@
+card_name: Valytha Colton
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+cost: '4'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Undead Hunter

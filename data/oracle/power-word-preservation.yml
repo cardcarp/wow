@@ -1,0 +1,18 @@
+card_name: Power Word_ Preservation
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally. Ongoing : Attached ally has -3 / +3.'
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Discipline

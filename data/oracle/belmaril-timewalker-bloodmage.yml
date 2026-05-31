@@ -1,0 +1,23 @@
+card_name: Belmaril, Timewalker Bloodmage
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 7
+
+text: At the start of your turn, you may put a token copy of another target ally you control into play.
+
+cost: '7'
+
+combat: Fire
+
+faction: Horde
+
+temp: Blood Elf Mage

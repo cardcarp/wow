@@ -1,0 +1,23 @@
+card_name: Alethar the Blightspreader
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Haste 3 If an ally you controlled dealt damage to an opposing hero this turn, you can play this ally from your graveyard.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Night Elf Death Knight

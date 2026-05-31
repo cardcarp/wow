@@ -1,0 +1,23 @@
+card_name: Wazzuli Wildmender
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: At the start of your turn, Wazzuli Wildmender heals 1 damage from each hero and ally in your party.
+
+cost: '5'
+
+combat: Nature
+
+faction: Horde
+
+temp: Troll Shaman

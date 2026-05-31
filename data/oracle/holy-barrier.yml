@@ -1,0 +1,19 @@
+card_name: Holy Barrier
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : → Prevent the next X damage that would be dealt to target ally this turn, where X is the number of Paladins and Priests you control.'
+
+class:
+  - Paladin
+  - Priest
+
+cost: '3'
+
+temp: Protection Discipline

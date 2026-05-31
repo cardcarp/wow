@@ -1,0 +1,23 @@
+card_name: Ka_tali Stonetusk
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Protector At the start of your turn, Ka'tali Stonetusk heals 1 damage from himself.
+
+cost: '1'
+
+combat: Nature
+
+faction: Horde
+
+temp: Troll Shaman

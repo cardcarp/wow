@@ -1,0 +1,17 @@
+card_name: Litori Frostburn
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 2 , Flip Litori Frostburn → Target hero or ally can't attack this turn.
+
+faction: Alliance
+
+temp: Human Mage

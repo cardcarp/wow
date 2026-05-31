@@ -1,0 +1,20 @@
+card_name: Shadowmourne
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this weapon enters play, remove target ally from the game. If you do, add X +1 ATK counters to this weapon, where X was the ATK of that removed ally.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '6'
+
+temp: 2H Weapon Axe

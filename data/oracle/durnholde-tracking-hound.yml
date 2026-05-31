@@ -1,0 +1,23 @@
+card_name: Durnholde Tracking Hound
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: At the start of your turn, target ally loses and can't have Elusive this turn.
+
+cost: '4'
+
+combat: Melee
+
+temp: Dog Beast
+
+type: Monster

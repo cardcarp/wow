@@ -1,0 +1,23 @@
+card_name: Marilyn of the Sacred Vows
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: → Prevent all damage that would be dealt to target ally this turn.
+
+cost: '5'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

@@ -1,0 +1,19 @@
+card_name: Necessary Sacrifice
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Destroy target Demon, Ghoul, or Scourge ally with cost X or less, where X is the cost of a non-hero Paladin or Warlock you control.
+
+class:
+  - Paladin
+  - Warlock
+
+cost: '1'
+
+temp: Protection Demonology

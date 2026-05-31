@@ -1,0 +1,23 @@
+card_name: Ossus the Ancient
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Draenei Hero Required Inspiring Presence Prevent all combat damage that would be dealt.
+
+cost: '6'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Draenei Paladin

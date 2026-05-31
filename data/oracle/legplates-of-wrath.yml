@@ -1,0 +1,18 @@
+card_name: Legplates of Wrath
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play a ability, you may pay 1 . If you do, ready target armor.
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Armor Plate

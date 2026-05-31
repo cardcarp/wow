@@ -1,0 +1,18 @@
+card_name: Smite
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 4 holy damage to target hero or ally. That damage can't be prevented.
+
+class:
+  - Priest
+
+cost: '5'
+
+temp: Holy

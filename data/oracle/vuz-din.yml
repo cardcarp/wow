@@ -1,0 +1,23 @@
+card_name: Vuz_din
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Opposing Ongoing abilities lose and can't have powers.
+
+cost: '3'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Troll Mage

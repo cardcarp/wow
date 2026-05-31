@@ -1,0 +1,21 @@
+card_name: Wesley Shadowsworn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 6
+
+cost: '7'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Warlock

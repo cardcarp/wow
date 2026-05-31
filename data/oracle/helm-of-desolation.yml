@@ -1,0 +1,19 @@
+card_name: Helm of Desolation
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with a weapon, target ally in your party has +2 ATK this turn.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '3'
+
+temp: Armor Mail

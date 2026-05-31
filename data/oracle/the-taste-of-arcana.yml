@@ -1,0 +1,18 @@
+card_name: The Taste of Arcana
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 1 arcane damage to target hero or ally. If you targeted a hero, you may interrupt a card played by its controller unless he pays 1 for each damage dealt this way.
+
+class:
+  - Mage
+
+cost: '1'
+
+temp: Arcane

@@ -1,0 +1,21 @@
+card_name: Robotic Homing Chicken
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 1
+
+text: Elusive At the start of your turn, each player rolls a die. If two or more players roll the same number, destroy Robotic Homing Chicken and all allies in those players' parties.
+
+cost: '1'
+
+combat: Melee
+
+temp: Mechanical Chicken

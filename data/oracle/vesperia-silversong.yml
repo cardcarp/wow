@@ -1,0 +1,23 @@
+card_name: Vesperia Silversong
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: This ally can't attack heroes.
+
+cost: '1'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Night Elf Hunter

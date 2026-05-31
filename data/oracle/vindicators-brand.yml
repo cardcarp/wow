@@ -1,0 +1,19 @@
+card_name: Vindicators Brand
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Aldor Reputation When Vindicator's Brand is destroyed, you may destroy target ability or equipment.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '3'
+
+temp: 1H Weapon Sword

@@ -1,0 +1,23 @@
+card_name: Bolvar, Highlord of Fordragon Hold
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: "Untargetable When this ally enters play, you may search your deck for a card named Fordragon Hold and put it into your resource row face up and exhausted. Death Rattle : Put each location you control into its owner's hand."
+
+cost: '5'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

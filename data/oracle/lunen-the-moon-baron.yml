@@ -1,0 +1,23 @@
+card_name: Lunen the Moon Baron
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Elusive allies in your party have " → Draw a card."
+
+cost: '3'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Night Elf Druid

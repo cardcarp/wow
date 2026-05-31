@@ -1,0 +1,18 @@
+card_name: Idol of the Shooting Star
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , → Your hero heals 1 damage from target hero or ally. When you play an ally, ready this item.
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Item Ranged

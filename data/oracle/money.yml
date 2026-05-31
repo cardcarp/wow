@@ -1,0 +1,21 @@
+card_name: Money
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: 'Time is Money On your turn: → Draw a card for each Biker you control.'
+
+cost: '2'
+
+combat: Melee
+
+temp: Goblin Rogue Biker

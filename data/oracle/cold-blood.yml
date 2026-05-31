@@ -1,0 +1,18 @@
+card_name: Cold Blood
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Assassination Hero Required Draw a card. When your hero deals damage to an ally this turn, destroy that ally.
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Assassination Talent

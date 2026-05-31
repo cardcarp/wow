@@ -1,0 +1,18 @@
+card_name: Numbing Cold
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Interrupt target card if it has the same name as a card in its controller's graveyard.
+
+class:
+  - Death Knight
+
+cost: '1'
+
+temp: Frost

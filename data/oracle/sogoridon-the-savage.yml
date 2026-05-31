@@ -1,0 +1,23 @@
+card_name: Sogoridon the Savage
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 7
+
+text: Monster Hero Required This ally has +7 / +7 while an opponent controls a or hero.
+
+cost: '7'
+
+combat: Melee
+
+temp: Pit Lord Demon
+
+type: Monster

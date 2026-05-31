@@ -1,0 +1,23 @@
+card_name: Orc Grunt
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: 'Bloodrush : While an opposing hero has more damage on it than your hero, this ally has Ferocity .'
+
+cost: '2'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

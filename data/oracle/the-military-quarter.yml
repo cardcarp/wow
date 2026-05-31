@@ -1,0 +1,19 @@
+card_name: The Military Quarter
+
+layout: standard
+
+regulation:
+
+category: Misc
+
+errata: []
+
+text: 'Weapons have -1 ATK. Armor have -1 . On your turn: → Put a Harvest Soul from your graveyard into your hand. When a Boss is destroyed, destroy all Naxxramas tokens. When The Four Horsemen is destroyed, flip this card. Instructor Razuvious Gothik the Harvester The Four Horsemen'
+
+temp: ''
+
+transform:
+  - id: ability
+    text: When this card flips to this side, say "I grow tired of these games. Proceed, and I will banish your souls to oblivion!"{i} Weapons have +1 ATK. Armor have +1 .
+
+type: Raid

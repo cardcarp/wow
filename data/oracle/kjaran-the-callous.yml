@@ -1,0 +1,23 @@
+card_name: Kjaran the Callous
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Flip Kjaran, remove a Scourge ally in your graveyard from the game → Kjaran deals 1 melee damage and 1 ranged damage to target attacker.
+
+class:
+  - Paladin
+  - Hunter
+
+temp: Vrykul 27
+
+transform:
+  - id: ability
+    text: "Deckbuilding : You can only include abilities, equipment, allies with ally type Death Knight, neutral quests and locations, and Scourge cards. You can't include cards with reputations or other text restrictions (like Beast Mastery Hero Required ) ."
+
+type: Raid

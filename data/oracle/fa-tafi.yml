@@ -1,0 +1,23 @@
+card_name: Fa_tafi
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 6
+
+text: Protector At the start of each turn, Fa'tafi heals 1 damage from herself.
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Warrior

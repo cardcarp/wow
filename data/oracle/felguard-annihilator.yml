@@ -1,0 +1,23 @@
+card_name: Felguard Annihilator
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this ally is destroyed, it deals 1 melee damage to target opposing hero or ally.
+
+cost: '2'
+
+combat: Melee
+
+temp: Felguard Demon
+
+type: Monster

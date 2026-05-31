@@ -1,0 +1,18 @@
+card_name: Legplates of Ten Storms
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play a ability, you may pay 1 . If you do, your hero deals 2 nature damage divided as you choose to up to two target heroes and/or allies.
+
+class:
+  - Shaman
+
+cost: '6'
+
+temp: Armor Mail

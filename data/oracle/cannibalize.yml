@@ -1,0 +1,17 @@
+card_name: Cannibalize
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Undead Hero Required Remove any number of ally cards in graveyards from the game. Your hero heals 2 damage from itself for each card removed.
+
+cost: '2'
+
+faction: Horde
+
+temp: ''

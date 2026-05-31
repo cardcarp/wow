@@ -1,0 +1,23 @@
+card_name: Tinker Bixy Blue
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: 'If Bixy is undamaged: → Target player discards a card and you draw a card.'
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Rogue

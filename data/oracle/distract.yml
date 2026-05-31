@@ -1,0 +1,18 @@
+card_name: Distract
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Exhaust all allies controlled by target player. They can't ready during his next ready step.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Subtlety

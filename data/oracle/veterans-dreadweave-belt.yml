@@ -1,0 +1,20 @@
+card_name: Veterans Dreadweave Belt
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Players pay 2 more to play cards.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Armor Cloth

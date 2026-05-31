@@ -1,0 +1,17 @@
+card_name: Turane Soulpact
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'On your turn: 3 , Flip Turane, destroy X allies in your party → Turane deals X shadow damage to target hero or ally.'
+
+faction: Horde
+
+temp: Blood Elf Warlock

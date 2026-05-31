@@ -1,0 +1,22 @@
+card_name: Fire-Etched Dagger
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this weapon enters play, you may put target Dragonkin ally from your graveyard into your hand. 2 , Exhaust your hero → Your hero deals 1 fire damage to target hero or ally for each Dragonkin you control.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: 1H Weapon Dagger

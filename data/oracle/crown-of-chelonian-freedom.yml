@@ -1,0 +1,20 @@
+card_name: Crown of Chelonian Freedom
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor enters play, put X +1 counters on it, where X is the cost of a non- , non- ally you control. This armor can prevent damage to non- , non- allies you control.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '4'
+
+temp: Armor Plate

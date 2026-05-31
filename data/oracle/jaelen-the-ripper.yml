@@ -1,0 +1,23 @@
+card_name: Jaelen the Ripper
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Elusive , Stealth When this ally deals fatal damage, he also deals 5 melee damage to target opposing hero.
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Night Elf Rogue

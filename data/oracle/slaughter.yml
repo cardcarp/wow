@@ -1,0 +1,18 @@
+card_name: Slaughter
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target ally or weapon with cost 4 or less. If you do, add +1 ATK counters to a weapon you control equal to the ATK of the card destroyed this way.
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: Assassination

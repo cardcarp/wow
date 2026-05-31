@@ -1,0 +1,23 @@
+card_name: Korgen Skullcleaver
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Destroy another ally you control → Target Orc ally has Ferocity this turn.
+
+cost: '4'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Death Knight

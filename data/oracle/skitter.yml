@@ -1,0 +1,26 @@
+card_name: Skitter
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: Elusive When this ally deals combat damage to a hero, add a venom counter to that hero. At the start of your turn, destroy each opposing hero with three or more venom counters on it.
+
+class:
+  - Hunter
+
+cost: '3'
+
+combat: Nature
+
+temp: Scorpid Beast
+
+type: Monster

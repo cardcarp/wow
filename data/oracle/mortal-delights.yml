@@ -1,0 +1,18 @@
+card_name: Mortal Delights
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : 1 , Put 3 damage on your hero → Draw a card.'
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Affliction

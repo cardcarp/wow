@@ -1,0 +1,20 @@
+card_name: Touch of Chaos
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When Touch of Chaos enters play, remove all ability cards in your graveyard from the game. At the start of your turn, choose at random one of the ability cards you removed this way and put it into your hand.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '6'
+
+temp: Ranged Weapon Wand

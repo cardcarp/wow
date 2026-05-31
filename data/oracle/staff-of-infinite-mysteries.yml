@@ -1,0 +1,22 @@
+card_name: Staff of Infinite Mysteries
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 4 , , Destroy this weapon → Search target opponent's deck for a card, then that opponent names a card. If you searched for the named card, that opponent puts it into his hand. Otherwise, remove that card from the game, and you may play that card without paying its cost.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '5'
+
+temp: 2H Weapon Staff

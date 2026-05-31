@@ -1,0 +1,21 @@
+card_name: Emerald Emissary
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: You pay 1 less to complete quests for each Druid and Hunter you control.
+
+cost: '4'
+
+combat: Nature
+
+temp: Green Dragonkin

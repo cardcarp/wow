@@ -1,0 +1,23 @@
+card_name: Teresa Voidheart
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Shadow Resistance 1 , Remove this ally from the game → Draw a card.
+
+cost: '3'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Warlock

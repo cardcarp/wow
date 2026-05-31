@@ -1,0 +1,20 @@
+card_name: God-Grinding Grips
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 4 , Exhaust your hero → Your hero deals 2 arcane damage to target hero or ally.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: Armor Cloth

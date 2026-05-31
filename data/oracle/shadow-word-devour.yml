@@ -1,0 +1,18 @@
+card_name: Shadow Word_ Devour
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target opposing hero. Ongoing : At the start of your turn, add a death counter to this ability. Then, your hero deals 1 shadow damage to attached hero for each death counter on this ability and heals 1 damage from itself for each death counter on this ability.'
+
+class:
+  - Priest
+
+cost: '4'
+
+temp: Shadow Attachment

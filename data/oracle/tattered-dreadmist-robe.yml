@@ -1,0 +1,20 @@
+card_name: Tattered Dreadmist Robe
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'If your hero would deal damage with an ability, it deals that much damage +1, and plus an additional 1 for each heirloom counter on this armor, instead. Stash : Add an heirloom counter to target equipment you control.'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '4'
+
+temp: Armor Cloth

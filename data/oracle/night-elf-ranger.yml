@@ -1,0 +1,23 @@
+card_name: Night Elf Ranger
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Assault 2
+
+cost: '3'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Night Elf Hunter

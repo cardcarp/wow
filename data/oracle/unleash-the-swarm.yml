@@ -1,0 +1,15 @@
+card_name: Unleash the Swarm!
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Reveal the top seven cards of your deck. Put all revealed Murloc allies with cost 1 or less into play and the rest on the bottom of your deck.
+
+cost: '4'
+
+temp: ''

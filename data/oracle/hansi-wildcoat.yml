@@ -1,0 +1,23 @@
+card_name: Hansi Wildcoat
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Protector Heroes and allies you control with Mend also have Assault 1 .
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

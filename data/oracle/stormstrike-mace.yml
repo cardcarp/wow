@@ -1,0 +1,19 @@
+card_name: Stormstrike Mace
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Death Rattle : Hero : Exhaust target hero or ally. Hero : Ready target hero or ally.'
+
+class:
+  - Shaman
+  - Rogue
+
+cost: '1'
+
+temp: 1H Weapon Mace

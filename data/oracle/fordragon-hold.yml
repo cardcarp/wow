@@ -1,0 +1,15 @@
+card_name: Fordragon Hold
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: '→ Target hero or ally you control has Assault 1 this turn. If you control an ally with Bolvar in its name: → heroes and allies you control have Assault 1 this turn.'
+
+faction: Alliance
+
+temp: ''

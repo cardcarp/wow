@@ -1,0 +1,18 @@
+card_name: Raise from the Ashes
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: As an additional cost to play, destroy an ally in your party. Search your deck for a card with the same name as that ally and put it into play.
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Restoration

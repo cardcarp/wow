@@ -1,0 +1,17 @@
+card_name: Warmaster Bo_jo
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 2 , Flip Bo'jo → Bo'jo has +2 ATK while attacking this turn.
+
+faction: Horde
+
+temp: Troll Warrior

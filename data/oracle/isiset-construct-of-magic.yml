@@ -1,0 +1,27 @@
+card_name: Isiset, Construct of Magic
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If your hero would deal non-combat damage, it deals that much +1 instead. At the start of your turn and when you play an ability, add a power counter to the item. At the end of your turn, if this item has five or more power counters on it, destroy it. If you do, put three 1 / 1 Construct ally tokens into play with "If your hero would deal non-combat damage, it deals that much +1 instead."
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item

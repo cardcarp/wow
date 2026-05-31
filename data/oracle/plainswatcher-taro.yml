@@ -1,0 +1,23 @@
+card_name: Plainswatcher Taro
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Protector While you control four or more cards in play with the same name, you may play this ally without paying his cost.
+
+cost: '7'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Warrior

@@ -1,0 +1,23 @@
+card_name: Dulvar, Hand of the Light
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 6
+
+text: Prevent all damage attackers would deal to this ally. When this ally deals damage to an opposing hero, he heals that much damage from your hero.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Paladin

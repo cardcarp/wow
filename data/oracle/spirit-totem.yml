@@ -1,0 +1,18 @@
+card_name: Spirit Totem
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'Pay 2 to complete this quest. Reward : Ready target ally or weapon you control.'
+
+class:
+  - Shaman
+
+temp: ''
+
+type: Class Restriction

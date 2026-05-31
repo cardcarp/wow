@@ -1,0 +1,29 @@
+card_name: Frostwolf Insignia
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play a card, add an honor counter. If there are six or more on Frostwolf Insignia, destroy it. When Frostwolf Insignia is destroyed this way, your hero heals 10 damage from target hero or ally.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+faction: Horde
+
+temp: Item Battleground

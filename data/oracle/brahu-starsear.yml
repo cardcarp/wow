@@ -1,0 +1,17 @@
+card_name: Brahu Starsear
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'On your turn: 4 , Flip Brahu → Put two Treant ally tokens into play with 1 ATK / 1 health.'
+
+faction: Horde
+
+temp: Tauren Druid

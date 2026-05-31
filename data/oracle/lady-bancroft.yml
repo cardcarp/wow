@@ -1,0 +1,23 @@
+card_name: Lady Bancroft
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Prevent all damage that opposing heroes would deal to this ally.
+
+cost: '1'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Priest

@@ -1,0 +1,23 @@
+card_name: Ninoo of the Light
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Ninoo can't attack. → Ninoo heals 1 damage from each hero and ally in your party.
+
+cost: '1'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Draenei Priest

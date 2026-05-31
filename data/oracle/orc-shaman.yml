@@ -1,0 +1,23 @@
+card_name: Orc Shaman
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: 3 → Heroes and allies you control have +2 ATK while attacking heroes this turn.
+
+cost: '4'
+
+combat: Nature
+
+faction: Horde
+
+temp: Orc Shaman

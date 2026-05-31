@@ -1,0 +1,18 @@
+card_name: Totemic Infusion
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : While you control an Air Totem, your hero has Spellshield . While you control an Earth Totem, your hero has Mend 4 . While you control a Fire Totem, your hero has Assault 4 . While you control a Water Totem, your hero has Elusive .'
+
+class:
+  - Shaman
+
+cost: '4'
+
+temp: Restoration

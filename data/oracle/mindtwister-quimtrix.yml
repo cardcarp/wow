@@ -1,0 +1,21 @@
+card_name: Mindtwister Quimtrix
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: 4 → Flip Quimtrix
+
+faction: Horde
+
+temp: Goblin Priest
+
+transform:
+  - id: ability
+    text: When an ally you control is destroyed, Quimtrix max deal 1 shadow damage to target ally.

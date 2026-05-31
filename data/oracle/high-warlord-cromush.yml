@@ -1,0 +1,23 @@
+card_name: High Warlord Cromush
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Protector While Cromush has exactly 1 remaining , he has Assault 10 .
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

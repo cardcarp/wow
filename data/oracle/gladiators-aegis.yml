@@ -1,0 +1,18 @@
+card_name: Gladiators Aegis
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If an ally in your party would be dealt non-fatal damage, prevent it. → Exhaust target hero or ally, and it can't ready during its controller's next ready step. Draw a card.
+
+class:
+  - Paladin
+
+cost: '9'
+
+temp: Arena Armor Set Plate

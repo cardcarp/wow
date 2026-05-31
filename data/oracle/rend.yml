@@ -1,0 +1,18 @@
+card_name: Rend
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals 1 melee damage to attached character.'
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Arms

@@ -1,0 +1,22 @@
+card_name: Stalk of Corruption
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 6 , → Your hero deals 2 shadow damage divided as you choose to any number of target heroes and/or allies.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: 2H Weapon Staff

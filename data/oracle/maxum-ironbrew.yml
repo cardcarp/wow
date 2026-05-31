@@ -1,0 +1,23 @@
+card_name: Maxum Ironbrew
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When Maxum Ironbrew defends, he heals 2 damage from himself.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Paladin

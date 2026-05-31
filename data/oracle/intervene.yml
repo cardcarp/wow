@@ -1,0 +1,18 @@
+card_name: Intervene
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: The next time damage would be dealt to target friendly hero or ally this turn, it's dealt to your hero instead.
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Protection

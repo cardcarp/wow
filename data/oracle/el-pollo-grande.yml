@@ -1,0 +1,21 @@
+card_name: El Pollo Grande
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When El Pollo Grande deals combat damage, you may put a Chicken ally token into play with 0 ATK / 1 health.
+
+cost: '2'
+
+combat: Melee
+
+temp: Chicken

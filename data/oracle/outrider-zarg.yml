@@ -1,0 +1,23 @@
+card_name: Outrider Zarg
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: Ferocity At the end of your turn, if Outrider Zarg dealt no damage this turn, destroy him.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Hunter

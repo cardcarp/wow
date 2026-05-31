@@ -1,0 +1,23 @@
+card_name: Natasha Hutchins
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Shadow Resistance
+
+cost: '2'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Mage

@@ -1,0 +1,23 @@
+card_name: Magran Proudstep
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Ferocity Long-Range
+
+cost: '3'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Tauren Hunter

@@ -1,0 +1,23 @@
+card_name: Dun_zarg
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: When this ally attacks for the first time each turn, he has +4 ATK this turn while you control another Ogre hero or ally.
+
+cost: '3'
+
+combat: Fire
+
+temp: Ogre Shaman
+
+type: Monster

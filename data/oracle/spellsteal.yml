@@ -1,0 +1,18 @@
+card_name: Spellsteal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Gain control of target ability. If it's attached to a hero or ally, you may attach it to another hero or ally.
+
+class:
+  - Mage
+
+cost: '3'
+
+temp: Arcane

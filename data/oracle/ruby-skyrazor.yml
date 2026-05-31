@@ -1,0 +1,21 @@
+card_name: Ruby Skyrazor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Allies you control have Untargetable .
+
+cost: '5'
+
+combat: Fire
+
+temp: Red Dragonkin

@@ -1,0 +1,18 @@
+card_name: Fel Armor
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : If your hero would deal damage with an ability, it deals that much damage +2 instead. If a hero or ally would heal damage from your hero, it heals that much damage +2 instead.'
+
+class:
+  - Warlock
+
+cost: '8'
+
+temp: Demonology

@@ -1,0 +1,17 @@
+card_name: Morova of the Sands
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 10 , Flip Morova → Morova deals 7 nature damage to target hero or ally.
+
+faction: Horde
+
+temp: Tauren Druid

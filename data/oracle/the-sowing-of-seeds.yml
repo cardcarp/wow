@@ -1,0 +1,18 @@
+card_name: The Sowing of Seeds
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 1 nature damage to target hero or ally. For each damage dealt this way, put a Treant ally token into play with 1 ATK / 1 health.
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Balance

@@ -1,0 +1,23 @@
+card_name: Deathstalker Commander Belmont
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: 'On your turn: → Allies you control with cost 4 or less have +2 ATK this turn.'
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Rogue

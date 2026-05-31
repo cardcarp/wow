@@ -1,0 +1,23 @@
+card_name: Gabble
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 5
+
+text: Elusive
+
+cost: '7'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Gnome Mage

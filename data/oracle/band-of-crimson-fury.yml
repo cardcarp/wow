@@ -1,0 +1,21 @@
+card_name: Band of Crimson Fury
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 3 , Discard a card → The next time damage would be dealt with an ability you control this turn, that much +3 is dealt instead.
+
+class:
+  - Priest
+  - Shaman
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Item Ring

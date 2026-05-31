@@ -1,0 +1,23 @@
+card_name: Orgrimmar Marksman
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Ferocity When this ally enters play, put a 2 / 2 Orc Warrior token into play with Ferocity and "This ally can attack only heroes."
+
+cost: '5'
+
+combat: Fire
+
+faction: Horde
+
+temp: Orc Hunter

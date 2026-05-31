@@ -1,0 +1,13 @@
+card_name: Spell Shaping
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: 'Ongoing : Each non-ongoing ability can be played as though it were a copy of any other non-ongoing ability card with the same cost.'
+
+temp: ''

@@ -1,0 +1,23 @@
+card_name: Goetia
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+instant: You pay 3 less to play this ally if you played an ability this turn.
+
+cost: '3'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Draenei Mage

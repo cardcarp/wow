@@ -1,0 +1,18 @@
+card_name: Shelter
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: This turn, target card can't be destroyed, and if it's an ally, prevent all damage that would be dealt to it.
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Protection

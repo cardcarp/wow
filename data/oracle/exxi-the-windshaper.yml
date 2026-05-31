@@ -1,0 +1,23 @@
+card_name: Exxi the Windshaper
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: While you control another Goblin, this ally has Time is Money and " → Ready another target ally."
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Goblin Shaman

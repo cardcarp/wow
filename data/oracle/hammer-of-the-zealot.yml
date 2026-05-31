@@ -1,0 +1,18 @@
+card_name: Hammer of the Zealot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Exhaust target ally. Draw a card.
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection

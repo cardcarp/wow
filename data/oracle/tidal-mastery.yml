@@ -1,0 +1,18 @@
+card_name: Tidal Mastery
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Restoration Hero Required Ongoing : Exhaust for of your Totems → Your hero deals 10 nature damage to target hero or ally.'
+
+class:
+  - Shaman
+
+cost: '6'
+
+temp: Restoration Talent

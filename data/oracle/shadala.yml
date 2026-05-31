@@ -1,0 +1,23 @@
+card_name: Shadala
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When you play an ability, you may destroy target ability.
+
+cost: '2'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Priest

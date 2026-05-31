@@ -1,0 +1,18 @@
+card_name: Surge of Blood
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 2 melee damage to target hero or ally. Weapons you control have Assault 2 this turn.
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Blood

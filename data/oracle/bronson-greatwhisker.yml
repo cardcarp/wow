@@ -1,0 +1,17 @@
+card_name: Bronson Greatwhisker
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 5 , Flip Bronson → The next time target ally would be dealt damage this turn, prevent it, and your hero heals 1 damage from that ally for each damage prevented this way.
+
+faction: Alliance
+
+temp: Dwarf Paladin

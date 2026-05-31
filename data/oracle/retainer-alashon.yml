@@ -1,0 +1,21 @@
+card_name: Retainer Alashon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: "Scryer Reputation Sabotage: All keywords When Alashon sabotages keywords, opposing cards everywhere lose and can't have keyword powers while he remains in your party."
+
+cost: '2'
+
+combat: Nature
+
+temp: Blood Elf Rogue

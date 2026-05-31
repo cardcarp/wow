@@ -1,0 +1,18 @@
+card_name: Burning Rage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : While you control no ready resources, allies you control have +2 ATK.'
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Fury

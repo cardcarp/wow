@@ -1,0 +1,21 @@
+card_name: Infinite Warden
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: This ally attacks the Raiding ally with the lowest remaining health if able.
+
+combat: Melee
+
+temp: Infinite Dragonkin
+
+type: Boss

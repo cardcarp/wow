@@ -1,0 +1,23 @@
+card_name: Ilandre Moonspear
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Night Elf Hero Required Elusive → Put your hand on the bottom of your deck, then draw that many cards.
+
+cost: '4'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Night Elf Druid

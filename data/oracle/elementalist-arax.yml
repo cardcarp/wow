@@ -1,0 +1,23 @@
+card_name: Elementalist Arax
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: This ally has Assault 1 and Mend 1 for each equipment you control.
+
+cost: '5'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Draenei Shaman

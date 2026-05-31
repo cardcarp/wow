@@ -1,0 +1,23 @@
+card_name: Raso_jin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 2
+
+text: Protector When this ally enters play, put two 1 / 1 Treant ally tokens into play. This ally has +1 ATK for each token ally you control.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Druid

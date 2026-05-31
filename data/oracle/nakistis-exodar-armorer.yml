@@ -1,0 +1,23 @@
+card_name: Nakistis, Exodar Armorer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: This ally has +1 / +1 while you control an armor.
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Warrior

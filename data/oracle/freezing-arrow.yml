@@ -1,0 +1,18 @@
+card_name: Freezing Arrow
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Trap Remove target opposing attacker from combat. It can't ready during it's controller's next ready step.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Survival

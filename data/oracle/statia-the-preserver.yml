@@ -1,0 +1,17 @@
+card_name: Statia the Preserver
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Statia → Prevent all damage that would be dealt to target Totem this turn.
+
+faction: Alliance
+
+temp: Draenei Shaman

@@ -1,0 +1,18 @@
+card_name: Horrify
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target player destroys an ally in his party. If he does, your hero heals damage from itself equal to that ally's cost.
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Shadow

@@ -1,0 +1,19 @@
+card_name: The Unstoppable Force
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Destroy The Unstoppable Force → Destroy all armor named The Immovable Object.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '5'
+
+temp: 2H Weapon Mace

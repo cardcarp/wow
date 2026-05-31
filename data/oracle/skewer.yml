@@ -1,0 +1,17 @@
+card_name: Skewer
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Choose an ally in your party. It deals damage equal to its ATK to target ally.
+
+cost: '4'
+
+faction: Horde
+
+temp: ''

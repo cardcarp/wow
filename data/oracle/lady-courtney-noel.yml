@@ -1,0 +1,23 @@
+card_name: Lady Courtney Noel
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: → This ally heals 1 damage from each hero and ally you control.
+
+cost: '3'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Priest

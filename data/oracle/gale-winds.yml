@@ -1,0 +1,18 @@
+card_name: Gale Winds
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Balance Hero Required Ongoing : Abilities you control can be exhausted to pay costs as though they were resources.'
+
+class:
+  - Druid
+
+cost: '5'
+
+temp: Balance Talent

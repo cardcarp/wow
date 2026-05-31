@@ -1,0 +1,23 @@
+card_name: Kalan Howland
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally is destroyed, target player discards a card.
+
+cost: '3'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Worgen Rogue

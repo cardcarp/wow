@@ -1,0 +1,27 @@
+card_name: Ammunae, Construct of Life
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has "If damage would be healed from a hero or ally you control, that much +1 is healed instead." At the start of your turn and when 1 or more damage is healed from a hero or ally you control, put a power counter on this item. At the end of your turn, if this item has five or more power counters on it, destroy it. If you do, put six 0 / 1 Bloodpetal ally tokens into play with Mend 1 .
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item

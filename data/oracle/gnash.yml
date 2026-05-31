@@ -1,0 +1,23 @@
+card_name: Gnash
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 6
+
+text: When Gnash enters play, destroy all allies with cost 3 or less.
+
+cost: '6'
+
+combat: Frost
+
+temp: Sea Giant Warrior
+
+type: Monster

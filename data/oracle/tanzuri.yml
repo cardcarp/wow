@@ -1,0 +1,23 @@
+card_name: Tanzuri
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: This ally has Assault 2 while an opposing ally with cost 4 or more is in play.
+
+cost: '2'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Troll Hunter

@@ -1,0 +1,15 @@
+card_name: Arena Grandmaster
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: "Pay 4 to complete this quest. Reward : If an ally is in your party and the combined ATK of allies in your party is greater than the combined ATK of allies in an opponent's party, draw two cards."
+
+temp: ''
+
+type: Arena

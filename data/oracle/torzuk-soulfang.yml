@@ -1,0 +1,23 @@
+card_name: Torzuk Soulfang
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Spellshield When this ally deals combat damage to a hero, you may pay 3 . If you do, put a 5 / 5 Infernal Demon Monster ally token named Infernius into play with Infernius (1) and Smash .
+
+cost: '2'
+
+combat: Fire
+
+faction: Horde
+
+temp: Orc Warlock

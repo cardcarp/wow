@@ -1,0 +1,23 @@
+card_name: Vandos, Herald of War
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: 'Empower Warrior : When this ally enters play, if you control another Warrior hero or ally, reveal the top five cards of your deck. Put all revealed equipment into your hand and the rest on the bottom of your deck.'
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

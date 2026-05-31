@@ -1,0 +1,17 @@
+card_name: Maloduri
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 'If you control another Warrior: Flip Maloduri → Target hero or ally has -2 ATK this turn.'
+
+faction: Horde
+
+temp: Troll Warrior

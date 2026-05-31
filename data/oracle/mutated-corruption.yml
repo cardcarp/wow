@@ -1,0 +1,15 @@
+card_name: Mutated Corruption
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to the MARKED hero. Its controller chooses and exhausts two resources he controls. Ongoing : The chosen resources can't ready. At the start of Deathwing's turn, he deals 3 melee damage to attached hero. If Deathwing is dealt 8 or more damage in one turn, destroy this ability."
+
+temp: ''
+
+type: Boss

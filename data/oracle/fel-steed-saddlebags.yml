@@ -1,0 +1,27 @@
+card_name: Fel Steed Saddlebags
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you place a resource, if you control exactly four resources, draw a card. When you place a resource, if you control exactly eight resources, destroy this item. If you do, draw a card.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item

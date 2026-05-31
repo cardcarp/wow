@@ -1,0 +1,18 @@
+card_name: Vigilance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : Your hero has Protector . → Ready your hero. Use only on an opponent's turn."
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Protection

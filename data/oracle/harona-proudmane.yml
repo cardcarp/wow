@@ -1,0 +1,17 @@
+card_name: Harona Proudmane
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: Flip Harona, discard a Druid → Harona heals 6 damage from target hero.
+
+faction: Horde
+
+temp: Tauren Druid

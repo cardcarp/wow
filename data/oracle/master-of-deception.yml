@@ -1,0 +1,18 @@
+card_name: Master of Deception
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Subtlety Hero Required Ongoing : Your hero has Stealth .'
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Subtlety Talent

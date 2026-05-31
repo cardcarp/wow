@@ -1,0 +1,18 @@
+card_name: Rogue Training
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target friendly ally. Ongoing : When attached ally deals combat damage to a defending hero, that hero's controller discards a card."
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Subtlety

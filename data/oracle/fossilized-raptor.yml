@@ -1,0 +1,23 @@
+card_name: Fossilized Raptor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 4
+
+text: You pay 1 less to complete quests for each ally in your graveyard. (Mounts can't attack or be attacked.)
+
+cost: '4'
+
+combat: Melee
+
+temp: Fossil Raptor
+
+type: Monster

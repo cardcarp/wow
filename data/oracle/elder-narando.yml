@@ -1,0 +1,23 @@
+card_name: Elder Narando
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When Narando readies, he has +2 ATK this turn.
+
+cost: '2'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

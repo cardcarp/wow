@@ -1,0 +1,23 @@
+card_name: Taliax the Ironjaw
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Protector While you control a weapon, double this ally's ATK. While you control an armor, double this ally's .
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Warrior

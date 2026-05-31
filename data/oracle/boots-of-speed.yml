@@ -1,0 +1,19 @@
+card_name: Boots of Speed
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 → Put this card into your resource row face down and exhausted.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '1'
+
+temp: Armor Leather

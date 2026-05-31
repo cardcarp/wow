@@ -1,0 +1,24 @@
+card_name: Water Elemental
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Frost Hero Required → Water Elemental deals 1 frost damage to each opposing hero and ally. A character dealt damage this way can't attack this turn.
+
+class:
+  - Mage
+
+cost: '3'
+
+combat: Frost
+
+temp: Elemental

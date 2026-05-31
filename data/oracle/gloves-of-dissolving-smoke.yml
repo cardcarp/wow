@@ -1,0 +1,19 @@
+card_name: Gloves of Dissolving Smoke
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When an ally you control attacks, your hero has +1 ATK this turn.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '4'
+
+temp: Armor Leather

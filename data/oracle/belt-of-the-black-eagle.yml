@@ -1,0 +1,19 @@
+card_name: Belt of the Black Eagle
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , , Turn a resource you control face down → Look at the top two cards of your deck. Put one into your hand and the other into your graveyard.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '2'
+
+temp: Armor Mail

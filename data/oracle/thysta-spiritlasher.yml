@@ -1,0 +1,23 @@
+card_name: Thysta Spiritlasher
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: At the end of each player's turn, if no damage was dealt this turn, Thysta Spiritlasher deals 3 fire damage to that player's hero.
+
+cost: '5'
+
+combat: Fire
+
+faction: Horde
+
+temp: Orc Warlock

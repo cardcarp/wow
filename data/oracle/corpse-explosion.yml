@@ -1,0 +1,18 @@
+card_name: Corpse Explosion
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Unholy Hero Required Remove target ally in a graveyard from the game. If you do, your hero deals 4 shadow damage to each opposing hero and ally.
+
+class:
+  - Death Knight
+
+cost: '3'
+
+temp: Unholy Talent

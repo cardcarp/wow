@@ -1,0 +1,21 @@
+card_name: Warbringer Arix_amal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Other Demons have +2 ATK.
+
+cost: '3'
+
+combat: Melee
+
+temp: Demon

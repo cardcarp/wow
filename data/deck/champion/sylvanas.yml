@@ -1,0 +1,54 @@
+name: Sylvanas
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Champion
+  - Starter
+
+collection: champion
+
+highlight: sylvanas-001
+
+description: Sylvanas Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the Sylvanas
+
+total: 61
+
+list:
+  hero:
+    sylvanas-001: 1  # Dark Lady Sylvanas Windrunner
+  main:
+    sylvanas-002: 2  # Arcane Shot
+    sylvanas-003: 1 # Multi-Shot
+    sylvanas-004: 1 # Shadow
+    sylvanas-005: 2 # Steady Shot
+    sylvanas-006: 4 # Turn the Blade
+    sylvanas-007: 3 # Zip
+    sylvanas-008: 2 # Masters Embrace
+    sylvanas-009: 2 # Strength of Will
+    sylvanas-010: 2 # Asoren Darksnout
+    sylvanas-011: 3 # Daroka Venomfist
+    sylvanas-012: 3 # Draga_zal
+    sylvanas-013: 2 # Grak Foulblade
+    sylvanas-014: 3 # Hesawa Stormwalker
+    sylvanas-015: 2 # Kelena Ashford
+    sylvanas-016: 2 # Kraznix Smolderpain
+    sylvanas-017: 1 # Krezza the Explosive
+    sylvanas-018: 2 # Samantha Galvington
+    sylvanas-019: 2 # Vazu_jin
+    sylvanas-020: 2 # Waz_luk
+    sylvanas-021: 1 # Bloodbanes Fall
+    sylvanas-022: 2 # Blackcrow
+    sylvanas-023: 1 # Lightning Whelk Axe
+    sylvanas-024: 1 # Windrunners Heartseeker
+    sylvanas-025: 1 # Blueleaf Tubers
+    sylvanas-026: 3 # The Culmination of Our Efforts
+    sylvanas-027: 3 # Entrenched
+    sylvanas-028: 4 # The Key to Freedom
+    sylvanas-029: 3 # Seeds of Their Demise

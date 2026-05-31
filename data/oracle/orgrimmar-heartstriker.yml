@@ -1,0 +1,23 @@
+card_name: Orgrimmar Heartstriker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: 'Bloodrush : When this ally enters play, if an opposing hero has more damage on it than your hero, put a 2 / 2 Orc Warrior ally token into play with Ferocity and "This ally can only attack heroes."'
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Rogue

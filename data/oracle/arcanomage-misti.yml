@@ -1,0 +1,23 @@
+card_name: Arcanomage Misti
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: When this ally deals damage to an opposing hero, draw that many cards.
+
+cost: '3'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Gnome Mage

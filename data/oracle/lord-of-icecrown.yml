@@ -1,0 +1,26 @@
+card_name: Lord of Icecrown
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+damage: 4
+
+health: 40
+
+text: Scourge or Hero Required At the start of each player's turn, put target ally from that player's graveyard into play under your control. Allies you control are also Scourge allies.
+
+class:
+  - Death Knight
+
+cost: '11'
+
+combat: Frost
+
+temp: Lich King
+
+type: Raid

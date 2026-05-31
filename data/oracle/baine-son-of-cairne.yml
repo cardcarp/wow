@@ -1,0 +1,23 @@
+card_name: Baine, Son of Cairne
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 8
+
+text: Protector War Stomp When an opposing hero or ally is exhausted by War Stomp , Baine deals 4 melee damage to it.
+
+cost: '8'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Warrior

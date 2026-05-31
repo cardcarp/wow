@@ -1,0 +1,18 @@
+card_name: Snake Trap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Trap Put X Snake ally tokens with 1 ATK / 1 health into play, where X is target opposing attacker's cost.
+
+class:
+  - Hunter
+
+cost: '6'
+
+temp: Survival

@@ -1,0 +1,20 @@
+card_name: Terokks Shadowstaff
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , Destroy Terokk's Shadowstaff → Target opponent chooses an ally in his party, and you gain control of it.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: 2H Weapon Staff

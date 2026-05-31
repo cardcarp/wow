@@ -1,0 +1,19 @@
+card_name: Stronghold Gauntlets
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your weapons have +1 ATK and can't be targeted by opponents.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '3'
+
+temp: Armor Plate

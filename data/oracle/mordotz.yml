@@ -1,0 +1,23 @@
+card_name: Mordotz
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Mordotz has +1 ATK and +1 health for each ability you control attached to opposing heroes and allies.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Warlock

@@ -1,0 +1,15 @@
+card_name: Monstrous Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target hero or ally has +1 ATK this turn, or +4 ATK if it's a Monster.
+
+cost: '2'
+
+temp: ''

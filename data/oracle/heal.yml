@@ -1,0 +1,18 @@
+card_name: Heal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero heals 7 damage from target hero or ally.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Holy

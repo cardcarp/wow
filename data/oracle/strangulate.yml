@@ -1,0 +1,18 @@
+card_name: Strangulate
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Interrupt target ability. Stash : Opponents can't play abilities this turn."
+
+class:
+  - Death Knight
+
+cost: '3'
+
+temp: Blood

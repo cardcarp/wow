@@ -1,0 +1,18 @@
+card_name: Storm Shock
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target opponent chooses a hero or ally in his party, and your hero deals 4 nature damage to it.
+
+class:
+  - Shaman
+
+cost: '1'
+
+temp: Elemental

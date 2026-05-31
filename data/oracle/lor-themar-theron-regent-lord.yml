@@ -1,0 +1,23 @@
+card_name: Lor_themar Theron, Regent Lord
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 7
+
+text: Each player plays with the top card of his deck revealed. On your turn, you may play any cards revealed this way. (Pay costs as normal.)
+
+cost: '6'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Blood Elf Hunter

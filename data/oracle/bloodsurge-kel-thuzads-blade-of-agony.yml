@@ -1,0 +1,20 @@
+card_name: Bloodsurge, Kel_Thuzads Blade of Agony
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Once per turn: Put 2 damage on your hero → If your hero would deal magical ( Arcane ( ), Fire ( ), Frost ( ), Holy ( ), Nature ( ), or Shadow ( ) ) damage this turn, it deals that much +2 instead.'
+
+class:
+  - Paladin
+  - Warlock
+  - Mage
+
+cost: '4'
+
+temp: 1H Weapon Sword

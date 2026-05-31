@@ -1,0 +1,27 @@
+card_name: Crashin_ Thrashin_ Racer Controller
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, put a 1 / 1 Crashin' Thrashin' Racer ally token into play with Ferocity . When a Racer ally you control deals combat damage to an opposing hero, put a credit counter on this item. , Remove ten credit counters from this item → Destroy target hero.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '5'
+
+temp: Item

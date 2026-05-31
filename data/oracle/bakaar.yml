@@ -1,0 +1,23 @@
+card_name: Bakaar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Your hero has Long-Range .
+
+cost: '1'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Draenei Hunter

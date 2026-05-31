@@ -1,0 +1,23 @@
+card_name: Gartok Skullsplitter
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When this ally attacks, you may exhaust target armor.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

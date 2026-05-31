@@ -1,0 +1,23 @@
+card_name: Onyxia Tooth Pendant
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Friendly allies have +2 ATK while attacking.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+cost: '6'
+
+temp: Item Neck

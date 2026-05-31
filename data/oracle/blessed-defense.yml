@@ -1,0 +1,18 @@
+card_name: Blessed Defense
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target ally has Protector this turn. Prevent all damage that it would be dealt while defending this turn.
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection

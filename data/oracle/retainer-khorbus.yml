@@ -1,0 +1,21 @@
+card_name: Retainer Khorbus
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Scryer Reputation When Khorbus deals combat damage, put him from play into his owner's hand.
+
+cost: '3'
+
+combat: Melee
+
+temp: Blood Elf Rogue

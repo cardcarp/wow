@@ -1,0 +1,23 @@
+card_name: Melissa Gerrard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When Melissa attacks, target hero or ally has -1 health this turn.
+
+cost: '1'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Warlock

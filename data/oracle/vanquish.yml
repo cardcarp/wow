@@ -1,0 +1,15 @@
+card_name: Vanquish
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target ally.
+
+cost: '4'
+
+temp: ''

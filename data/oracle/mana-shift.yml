@@ -1,0 +1,18 @@
+card_name: Mana Shift
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Gain control of any number of opposing abilities with combined cost less than or equal to the number of resources you control. For each of those abilities that's attached, you may reattach it.
+
+class:
+  - Mage
+
+cost: '5'
+
+temp: Arcane

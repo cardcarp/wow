@@ -1,0 +1,23 @@
+card_name: Anastina, Herald of the Fel
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: 'Empower Warlock : When this ally enters play, if you control another Warlock hero or ally, this ally deals 2 shadow damage to each opposing hero and ally.'
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Blood Elf Warlock

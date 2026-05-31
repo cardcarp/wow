@@ -1,0 +1,21 @@
+card_name: Dawnblaze Blade
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, you may add a +1 ATK counter to this weapon.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+  - Rogue
+
+cost: '5'
+
+temp: 1H Weapon Sword

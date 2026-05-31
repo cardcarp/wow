@@ -1,0 +1,18 @@
+card_name: Blood Frenzy
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Arms Hero Required Ongoing : Heroes and allies in your party have +1 ATK while in combat with heroes and allies with an attachment.'
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Arms Talent

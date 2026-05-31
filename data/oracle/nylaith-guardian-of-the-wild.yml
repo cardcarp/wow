@@ -1,0 +1,17 @@
+card_name: Nylaith, Guardian of the Wild
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 'If you control another Druid: Flip Nylaith → Nylaith has Protector this turn.'
+
+faction: Alliance
+
+temp: Night Elf Druid

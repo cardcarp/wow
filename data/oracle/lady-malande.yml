@@ -1,0 +1,21 @@
+card_name: Lady Malande
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: At the start of your turn, Malande heals 3 damage from target friendly ally.
+
+combat: Holy
+
+temp: Blood Elf Priest
+
+type: Ally

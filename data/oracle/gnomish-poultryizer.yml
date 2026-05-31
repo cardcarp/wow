@@ -1,0 +1,27 @@
+card_name: Gnomish Poultryizer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Engineering Hero Required 3 , → Add a feather counter, and this turn, target ally can't attack or protect, loses and can't have powers, and is also a Chicken. Chickens have -1 / -1 for each feather counter.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item Trinket

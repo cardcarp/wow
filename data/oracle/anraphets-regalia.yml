@@ -1,0 +1,20 @@
+card_name: Anraphets Regalia
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has Mend 1 .
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: Armor Cloth

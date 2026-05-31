@@ -1,0 +1,13 @@
+card_name: Mark V Is Alive!
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'On your turn, pay 5 to complete this quest. Reward : Put a Mechanical ally token named Mark V into play with 0 ATK / 1 health and "At the start of your turn, Mark V deals 5 melee damage to target hero or ally."'
+
+temp: ''

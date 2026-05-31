@@ -1,0 +1,23 @@
+card_name: Lord Darius Crowley
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 4
+
+text: Aberration When this ally enters play, you may howl. If you do, put three 1 / 1 Worgen ally tokens into play with Ferocity .
+
+cost: '7'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Worgen Warrior

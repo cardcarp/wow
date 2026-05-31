@@ -1,0 +1,20 @@
+card_name: Power Generator Hood
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor enters play, Delve .
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: Armor Cloth

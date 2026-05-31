@@ -1,0 +1,15 @@
+card_name: Flame Burst
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Each opponent destroys one of his resources.
+
+cost: '4'
+
+temp: Molten Core

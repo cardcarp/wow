@@ -1,0 +1,21 @@
+card_name: Ishanah, High Priestess of the Aldor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 8
+
+text: Aldor Reputation At the start of each opponent's turn, he chooses an ally in his party. Gain control of that ally.
+
+cost: '8'
+
+combat: Holy
+
+temp: Draenei Priest

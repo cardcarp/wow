@@ -1,0 +1,23 @@
+card_name: Luumon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Shadow Resistance
+
+cost: '5'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Draenei Shaman

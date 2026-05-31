@@ -1,0 +1,20 @@
+card_name: Historians Sash
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, add a history counter to this armor. Remove three history counters from this armor → You pay 1 less to complete target quest this turn.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '1'
+
+temp: Armor Cloth

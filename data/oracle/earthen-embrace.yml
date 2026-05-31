@@ -1,0 +1,18 @@
+card_name: Earthen Embrace
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally, and your hero heals all damage from it. Ongoing : Attached ally has +2 ATK.'
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Enhancement Attachment

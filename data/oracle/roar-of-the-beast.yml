@@ -1,0 +1,18 @@
+card_name: Roar of the Beast
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target Monster ally has +3 ATK this turn. Target non-Monster ally has -3 ATK this turn.
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Survival

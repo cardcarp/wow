@@ -1,0 +1,21 @@
+card_name: Baby Murloc
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+cost: '0'
+
+combat: Melee
+
+temp: Murloc Baby
+
+type: Monster

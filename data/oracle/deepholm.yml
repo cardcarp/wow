@@ -1,0 +1,13 @@
+card_name: Deepholm
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: 'On your turn, if a hero or ally you controlled dealt melee ( ) damage this turn: 2 , → Put a 2 / 1 Earth Elemental ally token into play. When an Earth Elemental enters play under your control, target ally has Assault 1 this turn.'
+
+temp: ''

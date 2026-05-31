@@ -1,0 +1,18 @@
+card_name: Curse of Agony
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero or ally. Ongoing : At the start of your turn, add an agony counter, and then your hero deals 1 shadow damage to attached character for each agony counter.'
+
+class:
+  - Warlock
+
+cost: '5'
+
+temp: Affliction Curse

@@ -1,0 +1,23 @@
+card_name: Blood Lord Vorath
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Flip Vorath, remove a Scourge ally in your graveyard from the game → Vorath deals 1 shadow damage to target ally for each ally in its controller's graveyard.
+
+class:
+  - Priest
+  - Death Knight
+
+temp: San'layn 27
+
+transform:
+  - id: ability
+    text: "Deckbuilding : You can only include abilities, equipment, allies with ally type Death Knight, neutral quests and locations, and Scourge cards. You can't include cards with reputations or other text restrictions (like Frost Hero Required ) ."
+
+type: Raid

@@ -1,0 +1,18 @@
+card_name: Sudden Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: You pay 1 less to play Sudden Shot for each other ability you've played this turn. Your hero deals 3 ranged damage to target hero or ally.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Marksmanship

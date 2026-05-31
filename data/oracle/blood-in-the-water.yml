@@ -1,0 +1,15 @@
+card_name: Blood in the Water
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to the Dungeon ally with the highest printed . Ongoing : When attached ally is destroyed, flip a Dungeon card.'
+
+temp: ''
+
+type: Dungeon

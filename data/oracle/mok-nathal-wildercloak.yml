@@ -1,0 +1,26 @@
+card_name: Mok_Nathal Wildercloak
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When an opposing ally is destroyed, put a +1 DEF counter on Mok'Nathal Wildercloak.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Armor Cloth

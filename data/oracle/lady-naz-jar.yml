@@ -1,0 +1,23 @@
+card_name: Lady Naz_jar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 7
+
+text: 3 , Exhaust two Naga heroes and/or allies you control → Naz'jar deals 5 frost damage to target hero or ally. A character dealt damage this way can't attack or exhaust this turn.
+
+cost: '6'
+
+combat: Frost
+
+temp: Naga Sea Witch
+
+type: Monster

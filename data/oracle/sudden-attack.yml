@@ -1,0 +1,15 @@
+card_name: Sudden Attack
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When a Dungeon ally enters play, destroy this ability. If you do, Dungeon allies have +5 ATK and Ferocity this turn.'
+
+temp: ''
+
+type: Dungeon

@@ -1,0 +1,24 @@
+card_name: Chops
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: When this ally attacks, you may exhaust target hero or ally.
+
+class:
+  - Hunter
+
+cost: '3'
+
+combat: Melee
+
+temp: Boar

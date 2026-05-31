@@ -1,0 +1,17 @@
+card_name: Ruthless Precision
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Destroy target raiding equipment. If you're in the Military Wing, the Boss deals melee damage to that equipment's controller's hero equal to its cost.
+
+temp: ''
+
+type: Raid
+
+stage: 15

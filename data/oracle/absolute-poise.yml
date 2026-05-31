@@ -1,0 +1,18 @@
+card_name: Absolute Poise
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Interrupt target ability or equipment.
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Protection

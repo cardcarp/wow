@@ -1,0 +1,18 @@
+card_name: Ripped through the Portal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Traitor Hero Required Put an ally card that's removed from the game into play under your control.
+
+class:
+  - Warlock
+
+cost: '5'
+
+temp: Traitor

@@ -1,0 +1,21 @@
+card_name: Lady Katrana Prestor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: Traitor Hero Required 15 → Remove all of your cards in all zones from the game and start an Onyxia Raid.
+
+cost: '5'
+
+combat: Fire
+
+temp: Black Dragon Traitor

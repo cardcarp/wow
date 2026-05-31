@@ -1,0 +1,23 @@
+card_name: Zul_jin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: "Stealth Zul'jin has +1 ATK for each damage on him. Once per turn: Put 1 damage on Zul'jin → Ready Zul'jin."
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Rogue

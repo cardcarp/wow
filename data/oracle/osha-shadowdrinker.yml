@@ -1,0 +1,23 @@
+card_name: Osha Shadowdrinker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: When a ally in your party deals combat damage, ready up to that many of your resources.
+
+cost: '6'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Warlock

@@ -1,0 +1,23 @@
+card_name: Razo_jun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Ferocity When this ally enters play, put a 2 / 1 Fire Elemental ally token into play.
+
+cost: '3'
+
+combat: Fire
+
+faction: Horde
+
+temp: Troll Shaman

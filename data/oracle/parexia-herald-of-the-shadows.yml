@@ -1,0 +1,23 @@
+card_name: Parexia, Herald of the Shadows
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: 'Empower Priest : When this ally enters play, if you control another Priest hero or ally, target opponent discards two random cards.'
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Goblin Priest

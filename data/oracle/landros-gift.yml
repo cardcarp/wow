@@ -1,0 +1,15 @@
+card_name: Landros Gift
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Search your deck for a Loot card, reveal it, and put it on top of your deck. Then, if an opponent went first this game, draw a card.
+
+cost: '1'
+
+temp: ''

@@ -1,0 +1,23 @@
+card_name: Soram Wildbark
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Mend 1 When this ally heals damage from a hero or ally, that character has Assault 1 this turn.
+
+cost: '1'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

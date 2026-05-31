@@ -1,0 +1,18 @@
+card_name: Cat Form
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Your hero is in Cat Form . When Cat Form is destroyed, you may pay 2 . If you do, put it into your hand at end of turn.'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Feral

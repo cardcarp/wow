@@ -1,0 +1,24 @@
+card_name: Cold Bones
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: Frost Resistance Your hero has Frost Resistance .
+
+class:
+  - Hunter
+
+cost: '4'
+
+combat: Frost
+
+temp: Polar Bear

@@ -1,0 +1,21 @@
+card_name: Vorix Zorbuzz
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 3 → Flip Vorix
+
+faction: Horde
+
+temp: Goblin Rogue
+
+transform:
+  - id: ability
+    text: If Vorix would deal melee damage, he deals that much nature damage +1 instead.

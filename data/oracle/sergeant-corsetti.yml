@@ -1,0 +1,23 @@
+card_name: Sergeant Corsetti
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: When this ally enters play, she deals 2 melee damage to target exhausted opposing hero or ally.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Rogue

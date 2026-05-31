@@ -1,0 +1,15 @@
+card_name: Executioners Strikes
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : When a Warrior ally enters play under your control or a friendly player's control, you may destroy target damaged ally."
+
+cost: '3'
+
+temp: ''

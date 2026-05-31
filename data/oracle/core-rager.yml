@@ -1,0 +1,21 @@
+card_name: Core Rager
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Protector At the end of your turn, ready Core Rager.
+
+combat: Melee
+
+temp: Core Hound
+
+type: Ally

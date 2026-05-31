@@ -1,0 +1,21 @@
+card_name: Olivia Demascas
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: 4 → Flip Olivia
+
+faction: Alliance
+
+temp: Worgen Priest
+
+transform:
+  - id: ability
+    text: When a hero or ally you control deals shadow ( ) damage to an opposing hero, you may put the top two cards of that hero's controller's deck into his graveyard.

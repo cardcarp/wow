@@ -1,0 +1,18 @@
+card_name: Eruption Trap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Trap Remove your defending hero from combat. If you do, your hero deals 4 fire damage to target hero.
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Survival

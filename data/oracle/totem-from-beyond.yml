@@ -1,0 +1,26 @@
+card_name: Totem from Beyond
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+damage: 0
+
+health: 3
+
+text: 'Warp Ongoing : At the start of your turn, this Totem deals 2 fire damage to target opposing hero or ally.'
+
+class:
+  - Shaman
+
+cost: '4'
+
+combat: Fire
+
+temp: Elemental
+
+type: Ally

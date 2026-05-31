@@ -1,0 +1,17 @@
+card_name: Kaave of the Exodar
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: 'On your turn: 4 , Flip Kaave → Kaave heals 3 damage from each hero and ally you control.'
+
+faction: Alliance
+
+temp: Draenai Priest

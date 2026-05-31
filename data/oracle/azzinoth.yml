@@ -1,0 +1,23 @@
+card_name: Azzinoth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: Other Demon allies you control can protect Azzinoth. When another Demon ally you control is destroyed, Azzinoth deals 2 shadow damage to target opposing hero and heals 2 damage from your hero.
+
+cost: '4'
+
+combat: Shadow
+
+temp: Doomguard Demon
+
+type: Monster

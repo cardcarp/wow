@@ -1,0 +1,18 @@
+card_name: Slice and Dice
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: As an additional cost to play Slice and Dice, remove up to five Combo cards in your graveyard from the game. Your hero deals X melee damage divided as you choose to any number of target heroes and/or allies, where X is the number of Combo cards you removed.
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Assassination Finishing Move

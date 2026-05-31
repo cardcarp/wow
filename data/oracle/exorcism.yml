@@ -1,0 +1,18 @@
+card_name: Exorcism
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Destroy target Demon ally or Undead ally.
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Holy

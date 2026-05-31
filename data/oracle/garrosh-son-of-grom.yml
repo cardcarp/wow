@@ -1,0 +1,23 @@
+card_name: Garrosh, Son of Grom
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 7
+
+text: Ferocity Garrosh can attack only heroes. At the start of your turn, for this and each other Orc ally you control, put a 2 / 2 Orc Warrior ally token into play with Ferocity and "This ally can attack only heroes."
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

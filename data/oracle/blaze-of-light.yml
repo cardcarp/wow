@@ -1,0 +1,18 @@
+card_name: Blaze of Light
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero heals 2 unpreventable holy damage to target ally. If that ally is a Demon, remove it from the game instead.
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Holy

@@ -1,0 +1,22 @@
+card_name: Soul Casket
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: ', Discard an ally → Your hero deals 2 shadow damage to target hero or ally.'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item Trinket

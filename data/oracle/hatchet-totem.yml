@@ -1,0 +1,18 @@
+card_name: Hatchet Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When Hatchet Totem enters play, put an Axe weapon token into play with 4 ATK, 1 strike cost, and Melee (1) if Hatchet Totem is in play. When Hatchet Totem leaves play, remove that Axe from the game.'
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Enhancement 1

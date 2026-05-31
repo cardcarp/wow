@@ -1,0 +1,23 @@
+card_name: Flame Bender Ta_jin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: When Ta'jin enters play, gain control of target ability. If it's attached, you may reattach it.
+
+cost: '6'
+
+combat: Fire
+
+faction: Horde
+
+temp: Troll Mage

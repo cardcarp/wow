@@ -1,0 +1,23 @@
+card_name: Jazmin Bloodlove
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Ferocity Protector
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Paladin

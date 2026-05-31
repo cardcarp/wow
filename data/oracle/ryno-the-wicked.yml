@@ -1,0 +1,17 @@
+card_name: Ryno the Wicked
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'On your turn: 2 , Flip Ryno → Put a Felhunter Demon ally token into play with 1 ATK / 1 health and Pet (1).'
+
+faction: Alliance
+
+temp: Gnome Warlock

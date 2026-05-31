@@ -1,0 +1,23 @@
+card_name: Kelsa Wildfire
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Ferocity
+
+cost: '1'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Worgen Mage

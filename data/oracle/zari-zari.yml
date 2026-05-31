@@ -1,0 +1,23 @@
+card_name: Zari_zari
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Berserking
+
+cost: '2'
+
+combat: Holy
+
+faction: Horde
+
+temp: Troll Priest

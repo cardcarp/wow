@@ -1,0 +1,18 @@
+card_name: Fire Nova Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Totem Ongoing : At the start of your turn, destroy Fire Nova Totem. If you do, it deals 3 fire damage to each opposing hero and ally.'
+
+class:
+  - Shaman
+
+cost: '1'
+
+temp: Elemental 1

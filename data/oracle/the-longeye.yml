@@ -1,0 +1,17 @@
+card_name: The Longeye
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'On your turn: 5 , Flip The Longeye → Destroy target opposing ally if it has or shares the highest cost among opposing allies.'
+
+faction: Horde
+
+temp: Troll Hunter

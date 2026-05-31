@@ -1,0 +1,23 @@
+card_name: Razor Hill Spiritseer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: 'Bloodrush : While an opposing hero has more damage on it than your hero, this ally has Assault 2 .'
+
+cost: '2'
+
+combat: Frost
+
+faction: Horde
+
+temp: Orc Shaman

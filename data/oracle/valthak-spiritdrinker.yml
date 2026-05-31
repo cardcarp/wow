@@ -1,0 +1,23 @@
+card_name: Valthak Spiritdrinker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Your hero can't be destroyed.
+
+cost: '4'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Warlock

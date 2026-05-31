@@ -1,0 +1,17 @@
+card_name: Frigid Hopelessness
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: "The raid leader chooses one: The Boss deals 9 frost damage to the raid leader's hero; or it deals 3 frost damage to each raiding hero."
+
+temp: ''
+
+type: Raid
+
+stage: 0

@@ -1,0 +1,18 @@
+card_name: Mark of Growth
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target hero. Ongoing : Attached hero has Mend 3 .'
+
+class:
+  - Druid
+
+cost: '4'
+
+temp: Restoration Attachment

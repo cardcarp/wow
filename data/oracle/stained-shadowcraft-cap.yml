@@ -1,0 +1,19 @@
+card_name: Stained Shadowcraft Cap
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn, if this armor has three or more heirloom counters: → Your hero deals 3 nature damage to target hero or ally. Stash : Add an heirloom counter to target equipment you control.'
+
+class:
+  - Druid
+  - Rogue
+
+cost: '1'
+
+temp: Armor Leather

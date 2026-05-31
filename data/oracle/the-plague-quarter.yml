@@ -1,0 +1,19 @@
+card_name: The Plague Quarter
+
+layout: standard
+
+regulation:
+
+category: Misc
+
+errata: []
+
+text: 'Raiding allies have -1 / -1. On your turn: → Put a Decrepit Fever from your graveyard into your hand. When a Boss is destroyed, destroy all Naxxramas tokens. When Loatheb is destroyed, flip this card. Noth the Plaguebringer Heigan the Unclean Loatheb'
+
+temp: ''
+
+transform:
+  - id: ability
+    text: When this card flips to this side, say "You have no idea what horrors lie ahead. You have seen nothing! The frozen heart of Naxxramas awaits you!" Raiding allies have +1 / +1.
+
+type: Raid

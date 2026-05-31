@@ -1,0 +1,23 @@
+card_name: Marauding Geist
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Scourge Hero Required This ally can't attack unless there is at least one card in each graveyard.
+
+cost: '1'
+
+combat: Melee
+
+temp: Geist
+
+type: Raid

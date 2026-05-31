@@ -1,0 +1,18 @@
+card_name: Ataraxis, Cudgel of the Warmaster
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Opponents pay 3 more to strike with weapons.
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: 2H Weapon Mace

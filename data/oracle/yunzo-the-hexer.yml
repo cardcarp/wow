@@ -1,0 +1,23 @@
+card_name: Yunzo the Hexer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: x , → This ally deals X shadow damage to target opposing hero, then heals that much damage from your hero.
+
+cost: '1'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Troll Priest

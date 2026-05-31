@@ -1,0 +1,19 @@
+card_name: Thundering Greathelm
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play an ally, your weapons have +1 ATK this turn.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '4'
+
+temp: Armor Plate

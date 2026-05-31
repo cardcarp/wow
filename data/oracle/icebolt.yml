@@ -1,0 +1,13 @@
+card_name: Icebolt
+
+layout: standard
+
+regulation:
+
+category: Misc
+
+errata: []
+
+text: "Ongoing : When Icebolt attaches to a hero, put a shelter counter on that hero and each ally in its party. Attached hero can't attack, exhaust, or be dealt damage. At the end of your turn, destroy Icebolt, and the Sapphiron deals 150,000 unpreventable frost damage to each raiding hero and ally without a shelter counter. Remove all shelter counters from play and flip Sapphiron."
+
+temp: Token

@@ -1,0 +1,19 @@
+card_name: Nexus-Thief Asar
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 8 → Flip Asar face down. You pay 8 less to flip Asar if an opposing hero was dealt damage three or more times this turn.
+
+temp: Ethereal Rogue 27
+
+transform:
+  - id: ability
+    text: "At the start of your turn, Asar deals 1 melee damage to target opposing hero for each Monster hero and ally you control. Deckbuilding: You can't put or cards in your deck."
+
+type: Monster

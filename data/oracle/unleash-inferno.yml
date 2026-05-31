@@ -1,0 +1,18 @@
+card_name: Unleash Inferno
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally or weapon you control. Ongoing : 1 → Attached card has +2 ATK this turn.'
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Enhancement Attachment

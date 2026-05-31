@@ -1,0 +1,18 @@
+card_name: Incinerate
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 2 fire damage to target hero or ally, or 4 if your hero dealt fire damage with an ability to that character this turn.
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Destruction

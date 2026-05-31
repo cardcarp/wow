@@ -1,0 +1,18 @@
+card_name: Sharp Eye
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target hero or ally you control has Assault 2 and Long-Range this turn.
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Survival

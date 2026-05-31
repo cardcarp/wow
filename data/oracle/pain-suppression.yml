@@ -1,0 +1,18 @@
+card_name: Pain Suppression
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Discipline Hero Required Ongoing : If your hero would be dealt damage, prevent 1 of that damage.'
+
+class:
+  - Priest
+
+cost: '4'
+
+temp: Discipline Talent

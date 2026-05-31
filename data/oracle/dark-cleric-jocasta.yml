@@ -1,0 +1,23 @@
+card_name: Dark Cleric Jocasta
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: When this ally enters play, you may put target ally from your graveyard into your hand.
+
+cost: '6'
+
+combat: Holy
+
+faction: Horde
+
+temp: Undead Priest

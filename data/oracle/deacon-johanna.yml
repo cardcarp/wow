@@ -1,0 +1,23 @@
+card_name: Deacon Johanna
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: 2 → Deacon Johanna heals 2 damage from target hero or ally. Use only once per turn.
+
+cost: '2'
+
+combat: Holy
+
+faction: Horde
+
+temp: Undead Priest

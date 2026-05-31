@@ -1,0 +1,18 @@
+card_name: Seal of Sanctity
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When your hero deals combat damage with a weapon, add a purity counter. Your hero has Mend 1 for each purity counter.'
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Holy

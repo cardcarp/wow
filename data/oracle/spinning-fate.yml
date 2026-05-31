@@ -1,0 +1,19 @@
+card_name: Spinning Fate
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Thrown When you strike with this weapon, put the top card of target opponent's deck into his graveyard. This weapon has Assault X this combat, where X is the cost of that card.
+
+class:
+  - Warrior
+  - Rogue
+
+cost: '1'
+
+temp: Ranged Weapon Shuriken

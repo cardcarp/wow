@@ -1,0 +1,18 @@
+card_name: Mental Focus
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target friendly ally. Ongoing : You and friendly players pay 1 less to play cards, to a minimum of 1 .'
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Discipline

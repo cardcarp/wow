@@ -1,0 +1,18 @@
+card_name: Shroud of the Nethermancer
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to your hero. Ongoing : Attached hero has: → Your hero deals 2 shadow damage to target hero and heals 2 damage from itself. → Search your deck for a Demon, reveal it, and put it into your hand. → Your hero deals 1 fire damage to each ally.'
+
+class:
+  - Warlock
+
+cost: '6'
+
+temp: Affliction Demonology Destruction

@@ -1,0 +1,19 @@
+card_name: Overpowered Chicken Splitter
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this weapon enters play, you pay 4 less to strike with it this turn.
+
+class:
+  - Hunter
+  - Rogue
+
+cost: '4'
+
+temp: Ranged Weapon Bow

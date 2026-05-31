@@ -1,0 +1,18 @@
+card_name: Frigid Frailty
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target ally has 0 ATK and can't gain ATK this turn.
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Frost

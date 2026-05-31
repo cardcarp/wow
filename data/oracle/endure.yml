@@ -1,0 +1,18 @@
+card_name: Endure
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Play this ability only if your hero has 5 or less remaining health. Ongoing : → Remove your hero from combat. → Interrupt target ability that's targeting your hero."
+
+class:
+  - Hunter
+
+cost: '0'
+
+temp: Survival

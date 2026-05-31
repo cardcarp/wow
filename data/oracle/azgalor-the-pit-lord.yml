@@ -1,0 +1,23 @@
+card_name: Azgalor the Pit Lord
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 11
+
+health: 5
+
+text: Smash When this ally enters play, you may choose and destroy any number of other allies you control. If you do, search your deck for a card and put it into your hand for each ally destroyed this way.
+
+cost: '7'
+
+combat: Melee
+
+temp: Pit Lord Demon
+
+type: Monster

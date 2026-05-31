@@ -1,0 +1,23 @@
+card_name: Drak_narr
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 5
+
+text: Smash
+
+cost: '6'
+
+combat: Nature
+
+temp: Ogre Shaman
+
+type: Monster

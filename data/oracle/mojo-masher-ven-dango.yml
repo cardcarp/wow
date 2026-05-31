@@ -1,0 +1,23 @@
+card_name: Mojo Masher Ven_dango
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 1
+
+text: When another ally in your party is destroyed, you may destroy target equipment.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Rogue

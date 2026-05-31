@@ -1,0 +1,23 @@
+card_name: Windstriker Larun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Each ally has ATK equal to its printed ATK, has health equal to its printed health, and can't gain or lose ATK or health.
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Shaman

@@ -1,0 +1,18 @@
+card_name: Circle of Healing
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Holy Talent Your hero heals 10 damage from each friendly hero and ally.
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Holy

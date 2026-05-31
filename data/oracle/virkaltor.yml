@@ -1,0 +1,23 @@
+card_name: Virkaltor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: 1 , Destroy Virkaltor → Destroy target ability.
+
+cost: '5'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

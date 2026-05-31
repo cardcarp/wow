@@ -1,0 +1,19 @@
+card_name: Staff of Trickery
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Exhaust your hero, discard a card → Ready or exhaust target card if it shares a card type with the card you discarded.
+
+class:
+  - Druid
+  - Hunter
+
+cost: '3'
+
+temp: 2H Weapon Staff

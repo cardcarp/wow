@@ -1,0 +1,54 @@
+name: Hogger
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Champion
+  - Starter
+
+collection: champion
+
+highlight: hogger-001
+
+description: Hogger Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the Hogger
+
+total: 61
+
+list:
+  hero:
+    hogger-001: 1  # Hogger
+  main:
+    hogger-002: 2  # Brutal Strike
+    hogger-003: 1 # Crushing Strike
+    hogger-004: 3 # Execute
+    hogger-005: 2 # Face of Fear
+    hogger-006: 2 # Monstrous Cleave
+    hogger-007: 2 # Monstrous Upheaval
+    hogger-008: 1 # Vitality
+    hogger-009: 3 # Brogre
+    hogger-010: 2 # Deathsmasher Mogdar
+    hogger-011: 2 # Drugush the Crusher
+    hogger-012: 2 # Grag_tok
+    hogger-013: 3 # Gutfin
+    hogger-014: 1 # Mindbender Ghursha
+    hogger-015: 6 # Murloc Coastrunner
+    hogger-016: 3 # Muzzle
+    hogger-017: 2 # Nibbler
+    hogger-018: 2 # Tar_gak the Felcrazed
+    hogger-019: 2 # Throk the Conqueror
+    hogger-020: 1 # Bloodbanes Fall
+    hogger-021: 2 # Belt of Absolute Zero
+    hogger-022: 1 # Gurubashi Punisher
+    hogger-023: 1 # Sulfuras, The Extinguished Hand
+    hogger-024: 1 # Blueleaf Tubers
+    hogger-025: 3 # Cleaning House
+    hogger-026: 2 # The Culmination of Our Efforts
+    hogger-027: 2 # The Key to Freedom
+    hogger-028: 3 # Wake of Destruction
+    hogger-029: 3 # Waking the Beast

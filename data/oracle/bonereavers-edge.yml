@@ -1,0 +1,19 @@
+card_name: Bonereavers Edge
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When Bonereaver's Edge enters play, you may destroy target armor.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '6'
+
+temp: 2H Weapon Sword

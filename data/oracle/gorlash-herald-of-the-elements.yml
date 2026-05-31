@@ -1,0 +1,23 @@
+card_name: Gorlash, Herald of the Elements
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 5
+
+text: 'Empower Shaman : When this ally enters play, if you control another Shaman hero or ally, this ally deals 4 nature damage divided as you choose to any number of target heroes and/or allies.'
+
+cost: '6'
+
+combat: Nature
+
+temp: Ogre Shaman
+
+type: Monster

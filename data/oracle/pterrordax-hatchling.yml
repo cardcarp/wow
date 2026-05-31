@@ -1,0 +1,23 @@
+card_name: Pterrordax Hatchling
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: 'At the start of your turn, choose one at random: Slicing Wind; Ancient Blessing; or Lift-Off. Slicing Wind – This ally deals 1 melee damage to each of up to three target allies. Ancient Blessing – This ally heals 1 damage from each ally you control. Lift-Off – Remove this ally from the game. At the start of your next turn, put it into play, and it has +2 ATK and Ferocity this turn.'
+
+cost: '2'
+
+combat: Melee
+
+temp: Pterrordax Beast
+
+type: Monster

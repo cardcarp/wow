@@ -1,0 +1,18 @@
+card_name: Reckless Fireball
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 4 fire damage to target opposing hero or ally. That character's controller may discard a card from his hand. If he does, his hero deals 4 fire damage to target hero or ally of his choice.
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Fire

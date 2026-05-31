@@ -1,0 +1,23 @@
+card_name: Mulgore Deathwalker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: 'Protector Tribe : When this or another Tauren ally enters play under your control, this ally may deal 2 melee damage to target damaged ally.'
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Death Knight

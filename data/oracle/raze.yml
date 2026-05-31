@@ -1,0 +1,18 @@
+card_name: Raze
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Finishing Move Destroy each opposing ally and equipment with cost X.
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Assassination

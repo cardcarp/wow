@@ -1,0 +1,23 @@
+card_name: Mo'arg Doomsmith
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play, he may deal 4 damage to another ally you control. If he does, your hero has Assault 4 this turn.
+
+cost: '4'
+
+combat: Melee
+
+temp: Mo'arg Demon
+
+type: Monster

@@ -1,0 +1,22 @@
+card_name: Queen Angerboda
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Flip Angerboda, remove a Mage in your graveyard from the game → Target ally can't attack this turn.
+
+class:
+  - Mage
+
+temp: Vrykul Mage 25
+
+transform:
+  - id: ability
+    text: "Deckbuilding : You can only include either or cards, cards, Frost talents, neutral cards, and Scourge cards. You can't include cards with reputations or other text restrictions."
+
+type: Raid

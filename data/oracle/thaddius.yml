@@ -1,0 +1,19 @@
+card_name: Thaddius
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: While Stalagg or Feugen is in play, Thaddius has Immune and loses and can't have other powers. Conspicuous , Assault 10 At the start of each raider's turn, Thaddius deals 10 nature damage to his hero if that raider controls an odd number of characters. Otherwise, his hero deals 10 nature damage to Thaddius.
+
+temp: Flesh Titan 50
+
+transform:
+  - id: ability
+    text: Conspicuous , Assault 15 At the start of your turn, Thaddius deals 10 nature damage to each opposing hero and ally.
+
+type: Boss

@@ -1,0 +1,18 @@
+card_name: Glimmer of Hope
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Interrupt target ability card that's targeting a card in play you control.
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection

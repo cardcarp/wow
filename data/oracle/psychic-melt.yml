@@ -1,0 +1,18 @@
+card_name: Psychic Melt
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target opponent chooses and destroys an ally he controls.
+
+class:
+  - Priest
+
+cost: '4'
+
+temp: Shadow

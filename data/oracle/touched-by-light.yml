@@ -1,0 +1,18 @@
+card_name: Touched by Light
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero heals 1 damage from target hero or ally. Draw a card.
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Holy

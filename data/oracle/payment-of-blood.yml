@@ -1,0 +1,18 @@
+card_name: Payment of Blood
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target equipment. If you do, put X damage on your hero and draw X cards, where X is that equipment's cost.
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Fury

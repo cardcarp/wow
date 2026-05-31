@@ -1,0 +1,17 @@
+card_name: Raging Spirit
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Target opponent reveals his hand, and you put an ally from it into play under your control with this ability attached to it. Ongoing : Attached ally has Assault 2 and is also a Scourge ally.'
+
+cost: '2'
+
+temp: ''
+
+type: Boss

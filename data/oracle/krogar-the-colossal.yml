@@ -1,0 +1,23 @@
+card_name: Krogar the Colossal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 9
+
+health: 13
+
+text: 'Conspicuous Empower Monster : When this ally enters play, if you control another Monster hero or ally, you may shout "ME BIGGEST!" while pounding your fists on the table. If you do, this ally and target opposing ally deal melee damage to each other equal to their respective ATK.'
+
+cost: '8'
+
+combat: Melee
+
+temp: Ogre Lord Warrior
+
+type: Monster

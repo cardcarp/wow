@@ -1,0 +1,23 @@
+card_name: Gahrunt Foulfang
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Remove three ally cards in your graveyard from the game → Target ally in your party has Ferocity this turn.
+
+cost: '3'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Warlock

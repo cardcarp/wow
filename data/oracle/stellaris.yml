@@ -1,0 +1,21 @@
+card_name: Stellaris
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Exhaust an ally in your party → You pay 1 less the next time you strike with Stellaris this turn.
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Shaman
+
+cost: '2'
+
+temp: 1H Weapon Axe

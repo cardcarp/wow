@@ -1,0 +1,18 @@
+card_name: Heroic Throw
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: You may discard a weapon rather than pay this ability's cost. Your hero deals 4 ranged damage to target hero or ally.
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Arms

@@ -1,0 +1,23 @@
+card_name: Alador Stonebrew
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Protector
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Paladin

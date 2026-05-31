@@ -1,0 +1,19 @@
+card_name: Gloves of Calculated Risk
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You pay 1 to play equipment, to a minimum of 1 . Weapons you control have +1 ATK and other armor you control have +1 . When this armor is destroyed, destroy all equipment you control.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '3'
+
+temp: Armor Mail

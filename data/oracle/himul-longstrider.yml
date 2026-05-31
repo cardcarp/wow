@@ -1,0 +1,23 @@
+card_name: Himul Longstrider
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: War Stomp
+
+cost: '2'
+
+combat: Frost
+
+faction: Horde
+
+temp: Tauren Shaman

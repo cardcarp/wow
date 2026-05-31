@@ -1,0 +1,18 @@
+card_name: Earth Mothers Blessing
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +3 ATK / +3 health. When attached ally is destroyed, draw a card.'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Restoration

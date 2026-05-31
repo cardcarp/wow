@@ -1,0 +1,18 @@
+card_name: Splinter Mind
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : You control attached ally. At the start of your turn, your hero deals 1 shadow damage to attached ally.'
+
+class:
+  - Priest
+
+cost: '4'
+
+temp: Shadow

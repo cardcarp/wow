@@ -1,0 +1,23 @@
+card_name: Zumbly Fiddlespark
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Protector Escape Artist When Zumbly leaves play, target ally is a Protector this turn.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Warrior

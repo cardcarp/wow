@@ -1,0 +1,18 @@
+card_name: Darkflame
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals unpreventable shadowfire damage to target hero or ally equal to the combined ATK of a card and a card you control. (This counts as both shadow and fire damage.)
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Destruction

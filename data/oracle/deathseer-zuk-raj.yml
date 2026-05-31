@@ -1,0 +1,23 @@
+card_name: Deathseer Zuk_raj
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Flip Zuk'raj, remove a Scourge ally in your graveyard from the game → The next time Zuk'raj would deal nature damage this turn, he deals that much +1 instead.
+
+class:
+  - Druid
+  - Shaman
+
+temp: Risen Drakkari 27
+
+transform:
+  - id: ability
+    text: "Deckbuilding : You can only include abilities, equipment, allies with ally type Death Knight, neutral quests and locations, and Scourge cards. You can't include cards with reputations or other text restrictions (like Balance Hero Required ) ."
+
+type: Raid

@@ -1,0 +1,15 @@
+card_name: Toreks Assault
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'If an opposing hero was dealt damage this turn by an ally in your party, pay 1 to complete this quest. Reward : Draw a card.'
+
+faction: Horde
+
+temp: ''

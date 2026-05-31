@@ -1,0 +1,18 @@
+card_name: Tremor Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : At the start of each turn, destroy any number of abilities attached to heroes and allies in your party. (Totems can be attacked or targeted like allies.)'
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Restoration 1

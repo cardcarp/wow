@@ -1,0 +1,23 @@
+card_name: Barnathrum, Lord of Pain
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: 1 , → Double the damage on each ally.
+
+cost: '4'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Warlock

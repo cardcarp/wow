@@ -1,0 +1,19 @@
+card_name: Trollwoven Spaulders
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, your hero has Berserking and Conspicuous this turn.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '5'
+
+temp: Armor Leather

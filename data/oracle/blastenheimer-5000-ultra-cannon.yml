@@ -1,0 +1,15 @@
+card_name: Blastenheimer 5000 Ultra Cannon
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : 3 , → You may put an ally card from your hand into play. If you do, destroy it at the start of the next turn.'
+
+cost: '7'
+
+temp: ''

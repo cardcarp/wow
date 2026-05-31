@@ -1,0 +1,18 @@
+card_name: Cyclone
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Attach to target hero or ally, and put three wind counters on Cyclone. Ongoing : Attached character can't attack or protect. At the start of your turn, remove a wind counter from Cyclone. If you removed the last one, destroy Cyclone."
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Balance

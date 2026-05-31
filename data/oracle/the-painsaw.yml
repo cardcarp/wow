@@ -1,0 +1,23 @@
+card_name: _The Painsaw_
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When The Painsaw enters play, you may destroy target ready weapon.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

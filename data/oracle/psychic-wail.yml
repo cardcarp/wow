@@ -1,0 +1,18 @@
+card_name: Psychic Wail
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Target player puts an ally he controls into its owner's hand. Stash : Exhaust target resource."
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Shadow

@@ -1,0 +1,15 @@
+card_name: Essence of Defense
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'You pay 2 less to play this ability if you control a Death Knight hero or ally. You pay 2 less to play this ability if you control a Druid hero or ally. Attach to target ally. Ongoing : Attached ally has +2 / +2 and Protector .'
+
+cost: '5'
+
+temp: ''

@@ -1,0 +1,19 @@
+card_name: Marksmans Legguards
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , Destroy Marksman's Legguards → Target ally has Long-Range this turn.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '1'
+
+temp: Armor Mail

@@ -1,0 +1,15 @@
+card_name: Elunes Blessing
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : Attached ally has +3 / +3.'
+
+cost: '5'
+
+temp: ''

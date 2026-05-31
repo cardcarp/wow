@@ -1,0 +1,23 @@
+card_name: Sarn Earthtrembler
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: Protector War Stomp You pay 1 less to play Sarn for each exhausted opposing hero and ally.
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Druid

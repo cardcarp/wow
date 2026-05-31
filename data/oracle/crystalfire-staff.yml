@@ -1,0 +1,22 @@
+card_name: Crystalfire Staff
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Exhaust your hero → Target player draws a card.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '6'
+
+temp: 2H Weapon Staff

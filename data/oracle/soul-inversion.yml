@@ -1,0 +1,18 @@
+card_name: Soul Inversion
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : Attached ally has +2 / -2.'
+
+class:
+  - Warlock
+
+cost: '1'
+
+temp: Affliction

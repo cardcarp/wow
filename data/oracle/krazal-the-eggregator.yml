@@ -1,0 +1,21 @@
+card_name: Krazal the Eggregator
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally is revealed from your deck, put a 1 / 1 Spring Rabbit ally token into play.
+
+cost: '2'
+
+combat: Nature
+
+temp: Goblin Egg Hoarder

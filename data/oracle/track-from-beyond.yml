@@ -1,0 +1,18 @@
+card_name: Track from Beyond
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Warp Look at the top four cards of your deck. Put one into your hand and the rest on the bottom of your deck.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Survival

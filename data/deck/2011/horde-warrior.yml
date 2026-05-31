@@ -1,0 +1,57 @@
+name: Horde Warrior
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Horde
+  - Starter
+  - '2011'
+
+collection: '2011'
+
+highlight: starter-2011-horde-warrior-001
+
+description: 2011 Horde Warrior Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2011 Horde Warrior
+
+total: 61
+
+list:
+  hero:
+    starter-2011-horde-warrior-001: 1  # Gurzak of Orgrimmar
+  main:
+    starter-2011-horde-warrior-002: 2  # Armed to the Teeth
+    starter-2011-horde-warrior-003: 2 # Battle Shout
+    starter-2011-horde-warrior-004: 1 # Crushing Strike
+    starter-2011-horde-warrior-005: 2 # Execute
+    starter-2011-horde-warrior-006: 1 # Juggernaut
+    starter-2011-horde-warrior-007: 2 # Rend
+    starter-2011-horde-warrior-008: 1 # Thunder Clap
+    starter-2011-horde-warrior-009: 1 # Whirlwind
+    starter-2011-horde-warrior-010: 2 # Benethor Draigo
+    starter-2011-horde-warrior-011: 2 # Brigg
+    starter-2011-horde-warrior-012: 3 # Gurzuk
+    starter-2011-horde-warrior-013: 2 # Kagra of the Crossroads
+    starter-2011-horde-warrior-014: 2 # Karrok Scarrend
+    starter-2011-horde-warrior-015: 1 # Moko Hunts-at-Dawn
+    starter-2011-horde-warrior-016: 3 # Nikka Blastbor
+    starter-2011-horde-warrior-017: 2 # Taz_dingo
+    starter-2011-horde-warrior-018: 2 # Tyrennius Scatheblade
+    starter-2011-horde-warrior-019: 2 # Vaerik Proudhoof
+    starter-2011-horde-warrior-020: 2 # Wysko
+    starter-2011-horde-warrior-021: 2 # Zulanji
+    starter-2011-horde-warrior-022: 1 # Zygore Bladebreaker
+    starter-2011-horde-warrior-023: 1 # Golem Skull Helm
+    starter-2011-horde-warrior-024: 1 # Arcanite Reaper
+    starter-2011-horde-warrior-025: 3 # Fel Iron Hatchet
+    starter-2011-horde-warrior-026: 3 # A Bird in Hand
+    starter-2011-horde-warrior-027: 1 # Blueleaf Tubers
+    starter-2011-horde-warrior-028: 3 # Entrenched
+    starter-2011-horde-warrior-029: 3 # The Essence of Enmity
+    starter-2011-horde-warrior-030: 3 # The Grimtotem Weapon
+    starter-2011-horde-warrior-031: 4 # The Key to Freedom

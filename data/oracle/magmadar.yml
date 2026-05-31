@@ -1,0 +1,19 @@
+card_name: Magmadar
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 12
+
+text: Magmadar has +5 ATK while attacking and can attack only heroes. At the end of your turn, flip Magmadar.
+
+temp: Core Hound
+
+transform:
+  - id: ability
+    text: Magmadar has +10 ATK while attacking and can attack only heroes. 1 , Exhaust a Hunter in your party → Flip Magmadar. Any player may use this power during that player's turn.

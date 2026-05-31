@@ -1,0 +1,18 @@
+card_name: Blade Flurry
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Combat Hero Required Ongoing : When your hero deals combat damage with a weapon to an ally, you may have your hero deal that much melee damage to another target hero or ally.'
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: Combat Talent

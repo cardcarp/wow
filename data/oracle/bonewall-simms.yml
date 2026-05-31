@@ -1,0 +1,17 @@
+card_name: _Bonewall_ Simms
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 2 , Flip Bonewall → Target hero or ally is a Protector this turn.
+
+faction: Horde
+
+temp: Undead Warrior

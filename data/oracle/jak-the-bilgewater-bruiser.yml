@@ -1,0 +1,17 @@
+card_name: Jak the Bilgewater Bruiser
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 'On your turn: 4 , Flip Jak → Ready Jak and target weapon you control. You pay 4 less to strike with it this turn.'
+
+faction: Horde
+
+temp: Goblin Warrior

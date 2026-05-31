@@ -1,0 +1,18 @@
+card_name: Shadow Word_ Death
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 3 shadow damage to target hero or ally. Then, if that character doesn't have fatal damage, put 3 damage on your hero.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Shadow

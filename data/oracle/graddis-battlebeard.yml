@@ -1,0 +1,23 @@
+card_name: Graddis Battlebeard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: When this ally enters play, he deals 4 nature damage divided as you choose to up to four target heroes and/or allies. At the start of your turn, this ally heals 4 damage divided as you choose from up to four target heroes and/or allies.
+
+cost: '6'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Dwarf Shaman

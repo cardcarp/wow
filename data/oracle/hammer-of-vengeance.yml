@@ -1,0 +1,18 @@
+card_name: Hammer of Vengeance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Exhaust target ready opposing ally. Your hero may deal unpreventable holy damage equal to that ally's ATK to another target ally. Delve
+
+class:
+  - Paladin
+
+cost: '3'
+
+temp: Retribution

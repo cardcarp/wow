@@ -1,0 +1,23 @@
+card_name: Aegwynn, Guardian of Tirisfal
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+damage: 0
+
+health: 32
+
+text: 'When your hero becomes Aegwynn, add three tirisfal counters to her. , Remove a tirisfal counter → Target ally has Elusive this turn. , Remove a tirisfal counter → Draw a card, then discard a card. While Aegwynn has no tirisfal counters on her: → Put a token copy of each ally you control into play.'
+
+cost: '8'
+
+combat: Arcane
+
+temp: Human Mage
+
+type: Master

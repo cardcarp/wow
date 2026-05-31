@@ -1,0 +1,27 @@
+card_name: Blossoming Branch
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 4 , , Destroy this item → Destroy target ally, and its controller puts a 0 / 1 Adorable Rabbit ally token into play. 4 , , Destroy this item → Destroy target ally, and its controller puts a 5 / 5 Savage Rabbit ally token into play.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '4'
+
+temp: Item

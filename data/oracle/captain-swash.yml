@@ -1,0 +1,23 @@
+card_name: Captain Swash
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: This ally has +3 ATK while attacking an exhausted hero or ally.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Rogue

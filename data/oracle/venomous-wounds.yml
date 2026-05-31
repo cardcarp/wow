@@ -1,0 +1,18 @@
+card_name: Venomous Wounds
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Assassination Talent Ongoing : At the end of your turn, if your hero dealt combat damage to a hero this turn, trigger each Poison you control.'
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Assassination

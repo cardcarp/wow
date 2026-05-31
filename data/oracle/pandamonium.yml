@@ -1,0 +1,15 @@
+card_name: Pandamonium!
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put three Pandaren ally tokens into play with 1 ATK / 1 health and "This token has +1 ATK / +1 health for each other Pandaren in your party."
+
+cost: '7'
+
+temp: ''

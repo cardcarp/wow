@@ -1,0 +1,17 @@
+card_name: Plague Fleshbane
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Plague → If Plague would be dealt damage this turn, you may choose a Demon in your party. If you do, that damage is dealt to that Demon instead.
+
+faction: Horde
+
+temp: Undead Warlock

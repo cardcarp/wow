@@ -1,0 +1,19 @@
+card_name: Leggings of the Honored
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: This armor has +4 if an ally entered a graveyard this turn.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '2'
+
+temp: Armor Leather

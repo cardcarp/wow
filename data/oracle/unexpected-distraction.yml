@@ -1,0 +1,15 @@
+card_name: Unexpected Distraction
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Prevent all damage that would be dealt to target hero or ally this turn.
+
+cost: '1'
+
+temp: Molten Core

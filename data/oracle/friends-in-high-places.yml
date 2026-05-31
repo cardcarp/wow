@@ -1,0 +1,18 @@
+card_name: Friends in High Places
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Put two 1 / 1 Treant ally tokens into play.
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Balance

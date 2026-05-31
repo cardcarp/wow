@@ -1,0 +1,15 @@
+card_name: Preserve and Protect
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Empower Paladin : If you control a Paladin hero or ally, allies you control have Protector this turn. Empower Priest : If you control a Priest hero or ally, prevent all combat damage that would be dealt to defending allies you control this turn.'
+
+cost: '1'
+
+temp: ''

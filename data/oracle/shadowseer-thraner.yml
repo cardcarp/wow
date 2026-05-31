@@ -1,0 +1,23 @@
+card_name: Shadowseer Thraner
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 6
+
+text: When this ally enters play, reveal the top card of your deck. If it's an ability, ally, or equipment, target opponent removes cards from the top of his deck from the game equal to that revealed card's cost.
+
+cost: '6'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Dwarf Priest

@@ -1,0 +1,19 @@
+card_name: Obliveron
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: You can have any number of Pets.
+
+temp: Pit Lord Demon
+
+transform:
+  - id: ability
+    text: You can have any number of Pets. You can include only neutral quests, any Traitor cards, and any Demon allies. You can't include cards with reputation or other text restrictions (like Fire Hero Required ) .

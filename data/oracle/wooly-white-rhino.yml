@@ -1,0 +1,21 @@
+card_name: Wooly White Rhino
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 3
+
+text: "Frost Resistance You pay 1 less to complete quests. When you place a resource face up, choose one: Your hero can't be protected against this turn; or the next time your hero would deal damage this turn, it's unpreventable. (Mounts can't attack or be attacked.)"
+
+cost: '2'
+
+combat: Melee
+
+temp: Rhino

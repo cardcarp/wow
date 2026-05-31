@@ -1,0 +1,18 @@
+card_name: Totemic Call
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Choose one or more: If you have an Air Totem, ready your hero and one of your Melee weapons; or if you have an Earth Totem, allies in your party have +1 ATK this turn; or if you have a Fire Totem, your hero deals 2 fire damage to target hero or ally; or if you have a Water Totem, draw two cards.'
+
+class:
+  - Shaman
+
+cost: '4'
+
+temp: Elemental

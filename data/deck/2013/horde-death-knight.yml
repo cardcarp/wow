@@ -1,0 +1,50 @@
+name: Horde Death Knight
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Horde
+  - Starter
+  - '2013'
+
+collection: '2013'
+
+highlight: starter-2013-horde-dk-001
+
+description: 2013 Horde Death Knight Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2013 Horde Death Knight
+
+total: 61
+
+list:
+  hero:
+    starter-2013-horde-dk-001: 1  # Arathyen, the Suns Shadow
+  main:
+    starter-2013-horde-dk-002: 3  # Blight Bringers
+    starter-2013-horde-dk-003: 1 # Dark Transformation
+    starter-2013-horde-dk-004: 2 # Death Coil
+    starter-2013-horde-dk-005: 3 # Deaths Duo
+    starter-2013-horde-dk-006: 3 # Festering Disease
+    starter-2013-horde-dk-007: 3 # Horn of Winter
+    starter-2013-horde-dk-008: 3 # Raise the Dead
+    starter-2013-horde-dk-009: 2 # Siphon of Undeath
+    starter-2013-horde-dk-010: 2 # Baru Gravehorn
+    starter-2013-horde-dk-011: 3 # Claemora Amberglare
+    starter-2013-horde-dk-012: 1 # Deathlord Jones
+    starter-2013-horde-dk-013: 3 # Drandus the Deathcaller
+    starter-2013-horde-dk-014: 3 # Emelia Darkhand
+    starter-2013-horde-dk-015: 3 # _Fungus Face_ McGillicutty
+    starter-2013-horde-dk-016: 1 # Gravelord Adams
+    starter-2013-horde-dk-017: 3 # Karrok Scarrend
+    starter-2013-horde-dk-018: 3 # Vaerik Proudhoof
+    starter-2013-horde-dk-019: 3 # Vuza_jin
+    starter-2013-horde-dk-020: 3 # Archival Purposes
+    starter-2013-horde-dk-021: 3 # Entrenched
+    starter-2013-horde-dk-022: 3 # Escape from Durnholde
+    starter-2013-horde-dk-023: 3 # The Essence of Enmity
+    starter-2013-horde-dk-024: 3 # The Path to the Dragon Soul

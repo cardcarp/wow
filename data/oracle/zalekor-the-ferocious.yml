@@ -1,0 +1,23 @@
+card_name: Zalekor the Ferocious
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: Ferocity When this ally enters play, Portal . When a non-token ally enters play under your control, if you didn't play it from your hand, it has Ferocity this turn.
+
+cost: '6'
+
+combat: Melee
+
+temp: Doomguard Demon
+
+type: Monster

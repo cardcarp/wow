@@ -1,0 +1,19 @@
+card_name: Hogger
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 5 → Flip Hogger face down.
+
+temp: Gnoll Warrior 30
+
+transform:
+  - id: ability
+    text: "Summon Minion : At the start of your turn, put a 1 / 1 Gnoll Monster ally token into play. Deckbuilding: You can't put or cards in your deck."
+
+type: Monster

@@ -1,0 +1,23 @@
+card_name: Zarvix the Tormentor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 7
+
+text: Time is Money → Target player puts the top card of his deck into his graveyard for each Goblin you control.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Goblin Priest

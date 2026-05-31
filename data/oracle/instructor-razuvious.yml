@@ -1,0 +1,19 @@
+card_name: Instructor Razuvious
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Assault 4 When a Death Knight Understudy leaves your control, flip Razuvious face down.
+
+temp: Human Death Knight 6
+
+transform:
+  - id: ability
+    text: Assault 10 Razuvious must attack if able and can attack only a Death Knight Understudy if able.
+
+type: Boss

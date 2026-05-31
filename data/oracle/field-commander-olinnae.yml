@@ -1,0 +1,23 @@
+card_name: Field Commander Olinnae
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 5
+
+text: Protector All other allies in your party have Protector .
+
+cost: '7'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Warrior

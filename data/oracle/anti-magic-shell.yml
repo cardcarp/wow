@@ -1,0 +1,18 @@
+card_name: Anti-Magic Shell
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : → Prevent the next non-melee (non- ) damage that would be dealt to your hero this turn.'
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Unholy

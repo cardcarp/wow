@@ -1,0 +1,18 @@
+card_name: Lok_delar, Stave of the Ancient Keepers
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play a ability, your Ranged weapons have +1 ATK this turn.
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: 2H Weapon Staff

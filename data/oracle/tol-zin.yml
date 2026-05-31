@@ -1,0 +1,23 @@
+card_name: Tol_zin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: 'This ally has +2 / +2 for each token ally you control. Stash : Token allies you control have Assault 1 this turn.'
+
+cost: '3'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Troll Druid

@@ -1,0 +1,15 @@
+card_name: Surge of Power
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Token allies you control have +1 / +1.'
+
+cost: '3'
+
+temp: ''

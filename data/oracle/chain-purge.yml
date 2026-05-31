@@ -1,0 +1,18 @@
+card_name: Chain Purge
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target up to three abilities. Destroy the first. Destroy the second if it costs less than the first. Destroy the third if it costs less than the second.
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Elemental

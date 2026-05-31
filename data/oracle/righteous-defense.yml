@@ -1,0 +1,18 @@
+card_name: Righteous Defense
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Remove target friendly defending ally from combat, and your hero becomes a defender. Opposing heroes and allies can't attack that ally this turn.
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection

@@ -1,0 +1,23 @@
+card_name: Dorzok Shadowhand
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 1
+
+text: When this ally deals combat damage, it you have no cards in your hand, draw a card.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Rogue

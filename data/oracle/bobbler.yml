@@ -1,0 +1,23 @@
+card_name: Bobbler
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: This and other Murloc allies you control have Assault 2 .
+
+cost: '4'
+
+combat: Nature
+
+temp: Murloc Shaman
+
+type: Monster

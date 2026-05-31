@@ -1,0 +1,18 @@
+card_name: Garrote
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Play only if your hero has stealth. Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals 1 melee damage to attached character. The controller of a character dealt damage this way can't play abilities this turn."
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Assassination

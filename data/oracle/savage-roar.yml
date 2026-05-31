@@ -1,0 +1,18 @@
+card_name: Savage Roar
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Finishing Move Ongoing : This ability enters play with X roar counters. While you control a Form, your hero has Assault 1 for each roar counter.'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Feral

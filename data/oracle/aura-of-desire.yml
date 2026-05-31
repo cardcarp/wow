@@ -1,0 +1,15 @@
+card_name: Aura of Desire
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : , Discard a card → Your hero deals 2 shadow damage to target ally. , Discard two cards → Destroy target ability or equipment. , Discard five cards → Destroy all opposing abilities, allies, and equipment.'
+
+cost: '1'
+
+temp: Black Temple

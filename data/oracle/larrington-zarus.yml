@@ -1,0 +1,23 @@
+card_name: Larrington Zarus
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 9
+
+health: 6
+
+text: When Larrington is destroyed while not an Undead, target opponent puts him into his party, and Larrington is also an Undead.
+
+cost: '6'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Human Mage

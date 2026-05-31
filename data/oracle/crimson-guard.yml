@@ -1,0 +1,18 @@
+card_name: Crimson Guard
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero has Protector this turn. Allies you control with 6 or more ATK have Protector this turn.
+
+class:
+  - Death Knight
+
+cost: '1'
+
+temp: Blood

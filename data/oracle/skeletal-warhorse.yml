@@ -1,0 +1,23 @@
+card_name: Skeletal Warhorse
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 4
+
+text: Undead Hero Required You pay 1 less to complete quests. When you place a resource face up, you may remove target card in a graveyard from the game. (Mounts can't attack or be attacked.)
+
+cost: '2'
+
+combat: Melee
+
+faction: Horde
+
+temp: Warhorse

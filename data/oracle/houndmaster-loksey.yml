@@ -1,0 +1,21 @@
+card_name: Houndmaster Loksey
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: 'Boss Bloodlust : When Loksey attacks, ready Mograine. The next time Mograine attacks this turn, he attacks a random non-MARKED hero.'
+
+combat: Melee
+
+temp: Human Hunter
+
+type: Dungeon

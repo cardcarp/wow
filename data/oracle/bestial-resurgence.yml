@@ -1,0 +1,18 @@
+card_name: Bestial Resurgence
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put up to three target Pets with different names from your graveyard into your hand.
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Beast Mastery

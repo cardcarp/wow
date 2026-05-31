@@ -1,0 +1,23 @@
+card_name: Lessa the Awakener
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: When Lessa enters play, you may put an ally card with cost 2 or less from your graveyard into play.
+
+cost: '6'
+
+combat: Holy
+
+faction: Horde
+
+temp: Undead Priest

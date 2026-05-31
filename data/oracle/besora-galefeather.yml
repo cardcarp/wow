@@ -1,0 +1,23 @@
+card_name: Besora Galefeather
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: Assault 2
+
+cost: '3'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Tauren Druid

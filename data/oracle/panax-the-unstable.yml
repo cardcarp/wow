@@ -1,0 +1,23 @@
+card_name: Panax the Unstable
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: x , Destroy Panax → Panax deals X arcane damage to each ally.
+
+cost: '5'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Undead Mage

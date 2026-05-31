@@ -1,0 +1,23 @@
+card_name: Adrienne the Inspiring
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: 4 → Target ally has Assault 4 this turn.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Shaman

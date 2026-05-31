@@ -1,0 +1,20 @@
+card_name: Barnacle-Coated Greataxe
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You pay 1 less to play this weapon for each equipment you control. This weapon has +1 ATK for each equipment you control.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '8'
+
+temp: 2H Weapon Axe

@@ -1,0 +1,20 @@
+card_name: Ruthless Gladiators Decapitator
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with this weapon, you may remove target ally in a graveyard from the game. If you do, this weapon has +ATK this turn equal to the ATK of the removed ally.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '7'
+
+temp: 2H Weapon Axe

@@ -1,0 +1,21 @@
+card_name: Electrified Dagger
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Destroy Electrified Dagger → Your hero deals 2 nature damage divided as you choose to any number of target heroes and/or allies.
+
+class:
+  - Shaman
+  - Rogue
+
+cost: '2'
+
+faction: Alliance
+
+temp: 1H Weapon Dagger

@@ -1,0 +1,19 @@
+card_name: Moonstrider Boots
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , → Your hero has Stealth this turn.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '2'
+
+temp: Armor Leather

@@ -1,0 +1,23 @@
+card_name: Dastrin Bowman
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: Pets you control have Long-Range .
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Hunter

@@ -1,0 +1,19 @@
+card_name: Shadows of Death
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : 1 , Destroy a Demon or Ghoul you control → Your hero deals 3 shadow damage to target hero or ally.'
+
+class:
+  - Death Knight
+  - Warlock
+
+cost: '3'
+
+temp: Unholy Destruction

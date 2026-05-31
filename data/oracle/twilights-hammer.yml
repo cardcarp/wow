@@ -1,0 +1,21 @@
+card_name: Twilights Hammer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn: ; Exhaust your hero; destroy another ability, ally, or equipment you control → Gain control of target opposing card if it shares a card type with that destroyed card.'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '7'
+
+temp: 1H Weapon Mace

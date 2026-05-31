@@ -1,0 +1,23 @@
+card_name: Prince Xavalis
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: At the end of your turn, if an opposing hero has 15 or more damage on it, put a 1 / 1 Terror Fiend Demon Monster ally token into play with "When this ally deals combat damage to a hero, destroy that hero."
+
+cost: '3'
+
+combat: Shadow
+
+temp: Satyr Demon Rogue
+
+type: Monster

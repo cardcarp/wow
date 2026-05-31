@@ -1,0 +1,23 @@
+card_name: Bluffwatchers
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Bluffwatchers has +1 ATK and +1 health for each other ally named Bluffwatchers in your party.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Warrior

@@ -1,0 +1,23 @@
+card_name: Pugg
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Other allies in your party have -1 health.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

@@ -1,0 +1,23 @@
+card_name: Faceless Sapper
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Enrage When you reveal an ally this way, this ally has +2 ATK and Ferocity this turn.
+
+cost: '2'
+
+combat: Shadow
+
+temp: Faceless One Priest
+
+type: Monster

@@ -1,0 +1,23 @@
+card_name: Apprentice Merry
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Untargetable
+
+cost: '1'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Gnome Mage

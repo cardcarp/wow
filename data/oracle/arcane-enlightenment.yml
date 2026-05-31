@@ -1,0 +1,18 @@
+card_name: Arcane Enlightenment
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When you play an ability, add a knowledge counter to this ability. When there are fifteen or more knowledge counters on this ability, you can play abilities from your graveyard.'
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Arcane

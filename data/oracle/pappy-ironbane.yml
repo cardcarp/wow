@@ -1,0 +1,23 @@
+card_name: Pappy Ironbane
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 7
+
+text: Protector At the end of your turn, you may destroy target ability or equipment.
+
+cost: '7'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Warrior

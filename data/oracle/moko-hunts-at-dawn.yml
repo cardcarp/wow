@@ -1,0 +1,23 @@
+card_name: Moko Hunts-at-Dawn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: Ferocity
+
+cost: '6'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Tauren Hunter

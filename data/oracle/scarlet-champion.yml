@@ -1,0 +1,21 @@
+card_name: Scarlet Champion
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: This ally has Assault 4 while the Dungeon controls a ally.
+
+combat: Melee
+
+temp: Human Paladin
+
+type: Dungeon

@@ -1,0 +1,23 @@
+card_name: Tomadae the Magnificent
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: If your hero would deal damage with an ability, it deals that much +1 instead.
+
+cost: '6'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Draenei Mage

@@ -1,0 +1,17 @@
+card_name: Teretha of the Undercity
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: "On your turn: 3 , Flip Teretha → Target opponent chooses an ally he controls and puts it into its owner's hand."
+
+faction: Horde
+
+temp: Undead Priest

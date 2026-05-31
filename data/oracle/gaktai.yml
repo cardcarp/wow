@@ -1,0 +1,26 @@
+card_name: Gaktai
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When this ally enters play, you may put 2 damage on your hero. If you do, draw a card.
+
+class:
+  - Warlock
+
+cost: '2'
+
+combat: Fire
+
+temp: Imp Demon
+
+type: Monster

@@ -1,0 +1,51 @@
+name: Horde Paladin
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Horde
+  - Starter
+  - '2013'
+
+collection: '2013'
+
+highlight: starter-2013-horde-paladin-001
+
+description: 2013 Horde Paladin Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2013 Horde Paladin
+
+total: 61
+
+list:
+  hero:
+    starter-2013-horde-paladin-001: 1  # Haku, Son of Morning
+  main:
+    starter-2013-horde-paladin-002: 2  # Blessing of Might
+    starter-2013-horde-paladin-003: 1 # Blessing of Wisdom
+    starter-2013-horde-paladin-004: 3 # Hammer of Justice
+    starter-2013-horde-paladin-005: 3 # Holy Light
+    starter-2013-horde-paladin-006: 2 # Light of the Naaru
+    starter-2013-horde-paladin-007: 2 # Sacred Purification
+    starter-2013-horde-paladin-008: 3 # Shield of Light
+    starter-2013-horde-paladin-009: 1 # Unyielding Faith
+    starter-2013-horde-paladin-010: 2 # "Acid Hands" McGillicutty
+    starter-2013-horde-paladin-011: 2 # Bhenn Checks-the-Sky
+    starter-2013-horde-paladin-012: 3 # Dhoros Ravestrike
+    starter-2013-horde-paladin-013: 2 # Elderguard Brennan
+    starter-2013-horde-paladin-014: 3 # Forager Cloudbloom
+    starter-2013-horde-paladin-015: 3 # Jex_ali
+    starter-2013-horde-paladin-016: 3 # Jumahko Thundersky
+    starter-2013-horde-paladin-017: 3 # Kaelzin
+    starter-2013-horde-paladin-018: 3 # Ka_tali Stonetusk
+    starter-2013-horde-paladin-019: 1 # Tempest, Son-of-Storms
+    starter-2013-horde-paladin-020: 3 # Wrex
+    starter-2013-horde-paladin-021: 3 # Archival Purposes
+    starter-2013-horde-paladin-022: 3 # The Black Morass
+    starter-2013-horde-paladin-023: 3 # Entrenched
+    starter-2013-horde-paladin-024: 3 # Escape from Durnholde
+    starter-2013-horde-paladin-025: 3 # The Essence of Enmity

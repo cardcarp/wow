@@ -1,0 +1,18 @@
+card_name: Hand of Gul_dan
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Demonology Talent Your hero deals 6 shadow damage to target hero or ally. If an ally is dealt fatal damage this way, put a token copy of that ally into play under your control. That copy is also a Demon.
+
+class:
+  - Warlock
+
+cost: '7'
+
+temp: Demonology

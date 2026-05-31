@@ -1,0 +1,23 @@
+card_name: The Widow Deadsie
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: 'Unity : While you control three or more Human allies, prevent all damage that would be dealt to this ally.'
+
+cost: '3'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Priest

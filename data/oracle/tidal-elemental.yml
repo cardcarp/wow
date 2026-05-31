@@ -1,0 +1,24 @@
+card_name: Tidal Elemental
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Elusive 2 , → Exhaust target ally.
+
+class:
+  - Mage
+
+cost: '1'
+
+combat: Frost
+
+temp: Water Elemental

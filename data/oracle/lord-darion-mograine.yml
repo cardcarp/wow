@@ -1,0 +1,21 @@
+card_name: Lord Darion Mograine
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 6
+
+text: 1 , Destroy a Death Knight you control → Put a 3 / 3 Ghoul ally token into play.
+
+cost: '5'
+
+combat: Frost
+
+temp: Human Death Knight

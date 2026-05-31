@@ -1,0 +1,18 @@
+card_name: Hungering Cold
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Frost Talent Ongoing : When an opposing hero or ally exhausts, your hero deals 1 frost damage to it.'
+
+class:
+  - Death Knight
+
+cost: '4'
+
+temp: Frost

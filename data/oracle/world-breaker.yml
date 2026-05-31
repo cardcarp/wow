@@ -1,0 +1,20 @@
+card_name: World Breaker
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn: 6 , , Destroy World Breaker → Destroy all resources.'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+cost: '5'
+
+temp: 2H Weapon Mace

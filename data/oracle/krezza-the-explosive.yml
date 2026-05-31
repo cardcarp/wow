@@ -1,0 +1,23 @@
+card_name: Krezza the Explosive
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this ally deals damage to an opposing hero, she also deals 2 arcane damage to target opposing ally.
+
+cost: '3'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Goblin Mage

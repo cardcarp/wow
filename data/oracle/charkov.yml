@@ -1,0 +1,23 @@
+card_name: Charkov
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Will of the Forsaken When Charkov enters play, each player puts an ally from his party into its owner's hand.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Priest

@@ -1,0 +1,18 @@
+card_name: Seal of Betrayal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Traitor Hero Required Ongoing : When an ally is destroyed by combat damage dealt by your hero with a weapon, put that ally from its owner's graveyard into play under your control. 2 , Destroy Seal of Betrayal → Gain control of target ally that your hero dealt combat damage to this turn."
+
+class:
+  - Paladin
+
+cost: '4'
+
+temp: Traitor

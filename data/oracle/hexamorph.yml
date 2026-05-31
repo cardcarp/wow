@@ -1,0 +1,19 @@
+card_name: Hexamorph
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target ally loses and can't have powers this turn. Draw a card.
+
+class:
+  - Shaman
+  - Mage
+
+cost: '2'
+
+temp: Arcane Elemental

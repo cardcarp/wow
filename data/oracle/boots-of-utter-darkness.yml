@@ -1,0 +1,19 @@
+card_name: Boots of Utter Darkness
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Leatherworking Hero Required While you control an ability, your hero has Untargetable . While you control an ally, your hero has Elusive . While you control a weapon, your hero has Stealth .
+
+class:
+  - Druid
+  - Rogue
+
+cost: '2'
+
+temp: Armor

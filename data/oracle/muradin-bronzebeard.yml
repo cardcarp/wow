@@ -1,0 +1,23 @@
+card_name: Muradin Bronzebeard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: At the end of your turn, this ally deals 4 melee damage to each damaged opposing hero and ally.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Warrior

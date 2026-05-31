@@ -1,0 +1,26 @@
+card_name: Major Healing Potion
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , Destroy Major Healing Potion → Your hero heals 5 damage from itself.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item Potion

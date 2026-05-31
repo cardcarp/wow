@@ -1,0 +1,23 @@
+card_name: Keeper Balos
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Harmonize
+
+cost: '2'
+
+combat: Nature
+
+temp: Keeper of the Grove Druid
+
+type: Monster

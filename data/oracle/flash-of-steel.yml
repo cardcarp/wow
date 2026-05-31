@@ -1,0 +1,15 @@
+card_name: Flash of Steel
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 3 melee damage to target hero or ally.
+
+cost: '4'
+
+temp: ''

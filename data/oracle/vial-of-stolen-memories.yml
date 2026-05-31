@@ -1,0 +1,21 @@
+card_name: Vial of Stolen Memories
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this item enters play, search your deck for three cards with different names, reveal them, and remove them from the game face down. , Name a card → Look at a random card removed this way. If that card has that name, you may reveal it and put it into your hand.
+
+class:
+  - Druid
+  - Warrior
+  - Death Knight
+  - Paladin
+
+cost: '6'
+
+temp: Item Trinket

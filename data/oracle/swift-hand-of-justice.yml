@@ -1,0 +1,22 @@
+card_name: Swift Hand of Justice
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: "2 , Put this equipment into its owner's hand → Target ally has Ferocity this turn. Stash : Add an heirloom counter to target equipment you control."
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Paladin
+  - Death Knight
+
+cost: '1'
+
+temp: Item Trinket

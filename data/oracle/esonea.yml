@@ -1,0 +1,17 @@
+card_name: Esonea
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: Flip Esonea, discard a Warrior → Weapons you control have +3 ATK this turn.
+
+faction: Alliance
+
+temp: Draenei Warrior

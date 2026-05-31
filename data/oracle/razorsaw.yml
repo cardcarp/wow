@@ -1,0 +1,19 @@
+card_name: Razorsaw
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 4
+
+text: Long-Range When Razorsaw enters play, he deals 4 ranged damage to target ally in your party. When Razorsaw leaves play, he deals 4 ranged damage to target ally.
+
+cost: '6'
+
+temp: Demon

@@ -1,0 +1,23 @@
+card_name: Kuatha Mornhoof
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Protector
+
+cost: '3'
+
+combat: Holy
+
+faction: Horde
+
+temp: Tauren Paladin

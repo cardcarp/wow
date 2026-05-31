@@ -1,0 +1,19 @@
+card_name: Aegis of the Vindicator
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When an opposing hero or ally becomes exhausted, your hero heals 2 damage from itself.
+
+class:
+  - Paladin
+  - Shaman
+
+cost: '4'
+
+temp: Armor Shield

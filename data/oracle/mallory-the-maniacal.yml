@@ -1,0 +1,23 @@
+card_name: Mallory the Maniacal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: This ally enters play with 2 damage on her. This ally has Assault 4 and Spellshield while undamaged.
+
+cost: '3'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Warlock

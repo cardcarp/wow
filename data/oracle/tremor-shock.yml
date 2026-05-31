@@ -1,0 +1,18 @@
+card_name: Tremor Shock
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 1 frost damage and 1 nature damage to target hero or ally. An ally dealt damage this way can't attack this turn. If a hero was dealt damage this way, you may interrupt an ability card played by its controller.
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Elemental

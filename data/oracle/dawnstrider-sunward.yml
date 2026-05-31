@@ -1,0 +1,23 @@
+card_name: Dawnstrider Sunward
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+instant: Protector
+
+cost: '4'
+
+combat: Holy
+
+faction: Horde
+
+temp: Tauren Paladin

@@ -1,0 +1,13 @@
+card_name: In Excess
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: "Ongoing : When an ally is dealt damage in excess of its health, put damage on its controller's hero equal to the amount of excess damage dealt."
+
+temp: ''

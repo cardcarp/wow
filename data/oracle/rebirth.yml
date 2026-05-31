@@ -1,0 +1,18 @@
+card_name: Rebirth
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Put target ally card from your graveyard into play if its cost is less than or equal to the number of resources you control.
+
+class:
+  - Druid
+
+cost: '5'
+
+temp: Restoration

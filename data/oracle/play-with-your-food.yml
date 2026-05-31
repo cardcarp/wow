@@ -1,0 +1,15 @@
+card_name: Play With Your Food
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Roll as many dice as the number of opposing heroes. Then, choose one die for each hero, and Onyxia deals that amount of melee damage to that hero.
+
+temp: ''
+
+type: Raid

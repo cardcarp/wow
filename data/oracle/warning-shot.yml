@@ -1,0 +1,18 @@
+card_name: Warning Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target ally with cost 4 or more has -5 ATK this turn.
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Survival

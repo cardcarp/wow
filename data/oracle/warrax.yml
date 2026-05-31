@@ -1,0 +1,17 @@
+card_name: Warrax
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 1 , Flip Warrax → Warrax has Protector this turn.
+
+faction: Alliance
+
+temp: Dwarf Warrior

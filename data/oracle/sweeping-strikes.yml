@@ -1,0 +1,18 @@
+card_name: Sweeping Strikes
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Arms Hero Required Ongoing : When your hero deals combat damage with a Melee weapon to an ally, it also deals that much melee damage to each other hero and ally in that ally's party."
+
+class:
+  - Warrior
+
+cost: '5'
+
+temp: Arms Talent

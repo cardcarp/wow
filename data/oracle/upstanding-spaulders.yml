@@ -1,0 +1,19 @@
+card_name: Upstanding Spaulders
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Each player can't ready more than three resources during his ready step.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '3'
+
+temp: Armor Mail

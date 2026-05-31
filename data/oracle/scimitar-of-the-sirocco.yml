@@ -1,0 +1,20 @@
+card_name: Scimitar of the Sirocco
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Artifact When you strike with this weapon, allies you control have Ferocity this turn.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '4'
+
+temp: 1H Weapon Sword

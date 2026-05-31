@@ -1,0 +1,21 @@
+card_name: Hungering Bone Cudgel
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the end of your turn, if no damage was dealt with Hungering Bone Cudgel this turn, destroy it.
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+  - Rogue
+
+cost: '4'
+
+temp: 1H Weapon Mace

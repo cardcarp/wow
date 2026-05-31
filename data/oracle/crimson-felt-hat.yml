@@ -1,0 +1,20 @@
+card_name: Crimson Felt Hat
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play an ability, you may exhaust target armor.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: Armor Cloth

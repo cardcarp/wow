@@ -1,0 +1,21 @@
+card_name: Commander Springvale
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 14
+
+text: "Boss Desecration : When Springvale attacks, if the MARKED hero's controller controls no ready resources, Springvale deals 10 shadow damage to the MARKED hero."
+
+combat: Shadow
+
+temp: Spirit Paladin
+
+type: Dungeon

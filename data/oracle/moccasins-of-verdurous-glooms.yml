@@ -1,0 +1,19 @@
+card_name: Moccasins of Verdurous Glooms
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When an ally you control exhausts, you may pay 1 . If you do, your hero has Assault 1 this turn.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '2'
+
+temp: Armor Mail

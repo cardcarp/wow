@@ -1,0 +1,23 @@
+card_name: Forsaken Blightspreader
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When this ally deals damage to an opposing ally, destroy that ally.
+
+cost: '2'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Warlock

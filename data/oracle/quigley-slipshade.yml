@@ -1,0 +1,23 @@
+card_name: Quigley Slipshade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: 1 → Quigley is Elusive this turn. 1 → Quigley is Untargetable this turn.
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Rogue

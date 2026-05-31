@@ -1,0 +1,23 @@
+card_name: Galvano the Beast Lord
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 3
+
+text: 'When this ally enters play, choose Loyal Spider, Angry Wolf, or Cunning Monkey. If you chose: Loyal Spider: Put a 1 / 6 Spider ally token into play with Protector . Angry Wolf: Put a 2 / 1 Wolf ally token into play with Ferocity and Sentinel . Cunning Monkey: Put a 2 / 2 Monkey ally token into play with "When this ally deals damage to an opposing hero, draw a card."'
+
+cost: '5'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Undead Hunter

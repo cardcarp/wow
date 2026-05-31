@@ -1,0 +1,15 @@
+card_name: Monstrous Upheaval
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 2 melee damage to target hero or ally for each Monster hero and ally you control.
+
+cost: '3'
+
+temp: ''

@@ -1,0 +1,23 @@
+card_name: Varimathras, Dreadlord Insurgent
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Monster Hero Required When Varimathras enters play, Portal . If you would reveal three cards with a Portal power, reveal six cards instead.
+
+cost: '5'
+
+combat: Shadow
+
+temp: Dreadlord Demon
+
+type: Monster

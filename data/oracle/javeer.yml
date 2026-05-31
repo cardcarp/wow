@@ -1,0 +1,23 @@
+card_name: Javeer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: Protector When this ally protects for the first time each turn, ready him.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Death Knight

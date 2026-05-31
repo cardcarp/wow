@@ -1,0 +1,23 @@
+card_name: Nasala Silvertree
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 6
+
+text: At the start of each player's turn, put a 1 / 1 Treant ally token into play.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Night Elf Druid

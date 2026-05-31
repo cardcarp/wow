@@ -1,0 +1,23 @@
+card_name: Kazamon Steelskin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 1
+
+text: Orc Hero Required Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness
+
+cost: '4'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Warlock

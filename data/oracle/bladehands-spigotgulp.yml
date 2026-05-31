@@ -1,0 +1,23 @@
+card_name: _Bladehands_ Spigotgulp
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Escape Artist If you would draw a card, you may skip drawing it instead. When you skip drawing a card this way, turn target resource face down.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Rogue

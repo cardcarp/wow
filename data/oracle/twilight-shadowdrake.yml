@@ -1,0 +1,21 @@
+card_name: Twilight Shadowdrake
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 1
+
+text: When this ally enters play, if an ability, ally, or equipment was destroyed this turn, this ally may deal 4 shadow damage to target hero.
+
+cost: '3'
+
+combat: Shadow
+
+temp: Twilight Dragonkin

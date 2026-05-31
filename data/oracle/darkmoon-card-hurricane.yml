@@ -1,0 +1,24 @@
+card_name: Darkmoon Card_ Hurricane
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this item enters or leaves play, your hero deals 1 nature damage to each opposing ally.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Shaman
+
+cost: '3'
+
+temp: Item Trinket

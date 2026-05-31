@@ -1,0 +1,13 @@
+card_name: Matchmaker
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Each player reveals cards from the top of his deck until two cards with matching names are revealed from that deck. Each player who reveals the most cards puts both of his matching cards into his hand. All other revealed cards are shuffled into their decks.
+
+temp: ''

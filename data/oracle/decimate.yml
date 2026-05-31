@@ -1,0 +1,18 @@
+card_name: Decimate
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy up to two target equipment.
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Protection

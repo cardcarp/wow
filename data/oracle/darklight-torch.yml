@@ -1,0 +1,20 @@
+card_name: Darklight Torch
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this weapon is destroyed, you may destroy target ability.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '4'
+
+temp: Ranged Weapon Wand

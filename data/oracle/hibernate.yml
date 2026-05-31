@@ -1,0 +1,18 @@
+card_name: Hibernate
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Put target non-token ally into its owner's resource row face down, then exhaust it.
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Balance

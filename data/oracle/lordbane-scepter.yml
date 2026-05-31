@@ -1,0 +1,20 @@
+card_name: Lordbane Scepter
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play an ability, this weapon has +2 ATK this turn.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Ranged Weapon Wand

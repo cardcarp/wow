@@ -1,0 +1,19 @@
+card_name: Onslaught Girdle
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Exhaust one of your armor → Your weapons have +1 ATK this turn.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '4'
+
+temp: Armor Plate

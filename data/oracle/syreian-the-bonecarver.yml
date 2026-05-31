@@ -1,0 +1,22 @@
+card_name: Syreian the Bonecarver
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Flip Syreian, remove a Hunter in your graveyard from the game → Ready target Pet.
+
+class:
+  - Hunter
+
+temp: Vrykul Hunter 28
+
+transform:
+  - id: ability
+    text: "Deckbuilding : You can only include either or cards, cards, Beast Mastery talents, neutral cards, and Scourge cards. You can't include cards with reputations or other text restrictions."
+
+type: Raid

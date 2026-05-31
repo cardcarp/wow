@@ -1,0 +1,19 @@
+card_name: Gauntlets of the Ancient Frostwolf
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , → Target ally you control has +2 ATK and Smash this turn.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '5'
+
+temp: Armor Mail

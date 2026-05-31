@@ -1,0 +1,23 @@
+card_name: Zakis Trickstab
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Elusive Stealth
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Goblin Rogue

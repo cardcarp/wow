@@ -1,0 +1,18 @@
+card_name: Mind Melt
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Shadow Talent Your hero deals 3 shadow damage to target hero or ally. That character's controller discards a card for each damage dealt this way.
+
+class:
+  - Priest
+
+cost: '5'
+
+temp: Shadow

@@ -1,0 +1,23 @@
+card_name: Sahama Brighthorn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: When this ally is destroyed, your hero may heal 4 damage from target hero or ally.
+
+cost: '4'
+
+combat: Holy
+
+faction: Horde
+
+temp: Tauren Priest

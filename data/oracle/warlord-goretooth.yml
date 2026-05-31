@@ -1,0 +1,23 @@
+card_name: Warlord Goretooth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Orcs in your party have Ferocity .
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

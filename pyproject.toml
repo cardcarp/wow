@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wow-tcg-db"
+version = "0.0.0"
+dependencies = [
+    "ruamel.yaml",
+    "cerberus"
+]
+
+[tool.setuptools.packages.find]
+include = []
+exclude = ["data", "script", "schema"]

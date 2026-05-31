@@ -1,0 +1,19 @@
+card_name: Obsidian Edged Blade
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , Discard Obsidian Edged Blade from your hand → Put a +1 ATK counter on target Two-Handed sword.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '4'
+
+temp: 2H Weapon Sword

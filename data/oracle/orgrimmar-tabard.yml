@@ -1,0 +1,29 @@
+card_name: Orgrimmar Tabard
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 3 , → Your hero deals 4 melee damage to target opposing hero. You pay 1 less to use this power for each Orc ally you control.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '4'
+
+faction: Horde
+
+temp: Item Tabard

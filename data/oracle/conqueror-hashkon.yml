@@ -1,0 +1,23 @@
+card_name: Conqueror Hashkon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: When this ally enters play, he deals 3 nature damage divided as you choose to any number of target opposing Priests.
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Shaman

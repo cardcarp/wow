@@ -1,0 +1,17 @@
+card_name: Master Sniper Simon McKey
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'On your turn: 2 , Flip Simon → Simon deals ranged damage to target hero or ally equal to the ATK of a pet you control.'
+
+faction: Alliance
+
+temp: Human Hunter

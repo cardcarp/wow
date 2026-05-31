@@ -1,0 +1,17 @@
+card_name: Triton the Sacrilegious
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 'If you control another Death Knight: Flip Triton → This turn, opposing heroes and allies must attack if able and can attack only Triton if able.'
+
+faction: Horde
+
+temp: Undead Death Knight

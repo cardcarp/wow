@@ -1,0 +1,18 @@
+card_name: Havoc
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Destruction Talent Attach to target ally. Ongoing : When attached ally is dealt damage, your hero deals that much fire damage to that ally's controller's hero. When attached ally is destroyed, you may put this ability from its owner's graveyard into his hand."
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Destruction Attachment

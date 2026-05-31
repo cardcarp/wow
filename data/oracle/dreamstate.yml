@@ -1,0 +1,18 @@
+card_name: Dreamstate
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Balance Hero Required Ongoing : When you play a Balance ability, draw a card.'
+
+class:
+  - Druid
+
+cost: '5'
+
+temp: Balance Talent

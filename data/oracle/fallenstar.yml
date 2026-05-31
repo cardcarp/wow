@@ -1,0 +1,17 @@
+card_name: Fallenstar
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 2 , Flip Fallenstar → Fallenstar deals 2 melee damage to target hero or ally without damage. Use only on your turn. Tortured Spirit
+
+faction: Alliance
+
+temp: Night Elf Warrior

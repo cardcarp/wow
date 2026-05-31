@@ -1,0 +1,23 @@
+card_name: Emelia Darkhand
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Protector This ally can't attack unless an opponent controls more allies than you.
+
+cost: '1'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Death Knight

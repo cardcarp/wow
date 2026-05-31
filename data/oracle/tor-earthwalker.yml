@@ -1,0 +1,23 @@
+card_name: Tor Earthwalker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When you attach an ability to a hero or ally, you may put two 1 / 1 Treant ally tokens into play.
+
+cost: '4'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

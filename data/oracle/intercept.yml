@@ -1,0 +1,18 @@
+card_name: Intercept
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Exhaust target hero or ally, and your hero deals 1 melee damage to it.
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Fury

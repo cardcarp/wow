@@ -1,0 +1,19 @@
+card_name: Chain of the Scarlet Crusade
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, add a scarlet counter to this armor. Your hero and allies you control have Assault 1 for each scarlet counter.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '6'
+
+temp: Armor Set Mail

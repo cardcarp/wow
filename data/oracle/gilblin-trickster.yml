@@ -1,0 +1,23 @@
+card_name: Gilblin Trickster
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: When an equipment enters play under your control, Delve .
+
+cost: '2'
+
+combat: Frost
+
+temp: Goblin Rogue
+
+type: Monster

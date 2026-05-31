@@ -1,0 +1,13 @@
+card_name: Capture a Mine
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'Pay 1 to complete this quest. Reward : Reveal the top three cards of your deck. Put a revealed location or quest card into hand and the rest on the bottom of your deck.'
+
+temp: ''

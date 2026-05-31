@@ -1,0 +1,23 @@
+card_name: Catarina Clark
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 6
+
+text: Protector → Catarina heals 4 damage from target hero or ally.
+
+cost: '5'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

@@ -1,0 +1,23 @@
+card_name: Errzig Cogflicker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 6
+
+text: Arcane Resistance
+
+cost: '6'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Gnome Mage

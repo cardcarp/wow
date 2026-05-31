@@ -1,0 +1,23 @@
+card_name: High Prophet Barim
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Other allies you control have +ATK equal to Barim's ATK and + equal to Barim's .
+
+cost: '3'
+
+combat: Holy
+
+temp: Tol'vir Paladin Priest
+
+type: Monster

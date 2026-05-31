@@ -1,0 +1,23 @@
+card_name: Mustang Sally
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: 4 , Destroy an ally in your party other than Mustang Sally → Destroy target ally with cost 4 or less.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Rogue

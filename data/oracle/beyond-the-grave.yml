@@ -1,0 +1,18 @@
+card_name: Beyond the Grave
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Remove target opponent's graveyard from the game. For each ally removed this way, put a 3 / 3 Ghoul ally token into play. For each ability removed this way, your hero deals 2 shadow damage to that opponent's hero and heals 2 damage from itself. For each equipment removed this way, put the top three cards of that opponent's deck into his graveyard.
+
+class:
+  - Death Knight
+
+cost: '9'
+
+temp: Unholy

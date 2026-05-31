@@ -1,0 +1,21 @@
+card_name: Twilight Frost Evoker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: When this ally enters play, she deals 1 frost damage to target opposing hero or ally for this and each other cards you control.
+
+cost: '5'
+
+combat: Frost
+
+temp: Human Mage

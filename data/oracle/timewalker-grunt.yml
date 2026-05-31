@@ -1,0 +1,23 @@
+card_name: Timewalker Grunt
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Assault 1 At the start of your turn, this ally may deal 1 melee damage to target hero for each Orc ally you control.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

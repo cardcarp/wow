@@ -1,0 +1,17 @@
+card_name: Gaxtro, Bilgewater Marksman
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'If Gaxtro is defending: 2 , Flip Gaxtro → Remove target attacker from combat, and Gaxtro deals 1 ranged damage to it.'
+
+faction: Horde
+
+temp: Goblin Hunter

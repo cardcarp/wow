@@ -1,0 +1,17 @@
+card_name: Vakeron
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 7 , Flip Vakeron → Vakeron deals 2 unpreventable holy damage to each opposing hero and ally.
+
+faction: Alliance
+
+temp: Draenei Paladin

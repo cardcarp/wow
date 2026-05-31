@@ -1,0 +1,18 @@
+card_name: Wild Rejuvenation
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to your hero. Ongoing : At the start of your turn, put a 1 / 1 Treant ally token into play if your hero is undamaged. Otherwise, your hero heals 1 damage from itself.'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Restoration

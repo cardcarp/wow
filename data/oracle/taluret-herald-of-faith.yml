@@ -1,0 +1,23 @@
+card_name: Taluret, Herald of Faith
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: 'Empower Priest : When this ally enters play, if you control another Priest hero or ally, you may have target player shuffle all allies from his graveyard into his deck.'
+
+cost: '4'
+
+combat: Holy
+
+temp: Tol'vir Paladin Priest
+
+type: Monster

@@ -1,0 +1,27 @@
+card_name: Bottled Cunning
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'When this item enters play, target hero or ally has +2 ATK and Stealth this turn. On your turn: Exhaust a Rogue hero or ally you control and destroy this item → Target hero or ally has +2 ATK and Stealth this turn.'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Potion

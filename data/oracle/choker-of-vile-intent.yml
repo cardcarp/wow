@@ -1,0 +1,23 @@
+card_name: Choker of Vile Intent
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, you may destroy an ability, ally, or equipment you control. If you do, each opponent destroys a card of that kind he controls.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+cost: '3'
+
+temp: Item Neck

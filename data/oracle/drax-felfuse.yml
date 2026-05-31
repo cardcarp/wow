@@ -1,0 +1,23 @@
+card_name: Drax Felfuse
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Elusive When a Dragonkin enters play under your control, this ally has +2 ATK this turn.
+
+cost: '2'
+
+combat: Fire
+
+faction: Horde
+
+temp: Goblin Warlock

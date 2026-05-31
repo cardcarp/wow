@@ -1,0 +1,20 @@
+card_name: Seal of Blood
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Horde Hero Required Ongoing : When your hero deals combat damage with a weapon to a hero or ally, your hero also deals 2 holy damage to that character and 1 holy damage to itself. 1 , Destroy Seal of Blood → Your hero deals 2 holy damage to target hero or ally and 1 holy damage to itself.'
+
+class:
+  - Paladin
+
+cost: '2'
+
+faction: Horde
+
+temp: Retribution

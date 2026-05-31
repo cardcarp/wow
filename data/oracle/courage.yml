@@ -1,0 +1,15 @@
+card_name: Courage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : Attached ally has +2 .'
+
+cost: '1'
+
+temp: ''

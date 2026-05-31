@@ -1,0 +1,18 @@
+card_name: Cremate
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 2 fire damage to target hero or ally. If that character would be destroyed this turn, remove it from the game instead.
+
+class:
+  - Warlock
+
+cost: '1'
+
+temp: Destruction

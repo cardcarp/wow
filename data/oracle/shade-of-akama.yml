@@ -1,0 +1,21 @@
+card_name: Shade of Akama
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Immune At the start of your turn, Shade of Akama deals 1 melee damage to target opposing hero or ally for each Ashtongue Channeler in your party. When the last Ashtongue Channeler leaves your party, flip Shade of Akama.
+
+temp: Broken Traitor
+
+transform:
+  - id: ability
+    text: '(Printed: 7 ) Shade of Akama has +3 ATK while attacking. At the start of your turn, choose an opposing hero. Shade of Akama has an additional +3 ATK while attacking that hero this turn. When that hero is destroyed this turn, destroy all opposing heroes.'
+
+type: Boss
+
+stage: 3

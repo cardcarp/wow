@@ -1,0 +1,18 @@
+card_name: Death Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 2 melee damage to target ally, plus an additional 2 if you control a weapon, plus an additional 2 if you control a disease. Then, your hero heals 1 damage from itself for each damage dealt this way.
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Blood

@@ -1,0 +1,18 @@
+card_name: Swindle
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Ready and gain control of target opposing equipment until end of turn.
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Subtlety

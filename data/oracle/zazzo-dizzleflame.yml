@@ -1,0 +1,23 @@
+card_name: Zazzo Dizzleflame
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: "On your turn: → Destroy another target ally. If you do, that ally's controller reveals cards from the top of his deck until he reveals an ally. He puts that revealed ally into play and shuffles the rest into his deck."
+
+cost: '4'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Gnome Warlock

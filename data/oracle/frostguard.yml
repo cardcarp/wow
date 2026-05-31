@@ -1,0 +1,20 @@
+card_name: Frostguard
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Allies in your party have Frost Resistance .
+
+class:
+  - Paladin
+  - Warrior
+  - Rogue
+
+cost: '4'
+
+temp: 1H Weapon Sword

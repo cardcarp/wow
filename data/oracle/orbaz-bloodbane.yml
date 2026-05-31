@@ -1,0 +1,23 @@
+card_name: Orbaz Bloodbane
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 7
+
+text: 'Scourge Hero Required Put 3 damage on this ally, destroy a quest or location you control → Target player destroys a card of that type he controls. Death Rattle : Your hero has Assault 1 this turn.'
+
+cost: '7'
+
+combat: Melee
+
+temp: Human Death Knight
+
+type: Raid

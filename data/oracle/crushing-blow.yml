@@ -1,0 +1,18 @@
+card_name: Crushing Blow
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Choose one or both: Destroy target armor; or destroy target weapon.'
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Fury

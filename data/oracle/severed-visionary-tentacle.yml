@@ -1,0 +1,20 @@
+card_name: Severed Visionary Tentacle
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this item enters play, remove the top three cards of target opponent's deck from the game face down. You may look at the cards removed this way at any time. When an opponent plays a card or places a resource face up into his resource row, you may reveal a card removed this way. If they share a name, destroy this item. If you do, your hero deals 10 shadow damage to that opponent's hero.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '5'
+
+temp: Item Trinket

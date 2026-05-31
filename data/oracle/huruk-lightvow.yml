@@ -1,0 +1,23 @@
+card_name: Huruk Lightvow
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: Protector
+
+cost: '4'
+
+combat: Holy
+
+faction: Horde
+
+temp: Tauren Paladin

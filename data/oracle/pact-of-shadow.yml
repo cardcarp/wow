@@ -1,0 +1,18 @@
+card_name: Pact of Shadow
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When an opponent discards a card, your hero deals 3 shadow damage to target hero or ally.'
+
+class:
+  - Priest
+
+cost: '7'
+
+temp: Shadow

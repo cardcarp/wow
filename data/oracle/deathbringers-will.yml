@@ -1,0 +1,24 @@
+card_name: Deathbringers Will
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals combat damage to an opposing hero, you may put a 1 / 1 Spirit of Northrend token into play with Ferocity , Stealth , and "At end of turn, destroy this ally."
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Shaman
+
+cost: '2'
+
+temp: Item Trinket

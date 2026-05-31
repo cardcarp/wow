@@ -1,0 +1,15 @@
+card_name: Manhunt
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'During your turn, pay 3 to complete this quest. Reward : Choose one: Name an ally card, then target player reveals his hand and discards a card with that name; or draw a card. If your hero is a Human, you may choose both.'
+
+faction: Alliance
+
+temp: ''

@@ -1,0 +1,23 @@
+card_name: Koltira Deathweaver
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 7
+
+text: 'Protector Once per turn: Turn a resource you control face down → Target ally has +5 ATK this turn.'
+
+cost: '6'
+
+combat: Frost
+
+faction: Horde
+
+temp: Blood Elf Death Knight

@@ -1,0 +1,23 @@
+card_name: High Magus Euli
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 1
+
+text: Shadow Resistance At the start of your turn, this ally may deal 1 fire damage to target hero or ally. A character dealt damage this way loses and can't have powers this turn.
+
+cost: '4'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Draenei Mage

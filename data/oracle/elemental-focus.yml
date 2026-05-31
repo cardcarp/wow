@@ -1,0 +1,18 @@
+card_name: Elemental Focus
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Elemental Hero Required Ongoing : You pay 1 less to play Elemental abilities, to a minimum of 1 .'
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Elemental Talent

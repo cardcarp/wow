@@ -1,0 +1,21 @@
+card_name: Meathook
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 11
+
+text: 'Boss When Meathook enters play, exhaust all Raiding heroes and allies. Caverns Hero 2+ : Raiding allies that can attack must attack Meathook if able.'
+
+combat: Melee
+
+temp: Abomination
+
+type: Boss

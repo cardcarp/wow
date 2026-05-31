@@ -1,0 +1,23 @@
+card_name: Frost Wyrm
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: At the start of each opponent's turn, you may remove three cards in a graveyard from the game. If you do, this ally deals 3 frost damage to target hero or ally. A character dealt damage this way can't attack this turn.
+
+cost: '6'
+
+combat: Frost
+
+temp: Scourge Dragonkin
+
+type: Monster

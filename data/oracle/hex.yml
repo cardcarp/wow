@@ -1,0 +1,18 @@
+card_name: Hex
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target ally. Ongoing : Attached ally becomes 1 / 1, can't gain or lose ATK or , and is also a Frog."
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Elemental Curse

@@ -1,0 +1,23 @@
+card_name: Anub_arak, The Traitor King
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: Protector 2 , Remove six cards in a graveyard from the game → Put Anub'arak from your graveyard into play.
+
+cost: '6'
+
+combat: Melee
+
+temp: Scourge Crypt Lord
+
+type: Monster

@@ -1,0 +1,23 @@
+card_name: Harbinger Sefu
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: While you control one or more equipment, this ally has Stealth . While you control two or more equipment, this ally has Ferocity . While you control three or more equipment, this ally has Sentinel .
+
+cost: '5'
+
+combat: Melee
+
+temp: Tol'vir Rogue Warrior
+
+type: Monster

@@ -1,0 +1,15 @@
+card_name: Devour
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: If Onyxia is defending, she deals 5 melee damage to target attacking hero or ally.
+
+cost: '1'
+
+temp: ''

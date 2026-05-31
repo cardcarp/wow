@@ -1,0 +1,18 @@
+card_name: Berserk
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Feral Hero Required Ongoing : While your hero has Bear Form , when it's dealt combat damage, you may draw a card. While your hero has Cat Form , when it deals combat damage to a hero, it's controller discards a card."
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Feral Talent

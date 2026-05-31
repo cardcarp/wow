@@ -1,0 +1,26 @@
+card_name: Vilegut
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Protector This ally has +1 / +1 for each ally in opposing graveyards.
+
+class:
+  - Death Knight
+
+cost: '3'
+
+combat: Melee
+
+temp: Abomination
+
+type: Monster

@@ -1,0 +1,23 @@
+card_name: Shade Emissary Vaxxod
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 7
+
+text: Time is Money → This ally deals 2 shadow damage to target ally and 2 shadow damage to itself.
+
+cost: '7'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Goblin Priest

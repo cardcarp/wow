@@ -1,0 +1,21 @@
+card_name: Nomak the Blazingclaw
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 4 → Flip Nomak face down.
+
+faction: Alliance
+
+temp: Worgen Mage
+
+transform:
+  - id: ability
+    text: When Nomak deals fire ( ) damage for the first time on each of your turns, allies you control have Assault 1 this turn. This power triggers only once per turn.

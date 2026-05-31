@@ -1,0 +1,17 @@
+card_name: Anaka the Lights Bulwark
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 'On your turn: 4 , Flip Anaka → Target hero or ally you control has Invincible this turn.'
+
+faction: Alliance
+
+temp: Draenei Paladin

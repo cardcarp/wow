@@ -1,0 +1,17 @@
+card_name: Eriun Moonglow
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: x , Flip Eriun, shuffle X Balance ability cards from your graveyard into your deck → Eriun deals X nature damage to target ally. Use only on your turn.
+
+faction: Alliance
+
+temp: Night Elf Druid

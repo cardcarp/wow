@@ -1,0 +1,23 @@
+card_name: Ivus the Forest Lord
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 10
+
+health: 10
+
+text: You pay 1 less to play Ivus for each non-token Alliance ally in your party. Each opposing ability, ally, and equipment can't ready during its controller's ready step.
+
+cost: '14'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Ancient

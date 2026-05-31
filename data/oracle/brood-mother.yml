@@ -1,0 +1,23 @@
+card_name: Brood Mother
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 6
+
+text: When this or another Beast ally you control deals fatal combat damage while attacking, put two 1 / 1 Spider Beast Monster ally tokens into play.
+
+cost: '5'
+
+combat: Nature
+
+temp: Spider Beast
+
+type: Monster

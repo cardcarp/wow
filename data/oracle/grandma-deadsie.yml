@@ -1,0 +1,23 @@
+card_name: Grandma Deadsie
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Prevent all damage that would be dealt to this ally.
+
+cost: '3'
+
+combat: Holy
+
+faction: Horde
+
+temp: Undead Priest

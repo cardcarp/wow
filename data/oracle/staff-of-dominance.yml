@@ -1,0 +1,22 @@
+card_name: Staff of Dominance
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Staff of Dominance enters play exhausted. x , , Destroy Staff of Dominance → Gain control of target ally with cost X. Use only on your turn.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '4'
+
+temp: 2H Weapon Staff

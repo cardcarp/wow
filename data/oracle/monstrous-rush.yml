@@ -1,0 +1,18 @@
+card_name: Monstrous Rush
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'As an additional cost to play, remove up to five abilities in your graveyard from the game. Choose that many of the following: Assault 3 , Long-Range , Sentinel , Smash , and Stealth . Target Monster hero or ally has the chosen powers this turn.'
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Assassination Finishing Move

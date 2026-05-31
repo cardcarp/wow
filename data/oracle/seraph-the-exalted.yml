@@ -1,0 +1,23 @@
+card_name: Seraph the Exalted
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: Human Hero Required → Put an ally card from your hand into play if its cost is less than or equal to the number of resources you have.
+
+cost: '5'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Priest

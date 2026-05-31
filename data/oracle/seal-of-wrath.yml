@@ -1,0 +1,18 @@
+card_name: Seal of Wrath
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When your hero deals combat damage with a weapon, it may also deal 2 unpreventable holy damage to target hero or ally.'
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Retribution

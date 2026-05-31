@@ -1,0 +1,21 @@
+card_name: Plasu
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Shadow Resistance This ally has Assault 2 while an opponent controls a card.
+
+cost: '2'
+
+faction: Alliance
+
+temp: Draenei Hunter

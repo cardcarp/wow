@@ -1,0 +1,23 @@
+card_name: Envoy Aiden LeNoir
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: 'Diplomacy: Gnomes 1 , → Draw a card.'
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Rogue

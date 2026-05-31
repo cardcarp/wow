@@ -1,0 +1,23 @@
+card_name: Krixel Pinchwhistle
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 7
+
+text: → Ready all of your other Arena cards.
+
+cost: '4'
+
+combat: Melee
+
+temp: Goblin
+
+type: Arena

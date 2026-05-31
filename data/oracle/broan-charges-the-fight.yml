@@ -1,0 +1,23 @@
+card_name: Broan Charges-the-Fight
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Ferocity When Broan Charges-the-Fight enters play, you may ready target ally with cost 2 or less.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Shaman

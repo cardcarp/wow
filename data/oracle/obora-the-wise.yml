@@ -1,0 +1,17 @@
+card_name: Obora the Wise
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 4 , Flip Obora → When you play an ability this turn, draw a card.
+
+faction: Alliance
+
+temp: Draenei Mage

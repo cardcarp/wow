@@ -1,0 +1,23 @@
+card_name: Koeus
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: When this ally enters play, if you control an ability, you may destroy target ability.
+
+cost: '3'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

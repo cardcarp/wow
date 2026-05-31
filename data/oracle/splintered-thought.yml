@@ -1,0 +1,18 @@
+card_name: Splintered Thought
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Remove the top X cards of target opponent's deck from the game. You may put an ally with cost X or less removed this way into play under your control.
+
+class:
+  - Priest
+
+cost: X
+
+temp: Shadow

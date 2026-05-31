@@ -1,0 +1,21 @@
+card_name: Ambassador Chromie
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When Chromie deals combat damage to a defending hero, you may shuffle her into her owner's deck. If you do, take an extra turn after this one.
+
+cost: '3'
+
+combat: Melee
+
+temp: Bronze Dragonkin

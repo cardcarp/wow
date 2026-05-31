@@ -1,0 +1,23 @@
+card_name: Deep Subjugator
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Elusive This ally has +2 / +2 while you control another Merciless One.
+
+cost: '3'
+
+combat: Melee
+
+temp: Merciless One
+
+type: Monster

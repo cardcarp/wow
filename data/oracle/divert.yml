@@ -1,0 +1,18 @@
+card_name: Divert
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ability, ally, or equipment you control. Ongoing : Opposing cards and effects must target attached card if able.'
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Subtlety Combo

@@ -1,0 +1,23 @@
+card_name: Slippyfist
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: This and other Murloc allies you control have Elusive while ready.
+
+cost: '1'
+
+combat: Frost
+
+temp: Murloc Rogue
+
+type: Monster

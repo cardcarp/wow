@@ -1,0 +1,23 @@
+card_name: Sand Scarab
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: If an opposing ally would be destroyed, you may remove it from the game instead.
+
+cost: '1'
+
+combat: Melee
+
+temp: Scarab
+
+type: Monster

@@ -1,0 +1,18 @@
+card_name: Wipe or Snipe
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Choose one: Your hero deals 1 ranged damage to each of up to three target heroes and/or allies; or attach to target ally. Ongoing : Attached ally has Long-Range .'
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Marksmanship

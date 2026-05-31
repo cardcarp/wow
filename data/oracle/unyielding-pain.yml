@@ -1,0 +1,15 @@
+card_name: Unyielding Pain
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : → This turn, target hero or ally you control has Assault 2 , and combat damage that it would deal is unpreventable.'
+
+cost: '1'
+
+temp: Naxxramas

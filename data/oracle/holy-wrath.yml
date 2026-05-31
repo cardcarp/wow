@@ -1,0 +1,18 @@
+card_name: Holy Wrath
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 4 unpreventable holy damage to each opposing hero and ally, plus an additional 4 if that character is a Demon, Dragonkin, or Elemental.
+
+class:
+  - Paladin
+
+cost: '6'
+
+temp: Holy

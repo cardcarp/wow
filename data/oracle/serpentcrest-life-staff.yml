@@ -1,0 +1,20 @@
+card_name: Serpentcrest Life-Staff
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , Discard a card → Your hero heals 2 damage from target hero or ally.
+
+class:
+  - Druid
+  - Priest
+  - Shaman
+
+cost: '2'
+
+temp: 2H Weapon Staff

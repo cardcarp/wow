@@ -1,0 +1,21 @@
+card_name: Stitches
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 0
+
+text: Stitches has +1 ATK and +1 health for each ally card in your graveyard. When Stitches is dealt damage, remove that many ally cards in your graveyard from the game. Then, remove 1 damage from Stitches for each ally card you removed.
+
+cost: '4'
+
+combat: Melee
+
+temp: Undead Abomination

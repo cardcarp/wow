@@ -1,0 +1,23 @@
+card_name: Devona Berkshire
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: While you control a Death Knight or Warrior, this ally has Protector . While you control a Hunter or Shaman, this ally has Assault 2 . While you control a Priest or Druid, this ally has Mend 2 .
+
+cost: '3'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

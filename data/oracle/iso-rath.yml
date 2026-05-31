@@ -1,0 +1,19 @@
+card_name: Iso_rath
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Your starting and maximum hand sizes are nine cards. 10 → Flip Iso'rath face down.
+
+temp: Iso'rath 21
+
+transform:
+  - id: ability
+    text: "(Printed: 32 ) → Destroy a non-Hero card of your choice. Deckbuilding: You can't put or cards in your deck."
+
+type: Monster

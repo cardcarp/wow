@@ -1,0 +1,17 @@
+card_name: Sunstalker Andora
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 'On your turn: Flip Andora, discard a Rogue → When target ally is dealt damage this turn, destroy it.'
+
+faction: Horde
+
+temp: Blood Elf Rogue

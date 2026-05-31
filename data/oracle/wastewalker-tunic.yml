@@ -1,0 +1,19 @@
+card_name: Wastewalker Tunic
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Wastewalker Tunic has +5 DEF while your hero is attacking an exhausted hero or ally.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '2'
+
+temp: Armor Leather

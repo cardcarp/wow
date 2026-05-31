@@ -1,0 +1,17 @@
+card_name: Bulkas Wildhorn
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 31
+
+text: 3 , Flip Bulkas Wildhorn → Destroy target ally with damage on it. Use only on your turn.
+
+faction: Horde
+
+temp: Tauren Warrior

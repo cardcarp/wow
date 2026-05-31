@@ -1,0 +1,18 @@
+card_name: Primal Dexterity
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Your hero has Dual Wield . When you play or strike with a weapon, you may pay 1 . If you do, your hero deals 2 nature damage to target hero or ally.'
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Enhancement

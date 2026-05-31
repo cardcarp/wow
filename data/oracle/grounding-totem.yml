@@ -1,0 +1,18 @@
+card_name: Grounding Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Opposing cards and effects must target Grounding Totem if able. (Totems can be attacked or targeted like allies.)'
+
+class:
+  - Shaman
+
+cost: '1'
+
+temp: Enhancement 4

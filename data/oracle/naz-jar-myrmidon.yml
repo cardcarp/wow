@@ -1,0 +1,23 @@
+card_name: Naz_jar Myrmidon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Protector
+
+cost: '3'
+
+combat: Melee
+
+temp: Naga Warrior
+
+type: Monster

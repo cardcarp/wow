@@ -1,0 +1,23 @@
+card_name: Darbun Steppeheart
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Protector War Stomp
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Warrior

@@ -1,0 +1,19 @@
+card_name: Ragnaros
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 50
+
+text: Untargetable Ragnaros can't be dealt damage. You can't play or discard cards. At the start of your turn, flip Ragnaros.
+
+temp: Elemental
+
+transform:
+  - id: ability
+    text: Ragnaros has +10 ATK while attacking and can attack only heroes. Ragnaros can't be dealt fire ( ) damage. At the end of your turn, flip if you have exactly three resources, put eight Sons of Flame into play and flip Ragnaros.

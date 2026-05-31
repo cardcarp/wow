@@ -1,0 +1,18 @@
+card_name: Bloodbath
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Traitor Hero Required Ongoing : 1 , Destroy an ally in your party → Put a +1 ATK counter on each of your weapons.'
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Traitor

@@ -1,0 +1,23 @@
+card_name: Daniel Soortan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: 'Diplomacy: Dwarves → Target player puts the top two cards of his deck into his graveyard.'
+
+cost: '2'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Priest

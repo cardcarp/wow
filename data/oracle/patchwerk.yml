@@ -1,0 +1,19 @@
+card_name: Patchwerk
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Conspicuous , Assault 10
+
+temp: Abomination 6
+
+transform:
+  - id: ability
+    text: Conspicuous , Assault 12 At the start of your turn, you may destroy target ally.
+
+type: Boss

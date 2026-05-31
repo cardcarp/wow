@@ -1,0 +1,23 @@
+card_name: Koringar the Heavy
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: 3 → This turn, Koringar has all the payment powers of all other allies.
+
+cost: '7'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Warrior

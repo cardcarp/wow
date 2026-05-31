@@ -1,0 +1,23 @@
+card_name: Abomination
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: Protector At the start of your turn, you may remove target card in a graveyard from the game. If you do, this ally heals 2 damage from itself.
+
+cost: '4'
+
+combat: Melee
+
+temp: Scourge Abomination
+
+type: Monster

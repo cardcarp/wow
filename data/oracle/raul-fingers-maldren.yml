@@ -1,0 +1,23 @@
+card_name: Raul _Fingers_ Maldren
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: Untargetable
+
+cost: '6'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Rogue

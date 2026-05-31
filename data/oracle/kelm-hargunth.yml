@@ -1,0 +1,23 @@
+card_name: Kelm Hargunth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 9
+
+health: 9
+
+text: When Kelm attacks, each opponent destroys an card he controls.
+
+cost: '8'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

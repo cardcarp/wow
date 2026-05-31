@@ -1,0 +1,17 @@
+card_name: Council of Three Hammers
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put a 5 / 5 Dwarf Warrior ally token named Muradin Bronzebeard with Protector and Muradin (1), a 5 / 5 Dwarf Priest ally token named Moira Thaurissian with Mend 5 and Moira (1), and a 5 / 5 Dwarf High Thane ally token named Falstad Wildhammer with Ferocity and Falstad (1) into play
+
+cost: '9'
+
+faction: Alliance
+
+temp: ''

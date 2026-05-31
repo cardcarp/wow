@@ -1,0 +1,21 @@
+card_name: Murloc Coastrunner
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+cost: '1'
+
+combat: Frost
+
+temp: Murloc Rogue
+
+type: Monster

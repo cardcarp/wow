@@ -1,0 +1,21 @@
+card_name: Soul Fragment
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Ferocity When Soul Fragment is destroyed, draw a card.
+
+combat: Melee
+
+temp: Soul Fragment
+
+type: Ally

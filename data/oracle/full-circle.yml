@@ -1,0 +1,18 @@
+card_name: Full Circle
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: You may discard an ally card. If you do, put a second target ally card from your graveyard into play, then put a third ally from your party into its owner's hand.
+
+class:
+  - Paladin
+
+cost: '7'
+
+temp: Holy

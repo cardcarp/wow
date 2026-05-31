@@ -1,0 +1,21 @@
+card_name: Vad of the Four Winds
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 4 → Flip Vad face down.
+
+faction: Alliance
+
+temp: Worgen Warrior
+
+transform:
+  - id: ability
+    text: At the end of your turn, you may ready Vad.

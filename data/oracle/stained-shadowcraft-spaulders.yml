@@ -1,0 +1,19 @@
+card_name: Stained Shadowcraft Spaulders
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'At the start of your turn, your hero may deal 1 nature damage to target hero or ally, plus an additional 1 for each heirloom counter on this armor. Stash : Add an heirloom counter to target equipment you control.'
+
+class:
+  - Druid
+  - Rogue
+
+cost: '4'
+
+temp: Armor Leather

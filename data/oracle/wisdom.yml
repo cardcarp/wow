@@ -1,0 +1,15 @@
+card_name: Wisdom
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Draw two cards.
+
+cost: '4'
+
+temp: ''

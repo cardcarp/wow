@@ -1,0 +1,19 @@
+card_name: The Lich King
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: "Undeath's Armaments : At the start of your turn, if you control two or more resources, you may search your deck for a card named Frostmourne or Helm of Domination and put it into play. On your turn: 10 → Flip the Lich King."
+
+temp: Lich King 60
+
+transform:
+  - id: ability
+    text: 'Fury of Frostmourne : At the start of your turn, the Lich King deals 300,000 unpreventable shadow damage to each opposing hero.'
+
+type: Raid

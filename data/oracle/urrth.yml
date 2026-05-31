@@ -1,0 +1,17 @@
+card_name: Urrth
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 3 , Flip Urrth → Draw a card for each Totem you have.
+
+faction: Horde
+
+temp: Orc Shaman

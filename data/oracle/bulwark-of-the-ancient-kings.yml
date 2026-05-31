@@ -1,0 +1,19 @@
+card_name: Bulwark of the Ancient Kings
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Blacksmithing Hero Required Your hero has +5 health. Destroy Bulwark of the Ancient Kings → Your hero has +25 health until the end of your next turn.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '4'
+
+temp: Armor Plate

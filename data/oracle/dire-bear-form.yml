@@ -1,0 +1,18 @@
+card_name: Dire Bear Form
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Your hero has Bear Form . Your hero has +5 for each ally you control.'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Feral

@@ -1,0 +1,19 @@
+card_name: Black Felsteel Bracers
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Put a +1 ATK counter on target weapon.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '2'
+
+temp: Armor Plate

@@ -1,0 +1,15 @@
+card_name: _Your Tale Ends Here!_
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: The Dungeon hero deals 1 melee damage to each Raiding ally for each Dungeon ally in play.
+
+temp: ''
+
+type: Dungeon

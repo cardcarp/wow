@@ -1,0 +1,18 @@
+card_name: Focus Magic
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Arcane Talent Reveal the top card of your deck and put it into your hand. Then, search your deck for up to three cards with the same name as the revealed card, and put them into your hand.
+
+class:
+  - Mage
+
+cost: '4'
+
+temp: Arcane

@@ -1,0 +1,18 @@
+card_name: Doom Blossom
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Traitor Hero Required Attach to target hero or ally, and put three blossom counters on Doom Blossom. Ongoing : At the start of your turn, your hero deals 1 shadow damage to attached character for each blossom counter, and then you remove one. If none remain, destroy Doom Blossom.'
+
+class:
+  - Warlock
+
+cost: '1'
+
+temp: Traitor

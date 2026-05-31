@@ -1,0 +1,21 @@
+card_name: Coilskar Wrangler
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Traitor Hero Required 2 , Destroy an ally in your party → Each opponent destroys an ally in his party.
+
+cost: '3'
+
+combat: Nature
+
+temp: Naga Traitor

@@ -1,0 +1,20 @@
+card_name: Nifflevar Bearded Axe
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals damage with this weapon, you pay 4 less to complete your next quest this turn.
+
+class:
+  - Shaman
+  - Hunter
+  - Rogue
+
+cost: '4'
+
+temp: 1H Weapon Axe

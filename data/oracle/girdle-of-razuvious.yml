@@ -1,0 +1,20 @@
+card_name: Girdle of Razuvious
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor enters play, search your deck for a weapon with cost less than or equal to the number of resources you control, put damage on your hero equal to its cost, and put it into play.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '5'
+
+temp: Armor Plate

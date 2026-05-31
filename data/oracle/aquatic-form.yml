@@ -1,0 +1,18 @@
+card_name: Aquatic Form
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : You may complete quest cards from your graveyard. As you do, remove them from the game as an additional cost.'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Feral

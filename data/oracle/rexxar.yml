@@ -1,0 +1,23 @@
+card_name: Rexxar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: When Rexxar enters play, put a unique Bear ally token named Misha with 3 ATK, 3 health, and Ferocity into play. Rexxar has +3 ATK and +3 health while Misha is in your party.
+
+cost: '7'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Mok'Nathal Beastmaster

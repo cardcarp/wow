@@ -1,0 +1,18 @@
+card_name: Equal Opportunity
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Each player puts an ally from his party into its owner's hand.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Discipline

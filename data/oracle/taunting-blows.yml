@@ -1,0 +1,18 @@
+card_name: Taunting Blows
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 1 melee damage to each opposing hero and ally. This turn, characters dealt damage this way must attack if able and can attack only your hero if able.
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Arms

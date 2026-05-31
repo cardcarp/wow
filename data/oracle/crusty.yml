@@ -1,0 +1,24 @@
+card_name: Crusty
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: Protector When this ally deals combat damage to an ally, he may also deal that much melee damage to a second target hero or ally.
+
+class:
+  - Hunter
+
+cost: '5'
+
+combat: Melee
+
+temp: Crab

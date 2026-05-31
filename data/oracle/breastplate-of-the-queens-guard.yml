@@ -1,0 +1,19 @@
+card_name: Breastplate of the Queens Guard
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: This armor enters play with two +1 counters on it. Remove a +1 counter from this armor → Target ally or weapon has +2 ATK this turn.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '3'
+
+temp: Armor Mail

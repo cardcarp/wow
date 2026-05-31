@@ -1,0 +1,22 @@
+card_name: Rimblat Earthshatter
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: Argent Crusade Reputation Flip Rimblat, remove a Shaman in your graveyard from the game → Destroy target ability that's not attached to a friendly card.
+
+class:
+  - Shaman
+
+temp: Tauren Shaman
+
+transform:
+  - id: ability
+    text: "Deckbuilding : You can only include either or cards, cards, Elemental talents, neutral cards, and Argent Crusade cards. You can't include cards with other reputations or other text restrictions."

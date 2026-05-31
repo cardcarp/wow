@@ -1,0 +1,21 @@
+card_name: High Nethermancer Zerevor
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: At the start of your turn, Zerevor deals 3 arcane damage to each hero and ally in target player's party.
+
+combat: Arcane
+
+temp: Blood Elf Mage
+
+type: Ally

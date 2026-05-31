@@ -1,0 +1,17 @@
+card_name: Skodis the Nethertwister
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 5 , Flip Skodis → Skodis deals 3 shadow damage to target hero or ally and heals 1 damage from himself for each damage dealt this way.
+
+faction: Alliance
+
+temp: Dwarf Warlock

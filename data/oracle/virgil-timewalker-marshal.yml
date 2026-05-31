@@ -1,0 +1,23 @@
+card_name: Virgil, Timewalker Marshal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Protector At the start of each opponent's turn, ready all Human allies you control.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

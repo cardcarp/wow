@@ -1,0 +1,13 @@
+card_name: Nordrassil, the World Tree
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: '→ Add a life counter to this location. On your turn: , Remove a life counter from this location → Your hero heals 2 damage from target hero or ally. On your turn: , Remove three life counters from this location → Reveal the top card of your deck. You may place it exhausted as an additional resource this turn.'
+
+temp: ''

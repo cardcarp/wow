@@ -1,0 +1,17 @@
+card_name: Andarius the Damned
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Andarius → Put an attachment you control into its owner's hand.
+
+faction: Horde
+
+temp: Undead Warlock

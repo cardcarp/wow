@@ -1,0 +1,15 @@
+card_name: Yseras Presence
+
+layout: standard
+
+regulation:
+
+category: Misc
+
+errata: []
+
+text: "If each Raider's hero was destroyed while he controlled five or fewer resources, gain this Gift. Use this Gift: Each Raider may pay 1 . Each Raider that does reveals the top card of his deck and may place it exhausted as an additional resource this turn."
+
+temp: ''
+
+type: Gift

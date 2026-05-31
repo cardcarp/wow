@@ -1,0 +1,18 @@
+card_name: Curse of Tongues
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero. Ongoing : Attached hero's controller pays 1 more to play abilities."
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Affliction Curse

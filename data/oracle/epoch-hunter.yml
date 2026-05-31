@@ -1,0 +1,21 @@
+card_name: Epoch Hunter
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 12
+
+text: "Boss When Epoch Hunter enters play, the Caverns hero has +3 ATK this turn. Caverns Hero 2+ : Each Raid ability attached to a Raiding hero triggers an additional time at the start of the Caverns hero's turn."
+
+combat: Melee
+
+temp: Infinite Dragonkin
+
+type: Boss

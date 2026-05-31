@@ -1,0 +1,17 @@
+card_name: Kamboozle, Bringer of Doom
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 4 , Flip Kamboozle, put 2 damage on her → Draw two cards.
+
+faction: Alliance
+
+temp: Gnome Warlock

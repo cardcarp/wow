@@ -1,0 +1,21 @@
+card_name: Arcanist Lyronia
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Scryer Reputation When Lyronia enters play, look at the top card of target opponent's deck. You may put it on the bottom.
+
+cost: '1'
+
+combat: Arcane
+
+temp: Blood Elf Mage

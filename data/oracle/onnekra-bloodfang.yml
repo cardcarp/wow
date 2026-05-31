@@ -1,0 +1,23 @@
+card_name: Onnekra Bloodfang
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Ferocity This ally can attack only heroes.
+
+cost: '1'
+
+combat: Fire
+
+faction: Horde
+
+temp: Orc Warlock

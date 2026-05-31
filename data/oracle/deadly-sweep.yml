@@ -1,0 +1,15 @@
+card_name: Deadly Sweep
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: For each raiding player, destroy up to one target ability, ally, or equipment he controls.
+
+cost: '3'
+
+temp: ''

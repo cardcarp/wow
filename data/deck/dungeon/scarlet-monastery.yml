@@ -1,0 +1,71 @@
+name: Scarlet Monastery
+
+credit: Official Product
+
+category: Raid
+
+facet:
+  - Dungeon
+  - Raid
+
+collection: dungeon
+
+highlight: scarlet-monastery-001
+
+description: Scarlet Monastery
+
+context:
+  - title: ''
+    body: Introduction to the Scarlet Monastery
+
+total: 70
+
+list:
+  hero:
+    scarlet-monastery-001: 1  # Scarlet Commader Mograine - Level 1
+    scarlet-monastery-002: 1 # Scarlet Commader Mograine - Level 2
+    scarlet-monastery-003: 1 # Scarlet Commader Mograine - Level 3
+    scarlet-monastery-004: 1 # Scarlet Commader Mograine - Level 4
+  main:
+    scarlet-monastery-005: 1  # Arcanist Doan
+    scarlet-monastery-006: 1 # Bloodmage Thalnos
+    scarlet-monastery-007: 1 # Herod, The Scarlet Champion
+    scarlet-monastery-008: 1 # High Inquisitor Fairbanks
+    scarlet-monastery-009: 1 # High Inquisitor Whitemane
+    scarlet-monastery-010: 1 # Houndmaster Loksey
+    scarlet-monastery-011: 1 # Interrogator Vishas
+    scarlet-monastery-012: 1 # Dark Ranger Velonara
+    scarlet-monastery-013: 1 # Joseph the Insane
+    scarlet-monastery-014: 4 # Scarlet Beastmaster
+    scarlet-monastery-015: 2 # Scarlet Champion
+    scarlet-monastery-016: 3 # Scarlet Conjuror
+    scarlet-monastery-017: 4 # Scarlet Monk
+    scarlet-monastery-018: 6 # Scarlet Protector
+    scarlet-monastery-019: 3 # Scarlet Sorcerer
+    scarlet-monastery-020: 6 # Scarlet Torturer
+    scarlet-monastery-021: 1 # Balance of Power
+    scarlet-monastery-022: 2 # Blood in the Water (Scarlet Monastery)
+    scarlet-monastery-023: 1 # Coordinated Attack
+    scarlet-monastery-024: 1 # Deadly Sin
+    scarlet-monastery-025: 1 # Lament
+    scarlet-monastery-026: 2 # Lights Watch
+    scarlet-monastery-027: 1 # Mark of the Crusade
+    scarlet-monastery-028: 1 # Mograines Justice
+    scarlet-monastery-029: 1 # On Holy Ground
+    scarlet-monastery-030: 1 # Onslaught
+    scarlet-monastery-031: 1 # Pray for Death
+    scarlet-monastery-032: 1 # Punish the Wicked
+    scarlet-monastery-033: 1 # Reinforcements
+    scarlet-monastery-034: 1 # Scarlet Blades
+    scarlet-monastery-035: 2 # Scarlet Crusaders Strike
+    scarlet-monastery-036: 1 # Scarlet Redemption
+    scarlet-monastery-037: 1 # Scarlet Vigor
+    scarlet-monastery-038: 1 # Spread the Word
+    scarlet-monastery-039: 1 # Chain of the Scarlet Crusade
+    scarlet-monastery-040: 1 # Mograines Might
+    scarlet-monastery-041: 1 # Down But Not Out
+    scarlet-monastery-042: 1 # Fall of the House of Mograine
+    scarlet-monastery-043: 1 # Friend in Need
+    scarlet-monastery-044: 1 # Judged by the Light
+    scarlet-monastery-045: 1 # Paint it Red
+    scarlet-monastery-046: 1 # Resourcefulness

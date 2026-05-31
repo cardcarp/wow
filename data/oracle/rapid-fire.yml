@@ -1,0 +1,18 @@
+card_name: Rapid Fire
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Whenever you strike with a Ranged weapon this turn, you may pay 1 . If you do, ready that weapon and your hero.
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Marksmanship

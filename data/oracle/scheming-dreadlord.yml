@@ -1,0 +1,23 @@
+card_name: Scheming Dreadlord
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Elusive This ally has Assault 3 while an opposing hero has 15 or more damage on it.
+
+cost: '2'
+
+combat: Shadow
+
+temp: Dreadlord Demon
+
+type: Monster

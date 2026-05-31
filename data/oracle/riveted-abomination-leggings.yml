@@ -1,0 +1,20 @@
+card_name: Riveted Abomination Leggings
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Heroes and allies you control have Assault 2 and Conspicuous .
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '5'
+
+temp: Armor Plate

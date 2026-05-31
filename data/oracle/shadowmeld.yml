@@ -1,0 +1,17 @@
+card_name: Shadowmeld
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Night Elf Hero Required Ongoing : Your hero is Elusive and Untargetable . At the start of your turn, destroy Shadowmeld.'
+
+cost: '3'
+
+faction: Alliance
+
+temp: ''

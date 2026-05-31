@@ -1,0 +1,21 @@
+card_name: Twilight Wyrmkiller
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 3
+
+text: When this ally enters play, if an ability, ally, or equipment was destroyed this turn, this ally has Ferocity this turn.
+
+cost: '6'
+
+combat: Melee
+
+temp: Twilight Dragonkin

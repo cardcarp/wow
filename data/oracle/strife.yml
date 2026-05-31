@@ -1,0 +1,18 @@
+card_name: Strife
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : Heroes have Assault 3 Damage is unpreventable. Damage can't be healed."
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Fury

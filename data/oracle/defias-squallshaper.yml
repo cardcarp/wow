@@ -1,0 +1,21 @@
+card_name: Defias Squallshaper
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play, she deals 3 frost damage to each Raiding hero.
+
+combat: Frost
+
+temp: Human Mage
+
+type: Dungeon

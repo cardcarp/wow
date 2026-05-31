@@ -1,0 +1,19 @@
+card_name: Spellbreakers Buckler
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , , Discard an equipment card → Interrupt target ability card.
+
+class:
+  - Paladin
+  - Shaman
+
+cost: '3'
+
+temp: Armor Shield

@@ -1,0 +1,23 @@
+card_name: Defender Nagalaas
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 3
+
+text: Protector Nagalaas has +2 ATK during each opponent's turn.
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Warrior

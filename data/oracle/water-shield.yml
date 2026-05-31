@@ -1,0 +1,18 @@
+card_name: Water Shield
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Water Shield enters play with three mana counters. When an opposing hero or ally deals damage to your hero, ready up to three of your resources and remove a mana counter. If none remain, destroy Water Shield.'
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Restoration

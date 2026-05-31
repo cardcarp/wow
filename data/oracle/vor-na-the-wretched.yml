@@ -1,0 +1,17 @@
+card_name: Vor_na the Wretched
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 3 , Flip Vor'na → At the end of this turn, the player whose turn it is destroys each ally in his party that neither attacked nor entered play this turn. Wretched
+
+faction: Horde
+
+temp: Blood Elf Mage

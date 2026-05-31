@@ -1,0 +1,18 @@
+card_name: Wild Attunement
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : If one or more token allies with the same type would be put into play under your control, put that many +1 into play instead.'
+
+class:
+  - Druid
+
+cost: '5'
+
+temp: Balance

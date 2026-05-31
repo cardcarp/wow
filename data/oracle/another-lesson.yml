@@ -1,0 +1,15 @@
+card_name: Another Lesson
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: When Onyxia deals combat damage to an ally this turn, ready Onyxia.
+
+cost: '3'
+
+temp: ''

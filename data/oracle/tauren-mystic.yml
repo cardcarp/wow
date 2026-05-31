@@ -1,0 +1,23 @@
+card_name: Tauren Mystic
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: 'Tribe : When this or another Tauren ally enters play under your control, this ally deals 1 nature damage to target hero and heals 1 damage from your hero.'
+
+cost: '2'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Shaman

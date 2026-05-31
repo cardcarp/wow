@@ -1,0 +1,30 @@
+lex:
+  type: string
+  required: true
+  coerce: str
+
+rarity:
+  type: string
+  nullable: true
+  allowed: ['Common', 'Uncommon', 'Rare', 'Epic', 'Legendary', 'Token']
+
+artist:
+  type: string
+  nullable: true
+
+appearance:
+  type: list
+  schema:
+    type: string
+
+flavor:
+  type: string
+  nullable: true
+
+oracle:
+  type: string
+  required: true
+
+set:
+  type: string
+  required: true

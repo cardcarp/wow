@@ -1,0 +1,18 @@
+card_name: Boundless Might
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Eternal Choose one: Target weapon has +1 ATK this turn for each resource you control; or target armor has +1 this turn for each defense you control.'
+
+class:
+  - Paladin
+
+cost: '3'
+
+temp: Retribution

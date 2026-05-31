@@ -1,0 +1,18 @@
+card_name: Call of the Wild
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : When your hero attacks, it deals 1 melee damage to target opposing hero. Your hero is in Cat Form .'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Feral

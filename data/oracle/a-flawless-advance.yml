@@ -1,0 +1,18 @@
+card_name: A Flawless Advance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When an ally with cost equal to the number of resources you control enters your party, put a strength counter on A Flawless Advance. Allies in your party have +1 ATK / +1 health for each strength counter.'
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Fury

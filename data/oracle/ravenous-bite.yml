@@ -1,0 +1,18 @@
+card_name: Ravenous Bite
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target ally has +3 ATK this turn. Target ally has -3 ATK this turn.
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Beast Mastery

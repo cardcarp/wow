@@ -1,0 +1,21 @@
+card_name: Ogre Bodyguard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: While this ally is ready, prevent all damage that would be dealt to him.
+
+combat: Melee
+
+temp: Ogre Warrior
+
+type: Dungeon

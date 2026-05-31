@@ -1,0 +1,27 @@
+card_name: Titanium Frostguard Ring
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Your hero has Frost Resistance . On your turn: 6 , → Put a 10 / 10 Unique Frozen Elemental ally token into play with Frost Resistance .'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '4'
+
+temp: Item Ring

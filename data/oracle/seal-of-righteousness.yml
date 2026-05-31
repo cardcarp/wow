@@ -1,0 +1,18 @@
+card_name: Seal of Righteousness
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Your Melee weapons have +1 ATK. Destroy Seal of Righteousness → Your hero deals 2 holy damage to target ally.'
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Holy

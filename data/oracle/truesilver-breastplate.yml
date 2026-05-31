@@ -1,0 +1,19 @@
+card_name: Truesilver Breastplate
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero defends, it heals 1 damage from itself.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '6'
+
+temp: Armor Plate

@@ -1,0 +1,18 @@
+card_name: Shadow and Flame
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Destruction Hero Required Ongoing : 1 , Destroy an ability you control → Your hero deals 2 shadow or fire damage to target hero or ally.'
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Destruction Talent

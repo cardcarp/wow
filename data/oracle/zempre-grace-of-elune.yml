@@ -1,0 +1,23 @@
+card_name: Zempre, Grace of Elune
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: Night Elf Hero Required Shadowmeld Prevent all damage that would be dealt to your hero while Zempre is exhausted.
+
+cost: '4'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Night Elf Priest

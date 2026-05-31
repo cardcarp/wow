@@ -1,0 +1,23 @@
+card_name: Vicious Grell
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: If this ally would be destroyed on an opponent's turn, you may pay 1 . If you do, return him to his owner's hand instead.
+
+cost: '1'
+
+combat: Fire
+
+temp: Grell
+
+type: Monster

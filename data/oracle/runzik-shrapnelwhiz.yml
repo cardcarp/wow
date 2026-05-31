@@ -1,0 +1,23 @@
+card_name: Runzik Shrapnelwhiz
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When this ally enters play, he deals 1 ranged damage to target opposing ally.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Goblin Hunter

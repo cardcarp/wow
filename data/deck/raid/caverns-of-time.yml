@@ -1,0 +1,69 @@
+name: Caverns of Time
+
+credit: Official Product
+
+category: Raid
+
+facet:
+  - Raid
+
+collection: raid
+
+highlight: caverns-raid-001
+
+description: Co-op Raid Experience
+
+context:
+  - title: The Experience
+    body: Face off against the Infinite Dragonflight in a fully co-op, 1–5 player raid experience.
+  - title: The Mastermind
+    body: Battle against Murozond and other iconic villains.
+  - title: Components
+    body: Includes a complete 110-card Encounter Deck, Oversized Raid Hero Cards, and Treasure Packs.
+  - title: Why It Matters
+    body: This is the ultimate "boss battle" experience that brings the MMO raid experience to the tabletop, making it a highly collectible, out-of-print item.
+
+total: 70
+
+list:
+  hero:
+    caverns-raid-001: 1  # Aeonus
+    caverns-raid-002: 1 # Archimonde the Defiler
+    caverns-raid-003: 1 # Echo of Sylvanas
+    caverns-raid-004: 1 # Echo of Tyrande
+    caverns-raid-005: 1 # Mal_Ganis
+    caverns-raid-006: 1 # Mannoroth the Destructor
+    caverns-raid-007: 1 # Murozond
+    caverns-raid-008: 1 # Queen Azshara
+  main:
+    caverns-raid-009: 2  # Carrion Swarm
+    caverns-raid-010: 2 # Distortion Bomb
+    caverns-raid-011: 2 # Doom
+    caverns-raid-012: 2 # Doomfire
+    caverns-raid-013: 2 # Felblade
+    caverns-raid-014: 2 # Howl of Azgalor
+    caverns-raid-015: 2 # Mark of Kaz_rogal
+    caverns-raid-016: 1 # Anetheron
+    caverns-raid-017: 1 # Epoch Hunter
+    caverns-raid-018: 1 # Kaz_rogal
+    caverns-raid-019: 1 # Meathook
+    caverns-raid-020: 1 # Peroth_arn
+    caverns-raid-021: 1 # Salramm the Fleshcrafter
+    caverns-raid-022: 3 # Doomguard Devastator
+    caverns-raid-023: 4 # Fel Stalker
+    caverns-raid-024: 5 # Felguard
+    caverns-raid-025: 3 # Giant Infernal
+    caverns-raid-026: 2 # Infinite Suppressor
+    caverns-raid-027: 5 # Infinite Warden
+    caverns-raid-028: 4 # Time-Twisted Footman
+    caverns-raid-029: 4 # Time-Twisted Huntress
+    caverns-raid-030: 1 # Call of the Legion
+    caverns-raid-031: 1 # Devourer of Time
+    caverns-raid-032: 1 # Dread Force
+    caverns-raid-033: 1 # Echo of Death
+    caverns-raid-034: 1 # Lord of the Pit
+    caverns-raid-035: 1 # Moonstrike
+    caverns-raid-036: 1 # Queen of Madness
+    caverns-raid-037: 1 # Raid Warning_ Annihilation
+    caverns-raid-038: 1 # Raid Warning_ Dark Summoning
+    caverns-raid-039: 1 # Time Fracture

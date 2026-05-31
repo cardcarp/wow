@@ -1,0 +1,18 @@
+card_name: Crusader Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Retribution Hero Required Your hero deals melee damage to target hero or ally equal to 3 plus the ATK of one of your Melee weapons. You may put an ongoing Judgement or Seal card from your graveyard into play.
+
+class:
+  - Paladin
+
+cost: '5'
+
+temp: Retribution Talent

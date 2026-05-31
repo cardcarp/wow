@@ -1,0 +1,23 @@
+card_name: Rantuko Grimtouch
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: When Rantuko readies, he deals 1 shadow damage to each opposing ally.
+
+cost: '1'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Tauren Death Knight

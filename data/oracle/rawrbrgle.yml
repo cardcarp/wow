@@ -1,0 +1,19 @@
+card_name: Rawrbrgle
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 8 → Flip Rawrbrgle face down. You pay 8 less to flip Rawrbrgle if you control five or more Murloc allies.
+
+temp: Murloc Warrior 30
+
+transform:
+  - id: ability
+    text: "Monster allies you control have +1 / +1. Deckbuilding: You can't put or cards in your deck."
+
+type: Monster

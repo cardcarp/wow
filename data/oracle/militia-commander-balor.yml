@@ -1,0 +1,23 @@
+card_name: Militia Commander Balor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 8
+
+text: This ally can protect Peasants. At the start of your turn, you may put two 1 / 1 Peasant ally token into play. Peasants you control can be exhausted to pay costs as though they were resources.
+
+cost: '7'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

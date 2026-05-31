@@ -1,0 +1,19 @@
+card_name: Fandrals Flamescythe
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this weapon enters play, put a 2 / 2 Flame Cat Monster ally token into play.
+
+class:
+  - Druid
+  - Hunter
+
+cost: '3'
+
+temp: 2H Weapon Polearm

@@ -1,0 +1,23 @@
+card_name: Ja_zaron
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Protector At the start of your turn, Ja'zaron heals 1 damage from himself.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Shaman

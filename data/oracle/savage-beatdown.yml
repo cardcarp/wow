@@ -1,0 +1,15 @@
+card_name: Savage Beatdown
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target ally has +5 ATK and Smash this turn.
+
+cost: '4'
+
+temp: ''

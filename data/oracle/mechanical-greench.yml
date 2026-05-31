@@ -1,0 +1,23 @@
+card_name: Mechanical Greench
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: If this ally would deal damage to a hero, it deals double that much instead.
+
+cost: '3'
+
+combat: Melee
+
+temp: Mechanical
+
+type: Monster

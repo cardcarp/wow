@@ -1,0 +1,21 @@
+card_name: Variable Pulse Lightning Capacitor
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'When you play an ability, you may add an overload counter to this item. On your turn: 2 , , Destroy this item → Destroy all abilities, allies, and equipment with cost less than or equal to the number of overload counters on this item.'
+
+class:
+  - Priest
+  - Shaman
+  - Warlock
+  - Mage
+
+cost: '4'
+
+temp: Item Trinket

@@ -1,0 +1,23 @@
+card_name: Mortok
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Mortok can attack only exhausted heroes and allies.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Rogue

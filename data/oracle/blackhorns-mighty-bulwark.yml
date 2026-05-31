@@ -1,0 +1,18 @@
+card_name: Blackhorns Mighty Bulwark
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of each player's turn, ready this armor.
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Armor Shield

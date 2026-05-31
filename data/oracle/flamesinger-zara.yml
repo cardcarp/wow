@@ -1,0 +1,23 @@
+card_name: Flamesinger Zara
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Elusive
+
+cost: '3'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Draenei Mage

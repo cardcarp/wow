@@ -1,0 +1,23 @@
+card_name: Quakelord Razek Warhoof
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Tauren Hero Required War Stomp When Razek attacks or defends, target opponent exhausts each ability and equipment he controls.
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

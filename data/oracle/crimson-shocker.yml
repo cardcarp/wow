@@ -1,0 +1,20 @@
+card_name: Crimson Shocker
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this weapon enters play, your hero may deal 2 fire damage to target hero or ally.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Ranged Weapon Wand

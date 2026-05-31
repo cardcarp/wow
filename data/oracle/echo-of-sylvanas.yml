@@ -1,0 +1,15 @@
+card_name: Echo of Sylvanas
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: "Flip 2 , Assault 3 , Long-Range Entrance : Put a 3 / 3 Ghoul ally token into play for each Caverns hero that has been defeated. At the start of Sylvanas' turn, put a 3 / 3 Ghoul ally token into play. Then, if she controls five or more Ghouls, she deals 10 shadow damage to each Raiding hero."
+
+temp: Undead Echo 25
+
+type: Boss

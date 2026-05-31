@@ -1,0 +1,18 @@
+card_name: Guardian Spirit
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Holy Talent Your hero heals all damage from target friendly ally. You may have your hero's remaining health become equal to the of that ally.
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Holy

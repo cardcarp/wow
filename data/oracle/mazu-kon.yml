@@ -1,0 +1,23 @@
+card_name: Mazu_kon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: Ferocity When this ally is destroyed, put a 6 / 6 Troll Shaman ally token named Mazu'kon into play with Ferocity .
+
+cost: '6'
+
+combat: Nature
+
+faction: Horde
+
+temp: Troll Shaman

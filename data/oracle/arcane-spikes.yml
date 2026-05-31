@@ -1,0 +1,19 @@
+card_name: Arcane Spikes
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals X arcane damage to target ally.
+
+class:
+  - Hunter
+  - Mage
+
+cost: X
+
+temp: Marksmanship Arcane

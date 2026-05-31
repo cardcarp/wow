@@ -1,0 +1,19 @@
+card_name: Legguards of the Legion
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor enters play, name "Demon", a race, or an race. You pay 1 less to play allies of the named race, to a minimum of 1 . Your hero has Assault 1 for each ally you control of the named race.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '3'
+
+temp: Armor Mail

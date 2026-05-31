@@ -1,0 +1,21 @@
+card_name: Kara Vesstal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+cost: '2'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Human Mage

@@ -1,0 +1,25 @@
+card_name: Gladiator Sepirion
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 7
+
+text: When each Arena ally in your party attacks for the first time each turn, you may pay 1 . If you do, ready it.
+
+cost: '7'
+
+combat: Nature
+
+faction: Horde
+
+temp: Troll Shaman
+
+type: Arena

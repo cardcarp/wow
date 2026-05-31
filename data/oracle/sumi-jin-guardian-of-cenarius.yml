@@ -1,0 +1,21 @@
+card_name: Sumi_jin, Guardian of Cenarius
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 3 → Flip Sumi'jin face down.
+
+faction: Horde
+
+temp: Troll Druid
+
+transform:
+  - id: ability
+    text: When an ally enters play under your control, Sumi'jin may heal 1 damage from herself.

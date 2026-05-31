@@ -1,0 +1,23 @@
+card_name: Zi_mo
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: Berserking
+
+cost: '3'
+
+combat: Frost
+
+faction: Horde
+
+temp: Troll Mage

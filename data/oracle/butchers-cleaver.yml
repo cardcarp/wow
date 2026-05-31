@@ -1,0 +1,23 @@
+card_name: Butchers Cleaver
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: This weapon has +2 ATK while your hero is attacking a hero with 15 or more damage.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Shaman
+
+cost: '2'
+
+temp: 1H Weapon Axe

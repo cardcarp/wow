@@ -1,0 +1,17 @@
+card_name: Ressa Shadeshine
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 2 , Flip Ressa → Ressa deals melee damage to target ally equal to the ATK of one of your weapons.
+
+faction: Alliance
+
+temp: Gnome Rogue

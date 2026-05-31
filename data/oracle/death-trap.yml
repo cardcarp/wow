@@ -1,0 +1,18 @@
+card_name: Death Trap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Traitor Hero Required Trap Destroy target attacking ally. If you do, your hero deals 1 nature damage to each hero and ally in that ally's party.
+
+class:
+  - Hunter
+
+cost: '5'
+
+temp: Traitor

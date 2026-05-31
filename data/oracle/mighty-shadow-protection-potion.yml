@@ -1,0 +1,24 @@
+card_name: Mighty Shadow Protection Potion
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Destroy this item → Target friendly hero or ally has Shadow Resistance this turn.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Death Knight
+  - Mage
+  - Shaman
+
+cost: '1'
+
+temp: Item Potion

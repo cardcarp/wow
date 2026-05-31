@@ -1,0 +1,18 @@
+card_name: Sinister Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals melee damage to target hero or ally equal to 1 plus the ATK of a Melee weapon you control.
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Combat Combo

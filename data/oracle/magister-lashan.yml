@@ -1,0 +1,21 @@
+card_name: Magister Lashan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: 'Scryer Reputation Sabotage: Resource When Lashan sabotages a resource, destroy it.'
+
+cost: '4'
+
+combat: Fire
+
+temp: Blood Elf Mage

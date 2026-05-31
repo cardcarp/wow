@@ -1,0 +1,24 @@
+card_name: Ripper
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: 3 → Double Ripper's ATK this turn.
+
+class:
+  - Hunter
+
+cost: '1'
+
+combat: Melee
+
+temp: Ravager

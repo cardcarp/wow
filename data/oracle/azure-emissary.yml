@@ -1,0 +1,21 @@
+card_name: Azure Emissary
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When you play an ability, this ally deals 1 arcane damage to target hero for each Mage and Warlock you control.
+
+cost: '3'
+
+combat: Arcane
+
+temp: Blue Dragonkin

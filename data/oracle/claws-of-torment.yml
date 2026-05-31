@@ -1,0 +1,19 @@
+card_name: Claws of Torment
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has Dual Wield .
+
+class:
+  - Shaman
+  - Rogue
+
+cost: '3'
+
+temp: 1H Weapon Fist

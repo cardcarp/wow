@@ -1,0 +1,21 @@
+card_name: Edward the Odd
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Cards in opposing hands lose and can't have instant.
+
+cost: '5'
+
+combat: Melee
+
+temp: Human Paladin

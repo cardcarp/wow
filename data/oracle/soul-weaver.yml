@@ -1,0 +1,21 @@
+card_name: Soul Weaver
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Melee Resistance When this ally enters play, put target non-hero raiding card into its owner's hand.
+
+combat: Shadow
+
+temp: Banshee
+
+type: Ally

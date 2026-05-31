@@ -1,0 +1,23 @@
+card_name: Ansem, Timewalker Deathblade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Protector This ally has +4 / +3 while an opponent controls a or Monster hero.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Death Knight

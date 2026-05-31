@@ -1,0 +1,18 @@
+card_name: Veterans Tactics
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target armor or weapon. Ongoing : Attached card has +3 ATK if it's a weapon. Attached card has +3 DEF if it's an armor. 2 → Reattach this ability to another target armor or weapon."
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Arms Attachment

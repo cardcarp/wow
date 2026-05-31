@@ -1,0 +1,23 @@
+card_name: Monstrous Terrorguard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 5
+
+text: When this ally enters play, you may choose and destroy another Demon ally you control. If you do, destroy target ally.
+
+cost: '7'
+
+combat: Melee
+
+temp: Terrorguard Demon
+
+type: Monster

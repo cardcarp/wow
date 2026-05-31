@@ -1,0 +1,21 @@
+card_name: Corin Stallnorth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Worgen Warrior

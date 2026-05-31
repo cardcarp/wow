@@ -1,0 +1,18 @@
+card_name: Crusaders Sweep
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 1 unpreventable holy damage to each opposing hero and ally.
+
+class:
+  - Paladin
+
+cost: '3'
+
+temp: Holy

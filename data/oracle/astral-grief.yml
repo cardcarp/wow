@@ -1,0 +1,18 @@
+card_name: Astral Grief
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Interrupt target quest reward effect.
+
+class:
+  - Mage
+
+cost: '1'
+
+temp: Arcane

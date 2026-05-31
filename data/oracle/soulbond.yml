@@ -1,0 +1,18 @@
+card_name: Soulbond
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Attach to target Demon ally. Ongoing : If your hero would be dealt damage, it's dealt to attached ally instead."
+
+class:
+  - Warlock
+
+cost: '4'
+
+temp: Demonology Attachment

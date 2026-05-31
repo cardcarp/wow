@@ -1,0 +1,24 @@
+card_name: Velnoth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Velnoth can protect your hero. 2 → Velnoth heals all damage from himself.
+
+class:
+  - Warlock
+
+cost: '2'
+
+combat: Melee
+
+temp: Voidwalker Demon

@@ -1,0 +1,18 @@
+card_name: Flawless Defense
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Your hero has Protector . Your hero has +1 ATK while defending.'
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Protection

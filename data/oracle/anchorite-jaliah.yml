@@ -1,0 +1,21 @@
+card_name: Anchorite Jaliah
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 7
+
+text: Aldor Reputation When an ally in your party is destroyed, Jaliah heals 2 damage from each hero and ally in your party.
+
+cost: '5'
+
+combat: Holy
+
+temp: Draenai Priest

@@ -1,0 +1,18 @@
+card_name: Static Shock
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Enhancement Talent Attach to target ally or weapon you control. Ongoing : When attached card exhausts, add a static counter to this ability. Attached card has +1 ATK for each static counter on this ability. When attached card is destroyed, your hero deals 1 nature damage to target opposing hero for each static counter on this ability.'
+
+class:
+  - Shaman
+
+cost: '1'
+
+temp: Enhancement Attachment

@@ -1,0 +1,18 @@
+card_name: Blustering Winds
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target up to three heroes and/or allies. They can't attack or protect this turn.
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Balance

@@ -1,0 +1,18 @@
+card_name: Wrath of the Ages
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Rift This turn, double the ATK of target ally, and it has Smash .
+
+class:
+  - Hunter
+
+cost: '5'
+
+temp: Beast Mastery

@@ -1,0 +1,17 @@
+card_name: Shaii, Strategist Supreme
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'If Shaii is defending: , Flip Shaii → Shaii deals 1 melee damage to target attacker.'
+
+faction: Alliance
+
+temp: Night Elf Hunter

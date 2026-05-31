@@ -1,0 +1,18 @@
+card_name: Holy Ground
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 2 unpreventable holy damage to each opposing ally and heals 2 damage from each friendly ally.
+
+class:
+  - Paladin
+
+cost: '4'
+
+temp: Holy

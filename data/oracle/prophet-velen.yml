@@ -1,0 +1,23 @@
+card_name: Prophet Velen
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 8
+
+text: Exhaust a Draenei in your party → Prophet Velen deals 1 nature damage to target opposing hero or ally and heals 1 damage from target friendly hero or ally.
+
+cost: '9'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

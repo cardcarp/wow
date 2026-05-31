@@ -1,0 +1,20 @@
+card_name: Vengeful Gladiators Cleaver
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has Dual Wield . You can strike with Vengeful Gladiator's Cleaver while an ally in your party is in combat. (If you do, that ally gains this card's ATK and damage type this combat.)
+
+class:
+  - Warrior
+  - Death Knight
+  - Shaman
+
+cost: '4'
+
+temp: 1H Arena Weapon Axe

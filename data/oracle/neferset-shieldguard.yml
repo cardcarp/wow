@@ -1,0 +1,23 @@
+card_name: Neferset Shieldguard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Mend 1 , Protector , Sentinel
+
+cost: '5'
+
+combat: Holy
+
+temp: Tol'vir Paladin Priest
+
+type: Monster

@@ -1,0 +1,18 @@
+card_name: Sigil of the Vengeful Heart
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , → Ready target Ghoul. When you play a Weapon, ready this item.
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Item Relic

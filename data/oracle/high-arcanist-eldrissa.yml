@@ -1,0 +1,23 @@
+card_name: High Arcanist Eldrissa
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Elusive When this ally enters play, remove the top three cards of target opponent's deck from the game face down. You and only you may look at cards removed this way at any time. 2 , Put a card removed this way into its owner's graveyard → Interrupt target card if it has the same name as that card.
+
+cost: '2'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Night Elf Mage

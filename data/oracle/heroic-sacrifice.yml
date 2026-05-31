@@ -1,0 +1,15 @@
+card_name: Heroic Sacrifice
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Raiders choose one: Godfrey deal 4 melee damage to each Raiding hero and ally; or the Raiders choose a Raider, and Godfrey deals 8 melee damage to each hero and ally he controls.'
+
+temp: ''
+
+type: Dungeon

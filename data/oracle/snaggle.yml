@@ -1,0 +1,23 @@
+card_name: Snaggle
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: This ally has Assault 1 for each other Monster hero and ally you control.
+
+cost: '1'
+
+combat: Melee
+
+temp: Gnoll Warrior
+
+type: Monster

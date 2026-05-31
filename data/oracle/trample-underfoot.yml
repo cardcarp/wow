@@ -1,0 +1,15 @@
+card_name: Trample Underfoot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Magtheridon deals 2 melee damage to target hero or ally. Ongoing : When Magtheridon becomes exhausted, he deals 2 melee damage to target hero or ally.'
+
+cost: '2'
+
+temp: ''

@@ -1,0 +1,21 @@
+card_name: Zor_ka, Timewalker Shaman
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: 'While you control two or more allies that share a or race: → This ally deals 2 nature damage divided as you choose to any number of target heroes and/or allies.'
+
+cost: '3'
+
+combat: Nature
+
+temp: Orc Shaman

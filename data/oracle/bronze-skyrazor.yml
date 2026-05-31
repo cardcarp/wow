@@ -1,0 +1,21 @@
+card_name: Bronze Skyrazor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: When this ally enters play, if you control no ready resources, it has Ferocity this turn.
+
+cost: '5'
+
+combat: Melee
+
+temp: Bronze Dragonkin

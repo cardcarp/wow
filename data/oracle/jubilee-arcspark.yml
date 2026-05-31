@@ -1,0 +1,23 @@
+card_name: Jubilee Arcspark
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Untargetable When Jubilee Arcspark is revealed from your deck by a quest, draw a card.
+
+cost: '3'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Gnome Mage

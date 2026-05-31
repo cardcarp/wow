@@ -1,0 +1,21 @@
+card_name: Renewal of Life
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, you may destroy this item. If you do, each player puts all allies from his graveyard into play.
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '4'
+
+temp: Item Ring

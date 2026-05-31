@@ -1,0 +1,18 @@
+card_name: Blessing of Vigilance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally you control. Ongoing : Attached ally has +5 and Protector .'
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Protection Blessing Attachment

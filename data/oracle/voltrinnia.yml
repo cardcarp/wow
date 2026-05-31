@@ -1,0 +1,23 @@
+card_name: Voltrinnia
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Protector Arcane Torrent At the start of each opponent's turn, target ally in his party loses and can't have powers this turn.
+
+cost: '5'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Paladin

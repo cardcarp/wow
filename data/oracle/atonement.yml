@@ -1,0 +1,18 @@
+card_name: Atonement
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Prevent all damage that target hero or ally would deal this turn.
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Protection

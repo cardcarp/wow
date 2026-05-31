@@ -1,0 +1,21 @@
+card_name: Klannoc Macleod
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: 1 , Put 1 damage on a Warrior you control → It has +1 ATK this turn.
+
+cost: '4'
+
+combat: Melee
+
+temp: Human Warrior

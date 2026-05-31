@@ -1,0 +1,57 @@
+name: Horde Rogue
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Horde
+  - Starter
+  - '2011'
+
+collection: '2011'
+
+highlight: starter-2011-horde-rogue-001
+
+description: 2011 Horde Rogue Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2011 Horde Rogue
+
+total: 61
+
+list:
+  hero:
+    starter-2011-horde-rogue-001: 1  # Frizlix of Kezan
+  main:
+    starter-2011-horde-rogue-002: 1  # Adrenaline Rush
+    starter-2011-horde-rogue-003: 2 # Aggressive Exploitation
+    starter-2011-horde-rogue-004: 1 # Carnage
+    starter-2011-horde-rogue-005: 1 # Deadly Poison
+    starter-2011-horde-rogue-006: 1 # Dismantle
+    starter-2011-horde-rogue-007: 1 # Distract
+    starter-2011-horde-rogue-008: 1 # Fan of Knives
+    starter-2011-horde-rogue-009: 2 # Gouge
+    starter-2011-horde-rogue-010: 2 # Infiltrate
+    starter-2011-horde-rogue-011: 2 # Prey on the Weak
+    starter-2011-horde-rogue-012: 2 # Sinister Strike
+    starter-2011-horde-rogue-013: 2 # Bloodblade
+    starter-2011-horde-rogue-014: 2 # Captain Swash
+    starter-2011-horde-rogue-015: 2 # Drizzie Steelslam
+    starter-2011-horde-rogue-016: 2 # Firewarden Wyland Kaslinth
+    starter-2011-horde-rogue-017: 3 # Kozik Skullcracker
+    starter-2011-horde-rogue-018: 1 # Lu_ka de Wall
+    starter-2011-horde-rogue-019: 2 # Oruk Starstorm
+    starter-2011-horde-rogue-020: 3 # Skronk Skullseeker
+    starter-2011-horde-rogue-021: 3 # Wysko
+    starter-2011-horde-rogue-022: 2 # Zakis Trickstab
+    starter-2011-horde-rogue-023: 2 # Barman Shanker
+    starter-2011-horde-rogue-024: 1 # Perditions Blade
+    starter-2011-horde-rogue-025: 2 # Scarlet Kris
+    starter-2011-horde-rogue-026: 2 # A Bird in Hand
+    starter-2011-horde-rogue-027: 1 # Blueleaf Tubers
+    starter-2011-horde-rogue-028: 4 # Entrenched
+    starter-2011-horde-rogue-029: 4 # The Essence of Enmity
+    starter-2011-horde-rogue-030: 2 # The Grimtotem Weapon
+    starter-2011-horde-rogue-031: 4 # The Key to Freedom

@@ -1,0 +1,18 @@
+card_name: Savage Bear Form
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Your hero has Protector and +5 .'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Feral Bear Form

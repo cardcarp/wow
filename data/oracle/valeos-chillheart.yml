@@ -1,0 +1,23 @@
+card_name: Valeos Chillheart
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Protector Each ally in combat with Valeos has -1 ATK for each damage on that ally.
+
+cost: '3'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Night Elf Death Knight

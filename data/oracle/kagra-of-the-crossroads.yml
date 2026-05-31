@@ -1,0 +1,23 @@
+card_name: Kagra of the Crossroads
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Ferocity
+
+cost: '1'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Orc Hunter

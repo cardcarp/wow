@@ -1,0 +1,23 @@
+card_name: Zulbraka
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: Protector
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Warrior

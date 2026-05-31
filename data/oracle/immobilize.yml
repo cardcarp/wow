@@ -1,0 +1,19 @@
+card_name: Immobilize
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target ability, ally, equipment, or resource and exhaust it. Ongoing : Attached card can't ready during its controller's ready step."
+
+class:
+  - Druid
+  - Rogue
+
+cost: '4'
+
+temp: Balance Subtlety

@@ -1,0 +1,23 @@
+card_name: Okumet, Herald of the Light
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: 'Empower Paladin : When this ally enters play, if you control another Paladin hero or ally, prevent the next 3 damage that would be dealt to target hero or ally this turn.'
+
+cost: '5'
+
+combat: Holy
+
+temp: Tol'vir Paladin Priest
+
+type: Monster

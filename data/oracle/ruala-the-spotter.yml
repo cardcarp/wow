@@ -1,0 +1,23 @@
+card_name: Ruala the Spotter
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 3
+
+text: Exhaust your hero → Target ally has +3 ATK this turn.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Hunter

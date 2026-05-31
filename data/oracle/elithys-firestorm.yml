@@ -1,0 +1,23 @@
+card_name: Elithys Firestorm
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When Elithys Firestorm attacks, she deals 1 fire damage to each other hero and ally.
+
+cost: '2'
+
+combat: Fire
+
+faction: Horde
+
+temp: Blood Elf Warlock

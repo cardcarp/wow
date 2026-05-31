@@ -1,0 +1,21 @@
+card_name: Bloodlust Brooch
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals combat damage, put that many Fanatic ally tokens into play with 1 ATK / 1 health.
+
+class:
+  - Warrior
+  - Shaman
+  - Hunter
+  - Rogue
+
+cost: '6'
+
+temp: Item Trinket

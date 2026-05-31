@@ -1,0 +1,23 @@
+card_name: Commander Ulthok
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: Monster Hero Required When Ulthok enters play, name an ability, ally, or equipment. Then, search target opponent's deck, graveyard, and hand for all cards with that name and remove them from the game.
+
+cost: '5'
+
+combat: Shadow
+
+temp: Faceless One Warlock
+
+type: Monster

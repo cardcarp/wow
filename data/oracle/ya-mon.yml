@@ -1,0 +1,23 @@
+card_name: Ya_mon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 6
+
+text: Ya'mon has +1 ATK for each damage on him.
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Rogue

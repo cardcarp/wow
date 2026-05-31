@@ -1,0 +1,18 @@
+card_name: Mark of Elderlimb
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : When attached ally deals damage to an opposing hero, put two 1 / 1 Treant ally tokens into play.'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Balance

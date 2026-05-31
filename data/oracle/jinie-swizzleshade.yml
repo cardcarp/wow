@@ -1,0 +1,23 @@
+card_name: Jinie Swizzleshade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: Elusive
+
+cost: '6'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Priest

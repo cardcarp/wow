@@ -1,0 +1,20 @@
+card_name: Demonfang Ritual Helm
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When an ally in your party is destroyed, each other player destroys an ally in his party.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '6'
+
+temp: Armor Cloth

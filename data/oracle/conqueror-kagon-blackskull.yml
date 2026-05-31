@@ -1,0 +1,23 @@
+card_name: Conqueror Kagon Blackskull
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: Protector 3 → Remove target ally card in any graveyard from the game, and Kagon deals 1 frost damage to target hero or ally. A character dealt damage this way can't attack this turn.
+
+cost: '6'
+
+combat: Frost
+
+faction: Horde
+
+temp: Orc Death Knight

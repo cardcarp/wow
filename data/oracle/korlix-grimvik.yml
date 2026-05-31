@@ -1,0 +1,23 @@
+card_name: Korlix Grimvik
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Protector
+
+cost: '2'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Goblin Death Knight

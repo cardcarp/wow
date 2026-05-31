@@ -1,0 +1,18 @@
+card_name: Trueshot Aura
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Marksmanship Hero Required Ongoing : allies in your party have +2 ATK while attacking. Your Ranged weapons have +2 ATK while your hero is attacking. If your hero would deal ranged damage with an ability, it deals that much +2 instead.'
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Marksmanship Talent

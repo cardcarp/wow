@@ -1,0 +1,15 @@
+card_name: Prismatic Shield
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: This turn, if a hero or ally in your party would be dealt damage, prevent 3 of it.
+
+cost: '1'
+
+temp: Black Temple

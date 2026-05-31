@@ -1,0 +1,21 @@
+card_name: Hellscream Slicer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Dual Wield When this weapon enters play, if an opponent controls an hero, add a +1 ATK counter to this and each other weapon you control.
+
+class:
+  - Shaman
+  - Rogue
+
+cost: '3'
+
+faction: Horde
+
+temp: 1H Weapon Axe

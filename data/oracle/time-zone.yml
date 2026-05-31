@@ -1,0 +1,15 @@
+card_name: Time Zone
+
+layout: standard
+
+regulation:
+
+category: Misc
+
+errata: []
+
+text: "If Deathwing's graveyard contained five or more allies when the last Raiding hero was destroyed, gain this Gift. Use this Gift: Allies Deathwing controls can't ready on his next turn."
+
+temp: ''
+
+type: Gift

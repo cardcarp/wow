@@ -1,0 +1,23 @@
+card_name: Lodur, Herald of the Elements
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: 'Empower Shaman : When this ally enters play, if you control another Shaman hero or ally, target opposing ally becomes 1 / 1 and is also a Frog this turn.'
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Shaman

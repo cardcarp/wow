@@ -1,0 +1,23 @@
+card_name: _Poison Tongue_ McGillicutty
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When Poison Tongue is destroyed, you may destroy target resource.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Priest

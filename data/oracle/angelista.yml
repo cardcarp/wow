@@ -1,0 +1,23 @@
+card_name: Angelista
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Stealth At the end of your turn, you may put target equipment into its owner's hand.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Rogue

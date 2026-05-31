@@ -1,0 +1,19 @@
+card_name: Firelord
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When Firelord enters play, put a Lava Spawn into play.
+
+combat: Melee
+
+temp: Elemental Minion

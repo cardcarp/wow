@@ -1,0 +1,15 @@
+card_name: Essence of Focus
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'You pay 2 less to play this ability if you control a Mage hero or ally. You pay 2 less to play this ability if you control a Shaman hero or ally. Attach to target ally. Ongoing : Attached ally has +2 / +2 and Elusive .'
+
+cost: '5'
+
+temp: ''

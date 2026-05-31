@@ -1,0 +1,19 @@
+card_name: Stormshield of Renewal
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero heals damage from a friendly ally, it also heals that much from itself.
+
+class:
+  - Paladin
+  - Shaman
+
+cost: '3'
+
+temp: Armor Shield

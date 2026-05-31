@@ -1,0 +1,23 @@
+card_name: Helm of Fire
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 5 , Exhaust your hero → Your hero deals 3 fire damage to target hero or ally.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+cost: '3'
+
+temp: Armor Leather

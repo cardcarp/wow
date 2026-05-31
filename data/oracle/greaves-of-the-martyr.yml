@@ -1,0 +1,20 @@
+card_name: Greaves of the Martyr
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: This armor enters play with two +1 counters on it. Remove a +1 counter from this armor → You pay 2 less to strike with Melee weapons this turn.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '2'
+
+temp: Armor Plate

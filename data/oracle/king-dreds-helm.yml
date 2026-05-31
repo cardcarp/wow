@@ -1,0 +1,19 @@
+card_name: King Dreds Helm
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'When your hero turns face down, target up to three heroes and/or allies. Hero : Your hero deals 2 ranged damage to each of them. Hero : Your hero deals 3, 2, and 1 nature damage to them, respectively.'
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '4'
+
+temp: Armor Mail

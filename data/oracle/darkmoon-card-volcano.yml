@@ -1,0 +1,22 @@
+card_name: Darkmoon Card_ Volcano
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'At the start of your turn, you win the game if there are no cards in your deck. Stash : Target player puts the top two cards of his deck into his graveyard.'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '7'
+
+temp: Item Trinket

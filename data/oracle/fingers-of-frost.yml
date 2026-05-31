@@ -1,0 +1,18 @@
+card_name: Fingers of Frost
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Frost Hero Required If you have ten or more cards in your hand, opposing cards can't attack or exhaust until the start of your next turn.
+
+class:
+  - Mage
+
+cost: '5'
+
+temp: Frost Talent

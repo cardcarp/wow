@@ -1,0 +1,17 @@
+card_name: Marta Spires
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: 6 , Flip Marta → Put target ally card from your graveyard into play if its cost is less than or equal to the number of resources you have. Use only on your turn.
+
+faction: Alliance
+
+temp: Human Priest

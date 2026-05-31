@@ -1,0 +1,15 @@
+card_name: Blood Siphon
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Destroy Blood Siphon → Draw three cards.'
+
+cost: '1'
+
+temp: ''

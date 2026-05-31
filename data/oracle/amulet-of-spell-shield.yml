@@ -1,0 +1,20 @@
+card_name: Amulet of Spell Shield
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has Spellshield .
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '1'
+
+temp: Item Neck

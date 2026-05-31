@@ -1,0 +1,18 @@
+card_name: Seal of the Crusader
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Your hero has -1 ATK. When your hero deals combat damage for the first time each turn, you may ready it and one of your melee weapons. 1 , Destroy Seal of the Crusader → Your hero has +2 ATK while attacking this turn.'
+
+class:
+  - Paladin
+
+cost: '3'
+
+temp: Retribution

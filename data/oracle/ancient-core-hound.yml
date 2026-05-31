@@ -1,0 +1,19 @@
+card_name: Ancient Core Hound
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: "When Ancient Core Hound enters play, roll a die. 1-2: Exhaust all opposing allies. 3-4: Ancient Core Hound deals 2 fire damage to each ally in a party of your choice. 5-6: Put an opposing ally into its owner's hand."
+
+combat: Melee
+
+temp: Core Hound Minion

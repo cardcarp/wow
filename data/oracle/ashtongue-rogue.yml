@@ -1,0 +1,21 @@
+card_name: Ashtongue Rogue
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: 'Traitor Hero : Elusive , Ferocity Loyal Hero : Long-Range , Stealth'
+
+cost: '4'
+
+combat: Melee
+
+temp: Broken Rogue

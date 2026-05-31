@@ -1,0 +1,23 @@
+card_name: Kysa Shadowstalker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When this ally enters play, target hero or ally has Stealth this turn.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Night Elf Druid

@@ -1,0 +1,17 @@
+card_name: Kaniya the Steadfast
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 31
+
+text: 3 , Flip Kaniya → Heroes and allies in your party are Protectors this turn.
+
+faction: Horde
+
+temp: Tauren Warrior

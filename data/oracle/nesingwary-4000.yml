@@ -1,0 +1,18 @@
+card_name: Nesingwary 4000
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with this weapon, your hero has Long-Range this combat. While there are four or more allies with the same name in one opposing graveyard, this weapon's ATK becomes 4000.
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Ranged Weapon Gun

@@ -1,0 +1,23 @@
+card_name: Kaelos Sunscream
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: 1 , Destroy another ally in your party → Destroy target ability.
+
+cost: '4'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Priest

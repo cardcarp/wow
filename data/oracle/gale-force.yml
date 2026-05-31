@@ -1,0 +1,18 @@
+card_name: Gale Force
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target ally has Ferocity this turn.
+
+class:
+  - Shaman
+
+cost: '1'
+
+temp: Enhancement

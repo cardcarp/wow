@@ -1,0 +1,21 @@
+card_name: Bloodthirsty Ghoul
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 4
+
+text: When this ally enters play, put all Bloodthirsty Ghouls from the graveyard into play.
+
+combat: Melee
+
+temp: Ghoul
+
+type: Dungeon

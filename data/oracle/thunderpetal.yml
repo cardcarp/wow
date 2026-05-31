@@ -1,0 +1,23 @@
+card_name: Thunderpetal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Mend 1 When 1 or more damage is healed from a hero or ally you control, this ally deals 1 nature damage to target opposing hero.
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Shaman

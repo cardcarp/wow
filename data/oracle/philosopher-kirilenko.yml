@@ -1,0 +1,23 @@
+card_name: Philosopher Kirilenko
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 7
+
+text: Protector When this ally enters play, if your hero has 15 or more damage on it, this ally heals 7 damage from your hero.
+
+cost: '7'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

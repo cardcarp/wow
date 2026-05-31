@@ -1,0 +1,17 @@
+card_name: Memri the Channeler
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Memri → Memri deals 1 nature damage to target hero or ally for each Totem you have.
+
+faction: Alliance
+
+temp: Draenei Shaman

@@ -1,0 +1,23 @@
+card_name: Loremaster Pooth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: When you complete a quest, you may put a 2 / 2 Worgen ally token into play.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Worgen Druid

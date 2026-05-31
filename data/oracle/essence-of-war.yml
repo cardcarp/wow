@@ -1,0 +1,15 @@
+card_name: Essence of War
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'You pay 2 less to play this ability if you control a Rogue hero or ally. You pay 2 less to play this ability if you control a Warrior hero or ally. Attach to target ally. Ongoing : Attached ally has +2 / +2 and Stealth .'
+
+cost: '5'
+
+temp: ''

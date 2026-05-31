@@ -1,0 +1,17 @@
+card_name: Vor_na the Disciplined
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 3 , Flip Vor'na → Allies can't attack this turn.
+
+faction: Horde
+
+temp: Blood Elf Mage

@@ -1,0 +1,18 @@
+card_name: Aspect of the Viper
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the end of your turn, you may ready all of your resources.'
+
+class:
+  - Hunter
+
+cost: '8'
+
+temp: Beast Mastery

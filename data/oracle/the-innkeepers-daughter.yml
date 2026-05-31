@@ -1,0 +1,27 @@
+card_name: The Innkeepers Daughter
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'This item enters play with a hearth counter on it for each damage on your hero. On your turn: , Remove all hearth counters from this item and destroy it → Damage on your hero becomes equal to the number of hearth counters removed this way.'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '5'
+
+temp: Item

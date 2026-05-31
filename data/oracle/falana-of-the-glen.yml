@@ -1,0 +1,23 @@
+card_name: Falana of the Glen
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: When Falana is destroyed, if an opponent has more resources than you, you may put Falana from the graveyard into hero owner's resource row face down and exhausted.
+
+cost: '1'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Night Elf Druid

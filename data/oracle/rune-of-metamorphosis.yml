@@ -1,0 +1,18 @@
+card_name: Rune of Metamorphosis
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your forms aren't destroyed by abilities you play. (You can still have only one card with Form (1) in play.)
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Item Trinket

@@ -1,0 +1,21 @@
+card_name: Crypt Guard
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: When this ally enters play, you may search your deck for a Web Wrap and put it into play attached to target raiding hero or ally.
+
+combat: Melee
+
+temp: Crypt Fiend
+
+type: Ally

@@ -1,0 +1,21 @@
+card_name: Tyrygosa the Blue
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 10
+
+text: When Tyrygosa enters play, you may remove a non-Ongoing ability in your hand from the game. At the start of your turn, you may copy that ability. If you do, you may play the copy without paying it's cost.
+
+cost: '7'
+
+combat: Arcane
+
+temp: Blue Dragonkin Consort

@@ -1,0 +1,23 @@
+card_name: Mya, Dragonling Wrangler
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When Mya enters play, put a Mechanical Dragonling ally token with 1 ATK and 1 health into play.
+
+cost: '3'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Gnome Mage

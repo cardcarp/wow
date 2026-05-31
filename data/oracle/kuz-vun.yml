@@ -1,0 +1,23 @@
+card_name: Kuz_vun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Long-Range
+
+cost: '1'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Troll Hunter

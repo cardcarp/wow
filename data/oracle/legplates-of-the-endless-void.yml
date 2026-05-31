@@ -1,0 +1,20 @@
+card_name: Legplates of the Endless Void
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: ', Put 3 damage on your hero → Draw a card. Death Rattle : Put 3 damage on your hero and draw a card.'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '4'
+
+temp: Armor Plate

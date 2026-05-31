@@ -1,0 +1,23 @@
+card_name: Wildweaver Masa_zun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 6
+
+text: When this ally enters play, she heals 3 damage from each hero and ally you control.
+
+cost: '6'
+
+combat: Nature
+
+faction: Horde
+
+temp: Troll Druid

@@ -1,0 +1,54 @@
+name: Jaina
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Champion
+  - Starter
+
+collection: champion
+
+highlight: jaina-001
+
+description: Jaina Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the Jaina
+
+total: 61
+
+list:
+  hero:
+    jaina-001: 1  # Jaina Proudmoore
+  main:
+    jaina-002: 2  # Deep Freeze
+    jaina-003: 1 # Frost Nova
+    jaina-004: 2 # Frostbolt
+    jaina-005: 4 # Glacial Tomb
+    jaina-006: 2 # Ice Lance
+    jaina-007: 3 # Mana Agate
+    jaina-008: 1 # Whiteout
+    jaina-009: 2 # Anathel the Eagle-Eye
+    jaina-010: 3 # Corin Stallnorth
+    jaina-011: 2 # Cynthia Masters
+    jaina-012: 3 # Dradam Chillblade
+    jaina-013: 2 # Fumdol Mountainfrost
+    jaina-014: 2 # Hunrik Blackiron
+    jaina-015: 3 # Kalam Blacksteel
+    jaina-016: 2 # Kara Vesstal
+    jaina-017: 2 # Malar Silverfrost
+    jaina-018: 1 # Roke the Ice Baron
+    jaina-019: 3 # Wendy Anne
+    jaina-020: 2 # _Zooti_ Fizzlefury
+    jaina-021: 1 # Bloodbanes Fall
+    jaina-022: 1 # Demonfang Ritual Helm
+    jaina-023: 2 # Wand of Ruby Claret
+    jaina-024: 1 # Blueleaf Tubers
+    jaina-025: 3 # Entrenched
+    jaina-026: 3 # The Key to Freedom
+    jaina-027: 2 # The Last Living Lorekeeper
+    jaina-028: 2 # Sea Legs
+    jaina-029: 3 # Seeds of Their Demise

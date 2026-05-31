@@ -1,0 +1,21 @@
+card_name: Therazane the Stonemother
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 9
+
+text: Earth Elementals you control have Protector . At the start of your turn, put a 2 / 1 Earth Elemental ally token into play. Destroy an Earth Elemental you control → Ready target hero or ally you control.
+
+cost: '7'
+
+combat: Melee
+
+temp: Earth Elemental Lord

@@ -1,0 +1,19 @@
+card_name: Tankatronic Goggles
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Engineering Hero Required When Tankatronic Goggles enters play, look at target player's hand. Your hero is a Protector . Opposing allies lose and can't have Elusive , Stealth , and Untargetable .
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '2'
+
+temp: Armor Plate

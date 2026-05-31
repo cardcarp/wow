@@ -1,0 +1,19 @@
+card_name: Eagle Sight
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Look at the top two cards of your deck. Put one into hand and the other on the bottom of your deck.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '1'
+
+temp: Beast Mastery Enhancement

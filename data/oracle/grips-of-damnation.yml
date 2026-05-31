@@ -1,0 +1,19 @@
+card_name: Grips of Damnation
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, your hero deals 2 melee damage to each hero. 2 → This turn, prevent all damage that would be dealt this way. Any player can use this power.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '2'
+
+temp: Armor Leather

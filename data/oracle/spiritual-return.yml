@@ -1,0 +1,18 @@
+card_name: Spiritual Return
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put target , , or ally from your graveyard into play if its cost is less than or equal to the number of resources you control. That ally enters play with damage equal to its -1.
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Restoration

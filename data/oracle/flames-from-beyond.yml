@@ -1,0 +1,18 @@
+card_name: Flames from Beyond
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Warp Your hero deals 5 fire damage to target hero.
+
+class:
+  - Mage
+
+cost: '4'
+
+temp: Fire

@@ -1,0 +1,23 @@
+card_name: Rumu Moonhaze
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: When this ally enters play, you may destroy another ability, ally, or equipment you control. If you do, destroy target ability.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Tauren Priest

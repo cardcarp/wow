@@ -1,0 +1,20 @@
+card_name: Gloves of the High Magus
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: ", Remove the top card of your deck from the game → If it's an ability, ally, or equipment card, you may play it this turn if able. If it's a quest card, you may place it this turn if able."
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '4'
+
+temp: Armor Cloth

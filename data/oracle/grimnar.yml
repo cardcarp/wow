@@ -1,0 +1,26 @@
+card_name: Grimnar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Protector This ally has +1 / +1 for each ally in your graveyard.
+
+class:
+  - Warlock
+
+cost: '6'
+
+combat: Shadow
+
+temp: Voidwalker Demon
+
+type: Monster

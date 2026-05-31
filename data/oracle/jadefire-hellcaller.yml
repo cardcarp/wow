@@ -1,0 +1,23 @@
+card_name: Jadefire Hellcaller
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: When this ally enters play, he deals 4 shadow damage to target opposing hero unless its controller chooses and discards a card.
+
+cost: '3'
+
+combat: Shadow
+
+temp: Satyr Demon Warlock
+
+type: Monster

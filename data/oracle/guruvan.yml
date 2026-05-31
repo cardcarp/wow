@@ -1,0 +1,23 @@
+card_name: Guruvan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Long-Range
+
+cost: '4'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Draenei Hunter

@@ -1,0 +1,20 @@
+card_name: Argent Defender
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When Argent Defender becomes exhausted, you may remove target card in a graveyard from the game.
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+cost: '3'
+
+temp: Armor Shield

@@ -1,0 +1,20 @@
+card_name: Necklace of Black Dragons Teeth
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: All allies have Smash and "This ally can attack only allies if able." At the end of each turn, each player may choose an ally that was put into his graveyard from play this turn. Put those allies into play under their owners' control.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '5'
+
+temp: Item Neck

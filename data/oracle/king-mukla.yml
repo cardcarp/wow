@@ -1,0 +1,21 @@
+card_name: King Mukla
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 5
+
+text: When King Mukla enters play, you may gain control of target ally with cost 3 or less.
+
+cost: '7'
+
+combat: Melee
+
+temp: Gorilla

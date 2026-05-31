@@ -1,0 +1,18 @@
+card_name: Bone Shield
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Blood Talent Ongoing : 1 , , Remove an ally in an opposing graveyard from the game → Add a bone counter to this ability. Weapons you control have +1 ATK and armor you control have +1 for each bone counter on this ability.'
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Blood

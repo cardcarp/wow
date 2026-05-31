@@ -1,0 +1,23 @@
+card_name: Vindron the Impure
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When this ally attacks, he may deal shadow damage to target hero or ally equal to the number of Curses you control.
+
+cost: '3'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Blood Elf Warlock

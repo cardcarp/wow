@@ -1,0 +1,23 @@
+card_name: Dimzer the Prestidigitator
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 6
+
+text: Gnome Hero Required Escape Artist When you play Dimzer or another ally, you may put 1 damage as it when it enters play. If you do, draw a card.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Warlock

@@ -1,0 +1,23 @@
+card_name: Krax Gravesteel
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When this ally is destroyed, target opposing ally has -2 this turn.
+
+cost: '2'
+
+combat: Melee
+
+faction: Horde
+
+temp: Goblin Death Knight

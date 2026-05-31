@@ -1,0 +1,18 @@
+card_name: Dispel Magic
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Destroy target ability.
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Discipline

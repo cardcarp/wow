@@ -1,0 +1,23 @@
+card_name: Alhas
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: At the start of your turn, Alhas heals 2 damage from target hero or ally.
+
+cost: '3'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Draenai Priest

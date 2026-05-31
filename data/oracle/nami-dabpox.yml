@@ -1,0 +1,23 @@
+card_name: Nami Dabpox
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Elusive
+
+cost: '1'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Gnome Warlock

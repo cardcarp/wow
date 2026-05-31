@@ -1,0 +1,18 @@
+card_name: Vampiric Tendrils
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target player discards two cards. Your hero heals damage from itself equal to the combined cost of those cards.
+
+class:
+  - Priest
+
+cost: '4'
+
+temp: Shadow

@@ -1,0 +1,18 @@
+card_name: Totem of Splintering
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , , Destroy a totem you control → Your hero deals nature damage equal to that Totem's cost to target hero or ally. When you play a Totem, ready this item.
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Item Relic

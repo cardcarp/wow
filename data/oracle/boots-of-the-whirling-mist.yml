@@ -1,0 +1,19 @@
+card_name: Boots of the Whirling Mist
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: "Hero : → Remove your hero from combat. Hero : → Interrupt target ability that's targeting your hero."
+
+class:
+  - Druid
+  - Rogue
+
+cost: '2'
+
+temp: Armor Leather

@@ -1,0 +1,18 @@
+card_name: Slay or Stay
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Choose one: Destroy target damaged ally; or attach to target ally. Ongoing : Attached ally is a Protector .'
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Fury Protection

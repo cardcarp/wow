@@ -1,0 +1,18 @@
+card_name: Patient Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Your hero has " → This hero deals 1 ranged damage to target hero or ally."'
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Marksmanship

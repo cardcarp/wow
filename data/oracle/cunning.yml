@@ -1,0 +1,21 @@
+card_name: Cunning
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: 'Time is Money On your turn: → This ally deals 1 nature damage to each opposing hero and ally for each Biker you control.'
+
+cost: '2'
+
+combat: Nature
+
+temp: Goblin Hunter Biker

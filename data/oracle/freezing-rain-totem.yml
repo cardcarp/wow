@@ -1,0 +1,26 @@
+card_name: Freezing Rain Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+damage: 0
+
+health: 2
+
+text: "Ongoing : When this Totem enters play, it deals 1 frost damage to each opposing hero and ally. At the start of your turn, this totem deals 2 frost damage to target opposing hero. (Totems can't attack.)"
+
+class:
+  - Shaman
+
+cost: '3'
+
+combat: Frost
+
+temp: Elemental
+
+type: Ally

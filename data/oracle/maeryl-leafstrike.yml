@@ -1,0 +1,23 @@
+card_name: Maeryl Leafstrike
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Protector Maeryl has -2 ATK while exhausted.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Night Elf Warrior

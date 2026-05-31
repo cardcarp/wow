@@ -1,0 +1,15 @@
+card_name: Magma Blast
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : At the end of each opponent's turn, if Ragnaros isn't Submerged and was dealt no damage this turn, Ragnaros deals 1 fire damage to that player's hero for each rune you have."
+
+cost: '3'
+
+temp: Ragnaros

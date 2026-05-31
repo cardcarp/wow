@@ -1,0 +1,19 @@
+card_name: Krol Blade
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+class:
+  - Paladin
+  - Priest
+  - Warrior
+  - Hunter
+
+cost: '3'
+
+temp: 1H Weapon Sword

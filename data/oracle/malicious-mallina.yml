@@ -1,0 +1,23 @@
+card_name: Malicious Mallina
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 1
+
+text: As Mallina enters play, choose arcane, fire, frost, nature, or shadow. Mallina has the chosen resistance .
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Rogue

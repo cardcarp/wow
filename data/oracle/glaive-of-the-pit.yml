@@ -1,0 +1,20 @@
+card_name: Glaive of the Pit
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Opposing heroes have -5 health.
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+
+cost: '7'
+
+temp: 2H Weapon Polearm

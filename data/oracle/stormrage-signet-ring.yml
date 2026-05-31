@@ -1,0 +1,22 @@
+card_name: Stormrage Signet Ring
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , → Put target equipment into its owner's hand. Use only on your turn.
+
+class:
+  - Warrior
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+cost: '4'
+
+temp: Item Ring

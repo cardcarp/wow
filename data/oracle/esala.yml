@@ -1,0 +1,23 @@
+card_name: Esala
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: While this ally is undamaged, she has Assault 4 .
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Paladin

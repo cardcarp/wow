@@ -1,0 +1,18 @@
+card_name: Arcane Foresight
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 1 arcane damage to target hero or ally, or 3 if you played another ability this turn.
+
+class:
+  - Mage
+
+cost: '1'
+
+temp: Arcane

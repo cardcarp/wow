@@ -1,0 +1,19 @@
+card_name: Abomination Knuckles
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this weapon enters play, you may destroy target armor or item.
+
+class:
+  - Shaman
+  - Rogue
+
+cost: '3'
+
+temp: 1H Weapon Fist

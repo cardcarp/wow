@@ -1,0 +1,20 @@
+card_name: Triton Legplates
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: "At the end of each opponent's turn, if your hero was not dealt damage this turn, you may add a triton counter to this armor. On your turn: , Remove five triton counters from this armor → Your hero has Assault 10 , and combat damage that it would deal is unpreventable this turn."
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '2'
+
+temp: Armor Plate

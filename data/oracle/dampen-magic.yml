@@ -1,0 +1,18 @@
+card_name: Dampen Magic
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target friendly hero or ally. Ongoing : If attached character would be dealt damage with an ability, prevent 1 of that damage.'
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Arcane

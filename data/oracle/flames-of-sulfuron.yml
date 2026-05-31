@@ -1,0 +1,15 @@
+card_name: Flames of Sulfuron
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Ragnaros deals 1 fire damage to target hero or ally for each rune you have.
+
+cost: '1'
+
+temp: Ragnaros

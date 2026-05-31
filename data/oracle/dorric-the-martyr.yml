@@ -1,0 +1,23 @@
+card_name: Dorric the Martyr
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: 1 , Destroy Dorric → Dorric heals all damage from target ally.
+
+cost: '1'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Dwarf Paladin

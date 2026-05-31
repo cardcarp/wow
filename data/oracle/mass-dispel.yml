@@ -1,0 +1,18 @@
+card_name: Mass Dispel
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy any number of abilities.
+
+class:
+  - Priest
+
+cost: '4'
+
+temp: Discipline

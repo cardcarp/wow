@@ -1,0 +1,18 @@
+card_name: Exasperate
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target player discards a card for each ally in your party.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Shadow

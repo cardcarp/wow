@@ -1,0 +1,23 @@
+card_name: Savis Cindur
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Aberration Ferocity
+
+cost: '2'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Worgen Warlock

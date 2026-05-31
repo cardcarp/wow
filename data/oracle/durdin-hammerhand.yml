@@ -1,0 +1,23 @@
+card_name: Durdin Hammerhand
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Destroy Durdin Hammerhand → Exhaust target hero or ally.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Paladin

@@ -1,0 +1,18 @@
+card_name: Holy Blaze
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 4 unpreventable holy damage to each of up to two target allies.
+
+class:
+  - Priest
+
+cost: '6'
+
+temp: Holy

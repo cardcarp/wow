@@ -1,0 +1,21 @@
+card_name: Ambassador Jerrikar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: Jerrikar has Ferocity if an opponent went first this game.
+
+cost: '5'
+
+combat: Melee
+
+temp: Satyr Demon

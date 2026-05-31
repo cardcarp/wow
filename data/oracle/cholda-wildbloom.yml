@@ -1,0 +1,23 @@
+card_name: Cholda Wildbloom
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: When Cholda enters play, you and target opponent each put the top card of your decks into your resource rows face down and exhausted.
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

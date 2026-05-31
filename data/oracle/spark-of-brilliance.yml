@@ -1,0 +1,18 @@
+card_name: Spark of Brilliance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Draw two cards, then put a card from your hand on top of your deck.
+
+class:
+  - Mage
+
+cost: '1'
+
+temp: Arcane

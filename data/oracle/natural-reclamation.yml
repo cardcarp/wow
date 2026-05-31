@@ -1,0 +1,18 @@
+card_name: Natural Reclamation
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When you complete a quest, you may put a 1 / 1 Treant ally token into play.'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Balance

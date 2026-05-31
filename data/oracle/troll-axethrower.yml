@@ -1,0 +1,23 @@
+card_name: Troll Axethrower
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 6
+
+text: Ferocity This ally has +1 ATK for each damage on it.
+
+cost: '4'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Troll Hunter

@@ -1,0 +1,15 @@
+card_name: Wrath of Ragnaros
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target ally. Ragnaros deals fire damage equal to that ally's cost to a hero in that ally's party.
+
+cost: '2'
+
+temp: Ragnaros

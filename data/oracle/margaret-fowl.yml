@@ -1,0 +1,23 @@
+card_name: Margaret Fowl
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: You pay 1 less to strike with weapons. Opponents pay 1 more to strike with weapons.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Rogue

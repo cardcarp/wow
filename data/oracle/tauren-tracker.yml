@@ -1,0 +1,23 @@
+card_name: Tauren Tracker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: When this ally attacks, he deals 1 ranged damage to target opposing hero.
+
+cost: '1'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Tauren Hunter

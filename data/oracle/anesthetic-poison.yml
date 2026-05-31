@@ -1,0 +1,18 @@
+card_name: Anesthetic Poison
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero or ally that was dealt combat damage by your hero this turn. Ongoing : When attached character becomes exhausted, its controller discards a card.'
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Poison

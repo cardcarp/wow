@@ -1,0 +1,20 @@
+card_name: Belt of Giant Strength
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor enters play, choose "Demon", a race, or an race. Allies you control of the chosen race have +2 . Your hero can protect allies you control of the chosen race.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '4'
+
+temp: Armor Plate

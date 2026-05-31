@@ -1,0 +1,15 @@
+card_name: Sneak Attack
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Dungeon allies have +2 ATK and Stealth this turn.
+
+temp: ''
+
+type: Dungeon

@@ -1,0 +1,23 @@
+card_name: Delrach the Vile
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 6
+
+text: When Delrach attacks, destroy any number of allies with an attachment.
+
+cost: '7'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Warlock

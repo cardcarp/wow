@@ -1,0 +1,18 @@
+card_name: Ferociousness
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : When your hero protects, draw a card. Your hero is in Bear Form .'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Feral

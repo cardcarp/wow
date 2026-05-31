@@ -1,0 +1,18 @@
+card_name: Noxious Trap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Trap Your hero deals 3 nature damage to target attacker. Then, if that attacker has fatal damage, you may ready up to three resources you control.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Survival

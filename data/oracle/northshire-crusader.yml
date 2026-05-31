@@ -1,0 +1,23 @@
+card_name: Northshire Crusader
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Protector
+
+cost: '2'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

@@ -1,0 +1,18 @@
+card_name: Ruination
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Choose one or both: Destroy target ally; or destroy target weapon.'
+
+class:
+  - Warrior
+
+cost: '5'
+
+temp: Arms

@@ -1,0 +1,23 @@
+card_name: Hadrack the Devoted
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 2
+
+text: If this ally would be dealt damage, prevent all but 1 of it.
+
+cost: '4'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Dwarf Paladin

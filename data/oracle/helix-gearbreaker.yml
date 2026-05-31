@@ -1,0 +1,21 @@
+card_name: Helix Gearbreaker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: Boss Helix has Elusive , Ferocity , and Untargetable while Lumbering Oaf is in play.
+
+combat: Fire
+
+temp: Goblin Rogue
+
+type: Dungeon

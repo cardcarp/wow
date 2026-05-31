@@ -1,0 +1,20 @@
+card_name: Bitter Cold Armguards
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, your hero deals 1 frost damage to target hero or ally you control.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '2'
+
+temp: Armor Plate

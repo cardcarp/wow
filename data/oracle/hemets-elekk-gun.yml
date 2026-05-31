@@ -1,0 +1,18 @@
+card_name: Hemets Elekk Gun
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Hemet's Elekk Gun has +4 ATK while your hero is in combat with an ally with cost 5 or more. When you strike with Hemet's Elekk Gun, your hero has Long-Range this combat.
+
+class:
+  - Hunter
+
+cost: '5'
+
+temp: Ranged Weapon Gun

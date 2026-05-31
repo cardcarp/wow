@@ -1,0 +1,18 @@
+card_name: Cruelty
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Fury Hero Required Ongoing : Your hero has +1 ATK while you have a weapon.'
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Fury Talent

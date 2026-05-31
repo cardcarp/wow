@@ -1,0 +1,23 @@
+card_name: Peroth_arn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 6
+
+text: "At the start of your turn, an opponent chooses one: He removes the top ten cards of his deck from the game; or he chooses a hero or ally he controls, and Peroth'arn deals 10 shadow damage to it."
+
+cost: '5'
+
+combat: Shadow
+
+temp: Satyr Demon Warlock
+
+type: Monster

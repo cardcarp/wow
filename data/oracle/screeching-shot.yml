@@ -1,0 +1,19 @@
+card_name: Screeching Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Opposing heroes and allies have -1 ATK while attacking.'
+
+class:
+  - Warrior
+  - Hunter
+
+cost: '3'
+
+temp: Survival Fury Shout

@@ -1,0 +1,23 @@
+card_name: Jadefire Trickster
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: This ally can attack only heroes.
+
+cost: '3'
+
+combat: Shadow
+
+temp: Satyr Demon Rogue
+
+type: Monster

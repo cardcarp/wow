@@ -1,0 +1,17 @@
+card_name: Kel_Thuzads Detonation
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: 'Ongoing : At the end of your turn, each raider destroys three resources he controls.'
+
+temp: ''
+
+type: Raid
+
+stage: 2

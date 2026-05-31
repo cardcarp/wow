@@ -1,0 +1,23 @@
+card_name: Ellie Tinkervoid
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play, discard a card. When this ally leaves play, draw a card.
+
+cost: '2'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Warlock

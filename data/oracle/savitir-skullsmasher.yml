@@ -1,0 +1,17 @@
+card_name: Savitir Skullsmasher
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 1 , Flip Savitir → If Savitir has Stealth , destroy target exhausted equipment.
+
+faction: Horde
+
+temp: Orc Rogue

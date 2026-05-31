@@ -1,0 +1,18 @@
+card_name: Absorb Magic
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Destroy target ability. If you do, your hero heals damage from itself equal to that ability's cost.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Discipline

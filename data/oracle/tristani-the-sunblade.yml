@@ -1,0 +1,23 @@
+card_name: Tristani the Sunblade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: Stealth When this ally deals combat damage to an opposing hero, that hero's controller reveals a random card from his hand. This ally deals melee damage to that hero equal to that revealed card's cost unless its controller discards that card.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Rogue

@@ -1,0 +1,17 @@
+card_name: Blood Fury
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Orc Hero Required Blood Fury enters play with X fury counters on it. Ongoing : Your hero has +1 ATK while attacking for each fury counter on Blood Fury.'
+
+cost: 4+X
+
+faction: Horde
+
+temp: ''

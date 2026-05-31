@@ -1,0 +1,21 @@
+card_name: Vindicator Kaldel
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: 'Aldor Reputation Inspire: Ally'
+
+cost: '2'
+
+combat: Holy
+
+temp: Draenei Paladin

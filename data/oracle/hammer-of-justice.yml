@@ -1,0 +1,18 @@
+card_name: Hammer of Justice
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Exhaust target hero or ally. It can't ready during its controller's next ready step. Draw a card.
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Protection

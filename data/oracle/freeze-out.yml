@@ -1,0 +1,18 @@
+card_name: Freeze Out
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Up to three target resources can't ready during their controller's next ready step.
+
+class:
+  - Death Knight
+
+cost: '3'
+
+temp: Frost

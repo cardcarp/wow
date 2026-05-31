@@ -1,0 +1,23 @@
+card_name: Alethia Brightsong
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When this ally enters play, Delve .
+
+cost: '1'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Paladin

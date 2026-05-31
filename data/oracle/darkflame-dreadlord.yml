@@ -1,0 +1,23 @@
+card_name: Darkflame Dreadlord
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: When another ally you control is destroyed, this ally may deal 2 shadow damage to target hero.
+
+cost: '6'
+
+combat: Shadow
+
+temp: Dreadlord Demon
+
+type: Monster

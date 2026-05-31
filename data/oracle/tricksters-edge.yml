@@ -1,0 +1,19 @@
+card_name: Tricksters Edge
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Dual Wield This weapon enters play with a +1 ATK counter on it. When your hero deals combat damage to an opposing hero with this weapon, double the number of +1 ATK counters on this weapon.
+
+class:
+  - Shaman
+  - Rogue
+
+cost: '5'
+
+temp: 1H Weapon Axe

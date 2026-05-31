@@ -1,0 +1,51 @@
+name: Alliance Rogue
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Alliance
+  - Starter
+  - '2013'
+
+collection: '2013'
+
+highlight: starter-2013-alliance-rogue-001
+
+description: 2013 Alliance Rogue Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2013 Alliance Rogue
+
+total: 61
+
+list:
+  hero:
+    starter-2013-alliance-rogue-001: 1  # Taerinar, Fang of Goldrinn
+  main:
+    starter-2013-alliance-rogue-002: 3  # Annihilate
+    starter-2013-alliance-rogue-003: 1 # Boundless Agony
+    starter-2013-alliance-rogue-004: 2 # Devious Dismantle
+    starter-2013-alliance-rogue-005: 3 # Sinister Strike
+    starter-2013-alliance-rogue-006: 1 # Fan of Knives
+    starter-2013-alliance-rogue-007: 3 # Gouge
+    starter-2013-alliance-rogue-008: 3 # Infiltrate
+    starter-2013-alliance-rogue-009: 3 # Prey on the Weak
+    starter-2013-alliance-rogue-010: 2 # Andiss Butcherson
+    starter-2013-alliance-rogue-011: 3 # Bizzazz
+    starter-2013-alliance-rogue-012: 1 # Bromor the Shadowblade
+    starter-2013-alliance-rogue-013: 3 # Bubula del Kissel
+    starter-2013-alliance-rogue-014: 2 # Wastewalker Shoulderpads
+    starter-2013-alliance-rogue-015: 2 # Kaelyn Vineminder
+    starter-2013-alliance-rogue-016: 3 # Tommi Spazzratchet
+    starter-2013-alliance-rogue-017: 3 # Wuzlo Grindergear
+    starter-2013-alliance-rogue-018: 2 # Barman Shanker
+    starter-2013-alliance-rogue-019: 2 # Scarlet Kris
+    starter-2013-alliance-rogue-020: 3 # Throat Slasher
+    starter-2013-alliance-rogue-021: 3 # Archival Purposes
+    starter-2013-alliance-rogue-022: 3 # Entrenched
+    starter-2013-alliance-rogue-023: 3 # Escape from Durnholde
+    starter-2013-alliance-rogue-024: 3 # The Essence of Enmity
+    starter-2013-alliance-rogue-025: 3 # The Path to the Dragon Soul

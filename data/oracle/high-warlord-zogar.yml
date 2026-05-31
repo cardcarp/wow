@@ -1,0 +1,23 @@
+card_name: High Warlord Zogar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 10
+
+health: 10
+
+text: Play this ally only if you control an Ogre hero or ally.
+
+cost: '6'
+
+combat: Melee
+
+temp: Ogre Lord Warrior
+
+type: Monster

@@ -1,0 +1,21 @@
+card_name: Soldier of the Frozen Wastes
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: When this ally enters play, draw a card.
+
+combat: Melee
+
+temp: Skeleton
+
+type: Ally

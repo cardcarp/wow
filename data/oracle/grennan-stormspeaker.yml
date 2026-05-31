@@ -1,0 +1,17 @@
+card_name: Grennan Stormspeaker
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 'On your turn: 5 , Flip Grennan → Grennan deals 3 nature damage to target hero or ally and heals 3 damage from a second target hero or ally.'
+
+faction: Horde
+
+temp: Tauren Shaman

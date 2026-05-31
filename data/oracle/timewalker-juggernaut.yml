@@ -1,0 +1,21 @@
+card_name: Timewalker Juggernaut
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When this ally enters play, if you control two or more allies that share a or race, you may destroy target damaged ally.
+
+cost: '3'
+
+combat: Melee
+
+temp: Tauren Warrior

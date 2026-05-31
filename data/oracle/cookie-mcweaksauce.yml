@@ -1,0 +1,23 @@
+card_name: _Cookie_ McWeaksauce
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When Cookie enters play, each opponent puts a Chicken ally token with 0 ATK / 1 health into play. → Destroy all ally tokens.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Cook

@@ -1,0 +1,18 @@
+card_name: Killing Spree
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy all allies with damage on them.
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Fury

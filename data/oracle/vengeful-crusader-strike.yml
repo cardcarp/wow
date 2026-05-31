@@ -1,0 +1,18 @@
+card_name: Vengeful Crusader Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 4 melee damage to target attacker.
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Retribution

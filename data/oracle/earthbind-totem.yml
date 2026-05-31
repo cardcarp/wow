@@ -1,0 +1,18 @@
+card_name: Earthbind Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Totem Ongoing : Opposing allies can't ready during their controllers' ready step."
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Elemental 1

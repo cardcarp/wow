@@ -1,0 +1,23 @@
+card_name: Jadefire Felsworn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: When this ally enters play, he deals 5 shadow damage to target opposing hero unless its controller chooses and destroys an ally he controls.
+
+cost: '6'
+
+combat: Shadow
+
+temp: Satyr Demon Warlock
+
+type: Monster

@@ -1,0 +1,23 @@
+card_name: Slimefin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: This and other Murloc allies you control can't be targeted by opponents.
+
+cost: '4'
+
+combat: Melee
+
+temp: Murloc Rogue
+
+type: Monster

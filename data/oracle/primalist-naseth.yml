@@ -1,0 +1,23 @@
+card_name: Primalist Naseth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: → Primalist Naseth deals 4 nature damage to target hero or ally and heals 4 damage from another hero or ally.
+
+cost: '6'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

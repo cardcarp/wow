@@ -1,0 +1,23 @@
+card_name: Zafira Ragebolt
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: When this ally enters play, you may ready a resource you control for this and each other Orc ally you control.
+
+cost: '3'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Orc Hunter

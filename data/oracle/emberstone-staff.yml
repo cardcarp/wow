@@ -1,0 +1,20 @@
+card_name: Emberstone Staff
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play an ability, you may add an emberstone counter to this weapon. This weapon has +1 ATK and you pay 1 less to strike with it for each emberstone counter on it.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '4'
+
+temp: 2H Weapon Staff

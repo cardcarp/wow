@@ -1,0 +1,19 @@
+card_name: Bindings of Lightning Reflexes
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play an ability, put a bolt counter on Bindings of Lightning Reflexes. Heroes and allies in combat with your hero have -1 ATK for each bolt counter.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '3'
+
+temp: Armor Mail

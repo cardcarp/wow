@@ -1,0 +1,21 @@
+card_name: Naaru Lightwardens Band
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Friendly heroes have +5 health.
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '4'
+
+temp: Item Ring

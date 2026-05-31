@@ -1,0 +1,23 @@
+card_name: Gryth Thurden, Gryphon Master
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Gryth has +1 ATK / +1 health while you have a location. → Ready target location.
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Flight Master

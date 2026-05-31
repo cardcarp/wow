@@ -1,0 +1,23 @@
+card_name: Anduin Wrynn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 4
+
+text: 'Other friendly Humans can protect Anduin. On your turn: → Search your deck for a Human ally card and put it into play.'
+
+cost: '6'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human King

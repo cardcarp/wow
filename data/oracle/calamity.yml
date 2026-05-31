@@ -1,0 +1,15 @@
+card_name: Calamity
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'The Raiders choose three Raiding heroes and/or allies. Godfrey deals 10 shadow damage to each of them. Level 3+ : The Raiders choose six Raiding heroes and/or allies instead.'
+
+temp: ''
+
+type: Dungeon

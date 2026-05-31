@@ -1,0 +1,23 @@
+card_name: Ophelia Barrows
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: Protector 1 → Remove target ally card in any graveyard from the game. If you do, Ophelia Barrows heals 1 damage from herself.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Warrior

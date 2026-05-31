@@ -1,0 +1,18 @@
+card_name: Sanctity Aura
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Retribution Hero Required Ongoing : allies in your party have +2 ATK while attacking. If your hero would deal holy ( ) damage, it deals that much +2 instead.'
+
+class:
+  - Paladin
+
+cost: '4'
+
+temp: Retribution Talent

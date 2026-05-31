@@ -1,0 +1,19 @@
+card_name: Fel Leather Gloves
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When a resource enters play, put 2 damage on its controller's hero.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '3'
+
+temp: Armor Leather

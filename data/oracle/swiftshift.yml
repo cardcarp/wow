@@ -1,0 +1,18 @@
+card_name: Swiftshift
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Search your deck and/or graveyard for a Form card, reveal it, and put it into your hand.
+
+class:
+  - Druid
+
+cost: '4'
+
+temp: Feral

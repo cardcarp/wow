@@ -1,0 +1,18 @@
+card_name: Embrace of the Nether
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: As an additional cost to play, choose "ability," "ally," or "equipment" and discard a card of that kind. Remove target card from the game if it shares that kind.
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Destruction

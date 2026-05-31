@@ -1,0 +1,20 @@
+card_name: Gutgore Ripper
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with Gutgore Ripper, target opposing ally has -1 health this turn.
+
+class:
+  - Warrior
+  - Shaman
+  - Rogue
+
+cost: '3'
+
+temp: 1H Weapon Dagger

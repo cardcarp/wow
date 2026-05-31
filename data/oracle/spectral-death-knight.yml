@@ -1,0 +1,21 @@
+card_name: Spectral Death Knight
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When this ally deals combat damage to a hero or ally, he also deals 1 melee damage to each other hero and ally in that character's party.
+
+combat: Melee
+
+temp: Spectral Death Knight
+
+type: Ally

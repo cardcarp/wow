@@ -1,0 +1,20 @@
+card_name: Incursion Vestments
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'If an opposing ally was destroyed this turn: Hero : 1 , → Draw a card. Hero : 1 , → Your hero heals 5 damage from target hero or ally. Hero : 1 , → Target opponent discards a card.'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: Armor Cloth

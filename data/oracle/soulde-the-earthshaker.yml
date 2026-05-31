@@ -1,0 +1,23 @@
+card_name: Soulde the Earthshaker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Allies you control with cost 4 or more have +2 / +2 and Protector .
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Warrior

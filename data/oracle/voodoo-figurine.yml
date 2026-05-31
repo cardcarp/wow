@@ -1,0 +1,33 @@
+card_name: Voodoo Figurine
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+damage: 0
+
+health: 0
+
+text: This ally has +ATK equal to the combined ATK of weapons you control. This ally has + equal to the combined of armor you control.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+combat: Melee
+
+temp: Golem

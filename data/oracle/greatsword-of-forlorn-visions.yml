@@ -1,0 +1,19 @@
+card_name: Greatsword of Forlorn Visions
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals combat damage with Greatsword of Forlorn Visions, put a +1 DEF counter on each of your armor.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '5'
+
+temp: 2H Weapon Sword

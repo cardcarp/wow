@@ -1,0 +1,18 @@
+card_name: Pummel
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: You may exhaust one of your Melee weapons rather than pay Pummel's cost. Interrupt target ability card.
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Fury

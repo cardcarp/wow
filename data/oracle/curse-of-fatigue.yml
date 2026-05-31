@@ -1,0 +1,18 @@
+card_name: Curse of Fatigue
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero or ally. Ongoing : At the start of your turn, put a fatigue counter on Curse of Fatigue. Attached character has -1 health for each fatigue counter.'
+
+class:
+  - Warlock
+
+cost: '1'
+
+temp: Affliction Curse

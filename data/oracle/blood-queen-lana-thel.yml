@@ -1,0 +1,23 @@
+card_name: Blood-Queen Lana_thel
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 8
+
+text: "Vampiric Bite : When Blood-Queen Lana'thel enters play, each opponent chooses an ally he controls. Gain control of those allies."
+
+cost: '6'
+
+combat: Melee
+
+temp: San'layn Blood-Queen
+
+type: Raid

@@ -1,0 +1,23 @@
+card_name: Dashel Stonefist
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Dashel can attack friendly heroes and allies (including other characters in your party) .
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Rogue

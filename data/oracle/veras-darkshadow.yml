@@ -1,0 +1,21 @@
+card_name: Veras Darkshadow
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Elusive , Untargetable Veras must attack each turn if able.
+
+combat: Melee
+
+temp: Blood Elf Rogue
+
+type: Ally

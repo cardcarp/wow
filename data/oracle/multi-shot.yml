@@ -1,0 +1,18 @@
+card_name: Multi-Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 2 ranged damage to each of up to three target heroes and/or allies.
+
+class:
+  - Hunter
+
+cost: '5'
+
+temp: Marksmanship

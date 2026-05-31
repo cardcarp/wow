@@ -1,0 +1,23 @@
+card_name: Darnassus Sentinels
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: When Darnassus Sentinels enters play, you may pay 1 . If you do, put a card named Darnassus Sentinels from your graveyard into your hand.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Night Elf Warrior

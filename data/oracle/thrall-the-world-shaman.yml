@@ -1,0 +1,21 @@
+card_name: Thrall the World-Shaman
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: 'Protector When Thrall readies, choose one: Thrall heals 3 damage from your hero; or Thrall deals 3 nature damage to target opposing hero. 3 → Ready Thrall.'
+
+cost: '3'
+
+combat: Nature
+
+temp: Orc Shaman

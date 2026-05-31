@@ -1,0 +1,22 @@
+card_name: Rod of the Ogre Magi
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , , Exhaust your hero → Your hero deals 1 damage to target hero or ally.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '4'
+
+temp: 2H Weapon Staff

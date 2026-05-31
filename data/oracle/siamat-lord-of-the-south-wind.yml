@@ -1,0 +1,23 @@
+card_name: Siamat, Lord of the South Wind
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 10
+
+text: Monster Hero Required When Siamat enters play, exhaust all and allies. and allies can't ready. At the start of your turn, put a 2 / 1 Air Elemental ally token into play for each exhausted and ally.
+
+cost: '9'
+
+combat: Nature
+
+temp: Djinni Air Elemental
+
+type: Monster

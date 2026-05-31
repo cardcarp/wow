@@ -1,0 +1,23 @@
+card_name: Night Elf Arcanist
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Haste 3
+
+cost: '3'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Night Elf Mage

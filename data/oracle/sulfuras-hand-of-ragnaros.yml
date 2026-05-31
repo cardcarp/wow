@@ -1,0 +1,19 @@
+card_name: Sulfuras, Hand of Ragnaros
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero is dealt combat damage, it deals 1 fire damage to the source of that damage. When you strike with Sulfuras, your hero deals 7 fire damage to target hero or ally.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '8'
+
+temp: 2H Weapon Mace

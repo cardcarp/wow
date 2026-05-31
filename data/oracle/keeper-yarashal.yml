@@ -1,0 +1,23 @@
+card_name: Keeper Yarashal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: When this ally enters play, he heals 5 damage divided as you choose from any number of target Monster heroes and/or allies.
+
+cost: '4'
+
+combat: Nature
+
+temp: Keeper of the Grove Druid
+
+type: Monster

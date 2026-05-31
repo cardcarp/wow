@@ -1,0 +1,23 @@
+card_name: Vukora Netherflame
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Opposing allies with Resistance have -1 .
+
+cost: '3'
+
+combat: Fire
+
+faction: Horde
+
+temp: Orc Warlock

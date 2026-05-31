@@ -1,0 +1,18 @@
+card_name: Trophy Kill
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Destroy target ally with cost 4 or more.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Marksmanship

@@ -1,0 +1,18 @@
+card_name: Force of Earth
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target hero or ally has +1 ATK and Sentinel this turn.
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Enhancement

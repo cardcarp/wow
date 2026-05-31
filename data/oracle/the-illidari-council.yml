@@ -1,0 +1,21 @@
+card_name: The Illidari Council
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Immune Council Member's can't leave your party. When the last Council Member is dealt fatal damage, flip The Illidari Council and remove all four Council Members from the game. 4 → Destroy all opposing abilities.
+
+temp: Council Traitor
+
+transform:
+  - id: ability
+    text: When The Ilidari Council flips to this side, destroy it and say, "YOU ARE NOT PREPARED!"
+
+type: Boss
+
+stage: 8

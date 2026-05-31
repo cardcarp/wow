@@ -1,0 +1,23 @@
+card_name: Exodar Peacekeepers
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When Exodar Peacekeepers enters play, it heals 1 damage from target hero or ally for each ally named Exodar Peacekeepers in your party.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Warrior

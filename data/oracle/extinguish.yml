@@ -1,0 +1,18 @@
+card_name: Extinguish
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : When this ability enters play, you may interrupt target ability. If your hero would be dealt magical damage (Arcane ( ), Fire ( ), Frost ( ), Holy ( ), Nature ( ), or Shadow ( ) ) , prevent 1 of it.'
+
+class:
+  - Mage
+
+cost: '4'
+
+temp: Arcane

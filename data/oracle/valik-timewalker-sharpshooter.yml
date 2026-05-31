@@ -1,0 +1,23 @@
+card_name: Valik, Timewalker Sharpshooter
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this ally enters play and when he is revealed from your deck, target friendly ally has +2 ATK this turn.
+
+cost: '2'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Undead Hunter

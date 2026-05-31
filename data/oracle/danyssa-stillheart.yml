@@ -1,0 +1,23 @@
+card_name: Danyssa Stillheart
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: 1 , Discard a card → Target hero or ally has -1 this turn.
+
+cost: '2'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Night Elf Death Knight

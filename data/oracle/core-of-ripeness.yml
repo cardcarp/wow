@@ -1,0 +1,21 @@
+card_name: Core of Ripeness
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this item enters play, reveal the top two cards of your deck, then place them into your resource row exhausted as additional resources. When this item leaves play, destroy three resources you control.
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '4'
+
+temp: Item Trinket

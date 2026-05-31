@@ -1,0 +1,18 @@
+card_name: Prowl
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : Your hero has Stealth while in cat form. When your hero deals damage, put Prowl into its owner's hand."
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Feral

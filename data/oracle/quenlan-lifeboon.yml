@@ -1,0 +1,23 @@
+card_name: Quenlan Lifeboon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Destroy Quenlan → Quenlan heals 3 damage from target hero or ally.
+
+cost: '1'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Night Elf Priest

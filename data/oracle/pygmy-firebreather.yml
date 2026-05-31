@@ -1,0 +1,23 @@
+card_name: Pygmy Firebreather
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: 'Empower Monster : When this ally enters play, if you control another Monster hero or ally, draw a card.'
+
+cost: '3'
+
+combat: Fire
+
+temp: Pygmy Mage
+
+type: Monster

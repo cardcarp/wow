@@ -1,0 +1,20 @@
+card_name: Rod of Necromancy
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this weapon enters play, remove all allies in your graveyard from the game. At the start of your turn, choose an ally removed this way at random and put it into your hand.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '6'
+
+temp: Ranged Weapon Wand

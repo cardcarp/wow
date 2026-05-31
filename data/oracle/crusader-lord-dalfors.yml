@@ -1,0 +1,21 @@
+card_name: Crusader Lord Dalfors
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: Argent Crusade Reputation If a Unique ally you control would be dealt damage, prevent 1 of it.
+
+cost: '5'
+
+combat: Holy
+
+temp: Dwarf Paladin

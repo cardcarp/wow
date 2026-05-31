@@ -1,0 +1,23 @@
+card_name: Shiverspine
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: When this or another Murloc ally you control deals damage to an opposing hero, this ally heals that much damage from your hero.
+
+cost: '4'
+
+combat: Holy
+
+temp: Murloc Priest
+
+type: Monster

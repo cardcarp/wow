@@ -1,0 +1,66 @@
+name:
+  type: string
+  required: true
+
+collection:
+  type: string
+  required: true  
+
+credit:
+  type: string
+  required: true
+
+category:
+  type: string
+  required: true
+
+facet:
+  type: list
+  required: true
+  nullable: true
+  schema:
+    type: string
+    coerce: str
+
+highlight:
+  type: string
+  required: true
+  nullable: true
+
+description:
+  type: string
+  required: true
+  nullable: true
+
+context:
+  type: list
+  required: true
+  nullable: true
+  schema:
+    type: dict
+    schema:
+      title:
+        type: string
+        nullable: true
+      body:
+        type: string
+        required: true
+
+total:
+  type: integer
+  required: true
+  
+list:
+  type: dict
+  required: true
+  schema:
+    hero: 
+      type: dict
+      valuesrules:
+        type: integer
+        min: 1
+    main:
+      type: dict
+      valuesrules:
+        type: integer
+        min: 1

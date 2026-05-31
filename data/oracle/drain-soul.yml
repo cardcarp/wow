@@ -1,0 +1,18 @@
+card_name: Drain Soul
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 2 shadow damage to target ally and heals 2 damage from itself.
+
+class:
+  - Warlock
+
+cost: '1'
+
+temp: Affliction

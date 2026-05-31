@@ -1,0 +1,18 @@
+card_name: Wild Cascade
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the start of your turn, put a token copy of each token ally you control into play.'
+
+class:
+  - Druid
+
+cost: '6'
+
+temp: Balance

@@ -1,0 +1,18 @@
+card_name: Hand of Devotion
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Play only on an opponent's turn. Your hero has Protector this turn. Your hero has Sentinel this turn.
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection

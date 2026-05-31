@@ -1,0 +1,23 @@
+card_name: Vuza_jin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: 2 → Token allies you control have +1 ATK this turn.
+
+cost: '2'
+
+combat: Frost
+
+faction: Horde
+
+temp: Troll Death Knight

@@ -1,0 +1,21 @@
+card_name: Coilskar General
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Traitor Hero Required When Coilskar General enters play, put three Naga ally tokens into play with 1 ATK / 1 health.
+
+cost: '6'
+
+combat: Melee
+
+temp: Naga Warrior Traitor

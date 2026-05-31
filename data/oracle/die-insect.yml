@@ -1,0 +1,15 @@
+card_name: _DIE, INSECT!_
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : When an opposing ally is destroyed, draw a card. When an opposing hero is destroyed, draw a card for each rune you have.'
+
+cost: '2'
+
+temp: Ragnaros

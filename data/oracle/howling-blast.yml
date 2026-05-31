@@ -1,0 +1,18 @@
+card_name: Howling Blast
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Frost Talent Your hero deals X frost damage divided as you choose to any number of target heroes and/or allies. Each opponent pays 1 more to play allies this turn for each damage dealt this way to a hero he controls.
+
+class:
+  - Death Knight
+
+cost: X
+
+temp: Frost

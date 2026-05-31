@@ -1,0 +1,18 @@
+card_name: Dispersion
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Shadow Hero Required Ongoing : This ability enters play with two incorporeal counters. Prevent all damage that would be dealt to your hero. At the start of your turn, remove an incorporeal counter. If none remain, destroy this ability.'
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Shadow Talent

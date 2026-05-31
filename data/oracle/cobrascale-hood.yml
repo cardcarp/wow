@@ -1,0 +1,19 @@
+card_name: Cobrascale Hood
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, your hero deals 2 nature damage to each opposing hero for each face-up resource its controller has.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '2'
+
+temp: Armor Leather

@@ -1,0 +1,23 @@
+card_name: Cairne Bloodhoof
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 20
+
+text: Protector Other Tauren in your party have +10 health.
+
+cost: '9'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Warrior

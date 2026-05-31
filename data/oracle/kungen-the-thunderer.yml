@@ -1,0 +1,17 @@
+card_name: Kungen the Thunderer
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 31
+
+text: "On your turn: Flip Kungen, discard a Warrior → Opposing cards can't exhaust this turn."
+
+faction: Horde
+
+temp: Tauren Warrior

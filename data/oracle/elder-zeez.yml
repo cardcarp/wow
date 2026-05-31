@@ -1,0 +1,23 @@
+card_name: Elder Zeez
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 4
+
+text: Elusive Inspiring Presence
+
+cost: '7'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Draenei Hunter

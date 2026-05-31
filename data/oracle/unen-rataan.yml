@@ -1,0 +1,23 @@
+card_name: Unen Rataan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: 2 , Destroy Unen Rataan → Ready your hero and all of your weapons.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Shaman

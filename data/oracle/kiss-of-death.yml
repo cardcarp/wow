@@ -1,0 +1,18 @@
+card_name: Kiss of Death
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: As an additional cost to play, remove up to five abilities in your graveyard from the game. Weapons you control have +1 ATK this turn for each card removed this way.
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Combat Finishing Move

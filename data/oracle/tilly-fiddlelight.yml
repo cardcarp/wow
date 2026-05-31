@@ -1,0 +1,21 @@
+card_name: Tilly Fiddlelight
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: 3 → Flip Tilly
+
+faction: Alliance
+
+temp: Gnome Priest
+
+transform:
+  - id: ability
+    text: Each ally you control has Mend 1 .

@@ -1,0 +1,18 @@
+card_name: Conjure Elementals
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the start of your turn, you may pay 2 . If you do, put a 2 / 2 Water Elemental ally token into play. Otherwise, destroy this ability.'
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Frost

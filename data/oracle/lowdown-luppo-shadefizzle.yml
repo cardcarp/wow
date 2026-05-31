@@ -1,0 +1,23 @@
+card_name: _Lowdown_ Luppo Shadefizzle
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Gnome Hero Required Elusive , Stealth , Untargetable
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Rogue

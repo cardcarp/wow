@@ -1,0 +1,21 @@
+card_name: Hammer of Atonement
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'If your hero would heal damage, it heals double that much instead. While your hero is undamaged: 4 , → Put a 4 / 4 Guardian Spirit ally token into play with Protector .'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '3'
+
+temp: 1H Weapon Mace

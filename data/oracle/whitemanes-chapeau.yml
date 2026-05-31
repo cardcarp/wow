@@ -1,0 +1,20 @@
+card_name: Whitemanes Chapeau
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When Whitemane's Chapeau enters play, you may put an ability card from your graveyard into your hand.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '4'
+
+temp: Armor Cloth

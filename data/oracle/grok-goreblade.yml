@@ -1,0 +1,23 @@
+card_name: Grok Goreblade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: This ally has +2 / +2 while you control an equipment.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

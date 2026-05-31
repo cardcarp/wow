@@ -1,0 +1,23 @@
+card_name: First Responder Avaressa
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: Protector At the start of your turn, Avaressa heals 2 damage from target hero or ally.
+
+cost: '3'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Draenei Paladin

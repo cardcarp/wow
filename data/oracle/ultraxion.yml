@@ -1,0 +1,21 @@
+card_name: Ultraxion
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 15
+
+text: "Boss Raiding heroes and allies can't be healed. Hour of Twilight (Deathwing Stages 2+) : At the start of Deathwing's turn, each Raider chooses and destroys an ability, ally, or equipment he controls. If he can't, Ultraxion deals 5 shadow damage to that Raider's hero."
+
+combat: Shadow
+
+temp: Twilight Dragonkin
+
+type: Boss

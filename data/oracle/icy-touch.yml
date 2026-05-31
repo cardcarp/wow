@@ -1,0 +1,18 @@
+card_name: Icy Touch
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 1 frost damage to attached hero. Allies in attached hero's party have -1 ATK."
+
+class:
+  - Death Knight
+
+cost: '3'
+
+temp: Frost Disease

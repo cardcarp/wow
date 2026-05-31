@@ -1,0 +1,18 @@
+card_name: Furious Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero has +3 ATK this combat. Delve
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Fury

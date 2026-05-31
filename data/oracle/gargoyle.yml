@@ -1,0 +1,24 @@
+card_name: Gargoyle
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Unholy Talent Ferocity At the end of your turn, if this ally is undamaged, put him into his owner's hand.
+
+class:
+  - Death Knight
+
+cost: '4'
+
+combat: Nature
+
+temp: Gargoyle

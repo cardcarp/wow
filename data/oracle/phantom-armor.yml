@@ -1,0 +1,20 @@
+card_name: Phantom Armor
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: This armor can only prevent melee ( ) damage.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '3'
+
+temp: Armor Plate

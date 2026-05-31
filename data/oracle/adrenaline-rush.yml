@@ -1,0 +1,18 @@
+card_name: Adrenaline Rush
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Combat Talent Ready all resources you control. Draw cards until you reach your maximum hand size. At the next end of turn, discard your hand.
+
+class:
+  - Rogue
+
+cost: '7'
+
+temp: Combat

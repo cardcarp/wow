@@ -1,0 +1,15 @@
+card_name: _Your Journey Ends in Agony!_
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: The MARKED hero's controller puts the top seven cards of his deck into his graveyard. If he put three or more allies into his graveyard this way, destroy all Raiding allies.
+
+temp: ''
+
+type: Dungeon

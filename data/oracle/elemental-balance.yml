@@ -1,0 +1,18 @@
+card_name: Elemental Balance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Choose one: Your hero deals 5 nature damage to each hero; or your hero heals 5 damage from each hero.'
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Elemental

@@ -1,0 +1,18 @@
+card_name: Seal of Divinity
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When your hero deals combat damage with a weapon, prevent all damage that would be dealt to target friendly ally this turn.'
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Protection

@@ -1,0 +1,25 @@
+card_name: Talasite Owl
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Jewelcrafting Hero Required → Put a hoot counter on Talasite Owl. , Remove X hoot counters, destroy Talasite Owl → Ready X of your resources.
+
+class:
+  - Priest
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Figurine

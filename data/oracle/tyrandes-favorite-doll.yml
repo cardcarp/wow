@@ -1,0 +1,23 @@
+card_name: Tyrandes Favorite Doll
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this item enters play, name a card. Friendly players pay 1 less to play cards with that name, to a minimum of 1 .
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item Trinket

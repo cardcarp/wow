@@ -1,0 +1,26 @@
+card_name: Conqueror Jarano
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: When this ally enters play, you may destroy target ability or equipment.
+
+class:
+  - Death Knight
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Druid

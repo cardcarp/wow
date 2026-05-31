@@ -1,0 +1,19 @@
+card_name: To Arms!
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Your hero has Dual Wield . Melee weapons you control have +5 ATK. You pay 5 less to strike with Melee weapons.'
+
+class:
+  - Warrior
+  - Rogue
+
+cost: '6'
+
+temp: Arms Combat

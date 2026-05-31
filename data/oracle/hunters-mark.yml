@@ -1,0 +1,18 @@
+card_name: Hunters Mark
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Attach to target hero. Ongoing : If attached hero would be dealt ranged or damage, it's dealt that much +1 instead."
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Marksmanship

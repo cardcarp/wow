@@ -1,0 +1,18 @@
+card_name: Shattering Throw
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When this ability enters play, you may destroy target equipment. → Target weapon you control has Thrown this turn.'
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Arms

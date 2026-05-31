@@ -1,0 +1,18 @@
+card_name: Supernova
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: As an additional cost to play, destroy all of your resources. Your hero deals fire damage to target hero equal to the number of resources destroyed this way.
+
+class:
+  - Mage
+
+cost: '5'
+
+temp: Fire

@@ -1,0 +1,23 @@
+card_name: Hateful Fiend
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: If an opposing Orc ally would deal damage, prevent 1 of it.
+
+cost: '2'
+
+combat: Fire
+
+temp: Imp Demon
+
+type: Monster

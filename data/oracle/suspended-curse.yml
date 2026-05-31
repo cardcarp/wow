@@ -1,0 +1,18 @@
+card_name: Suspended Curse
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ability, ally, or equipment. Ongoing : At the start of your turn, remove attached card from the game.'
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Affliction Curse

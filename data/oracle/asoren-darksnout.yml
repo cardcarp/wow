@@ -1,0 +1,23 @@
+card_name: Asoren Darksnout
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: Protector
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Tauren Death Knight

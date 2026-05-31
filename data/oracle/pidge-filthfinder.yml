@@ -1,0 +1,17 @@
+card_name: Pidge Filthfinder
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: "On your turn: 4 , Flip Pidge → Look at target player's hand and remove a card in it from the game."
+
+faction: Alliance
+
+temp: Gnome Warlock

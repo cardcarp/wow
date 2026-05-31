@@ -1,0 +1,23 @@
+card_name: Bretander of the Claw
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Protector , Stealth
+
+cost: '6'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Night Elf Druid

@@ -1,0 +1,26 @@
+card_name: Raging Earth Elemental Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+damage: 0
+
+health: 2
+
+text: 'Ongoing : When this Totem enters play, put two 2 / 1 Earth Elemental ally tokens into play. Other allies you control have Protector .'
+
+class:
+  - Shaman
+
+cost: '4'
+
+combat: Melee
+
+temp: Elemental
+
+type: Ally

@@ -1,0 +1,23 @@
+card_name: Tinker Burnfizzle
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: 'If Burnfizzle is undamaged: → Burnfizzle deals 3 fire damage to each opposing hero and ally.'
+
+cost: '6'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Gnome Warlock

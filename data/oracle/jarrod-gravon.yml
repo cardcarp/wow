@@ -1,0 +1,23 @@
+card_name: Jarrod Gravon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 6
+
+text: Protector 2 → Ready this ally.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Worgen Death Knight

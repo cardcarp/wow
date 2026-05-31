@@ -1,0 +1,24 @@
+card_name: Super Mana Potion
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 4 , Destroy Super Mana Potion → Draw four cards.
+
+class:
+  - Priest
+  - Hunter
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '5'
+
+temp: Item Potion

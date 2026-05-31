@@ -1,0 +1,23 @@
+card_name: Tarwila Gladespring
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Elusive → You pay 1 less to play your next card this turn.
+
+cost: '2'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Night Elf Druid

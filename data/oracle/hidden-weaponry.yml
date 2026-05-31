@@ -1,0 +1,18 @@
+card_name: Hidden Weaponry
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Destroy Hidden Weaponry → When target opposing ally is next dealt combat damage this turn, destroy it.'
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Combat Combo

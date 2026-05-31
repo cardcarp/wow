@@ -1,0 +1,18 @@
+card_name: Drain Will
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target player discards a card and you draw a card.
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Affliction

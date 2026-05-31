@@ -1,0 +1,18 @@
+card_name: Siphon of Undeath
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target ally. If you control a Ghoul, your hero heals 5 damage from itself.
+
+class:
+  - Death Knight
+
+cost: '4'
+
+temp: Unholy

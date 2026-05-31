@@ -1,0 +1,18 @@
+card_name: Bear Trap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Trap Remove target opposing attacking ally from combat. Draw a card.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Survival

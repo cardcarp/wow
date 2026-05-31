@@ -1,0 +1,23 @@
+card_name: Keldor the Lost
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: Pay 2 or remove an honor counter from a card you control → Interrupt target ally card. If you do, remove it from the game, and its owner puts it into his party at the start of his next turn.
+
+cost: '3'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Warlock

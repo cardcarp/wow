@@ -1,0 +1,20 @@
+card_name: Robes of Rhonin
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: This armor enters play with two +1 counters on it. Remove a +1 counter from this armor → The next time your hero would deal damage with an ability this turn, it deals that much +1 instead.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '4'
+
+temp: Armor Cloth

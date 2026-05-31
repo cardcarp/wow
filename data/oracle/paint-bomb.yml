@@ -1,0 +1,15 @@
+card_name: Paint Bomb
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target ally. Ongoing : As this ability enters play, name a class. Allies in attached ally's party have that class and lose all other classes."
+
+cost: '1'
+
+temp: ''

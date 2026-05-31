@@ -1,0 +1,17 @@
+card_name: Kintara Wintermoon
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: "On your turn: 3 , Flip Kintara → Target player puts an ally he controls into its owner's hand."
+
+faction: Alliance
+
+temp: Night Elf Priest

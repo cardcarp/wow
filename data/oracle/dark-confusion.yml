@@ -1,0 +1,15 @@
+card_name: Dark Confusion
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "The MARKED hero's controller rolls a die. 1-3: The MARKED hero deals 10 melee damage to each other Raiding hero. 4-5: Each other Raider discards three random cards. 6: Each other Raider draws a card."
+
+temp: ''
+
+type: Dungeon

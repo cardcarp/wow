@@ -1,0 +1,18 @@
+card_name: Flame Orb
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target opposing hero. Ongoing : At the start of your turn, add an ember counter to this ability, and your hero deals 1 fire damage to attached hero. Then, you may destroy this ability. If you do, your hero deals 1 fire damage to target hero or ally for each ember counter that was on this ability.'
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Fire

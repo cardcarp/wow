@@ -1,0 +1,18 @@
+card_name: Timeless Aim
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Echo Your hero deals 2 ranged damage to target hero or ally.
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Marksmanship

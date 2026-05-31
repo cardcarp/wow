@@ -1,0 +1,23 @@
+card_name: Garell Strout
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: When this ally attacks, he deals 2 fire damage to target opposing hero.
+
+cost: '4'
+
+combat: Fire
+
+faction: Horde
+
+temp: Undead Warlock

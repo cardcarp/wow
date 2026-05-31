@@ -1,0 +1,21 @@
+card_name: Darktwister Kern
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 2
+
+cost: '4'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Priest

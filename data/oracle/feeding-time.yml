@@ -1,0 +1,15 @@
+card_name: Feeding Time
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Put X Whelps into play, where X is double the current stage.
+
+temp: ''
+
+type: Raid

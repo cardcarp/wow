@@ -1,0 +1,17 @@
+card_name: Archmage Barstow
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: Flip Barstow, discard a Mage → Opposing heroes and allies lose and can't have powers this turn.
+
+faction: Alliance
+
+temp: Human Mage

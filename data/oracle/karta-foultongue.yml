@@ -1,0 +1,23 @@
+card_name: Karta Foultongue
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Hardiness 1 → This turn, target ally must attack if able and can attack only Karta if able.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

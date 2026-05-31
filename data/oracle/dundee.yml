@@ -1,0 +1,24 @@
+card_name: Dundee
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: As each turn starts, prevent the next damage that Dundee would be dealt this turn.
+
+class:
+  - Hunter
+
+cost: '3'
+
+combat: Melee
+
+temp: Crocolisk

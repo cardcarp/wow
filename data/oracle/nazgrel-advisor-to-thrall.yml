@@ -1,0 +1,23 @@
+card_name: Nazgrel, Advisor to Thrall
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 6
+
+text: Protector When Nazgrel enters play, destroy target ally.
+
+cost: '7'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Shaman

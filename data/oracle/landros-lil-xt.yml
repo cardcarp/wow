@@ -1,0 +1,21 @@
+card_name: Landros Lil_ XT
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: When this ally enters play, you may destroy target item. At the start of your turn, this ally deals 1 nature damage to each hero and ally.
+
+cost: '3'
+
+combat: Melee
+
+temp: Mini-Deconstructor

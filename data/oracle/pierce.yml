@@ -1,0 +1,18 @@
+card_name: Pierce
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally, and your hero deals 2 melee damage to it. Ongoing : Attached ally has -2 .'
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Arms

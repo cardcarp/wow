@@ -1,0 +1,23 @@
+card_name: Sindragosa
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 10
+
+health: 20
+
+text: 'Icy Grip : If an opposing hero or ally attacks, it must attack Sindragosa if able.'
+
+cost: '7'
+
+combat: Frost
+
+temp: Frost Wyrm
+
+type: Raid

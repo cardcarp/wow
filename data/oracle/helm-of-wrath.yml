@@ -1,0 +1,18 @@
+card_name: Helm of Wrath
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , → While target ally can attack your hero this turn, it can attack only your hero. When you play a ability, ready Helm of Wrath.
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Armor Plate

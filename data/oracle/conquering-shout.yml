@@ -1,0 +1,18 @@
+card_name: Conquering Shout
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Allies you control have Assault 2 .'
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Fury Shout

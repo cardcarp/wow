@@ -1,0 +1,18 @@
+card_name: Timeless Undeath
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Echo Put a 3 / 3 Ghoul ally token into play.
+
+class:
+  - Death Knight
+
+cost: '4'
+
+temp: Unholy

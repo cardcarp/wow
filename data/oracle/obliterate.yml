@@ -1,0 +1,18 @@
+card_name: Obliterate
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 2 melee damage to target hero or ally, or 4 if you control a Disease.
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Frost

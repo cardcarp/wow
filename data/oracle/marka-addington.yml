@@ -1,0 +1,23 @@
+card_name: Marka Addington
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 7
+
+text: At the start of your turn, Marka deals 3 fire damage to herself.
+
+cost: '5'
+
+combat: Fire
+
+faction: Horde
+
+temp: Undead Warlock

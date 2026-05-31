@@ -1,0 +1,23 @@
+card_name: Manthos the Recently Sewn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 8
+
+text: Manthos enters play with 3 damage.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Warrior

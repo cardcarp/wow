@@ -1,0 +1,18 @@
+card_name: Arrowstorm
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 4 ranged damage to target opposing ally with cost 4 or more.
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Marksmanship

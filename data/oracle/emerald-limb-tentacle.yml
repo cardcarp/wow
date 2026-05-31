@@ -1,0 +1,21 @@
+card_name: Emerald Limb Tentacle
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 10
+
+text: This ally can't leave play except by fatal damage. At the start of Deathwing's turn, this ally heals 3 damage from Deathwing. When this ally is destroyed, the Raiders choose a hero, and it heals 15 damage from itself.
+
+combat: Melee
+
+temp: Tentacle
+
+type: Boss

@@ -1,0 +1,15 @@
+card_name: Mannoroth the Destructor
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Flip 1 , Assault 8 , Smash Mannoroth has +5 and an additional Assault 2 for each Caverns hero that has been defeated. Mannoroth must attack the ally with the lowest remaining health if able.
+
+temp: Pit Lord Demon Warrior 30
+
+type: Boss

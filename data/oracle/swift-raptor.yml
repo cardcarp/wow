@@ -1,0 +1,23 @@
+card_name: Swift Raptor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 4
+
+text: Troll Hero Required You pay 1 less to complete quests. When you place a resource face up, your hero heals 2 damage from itself. (Mounts can't attack or be attacked.)
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Raptor

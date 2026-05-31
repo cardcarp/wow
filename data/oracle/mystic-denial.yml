@@ -1,0 +1,18 @@
+card_name: Mystic Denial
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Interrupt target card. Ongoing : When an opponent plays a card, destroy Mystic Denial. If you do, interrupt that card.'
+
+class:
+  - Mage
+
+cost: '5'
+
+temp: Arcane

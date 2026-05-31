@@ -1,0 +1,23 @@
+card_name: Snappyfin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+instant: Murloc allies in your hand are .
+
+cost: '5'
+
+combat: Frost
+
+temp: Murloc Mage
+
+type: Monster

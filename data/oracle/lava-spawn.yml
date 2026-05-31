@@ -1,0 +1,21 @@
+card_name: Lava Spawn
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: At the start of your turn, put a Lava Spawn into play.
+
+combat: Fire
+
+temp: Elemental
+
+type: Ally

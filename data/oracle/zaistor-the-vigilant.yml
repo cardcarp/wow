@@ -1,0 +1,21 @@
+card_name: Zaistor the Vigilant
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Aldor Reputation 1 , Destroy Zaistor → Target hero or ally can't be destroyed this turn.
+
+cost: '2'
+
+combat: Holy
+
+temp: Draenei Paladin

@@ -1,0 +1,18 @@
+card_name: Steal Steel
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: As an additional cost to play this ability, remove up to five abilities in your graveyard from the game. Search target opponent's deck for an equipment with cost less than or equal to the number of cards removed this way and put it into play under your control.
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Subtlety Finishing Move

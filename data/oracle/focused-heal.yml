@@ -1,0 +1,20 @@
+card_name: Focused Heal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero heals 5 damage from target hero or ally.
+
+class:
+  - Druid
+  - Priest
+  - Shaman
+
+cost: '2'
+
+temp: ''

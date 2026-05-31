@@ -1,0 +1,18 @@
+card_name: Demonic Corruption
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: When the next opposing ally enters play this turn, put a token copy of that ally into play under your control. That copy is also a Demon.
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Demonology

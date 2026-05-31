@@ -1,0 +1,15 @@
+card_name: Earthen Guidance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : When a Shaman ally enters play under your control or a friendly player's control, it deals 2 nature damage to target opposing ally."
+
+cost: '3'
+
+temp: ''

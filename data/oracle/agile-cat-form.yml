@@ -1,0 +1,18 @@
+card_name: Agile Cat Form
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Your hero has Assault 1 .'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Feral Cat Form

@@ -1,0 +1,22 @@
+card_name: Arch Druid Lilliandra
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: Argent Crusade Reputation Flip Lilliandra, remove a Druid in your graveyard from the game → When Lilliandra is dealt combat damage this turn, she deals 1 nature damage to the source of that damage.
+
+class:
+  - Druid
+
+temp: Night Elf Druid
+
+transform:
+  - id: ability
+    text: "Deckbuilding : You can only include either or cards, cards, Balance talents, neutral cards, and Argent Crusade cards. You can't include cards with other reputations or other text restrictions."

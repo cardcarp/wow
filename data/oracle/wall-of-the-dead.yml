@@ -1,0 +1,20 @@
+card_name: Wall of the Dead
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Remove an ally card in your graveyard from the game → Put a bone counter on Wall of the Dead. Wall of the Dead has +1 DEF for each bone counter on it.
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+cost: '2'
+
+temp: Armor Shield

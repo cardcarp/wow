@@ -1,0 +1,23 @@
+card_name: Crankston Deathspark
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Elusive , Protector
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Death Knight

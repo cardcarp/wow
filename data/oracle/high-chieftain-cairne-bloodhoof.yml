@@ -1,0 +1,23 @@
+card_name: High Chieftain Cairne Bloodhoof
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 8
+
+text: Protector Cairne enters play with an ankh counter. If Cairne would be destroyed, you may remove an ankh counter from him. If you do, remove all damage from Cairne instead. Each ally you control has +X ATK, where X is its .
+
+cost: '7'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Warrior

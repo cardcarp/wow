@@ -1,0 +1,18 @@
+card_name: Trackers Mark
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target opposing hero. Ongoing : At the start of your turn, your hero deals 1 ranged damage to attached hero. At the end of your turn, if 5 or more damage was dealt to attached hero this turn, look at the top card of that hero's controller's deck. You may put that card on the bottom of that deck."
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Marksmanship

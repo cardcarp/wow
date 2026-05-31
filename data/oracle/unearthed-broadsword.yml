@@ -1,0 +1,20 @@
+card_name: Unearthed Broadsword
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, if this weapon is in your graveyard, you may pay 1 . If you do, put it into your hand.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '4'
+
+temp: 2H Weapon Sword

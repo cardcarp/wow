@@ -1,0 +1,23 @@
+card_name: Eye of Magtheridon
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If 1 would be rolled on a die, you may change it to any value on that die instead.
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item Trinket

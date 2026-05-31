@@ -1,0 +1,13 @@
+card_name: Potion of Temporary Immortality
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: "Ongoing : Other cards can't leave play."
+
+temp: ''

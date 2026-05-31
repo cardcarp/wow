@@ -1,0 +1,18 @@
+card_name: Mind Crush
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target opponent chooses and destroys an ally he controls. Remove cards from the top of that player's deck from the game equal to the ATK of that destroyed ally.
+
+class:
+  - Priest
+
+cost: '4'
+
+temp: Shadow

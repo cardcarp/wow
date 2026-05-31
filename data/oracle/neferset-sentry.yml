@@ -1,0 +1,23 @@
+card_name: Neferset Sentry
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: 'On your turn: Exhaust another ally you control → This ally has +2 ATK this turn.'
+
+cost: '3'
+
+combat: Melee
+
+temp: Tol'vir Rogue Warrior
+
+type: Monster

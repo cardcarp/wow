@@ -1,0 +1,23 @@
+card_name: Prince Anduin Wrynn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: Friendly Humans can protect this ally. Other friendly allies have +1 / +1 for each different card type you control.
+
+cost: '7'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Priest

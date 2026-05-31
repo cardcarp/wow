@@ -1,0 +1,18 @@
+card_name: Forbidden Knowledge
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Remove your deck from the game. Ongoing : If you would draw a card, choose a card you removed and put it into your hand instead.'
+
+class:
+  - Warlock
+
+cost: '8'
+
+temp: Demonology

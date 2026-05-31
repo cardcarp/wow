@@ -1,0 +1,15 @@
+card_name: Owned!
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Remove target ally from the game. Search its owner's deck, graveyard, hand, and party for all ally cards with the same name as that ally and remove them from the game.
+
+cost: '6'
+
+temp: ''

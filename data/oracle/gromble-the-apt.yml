@@ -1,0 +1,21 @@
+card_name: Gromble the Apt
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: Find Treasure Your hero can be exhausted to pay costs as though it were a resource.
+
+cost: '2'
+
+faction: Alliance
+
+temp: Dwarf Hunter

@@ -1,0 +1,20 @@
+card_name: Extinct Turtle Shell
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor enters play, put a 1 / 1 Turtle Beast Monster ally token named Tooga into play with Tooga (1). At the start of your turn, remove a Tooga you control from the game. If you do, draw two cards.
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+cost: '4'
+
+temp: Armor Shield

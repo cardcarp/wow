@@ -1,0 +1,18 @@
+card_name: Track Enemy
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target hero or ally you control, then Delve . Ongoing : When attached character deals damage to an opposing hero, Delve .'
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Survival

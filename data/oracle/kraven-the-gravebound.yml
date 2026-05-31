@@ -1,0 +1,23 @@
+card_name: Kraven the Gravebound
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this ally enters play, you may destroy another ally you control. If you do, put a 3 / 3 Ghoul ally token into play.
+
+cost: '3'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Death Knight

@@ -1,0 +1,21 @@
+card_name: Hourglass of the Unraveller
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You pay 1 less to play equipment, to a minimum of 1 .
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Rogue
+
+cost: '3'
+
+temp: Item Trinket

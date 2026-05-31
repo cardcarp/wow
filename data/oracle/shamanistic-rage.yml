@@ -1,0 +1,18 @@
+card_name: Shamanistic Rage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Enhancement Hero Required Ongoing : When your hero deals combat damage with one or more Melee weapons for the first time each turn, ready up to X of your resources, where X is the combined strike cost of those weapons.'
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Enhancement Talent

@@ -1,0 +1,18 @@
+card_name: Pilfer
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target opponent discards his hand, then draws that many cards. Your hero deals 1 melee damage to that opponent's hero for each card discarded this way.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Subtlety Combo

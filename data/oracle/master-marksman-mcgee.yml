@@ -1,0 +1,23 @@
+card_name: Master Marksman McGee
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: allies in your party have Long-Range .
+
+cost: '5'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Dwarf Hunter

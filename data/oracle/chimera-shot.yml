@@ -1,0 +1,18 @@
+card_name: Chimera Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Marksmanship Hero Required You may choose a different one for each different name among Stings you control: Destroy target ally; destroy target equipment; or destroy target resource.'
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Marksmanship Talent

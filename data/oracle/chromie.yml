@@ -1,0 +1,21 @@
+card_name: Chromie
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: ', Remove Chromie from the game → Take an extra turn after this one.'
+
+cost: '6'
+
+combat: Melee
+
+temp: Dragonkin

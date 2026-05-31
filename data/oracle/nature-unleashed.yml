@@ -1,0 +1,19 @@
+card_name: Nature Unleashed
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put five Bear ally tokens into play with 1 ATK / 1 health and Protector .
+
+class:
+  - Druid
+  - Hunter
+
+cost: '7'
+
+temp: Feral Beast Mastery

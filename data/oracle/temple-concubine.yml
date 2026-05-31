@@ -1,0 +1,21 @@
+card_name: Temple Concubine
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Traitor Hero Required If Temple Concubine would be dealt 3 or more damage, prevent it.
+
+cost: '4'
+
+combat: Melee
+
+temp: Blood Elf Traitor

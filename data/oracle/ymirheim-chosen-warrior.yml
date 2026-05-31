@@ -1,0 +1,23 @@
+card_name: Ymirheim Chosen Warrior
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: Scourge Hero Required Protector When this ally enters play, you may search your deck for an ally with the same name, reveal it, and put it into your hand.
+
+cost: '3'
+
+combat: Melee
+
+temp: Vrykul Warrior
+
+type: Raid

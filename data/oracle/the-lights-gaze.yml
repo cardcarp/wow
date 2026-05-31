@@ -1,0 +1,19 @@
+card_name: The Lights Gaze
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero heals 10 damage from target hero or ally.
+
+class:
+  - Paladin
+  - Priest
+
+cost: '3'
+
+temp: Holy

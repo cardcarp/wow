@@ -1,0 +1,13 @@
+card_name: Gurubashi Arena
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: → Target ally in your party is an Arena ally this turn.
+
+temp: Arena

@@ -1,0 +1,19 @@
+card_name: Icy Scale Chestguard
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If a friendly hero or ally would deal frost ( ) damage, it deals that much +1 instead.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '4'
+
+temp: Armor Mail

@@ -1,0 +1,26 @@
+card_name: Bitey
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 5
+
+text: Smash
+
+class:
+  - Hunter
+
+cost: '5'
+
+combat: Melee
+
+temp: Cat Beast
+
+type: Monster

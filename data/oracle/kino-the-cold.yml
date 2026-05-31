@@ -1,0 +1,23 @@
+card_name: Kino the Cold
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Protector Hardiness
+
+cost: '1'
+
+combat: Frost
+
+faction: Horde
+
+temp: Orc Shaman

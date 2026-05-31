@@ -1,0 +1,18 @@
+card_name: Power Word_ Fortitude
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target hero or ally. Ongoing : Attached character has +5 health.'
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Discipline

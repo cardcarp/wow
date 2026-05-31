@@ -1,0 +1,19 @@
+card_name: Poison Fang Bracers
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor enters play, put two 1 / 1 Treant ally tokens into play. {2}, → Your hero deals 1 nature damage to target opposing hero for each token ally you control.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '3'
+
+temp: Armor Leather

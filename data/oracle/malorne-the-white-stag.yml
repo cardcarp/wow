@@ -1,0 +1,23 @@
+card_name: Malorne the White Stag
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+damage: 2
+
+health: 38
+
+text: 1 → Put a 1 / 1 Treant ally token into play. 2 , Exhaust two allies you control → Reveal the top card of your deck, then place it into your resource row exhausted as an additional resource. 20 → Shuffle your graveyard into your deck, then search your deck for any number of cards and play them without paying their costs.
+
+cost: '10'
+
+combat: Nature
+
+temp: Stag Beast Demigod
+
+type: Master

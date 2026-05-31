@@ -1,0 +1,26 @@
+card_name: Veterans Pendant
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If you win this game, you decide who goes first next game.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item Neck

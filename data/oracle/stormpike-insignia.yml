@@ -1,0 +1,29 @@
+card_name: Stormpike Insignia
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play a card, add an honor counter. If there are six or more on Stormpike Insignia, destroy it. When Stormpike Insignia is destroyed this way, your hero deals 5 frost damage to target hero or ally.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+faction: Alliance
+
+temp: Item Battleground

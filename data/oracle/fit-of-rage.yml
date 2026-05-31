@@ -1,0 +1,18 @@
+card_name: Fit of Rage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : 2 , , Destroy an equipment you control → Your hero deals melee damage to target hero or ally equal to that equipment's cost."
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Fury

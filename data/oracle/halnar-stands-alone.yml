@@ -1,0 +1,23 @@
+card_name: Halnar Stands-Alone
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Halnar Stands-Alone has +3 ATK and +3 health while he is the only ally in your party.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Warrior

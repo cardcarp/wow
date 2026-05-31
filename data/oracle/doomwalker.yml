@@ -1,0 +1,21 @@
+card_name: Doomwalker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 11
+
+health: 11
+
+text: When an opposing ability, ally, or equipment becomes exhausted, destroy it.
+
+cost: '11'
+
+combat: Melee
+
+temp: Mechanical

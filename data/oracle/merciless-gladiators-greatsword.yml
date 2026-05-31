@@ -1,0 +1,19 @@
+card_name: Merciless Gladiators Greatsword
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When Merciless Gladiator's Greatsword enters play or you strike with it, your hero deals 1 melee damage to each opposing hero and ally.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '6'
+
+temp: 2H Arena Weapon Sword

@@ -1,0 +1,18 @@
+card_name: Merciless Gladiators Raiment
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Each hero and ally in your party has +X health, where X is its printed health. → Target opponent puts three allies from his party into their owners' hands.
+
+class:
+  - Priest
+
+cost: '8'
+
+temp: Arena Armor Set Cloth

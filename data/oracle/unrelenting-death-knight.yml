@@ -1,0 +1,21 @@
+card_name: Unrelenting Death Knight
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When this ally leaves play, the Boss player puts a Spectral Death Knight into play.
+
+combat: Melee
+
+temp: Human Death Knight
+
+type: Ally

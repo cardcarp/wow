@@ -1,0 +1,23 @@
+card_name: Felguard Basher
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Ferocity
+
+cost: '1'
+
+combat: Melee
+
+temp: Felguard Demon
+
+type: Monster

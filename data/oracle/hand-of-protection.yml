@@ -1,0 +1,18 @@
+card_name: Hand of Protection
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: The next time target ally would be dealt damage this turn, prevent it.
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Protection

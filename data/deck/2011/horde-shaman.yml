@@ -1,0 +1,55 @@
+name: Horde Shaman
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Horde
+  - Starter
+  - '2011'
+
+collection: '2011'
+
+highlight: starter-2011-horde-shaman-001
+
+description: 2011 Horde Shaman Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2011 Horde Shaman
+
+total: 61
+
+list:
+  hero:
+    starter-2011-horde-shaman-001: 1  # Akumo of Thunder Bluff
+  main:
+    starter-2011-horde-shaman-002: 2  # Chain Heal
+    starter-2011-horde-shaman-003: 1 # Chain Lightning
+    starter-2011-horde-shaman-004: 1 # Cleanse Spirit
+    starter-2011-horde-shaman-005: 2 # Earths Bounty
+    starter-2011-horde-shaman-006: 1 # Elemental Precision
+    starter-2011-horde-shaman-007: 2 # Frost Shock
+    starter-2011-horde-shaman-008: 2 # Inferno Totem
+    starter-2011-horde-shaman-009: 2 # Infusion of Earth
+    starter-2011-horde-shaman-010: 2 # Lightning Bolt
+    starter-2011-horde-shaman-011: 2 # Natural Conduit
+    starter-2011-horde-shaman-012: 1 # Boki Earthgaze
+    starter-2011-horde-shaman-013: 3 # Burom Bladeseer
+    starter-2011-horde-shaman-014: 2 # Guardian Steelhoof
+    starter-2011-horde-shaman-015: 3 # Ka_tali Stonetusk
+    starter-2011-horde-shaman-016: 2 # Kistix Shockvat
+    starter-2011-horde-shaman-017: 3 # Lifemender Dorn
+    starter-2011-horde-shaman-018: 2 # Mojo Doctor Zin_tar
+    starter-2011-horde-shaman-019: 2 # Toz_jun
+    starter-2011-horde-shaman-020: 1 # Vanda Skydaughter
+    starter-2011-horde-shaman-021: 2 # Zakis Trickstab
+    starter-2011-horde-shaman-022: 2 # Zerzu
+    starter-2011-horde-shaman-023: 1 # Masterwork Stormhammer
+    starter-2011-horde-shaman-024: 2 # Reanimators Hacker
+    starter-2011-horde-shaman-025: 3 # A Bird in Hand
+    starter-2011-horde-shaman-026: 4 # Entrenched
+    starter-2011-horde-shaman-027: 4 # The Essence of Enmity
+    starter-2011-horde-shaman-028: 4 # The Key to Freedom
+    starter-2011-horde-shaman-029: 2 # Mystery Goo

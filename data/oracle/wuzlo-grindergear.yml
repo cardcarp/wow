@@ -1,0 +1,23 @@
+card_name: Wuzlo Grindergear
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: Weapons you control have Assault 2 .
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Warrior

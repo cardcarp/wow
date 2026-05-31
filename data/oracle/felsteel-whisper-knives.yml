@@ -1,0 +1,18 @@
+card_name: Felsteel Whisper Knives
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Thrown
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Ranged Weapon Knife

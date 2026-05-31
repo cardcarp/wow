@@ -1,0 +1,19 @@
+card_name: Helm of Thorns
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 → Exhaust target ally with cost 2 or less.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '2'
+
+temp: Armor Leather

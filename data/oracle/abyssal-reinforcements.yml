@@ -1,0 +1,15 @@
+card_name: Abyssal Reinforcements
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Put an Abyssal ally token with 6 ATK / 6 health into play. Ongoing : Destroy two Bloods → Put an Abyssal ally token with 6 ATK / 6 health into play. Use only on your turn.'
+
+cost: '3'
+
+temp: ''

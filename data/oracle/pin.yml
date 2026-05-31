@@ -1,0 +1,19 @@
+card_name: Pin
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target player can't play allies this turn.
+
+class:
+  - Hunter
+  - Rogue
+
+cost: '1'
+
+temp: Marksmanship Subtlety Combo

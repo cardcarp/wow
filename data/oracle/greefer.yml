@@ -1,0 +1,23 @@
+card_name: Greefer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Opponents can't complete quests.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Rogue

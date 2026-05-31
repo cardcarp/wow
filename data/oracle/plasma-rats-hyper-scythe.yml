@@ -1,0 +1,19 @@
+card_name: Plasma Rats Hyper-Scythe
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Exhaust one of your armor or weapons → Ready one of your resources.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '6'
+
+temp: 2H Weapon Polearm

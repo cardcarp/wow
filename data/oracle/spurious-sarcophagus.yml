@@ -1,0 +1,27 @@
+card_name: Spurious Sarcophagus
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Remove target card in your graveyard from the game. If you do, add a revive counter to this item. , Remove five revive counters from this item → Put target card that was removed from the game this way in your hand.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item

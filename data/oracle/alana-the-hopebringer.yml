@@ -1,0 +1,23 @@
+card_name: Alana the Hopebringer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 8
+
+text: At the start of your turn, you may draw the top half of your deck, rounded up.
+
+cost: '6'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Priest

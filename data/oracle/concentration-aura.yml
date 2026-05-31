@@ -1,0 +1,18 @@
+card_name: Concentration Aura
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Ongoing : Your ability cards are instant and can't be interrupted."
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Holy

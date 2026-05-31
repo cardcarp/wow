@@ -1,0 +1,15 @@
+card_name: Path of Cenarius
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : Attached ally has " 1 , → Ready another target ally."'
+
+cost: '2'
+
+temp: ''

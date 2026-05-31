@@ -1,0 +1,26 @@
+card_name: Chompers
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: 'Once per turn, on your turn: Destroy a Murloc you control → Ready this ally. It heals all damage from itself.'
+
+class:
+  - Hunter
+
+cost: '5'
+
+combat: Melee
+
+temp: Shark
+
+type: Monster

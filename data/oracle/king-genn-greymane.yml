@@ -1,0 +1,23 @@
+card_name: King Genn Greymane
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Aberration This ally has +2 / +2 for each other Worgen you control. While this ally is ready, opposing heroes and allies can't attack other Worgen you control.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Worgen Warrior King

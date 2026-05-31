@@ -1,0 +1,18 @@
+card_name: Backlash
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Destruction Hero Required Ongoing : → If an opposing hero or ally dealt damage to your hero this turn, draw a card.'
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Destruction Talent

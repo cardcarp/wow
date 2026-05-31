@@ -1,0 +1,23 @@
+card_name: Ash_ergi
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Stealth Ash'ergi has +1 ATK for each damage on him.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Rogue

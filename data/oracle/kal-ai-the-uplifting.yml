@@ -1,0 +1,23 @@
+card_name: Kal_ai the Uplifting
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: Draenei Hero Required Other allies in your party have +1 ATK and +1 health.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Paladin

@@ -1,0 +1,21 @@
+card_name: Crown of Destruction
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the end of each player's turn, that player destroys one of his abilities, allies, or equipment.
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Shaman
+
+cost: '5'
+
+temp: Armor Mail

@@ -1,0 +1,21 @@
+card_name: Arygos
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 7
+
+text: You pay 1 less to play abilities for each Blue Dragonkin you control, to a minimum of 1 .
+
+cost: '4'
+
+combat: Arcane
+
+temp: Blue Dragonkin

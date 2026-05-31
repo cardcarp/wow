@@ -1,0 +1,18 @@
+card_name: The Natural Order
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target ability or equipment.
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Balance

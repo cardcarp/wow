@@ -1,0 +1,19 @@
+card_name: Repurposed Lava Dredger
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: '3 , → Reveal the top card of your deck and an additional for each heirloom counter on this equipment. Place each revealed card into your resource row exhausted as an additional resource. Stash : Add an heirloom counter to target equipment you control.'
+
+class:
+  - Druid
+  - Paladin
+
+cost: '3'
+
+temp: 2H Weapon Mace

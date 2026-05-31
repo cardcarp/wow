@@ -1,0 +1,23 @@
+card_name: Ganvar Singebeard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: At the start of your turn, this ally deals fire damage equal to his ATK to each opposing hero.
+
+cost: '2'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Dwarf Mage

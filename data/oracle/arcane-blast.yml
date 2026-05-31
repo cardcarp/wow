@@ -1,0 +1,18 @@
+card_name: Arcane Blast
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: You pay 1 less to play Arcane Blast for each other card named Arcane Blast in your graveyard. Your hero deals 3 arcane damage to target hero or ally.
+
+class:
+  - Mage
+
+cost: '3'
+
+temp: Arcane

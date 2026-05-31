@@ -1,0 +1,21 @@
+card_name: Firesworn
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When Firesworn is dealt fatal damage, it deals 1 fire damage to the source of that damage.
+
+combat: Melee
+
+temp: Elemental
+
+type: Ally

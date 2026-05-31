@@ -1,0 +1,18 @@
+card_name: Head Trauma
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target resource.
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: Assassination

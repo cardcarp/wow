@@ -1,0 +1,15 @@
+card_name: Scarlet Vigor
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Mograine has +3 ATK this turn. When Mograine attacks for the first time this turn, ready him. The next time Mograine attacks this turn, he attacks another random Raiding hero.
+
+temp: ''
+
+type: Dungeon

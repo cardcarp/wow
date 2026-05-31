@@ -1,0 +1,18 @@
+card_name: Power Word_ Spirit
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally you control. Ongoing : When attached ally deals combat damage to a hero, put a 2 / 2 Spirit ally token into play with Absorb .'
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Discipline Attachment

@@ -1,0 +1,18 @@
+card_name: Hide and Stab
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Your hero has Stealth . When your hero deals damage, destroy Hide and Stab. Destroy Hide and Stab → Exhaust target hero or ally.'
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Subtlety Combo

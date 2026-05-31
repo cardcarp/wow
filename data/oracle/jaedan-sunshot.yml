@@ -1,0 +1,23 @@
+card_name: Jaedan Sunshot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When you play an ability, Jaedan has Long-Range this turn.
+
+cost: '2'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Blood Elf Hunter

@@ -1,0 +1,23 @@
+card_name: Kalek Deepearth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Mend 1
+
+cost: '3'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Dwarf Shaman

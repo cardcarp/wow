@@ -1,0 +1,18 @@
+card_name: Hand of Retribution
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target friendly ally. Ongoing : When damage is dealt to attached ally, it deals unpreventable holy damage equal to its ATK to the source of that damage.'
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Retribution Attachment

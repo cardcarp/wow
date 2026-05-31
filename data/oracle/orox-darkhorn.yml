@@ -1,0 +1,23 @@
+card_name: Orox Darkhorn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: "Tribe : When this or another Tauren ally enters play under your control, you may remove the top card of target player's deck from the game."
+
+cost: '2'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Tauren Priest

@@ -1,0 +1,23 @@
+card_name: Zindalan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 6
+
+text: 'Harmonize When this ally enters play, put a 0 / 3 Earth Totem token into play with " Ongoing : Harmonize ".'
+
+cost: '6'
+
+combat: Nature
+
+faction: Horde
+
+temp: Troll Shaman

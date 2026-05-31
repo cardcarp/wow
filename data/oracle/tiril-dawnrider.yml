@@ -1,0 +1,23 @@
+card_name: Tiril Dawnrider
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Ferocity At the end of your turn, put Tiril Dawnrider into his owner's hand.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Rogue

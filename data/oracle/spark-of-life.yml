@@ -1,0 +1,18 @@
+card_name: Spark of Life
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Restoration Talent Put target ally from your graveyard into play if its cost is less than or equal to the number of resources you control. If you do, attach this ability to it. Ongoing : Attached ally has "When this ally attacks for the first time this turn, ready it." When this ability leaves play, destroy attached ally.'
+
+class:
+  - Shaman
+
+cost: '5'
+
+temp: Restoration

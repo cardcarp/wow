@@ -1,0 +1,18 @@
+card_name: Bloodthirsty Shout
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Heroes and allies you control have +2 ATK this turn.
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Fury Shout

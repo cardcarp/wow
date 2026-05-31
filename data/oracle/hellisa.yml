@@ -1,0 +1,26 @@
+card_name: Hellisa
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: When this ally enters play, you may exhaust target ready opposing ally. If you do, that ally deals shadow damage equal to its ATK to its controller's hero.
+
+class:
+  - Warlock
+
+cost: '3'
+
+combat: Shadow
+
+temp: Succubus Demon
+
+type: Monster

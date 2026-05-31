@@ -1,0 +1,21 @@
+card_name: Sunwalker Lighthorn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 8
+
+cost: '6'
+
+combat: Holy
+
+faction: Horde
+
+temp: Tauren Paladin

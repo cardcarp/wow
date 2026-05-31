@@ -1,0 +1,23 @@
+card_name: Darok Steelstrike
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: Find Treasure
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Rogue

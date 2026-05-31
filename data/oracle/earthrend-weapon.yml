@@ -1,0 +1,18 @@
+card_name: Earthrend Weapon
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to one of your Melee weapons. Ongoing : Attached weapon has +7 ATK.'
+
+class:
+  - Shaman
+
+cost: '7'
+
+temp: Enhancement

@@ -1,0 +1,21 @@
+card_name: Tazrik Crankrust
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 4 → Flip Tazrik
+
+faction: Horde
+
+temp: Goblin Shaman
+
+transform:
+  - id: ability
+    text: Tazrik has Assault 1 for each Elemental ally you control.

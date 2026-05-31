@@ -1,0 +1,17 @@
+card_name: Mythen of the Wild
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 2 , Flip Mythen → Mythen heals 2 damage from target hero or ally for each quest you control.
+
+faction: Alliance
+
+temp: Night Elf Druid

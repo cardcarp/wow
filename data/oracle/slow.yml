@@ -1,0 +1,18 @@
+card_name: Slow
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Arcane Hero Required Attach to target hero. Ongoing : Attached hero's controller can't play more than one card per turn. (This doesn't include placing resources.)"
+
+class:
+  - Mage
+
+cost: '3'
+
+temp: Arcane Talent

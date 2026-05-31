@@ -1,0 +1,23 @@
+card_name: Kulan Earthguard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Protector At the end of your turn, ready Kulan Earthguard.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Shaman

@@ -1,0 +1,19 @@
+card_name: Amani Mask of Death
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the end of each turn, destroy all abilities, allies, and equipment with the same name as another card in play.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '2'
+
+temp: Armor Plate

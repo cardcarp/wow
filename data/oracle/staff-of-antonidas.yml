@@ -1,0 +1,15 @@
+card_name: Staff of Antonidas
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Courage of Antonidas : On your turn: Exhaust Jaina → Reveal the top card of your deck. This turn, you may put it into your hand, play it for free, or if it is a quest, place it as an additional resource.'
+
+cost: '5'
+
+temp: 2H Weapon Staff

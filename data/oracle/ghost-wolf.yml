@@ -1,0 +1,18 @@
+card_name: Ghost Wolf
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Exhaust your hero → If your hero is defending, remove all attacking allies from combat.'
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Enhancement

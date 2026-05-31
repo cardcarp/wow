@@ -1,0 +1,22 @@
+card_name: Jin_dos Judgement
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When a player draws a card, put 1 damage on that player's hero.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '5'
+
+temp: 2H Weapon Staff

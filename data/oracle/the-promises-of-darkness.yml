@@ -1,0 +1,18 @@
+card_name: The Promises of Darkness
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 1 shadow damage to target hero or ally. For each damage dealt this way, put 1 damage on your hero and draw a card.
+
+class:
+  - Warlock
+
+cost: '1'
+
+temp: Affliction

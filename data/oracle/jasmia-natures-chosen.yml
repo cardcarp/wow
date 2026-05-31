@@ -1,0 +1,21 @@
+card_name: Jasmia, Natures Chosen
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 4 → Flip Jasmia face down.
+
+faction: Alliance
+
+temp: Worgen Druid
+
+transform:
+  - id: ability
+    text: When an ally enters play under your control, Jasmia may heal all damage from another target ally.

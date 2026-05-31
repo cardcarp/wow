@@ -1,0 +1,23 @@
+card_name: Starli
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: When this ally deals damage to an ally, you may remove target weapon from the game.
+
+cost: '4'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Gnome Warlock

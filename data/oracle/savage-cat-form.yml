@@ -1,0 +1,18 @@
+card_name: Savage Cat Form
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Your hero has Assault 1 and Stealth .'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Feral Cat Form

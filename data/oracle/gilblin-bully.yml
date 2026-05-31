@@ -1,0 +1,23 @@
+card_name: Gilblin Bully
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Protector
+
+cost: '4'
+
+combat: Frost
+
+temp: Goblin Warrior
+
+type: Monster

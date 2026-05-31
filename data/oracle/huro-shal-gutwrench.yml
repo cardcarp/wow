@@ -1,0 +1,23 @@
+card_name: Huroshal Gutwrench
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: When this ally is dealt damage, you may destroy target ability.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Shaman

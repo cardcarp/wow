@@ -1,0 +1,18 @@
+card_name: Monstrous Essence
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : When a Monster ally you control is destroyed, your hero deals shadow damage to target hero equal to that ally's ATK and deals damage from itself equal to that ally's ."
+
+class:
+  - Death Knight
+
+cost: '5'
+
+temp: Blood

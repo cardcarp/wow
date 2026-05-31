@@ -1,0 +1,23 @@
+card_name: Boum Headshot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: Ferocity
+
+cost: '5'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Orc Hunter

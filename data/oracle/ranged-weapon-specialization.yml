@@ -1,0 +1,18 @@
+card_name: Ranged Weapon Specialization
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Marksmanship Hero Required Ongoing : Your Ranged weapons have +2 ATK and you pay 1 less to strike with them.'
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Marksmanship Talent

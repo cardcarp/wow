@@ -1,0 +1,18 @@
+card_name: Unleash Elements
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put a copy of each token ally you control into play.
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Enhancement

@@ -1,0 +1,23 @@
+card_name: Scarlet Renegade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: This ally has Assault 1 for each Scarlet Renegade you and other friendly players control (including himself) .
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

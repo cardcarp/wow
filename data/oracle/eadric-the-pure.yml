@@ -1,0 +1,22 @@
+card_name: Eadric the Pure
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: Argent Crusade Reputation Flip Eadric, remove a Paladin in your graveyard from the game → Target friendly ally has Untargetable this turn.
+
+class:
+  - Paladin
+
+temp: Human Paladin
+
+transform:
+  - id: ability
+    text: "Deckbuilding : You can only include either or cards, cards, Protection talents, neutral cards, and Argent Crusade cards. You can't include cards with other reputations or other text restrictions."

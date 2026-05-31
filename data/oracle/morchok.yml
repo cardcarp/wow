@@ -1,0 +1,21 @@
+card_name: Morchok
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 12
+
+text: 'Boss When Morchok enters play, he deals 1 melee damage to each Raiding hero and ally, and each Raider exhausts all allies he controls that were dealt damage this way. Resonating Crystal (Deathwing Stages 2+) : When Morchok deals combat damage to a defending hero, Morchok deals double that much shadow damage to each other Raiding hero.'
+
+combat: Melee
+
+temp: Earth Elemental
+
+type: Boss

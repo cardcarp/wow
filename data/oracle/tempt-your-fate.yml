@@ -1,0 +1,17 @@
+card_name: Tempt Your Fate
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Each player rolls a die. Each raider who rolls higher than the Boss player takes an extra turn after that raider's next turn. Each raider who rolls lower than the Boss player skips his next turn.
+
+temp: ''
+
+type: Raid
+
+stage: 18

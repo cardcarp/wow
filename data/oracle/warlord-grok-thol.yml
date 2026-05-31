@@ -1,0 +1,19 @@
+card_name: Warlord Grok_thol
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 8 → Flip Grok'thol face fown. You pay 8 less to flip Grok'thol if you control at least two allies each with 6 or more ATK.
+
+temp: Ogre Shaman 31
+
+transform:
+  - id: ability
+    text: "Assault 3 , Smash Deckbuilding: You can't put or cards in your deck."
+
+type: Monster

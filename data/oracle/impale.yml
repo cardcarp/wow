@@ -1,0 +1,18 @@
+card_name: Impale
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Arms Talent Attach to target hero or ally, and your hero deals melee damage to it equal to the ATK of a Melee weapon you control. Ongoing : At the start of your turn, your hero deals melee damage to attached character equal to the ATK of a Melee weapon you control.'
+
+class:
+  - Warrior
+
+cost: '5'
+
+temp: Arms Attachment

@@ -1,0 +1,23 @@
+card_name: Kaelzin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: Mend 2
+
+cost: '5'
+
+combat: Frost
+
+faction: Horde
+
+temp: Troll Shaman

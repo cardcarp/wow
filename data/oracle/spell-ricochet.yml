@@ -1,0 +1,19 @@
+card_name: Spell Ricochet
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: You may change the target of an ability card with a single target.
+
+class:
+  - Warrior
+  - Mage
+
+cost: '2'
+
+temp: Arcane Protection

@@ -1,0 +1,22 @@
+card_name: Staff of the Ruins
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → You pay 1 less to play your next ability this turn for each card in your graveyard with the same name as that ability.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: 2H Weapon Staff

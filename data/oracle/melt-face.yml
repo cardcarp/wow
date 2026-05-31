@@ -1,0 +1,18 @@
+card_name: Melt Face
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target player destroys an ally he controls.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Shadow

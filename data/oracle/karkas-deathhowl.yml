@@ -1,0 +1,23 @@
+card_name: Karkas Deathhowl
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: When this ally enters play, you may put target ally into its owner's hand.
+
+cost: '4'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Warlock

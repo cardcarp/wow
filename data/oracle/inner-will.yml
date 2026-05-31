@@ -1,0 +1,18 @@
+card_name: Inner Will
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: You pay x less to play your next card this turn, where X is the highest cost among abilities, allies, and equipment you control.
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Discipline

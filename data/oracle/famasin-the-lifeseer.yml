@@ -1,0 +1,17 @@
+card_name: Fama'sin the Lifeseer
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: "On your turn: 5 , Flip Fama'sin → Put three 1 / 1 Treant ally tokens into play."
+
+faction: Horde
+
+temp: Troll Druid

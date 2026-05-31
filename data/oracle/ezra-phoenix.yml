@@ -1,0 +1,23 @@
+card_name: Ezra Phoenix
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 8
+
+text: Ferocity When Ezra readies, he deals 2 ranged damage to target hero or ally.
+
+cost: '6'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Tauren Hunter

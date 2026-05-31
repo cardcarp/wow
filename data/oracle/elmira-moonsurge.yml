@@ -1,0 +1,23 @@
+card_name: Elmira Moonsurge
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Elusive At the start of your turn, this ally may deal 1 arcane damage to target hero or ally for each card you control.
+
+cost: '5'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Night Elf Druid

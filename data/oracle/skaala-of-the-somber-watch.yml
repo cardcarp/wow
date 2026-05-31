@@ -1,0 +1,23 @@
+card_name: Skaala of the Somber Watch
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 1
+
+text: Opposing heroes have "This hero has -1 ATK for each damage on it."
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Death Knight

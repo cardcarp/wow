@@ -1,0 +1,17 @@
+card_name: Barathex, Undeaths Hand
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 6 , Flip Barathex → Put target ally from an opposing graveyard into play under your control. If you do, that ally also has Ferocity , "This ally can attack only heroes.", and "At end of turn, destroy this ally.”
+
+faction: Alliance
+
+temp: Night Elf Death Knight

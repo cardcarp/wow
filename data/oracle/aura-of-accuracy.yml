@@ -1,0 +1,18 @@
+card_name: Aura of Accuracy
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : You pay 1 less to play cards and effects with one or more targets, to a minimum of 1 .'
+
+class:
+  - Paladin
+
+cost: '3'
+
+temp: Holy

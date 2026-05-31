@@ -1,0 +1,20 @@
+card_name: Terokks Quill
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Terokk's Quill has +4 ATK while your hero is defending.
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+
+cost: '1'
+
+temp: 2H Weapon Polearm

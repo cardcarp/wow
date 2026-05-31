@@ -1,0 +1,19 @@
+card_name: Legacy of Lordaeron
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put up to one target ally from your graveyard into play under your control. Put up to one target ally from an opposing graveyard into play under your control.
+
+class:
+  - Paladin
+  - Death Knight
+
+cost: '7'
+
+temp: ''

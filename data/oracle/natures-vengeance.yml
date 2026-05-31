@@ -1,0 +1,18 @@
+card_name: Natures Vengeance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy all resources you control. Put two 1 / 1 Treant ally tokens into play for each resource destroyed this way.
+
+class:
+  - Druid
+
+cost: '5'
+
+temp: Balance

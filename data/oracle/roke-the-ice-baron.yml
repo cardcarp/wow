@@ -1,0 +1,23 @@
+card_name: Roke the Ice Baron
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Elusive allies you control have " → Target ally can't attack this turn."
+
+cost: '2'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Gnome Mage

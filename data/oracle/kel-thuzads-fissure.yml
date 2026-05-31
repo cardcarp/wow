@@ -1,0 +1,17 @@
+card_name: Kel_Thuzads Fissure
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: 'Ongoing : At the end of your turn, target up to one raiding ability, up to one raiding ally, and up to one raiding equipment. Remove them from the game.'
+
+temp: ''
+
+type: Raid
+
+stage: 3

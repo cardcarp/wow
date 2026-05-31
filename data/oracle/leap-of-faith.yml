@@ -1,0 +1,18 @@
+card_name: Leap of Faith
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Remove target ability, ally, or equipment you own from the game. Then, put it into play under your control. (It enters play ready and undamaged.)
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Holy

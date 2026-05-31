@@ -1,0 +1,23 @@
+card_name: Aesadonna Al_mere
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: Stealth When Aesadonna attacks, destroy target exhausted ally.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Rogue

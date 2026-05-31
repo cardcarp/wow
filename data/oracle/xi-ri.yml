@@ -1,0 +1,21 @@
+card_name: Xi_ri
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 13
+
+health: 13
+
+text: At the end of your turn, destroy all Demons.
+
+cost: '13'
+
+combat: Holy
+
+temp: Naaru

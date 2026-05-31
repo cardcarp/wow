@@ -1,0 +1,27 @@
+card_name: Portal Stone
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn: 1 , → Remove target ally you control from the game. On your turn: 1 , → Put an ally removed by a card named Portal Stone into play under your control.'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item

@@ -1,0 +1,21 @@
+card_name: Anika Berlyn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 6
+
+cost: '6'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Paladin

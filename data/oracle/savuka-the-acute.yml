@@ -1,0 +1,26 @@
+card_name: Savuka the Acute
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: While you control a Ranged weapon, this ally has Assault X and Long-Range , where X is the highest ATK among Ranged weapons you control.
+
+class:
+  - Hunter
+
+cost: '5'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Orc Hunter

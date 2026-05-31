@@ -1,0 +1,21 @@
+card_name: Warlord Kalithresh
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 7
+
+text: Traitor Hero Required At the end of your turn, put a Naga Distiller ally token with 0 ATK / 1 health into play. At the start of your turn, destroy a Naga Distiller in your party. If you do, Kalithresh has +5 ATK this turn.
+
+cost: '6'
+
+combat: Melee
+
+temp: Naga Traitor

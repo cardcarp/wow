@@ -1,0 +1,15 @@
+card_name: Deathwhisper
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Long-Range Heartstrike : If Sylvanas would deal damage with this weapon to a damaged Scourge, she deals double that much instead.'
+
+cost: '5'
+
+temp: Ranged Weapon Bow

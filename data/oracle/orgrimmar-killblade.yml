@@ -1,0 +1,23 @@
+card_name: Orgrimmar Killblade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Stealth
+
+cost: '2'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Rogue

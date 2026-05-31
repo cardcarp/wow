@@ -1,0 +1,20 @@
+card_name: Demonologists Pact
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Preparation Ongoing : You pay 1 less to play Pets.'
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: ''
+
+type: Arena

@@ -1,0 +1,23 @@
+card_name: Cloak of Darkness
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Put a +1 DEF counter on Cloak of Darkness. , Remove all +1 DEF counters → Your hero deals 1 shadow damage to target hero or ally for each counter removed this way.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+cost: '2'
+
+temp: Armor Cloth

@@ -1,0 +1,19 @@
+card_name: Legacy of Betrayal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Remove target opposing ally and all opposing allies that share that ally's name from the game. Then search that ally's controller's deck, graveyard, and hand for all allies with that name and remove them from the game. Ongoing : Destroy this ability → You may play one of the allies removed this way. (Pay costs as normal.)"
+
+class:
+  - Warlock
+  - Rogue
+
+cost: '4'
+
+temp: ''

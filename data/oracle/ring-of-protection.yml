@@ -1,0 +1,27 @@
+card_name: Ring of Protection
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , {exhaust} → Target ally has Protector this turn.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item Ring

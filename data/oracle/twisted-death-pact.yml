@@ -1,0 +1,18 @@
+card_name: Twisted Death Pact
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: As an additional cost to play this ability, destroy an ability, ally, or equipment you control. Put a 3 / 3 Ghoul ally token into play.
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Blood

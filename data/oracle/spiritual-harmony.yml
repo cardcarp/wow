@@ -1,0 +1,18 @@
+card_name: Spiritual Harmony
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put target ally from your graveyard into your hand. If you do, your hero heals damage from itself equal to that ally's cost.
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Holy

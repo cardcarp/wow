@@ -1,0 +1,18 @@
+card_name: Assassins Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 3 melee damage to target exhausted ally and 3 melee damage to its controller's hero.
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Assassination

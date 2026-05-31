@@ -1,0 +1,18 @@
+card_name: Feeding Frenzy
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Traitor Hero Required As an additional cost to play, destroy any number of allies in your party. Target Pet in your party has +2 ATK this turn for each ally destroyed this way.
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Traitor

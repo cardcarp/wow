@@ -1,0 +1,19 @@
+card_name: Crippling Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : → Target ally has -3 ATK while in combat with your hero this turn.'
+
+class:
+  - Death Knight
+  - Hunter
+
+cost: '3'
+
+temp: Unholy Survival

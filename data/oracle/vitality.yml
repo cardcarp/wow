@@ -1,0 +1,18 @@
+card_name: Vitality
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Protection Talent Ongoing : At the start of your turn, add a might counter to this ability. For each might counter, your hero has +1 ATK while attacking and +1 .'
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Protection

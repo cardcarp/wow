@@ -1,0 +1,17 @@
+card_name: Saria of Stormwind
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 'On your turn: 5 , Flip Saria → Target opposing ally deals melee damage to itself equal to its ATK.'
+
+faction: Alliance
+
+temp: Human Paladin

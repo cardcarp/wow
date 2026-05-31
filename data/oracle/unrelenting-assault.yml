@@ -1,0 +1,18 @@
+card_name: Unrelenting Assault
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: You can't play other cards this turn. If you've played no other cards this turn, when your hero attacks this turn, you may pay 1 . If you do, ready your hero and all of your Melee weapons.
+
+class:
+  - Warrior
+
+cost: '5'
+
+temp: Arms

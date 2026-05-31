@@ -1,0 +1,19 @@
+card_name: Heigan the Unclean
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Assault 5 At the start of your turn, roll a die. If you roll odds, Heigan deals that much nature damage to each exhausted raiding hero and ally. At the end of your turn, flip Heigan.
+
+temp: Human Necromancer 8
+
+transform:
+  - id: ability
+    text: Heigan can't attack. When a hero or ally deals combat damage to Heigan, he deals 3 nature damage to that character. At the start of your turn, roll a die. If you roll even, Heigan deals that much nature damage to each raiding hero and ally. At the end of your turn, flip Heigan.
+
+type: Boss

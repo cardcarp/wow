@@ -1,0 +1,21 @@
+card_name: Tirion, the Ashbringer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: Protector Other allies you control have +X / +X, where X is their cost. Prevent all damage that would be dealt to this ally by Scourge heroes and allies.
+
+cost: '6'
+
+combat: Holy
+
+temp: Human Paladin

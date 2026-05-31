@@ -1,0 +1,21 @@
+card_name: Arcanist Tian
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Scryer Reputation You may look at the top card of your deck at any time.
+
+cost: '3'
+
+combat: Arcane
+
+temp: Blood Elf Mage

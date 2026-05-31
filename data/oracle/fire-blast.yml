@@ -1,0 +1,18 @@
+card_name: Fire Blast
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 2 fire damage to target hero or ally.
+
+class:
+  - Mage
+
+cost: '1'
+
+temp: Fire

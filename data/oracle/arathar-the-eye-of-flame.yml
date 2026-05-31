@@ -1,0 +1,18 @@
+card_name: Arathar, the Eye of Flame
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Long-Range When this weapon enters play, it has +2 ATK this turn.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Ranged Weapon Bow

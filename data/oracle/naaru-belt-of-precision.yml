@@ -1,0 +1,19 @@
+card_name: Naaru Belt of Precision
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Naaru Belt of Precision has +X DEF, where X is your hero's ATK.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '2'
+
+temp: Armor Leather

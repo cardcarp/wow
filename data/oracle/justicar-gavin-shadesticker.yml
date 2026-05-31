@@ -1,0 +1,26 @@
+card_name: Justicar Gavin Shadesticker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Opposing Warlocks and cards can't ready.
+
+class:
+  - Warlock
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Rogue

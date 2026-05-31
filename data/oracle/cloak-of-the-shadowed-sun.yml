@@ -1,0 +1,19 @@
+card_name: Cloak of the Shadowed Sun
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Your hero has Protector . Hero : Opposing allies have -1 ATK. Hero : Opposing allies have -1 .'
+
+class:
+  - Druid
+  - Warrior
+
+cost: '4'
+
+temp: Armor Cloth

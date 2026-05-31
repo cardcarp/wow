@@ -1,0 +1,23 @@
+card_name: Izzy Quizfiz
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: 2 → Ready this ally.
+
+cost: '1'
+
+combat: Nature
+
+faction: Horde
+
+temp: Goblin Shaman

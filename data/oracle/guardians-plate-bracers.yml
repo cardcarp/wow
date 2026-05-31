@@ -1,0 +1,18 @@
+card_name: Guardians Plate Bracers
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Preparation
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Arena Armor Plate

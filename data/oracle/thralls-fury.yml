@@ -1,0 +1,15 @@
+card_name: Thralls Fury
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : On your turn: Exhaust an Aspect of Thrall ability you control → Your hero deals 1 fire damage to target opposing hero.'
+
+cost: '2'
+
+temp: Aspect of Thrall

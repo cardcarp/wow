@@ -1,0 +1,18 @@
+card_name: Bestial Wrath
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Beast Mastery Hero Required Target Pet has +3 ATK this turn. Prevent all damage that would be dealt to it this turn.
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Beast Mastery Talent

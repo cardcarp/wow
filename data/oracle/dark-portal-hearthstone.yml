@@ -1,0 +1,27 @@
+card_name: Dark Portal Hearthstone
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Put target ally you control into its owner's hand.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '5'
+
+temp: Item

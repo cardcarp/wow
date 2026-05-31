@@ -1,0 +1,18 @@
+card_name: Hunting Preparations
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Ready up to three face-up resources you control.
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Survival

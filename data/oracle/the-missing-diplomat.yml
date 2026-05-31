@@ -1,0 +1,15 @@
+card_name: The Missing Diplomat
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'During your turn, pay 4 to complete this quest. Reward : Search your deck for an ally card, reveal it, and put it into your hand.'
+
+faction: Alliance
+
+temp: ''

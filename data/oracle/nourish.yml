@@ -1,0 +1,18 @@
+card_name: Nourish
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : If damage would be healed from your hero, that much +5 is healed instead. When damage is healed from an ally you control, you may draw a card.'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Restoration

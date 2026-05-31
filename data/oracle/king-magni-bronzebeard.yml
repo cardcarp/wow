@@ -1,0 +1,23 @@
+card_name: King Magni Bronzebeard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 8
+
+text: At the end of each turn, put an Alliance Dwarf Warrior ally token with 1 ATK and 1 health into play. Dwarves in your party have Protector .
+
+cost: '9'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Warrior

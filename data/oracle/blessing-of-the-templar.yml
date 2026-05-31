@@ -1,0 +1,18 @@
+card_name: Blessing of the Templar
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target hero. Ongoing : Attached hero has Assault 3 and Mend 3 .'
+
+class:
+  - Paladin
+
+cost: '5'
+
+temp: Holy Blessing

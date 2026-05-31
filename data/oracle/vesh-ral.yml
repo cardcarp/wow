@@ -1,0 +1,23 @@
+card_name: Vesh_ral
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Ferocity
+
+cost: '3'
+
+combat: Fire
+
+faction: Horde
+
+temp: Troll Mage

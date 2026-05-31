@@ -1,0 +1,18 @@
+card_name: Druid Training
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target friendly ally. Ongoing : Attached ally has " → Exhaust target ally."'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Balance

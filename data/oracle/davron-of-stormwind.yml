@@ -1,0 +1,17 @@
+card_name: Davron of Stormwind
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: "On your turn: 1 , Flip Davron → Target hero or ally can't protect this turn."
+
+faction: Alliance
+
+temp: Human Death Knight

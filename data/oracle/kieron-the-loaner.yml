@@ -1,0 +1,23 @@
+card_name: Kieron the Loaner
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: When this ally enters play, each opponent draws three cards. At the end of each turn, if an opponent has no cards in his hand, destroy his hero.
+
+cost: '5'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Gnome Rogue

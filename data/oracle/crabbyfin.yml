@@ -1,0 +1,23 @@
+card_name: Crabbyfin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When this or another Murloc ally enters play under your control, you may put a 1 / 1 Crab Monster ally token into play.
+
+cost: '2'
+
+combat: Frost
+
+temp: Murloc Hunter
+
+type: Monster

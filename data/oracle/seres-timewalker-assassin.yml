@@ -1,0 +1,23 @@
+card_name: Seres, Timewalker Assassin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play and when she is revealed from your deck, you may destroy target equipment.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Rogue

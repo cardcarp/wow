@@ -1,0 +1,23 @@
+card_name: Cult Master Kel_Thuzad
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: 1 → Target player puts the top card of his deck into his graveyard. 2 → You may play target ally in a graveyard this turn. (Pay costs as normal.)
+
+cost: '4'
+
+combat: Shadow
+
+temp: Scourge Necromancer
+
+type: Monster

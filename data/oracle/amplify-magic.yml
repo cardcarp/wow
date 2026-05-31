@@ -1,0 +1,18 @@
+card_name: Amplify Magic
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target friendly hero or ally. Ongoing : If damage would be healed from attached character, that much damage +2 is healed instead.'
+
+class:
+  - Mage
+
+cost: '1'
+
+temp: Arcane

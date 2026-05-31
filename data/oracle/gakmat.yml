@@ -1,0 +1,24 @@
+card_name: Gakmat
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 1
+
+text: Elusive x , → Gakmat deals X fire damage to target ally and itself.
+
+class:
+  - Warlock
+
+cost: '1'
+
+combat: Fire
+
+temp: Imp Demon

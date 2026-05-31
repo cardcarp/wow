@@ -1,0 +1,23 @@
+card_name: Zanrix Steelboot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: 3 , Exhaust an equipment you control → Exhaust target ally.
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Goblin Warrior

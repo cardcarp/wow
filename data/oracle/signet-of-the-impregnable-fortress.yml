@@ -1,0 +1,21 @@
+card_name: Signet of the Impregnable Fortress
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Heroes and allies you control have Protector . Each opposing hero and ally has -2 ATK on its controller's turn.
+
+class:
+  - Druid
+  - Warrior
+  - Death Knight
+  - Paladin
+
+cost: '5'
+
+temp: Item Ring

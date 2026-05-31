@@ -1,0 +1,23 @@
+card_name: Josiah King
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: 5 , Destroy this ally → This ally deals 3 arcane damage to target hero or ally.
+
+cost: '1'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Human Mage

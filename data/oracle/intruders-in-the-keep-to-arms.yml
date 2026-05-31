@@ -1,0 +1,15 @@
+card_name: _Intruders in the Keep! To Arms!_
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Reveal the top two cards of the Dungeon deck. Put each revealed ally into play and the rest on the bottom of the Dungeon deck.
+
+temp: ''
+
+type: Dungeon

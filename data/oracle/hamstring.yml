@@ -1,0 +1,18 @@
+card_name: Hamstring
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Attach to target ally in combat with your hero. Ongoing : Attached ally can't ready during its controller's ready step."
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Arms

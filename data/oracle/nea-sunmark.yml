@@ -1,0 +1,23 @@
+card_name: Nea Sunmark
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Ferocity Arcane Torrent
+
+cost: '4'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Priest

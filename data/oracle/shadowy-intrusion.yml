@@ -1,0 +1,17 @@
+card_name: Shadowy Intrusion
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: 'The raid leader chooses one: He discards three cards; or each raider discards a card.'
+
+temp: ''
+
+type: Raid
+
+stage: 17

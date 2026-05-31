@@ -1,0 +1,17 @@
+card_name: Magtheridon's Lair
+
+layout: standard
+
+regulation:
+
+category: Misc
+
+errata: []
+
+text: When Magtheridon's Lair flips to this side, put 2 damage on each hero and ally with an attached Cube, then detach all Cubes. At the end of your turn, flip Magtheridon's Lair.
+
+temp: ''
+
+transform:
+  - id: ability
+    text: At the start of your turn, if one or more Cubes are unattached, Magtheridon deals 10 fire damage to each opposing hero or ally. At the end of your turn, flip Magtheridon's Lair.

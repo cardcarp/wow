@@ -1,0 +1,23 @@
+card_name: Trogun Smith
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: At the start of your turn, you may exhaust target armor.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Paladin

@@ -1,0 +1,20 @@
+card_name: Durotans Battle Harness
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, you may add a +1 counter to this armor.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '4'
+
+temp: Armor Plate

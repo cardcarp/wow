@@ -1,0 +1,18 @@
+card_name: Ice Prison
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target opposing ally. Draw a card. Ongoing : Attached ally can't ready."
+
+class:
+  - Mage
+
+cost: '5'
+
+temp: Frost Attachment

@@ -1,0 +1,18 @@
+card_name: Feral Rage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When your hero is dealt combat damage while in bear form, you may pay 1 . If you do, draw a card.'
+
+class:
+  - Druid
+
+cost: '5'
+
+temp: Feral

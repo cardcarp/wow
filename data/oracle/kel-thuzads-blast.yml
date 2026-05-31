@@ -1,0 +1,17 @@
+card_name: Kel_Thuzads Blast
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: "Ongoing : At the end of your turn, Kel'Thuzad deals 5 frost damage to a random raiding hero, and then attach Frost Blast to it."
+
+temp: ''
+
+type: Raid
+
+stage: 1

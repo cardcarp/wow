@@ -1,0 +1,18 @@
+card_name: Brain Lock
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Brain Lock enters play with two frost counters. If an opponent would draw a card, he skips drawing that card and you remove a frost counter instead. If none remain, destroy Brain Lock.'
+
+class:
+  - Mage
+
+cost: '4'
+
+temp: Frost

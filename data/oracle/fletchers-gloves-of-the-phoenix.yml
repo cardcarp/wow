@@ -1,0 +1,19 @@
+card_name: Fletchers Gloves of the Phoenix
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You can play Fletcher's Gloves of the Phoenix from your graveyard. → Target ally has Long-Range and Fire Resistance this turn.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '3'
+
+temp: Armor Mail

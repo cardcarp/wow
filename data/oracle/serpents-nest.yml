@@ -1,0 +1,18 @@
+card_name: Serpents Nest
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Ongoing : When an ability, ally, or equipment enters play under an opponent's control on his turn, you may put a 1 / 1 snake ally token into play."
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Survival

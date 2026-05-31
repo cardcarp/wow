@@ -1,0 +1,23 @@
+card_name: Thane Kurdran Wildhammer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 7
+
+text: Protector When Kurdran enters play, put a 0 / 1 Egg ally token into play. At the start of your turn, target Egg ally you control becomes a 6 / 6 Gryphon Beast Monster ally named Sky'ree with Sky'ree (1).
+
+cost: '6'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Dwarf Warrior

@@ -1,0 +1,18 @@
+card_name: Concussive Barrage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Marksmanship Talent Your hero deals 2 ranged damage to target hero or ally. That damage is doubled for each other card named Concussive Barrage in your graveyard.
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Marksmanship

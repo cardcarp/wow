@@ -1,0 +1,23 @@
+card_name: Sister of Seduction
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally is destroyed, Portal .
+
+cost: '3'
+
+combat: Shadow
+
+temp: Succubus Demon
+
+type: Monster

@@ -1,0 +1,23 @@
+card_name: Sinister Watcher
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: When this ally enters play, look at the top three cards of your deck and put them back in any order.
+
+cost: '2'
+
+combat: Shadow
+
+temp: Floating Eye Demon
+
+type: Monster

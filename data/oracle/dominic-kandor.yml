@@ -1,0 +1,23 @@
+card_name: Dominic Kandor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When this ally enters play, target ally has -2 ATK this turn. Protector
+
+cost: '4'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Worgen Death Knight

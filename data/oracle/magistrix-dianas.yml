@@ -1,0 +1,21 @@
+card_name: Magistrix Dianas
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: Scryer Reputation When Dianas enters play, look at the top card of your deck. Either draw it or put it on the bottom. If you draw it, put Dianas from play into her owner's hand.
+
+cost: '4'
+
+combat: Arcane
+
+temp: Blood Elf Mage

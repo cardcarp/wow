@@ -1,0 +1,18 @@
+card_name: Ritual of Summoning
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : On your turn: Exhaust your hero and two allies in your party → Put an ally card from your collection into play.'
+
+class:
+  - Warlock
+
+cost: '8'
+
+temp: Demonology

@@ -1,0 +1,18 @@
+card_name: Set Ablaze
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Set Ablaze enters play with X burn counters. At the start of your turn, destroy each opposing ally and weapon with cost equal to the number of burn counters, then remove a burn counter. If none remain, destroy Set Ablaze.'
+
+class:
+  - Mage
+
+cost: X
+
+temp: Fire

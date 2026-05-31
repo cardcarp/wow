@@ -1,0 +1,17 @@
+card_name: Tysandri Duskstrike
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 'On your turn: Flip Tysandri, discard a Rogue → Tysandri deals 3 melee damage to target exhausted hero or ally.'
+
+faction: Alliance
+
+temp: Night Elf Rogue

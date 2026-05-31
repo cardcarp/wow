@@ -1,0 +1,24 @@
+card_name: Furious George
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 3
+
+text: When this ally defends, reveal the top card of your deck. If it's an ability, ally, or equipment with an even cost, remove this ally from combat. Put that revealed card on the bottom of your deck. → This ally deals 3 fire damage to target hero.
+
+class:
+  - Hunter
+
+cost: '1'
+
+combat: Melee
+
+temp: Monkey Beast

@@ -1,0 +1,18 @@
+card_name: Retaliation
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : You pay 10 less to strike with Melee weapons while your hero is defending.'
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Arms

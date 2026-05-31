@@ -1,0 +1,22 @@
+card_name: Gurubashi Punisher
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You pay 6 less to strike with this weapon while you control an ally with 6 or more ATK.
+
+class:
+  - Warrior
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Shaman
+
+cost: '3'
+
+temp: 1H Weapon Mace

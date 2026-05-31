@@ -1,0 +1,23 @@
+card_name: Greatfather Winter
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: 0 → Put a card from your hand into target player's hand. Use only once per turn. (He owns that card for the rest of the game.)
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf

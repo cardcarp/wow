@@ -1,0 +1,15 @@
+card_name: Hand of Frost
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : When a Death Knight ally enters play under your control or a friendly player's control, target hero or ally has Assault 2 this turn."
+
+cost: '3'
+
+temp: ''

@@ -1,0 +1,23 @@
+card_name: Commander Molotov
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 8
+
+text: Time is Money , Destroy another ally you control → This ally deals fire damage to target hero or ally equal to that destroyed ally's cost.
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Goblin Warrior

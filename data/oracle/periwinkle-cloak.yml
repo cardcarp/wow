@@ -1,0 +1,20 @@
+card_name: Periwinkle Cloak
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn: 2 , → Choose one: Each player discards a card; or each player draws a card.'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Armor Cloth

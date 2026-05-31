@@ -1,0 +1,17 @@
+card_name: Viciousness
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : 1 , → Target Worgen ally you control has Ferocity this turn.'
+
+cost: '2'
+
+faction: Alliance
+
+temp: ''

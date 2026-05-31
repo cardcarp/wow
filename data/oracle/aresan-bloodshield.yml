@@ -1,0 +1,23 @@
+card_name: Aresan Bloodshield
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Protector Attacking heroes have -2 ATK while in combat with this ally.
+
+cost: '4'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Paladin

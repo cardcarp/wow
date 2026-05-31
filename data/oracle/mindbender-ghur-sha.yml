@@ -1,0 +1,23 @@
+card_name: Mindbender Ghursha
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 8
+
+text: While you control one or more other Monster heroes and/or allies, Ghur'sha has Ferocity . While you control two or more other Monster heroes and/or allies, Ghur'sha has Assault 4 . While you control three or more other Monster heroes and/or allies, Ghur'sha has Invincible .
+
+cost: '7'
+
+combat: Melee
+
+temp: Merciless One
+
+type: Monster

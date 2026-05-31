@@ -1,0 +1,18 @@
+card_name: Spark of Rage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the start of your turn, destroy this ability. If you do, allies you control have +3 ATK and Smash this turn. (This also affects allies that enter play later this turn.)'
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Enhancement

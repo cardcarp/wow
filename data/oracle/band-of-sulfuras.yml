@@ -1,0 +1,23 @@
+card_name: Band of Sulfuras
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If a friendly hero or ally would deal damage to an Elemental, it deals that much damage +1 instead.
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item Ring

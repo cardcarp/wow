@@ -1,0 +1,24 @@
+card_name: Sarmoth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: Opposing heroes and allies can attack only this ally if able.
+
+class:
+  - Warlock
+
+cost: '3'
+
+combat: Shadow
+
+temp: Voidwalker Demon

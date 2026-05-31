@@ -1,0 +1,18 @@
+card_name: Monstrous Frostbolt Volley
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target Monster hero or ally you control deals frost damage equal to its ATK to each opposing hero and ally.
+
+class:
+  - Mage
+
+cost: '3'
+
+temp: Frost

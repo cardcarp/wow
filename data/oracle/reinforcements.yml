@@ -1,0 +1,15 @@
+card_name: Reinforcements
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Put ten 1 / 1 Scarlet Trainee ally tokens into play with Ferocity . Ongoing : Raiding cards have " → Destroy target Scarlet Trainee." When a Scarlet Trainee is destroyed, if none remain, destroy this ability.'
+
+temp: ''
+
+type: Dungeon

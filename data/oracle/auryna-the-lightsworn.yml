@@ -1,0 +1,17 @@
+card_name: Auryna the Lightsworn
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 'If you control another Paladin: Flip Auryna → Auryna deals 2 unpreventable holy damage to each opposing hero and ally that dealt damage this turn.'
+
+faction: Alliance
+
+temp: Draenei Paladin

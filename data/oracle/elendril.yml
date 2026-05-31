@@ -1,0 +1,17 @@
+card_name: Elendril
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 1 , Flip Elendril → Your Ranged weapons have +3 ATK this turn.
+
+faction: Alliance
+
+temp: Night Elf Hunter

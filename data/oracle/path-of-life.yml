@@ -1,0 +1,18 @@
+card_name: Path of Life
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put target ally from a graveyard into its owner's resource row face down and exhausted.
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Restoration

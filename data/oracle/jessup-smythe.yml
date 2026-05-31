@@ -1,0 +1,23 @@
+card_name: Jessup Smythe
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When Jessup readies, you may remove an ally card in your graveyard from the game. If you do, destroy target ally.
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Undead Rogue

@@ -1,0 +1,23 @@
+card_name: Idra_kess Mistress
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: When this ally attacks, she deals 1 frost damage to each and hero and ally.
+
+cost: '3'
+
+combat: Frost
+
+temp: Naga Mage
+
+type: Monster

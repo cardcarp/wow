@@ -1,0 +1,23 @@
+card_name: Muruna the Savage
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: Protector Allies you control have +2 while you control a Form.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Druid

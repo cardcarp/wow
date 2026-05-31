@@ -1,0 +1,18 @@
+card_name: Smash
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Destroy target equipment. If you do, your hero deals melee damage to its controller's hero equal to its cost.
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Fury

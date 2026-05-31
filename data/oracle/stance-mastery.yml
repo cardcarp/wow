@@ -1,0 +1,18 @@
+card_name: Stance Mastery
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : → Your hero has +1 ATK this combat.'
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Protection

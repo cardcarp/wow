@@ -1,0 +1,17 @@
+card_name: Kaerie, Defender of the Sunwell
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 'If you control another Paladin: Flip Kaerie → Kaerie deals 3 unpreventable holy damage to target ally that dealt damage this turn.'
+
+faction: Horde
+
+temp: Blood Elf Paladin

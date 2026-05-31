@@ -1,0 +1,15 @@
+card_name: Imposing Presence
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Put the top X cards of the event deck into your resource row face down, where X is the current stage.
+
+temp: ''
+
+type: Raid

@@ -1,0 +1,23 @@
+card_name: Dwarf Demolitionist
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When this ally deals combat damage to a defending hero, you may destroy this ally. If you do, it deals 7 fire damage to that hero.
+
+cost: '3'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Dwarf Demolitionist

@@ -1,0 +1,22 @@
+card_name: Argent Crusader
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, you and target opponent each draw a card.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: 2H Weapon Staff

@@ -1,0 +1,21 @@
+card_name: Mine Bunny
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When this ally enters play, each Raider discards a random card.
+
+combat: Melee
+
+temp: Goblin Waitress
+
+type: Dungeon

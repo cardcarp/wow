@@ -1,0 +1,23 @@
+card_name: Ahkara
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When Ahkara enters play, put a Ghoul ally token into play with 3 ATK / 3 health.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Death Knight

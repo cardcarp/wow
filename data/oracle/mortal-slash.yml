@@ -1,0 +1,18 @@
+card_name: Mortal Slash
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero or ally. Ongoing : Attached character can't be healed. At the start of your turn, your hero deals 1 melee damage to attached character."
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Arms

@@ -1,0 +1,23 @@
+card_name: Michael Garrett, Bat Handler
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When Michael enters play, reveal the top four cards of your deck. Put a revealed location card into hand and the rest on the bottom of your deck. Michael has +1 ATK / +1 health while you have a location.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Flight Master

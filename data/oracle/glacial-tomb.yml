@@ -1,0 +1,18 @@
+card_name: Glacial Tomb
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target ally. Ongoing : Attached ally can't attack or exhaust."
+
+class:
+  - Mage
+
+cost: '1'
+
+temp: Frost

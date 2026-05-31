@@ -1,0 +1,18 @@
+card_name: Invigorating Touch
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero heals 6 damage from target hero.
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Restoration

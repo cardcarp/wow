@@ -1,0 +1,23 @@
+card_name: Nathar Wilderson
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Protector Aberration
+
+cost: '1'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Worgen Druid

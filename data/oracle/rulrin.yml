@@ -1,0 +1,24 @@
+card_name: Rulrin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 1
+
+text: Elusive Untargetable
+
+class:
+  - Warlock
+
+cost: '0'
+
+combat: Fire
+
+temp: Imp Demon

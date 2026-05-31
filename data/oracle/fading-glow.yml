@@ -1,0 +1,20 @@
+card_name: Fading Glow
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When combat damage is dealt with this weapon, your hero heals 2 damage from itself.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Ranged Weapon Wand

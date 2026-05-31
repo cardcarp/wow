@@ -1,0 +1,20 @@
+card_name: Observers Shield
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Observer's Shield enters play exhausted.
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+cost: '2'
+
+temp: Armor Shield

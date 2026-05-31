@@ -1,0 +1,18 @@
+card_name: Intimidation
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Beast Mastery Hero Required Ongoing : Each opposing hero and ally can't ready during its controller's ready step while you have a Pet."
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Beast Mastery Talent

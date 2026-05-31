@@ -1,0 +1,23 @@
+card_name: Ryno the Short
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When Ryno enters play, put a Felhunter Demon ally token into play with 1 ATK / 1 health. 1 , Destroy a Demon in your party → Interrupt target ability card.
+
+cost: '4'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Gnome Warlock

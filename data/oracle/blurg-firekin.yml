@@ -1,0 +1,23 @@
+card_name: Blurg Firekin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play, put target ally from your graveyard into your hand. If you put an Orc into your hand this way, this ally has Ferocity this turn.
+
+cost: '5'
+
+combat: Fire
+
+faction: Horde
+
+temp: Orc Shaman

@@ -1,0 +1,18 @@
+card_name: Prayer of Spirit
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : → Ready a resource you control for each ally you control.'
+
+class:
+  - Priest
+
+cost: '4'
+
+temp: Discipline

@@ -1,0 +1,23 @@
+card_name: Kallas Sunflame
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 5
+
+text: 1 → Other allies in your party have +1 ATK this turn.
+
+cost: '6'
+
+combat: Fire
+
+faction: Horde
+
+temp: Blood Elf Mage

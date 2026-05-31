@@ -1,0 +1,21 @@
+card_name: Azaloth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 50
+
+health: 50
+
+text: When Azaloth enters play, choose an opponent. That opponent puts five Warlock ally tokens with 0 ATK / 5 health into play. Azaloth can't attack while any of those tokens are in play.
+
+cost: '12'
+
+combat: Melee
+
+temp: Pit Lord Demon

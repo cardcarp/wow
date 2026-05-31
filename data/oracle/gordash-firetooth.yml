@@ -1,0 +1,21 @@
+card_name: Gordash Firetooth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 9
+
+health: 1
+
+cost: '5'
+
+combat: Fire
+
+faction: Horde
+
+temp: Orc Mage

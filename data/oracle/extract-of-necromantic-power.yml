@@ -1,0 +1,19 @@
+card_name: Extract of Necromantic Power
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'As each turn starts, Hero : Prevent the next 3 melee ( ) damage that would be dealt to your hero this turn. Hero : Prevent the next 3 non-melee damage that would be dealt to your hero this turn.'
+
+class:
+  - Death Knight
+  - Warlock
+
+cost: '1'
+
+temp: Item Trinket

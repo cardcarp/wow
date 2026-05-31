@@ -1,0 +1,21 @@
+card_name: Azjol-anak Skirmisher
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Nerubian Reputation At the start of your turn, discard a card.
+
+cost: '1'
+
+combat: Melee
+
+temp: Nerubian

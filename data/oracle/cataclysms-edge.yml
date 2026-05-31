@@ -1,0 +1,20 @@
+card_name: Cataclysms Edge
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this weapon enters play, each player chooses one ability, weapon, armor and item he controls, then destroys the rest.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '6'
+
+temp: 2H Weapon Sword

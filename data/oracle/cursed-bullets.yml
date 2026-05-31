@@ -1,0 +1,15 @@
+card_name: Cursed Bullets
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Godfrey deals 5 shadow damage to each Raiding hero. Level 3+ : Then, Godfrey heals damage from himself equal to the damage dealt this way.'
+
+temp: ''
+
+type: Dungeon

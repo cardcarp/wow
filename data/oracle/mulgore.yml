@@ -1,0 +1,15 @@
+card_name: Mulgore
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: 'Tribe : When a Tauren ally enters play under your control, add a spirit counter to this location. , Remove three spirit counters from this location → Tauren allies in your hand are this turn until you play a Tauren ally.'
+
+faction: Horde
+
+temp: ''

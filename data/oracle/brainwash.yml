@@ -1,0 +1,18 @@
+card_name: Brainwash
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Gain control of target attacking ally.
+
+class:
+  - Priest
+
+cost: '5'
+
+temp: Shadow

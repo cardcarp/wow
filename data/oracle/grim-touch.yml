@@ -1,0 +1,18 @@
+card_name: Grim Touch
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally you control. Ongoing : Attached ally has Assault 1 for each card in opposing graveyards. When attached ally attacks, target opponent puts the top three cards of his deck into his graveyard.'
+
+class:
+  - Death Knight
+
+cost: '5'
+
+temp: Frost Attachment

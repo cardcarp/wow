@@ -1,0 +1,23 @@
+card_name: Zuur
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When this ally enters play, you may put target card from your graveyard into your hand.
+
+cost: '4'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

@@ -1,0 +1,18 @@
+card_name: Clutch Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target ally has +2 ATK this turn. A second target ally has -2 ATK this turn.
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Marksmanship

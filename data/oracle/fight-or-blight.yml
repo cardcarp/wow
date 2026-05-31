@@ -1,0 +1,18 @@
+card_name: Fight or Blight
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Choose one: Target hero has Stealth this turn; or attach to target hero or ally that your hero dealt combat damage to this turn. Ongoing : At the start of your turn, your hero deals 1 nature damage to attached character.'
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Subtlety Poison

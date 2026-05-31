@@ -1,0 +1,21 @@
+card_name: Roger Ulric
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+cost: '5'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Worgen Hunter

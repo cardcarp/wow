@@ -1,0 +1,26 @@
+card_name: Onyxia Hide Backpack
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: ', Discard an equipment card → Draw a card.'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Bag

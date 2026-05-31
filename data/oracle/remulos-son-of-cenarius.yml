@@ -1,0 +1,23 @@
+card_name: Remulos, Son of Cenarius
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Harmonize When Remulos or another ally with cost 4 or more enters play under your control, you may put a 1 / 1 Treant ally token into play.
+
+cost: '4'
+
+combat: Nature
+
+temp: Keeper of the Grove Druid
+
+type: Monster

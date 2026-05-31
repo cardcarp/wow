@@ -1,0 +1,18 @@
+card_name: Inner Fire
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Inner Fire enters play with three charge counters on it. Ongoing : Prevent all damage that would be dealt to your hero. When damage is prevented this way, remove a charge counter from Inner Fire. If you removed the last one, destroy Inner Fire.'
+
+class:
+  - Priest
+
+cost: '4'
+
+temp: Discipline

@@ -1,0 +1,18 @@
+card_name: Filthy Tricks
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Cards in your graveyard are Combo cards.'
+
+class:
+  - Rogue
+
+cost: '6'
+
+temp: Assassination Combo

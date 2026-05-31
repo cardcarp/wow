@@ -1,0 +1,21 @@
+card_name: Wrathion
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: At the start of each player's turn, that player chooses and destroys a card he controls.
+
+cost: '6'
+
+combat: Shadow
+
+temp: Black Dragonkin

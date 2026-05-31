@@ -1,0 +1,21 @@
+card_name: Interrogator Vishas
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 9
+
+text: 'Boss Stealth Torture : When Vishas attacks, each opponent reveals the top card of his deck and puts it into his graveyard. Vishas has +3 ATK this turn for each different card type revealed this way.'
+
+combat: Melee
+
+temp: Human Rogue
+
+type: Dungeon

@@ -1,0 +1,18 @@
+card_name: Offering to the Nether
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the start of your turn, remove this ability from the game. If you do, you may remove target ability, ally, or equipment from the game.'
+
+class:
+  - Warlock
+
+cost: '4'
+
+temp: Destruction

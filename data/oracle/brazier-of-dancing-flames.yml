@@ -1,0 +1,27 @@
+card_name: Brazier of Dancing Flames
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 5 , → Put a 2 / 1 Fire Elemental ally token into play. When a Fire Elemental token ally you control deals combat damage to a defending hero, put a copy of that token into play exhausted.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '5'
+
+temp: Item

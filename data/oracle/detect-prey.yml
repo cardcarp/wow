@@ -1,0 +1,18 @@
+card_name: Detect Prey
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Allies you control have Long-Range while in combat with target hero or ally this turn. Stash : Your hero has Long-Range this turn.'
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Survival

@@ -1,0 +1,23 @@
+card_name: Orgrim Doomhammer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 7
+
+text: When Orgrim deals combat damage to a hero, that hero's controller chooses and destroys a card he controls for each damage dealt.
+
+cost: '8'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

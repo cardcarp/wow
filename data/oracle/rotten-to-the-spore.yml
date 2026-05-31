@@ -1,0 +1,18 @@
+card_name: Rotten to the Spore
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Exhaust any number of target allies in target opponent's party. Ongoing : Each of them can't ready during its controller's ready step."
+
+class:
+  - Druid
+
+cost: '5'
+
+temp: Balance

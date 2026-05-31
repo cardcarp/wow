@@ -1,0 +1,18 @@
+card_name: Destructive Disarm
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: You pay 2 less to play this ability if you control a weapon. Destroy target armor or weapon.
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Protection

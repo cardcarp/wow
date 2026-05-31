@@ -1,0 +1,18 @@
+card_name: Track Hidden
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the start of your turn, you may have target opponent reveal the top card of his deck. If you do, you may have him put that card on the bottom of his deck.'
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Survival

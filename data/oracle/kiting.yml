@@ -1,0 +1,15 @@
+card_name: Kiting
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Attach to target ally. Ongoing : 1 → Target hero or ally can't deal combat damage to attached ally this turn. Use only once per turn."
+
+cost: '4'
+
+temp: ''

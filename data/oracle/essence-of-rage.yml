@@ -1,0 +1,15 @@
+card_name: Essence of Rage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'You pay 1 less to play this ability for each Monster hero or ally you control. Attach to target ally. Ongoing : Attached ally has +2 / +2 and Smash .'
+
+cost: '5'
+
+temp: ''

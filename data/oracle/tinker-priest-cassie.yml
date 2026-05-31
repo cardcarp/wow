@@ -1,0 +1,17 @@
+card_name: Tinker Priest Cassie
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: "On your turn: 5 , Flip Cassie → Target opponent chooses an ability, ally, and equipment he controls. Put each of them into it's owner's hand."
+
+faction: Alliance
+
+temp: Gnome Priest

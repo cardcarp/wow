@@ -1,0 +1,23 @@
+card_name: Dannon Spellsurge
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 3
+
+text: Protector When you play an ability, Dannon has +2 ATK this turn.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Paladin

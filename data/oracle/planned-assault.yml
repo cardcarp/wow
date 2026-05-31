@@ -1,0 +1,18 @@
+card_name: Planned Assault
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: You can play target ability card from your graveyard this turn if able. If an ability card would enter your graveyard this turn, remove it from the game instead.
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Survival

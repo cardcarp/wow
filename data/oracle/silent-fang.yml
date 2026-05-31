@@ -1,0 +1,21 @@
+card_name: Silent Fang
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , Destroy Silent Fang → Interrupt target ability card.
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Rogue
+
+cost: '2'
+
+temp: 1H Weapon Sword

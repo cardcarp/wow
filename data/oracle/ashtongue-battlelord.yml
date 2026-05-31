@@ -1,0 +1,21 @@
+card_name: Ashtongue Battlelord
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: 'Traitor Hero : When Ashtongue Battlelord enters play, destroy target undamaged opposing ally. Loyal Hero : When Ashtongue Battlelord enters play, destroy all damaged opposing allies.'
+
+cost: '6'
+
+combat: Melee
+
+temp: Broken Warrior

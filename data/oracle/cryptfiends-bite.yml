@@ -1,0 +1,20 @@
+card_name: Cryptfiends Bite
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with this weapon on an opponent's turn, put two 1 / 1 Scarab ally tokens into play.
+
+class:
+  - Paladin
+  - Death Knight
+  - Hunter
+
+cost: '3'
+
+temp: 2H Weapon Polearm

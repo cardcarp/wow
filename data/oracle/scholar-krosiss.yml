@@ -1,0 +1,23 @@
+card_name: Scholar Krosiss
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Krosiss has +2 ATK / +2 health while you have seven or more cards in hand.
+
+cost: '1'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Undead Mage

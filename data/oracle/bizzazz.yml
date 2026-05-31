@@ -1,0 +1,23 @@
+card_name: Bizzazz
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play, draw a card.
+
+cost: '3'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Gnome Rogue

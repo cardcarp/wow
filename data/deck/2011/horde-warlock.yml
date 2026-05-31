@@ -1,0 +1,54 @@
+name: Horde Warlock
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Horde
+  - Starter
+  - '2011'
+
+collection: '2011'
+
+highlight: starter-2011-horde-warlock-001
+
+description: 2011 Horde Warlock Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2011 Horde Warlock
+
+total: 61
+
+list:
+  hero:
+    starter-2011-horde-warlock-001: 1  # Kalia of Silvermoon City
+  main:
+    starter-2011-horde-warlock-002: 3  # Drain Essence
+    starter-2011-horde-warlock-003: 1 # Dread Infernal
+    starter-2011-horde-warlock-004: 2 # Fear
+    starter-2011-horde-warlock-005: 2 # Fel Blaze
+    starter-2011-horde-warlock-006: 1 # Fel Flame
+    starter-2011-horde-warlock-007: 2 # Immolate
+    starter-2011-horde-warlock-008: 2 # Life Tap
+    starter-2011-horde-warlock-009: 2 # Maazhum
+    starter-2011-horde-warlock-010: 2 # Sarmoth
+    starter-2011-horde-warlock-011: 2 # Shadow Bolt
+    starter-2011-horde-warlock-012: 1 # Siphon Life
+    starter-2011-horde-warlock-013: 3 # Benethor Draigo
+    starter-2011-horde-warlock-014: 2 # Doom
+    starter-2011-horde-warlock-015: 2 # Garell Strout
+    starter-2011-horde-warlock-016: 2 # Karkas Deathhowl
+    starter-2011-horde-warlock-017: 2 # Malistra the Demonmistress
+    starter-2011-horde-warlock-018: 3 # Onnekra Bloodfang
+    starter-2011-horde-warlock-019: 2 # Tarn Darkwalker
+    starter-2011-horde-warlock-020: 2 # Tez Tez the Patchmonger
+    starter-2011-horde-warlock-021: 3 # Waz_luk
+    starter-2011-horde-warlock-022: 2 # Crimson Shocker
+    starter-2011-horde-warlock-023: 3 # A Bird in Hand
+    starter-2011-horde-warlock-024: 1 # Blueleaf Tubers
+    starter-2011-horde-warlock-025: 3 # Entrenched
+    starter-2011-horde-warlock-026: 4 # The Essence of Enmity
+    starter-2011-horde-warlock-027: 4 # The Key to Freedom
+    starter-2011-horde-warlock-028: 2 # What Illidan Wants, Illidan Gets ...

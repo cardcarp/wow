@@ -1,0 +1,26 @@
+card_name: Goblin Rocket Launcher
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Engineering Hero Required → Remove the top card of your deck from the game. Your hero deals ranged damage equal to that card's cost to target ally.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '4'
+
+temp: Item Trinket

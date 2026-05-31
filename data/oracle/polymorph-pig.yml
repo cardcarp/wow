@@ -1,0 +1,18 @@
+card_name: Polymorph_ Pig
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target opposing ally. Ongoing : Attached ally becomes 1 / 1 and is also a Pig. When attached ally is destroyed, your hero heals 3 damage from itself.'
+
+class:
+  - Mage
+
+cost: '3'
+
+temp: Arcane

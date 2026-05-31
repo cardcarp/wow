@@ -1,0 +1,23 @@
+card_name: Hur Shieldsmasher
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When Hur Shieldsmasher enters play, you may destroy target armor.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

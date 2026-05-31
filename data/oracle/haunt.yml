@@ -1,0 +1,18 @@
+card_name: Haunt
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Affliction Hero Required Attach to target hero. Ongoing : At the start of your turn, add a spirit counter, and your hero deals 2 shadow damage to attached hero. Remove all spirit counters, destroy this ability → Your hero heals damage from itself equal to the number of counters removed this way.'
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Affliction Talent

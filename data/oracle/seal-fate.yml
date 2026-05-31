@@ -1,0 +1,18 @@
+card_name: Seal Fate
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Assassination Hero Required As an additional cost to play this ability, put the top five cards of your deck into your graveyard. Your hero deals melee damage to target hero or ally equal to the number of abilities put into your graveyard this way.
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Assassination Talent

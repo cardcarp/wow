@@ -1,0 +1,23 @@
+card_name: Stormwind Recruit
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+instant: Protector
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

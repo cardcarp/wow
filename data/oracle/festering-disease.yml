@@ -1,0 +1,18 @@
+card_name: Festering Disease
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target opposing hero. Ongoing : At the start of your turn, put the top card of attached hero's controller's deck into his graveyard. If it's an ally, your hero heals 1 damage from itself."
+
+class:
+  - Death Knight
+
+cost: '1'
+
+temp: Unholy Disease Attachment

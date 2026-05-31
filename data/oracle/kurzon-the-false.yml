@@ -1,0 +1,21 @@
+card_name: Kurzon the False
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 1 , Put three allies from your party into their owner's hands → Flip Kurzon face down.
+
+faction: Alliance
+
+temp: Eredar Demon
+
+transform:
+  - id: ability
+    text: allies in your party have Elusive .

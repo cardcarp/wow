@@ -1,0 +1,18 @@
+card_name: Entangling Growth
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Attach to target opposing ally and exhaust it. Ongoing : Attached ally can't ready during its controller's ready step."
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Balance Attachment

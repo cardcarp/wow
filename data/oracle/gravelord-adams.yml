@@ -1,0 +1,23 @@
+card_name: Gravelord Adams
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: When you play this ally, you may pay 1 any number of times. Put a 3 / 3 Ghoul ally token into play for each 1 paid this way.
+
+cost: '6'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Death Knight

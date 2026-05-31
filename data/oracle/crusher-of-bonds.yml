@@ -1,0 +1,20 @@
+card_name: Crusher of Bonds
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+class:
+  - Warrior
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Shaman
+
+cost: '1'
+
+temp: 1H Weapon Mace

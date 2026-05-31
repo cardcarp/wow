@@ -1,0 +1,23 @@
+card_name: Blademistress Lyss
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Protector When an opposing hero or ally deals damage to Lyss, ready up to that many of your resources.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

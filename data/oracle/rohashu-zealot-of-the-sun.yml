@@ -1,0 +1,17 @@
+card_name: Rohashu, Zealot of the Sun
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 4 , Flip Rohashu → Rohashu deals 3 unpreventable holy damage to target hero or ally.
+
+faction: Horde
+
+temp: Tauren Paladin

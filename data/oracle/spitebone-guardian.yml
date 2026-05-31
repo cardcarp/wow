@@ -1,0 +1,21 @@
+card_name: Spitebone Guardian
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: 'When this ally enters play, he deals 2 melee damage to the MARKED hero and each ally in its party. Level 3+ : This ally deals 6 melee damage to the MARKED hero and each ally in its party instead.'
+
+combat: Melee
+
+temp: Skeleton
+
+type: Dungeon

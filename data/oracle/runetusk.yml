@@ -1,0 +1,17 @@
+card_name: Runetusk
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: 2 , Flip Runetusk → Target opponent discards a card. Use only on your turn.
+
+faction: Horde
+
+temp: Troll Priest

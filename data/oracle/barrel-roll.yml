@@ -1,0 +1,15 @@
+card_name: Barrel Roll
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Each Raider guesses whether the combined cost of the top three cards of his deck is even or odd, then puts the top three cards of his deck into his graveyard. If a Raider guessed wrong, he chooses and destroys three non-hero cards he controls, and Deathwing deals 5 fire damage to his hero. If a Raider guessed right, he draws a card. (0 is even.)
+
+temp: ''
+
+type: Boss

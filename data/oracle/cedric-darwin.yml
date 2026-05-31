@@ -1,0 +1,23 @@
+card_name: Cedric Darwin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: When this ally enters play, you may search target player's deck for a card and remove it from the game.
+
+cost: '7'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Warlock

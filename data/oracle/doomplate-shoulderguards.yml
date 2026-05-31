@@ -1,0 +1,19 @@
+card_name: Doomplate Shoulderguards
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Each of your other equipment is Untargetable while you have five or more equipment.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '2'
+
+temp: Armor Plate

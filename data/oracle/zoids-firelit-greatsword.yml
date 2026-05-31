@@ -1,0 +1,20 @@
+card_name: Zoids Firelit Greatsword
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Exhaust an ally you control → Add a charge counter to this weapon. While this weapon has six or more charge counters on it, it has +6 ATK.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '1'
+
+temp: 2H Weapon Sword

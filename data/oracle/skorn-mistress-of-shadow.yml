@@ -1,0 +1,23 @@
+card_name: Skorn, Mistress of Shadow
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When an ally is dealt damage, Skorn deals that amount of shadow damage to target hero in that ally's party.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Warlock

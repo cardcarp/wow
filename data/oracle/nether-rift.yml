@@ -1,0 +1,18 @@
+card_name: Nether Rift
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Search your deck for a Felhunter, Imp, Succubus, and Voidwalker ally and reveal them. If you revealed four cards this way, put them into your hand. Otherwise, shuffle them into your deck.
+
+class:
+  - Warlock
+
+cost: '4'
+
+temp: Demonology

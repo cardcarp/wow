@@ -1,0 +1,21 @@
+card_name: Pathaleon the Calculator
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 5
+
+text: Traitor Hero Required 2 , Remove Pathaleon from the game → Put any number of cards from your hand on the bottom of your deck, then draw that many cards. You can use this power if Pathaleon is in your hand or party.
+
+cost: '6'
+
+combat: Ranged
+
+temp: Blood Elf Mage Traitor

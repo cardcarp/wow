@@ -1,0 +1,18 @@
+card_name: Boundless Wild
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Eternal For each resource you control, put a 1 / 1 Treant ally token into play.
+
+class:
+  - Druid
+
+cost: '6'
+
+temp: Balance

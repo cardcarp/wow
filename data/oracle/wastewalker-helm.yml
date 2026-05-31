@@ -1,0 +1,19 @@
+card_name: Wastewalker Helm
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals damage to an exhausted ally, destroy it.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '2'
+
+temp: Armor Leather

@@ -1,0 +1,18 @@
+card_name: Flare
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Opposing heroes and allies lose and can't have Elusive , Stealth , and Untargetable this turn.
+
+class:
+  - Hunter
+
+cost: '0'
+
+temp: Marksmanship

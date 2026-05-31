@@ -1,0 +1,23 @@
+card_name: Winston Duskhaven
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: Shadow Resistance 2 , Discard a card → Target hero or ally has Shadow Resistance this turn.
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Rogue

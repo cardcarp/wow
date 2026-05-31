@@ -1,0 +1,15 @@
+card_name: For the Horde!
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'Pay 1 to complete this quest. Reward : Horde allies in your party have +1 ATK while attacking this turn.'
+
+faction: Horde
+
+temp: ''

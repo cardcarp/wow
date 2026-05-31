@@ -1,0 +1,18 @@
+card_name: Tactical Mastery
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Opposing heroes and allies must attack this turn if able. When an opponent proposes a combat this turn, you may change the proposed defender. (It must be a legal choice for the attacker.)
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Protection

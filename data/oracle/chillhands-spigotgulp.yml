@@ -1,0 +1,23 @@
+card_name: _Chillhands_ Spigotgulp
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: If you would draw a card, you may skip drawing it instead. When you skip drawing a card this way, target ally can't attack this turn.
+
+cost: '6'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Gnome Mage

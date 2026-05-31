@@ -1,0 +1,15 @@
+card_name: The Windlords Gift
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When this ability enters play, put a 2 / 1 Air Elemental ally token into play. 1 , Destroy this ability → Target ally has Untargetable this turn.'
+
+cost: '3'
+
+temp: ''

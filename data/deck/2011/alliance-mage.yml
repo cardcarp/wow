@@ -1,0 +1,54 @@
+name: Alliance Mage
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Alliance
+  - Starter
+  - '2011'
+
+collection: '2011'
+
+highlight: starter-2011-alliance-mage-001
+
+description: 2011 Alliance Mage Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2011 Alliance Mage
+
+total: 61
+
+list:
+  hero:
+    starter-2011-alliance-mage-001: 1  # Rumi of Gnomeregan
+  main:
+    starter-2011-alliance-mage-002: 1  # Arcane Barrage
+    starter-2011-alliance-mage-003: 2 # Cold Front
+    starter-2011-alliance-mage-004: 1 # Counterspell
+    starter-2011-alliance-mage-005: 3 # Fire Blast
+    starter-2011-alliance-mage-006: 2 # Fireball
+    starter-2011-alliance-mage-007: 2 # Frostbolt
+    starter-2011-alliance-mage-008: 2 # Ice Lance
+    starter-2011-alliance-mage-009: 2 # Mana Agate
+    starter-2011-alliance-mage-010: 2 # Polymorph
+    starter-2011-alliance-mage-011: 2 # Scorch
+    starter-2011-alliance-mage-012: 2 # Adrienne the Inspiring
+    starter-2011-alliance-mage-013: 2 # Axar
+    starter-2011-alliance-mage-014: 4 # Cerwyn
+    starter-2011-alliance-mage-015: 2 # Dominic Kandor
+    starter-2011-alliance-mage-016: 1 # Gabble
+    starter-2011-alliance-mage-017: 2 # Jarrod Gravon
+    starter-2011-alliance-mage-018: 3 # Josiah King
+    starter-2011-alliance-mage-019: 2 # Kirjen Fizzgar
+    starter-2011-alliance-mage-020: 3 # Laenthor Shademoon
+    starter-2011-alliance-mage-021: 2 # Trixie Boltclunker
+    starter-2011-alliance-mage-022: 1 # Lordbane Scepter
+    starter-2011-alliance-mage-023: 2 # A Bird in Hand
+    starter-2011-alliance-mage-024: 1 # Blueleaf Tubers
+    starter-2011-alliance-mage-025: 3 # Entrenched
+    starter-2011-alliance-mage-026: 4 # The Essence of Enmity
+    starter-2011-alliance-mage-027: 4 # The Key to Freedom
+    starter-2011-alliance-mage-028: 3 # Mystery Goo

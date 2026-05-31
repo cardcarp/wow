@@ -1,0 +1,23 @@
+card_name: Elder Huntsman Swiftshot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Long-Range When Swiftshot or another ally enters your party, it may deal 1 ranged damage to target hero or ally.
+
+cost: '4'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Tauren Hunter

@@ -1,0 +1,23 @@
+card_name: Jadefire Soulstealer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: "When this ally enters play, an opponent chooses one: You draw two cards; or this ally deals 5 shadow damage to that opponent's hero and heals 5 damage from your hero."
+
+cost: '6'
+
+combat: Shadow
+
+temp: Satyr Demon Warlock
+
+type: Monster

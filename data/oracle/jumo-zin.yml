@@ -1,0 +1,21 @@
+card_name: Jumo_zin
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 4 → Flip Jumo'zin
+
+faction: Horde
+
+temp: Troll Druid
+
+transform:
+  - id: ability
+    text: When Jumo'zin is dealt combat damage while defending, he deals 1 nature damage to the source of that damage.

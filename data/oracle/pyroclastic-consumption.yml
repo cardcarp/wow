@@ -1,0 +1,18 @@
+card_name: Pyroclastic Consumption
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target hero. Ongoing : When attached hero is dealt fire or damage, put an inferno counter on Pyroclastic Consumption. At the start of your turn, your hero deals 1 fire damage to attached hero for each inferno counter.'
+
+class:
+  - Mage
+
+cost: '5'
+
+temp: Fire Attachment

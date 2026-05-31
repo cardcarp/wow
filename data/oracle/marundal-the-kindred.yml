@@ -1,0 +1,23 @@
+card_name: Marundal the Kindred
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Each ally has ATK and equal to its cost, and can't gain or lose ATK or .
+
+cost: '4'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Night Elf Druid

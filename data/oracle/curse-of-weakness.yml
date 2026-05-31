@@ -1,0 +1,18 @@
+card_name: Curse of Weakness
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero or ally. Ongoing : At the start of attached character's controller's turn, exhaust it unless he pays 4 ."
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Affliction Curse

@@ -1,0 +1,23 @@
+card_name: Sus_vayin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Sus'vayin has Ferocity and Long-Range while more allies are in an opponent's party than in yours.
+
+cost: '3'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Troll Mage

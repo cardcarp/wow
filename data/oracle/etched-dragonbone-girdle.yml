@@ -1,0 +1,20 @@
+card_name: Etched Dragonbone Girdle
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: ', Destroy a Dragonkin you control → Draw two cards.'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '2'
+
+temp: Armor Plate

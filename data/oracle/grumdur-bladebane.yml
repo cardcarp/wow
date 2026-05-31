@@ -1,0 +1,23 @@
+card_name: Grumdur Bladebane
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Protector Each opposing ally has -1 ATK on its controller's turn.
+
+cost: '1'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Dwarf Death Knight

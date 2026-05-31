@@ -1,0 +1,18 @@
+card_name: Bestial Swiftness
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Beast Mastery Hero Required Ongoing : → Target Pet has Ferocity this turn.'
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Beast Mastery Talent

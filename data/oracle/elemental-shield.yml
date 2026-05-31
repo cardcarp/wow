@@ -1,0 +1,18 @@
+card_name: Elemental Shield
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : This ability enters play with three water counters. → Ready a resource you control for each water counter, then remove a water counter. If none remain, destroy this ability.'
+
+class:
+  - Shaman
+
+cost: '4'
+
+temp: Restoration

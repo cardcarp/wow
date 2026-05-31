@@ -1,0 +1,17 @@
+card_name: Lunira Swiftbreath
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: Flip Lunira, discard a Druid → You pay 1 less to play your next ally this turn.
+
+faction: Alliance
+
+temp: Night Elf Druid

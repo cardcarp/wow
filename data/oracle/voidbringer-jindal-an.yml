@@ -1,0 +1,17 @@
+card_name: Voidbringer Jindal_an
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: x , Flip Jindal'an → Reveal the top X cards of your deck. Put a revealed Demon into your hand and the rest on the bottom of your deck.
+
+faction: Horde
+
+temp: Troll Warlock

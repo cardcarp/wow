@@ -1,0 +1,23 @@
+card_name: Ravenous Furbolg
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally attacks, target player puts the top card of his deck into his graveyard.
+
+cost: '2'
+
+combat: Melee
+
+temp: Furbolg Hunter
+
+type: Monster

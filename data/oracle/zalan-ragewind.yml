@@ -1,0 +1,23 @@
+card_name: Zalan Ragewind
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Protector When an opponent's hero readies, you may pay 1 . If you do, destroy target ability or equipment that opponent controls.
+
+cost: '4'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Tauren Druid

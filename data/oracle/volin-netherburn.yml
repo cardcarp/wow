@@ -1,0 +1,23 @@
+card_name: Volin Netherburn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: When you play an ability, Volin deals 2 shadow damage to target hero or ally and 2 shadow damage to himself.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Blood Elf Warlock

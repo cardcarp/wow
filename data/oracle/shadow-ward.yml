@@ -1,0 +1,18 @@
+card_name: Shadow Ward
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero has Shadow Resistance this turn. When damage that an opposing hero or ally would deal is prevented this way, your hero may deal that much shadow damage to target hero or ally.
+
+class:
+  - Warlock
+
+cost: '1'
+
+temp: Demonology

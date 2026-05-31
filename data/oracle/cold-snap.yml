@@ -1,0 +1,18 @@
+card_name: Cold Snap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Frost Hero Required Remove Cold Snap from the game. Put up to X Frost ability cards with different names from your graveyard into your hand.
+
+class:
+  - Mage
+
+cost: 2+X
+
+temp: Frost Talent

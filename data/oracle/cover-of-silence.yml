@@ -1,0 +1,19 @@
+card_name: Cover of Silence
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has Stealth . Opponents can't play cards on your turn.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '2'
+
+temp: Armor Leather

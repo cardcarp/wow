@@ -1,0 +1,21 @@
+card_name: Illidari Archon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Traitor Hero Required When Illidari Archon attacks, you may ready one of your resources.
+
+cost: '3'
+
+combat: Shadow
+
+temp: Blood Elf Priest Traitor

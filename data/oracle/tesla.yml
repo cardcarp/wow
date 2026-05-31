@@ -1,0 +1,24 @@
+card_name: Tesla
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Assault 2 Ferocity
+
+class:
+  - Hunter
+
+cost: '4'
+
+combat: Nature
+
+temp: Wind Serpent

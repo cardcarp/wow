@@ -1,0 +1,18 @@
+card_name: Life Arc
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero heals all damage from target friendly ally, then deals that much nature damage to target opposing ally.
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Elemental

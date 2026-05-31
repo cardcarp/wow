@@ -1,0 +1,23 @@
+card_name: Razor Hill Assassin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: When this ally enters play, target ally you control has Assault 2 and Stealth this turn.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Rogue

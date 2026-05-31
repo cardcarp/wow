@@ -1,0 +1,18 @@
+card_name: Spark
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: This turn, your hero has "Exhaust a card in play you control → This hero deals 1 fire damage to target hero or ally."
+
+class:
+  - Shaman
+
+cost: '4'
+
+temp: Elemental

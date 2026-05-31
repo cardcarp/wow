@@ -1,0 +1,23 @@
+card_name: Great-father Winter
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: 0 → Target player gains control of target ability, ally, or equipment you control. Use only once per turn.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc

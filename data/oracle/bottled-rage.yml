@@ -1,0 +1,27 @@
+card_name: Bottled Rage
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'When this item enters play, your hero and allies you control have +1 ATK this turn. On your turn: Exhaust a warrior hero or ally you control and destroy this item → Your hero and allies you control have +1 ATK this turn.'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Potion

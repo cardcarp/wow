@@ -1,0 +1,23 @@
+card_name: Thespius Bloodblaze
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Elusive
+
+cost: '2'
+
+combat: Fire
+
+faction: Horde
+
+temp: Blood Elf Mage

@@ -1,0 +1,17 @@
+card_name: Lanthus the Restorer
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 2 , Flip Lanthus → Exhaust target ally.
+
+faction: Alliance
+
+temp: Night Elf Druid

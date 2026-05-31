@@ -1,0 +1,21 @@
+card_name: Cloak of Flames
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals damage to an opposing hero, it may deal 1 fire damage to target ally.
+
+class:
+  - Warlock
+  - Shaman
+  - Hunter
+  - Mage
+
+cost: '4'
+
+temp: Armor Cloth

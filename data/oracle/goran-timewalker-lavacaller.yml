@@ -1,0 +1,23 @@
+card_name: Goran, Timewalker Lavacaller
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: When this ally enters play and when he is revealed from your deck, you may destroy target ability.
+
+cost: '4'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Dwarf Shaman

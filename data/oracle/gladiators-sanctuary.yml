@@ -1,0 +1,18 @@
+card_name: Gladiators Sanctuary
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you place a resource, you may put the top card of your deck into your resource row face down and ready. → Attach a Balance ability token with three wind counters to target hero or ally. That ability has "Attached character can't attack or protect. At the start of your turn, remove a wind counter. If none remain, destroy this ability."
+
+class:
+  - Druid
+
+cost: '8'
+
+temp: Arena Armor Set Leather

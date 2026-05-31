@@ -1,0 +1,21 @@
+card_name: Muln Earthfury
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: Harmonize , Protector When Muln enters play, reveal cards from the top of your deck equal to the number of cards with Harmonize you control. Put all revealed allies with cost 4 or more into your hand and the rest on the bottom of your deck.
+
+cost: '5'
+
+combat: Nature
+
+temp: Tauren Shaman

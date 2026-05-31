@@ -1,0 +1,54 @@
+name: Elderlimb
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Champion
+  - Starter
+
+collection: champion
+
+highlight: elderlimb-001
+
+description: Elderlimb Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the Elderlimb
+
+total: 61
+
+list:
+  hero:
+    elderlimb-001: 1  # Elderlimb
+  main:
+    elderlimb-002: 2  # Entangling Roots
+    elderlimb-003: 2 # Face of Fear
+    elderlimb-004: 2 # Friends in High Places
+    elderlimb-005: 1 # Innervate
+    elderlimb-006: 2 # Mark of Goldrinn
+    elderlimb-007: 3 # Moonshard
+    elderlimb-008: 1 # Natures Reach
+    elderlimb-009: 2 # Stalwart Bear Form
+    elderlimb-010: 3 # Verdant Boon
+    elderlimb-011: 3 # Ashroot, Ancient of Lore
+    elderlimb-012: 2 # Deathsmasher Mogdar
+    elderlimb-013: 2 # Gilblin Bully
+    elderlimb-014: 1 # Gilblin Plunderer
+    elderlimb-015: 2 # Jadefire Felsworn
+    elderlimb-016: 2 # Jadefire Hellcaller
+    elderlimb-017: 2 # Jadefire Satyr
+    elderlimb-018: 2 # Jadefire Scout
+    elderlimb-019: 4 # Jadefire Trickster
+    elderlimb-020: 2 # Naz_jar Myrmidon
+    elderlimb-021: 3 # Neferset Darkcaster
+    elderlimb-022: 3 # Stonebranch, Ancient of War
+    elderlimb-023: 1 # Bloodbanes Fall
+    elderlimb-024: 1 # Branch of Nordrassil
+    elderlimb-025: 1 # Blueleaf Tubers
+    elderlimb-026: 2 # Entrenched
+    elderlimb-027: 3 # The Key to Freedom
+    elderlimb-028: 3 # The Last Living Lorekeeper
+    elderlimb-029: 3 # The Maw of Iso_rath

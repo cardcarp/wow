@@ -1,0 +1,23 @@
+card_name: Lord Grayson Shadowbreaker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 7
+
+text: Protector When Lord Grayson Shadowbreaker becomes exhausted, he heals 2 damage from target hero or ally.
+
+cost: '7'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

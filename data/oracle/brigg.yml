@@ -1,0 +1,23 @@
+card_name: Brigg
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: When this ally deals combat damage to a damaged ally, destroy that ally.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

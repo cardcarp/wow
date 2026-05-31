@@ -1,0 +1,18 @@
+card_name: Undaunted Defense
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Your hero has Protector . Prevent all combat damage that would be dealt to your hero while protecting.'
+
+class:
+  - Paladin
+
+cost: '6'
+
+temp: Protection

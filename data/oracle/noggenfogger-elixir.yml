@@ -1,0 +1,26 @@
+card_name: Noggenfogger Elixir
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: "Destroy Noggenfogger Elixir → Choose an ally in your party and roll a die. 1-2: That ally can't be destroyed this turn. 3-4: Ready that ally. 5-6: That ally can't be attacked this turn."
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Potion

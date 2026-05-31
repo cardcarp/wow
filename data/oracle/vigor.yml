@@ -1,0 +1,18 @@
+card_name: Vigor
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Assassination Hero Required Put Vigor into your resource row face down and ready.
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Assassination Talent

@@ -1,0 +1,23 @@
+card_name: Tauren Wildmender
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When this ally enters play, she heals 3 damage from your hero.
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

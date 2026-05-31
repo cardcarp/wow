@@ -1,0 +1,18 @@
+card_name: Lightning Overload
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Elemental Hero Required Ongoing : When you play a non-ongoing ability, destroy Lightning Overload. If you do, copy that ability. (You may choose new targets for the copy.)'
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Elemental Talent

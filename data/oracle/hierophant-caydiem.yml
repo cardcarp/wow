@@ -1,0 +1,23 @@
+card_name: Hierophant Caydiem
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: 3 → Hierophant Caydiem deals 1 nature damage to target hero or ally and heals 1 damage from another target hero or ally.
+
+cost: '4'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

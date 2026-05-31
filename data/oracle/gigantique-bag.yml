@@ -1,0 +1,27 @@
+card_name: _Gigantique_ Bag
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You have no maximum hand size. , Pay 1 for each card in your hand → Draw a card.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '4'
+
+temp: Item Bag

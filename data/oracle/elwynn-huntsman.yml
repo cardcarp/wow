@@ -1,0 +1,23 @@
+card_name: Elwynn Huntsman
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: 'Unity : While you control three or more Human allies, this ally has Assault 2 and Sentinel .'
+
+cost: '5'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Human Hunter

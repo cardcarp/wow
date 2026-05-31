@@ -1,0 +1,18 @@
+card_name: The Art of War
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Retribution Talent Ongoing : At the start of your turn, your hero heals damage from itself equal to the highest remaining health among allies you control. On your turn, your hero has +X ATK, where X is the highest ATK among allies you control.'
+
+class:
+  - Paladin
+
+cost: '6'
+
+temp: Retribution

@@ -1,0 +1,18 @@
+card_name: Mana Spring Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : At the start of your turn, draw a card. (Totems can be attacked or targeted like allies.)'
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Restoration 1

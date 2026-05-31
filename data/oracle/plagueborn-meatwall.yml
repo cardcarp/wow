@@ -1,0 +1,23 @@
+card_name: Plagueborn Meatwall
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 6
+
+text: Protector When Plagueborn Meatwall defends against an ally, remove all damage from Plagueborn Meatwall, and he deals that much melee damage to each attacking ally.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Abomination

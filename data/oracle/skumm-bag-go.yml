@@ -1,0 +1,23 @@
+card_name: Skumm Bag_go
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When Skumm enters play, you may turn target resource face down.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Rogue

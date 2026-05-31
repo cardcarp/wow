@@ -1,0 +1,21 @@
+card_name: Victor Baltus
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 → Flip Victor
+
+faction: Alliance
+
+temp: Worgen Warlock
+
+transform:
+  - id: ability
+    text: Demons you control have +1 / +1.

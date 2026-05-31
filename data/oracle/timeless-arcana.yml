@@ -1,0 +1,18 @@
+card_name: Timeless Arcana
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Echo Draw a card.
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Arcane

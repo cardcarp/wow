@@ -1,0 +1,18 @@
+card_name: Summoning Portal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Search your deck for an ally, reveal it, and put it into your hand.
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Demonology

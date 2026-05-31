@@ -1,0 +1,23 @@
+card_name: General Turalyon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 5
+
+text: Protector When Turalyon enters play, put a 4 / 4 Spirit ally token named Lothar into play with Ferocity and Lothar (1). Turalyon has Invincible while you control an ally named Lothar.
+
+cost: '8'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

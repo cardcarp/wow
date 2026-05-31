@@ -1,0 +1,18 @@
+card_name: Fire and Brimstone
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destruction Talent Destroy target ability, ally, or equipment.
+
+class:
+  - Warlock
+
+cost: '4'
+
+temp: Destruction

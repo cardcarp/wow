@@ -1,0 +1,18 @@
+card_name: Primal Focus
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the end of your turn, ready up to two resources you control.'
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Beast Mastery

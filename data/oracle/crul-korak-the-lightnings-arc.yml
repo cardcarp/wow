@@ -1,0 +1,19 @@
+card_name: Crul_korak, the Lightnings Arc
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: allies you control have Assault X , where X is the ATK of this weapon.
+
+class:
+  - Shaman
+  - Rogue
+
+cost: '2'
+
+temp: 1H Weapon Axe

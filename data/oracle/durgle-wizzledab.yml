@@ -1,0 +1,23 @@
+card_name: Durgle Wizzledab
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: Remove an ability card in your graveyard from the game → Durgle heals 2 damage from himself.
+
+cost: '6'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Warlock

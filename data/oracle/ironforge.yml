@@ -1,0 +1,15 @@
+card_name: Ironforge
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: Dwarf Hero Required → Put target armor or weapon card from your graveyard into hand if its cost is less than the number of Dwarves in your party.
+
+faction: Alliance
+
+temp: City

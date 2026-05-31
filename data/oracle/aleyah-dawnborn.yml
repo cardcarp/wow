@@ -1,0 +1,17 @@
+card_name: Aleyah Dawnborn
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 4 , Flip Aleyah Dawnborn → When an ally in your party deals combat damage this turn, Aleyah heals that much damage from herself.
+
+faction: Horde
+
+temp: Blood Elf Paladin

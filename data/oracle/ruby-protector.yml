@@ -1,0 +1,21 @@
+card_name: Ruby Protector
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Allies you control have Protector .
+
+cost: '4'
+
+combat: Melee
+
+temp: Red Dragonkin

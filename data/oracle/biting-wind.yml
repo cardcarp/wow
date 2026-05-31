@@ -1,0 +1,22 @@
+card_name: Biting Wind
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 3 , → Your hero deals 1 frost damage to target hero or ally. A character dealt damage this way can't attack or protect this turn.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '4'
+
+temp: 1H Weapon Dagger

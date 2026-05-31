@@ -1,0 +1,15 @@
+card_name: Magtheridons Rage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target an ally. You may target an additional ally for each Blood in play. Magtheridon deals X melee damage to each of those allies.
+
+cost: X
+
+temp: ''

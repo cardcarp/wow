@@ -1,0 +1,15 @@
+card_name: Archimonde the Defiler
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 'Flip 1 , Assault 4 , Long-Range Entrance : Flip a Caverns card for each Caverns hero that has been defeated. When a Caverns card is flipped, do the following: Ally: Each Raider chooses and destroys an ally he controls. Ability: Each Raider chooses and discards a card. Event: Each Raider chooses two face up resources he controls and turns them face down.'
+
+temp: Eredar Demon Warlock 30
+
+type: Boss

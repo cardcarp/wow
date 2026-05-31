@@ -1,0 +1,23 @@
+card_name: Snurky
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: This and other Murloc allies you control have Stealth .
+
+cost: '2'
+
+combat: Melee
+
+temp: Murloc Rogue
+
+type: Monster

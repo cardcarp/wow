@@ -1,0 +1,20 @@
+card_name: Bloodlust
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Horde Hero Required Heroes and allies in your party have +2 ATK while attacking heroes this turn.
+
+class:
+  - Shaman
+
+cost: '3'
+
+faction: Horde
+
+temp: Enhancement

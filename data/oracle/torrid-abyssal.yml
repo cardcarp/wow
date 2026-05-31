@@ -1,0 +1,21 @@
+card_name: Torrid Abyssal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 2
+
+cost: '4'
+
+combat: Fire
+
+temp: Abyssal Demon
+
+type: Monster

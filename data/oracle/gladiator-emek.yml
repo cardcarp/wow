@@ -1,0 +1,25 @@
+card_name: Gladiator Emek
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When an Arena ally in your party is destroyed, you may discard a card. If you do, target player discards a card.
+
+cost: '3'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Priest
+
+type: Arena

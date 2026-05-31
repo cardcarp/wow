@@ -1,0 +1,15 @@
+card_name: Mind Exhaustion
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero or ally, and Magtheridon deals 4 fire damage to it. Ongoing : Attached character can't exhaust to attach a Cube."
+
+cost: '1'
+
+temp: ''

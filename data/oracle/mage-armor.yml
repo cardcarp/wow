@@ -1,0 +1,18 @@
+card_name: Mage Armor
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : 1 , Remove an ability card in your graveyard from the game → Prevent the next 2 damage that your hero would be dealt this turn.'
+
+class:
+  - Mage
+
+cost: '3'
+
+temp: Arcane

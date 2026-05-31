@@ -1,0 +1,23 @@
+card_name: Korah Icefang
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When this ally enters play, double the ATK of target ally this turn.
+
+cost: '4'
+
+combat: Frost
+
+faction: Horde
+
+temp: Orc Mage

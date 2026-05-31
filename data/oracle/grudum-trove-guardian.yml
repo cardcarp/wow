@@ -1,0 +1,23 @@
+card_name: Grudum, Trove Guardian
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Protector Find Treasure
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Warrior

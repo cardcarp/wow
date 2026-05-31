@@ -1,0 +1,18 @@
+card_name: Verdant Vengeance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When a Treant you control is destroyed, add a seed counter to this ability. At the start of your turn, if there are ten or more seed counters on this ability, you may destroy it. If you do, put ten 1 / 1 Treant ally tokens into play.'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Balance

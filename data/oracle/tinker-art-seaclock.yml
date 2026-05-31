@@ -1,0 +1,23 @@
+card_name: Tinker Art Seaclock
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Art has Long-Range while he's undamaged.
+
+cost: '5'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Gnome Mage

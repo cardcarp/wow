@@ -1,0 +1,15 @@
+card_name: Lesser of Two Evils
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Reveal the top two cards of the Onyxia raid deck. Opponents choose one. Put that card into your hand and the other one on the bottom of your deck.
+
+temp: ''
+
+type: Raid

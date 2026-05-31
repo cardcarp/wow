@@ -1,0 +1,21 @@
+card_name: Supremus
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Supremus has +2 ATK while attacking. When Supremus deals combat damage to a hero or ally, he may also deal that much melee damage to another target hero or ally. At the end of your turn, flip Supremus.
+
+temp: Abyssal Demon Traitor 6
+
+transform:
+  - id: ability
+    text: At the start of your turn, choose a random opponent, and Supremus deals 2 fire damage to each hero and ally in his party. At the end of your turn, flip Supremus.
+
+type: Boss
+
+stage: 2

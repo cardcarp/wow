@@ -1,0 +1,23 @@
+card_name: Kalam Blacksteel
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Protector
+
+cost: '3'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Worgen Death Knight

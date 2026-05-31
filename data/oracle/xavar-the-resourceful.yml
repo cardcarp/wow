@@ -1,0 +1,21 @@
+card_name: Xavar the Resourceful
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: 'Aldor Reputation Inspire: Resource'
+
+cost: '1'
+
+combat: Holy
+
+temp: Draenei Paladin

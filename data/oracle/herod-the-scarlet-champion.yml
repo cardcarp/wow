@@ -1,0 +1,21 @@
+card_name: Herod, The Scarlet Champion
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: 'At the start of your turn, choose one: This turn, Herod has +3 ATK and attacks opposing heroes and allies at random; or Herod attacks normally this turn.'
+
+cost: '4'
+
+combat: Melee
+
+temp: Human Warrior

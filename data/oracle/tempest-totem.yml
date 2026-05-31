@@ -1,0 +1,26 @@
+card_name: Tempest Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+damage: 0
+
+health: 4
+
+text: "Ongoing : When this card enters play, you may put target Totem from your graveyard into your hand. You pay 1 less to play Totems, to a minimum of 1 . (Totems can't attack.)"
+
+class:
+  - Shaman
+
+cost: '4'
+
+combat: Frost
+
+temp: Restoration
+
+type: Ally

@@ -1,0 +1,21 @@
+card_name: Orc Flamecaller
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 5
+
+cost: '6'
+
+combat: Fire
+
+faction: Horde
+
+temp: Orc Mage

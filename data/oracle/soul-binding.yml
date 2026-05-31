@@ -1,0 +1,18 @@
+card_name: Soul Binding
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : Attached ally has +2 / +2. If attached ally would deal shadow damage, it deals double that much instead.'
+
+class:
+  - Warlock
+
+cost: '4'
+
+temp: Affliction Attachment

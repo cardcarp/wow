@@ -1,0 +1,23 @@
+card_name: Arlek Stonehilt
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Elusive Each of your armor has +5 DEF while your hero is defending.
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Warrior

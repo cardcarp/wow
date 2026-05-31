@@ -1,0 +1,18 @@
+card_name: Anathema
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals shadow damage with an ability to a hero or ally, that character's controller discards a card. Exhaust your hero → Put a card named Benediction from your graveyard into play.
+
+class:
+  - Priest
+
+cost: '5'
+
+temp: 2H Weapon Staff

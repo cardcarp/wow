@@ -1,0 +1,18 @@
+card_name: Dirty Work
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : If your hero would deal non-combat damage, it deals combat damage instead.'
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Combat

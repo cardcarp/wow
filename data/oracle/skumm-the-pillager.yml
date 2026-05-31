@@ -1,0 +1,17 @@
+card_name: Skumm the Pillager
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 'On your turn: 3 , Flip Skumm → Turn target resource face down.'
+
+faction: Horde
+
+temp: Troll Rogue

@@ -1,0 +1,21 @@
+card_name: Zazel the Greedy
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 6 → Flip Zazel face down.
+
+faction: Horde
+
+temp: Goblin Rogue
+
+transform:
+  - id: ability
+    text: Assault 2

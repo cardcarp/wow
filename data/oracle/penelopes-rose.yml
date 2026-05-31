@@ -1,0 +1,21 @@
+card_name: Penelopes Rose
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you complete a quest, draw a card.
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '4'
+
+temp: Item Off-Hand

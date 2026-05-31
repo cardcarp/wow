@@ -1,0 +1,18 @@
+card_name: Claws of the Dead
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Opposing allies have -3 ATK this turn. Delve
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Unholy

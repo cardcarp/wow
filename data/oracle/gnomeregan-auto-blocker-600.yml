@@ -1,0 +1,20 @@
+card_name: Gnomeregan Auto-Blocker 600
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the end of your turn, put a Blocker ally token into play with 0 ATK / 1 health and Protector .
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+cost: '4'
+
+temp: Item Trinket

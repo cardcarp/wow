@@ -1,0 +1,19 @@
+card_name: Lady Sira_kess
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 8 → Flip Sira'kess face down. You pay 8 less to flip Sira'kess if you played three or more Frost and/or cards this turn.
+
+temp: Naga Mage 25
+
+transform:
+  - id: ability
+    text: "→ Sira'kess deals 1 frost damage to target hero or ally. 2 → Exhaust target hero or ally that was dealt frost ( ) damage this turn. Deckbuilding: You can't put or cards in your deck."
+
+type: Monster

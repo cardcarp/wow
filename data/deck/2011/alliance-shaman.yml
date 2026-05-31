@@ -1,0 +1,60 @@
+name: Alliance Shaman
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Alliance
+  - Starter
+  - '2011'
+
+collection: '2011'
+
+highlight: starter-2011-alliance-shaman-001
+
+description: 2011 Alliance Shaman Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2011 Alliance Shaman
+
+total: 61
+
+list:
+  hero:
+    starter-2011-alliance-shaman-001: 1  # Edaan of the Exodar
+  main:
+    starter-2011-alliance-shaman-002: 1  # Ancestral Recovery
+    starter-2011-alliance-shaman-003: 1 # Breath of the Elements
+    starter-2011-alliance-shaman-004: 1 # Chain Heal
+    starter-2011-alliance-shaman-005: 2 # Elements_ Fury
+    starter-2011-alliance-shaman-006: 1 # Energized
+    starter-2011-alliance-shaman-007: 2 # Frost Shock
+    starter-2011-alliance-shaman-008: 1 # Greater Chain Lightning
+    starter-2011-alliance-shaman-009: 1 # Inferno Totem
+    starter-2011-alliance-shaman-010: 2 # Lightning Bolt
+    starter-2011-alliance-shaman-011: 2 # Primal Strike
+    starter-2011-alliance-shaman-012: 2 # Arvos Jadestone
+    starter-2011-alliance-shaman-013: 2 # Bella Wilder
+    starter-2011-alliance-shaman-014: 2 # Dagin Bootzap
+    starter-2011-alliance-shaman-015: 2 # Haratha Hammerflame
+    starter-2011-alliance-shaman-016: 2 # Kalek Deepearth
+    starter-2011-alliance-shaman-017: 2 # Latro Abiectus
+    starter-2011-alliance-shaman-018: 2 # Roger Ulric
+    starter-2011-alliance-shaman-019: 2 # Shanis Bladefall
+    starter-2011-alliance-shaman-020: 1 # Terina Calin
+    starter-2011-alliance-shaman-021: 1 # Tinker Casey Springlock
+    starter-2011-alliance-shaman-022: 2 # Trixie Boltclunker
+    starter-2011-alliance-shaman-023: 3 # Windspeaker Nuvu
+    starter-2011-alliance-shaman-024: 1 # Zuur
+    starter-2011-alliance-shaman-025: 1 # Bloodbanes Fall
+    starter-2011-alliance-shaman-026: 1 # Abomination Knuckles
+    starter-2011-alliance-shaman-027: 2 # Claws of Torment
+    starter-2011-alliance-shaman-028: 1 # Crul_korak, the Lightnings Arc
+    starter-2011-alliance-shaman-029: 3 # A Bird in Hand
+    starter-2011-alliance-shaman-030: 1 # Blueleaf Tubers
+    starter-2011-alliance-shaman-031: 3 # Entrenched
+    starter-2011-alliance-shaman-032: 3 # The Essence of Enmity
+    starter-2011-alliance-shaman-033: 4 # The Key to Freedom
+    starter-2011-alliance-shaman-034: 3 # Mystery Goo

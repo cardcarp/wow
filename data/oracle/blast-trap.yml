@@ -1,0 +1,18 @@
+card_name: Blast Trap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Trap Destroy target attacking ally with cost 4 or more.
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Survival

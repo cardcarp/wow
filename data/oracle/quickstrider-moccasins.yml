@@ -1,0 +1,19 @@
+card_name: Quickstrider Moccasins
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Ready another target card in play.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '4'
+
+temp: Armor Mail

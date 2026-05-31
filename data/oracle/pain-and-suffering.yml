@@ -1,0 +1,17 @@
+card_name: Pain and Suffering
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Opposing heroes and allies have -2 ATK while attacking. At the start of your turn, destroy this ability. If you do, the Lich King deals 4 shadow damage to each opposing hero.'
+
+cost: '2'
+
+temp: ''
+
+type: Boss

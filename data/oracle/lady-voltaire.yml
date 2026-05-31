@@ -1,0 +1,23 @@
+card_name: Lady Voltaire
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 9
+
+text: 'Unity : While you control three or more Human allies, if another Human ally you control would be dealt damage, you may have it dealt to this ally instead.'
+
+cost: '3'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Human Death Knight

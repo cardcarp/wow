@@ -1,0 +1,21 @@
+card_name: Dar_thael the Bloodsworn
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 4 → Flip Dar'thael face down.
+
+faction: Horde
+
+temp: Blood Elf Warrior
+
+transform:
+  - id: ability
+    text: Protector

@@ -1,0 +1,23 @@
+card_name: Daroka Venomfist
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When this ally attacks, exhaust target opposing ally. (A protector exhausted this way can't protect this combat.)
+
+cost: '1'
+
+combat: Nature
+
+faction: Horde
+
+temp: Orc Rogue

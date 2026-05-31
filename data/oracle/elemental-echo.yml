@@ -1,0 +1,18 @@
+card_name: Elemental Echo
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally you control. Ongoing : When attached ally deals combat damage to a defending hero, put a token copy of that ally into play exhausted.'
+
+class:
+  - Shaman
+
+cost: '6'
+
+temp: Elemental Attachment

@@ -1,0 +1,13 @@
+card_name: Silithus
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: At the start of your turn, add capture counters equal to the combined cost of allies in your party. , Remove 200 capture counters → Gain control of all cards in play except Heroes.
+
+temp: Objective

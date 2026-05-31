@@ -1,0 +1,18 @@
+card_name: Thundercrash
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 1 melee damage to target hero or ally. A character dealt damage this way has -1 ATK this turn.
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Protection

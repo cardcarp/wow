@@ -1,0 +1,23 @@
+card_name: Toho Bloomhorn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: Protector When this ally is destroyed, you may put him from the graveyard into his owner's resource row face down and exhausted.
+
+cost: '4'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

@@ -1,0 +1,23 @@
+card_name: Master Mathias Shaw
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: Stealth When an ally in your party deals combat damage to a defending hero, draw a card.
+
+cost: '7'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Rogue

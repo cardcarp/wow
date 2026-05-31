@@ -1,0 +1,18 @@
+card_name: Levitate
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : At the start of each opponent's turn, that opponent chooses an ally in his party. That ally can't attack this turn."
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Discipline

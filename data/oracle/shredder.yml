@@ -1,0 +1,26 @@
+card_name: Shredder
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Preparation
+
+class:
+  - Hunter
+
+cost: '3'
+
+combat: Melee
+
+temp: Ravager
+
+type: Arena

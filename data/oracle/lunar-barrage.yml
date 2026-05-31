@@ -1,0 +1,18 @@
+card_name: Lunar Barrage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: When you play this ability, you may exhaust any number of Ongoing abilities you control. Copy this ability for each ability you exhausted this way. (You may choose new targets for the copies.) Your hero deals 2 arcane damage to target hero or ally.
+
+class:
+  - Druid
+
+cost: '5'
+
+temp: Balance

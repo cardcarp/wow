@@ -1,0 +1,15 @@
+card_name: The Whelp Pits
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : At the start of your turn, if it's stage 2, roll a die and put that many Whelps into play. Destroy The Whelp Pits → Roll a die and put that many Whelps into play."
+
+cost: '1'
+
+temp: ''

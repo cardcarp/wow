@@ -1,0 +1,23 @@
+card_name: Mioma Shadowflint
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 6
+
+text: Mend 2 When this ally heals damage, you may destroy target ability.
+
+cost: '6'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Dwarf Priest

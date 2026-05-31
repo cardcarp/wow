@@ -1,0 +1,21 @@
+card_name: Cloak of the Shrouded Mists
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → The next time your hero would be dealt non-combat damage this turn, prevent it.
+
+class:
+  - Druid
+  - Warrior
+  - Hunter
+  - Rogue
+
+cost: '3'
+
+temp: Armor Cloth

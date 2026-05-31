@@ -1,0 +1,19 @@
+card_name: Armwraps of Disdain
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Destroy an ability you control → Your hero has +1 ATK while attacking this turn.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '1'
+
+temp: Armor Leather

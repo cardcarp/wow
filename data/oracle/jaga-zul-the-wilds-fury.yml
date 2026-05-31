@@ -1,0 +1,23 @@
+card_name: Jaga_zul the Wilds Fury
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 1
+
+text: When this ally is destroyed, you may put him from the graveyard into his owner's resource row face down and exhausted.
+
+cost: '4'
+
+combat: Nature
+
+faction: Horde
+
+temp: Troll Druid

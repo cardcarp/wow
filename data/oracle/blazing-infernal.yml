@@ -1,0 +1,23 @@
+card_name: Blazing Infernal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play, he deals 1 fire damage to each other ally.
+
+cost: '5'
+
+combat: Fire
+
+temp: Infernal Demon
+
+type: Monster

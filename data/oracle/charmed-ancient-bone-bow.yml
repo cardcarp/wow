@@ -1,0 +1,18 @@
+card_name: Charmed Ancient Bone Bow
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Long-Range This equipment has +2 ATK for each heirloom counter on it. Stash : Add an heirloom counter to target equipment you control.'
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Ranged Weapon Bow

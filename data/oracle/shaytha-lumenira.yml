@@ -1,0 +1,23 @@
+card_name: Shaytha Lumenira
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: This ally has Arcane Resistance while you control an ability.
+
+cost: '3'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Night Elf Druid

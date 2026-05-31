@@ -1,0 +1,21 @@
+card_name: Split Greathammer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If your hero would deal combat damage to a hero with this weapon, it may deal that much divided as you choose among any number of opposing heroes and/or allies instead.
+
+class:
+  - Paladin
+  - Death Knight
+  - Shaman
+  - Rogue
+
+cost: '4'
+
+temp: 1H Weapon Mace

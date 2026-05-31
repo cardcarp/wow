@@ -1,0 +1,17 @@
+card_name: Kirox Butcherblade
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 'On your turn: 4 , Flip Kirox → Kirox deals 4 melee damage to target exhausted ally.'
+
+faction: Horde
+
+temp: Goblin Rogue

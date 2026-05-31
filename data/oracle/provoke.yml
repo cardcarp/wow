@@ -1,0 +1,18 @@
+card_name: Provoke
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero. Ongoing : At the start of attached hero's controller's turn, your hero deals 1 melee damage to it. This turn, a hero dealt damage this way must attack if able and can attack only your hero if able."
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Arms

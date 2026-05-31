@@ -1,0 +1,21 @@
+card_name: Salramm the Fleshcrafter
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 10
+
+text: 'Boss Salramm attacks the ally with the lowest remaining health if able. Caverns Hero 2+ : When Salramm deals fatal damage to a defending ally, put a 3 / 3 Ghoul ally token into play.'
+
+combat: Shadow
+
+temp: Necromancer
+
+type: Boss

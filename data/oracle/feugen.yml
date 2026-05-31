@@ -1,0 +1,21 @@
+card_name: Feugen
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 0
+
+health: 10
+
+text: Conspicuous , Assault 5 When this ally enters play, he deals 2 shadow damage to each raiding hero and ally. At the start of the Boss player's turn, if Stalagg is not in play, he puts him into play.
+
+combat: Melee
+
+temp: Wight
+
+type: Ally

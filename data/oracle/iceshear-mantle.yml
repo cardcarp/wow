@@ -1,0 +1,20 @@
+card_name: Iceshear Mantle
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Target card has Assault 2 this turn.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: Armor Cloth

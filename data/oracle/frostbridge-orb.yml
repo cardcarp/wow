@@ -1,0 +1,19 @@
+card_name: Frostbridge Orb
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Hero : Cards you control with Mend have an additional Mend 1 . Hero : Cards you control with Assault have an additional Assault 1 .'
+
+class:
+  - Druid
+  - Mage
+
+cost: '0'
+
+temp: Item Off-Hand

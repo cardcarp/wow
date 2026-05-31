@@ -1,0 +1,23 @@
+card_name: Lafiel
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: 2 , → Destroy target ability.
+
+cost: '6'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Night Elf Priest

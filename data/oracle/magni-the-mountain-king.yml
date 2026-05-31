@@ -1,0 +1,23 @@
+card_name: Magni, the Mountain King
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: 'Protector Dwarf heroes and allies you control have additional equal to the combined of armor you control. Stash : Put a 1 / 1 Dwarf Warrior ally token into play.'
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Warrior King

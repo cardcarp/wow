@@ -1,0 +1,15 @@
+card_name: Balance of Power
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Each Raider discards a random card. If the combined cost of cards discarded this way is 10 or more, flip a Dungeon card.
+
+temp: ''
+
+type: Dungeon

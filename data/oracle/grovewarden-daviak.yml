@@ -1,0 +1,23 @@
+card_name: Grovewarden Daviak
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 7
+
+text: Protector When this ally is dealt damage, it heals that much damage from your hero.
+
+cost: '6'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Worgen Druid

@@ -1,0 +1,23 @@
+card_name: Stormwind Investigator
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play, you may look at the top card of target player's deck. You may put that card into the graveyard.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Hunter

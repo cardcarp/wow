@@ -1,0 +1,18 @@
+card_name: Entangling Roots
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target ally and exhaust it. Ongoing : Attached ally can't ready during its controller's ready step."
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Balance

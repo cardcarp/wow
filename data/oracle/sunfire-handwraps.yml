@@ -1,0 +1,20 @@
+card_name: Sunfire Handwraps
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Sunfire Handwraps enters play with a +1 DEF counter for each friendly hero and ally. , Remove a +1 DEF counter → Draw a card.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '4'
+
+temp: Armor Cloth

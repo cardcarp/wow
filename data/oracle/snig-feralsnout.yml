@@ -1,0 +1,23 @@
+card_name: Snig Feralsnout
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Stealth Snig Feralsnout has Ferocity while you control a Form.
+
+cost: '2'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Druid

@@ -1,0 +1,21 @@
+card_name: Hemet Nesingwary
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Hunters you control can be exhausted to pay costs as though they were resources.
+
+cost: '3'
+
+combat: Ranged
+
+temp: Dwarf Hunter

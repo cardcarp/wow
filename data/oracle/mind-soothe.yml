@@ -1,0 +1,18 @@
+card_name: Mind Soothe
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target ally. Ongoing : Attached ally can't attack your hero."
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Shadow

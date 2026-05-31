@@ -1,0 +1,18 @@
+card_name: Bombard
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Destroy all abilities, allies, and equipment that entered play this turn.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Marksmanship

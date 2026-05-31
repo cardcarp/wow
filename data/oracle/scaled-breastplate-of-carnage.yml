@@ -1,0 +1,19 @@
+card_name: Scaled Breastplate of Carnage
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When an ally deals damage to another ally, destroy both of them.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '3'
+
+temp: Armor Mail

@@ -1,0 +1,15 @@
+card_name: Malfunction
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target player destroys one of his equipment.
+
+cost: '4'
+
+temp: ''

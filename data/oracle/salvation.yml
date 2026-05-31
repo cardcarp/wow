@@ -1,0 +1,18 @@
+card_name: Salvation
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero heals 8 damage divided as you choose from any number of target heroes and/or allies.
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Holy

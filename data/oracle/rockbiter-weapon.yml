@@ -1,0 +1,18 @@
+card_name: Rockbiter Weapon
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to one of your Melee weapons. Ongoing : Attached weapon has +2 ATK. Your hero has protector.'
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Enhancement

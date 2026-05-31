@@ -1,0 +1,26 @@
+card_name: Hearthstone
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 6 , , Concede the game → Players can keep any of their equipment and start the next game with those cards in play.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '6'
+
+temp: Item

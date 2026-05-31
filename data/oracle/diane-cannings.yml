@@ -1,0 +1,21 @@
+card_name: Diane Cannings
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: This ally has Assault X , where X is the combined of Leather and Mail armor you control.
+
+cost: '3'
+
+combat: Nature
+
+temp: Human Leatherworking Master

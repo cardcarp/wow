@@ -1,0 +1,21 @@
+card_name: Bound Rumbler
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: Protector When this ally is destroyed, put a 2 / 1 Earth Elemental ally token into play.
+
+cost: '5'
+
+combat: Melee
+
+temp: Earth Elemental

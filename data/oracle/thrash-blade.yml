@@ -1,0 +1,21 @@
+card_name: Thrash Blade
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals combat damage with Thrash Blade for the first time on each of your turns, ready Thrash Blade and your hero.
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Rogue
+
+cost: '4'
+
+temp: 1H Weapon Sword

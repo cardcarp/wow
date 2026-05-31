@@ -1,0 +1,15 @@
+card_name: Desperate Block
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Prevent the next 2 damage that would be dealt to target hero or ally this turn.
+
+cost: '2'
+
+temp: ''

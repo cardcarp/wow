@@ -1,0 +1,15 @@
+card_name: Draw Soul
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: 'Each opponent destroys an ally in his party. Ongoing : Opposing heroes have -5 health.'
+
+temp: ''
+
+stage: 2

@@ -1,0 +1,24 @@
+card_name: Shadowy Apparition
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Shadow Talent Ferocity This ally has +1 ATK while attacking heroes for each opposing card removed from the game. If this ally would deal damage to a hero, remove that many cards from the top of that hero's controller's deck from the game instead. At the end of your turn, put this ally into it's owner's hand.
+
+class:
+  - Priest
+
+cost: '2'
+
+combat: Shadow
+
+temp: Apparition

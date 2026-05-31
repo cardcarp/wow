@@ -1,0 +1,23 @@
+card_name: Kizzli Grinderstub
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Time is Money → Target hero or ally has Stealth this turn.
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Goblin Rogue

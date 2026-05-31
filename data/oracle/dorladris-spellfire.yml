@@ -1,0 +1,23 @@
+card_name: Dorladris Spellfire
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: 4 → Draw a card.
+
+cost: '4'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Blood Elf Mage

@@ -1,0 +1,23 @@
+card_name: Shala_zum
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: Protector
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Warrior

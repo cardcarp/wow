@@ -1,0 +1,23 @@
+card_name: Alyna Sunshower
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Elusive Mend 1
+
+cost: '1'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Priest

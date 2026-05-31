@@ -1,0 +1,20 @@
+card_name: Warglaive of Azzinoth
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Dual Wield When your hero deals combat damage with this weapon to a hero, put a 3 / 3 Demon Monster ally token into play named Flame of Azzinoth. At the start of your turn, if you control two or more allies named Flame of Azzinoth, this weapon has +10 ATK this turn.
+
+class:
+  - Warrior
+  - Death Knight
+  - Rogue
+
+cost: '4'
+
+temp: 1H Weapon Sword

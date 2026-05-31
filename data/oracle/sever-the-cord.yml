@@ -1,0 +1,18 @@
+card_name: Sever the Cord
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: As an additional cost to play Sever the Cord, destroy an ally in your party. Destroy target ally.
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Demonology

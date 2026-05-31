@@ -1,0 +1,17 @@
+card_name: Koth, Caller of the Hunt
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Koth → Allies in your party have +1 ATK while in combat with target hero or ally this turn.
+
+faction: Horde
+
+temp: Orc Hunter

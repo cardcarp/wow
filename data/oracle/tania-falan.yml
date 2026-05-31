@@ -1,0 +1,23 @@
+card_name: Tania Falan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: When this ally enters play, you may draw a card. If you do, discard a card.
+
+cost: '2'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Worgen Mage

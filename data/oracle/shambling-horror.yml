@@ -1,0 +1,23 @@
+card_name: Shambling Horror
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Protector
+
+cost: '2'
+
+combat: Melee
+
+temp: Vrykul
+
+type: Raid

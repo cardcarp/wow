@@ -1,0 +1,23 @@
+card_name: _Fungus Face_ McGillicutty
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When Fungus Face is destroyed, you may destroy target ability.
+
+cost: '3'
+
+combat: Holy
+
+faction: Horde
+
+temp: Undead Priest

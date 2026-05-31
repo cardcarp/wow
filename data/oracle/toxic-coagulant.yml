@@ -1,0 +1,15 @@
+card_name: Toxic Coagulant
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Each Raider discards two random cards. Then, each Raider may choose a card in his graveyard and put it into his hand.
+
+temp: ''
+
+type: Dungeon

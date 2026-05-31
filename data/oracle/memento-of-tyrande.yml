@@ -1,0 +1,23 @@
+card_name: Memento of Tyrande
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When a non-token ally is destroyed, its controller may put a Spirit ally token into play with 1 ATK / 1 health.
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item Trinket

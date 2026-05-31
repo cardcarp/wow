@@ -1,0 +1,18 @@
+card_name: Curse of Frenzy
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : Attached ally must attack if able and can attack only allies if able.'
+
+class:
+  - Warlock
+
+cost: '1'
+
+temp: Affliction Curse

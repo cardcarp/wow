@@ -1,0 +1,15 @@
+card_name: Redouble Effort
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : → Ready Magtheridon. He can't attack the same hero more than once this turn."
+
+cost: '3'
+
+temp: ''

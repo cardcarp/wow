@@ -1,0 +1,23 @@
+card_name: Thunder Bluff Steelsnout
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: 'Tribe : When this or another Tauren ally enters play under your control, you may exhaust target hero or ally.'
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Warrior

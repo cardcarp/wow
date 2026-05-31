@@ -1,0 +1,19 @@
+card_name: Kings Defender
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero is a Protector .
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '5'
+
+temp: 1H Weapon Sword

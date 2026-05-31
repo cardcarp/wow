@@ -1,0 +1,18 @@
+card_name: Elemental Vision
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Look at the top three cards of your deck. Put one into your hand and the rest into your graveyard.
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Enhancement

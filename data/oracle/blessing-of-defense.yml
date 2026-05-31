@@ -1,0 +1,18 @@
+card_name: Blessing of Defense
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +5 ATK while defending.'
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection Blessing

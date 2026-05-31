@@ -1,0 +1,23 @@
+card_name: Teldrassil Tracker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Elusive
+
+cost: '1'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Night Elf Hunter

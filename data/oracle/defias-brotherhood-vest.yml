@@ -1,0 +1,19 @@
+card_name: Defias Brotherhood Vest
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: While you control four or more allies, allies you control have Assault 1 and Stealth .
+
+class:
+  - Druid
+  - Rogue
+
+cost: '2'
+
+temp: Armor Leather

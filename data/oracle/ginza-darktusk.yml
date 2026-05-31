@@ -1,0 +1,23 @@
+card_name: Ginza Darktusk
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 5
+
+text: Protector This ally can't attack unless and opponent controls more allies than you.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Troll Death Knight

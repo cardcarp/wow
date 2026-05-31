@@ -1,0 +1,24 @@
+card_name: Shelly
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: If Shelly would be dealt combat damage, prevent 1 of that damage.
+
+class:
+  - Hunter
+
+cost: '2'
+
+combat: Melee
+
+temp: Turtle

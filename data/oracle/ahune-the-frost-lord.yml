@@ -1,0 +1,23 @@
+card_name: Ahune the Frost Lord
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 3
+
+text: When Ahune enters play, he deals 1 frost damage to each opposing hero and ally for this and each other Frost and card you control.
+
+cost: '6'
+
+combat: Frost
+
+temp: Frost Elemental Lord
+
+type: Monster

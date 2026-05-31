@@ -1,0 +1,18 @@
+card_name: Divine Storm
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Retribution Hero Required Your hero deals X unpreventable holy damage to each opposing hero and ally that dealt damage this turn, where X is the ATK of a weapon you control.
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Retribution Talent

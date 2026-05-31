@@ -1,0 +1,18 @@
+card_name: Frost Stasis
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target opposing ally. Ongoing : Attached ally can't attack or exhaust. When attached ally is dealt damage, destroy it and put three 2 / 1 Water Elemental ally tokens into play,"
+
+class:
+  - Mage
+
+cost: '3'
+
+temp: Frost Attachment

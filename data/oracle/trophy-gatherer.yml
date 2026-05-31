@@ -1,0 +1,18 @@
+card_name: Trophy Gatherer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You pay 3 less to strike with this weapon while your hero is in combat with an ally with cost 4 or more. When you strike with this weapon, your hero has Long-Range this combat.
+
+class:
+  - Hunter
+
+cost: '5'
+
+temp: Ranged Weapon Bow

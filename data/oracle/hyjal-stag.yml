@@ -1,0 +1,21 @@
+card_name: Hyjal Stag
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Destroy this ally, exhaust a ready Monster hero or ally you control → This ally heals 4 damage from that character.
+
+cost: '1'
+
+combat: Melee
+
+temp: Stag

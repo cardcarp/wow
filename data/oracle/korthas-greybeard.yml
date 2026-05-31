@@ -1,0 +1,23 @@
+card_name: Korthas Greybeard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Protector → Prevent the next 1 damage that would be dealt to target hero or ally this turn.
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Paladin

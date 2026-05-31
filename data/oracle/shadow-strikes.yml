@@ -1,0 +1,18 @@
+card_name: Shadow Strikes
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Add a +1 ATK counter to each weapon you control. Your hero deals shadow damage to target hero or ally equal to the combined ATK of Melee weapons you control.
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: Combat

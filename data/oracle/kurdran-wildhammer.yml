@@ -1,0 +1,23 @@
+card_name: Kurdran Wildhammer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 7
+
+text: Elusive When Kurdran becomes exhausted, he may deal 4 nature damage to target hero or ally.
+
+cost: '7'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Dwarf Gryphon Rider

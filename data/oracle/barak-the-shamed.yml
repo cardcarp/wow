@@ -1,0 +1,23 @@
+card_name: Barak the Shamed
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: When Barak enters play, each player secretly chooses a number. The player who chooses the highest number gains control of Barak, and you put that amount of damage on that player's hero. If there's a tie, you choose the outcome.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

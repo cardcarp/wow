@@ -1,0 +1,24 @@
+card_name: Deathcharger
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 5
+
+text: You pay 1 less to complete quests. When you place a resource face up, target opposing hero or ally has -3 this turn. (Mounts can't attack or be attacked.)
+
+class:
+  - Death Knight
+
+cost: '2'
+
+combat: Melee
+
+temp: Deathcharger

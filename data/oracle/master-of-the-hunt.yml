@@ -1,0 +1,18 @@
+card_name: Master of the Hunt
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Pets you control have +2 / +2.'
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Beast Mastery

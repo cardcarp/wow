@@ -1,0 +1,21 @@
+card_name: Arcanist Thelis
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: 'Scryer Reputation Sabotage: Deck When Thelis sabotages a deck, switch that deck with yours.'
+
+cost: '6'
+
+combat: Ranged
+
+temp: Blood Elf Mage

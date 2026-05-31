@@ -1,0 +1,23 @@
+card_name: Skarr the Unbreakable
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 7
+
+text: Protector Prevent all damage that Arena allies would deal to Skarr.
+
+cost: '6'
+
+combat: Melee
+
+temp: Ogre
+
+type: Arena

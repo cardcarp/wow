@@ -1,0 +1,18 @@
+card_name: Earths Bounty
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put target card from your graveyard into your hand.
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Restoration

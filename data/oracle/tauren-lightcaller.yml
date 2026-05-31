@@ -1,0 +1,23 @@
+card_name: Tauren Lightcaller
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: Absorb
+
+cost: '4'
+
+combat: Holy
+
+faction: Horde
+
+temp: Tauren Paladin

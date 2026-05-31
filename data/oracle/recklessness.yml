@@ -1,0 +1,18 @@
+card_name: Recklessness
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the start of your turn, add an abandon counter. If your hero would deal or be dealt damage, that much +X is dealt instead, where X is the number of abandon counters.'
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Fury

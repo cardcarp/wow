@@ -1,0 +1,15 @@
+card_name: Spellweaving
+
+layout: standard
+
+regulation:
+
+category: Misc
+
+errata: []
+
+text: 'If Deathwing controlled two or more Bosses at the same time, gain this Gift. Use this Gift: Destroy target damaged Boss ally.'
+
+temp: ''
+
+type: Gift

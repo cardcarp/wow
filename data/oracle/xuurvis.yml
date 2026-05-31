@@ -1,0 +1,23 @@
+card_name: Xuurvis
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: When 1 or more damage is healed from this ally, you may draw a card.
+
+cost: '4'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Draenei Priest

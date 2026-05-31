@@ -1,0 +1,23 @@
+card_name: Vol_jin, Darkspear Chieftain
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 7
+
+text: At the end of your turn, target opposing or Monster ally becomes 1 /1, loses and can't have powers, and is also a Frog until it leaves play (even if Vol'jin leaves play).
+
+cost: '7'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Shadow Hunter

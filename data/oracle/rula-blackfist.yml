@@ -1,0 +1,23 @@
+card_name: Rula Blackfist
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: When Rula enters play, remove target ally from the game if its controller has more allies than you.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Warlock

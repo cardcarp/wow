@@ -1,0 +1,18 @@
+card_name: Unleash the Beasts
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When this ability enters play, reveal the top five cards of your deck. Put any number of revealed Pet and/or Beast allies into play, and the rest on the bottom of your deck. You can control any number of Pets. Pet and Beast allies you control have Ferocity and Smash .'
+
+class:
+  - Hunter
+
+cost: '9'
+
+temp: Beast Mastery

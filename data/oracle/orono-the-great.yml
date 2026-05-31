@@ -1,0 +1,21 @@
+card_name: Orono the Great
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Shaman

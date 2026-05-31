@@ -1,0 +1,18 @@
+card_name: Gravebound
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally you control. Ongoing : Attached ally has Assault 3 . When attached ally is destroyed, put a 3 / 3 Ghoul ally token into play.'
+
+class:
+  - Death Knight
+
+cost: '3'
+
+temp: Unholy Attachment

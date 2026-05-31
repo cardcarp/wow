@@ -1,0 +1,23 @@
+card_name: Drudge Ghoul
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: 'Servant of Undeath : You may play this ally from your graveyard.'
+
+cost: '1'
+
+combat: Melee
+
+temp: Ghoul
+
+type: Raid

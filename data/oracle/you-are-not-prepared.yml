@@ -1,0 +1,15 @@
+card_name: You Are Not Prepared!
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: 'Ongoing : Destroy this event → Put the top card of the Minion deck into your resource row face down and ready.'
+
+temp: ''
+
+type: Raid

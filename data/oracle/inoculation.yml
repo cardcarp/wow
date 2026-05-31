@@ -1,0 +1,15 @@
+card_name: Inoculation
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: "During your turn, pay 3 to complete this quest. Reward : Choose one: Put an ally from your party into its owner's hand; or draw a card. If your hero is a Draenei, you may choose both."
+
+faction: Alliance
+
+temp: ''

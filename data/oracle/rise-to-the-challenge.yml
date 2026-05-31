@@ -1,0 +1,15 @@
+card_name: Rise to the Challenge
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to your hero and remove all damage from it. Draw cards until you reach your maximum hand size. Ongoing : Attached hero has +10 health.'
+
+cost: '15'
+
+temp: ''

@@ -1,0 +1,19 @@
+card_name: Nurturing Spirit
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to your hero. Ongoing : Attached hero has Mend 1 for each Druid and Priest you control.'
+
+class:
+  - Druid
+  - Priest
+
+cost: '1'
+
+temp: Restoration Holy

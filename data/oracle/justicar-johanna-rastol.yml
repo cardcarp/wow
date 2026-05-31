@@ -1,0 +1,23 @@
+card_name: Justicar Johanna Rastol
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Protector When an opposing Shaman deals damage to a hero or ally you control, that Shaman also deals that much nature damage to himself.
+
+cost: '6'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

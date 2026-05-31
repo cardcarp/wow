@@ -1,0 +1,18 @@
+card_name: Arcane Unraveling
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Interrupt target ability and remove it from the game. If a non-Ongoing ability is removed from the game this way, you may play it immediately without paying it's cost.
+
+class:
+  - Mage
+
+cost: '4'
+
+temp: Arcane

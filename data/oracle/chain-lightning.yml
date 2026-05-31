@@ -1,0 +1,18 @@
+card_name: Chain Lightning
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target up to three heroes and/or allies. Your hero deals 3, 2, and 1 nature damage to them, respectively.
+
+class:
+  - Shaman
+
+cost: '5'
+
+temp: Elemental

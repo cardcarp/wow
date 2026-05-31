@@ -1,0 +1,15 @@
+card_name: Raid Warning_ Annihilation
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: "Ongoing : At the start of the Caverns hero's next turn, a random Raider destroys all abilities, allies, and equipment he controls, then remove this event from the game. Exhaust two friendly allies that share a or race → Destroy this event. Any Raider may use this power."
+
+temp: ''
+
+type: Boss

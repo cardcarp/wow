@@ -1,0 +1,23 @@
+card_name: Maurice Steelson
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Protector When this ally enters play, your hero and allies you control have Assault 1 this turn.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Worgen Warrior

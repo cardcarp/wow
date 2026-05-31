@@ -1,0 +1,23 @@
+card_name: Zintix the Frostbringer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When this ally deals damage to an opposing hero, you may search your deck for an attachment that could target that hero. Play it immediately, targeting that hero, without paying its cost.
+
+cost: '3'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Gnome Death Knight

@@ -1,0 +1,18 @@
+card_name: Enveloping Shadows
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Subtlety Hero Required Ongoing : → Target ally can't deal damage this turn."
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Subtlety Talent

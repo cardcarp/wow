@@ -1,0 +1,25 @@
+card_name: Gladiator Katianna
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Arena allies in your party are Elusive .
+
+cost: '2'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Night Elf Priest
+
+type: Arena

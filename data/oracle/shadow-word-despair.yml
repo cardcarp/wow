@@ -1,0 +1,18 @@
+card_name: Shadow Word_ Despair
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 2 shadow damage to target ally. Remove the top two cards of that ally's controller's deck from the game.
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Shadow

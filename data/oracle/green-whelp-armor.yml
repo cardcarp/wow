@@ -1,0 +1,19 @@
+card_name: Green Whelp Armor
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When an attacking ally deals combat damage to your hero, you may pay 2 . If you do, put that ally into its owner's hand.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '4'
+
+temp: Armor Leather

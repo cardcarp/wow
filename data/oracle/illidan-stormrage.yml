@@ -1,0 +1,23 @@
+card_name: Illidan Stormrage
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+damage: 5
+
+health: 35
+
+text: Traitor Hero Required At the start of your turn, you may put a Traitor ally card from your collection into play.
+
+cost: '11'
+
+combat: Melee
+
+temp: Night Elf Demon Demonhunter Traitor
+
+type: Master

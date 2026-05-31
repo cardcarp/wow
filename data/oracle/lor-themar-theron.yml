@@ -1,0 +1,23 @@
+card_name: Lor_themar Theron
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 7
+
+text: Exhaust a Blood Elf in your party → Interrupt target ability card.
+
+cost: '9'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Paladin

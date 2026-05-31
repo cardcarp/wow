@@ -1,0 +1,23 @@
+card_name: Garyk Stormcrier
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: When this ally deals combat damage to an opposing hero, Orc allies you control have Ferocity this turn. (This also affects Orc allies that enter play later this turn.)
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Shaman

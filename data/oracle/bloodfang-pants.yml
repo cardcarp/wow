@@ -1,0 +1,18 @@
+card_name: Bloodfang Pants
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play a ability, you may pay 1 . If you do, your hero deals 1 melee damage to target exhausted hero or ally.
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: Armor Leather

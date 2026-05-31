@@ -1,0 +1,23 @@
+card_name: Goldrinn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: 'Ferocity , Stealth Once per turn: Howl or Growl → If an opposing hero was dealt 10 or more damage this turn, put five 1 / 1 Wolf Beast Monster ally tokens into play.'
+
+cost: '6'
+
+combat: Melee
+
+temp: Wolf Beast Demigod
+
+type: Monster

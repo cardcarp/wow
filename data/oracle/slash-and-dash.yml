@@ -1,0 +1,18 @@
+card_name: Slash and Dash
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When Slash and Dash enters play, you may destroy target exhausted ally. Your hero has Stealth . When your hero deals damage, destroy Slash and Dash.'
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Subtlety Combo

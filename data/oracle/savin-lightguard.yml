@@ -1,0 +1,17 @@
+card_name: Savin Lightguard
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 6 , Flip Savin Lightguard → Destroy all allies that dealt combat damage to Savin this turn.
+
+faction: Alliance
+
+temp: Dwarf Paladin

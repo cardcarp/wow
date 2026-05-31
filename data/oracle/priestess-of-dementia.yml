@@ -1,0 +1,21 @@
+card_name: Priestess of Dementia
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: Traitor Hero Required 2 , Destroy an ally in your party → Each opponent destroy an ability or equipment he controls.
+
+cost: '4'
+
+combat: Melee
+
+temp: Shivan Demon Traitor

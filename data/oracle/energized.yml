@@ -1,0 +1,18 @@
+card_name: Energized
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Ready target ally.
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Enhancement

@@ -1,0 +1,15 @@
+card_name: Draconic Rage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Onyxia has +X ATK while attacking, where X is the current stage.'
+
+cost: '1'
+
+temp: ''

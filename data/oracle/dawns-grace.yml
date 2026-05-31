@@ -1,0 +1,18 @@
+card_name: Dawns Grace
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero heals 6 damage divided as you choose from any number of target heroes and/or allies.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Holy

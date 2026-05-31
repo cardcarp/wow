@@ -1,0 +1,21 @@
+card_name: Core Hound Tooth
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, put a +1 ATK counter on Core Hound Tooth. When your hero deals combat damage with Core Hound Tooth, remove all +1 ATK counters from Core Hound Tooth.
+
+class:
+  - Warrior
+  - Shaman
+  - Hunter
+  - Rogue
+
+cost: '2'
+
+temp: 1H Weapon Dagger

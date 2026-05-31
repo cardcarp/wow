@@ -1,0 +1,19 @@
+card_name: Grand Widow Faerlina
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 'Assault 5 At the start of your turn, Faerlina deals 3 fire damage to each raiding hero. On your turn: 6 → Flip Faerlina face down.'
+
+temp: Human Widow 9
+
+transform:
+  - id: ability
+    text: Assault 8 2 → Ready Faerlina.
+
+type: Boss

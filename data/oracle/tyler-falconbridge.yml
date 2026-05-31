@@ -1,0 +1,23 @@
+card_name: Tyler Falconbridge
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Stealth Tyler Falconbridge is a Combo card while in a graveyard.
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Rogue

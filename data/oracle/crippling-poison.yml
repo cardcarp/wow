@@ -1,0 +1,18 @@
+card_name: Crippling Poison
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero or ally that was dealt combat damage by your hero this turn. Ongoing : At the start of each turn, exhaust attached character unless its controller pays 3 .'
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Poison

@@ -1,0 +1,21 @@
+card_name: Mindless Horror
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 10
+
+health: 10
+
+text: Conspicuous Untargetable
+
+combat: Melee
+
+temp: Horror
+
+type: Dungeon

@@ -1,0 +1,15 @@
+card_name: Howl of Azgalor
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : Raiders can't play abilities. When a Caverns hero is defeated, destroy this ability."
+
+temp: ''
+
+type: Boss

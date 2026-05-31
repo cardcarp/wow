@@ -1,0 +1,23 @@
+card_name: Child of Goldrinn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Ferocity Stealth
+
+cost: '3'
+
+combat: Melee
+
+temp: Wolf Beast
+
+type: Monster

@@ -1,0 +1,18 @@
+card_name: Predatory Strikes
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Feral Hero Required Ongoing : While your hero is in bear form or cat form, it has +2 ATK while attacking.'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Feral Talent

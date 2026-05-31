@@ -1,0 +1,17 @@
+card_name: Punish the Greedy
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: The raider with the most cards in hand discards one. The raider with the most face-up resources turns one face down. The Boss deals 5 frost damage to the raiding hero with the least damage. The Boss player decides any ties.
+
+temp: ''
+
+type: Raid
+
+stage: 14

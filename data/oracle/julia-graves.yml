@@ -1,0 +1,23 @@
+card_name: Julia Graves
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: You may remove two ally cards in your graveyard from the game rather than pay Julia Graves's cost.
+
+cost: '1'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Warlock

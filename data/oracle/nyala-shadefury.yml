@@ -1,0 +1,23 @@
+card_name: Nyala Shadefury
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Elusive Other Night Elf allies you control have Assault 2 .
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Night Elf Warrior

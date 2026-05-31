@@ -1,0 +1,19 @@
+card_name: Tyrus Blackhorn
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 8 → Flip Tyrus face down. You pay 8 less to flip Tyrus if an opposing hero has 15 or more damage.
+
+temp: Satyr Demon Warlock 28
+
+transform:
+  - id: ability
+    text: "When an attacking Demon hero or ally you control deals combat damage to a hero, that hero's controller chooses and discards a card. Deckbuilding: You can't put or cards in your deck."
+
+type: Monster

@@ -1,0 +1,23 @@
+card_name: Madrea Bluntbrew
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: Frost Resistance When this ally enters play, look at target opponent's hand and choose an ability or equipment. He discards that card.
+
+cost: '6'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Rogue

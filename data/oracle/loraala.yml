@@ -1,0 +1,23 @@
+card_name: Loraala
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Loraala can't attack. → Loraala deals 3 fire damage to target hero.
+
+cost: '3'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Draenei Mage

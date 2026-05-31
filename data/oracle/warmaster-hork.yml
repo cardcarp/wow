@@ -1,0 +1,23 @@
+card_name: Warmaster Hork
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 5
+
+text: Orc Hero Required Ferocity 2 → Warmaster Hork has +1 ATK this turn.
+
+cost: '7'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

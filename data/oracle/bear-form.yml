@@ -1,0 +1,18 @@
+card_name: Bear Form
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Your hero is in Bear Form . When Bear Form is destroyed, you pay pay 2 . If you do, put it into your hand at end of turn.'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Feral

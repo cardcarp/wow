@@ -1,0 +1,21 @@
+card_name: The Essence Focuser
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If a hero or ally in your party would heal damage, it heals that much +1 instead.
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '2'
+
+temp: 1H Weapon Mace

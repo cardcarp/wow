@@ -1,0 +1,21 @@
+card_name: High Inquisitor Whitemane
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 8
+
+text: When Whitemane attacks, you may put target ally from your graveyard on top of your deck. If you do, she heals damage from your hero equal to the cost of that ally.
+
+cost: '5'
+
+combat: Holy
+
+temp: Human Priest

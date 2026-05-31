@@ -1,0 +1,18 @@
+card_name: Battle Shout
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Allies you control have +1 ATK.'
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Fury Shout

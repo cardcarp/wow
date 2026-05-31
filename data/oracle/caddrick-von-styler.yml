@@ -1,0 +1,23 @@
+card_name: Caddrick Von Styler
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 7
+
+text: 5 , → Each player destroys one of his resources.
+
+cost: '6'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Warlock

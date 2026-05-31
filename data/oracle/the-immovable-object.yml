@@ -1,0 +1,20 @@
+card_name: The Immovable Object
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Destroy The Immovable Object → Destroy all weapons named The Unstoppable Force.
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+cost: '4'
+
+temp: Armor Shield

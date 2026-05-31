@@ -1,0 +1,23 @@
+card_name: Mekkatorque, King of the Gnomes
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: At the start of your turn, you may put target equipment from any graveyard into play under your control. Mekkatorque has +2 / +2 for each equipment you control.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Warrior

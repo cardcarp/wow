@@ -1,0 +1,17 @@
+card_name: Teina Cloudstalker
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'If you control another Druid: Flip Teina → Teina has +1 ATK while attacking this turn.'
+
+faction: Horde
+
+temp: Tauren Druid

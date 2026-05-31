@@ -1,0 +1,23 @@
+card_name: Cairne, Earthmothers Chosen
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 7
+
+text: 'Tauren heroes and allies you control have War Stomp . Stash : Put a 1 / 1 Tauren Warrior ally token into play.'
+
+cost: '6'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren High Chieftain

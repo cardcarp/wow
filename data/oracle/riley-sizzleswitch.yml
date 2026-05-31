@@ -1,0 +1,17 @@
+card_name: Riley Sizzleswitch
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 'If you control another Mage: Flip Riley → Riley deals 2 fire damage to target ally.'
+
+faction: Alliance
+
+temp: Gnome Mage

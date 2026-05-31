@@ -1,0 +1,15 @@
+card_name: Rune of Zeth
+
+layout: standard
+
+regulation:
+
+category: Misc
+
+errata: []
+
+text: At the start of your turn, if a hero is The Bomb, Baron Geddon deals 5 fire damage to that hero and each ally in its party. At the end of your turn, choose an opposing hero to be The Bomb until the end of your next turn.
+
+temp: Baron Geddon Boss 5
+
+type: Raid

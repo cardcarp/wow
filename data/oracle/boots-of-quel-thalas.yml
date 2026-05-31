@@ -1,0 +1,19 @@
+card_name: Boots of Quel_Thalas
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'If an ally you controlled was destroyed this turn: → Target hero or ally has Assault 2 this turn.'
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '4'
+
+temp: Armor Mail

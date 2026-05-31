@@ -1,0 +1,18 @@
+card_name: Plague Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 1 shadow damage to attached hero. When damage is dealt this way, target ally in attached hero's party has -1 health this turn."
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Unholy Disease

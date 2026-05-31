@@ -1,0 +1,15 @@
+card_name: Sudden Reversal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target ally has +4 ATK while defending this turn.
+
+cost: '1'
+
+temp: ''

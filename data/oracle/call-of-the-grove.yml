@@ -1,0 +1,18 @@
+card_name: Call of the Grove
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : Each turn, you can place an additional resource if you've placed a quest that turn. Death Rattle : Reveal the top three cards of your deck. Put a revealed quest in your hand and the rest of the bottom of your deck."
+
+class:
+  - Druid
+
+cost: '4'
+
+temp: Restoration

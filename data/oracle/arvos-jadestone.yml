@@ -1,0 +1,23 @@
+card_name: Arvos Jadestone
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Mend 1
+
+cost: '1'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Dwarf Shaman

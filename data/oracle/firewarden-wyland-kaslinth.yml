@@ -1,0 +1,23 @@
+card_name: Firewarden Wyland Kaslinth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Assault 1
+
+cost: '1'
+
+combat: Fire
+
+faction: Horde
+
+temp: Blood Elf Mage

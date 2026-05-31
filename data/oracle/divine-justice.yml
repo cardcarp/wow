@@ -1,0 +1,18 @@
+card_name: Divine Justice
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Exhaust target ready opposing ally. If you do, you may have it deal melee damage equal to its ATK to a second target ally.
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Retribution

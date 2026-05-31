@@ -1,0 +1,23 @@
+card_name: Canissa the Shadow
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+instant: Arcane Torrent
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Rogue

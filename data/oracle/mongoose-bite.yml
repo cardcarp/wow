@@ -1,0 +1,18 @@
+card_name: Mongoose Bite
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 2 melee damage to target attacker, and that attacker has -2 ATK this turn.
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Survival

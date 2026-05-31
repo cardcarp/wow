@@ -1,0 +1,24 @@
+card_name: Sarlia
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 7
+
+text: Untargetable 1 → Other allies in your party are Elusive this turn.
+
+class:
+  - Warlock
+
+cost: '6'
+
+combat: Shadow
+
+temp: Succubus Demon

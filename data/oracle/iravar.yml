@@ -1,0 +1,23 @@
+card_name: Iravar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 1
+
+text: Pay 2 or remove an honor counter from a card you control → Iravar deals 1 holy damage to each opposing ally.
+
+cost: '6'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Draenei Paladin

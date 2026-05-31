@@ -1,0 +1,15 @@
+card_name: Nozdormus Presence
+
+layout: standard
+
+regulation:
+
+category: Misc
+
+errata: []
+
+text: 'If Deathwing had 10 or less damage on him when the last Raiding hero was destroyed, gain this Gift. Use this Gift: The Raiders choose a Raiding hero. It deals 4 melee damage to Deathwing.'
+
+temp: ''
+
+type: Gift

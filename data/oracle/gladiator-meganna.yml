@@ -1,0 +1,25 @@
+card_name: Gladiator Meganna
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: Arena allies in your party have Stealth .
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Rogue
+
+type: Arena

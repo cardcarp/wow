@@ -1,0 +1,21 @@
+card_name: Jinxy Blastwheel
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 4 → Flip Jinxy
+
+faction: Horde
+
+temp: Goblin Mage
+
+transform:
+  - id: ability
+    text: At the start of your turn, Jinxy deals 1 arcane damage to target hero for each ally you control.

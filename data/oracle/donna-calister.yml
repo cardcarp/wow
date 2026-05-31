@@ -1,0 +1,23 @@
+card_name: Donna Calister
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 7
+
+text: Protector When an opposing hero or ally attacks, ready Donna Calister.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

@@ -1,0 +1,17 @@
+card_name: Necrotic Plague
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero. Ongoing : At the start of the Lich King's turn, he deals 1 shadow damage to attached hero for each ally in its controller's graveyard."
+
+cost: '1'
+
+temp: ''
+
+type: Boss

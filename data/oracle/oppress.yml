@@ -1,0 +1,18 @@
+card_name: Oppress
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target ability. If you do, its controller discards a card.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Discipline

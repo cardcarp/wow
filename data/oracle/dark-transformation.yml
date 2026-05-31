@@ -1,0 +1,18 @@
+card_name: Dark Transformation
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Unholy Talent Attach to target Ghoul. Ongoing : Attached Ghoul has +7 / +7. When attached Ghoul deals damage to an opposing hero, destroy target opposing ally.'
+
+class:
+  - Death Knight
+
+cost: '5'
+
+temp: Unholy Attachment

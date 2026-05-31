@@ -1,0 +1,23 @@
+card_name: Morik
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Ferocity When Morik attacks, each player draws a card.
+
+cost: '3'
+
+combat: Frost
+
+faction: Horde
+
+temp: Orc Shaman

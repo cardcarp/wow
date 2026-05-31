@@ -1,0 +1,18 @@
+card_name: Touch of Brilliance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally you control. Ongoing : When attached ally deals combat damage to an opposing hero, draw a card.'
+
+class:
+  - Mage
+
+cost: '1'
+
+temp: Arcane

@@ -1,0 +1,21 @@
+card_name: Lady Jaina Proudmoore
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 35
+
+text: 'Brilliance Aura : If Jaina would deal damage with an ability, she deals that much +1 instead. On your turn: 8 → Flip Jaina.'
+
+faction: Alliance
+
+temp: Human Mage
+
+transform:
+  - id: ability
+    text: 'Teleport : When Jaina flips to this side, you may search your deck for up to two allies and put them into play. Empowered Brilliance Aura : If Jaina would deal damage with an ability, she deals that much +2 instead.'

@@ -1,0 +1,27 @@
+card_name: Bottled Void
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'When this item enters play, your hero deals 3 shadow damage to target opposing hero and heals 1 damage from itself for each damage dealt this way. On your turn: Exhaust a Warlock hero or ally you control and destroy this item → Your hero deals 3 shadow damage to target opposing hero and heals 1 damage from itself for each damage dealt this way.'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item Potion

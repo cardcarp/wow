@@ -1,0 +1,24 @@
+card_name: Hesriana
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: When Hesriana enters play, you may remove target opposing ally from the game, and Hesriana has that card's printed powers while it remains removed from the game.
+
+class:
+  - Warlock
+
+cost: '3'
+
+combat: Shadow
+
+temp: Succubus Demon

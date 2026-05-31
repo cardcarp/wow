@@ -1,0 +1,23 @@
+card_name: Wisp
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 1
+
+text: At the start of your turn, if Wisp is in your graveyard, you may pay 1 . If you do, put Wisp into your hand.
+
+cost: '1'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Wisp

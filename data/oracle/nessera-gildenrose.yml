@@ -1,0 +1,23 @@
+card_name: Nessera Gildenrose
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: 2 → Another target ally has Assault 1 this turn.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Night Elf Warrior

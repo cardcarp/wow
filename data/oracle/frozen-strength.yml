@@ -1,0 +1,18 @@
+card_name: Frozen Strength
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally, then Delve . Ongoing : Attached ally has +4 ATK.'
+
+class:
+  - Death Knight
+
+cost: '3'
+
+temp: Frost

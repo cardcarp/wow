@@ -1,0 +1,18 @@
+card_name: Rampage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Fury Hero Required Ongoing : When your hero deals combat damage with a weapon, put a slaughter counter on Rampage. Your hero has +1 ATK while attacking for each slaughter counter on Rampage.'
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Fury Talent

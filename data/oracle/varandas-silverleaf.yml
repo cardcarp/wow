@@ -1,0 +1,23 @@
+card_name: Varandas Silverleaf
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: When this ally enters play, you may turn a quest you control face down. If you do, this ally deals 3 nature damage to target ally.
+
+cost: '2'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Night Elf Druid

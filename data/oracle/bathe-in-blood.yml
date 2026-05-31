@@ -1,0 +1,15 @@
+card_name: Bathe in Blood
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Magtheridon deals 2 melee damage to target hero or ally. If Magtheridon is Unleashed, gain a Blood.
+
+cost: '0'
+
+temp: ''

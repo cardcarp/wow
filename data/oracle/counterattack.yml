@@ -1,0 +1,18 @@
+card_name: Counterattack
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Survival Talent Play this ability only if your hero has 5 or less remaining health. Take an additional turn after this one.
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Survival

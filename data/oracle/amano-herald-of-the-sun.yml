@@ -1,0 +1,23 @@
+card_name: Amano, Herald of the Sun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: 'Empower Paladin : When this ally enters play, if you control another Paladin hero or ally, each ally you control with cost 2 or less has +X ATK this turn, where X is its ATK.'
+
+cost: '4'
+
+combat: Holy
+
+faction: Horde
+
+temp: Tauren Paladin

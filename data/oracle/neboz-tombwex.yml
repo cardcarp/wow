@@ -1,0 +1,23 @@
+card_name: Neboz Tombwex
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: "Protector On your turn: 5 → Put target equipment on the bottom of its owner's deck."
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Goblin Death Knight

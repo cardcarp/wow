@@ -1,0 +1,21 @@
+card_name: Healing Wards
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'This item enters play with three ward counters on it. , Remove a ward counter from this item → Put a 0 / 1 Totem token into play with " Ongoing : Mend 1 ". When the last ward counter is removed from this item, destroy it.'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '2'
+
+temp: Item

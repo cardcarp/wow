@@ -1,0 +1,20 @@
+card_name: Tattered Dreadmist Mantle
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'If this equipment would prevent magical damage, it prevents that much +3 instead. Stash : The next time target hero or ally would be dealt magical damage this turn, prevent it.'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Armor Cloth

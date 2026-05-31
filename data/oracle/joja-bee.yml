@@ -1,0 +1,23 @@
+card_name: Joja_bee
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: When Joja'bee enters play, you may ready one of your resources.
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Troll Shaman

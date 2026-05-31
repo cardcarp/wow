@@ -1,0 +1,17 @@
+card_name: Heroic Presence
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Draenei Hero Required Ongoing : 2 → Allies in your party have +1 ATK this turn.'
+
+cost: '3'
+
+faction: Alliance
+
+temp: ''

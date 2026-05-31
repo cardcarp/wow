@@ -1,0 +1,17 @@
+card_name: Remorseless Winter
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : This ability enters play with four frozen counters. When an opponent plays a card, the Lich King deals 5 frost damage to that player's hero, then remove a frozen counter from this ability. If none remain, destroy this ability."
+
+cost: '3'
+
+temp: ''
+
+type: Boss

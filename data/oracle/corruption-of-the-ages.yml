@@ -1,0 +1,18 @@
+card_name: Corruption of the Ages
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Rift Your hero deals 5 shadow damage to target hero and heals 1 damage from itself for each damage dealt this way.
+
+class:
+  - Death Knight
+
+cost: '4'
+
+temp: Blood

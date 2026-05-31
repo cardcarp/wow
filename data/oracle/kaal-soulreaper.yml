@@ -1,0 +1,23 @@
+card_name: Kaal Soulreaper
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 6
+
+text: 7 , Remove Kaal Soulreaper from the game → Players put all ally cards from their graveyards into play.
+
+cost: '7'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Warlock

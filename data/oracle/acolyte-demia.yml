@@ -1,0 +1,23 @@
+card_name: Acolyte Demia
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 6
+
+text: 1 , Put 1 damage on Acolyte Demia → Demia deals 1 shadow damage to target hero or ally. Use only on your turn.
+
+cost: '6'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Warlock

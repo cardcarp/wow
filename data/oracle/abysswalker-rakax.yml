@@ -1,0 +1,23 @@
+card_name: Abysswalker Rakax
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: When this ally enters play, he may deal 1 fire damage to target ally. If that ally has fatal damage, remove it from the game.
+
+cost: '2'
+
+combat: Fire
+
+faction: Horde
+
+temp: Goblin Warlock

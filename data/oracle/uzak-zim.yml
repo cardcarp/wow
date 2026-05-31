@@ -1,0 +1,21 @@
+card_name: Uzak_zim
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 4 → Flip Uzak'zim
+
+faction: Horde
+
+temp: Troll Warlock
+
+transform:
+  - id: ability
+    text: At the start of your turn, Uzak'zim deals 1 shadow damage to each opposing hero and ally that has an attachment you control.

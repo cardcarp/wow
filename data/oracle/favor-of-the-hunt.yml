@@ -1,0 +1,18 @@
+card_name: Favor of the Hunt
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, your hero deals 2 fire damage to target hero or ally.'
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Survival

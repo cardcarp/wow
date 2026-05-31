@@ -1,0 +1,23 @@
+card_name: Narmak Doomratchet
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Elusive , Put X damage on your hero → Narmak Doomratchet deals X shadow damage to target ally.
+
+cost: '7'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Warlock

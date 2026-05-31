@@ -1,0 +1,23 @@
+card_name: Stephen Hathrow
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: 'On your turn: 3 , Destroy another ally you control → Destroy target equipment.'
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Warrior

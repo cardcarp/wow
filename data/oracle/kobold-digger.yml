@@ -1,0 +1,21 @@
+card_name: Kobold Digger
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this ally enters play, he deals 2 melee damage to each ally in the MARKED hero's party.
+
+combat: Melee
+
+temp: Kobold Miner
+
+type: Dungeon

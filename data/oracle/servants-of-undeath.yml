@@ -1,0 +1,15 @@
+card_name: Servants of Undeath
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: 'On your turn: Pay 1 to initiate this event. Event : Put up to two target cards from your graveyard into your hand.'
+
+temp: ''
+
+type: Boss

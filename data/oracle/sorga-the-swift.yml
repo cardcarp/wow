@@ -1,0 +1,23 @@
+card_name: Sorga the Swift
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Ferocity War Stomp
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Shaman

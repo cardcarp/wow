@@ -1,0 +1,18 @@
+card_name: Curse of Endless Suffering
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals 1 shadow damage to attached character. 3 → Search your deck for a card named Curse of Endless Suffering and attach it to attached character.'
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Affliction Curse

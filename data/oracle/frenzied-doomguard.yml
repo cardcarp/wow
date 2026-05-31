@@ -1,0 +1,26 @@
+card_name: Frenzied Doomguard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 6
+
+text: Smash If this ally would deal Smash damage, it deals that much +2 instead.
+
+class:
+  - Warlock
+
+cost: '6'
+
+combat: Shadow
+
+temp: Doomguard Demon
+
+type: Monster

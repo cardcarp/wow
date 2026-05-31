@@ -1,0 +1,15 @@
+card_name: Lie in Wait
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target ally has +1 ATK this turn. Target ally has -1 ATK this turn.
+
+cost: '1'
+
+temp: ''

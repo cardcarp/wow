@@ -1,0 +1,23 @@
+card_name: Durotan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 7
+
+text: When Durotan enters play, discard your hand. Durotan can protect Draka and Thrall allies you control.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

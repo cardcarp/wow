@@ -1,0 +1,23 @@
+card_name: Azami_tal the Flamebender
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: 'When this ally enters play, he deals X fire damage to target hero or ally, where X is the cost of another ally or equipment you control. Stash : If an opposing non-hero card would be destroyed this turn, remove it from the game instead.'
+
+cost: '6'
+
+combat: Fire
+
+faction: Horde
+
+temp: Troll Warlock

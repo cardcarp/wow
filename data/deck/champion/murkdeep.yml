@@ -1,0 +1,52 @@
+name: Murkdeep
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Champion
+  - Starter
+
+collection: champion
+
+highlight: murkdeep-001
+
+description: Murkdeep Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the Murkdeep
+
+total: 61
+
+list:
+  hero:
+    murkdeep-001: 1  # Murkdeep
+  main:
+    murkdeep-002: 2  # Elements_ Fury
+    murkdeep-003: 2 # Fork Lightning
+    murkdeep-004: 1 # Greater Chain Lightning
+    murkdeep-005: 2 # Monstrous Strike
+    murkdeep-006: 2 # RwlRwlRwlRwl!
+    murkdeep-007: 2 # Unleash the Swarm!
+    murkdeep-008: 2 # Bobbler
+    murkdeep-009: 2 # Brighteye
+    murkdeep-010: 2 # Bubblegil
+    murkdeep-011: 3 # Chumly
+    murkdeep-012: 2 # Crabbyfin
+    murkdeep-013: 1 # Gilblin Plunderer
+    murkdeep-014: 1 # Gobbler
+    murkdeep-015: 4 # Gutfin
+    murkdeep-016: 12 # Murloc Coastrunner
+    murkdeep-017: 2 # Swarmtooth
+    murkdeep-018: 1 # Bloodbanes Fall
+    murkdeep-019: 1 # Platinum Shield of the Valorous
+    murkdeep-020: 1 # Blackout Truncheon
+    murkdeep-021: 1 # Lightning Whelk Axe
+    murkdeep-022: 2 # An Ancient Awakens
+    murkdeep-023: 1 # Blueleaf Tubers
+    murkdeep-024: 2 # The Culmination of Our Efforts
+    murkdeep-025: 3 # Entrenched
+    murkdeep-026: 4 # The Key to Freedom
+    murkdeep-027: 2 # The Last Living Lorekeeper

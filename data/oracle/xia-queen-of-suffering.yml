@@ -1,0 +1,22 @@
+card_name: Xia, Queen of Suffering
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 20
+
+text: Flip Xia → Gain control of target ally. Use only on your turn.
+
+class:
+  - Warlock
+
+temp: Succubus Demon
+
+transform:
+  - id: ability
+    text: 'Deckbuilding: You can include only neutral quests, any abilities, and any allies with ally type Warlock. You can’t include cards with reputation or text restrictions (like Fire Hero Required ) .'

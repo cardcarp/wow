@@ -1,0 +1,19 @@
+card_name: Staunch Reprisal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Your hero has Protector . When your hero protects, it may deal 2 melee damage to target attacker.'
+
+class:
+  - Paladin
+  - Death Knight
+
+cost: '2'
+
+temp: Frost Protection

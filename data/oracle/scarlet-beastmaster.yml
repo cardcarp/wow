@@ -1,0 +1,21 @@
+card_name: Scarlet Beastmaster
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this ally enters play, she deals 4 fire damage to the Raiding ally with the highest cost. (Raiders choose in case of ties.)
+
+combat: Melee
+
+temp: Human Beastmaster
+
+type: Dungeon

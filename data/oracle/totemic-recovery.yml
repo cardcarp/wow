@@ -1,0 +1,18 @@
+card_name: Totemic Recovery
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put an Air, Earth, Fire, and Water Totem from your graveyard into play.
+
+class:
+  - Shaman
+
+cost: '4'
+
+temp: Elemental

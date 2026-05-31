@@ -1,0 +1,22 @@
+card_name: Signet of the Timewalker
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, add a time counter to this item. Then, if it has four or more time counters on it, destroy it. If you do, draw two cards.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item Ring

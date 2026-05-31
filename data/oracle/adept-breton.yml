@@ -1,0 +1,23 @@
+card_name: Adept Breton
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: 3 , → Adept Breton deals 1 arcane damage to each opposing hero and ally.
+
+cost: '2'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Human Mage

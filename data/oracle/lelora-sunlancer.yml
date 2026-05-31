@@ -1,0 +1,17 @@
+card_name: Lelora Sunlancer
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 3 , Flip Lelora → Prevent all damage that would be dealt to and dealt by target friendly ally this turn.
+
+faction: Horde
+
+temp: Blood Elf Paladin

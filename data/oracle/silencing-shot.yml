@@ -1,0 +1,18 @@
+card_name: Silencing Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Marksmanship Hero Required You may exhaust one of your Ranged weapons rather than pay Silencing Shot's cost. Your hero deals 2 ranged damage to target hero or ally. If you targeted a hero, its controller can't play abilities this turn, and you may interrupt an ability card he played.
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Marksmanship Talent

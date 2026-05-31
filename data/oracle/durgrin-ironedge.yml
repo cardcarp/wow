@@ -1,0 +1,23 @@
+card_name: Durgrin Ironedge
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: When Durgrin enters play, you may exhaust target equipment. That equipment can't ready during its controller's ready step while Durgrin remains in your party.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Rogue

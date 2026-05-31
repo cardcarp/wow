@@ -1,0 +1,23 @@
+card_name: Erytheis
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When this ally is destroyed, she deals 1 arcane damage to target hero or ally.
+
+cost: '1'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Undead Mage

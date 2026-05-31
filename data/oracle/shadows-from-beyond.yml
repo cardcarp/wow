@@ -1,0 +1,18 @@
+card_name: Shadows from Beyond
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Warp Your hero deals 3 shadow damage to target ally. If fatal damage is dealt this way, its controller chooses and discards a card.
+
+class:
+  - Priest
+
+cost: '4'
+
+temp: Shadow

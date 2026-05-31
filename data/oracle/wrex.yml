@@ -1,0 +1,23 @@
+card_name: Wrex
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Protector
+
+cost: '2'
+
+combat: Frost
+
+faction: Horde
+
+temp: Goblin Death Knight

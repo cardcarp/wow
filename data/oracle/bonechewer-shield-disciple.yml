@@ -1,0 +1,21 @@
+card_name: Bonechewer Shield Disciple
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: Traitor Hero Required Protector
+
+cost: '4'
+
+combat: Melee
+
+temp: Fel Orc Warrior Traitor

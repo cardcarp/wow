@@ -1,0 +1,23 @@
+card_name: Mannoroth the Flayer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 9
+
+text: Protector Other allies you control have Assault 2 . Non- allies opponents control have -2 ATK.
+
+cost: '8'
+
+combat: Melee
+
+temp: Pit Lord Demon Warrior
+
+type: Monster

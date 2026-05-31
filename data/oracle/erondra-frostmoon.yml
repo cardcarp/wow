@@ -1,0 +1,17 @@
+card_name: Erondra Frostmoon
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 'If you control another Death Knight: Flip Erondra → Target ally has -2 this turn.'
+
+faction: Alliance
+
+temp: Night Elf Death Knight

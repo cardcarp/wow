@@ -1,0 +1,23 @@
+card_name: Lifemistress Tanagra
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: allies in your party have +1 ATK for each other ally in your party.
+
+cost: '6'
+
+combat: Nature
+
+faction: Horde
+
+temp: Orc Shaman

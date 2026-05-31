@@ -1,0 +1,23 @@
+card_name: Lokholar the Ice Lord
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 10
+
+health: 10
+
+text: You pay 1 less to play Lokholar for each non-token Horde ally in your party. At the start of each opponent's turn, Lokholar deals 2 frost damage to each hero and ally in that player's party. A character dealt damage this way can't attack this turn.
+
+cost: '14'
+
+combat: Frost
+
+faction: Horde
+
+temp: Elemental

@@ -1,0 +1,18 @@
+card_name: Tanglevine
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target ally. Ongoing : Attached ally can't ready during its controller's ready step."
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Balance

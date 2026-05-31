@@ -1,0 +1,18 @@
+card_name: Despair of Winter
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy all allies.
+
+class:
+  - Death Knight
+
+cost: '5'
+
+temp: Frost

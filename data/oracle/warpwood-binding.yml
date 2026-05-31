@@ -1,0 +1,18 @@
+card_name: Warpwood Binding
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You pay 1 less to strike with Ranged weapons.
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Armor Mail

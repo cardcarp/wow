@@ -1,0 +1,23 @@
+card_name: Sira_kess Tide Priestess
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: 'Empower Monster : When this ally enters play, if you control another Monster hero or ally, you may put target ally from your graveyard into your hand.'
+
+cost: '3'
+
+combat: Shadow
+
+temp: Naga Priest
+
+type: Monster

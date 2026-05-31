@@ -1,0 +1,18 @@
+card_name: Thrill of the Hunt
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Survival Hero Required Destroy target ally. If you do, ready up to X of your resources, where X is that ally's cost.
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Survival Talent

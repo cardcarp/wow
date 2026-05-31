@@ -1,0 +1,23 @@
+card_name: Arnerus Brightsteppe
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Each of your armor has +5 DEF while your hero is attacking.
+
+cost: '1'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Shaman

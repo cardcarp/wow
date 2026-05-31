@@ -1,0 +1,17 @@
+card_name: Nimaasus the Implacable
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 3 , Flip Nimaasus → Nimaasus deals X holy damage to target ally, where X is the amount of damage that ally dealt to Nimaasus this turn.
+
+faction: Alliance
+
+temp: Draenei Paladin

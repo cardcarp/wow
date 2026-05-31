@@ -1,0 +1,23 @@
+card_name: Lilith Smythe
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When Lilith readies, you may remove an ally card in your graveyard from the game. If you do, destroy target ability.
+
+cost: '2'
+
+combat: Holy
+
+faction: Horde
+
+temp: Undead Priest

@@ -1,0 +1,18 @@
+card_name: Flamesoul Weapon
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target weapon. Ongoing : Attached weapon has +ATK equal to the highest ATK among allies you control.'
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Enhancement Attachment

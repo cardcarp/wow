@@ -1,0 +1,23 @@
+card_name: Wimbly Tinkerton
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: Protector When Wimbly defends, draw a card.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Warrior

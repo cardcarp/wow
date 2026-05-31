@@ -1,0 +1,23 @@
+card_name: Daniel Darkheart
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: 1 , Put 1 damage on this ally → Put a 1 / 1 Human Warrior ally token into play with Protector .
+
+cost: '4'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Warlock

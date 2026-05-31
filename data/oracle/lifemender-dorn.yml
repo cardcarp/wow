@@ -1,0 +1,23 @@
+card_name: Lifemender Dorn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: 'Once per turn: 1 → This ally heals 1 damage from target hero or ally.'
+
+cost: '1'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

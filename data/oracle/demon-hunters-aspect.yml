@@ -1,0 +1,27 @@
+card_name: Demon Hunters Aspect
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has +1 ATK while attacking heroes, or +2 ATK while attacking Demon heroes.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item

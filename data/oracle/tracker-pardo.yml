@@ -1,0 +1,23 @@
+card_name: Tracker Pardo
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: Long-Range Pardo has +1 ATK for each other ally in your party.
+
+cost: '4'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Night Elf Hunter

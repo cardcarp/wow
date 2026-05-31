@@ -1,0 +1,20 @@
+card_name: Corrupted Ashbringer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: This weapon enters play with three corruption counters. When you strike with this weapon, choose and destroy a card you control for each corruption counter on this weapon, then remove a corruption counter. When this weapon has no corruption counters, its damage type is and it has Invincible .
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '4'
+
+temp: 2H Weapon Sword

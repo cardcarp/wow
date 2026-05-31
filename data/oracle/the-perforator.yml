@@ -1,0 +1,19 @@
+card_name: The Perforator
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: This weapon has +X ATK, where X is the highest cost among Dragonkin allies you control.
+
+class:
+  - Shaman
+  - Rogue
+
+cost: '4'
+
+temp: 1H Weapon Fist

@@ -1,0 +1,18 @@
+card_name: Mirror Image
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put three 0 / 1 Mirror ally tokens into play with "If damage would be dealt to your hero, it's dealt to a random hero or Mirror you control instead."
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Arcane

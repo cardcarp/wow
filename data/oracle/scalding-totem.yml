@@ -1,0 +1,26 @@
+card_name: Scalding Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+damage: 0
+
+health: 3
+
+text: "Ongoing : At the end of your turn, add a flame counter to this Totem. When this totem is destroyed, put a 2 / 2 Fire Elemental ally token into play for each flame counter that was on this Totem. 6 → Destroy this Totem. (Totems can't attack.)"
+
+class:
+  - Shaman
+
+cost: '3'
+
+combat: Fire
+
+temp: Elemental
+
+type: Ally

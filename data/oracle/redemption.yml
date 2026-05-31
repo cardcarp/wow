@@ -1,0 +1,18 @@
+card_name: Redemption
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put target ally from your graveyard into play if its cost is less than or equal to the number of resources you control. Draw a card.
+
+class:
+  - Paladin
+
+cost: '5'
+
+temp: Holy

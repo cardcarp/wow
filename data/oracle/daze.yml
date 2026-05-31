@@ -1,0 +1,18 @@
+card_name: Daze
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Look at target player's hand and choose a card. He discards that card. Stash : Look at target player's hand."
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Combat

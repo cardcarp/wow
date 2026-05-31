@@ -1,0 +1,23 @@
+card_name: Snarl Hellwind
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Destroy an ally in your party other than Snarl Hellwind → Snarl has +1 ATK this turn.
+
+cost: '1'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Warlock

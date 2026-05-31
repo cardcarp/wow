@@ -1,0 +1,18 @@
+card_name: Heroic Bulwark
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Armor you control have +3 this turn.
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection

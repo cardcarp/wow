@@ -1,0 +1,17 @@
+card_name: Quake
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Exhaust all opposing cards.
+
+cost: '1'
+
+temp: ''
+
+type: Boss

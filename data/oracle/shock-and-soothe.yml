@@ -1,0 +1,18 @@
+card_name: Shock and Soothe
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 3 nature damage to target hero or ally and heals 3 damage from another hero or ally.
+
+class:
+  - Shaman
+
+cost: '4'
+
+temp: Elemental

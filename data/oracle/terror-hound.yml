@@ -1,0 +1,23 @@
+card_name: Terror Hound
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: When this ally enters play, you may switch the ATK and of target ally this turn.
+
+cost: '1'
+
+combat: Melee
+
+temp: Void Terror Demon
+
+type: Monster

@@ -1,0 +1,18 @@
+card_name: Distraction Technique
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When an ally or equipment enters play under your control, your hero has Assault 1 this turn, and you may exhaust target hero or ally.'
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Combat

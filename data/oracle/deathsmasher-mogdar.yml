@@ -1,0 +1,21 @@
+card_name: Deathsmasher Mogdar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+cost: '5'
+
+combat: Frost
+
+temp: Ogre Death Knight
+
+type: Monster

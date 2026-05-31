@@ -1,0 +1,23 @@
+card_name: Lairin the Grounded
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 3
+
+text: Arcane Resistance Nature Resistance
+
+cost: '6'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Draenei Hunter

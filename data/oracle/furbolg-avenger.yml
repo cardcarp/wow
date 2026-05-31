@@ -1,0 +1,23 @@
+card_name: Furbolg Avenger
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 1
+
+text: While you have six or more cards in your graveyard, this ally has +4 and Protector .
+
+cost: '5'
+
+combat: Melee
+
+temp: Furbolg Warrior
+
+type: Monster

@@ -1,0 +1,23 @@
+card_name: Mayla Finksputter
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Escape Artist When Mayla leaves play, you may draw a card.
+
+cost: '3'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Gnome Mage

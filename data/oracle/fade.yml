@@ -1,0 +1,18 @@
+card_name: Fade
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Play only if an ally is in your party. Your hero is Elusive and Untargetable this turn.
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Shadow

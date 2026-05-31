@@ -1,0 +1,18 @@
+card_name: Viper Sting
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Attach to target hero. Ongoing : At the start of attached hero's controller's turn, he exhausts one of his resources, or two if you have a Ranged weapon."
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Marksmanship Sting

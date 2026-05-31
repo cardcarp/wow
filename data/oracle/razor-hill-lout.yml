@@ -1,0 +1,23 @@
+card_name: Razor Hill Lout
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 3
+
+text: 1 → Remove this ally from combat.
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Rogue

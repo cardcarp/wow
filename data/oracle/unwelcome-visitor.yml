@@ -1,0 +1,15 @@
+card_name: Unwelcome Visitor
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target player destroys an ally in his party.
+
+cost: '4'
+
+temp: ''

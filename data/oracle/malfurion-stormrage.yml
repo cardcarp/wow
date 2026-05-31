@@ -1,0 +1,21 @@
+card_name: Malfurion Stormrage
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 8
+
+text: Protector , Stealth , Untargetable At the start of your turn, you may put target ally with cost less than or equal to the number of resources you control from your graveyard into play.
+
+cost: '8'
+
+combat: Nature
+
+temp: Night Elf Archdruid

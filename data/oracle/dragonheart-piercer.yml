@@ -1,0 +1,18 @@
+card_name: Dragonheart Piercer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Long-Range This weapon has +1 ATK for each different color among Dragonkin you control. (Dragonkin colors are Black, Blue, Bronze, Green, Red, and Twilight.)
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Ranged Weapon Crossbow

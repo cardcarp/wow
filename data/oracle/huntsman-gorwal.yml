@@ -1,0 +1,21 @@
+card_name: Huntsman Gorwal
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 5 → Flip Gorwal
+
+faction: Alliance
+
+temp: Worgen Hunter
+
+transform:
+  - id: ability
+    text: Pets you control have Ferocity .

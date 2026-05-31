@@ -1,0 +1,18 @@
+card_name: Cut to the Chase
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: As an additional cost to play, remove up to five Combo cards in your graveyard from the game. Your hero deals that much melee damage to each opposing ally.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Assassination Finishing Move

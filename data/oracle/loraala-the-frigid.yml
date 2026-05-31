@@ -1,0 +1,17 @@
+card_name: Loraala the Frigid
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 2 , Flip Loraala → Loraala deals 3 frost damage to target hero. A hero dealt damage this way can't attack this turn.
+
+faction: Alliance
+
+temp: Draenei Mage

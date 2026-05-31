@@ -1,0 +1,18 @@
+card_name: Keys to the Armory
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Search your deck for an equipment card, reveal it, and put it into hand.
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Protection

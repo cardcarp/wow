@@ -1,0 +1,23 @@
+card_name: Kileana Darkblaze
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: When Kileana enters play, she deals 2 fire damage to your hero and each other ally in your party.
+
+cost: '4'
+
+combat: Fire
+
+faction: Horde
+
+temp: Blood Elf Warlock

@@ -1,0 +1,23 @@
+card_name: Zizzlix Drizzledrill
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: Opponents can't target this ally.
+
+cost: '2'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Goblin Priest

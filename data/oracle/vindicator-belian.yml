@@ -1,0 +1,21 @@
+card_name: Vindicator Belian
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Aldor Reputation If an ally in your party other than Belian would be dealt damage, it's dealt to Belian instead.
+
+cost: '1'
+
+combat: Holy
+
+temp: Draenei Paladin

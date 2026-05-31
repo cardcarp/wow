@@ -1,0 +1,18 @@
+card_name: Twisted Rampage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: As an additional cost to play this ability, destroy an ability, ally, or equipment you control. Ready your hero and all Melee weapons you control. Melee weapons you control have +2 ATK, and you pay 2 less to strike with them this turn.
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Fury

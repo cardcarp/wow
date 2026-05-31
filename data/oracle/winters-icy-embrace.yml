@@ -1,0 +1,19 @@
+card_name: Winters Icy Embrace
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Opposing heroes and allies lose and can't have Resistances .
+
+class:
+  - Druid
+  - Rogue
+
+cost: '1'
+
+temp: Armor Leather

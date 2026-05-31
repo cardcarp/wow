@@ -1,0 +1,26 @@
+name:
+  type: string
+  required: true
+  
+type:
+  type: string
+  required: true
+  allowed: ['set', 'raid', 'starter', 'promo', 'craft', 'dungeon', 'badge', 'token']
+
+lex:
+  type: string
+  nullable: true
+
+subtotal:
+  type: integer
+
+total:
+  type: integer
+
+date_release:
+  type: string
+  regex: '^[0-9]{4}-[0-9]{2}$'
+
+collection:
+  type: string
+  required: true

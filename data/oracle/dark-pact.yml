@@ -1,0 +1,18 @@
+card_name: Dark Pact
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Affliction Hero Required As an additional cost to play Dark Pact, destroy one of your Pets. Draw X cards, where X is the cost of the Pet you destroyed.
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Affliction Talent

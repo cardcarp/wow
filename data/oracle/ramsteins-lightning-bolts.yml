@@ -1,0 +1,26 @@
+card_name: Ramsteins Lightning Bolts
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , Destroy Ramstein's Lightning Bolts → Your hero deals 1 nature damage to each hero and ally.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item Trinket

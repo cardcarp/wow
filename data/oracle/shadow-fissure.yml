@@ -1,0 +1,15 @@
+card_name: Shadow Fissure
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target up to one raiding ability, up to one raiding ally, and up to one raiding equipment. Remove them from the game.
+
+cost: '6'
+
+temp: Naxxramas

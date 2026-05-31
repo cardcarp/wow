@@ -1,0 +1,23 @@
+card_name: Bloodsoul
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: This ally can attack only heroes.
+
+cost: '1'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Warlock

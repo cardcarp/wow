@@ -1,0 +1,13 @@
+card_name: No Mercy
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: "Ongoing : Allies can attack only allies with lower cost. (They can't attack heroes.) Heroes can attack only heroes with more damage. (They can't attack allies.)"
+
+temp: ''

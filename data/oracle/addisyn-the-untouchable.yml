@@ -1,0 +1,17 @@
+card_name: Addisyn the Untouchable
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 3 , Flip Addisyn → Choose arcane, fire, frost, nature, or shadow. Addisyn has the chosen resistance this turn.
+
+faction: Horde
+
+temp: Blood Elf Paladin

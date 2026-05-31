@@ -1,0 +1,23 @@
+card_name: Virendra Moonglow
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Haste 2 When this ally enters play, if you control another Night Elf ally, you may destroy target ability.
+
+cost: '7'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Night Elf Priest

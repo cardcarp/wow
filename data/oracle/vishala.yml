@@ -1,0 +1,23 @@
+card_name: Vishala
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Frost Resistance → Target ally can't attack or protect this turn.
+
+cost: '1'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Draenei Shaman

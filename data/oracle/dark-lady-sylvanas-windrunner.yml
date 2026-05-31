@@ -1,0 +1,21 @@
+card_name: Dark Lady Sylvanas Windrunner
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 5 → Flip Sylvanas face down.
+
+faction: Horde
+
+temp: Undead Hunter
+
+transform:
+  - id: ability
+    text: 'Song of Sylvanas : Sylvanas and allies you control have Assault 1 .'

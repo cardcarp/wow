@@ -1,0 +1,23 @@
+card_name: Ashroot, Ancient of Lore
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 9
+
+text: Protector When this ally is dealt combat damage while defending, put a 1 / 1 Treant ally token into play.
+
+cost: '7'
+
+combat: Nature
+
+temp: Ancient Druid
+
+type: Monster

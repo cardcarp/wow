@@ -1,0 +1,21 @@
+card_name: Crusade Engineer Spitzpatrick
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Argent Crusade Reputation Protector When this or another Unique ally enters play under your control, you may draw a card.
+
+cost: '4'
+
+combat: Melee
+
+temp: Gnome Engineer

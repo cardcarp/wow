@@ -1,0 +1,18 @@
+card_name: Soul Rend
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target opponent puts an ally from his party into its owner's hand. If he does, that opponent discards a card.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Shadow

@@ -1,0 +1,18 @@
+card_name: Halo of Transcendence
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Your hero heals 1 damage from target ally. When you play a ability, ready Halo of Transcendence.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Armor Cloth

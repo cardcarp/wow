@@ -1,0 +1,18 @@
+card_name: Presence of Mind
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Arcane Hero Required Cards in your hand are instant this turn until you play a card.
+
+class:
+  - Mage
+
+cost: '0'
+
+temp: Arcane Talent

@@ -1,0 +1,18 @@
+card_name: Searing Light
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Holy Hero Required Ongoing : 2 , Discard an ability card → Your hero deals 3 unpreventable holy damage to target hero or ally. Destroy Searing Light → Your hero deals 3 unpreventable holy damage to target hero or ally.'
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Holy Talent

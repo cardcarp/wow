@@ -1,0 +1,26 @@
+card_name: Phoenix-fire Band
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , Destroy Phoenix-fire Band → Prevent all fire ( ) damage that would be dealt to target hero or ally this turn.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Ring

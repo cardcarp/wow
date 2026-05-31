@@ -1,0 +1,18 @@
+card_name: Detect Traps
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Choose "ability," "ally," or "equipment," and then target player reveals his hand and discards all cards of that kind.
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: Subtlety

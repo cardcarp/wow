@@ -1,0 +1,21 @@
+card_name: Veteran Crusader Aliocha Segard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Argent Crusade Reputation Protector This ally has +1 / +1 for each other Unique ally you control.
+
+cost: '1'
+
+combat: Holy
+
+temp: Human Paladin

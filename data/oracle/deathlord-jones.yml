@@ -1,0 +1,23 @@
+card_name: Deathlord Jones
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: "When this ally enters play, put a 3 / 3 Unique Ghoul ally token named Brode into play exhausted with \"This ally can't ready during its controller's ready step.\" Once per turn, on your turn: 3 → This ally deals 3 shadow damage to target hero or ally. Ready a Ghoul you control."
+
+cost: '4'
+
+combat: Frost
+
+faction: Horde
+
+temp: Undead Death Knight

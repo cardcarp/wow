@@ -1,0 +1,18 @@
+card_name: Heart of the Wild
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Feral Hero Required Ongoing : Your hero has +10 health while in bear form. Your hero has +2 ATK while attacking in cat form.'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Feral Talent

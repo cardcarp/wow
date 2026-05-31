@@ -1,0 +1,21 @@
+card_name: Spymaster Thalodien
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: 'Scryer Reputation , Sabotage: Deck When Talodien sabotages a deck, reveal cards from the top until you reveal a non-quest card. Remove that card from the game and put the rest on the bottom. You may play that card without paying its play cost this turn. (If it has X in its play cost, X is 0.)'
+
+cost: '5'
+
+combat: Melee
+
+temp: Blood Elf Rogue

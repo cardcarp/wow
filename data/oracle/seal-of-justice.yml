@@ -1,0 +1,18 @@
+card_name: Seal of Justice
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : When your hero deals combat damage with a weapon, exhaust target hero or ally. It can't ready during its controller's next ready step. 1 , Destroy Seal of Justice → Exhaust target hero or ally. It can't ready during its controller's next ready step."
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Protection

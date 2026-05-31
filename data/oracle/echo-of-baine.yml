@@ -1,0 +1,23 @@
+card_name: Echo of Baine
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 9
+
+health: 1
+
+text: While there is an Echo of Baine in your graveyard, prevent all damage that would be dealt to this ally, and he has Ferocity .
+
+cost: '7'
+
+combat: Fire
+
+temp: Tauren Echo
+
+type: Monster

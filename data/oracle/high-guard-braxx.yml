@@ -1,0 +1,23 @@
+card_name: High Guard Braxx
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: Protector When this ally enters play, he may deal 2 melee damage to target damaged hero or ally.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Goblin Warrior

@@ -1,0 +1,18 @@
+card_name: Soothing Wave
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero heals 4 damage from each of up to two target heroes and/or allies.
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Restoration

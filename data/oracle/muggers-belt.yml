@@ -1,0 +1,18 @@
+card_name: Muggers Belt
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals combat damage to a hero, that hero's controller discards a card and you draw a card.
+
+class:
+  - Rogue
+
+cost: '6'
+
+temp: Armor Leather

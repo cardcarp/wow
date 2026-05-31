@@ -1,0 +1,20 @@
+card_name: Robe of the Waking Nightmare
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Dragonkin you control have +1 / +1.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: Armor Cloth

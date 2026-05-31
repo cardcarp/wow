@@ -1,0 +1,15 @@
+card_name: Take Cover
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Opponents choose a player. Prevent all damage that would be dealt to heroes and allies in that player's party this turn.
+
+temp: ''
+
+type: Raid

@@ -1,0 +1,24 @@
+card_name: Dreadsteed
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 5
+
+text: You pay 1 less to complete quests. When you place a resource face up, your hero may deal 2 shadow damage to target hero or ally. (Mounts can't attack or be attacked.)
+
+class:
+  - Warlock
+
+cost: '2'
+
+combat: Melee
+
+temp: Dreadsteed Demon

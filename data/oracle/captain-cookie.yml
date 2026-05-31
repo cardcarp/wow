@@ -1,0 +1,23 @@
+card_name: Captain Cookie
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: As Cookie enters play, reveal the top five cards of your deck. Remove all revealed Murlocs from the game and put the rest on the bottom of your deck. Cookie enters play with the printed powers of all Murlocs removed this way.
+
+cost: '6'
+
+combat: Nature
+
+temp: Murloc Cook
+
+type: Monster

@@ -1,0 +1,21 @@
+card_name: High Inquisitor Fairbanks
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 8
+
+text: 'Boss Ferocity Holy Word : When Fairbanks enters play, if he was the first Dungeon card flipped this turn, he deals 6 unpreventable holy damage to the MARKED hero. Then, shuffle him back into the Dungeon deck.'
+
+combat: Holy
+
+temp: Undead Priest
+
+type: Dungeon

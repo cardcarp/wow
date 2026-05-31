@@ -1,0 +1,19 @@
+card_name: Lava Annihilator
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: When Lava Annihilator enters play, you may destroy target ally.
+
+combat: Melee
+
+temp: Elemental Minion

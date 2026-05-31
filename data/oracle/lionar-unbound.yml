@@ -1,0 +1,17 @@
+card_name: Lionar, Unbound
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 3 , Flip Lionar → Protectors in your party have +2 ATK this turn.
+
+faction: Horde
+
+temp: Orc Warrior

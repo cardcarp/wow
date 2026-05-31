@@ -1,0 +1,21 @@
+card_name: Mor_zul Bloodbringer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 5
+
+text: 1 , Remove a Warlock ally you control from the game → Remove target ally from the game.
+
+cost: '5'
+
+combat: Shadow
+
+temp: Human Warlock

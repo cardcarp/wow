@@ -1,0 +1,18 @@
+card_name: Bait the Trap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Ongoing : Trap cards in your hand also have \"You may exhaust a defending ally in your party rather than pay this card's cost.\""
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Survival

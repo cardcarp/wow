@@ -1,0 +1,18 @@
+card_name: Ravenous Frenzy
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target ally has +4 ATK this turn. Target ally has -4 ATK this turn.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Beast Mastery

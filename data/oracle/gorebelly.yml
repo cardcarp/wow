@@ -1,0 +1,17 @@
+card_name: Gorebelly
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 1 , Flip Gorebelly → You pay 3 less the next time you strike with a Melee weapon this turn.
+
+faction: Horde
+
+temp: Orc Warrior

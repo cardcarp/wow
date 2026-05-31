@@ -1,0 +1,18 @@
+card_name: Starburst
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 3 arcane damage to target hero or ally. Then, you may put this ability into your resource row face down and exhausted.
+
+class:
+  - Druid
+
+cost: '4'
+
+temp: Balance

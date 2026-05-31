@@ -1,0 +1,23 @@
+card_name: Ring of Invincibility
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , → Target ally has Invincible this turn.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Shaman
+
+cost: '3'
+
+temp: Item Ring

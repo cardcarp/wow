@@ -1,0 +1,23 @@
+card_name: Brighteye
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: When this or another Murloc ally enters play under your control, this ally heals 3 damage from target hero or ally.
+
+cost: '3'
+
+combat: Holy
+
+temp: Murloc Priest
+
+type: Monster

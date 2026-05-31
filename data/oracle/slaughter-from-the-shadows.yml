@@ -1,0 +1,18 @@
+card_name: Slaughter from the Shadows
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Play only if your hero has stealth. Destroy all exhausted allies.
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: Assassination

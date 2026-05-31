@@ -1,0 +1,23 @@
+card_name: Torashu Stronghoof
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Mend 2 This ally has -1 ATK for each damage on him.
+
+cost: '4'
+
+combat: Frost
+
+faction: Horde
+
+temp: Tauren Shaman

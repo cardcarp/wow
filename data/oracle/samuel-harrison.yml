@@ -1,0 +1,23 @@
+card_name: Samuel Harrison
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: Protector Will of the Forsaken
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Warrior

@@ -1,0 +1,18 @@
+card_name: Arcanite Reaper
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+
+cost: '7'
+
+temp: 2H Weapon Axe

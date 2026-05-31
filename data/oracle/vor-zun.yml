@@ -1,0 +1,23 @@
+card_name: Vor_zun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play, target ally has Long-Range this turn.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Hunter

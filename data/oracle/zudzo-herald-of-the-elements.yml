@@ -1,0 +1,23 @@
+card_name: Zudzo, Herald of the Elements
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: 'Empower Shaman : When this ally enters play, if you control another Shaman hero or ally, this ally deals 3 nature damage to target hero or ally and heals 3 damage from a second target hero or ally.'
+
+cost: '5'
+
+combat: Nature
+
+faction: Horde
+
+temp: Goblin Shaman

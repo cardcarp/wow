@@ -1,0 +1,18 @@
+card_name: Taunt
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero or ally. Ongoing : Attached character must attack if able and can attack only your hero if able.'
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Protection

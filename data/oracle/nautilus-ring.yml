@@ -1,0 +1,21 @@
+card_name: Nautilus Ring
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You have no maximum hand size. At the start of your turn, your hero heals damage from itself equal to the number of cards in your hand.
+
+class:
+  - Druid
+  - Shaman
+  - Hunter
+  - Rogue
+
+cost: '4'
+
+temp: Item Ring

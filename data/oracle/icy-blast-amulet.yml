@@ -1,0 +1,23 @@
+card_name: Icy Blast Amulet
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero is dealth damage on an opponent's turn, you may pay 1 . If you do, it deals 1 frost damage to target hero or ally.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Shaman
+
+cost: '2'
+
+temp: Item Neck

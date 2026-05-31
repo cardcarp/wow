@@ -1,0 +1,20 @@
+card_name: Mana-Etched Crown
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Put target ability card from your graveyard into your resource row face down and exhausted. Use only if you have seven or more cards in hand.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '4'
+
+temp: Armor Cloth

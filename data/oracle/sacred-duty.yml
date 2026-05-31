@@ -1,0 +1,18 @@
+card_name: Sacred Duty
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Your hero has Protector . When your hero protects, it heals 1 damage from itself.'
+
+class:
+  - Paladin
+
+cost: '3'
+
+temp: Protection

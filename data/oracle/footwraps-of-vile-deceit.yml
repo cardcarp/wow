@@ -1,0 +1,19 @@
+card_name: Footwraps of Vile Deceit
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor enters play, target an opposing equipment. You control it while this armor remains under your control.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '4'
+
+temp: Armor Leather

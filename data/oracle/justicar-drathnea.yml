@@ -1,0 +1,23 @@
+card_name: Justicar Drathnea
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 8
+
+text: When this ally deals damage to a Paladin, that Paladin's controller discards a card.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Draenei Priest

@@ -1,0 +1,21 @@
+card_name: Teebus Blazing Longsword
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 → Teebu's Blazing Longsword has +1 ATK this turn.
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Rogue
+
+cost: '1'
+
+temp: 1H Weapon Sword

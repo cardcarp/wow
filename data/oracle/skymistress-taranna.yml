@@ -1,0 +1,23 @@
+card_name: Skymistress Taranna
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When another ally enters your party, draw a card.
+
+cost: '3'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Tauren Druid

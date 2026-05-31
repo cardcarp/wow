@@ -1,0 +1,23 @@
+card_name: Hulstom, Servant of the Light
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Shadow Resistance Mend 1
+
+cost: '2'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Draenei Paladin

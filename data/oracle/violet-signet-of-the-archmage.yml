@@ -1,0 +1,23 @@
+card_name: Violet Signet of the Archmage
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , , Turn a face-up resource you control face down → Add a charge counter to this item. → You pay 1 less to play your next ability this turn for each charge counter on this item.
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item Ring

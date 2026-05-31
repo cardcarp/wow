@@ -1,0 +1,18 @@
+card_name: Dragons Breath
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Fire Hero Required Your hero deals 3 fire damage divided as you choose to any number of target heroes and/or allies. A character dealt damage this way loses all powers this turn.
+
+class:
+  - Mage
+
+cost: '3'
+
+temp: Fire Talent

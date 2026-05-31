@@ -1,0 +1,23 @@
+card_name: Gertha, The Old Crone
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: 1 , , Destroy an ally in your party → Destroy target ally.
+
+cost: '3'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Warlock

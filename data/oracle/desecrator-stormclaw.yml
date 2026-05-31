@@ -1,0 +1,17 @@
+card_name: Desecrator Stormclaw
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Stormclaw, destroy a friendly ally → Put target Form card from your graveyard into your hand. Druids of the Fang
+
+faction: Horde
+
+temp: Tauren Druid

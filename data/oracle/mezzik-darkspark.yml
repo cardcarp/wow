@@ -1,0 +1,23 @@
+card_name: Mezzik Darkspark
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: ', Destroy an ally in your party → Mezzik Darkspark deals X shadow damage to target hero or ally, where X is the ATK of the destroyed ally.'
+
+cost: '1'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Warlock

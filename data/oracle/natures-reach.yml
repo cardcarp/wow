@@ -1,0 +1,18 @@
+card_name: Natures Reach
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Balance Hero Required Ongoing : Ally tokens in your party have +1 ATK / +1 health. 3 , → Put a Treant ally token into play with 1 ATK / 1 health.'
+
+class:
+  - Druid
+
+cost: '4'
+
+temp: Balance Talent

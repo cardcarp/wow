@@ -1,0 +1,23 @@
+card_name: Wanda Darkfizz
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Wanda is Elusive and Untargetable while you have a weapon.
+
+cost: '1'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Death Knight

@@ -1,0 +1,23 @@
+card_name: Ras_fari Bloodfrenzy
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 6
+
+text: Ferocity When Ras'fari attacks for the first time each turn, ready him if he has damage.
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Warrior

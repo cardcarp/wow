@@ -1,0 +1,17 @@
+card_name: Steelguard Adamson
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: '3 , Flip Adamson → Choose one: Add a +1 ATK counter to target weapon; or add a +1 counter to target armor.'
+
+faction: Alliance
+
+temp: Worgen Warrior

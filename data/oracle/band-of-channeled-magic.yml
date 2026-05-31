@@ -1,0 +1,22 @@
+card_name: Band of Channeled Magic
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, you may pay 2 . If you do, draw a card. Otherwise, destroy this item.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Ring

@@ -1,0 +1,18 @@
+card_name: Brutal Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Choose one: Your hero deals 1 melee damage to target ally, or destroy target damaged ally.'
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Fury

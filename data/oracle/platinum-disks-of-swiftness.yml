@@ -1,0 +1,27 @@
+card_name: Platinum Disks of Swiftness
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → You pay 1 less to play your next ally that shares a class with your hero this turn.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item Trinket

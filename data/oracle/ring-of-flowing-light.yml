@@ -1,0 +1,21 @@
+card_name: Ring of Flowing Light
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: ', Exhaust X of your equipment → Your hero heals X damage from itself.'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '1'
+
+temp: Item Ring

@@ -1,0 +1,20 @@
+card_name: Bonefist Gauntlets
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → You pay 2 less the next time you strike with a weapon this turn.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '2'
+
+temp: Armor Plate

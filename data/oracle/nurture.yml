@@ -1,0 +1,18 @@
+card_name: Nurture
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero or ally. Ongoing : Attached character has Mend 2 if it's a hero. Attached character has +2 / +2 if it's an ally. When attached character is destroyed, you may put this ability from its owner's graveyard into play under your control attached to target hero or ally."
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Restoration Attachment

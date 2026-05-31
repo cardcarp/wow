@@ -1,0 +1,23 @@
+card_name: High Warlord Gorebelly
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Hardiness This ally can attack any number of opposing heroes and/or allies at the same time. (This ally deals combat damage to each defender, and each defender deals combat damage back to this ally.)
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

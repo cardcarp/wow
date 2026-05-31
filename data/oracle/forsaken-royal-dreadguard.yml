@@ -1,0 +1,23 @@
+card_name: Forsaken Royal Dreadguard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: At the start of your turn, this ally deals 1 melee damage to target hero for each Forsaken Royal Dreadguard you and other friendly players control (including himself) .
+
+cost: '2'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Rogue

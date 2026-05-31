@@ -1,0 +1,21 @@
+card_name: Lord Walden
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 11
+
+text: 'Boss Mystery Toxin : When Walden attacks, randomly determine if Walden deals 3 nature damage to each exhausted Raiding ally or Walden deals 3 frost damage to each ready Raiding ally.'
+
+combat: Frost
+
+temp: Undead Mage
+
+type: Dungeon

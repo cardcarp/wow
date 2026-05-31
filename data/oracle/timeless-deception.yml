@@ -1,0 +1,18 @@
+card_name: Timeless Deception
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Echo Target opponent chooses and discards a card.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Subtlety

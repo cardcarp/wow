@@ -1,0 +1,15 @@
+card_name: Call of Yogg-Saron
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Monster Hero Required Attach to target hero. Its controller searches his hand and deck for four cards, removes them from the game face down, and puts the remaining cards into his graveyard. Ongoing : If attached hero's controller would draw a card, he puts a card removed this way into his hand instead. If he can't, destroy his hero."
+
+cost: '8'
+
+temp: Attachment

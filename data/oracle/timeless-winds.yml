@@ -1,0 +1,18 @@
+card_name: Timeless Winds
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Echo Target ally or weapon has +2 ATK this turn.
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Enhancement

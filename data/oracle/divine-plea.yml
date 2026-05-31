@@ -1,0 +1,18 @@
+card_name: Divine Plea
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: If you control an Aura, your hero deals 2 unpreventable holy damage to each opposing hero and ally. If you control a Blessing, draw two cards. If you control a Seal, ready your hero and all of your weapons.
+
+class:
+  - Paladin
+
+cost: '4'
+
+temp: Holy

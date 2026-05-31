@@ -1,0 +1,17 @@
+card_name: Zomm Hopeslayer
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: x , Flip Zomm Hopeslayer → Put X Combo cards from your removed from game zone into your graveyard.
+
+faction: Horde
+
+temp: Orc Rogue

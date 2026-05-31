@@ -1,0 +1,18 @@
+card_name: Mist of Corrosion
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Choose "ability," "ally," or "equipment." Target opponent destroys a card of that kind he controls unless he discards a card of that kind.
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Shadow

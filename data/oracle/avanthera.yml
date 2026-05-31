@@ -1,0 +1,23 @@
+card_name: Avanthera
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: 1 → If Avanthera is in combat, remove her from combat.
+
+cost: '2'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Night Elf Hunter

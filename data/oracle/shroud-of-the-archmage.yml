@@ -1,0 +1,18 @@
+card_name: Shroud of the Archmage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to your hero. Ongoing : Attached hero has: → Draw a card. → Your hero deals 4 fire damage to target hero. → Target ally can't attack or protect this turn."
+
+class:
+  - Mage
+
+cost: '6'
+
+temp: Arcane Fire Frost

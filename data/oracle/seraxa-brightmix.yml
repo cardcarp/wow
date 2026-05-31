@@ -1,0 +1,23 @@
+card_name: Seraxa Brightmix
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Elusive Each ally you control with an ability attached to it has +2 / +2.
+
+cost: '2'
+
+combat: Holy
+
+faction: Horde
+
+temp: Goblin Priest

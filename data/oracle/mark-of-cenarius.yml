@@ -1,0 +1,18 @@
+card_name: Mark of Cenarius
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target friendly ally. Ongoing : When this ability enters play, complete target quest you control without paying its cost. Attached ally has +1 / +1 for each face-down resource you control.'
+
+class:
+  - Druid
+
+cost: '4'
+
+temp: Restoration

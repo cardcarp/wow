@@ -1,0 +1,23 @@
+card_name: Pithran Mithrilshot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Elusive Long-Range
+
+cost: '5'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Dwarf Hunter

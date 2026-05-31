@@ -1,0 +1,20 @@
+card_name: Lava Spine
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this weapon is destroyed, you may destroy target equipment.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '4'
+
+temp: 1H Weapon Sword

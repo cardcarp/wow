@@ -1,0 +1,18 @@
+card_name: Berserker Rage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'You may destroy any number of abilities attached to your hero. Ongoing : Your hero has +1 ATK while attacking for each 5 damage on it.'
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Fury

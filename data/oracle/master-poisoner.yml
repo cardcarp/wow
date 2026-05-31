@@ -1,0 +1,18 @@
+card_name: Master Poisoner
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Assassination Hero Required Ongoing : You pay 1 less to play Poisons. At the start of your turn, your hero deals 1 nature damage to each opposing hero and ally for each Poison attached to it.'
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Assassination Talent

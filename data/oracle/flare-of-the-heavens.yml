@@ -1,0 +1,19 @@
+card_name: Flare of the Heavens
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: "Hero : At the start of your turn, you may look at the top card of an opponent's deck. You may put it into his graveyard. Hero : At the start of your turn, you may look at the top card of your deck. You may put it into your graveyard."
+
+class:
+  - Hunter
+  - Mage
+
+cost: '2'
+
+temp: Item Trinket

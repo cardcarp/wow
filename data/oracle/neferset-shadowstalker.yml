@@ -1,0 +1,23 @@
+card_name: Neferset Shadowstalker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 6
+
+text: Sentinel When this ally attacks, another target hero or ally has +2 ATK this turn.
+
+cost: '6'
+
+combat: Shadow
+
+temp: Tol'vir Hunter Warlock
+
+type: Monster

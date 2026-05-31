@@ -1,0 +1,17 @@
+card_name: Forang Deathrattle
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'On your turn: 3 , Flip Forang → Forang deals 2 shadow damage to target hero or ally and heals 1 damage from itself for each damage dealt this way.'
+
+faction: Horde
+
+temp: Orc Warlock

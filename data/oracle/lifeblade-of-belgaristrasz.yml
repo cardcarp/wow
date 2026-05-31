@@ -1,0 +1,18 @@
+card_name: Lifeblade of Belgaristrasz
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Finishing Move: Rogue When this weapon enters play, your hero deals X melee damage to target hero or ally and heals X damage from himself.'
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: 1H Weapon Dagger

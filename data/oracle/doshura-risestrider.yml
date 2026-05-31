@@ -1,0 +1,23 @@
+card_name: Doshura Risestrider
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Protector When Doshura enters play, you may destroy target exhausted ally.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Druid

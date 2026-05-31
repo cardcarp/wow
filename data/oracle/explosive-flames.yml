@@ -1,0 +1,18 @@
+card_name: Explosive Flames
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : If an opposing ally was destroyed this turn: 1 , → Your hero deals 1 fire damage to each opposing hero and ally.'
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Fire

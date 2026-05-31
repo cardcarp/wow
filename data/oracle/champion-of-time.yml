@@ -1,0 +1,21 @@
+card_name: Champion of Time
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When this ally enters play, if you control no ready resources, ready up to three resources you control.
+
+cost: '3'
+
+combat: Melee
+
+temp: Bronze Dragonkin

@@ -1,0 +1,17 @@
+card_name: Boarguts the Impaler
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 3 , Flip Boarguts → Boarguts has +1 ATK this turn for each of your weapons.
+
+faction: Horde
+
+temp: Orc Warrior

@@ -1,0 +1,18 @@
+card_name: Sacrificial Poison
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Traitor Hero Required Attach to target hero that your hero dealt combat damage to this turn. Ongoing : At the start of attached hero's controller's turn, he destroys an ally in his party."
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Poison Traitor

@@ -1,0 +1,23 @@
+card_name: Thrandis the Venomous
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+instant: When your hero defends, you may put two 1 / 1 Snake ally tokens into play.
+
+cost: '6'
+
+combat: Nature
+
+faction: Horde
+
+temp: Blood Elf Hunter

@@ -1,0 +1,15 @@
+card_name: Fools Gold
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the end of your turn, each opponent draws a card. On your turn: Destroy another ability, ally, or equipment you control → Target player gains control of this ability.'
+
+cost: '3'
+
+temp: ''

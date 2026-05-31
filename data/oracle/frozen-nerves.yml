@@ -1,0 +1,18 @@
+card_name: Frozen Nerves
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target non-hero card. Ongoing : Attached card can't attack or exhaust."
+
+class:
+  - Mage
+
+cost: '5'
+
+temp: Frost

@@ -1,0 +1,15 @@
+card_name: Sigil of the Legion
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : Attached ally has +1 / +1, or +2 / +2 if its a Demon.'
+
+cost: '2'
+
+temp: Attachment

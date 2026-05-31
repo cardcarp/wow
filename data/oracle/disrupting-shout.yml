@@ -1,0 +1,15 @@
+card_name: Disrupting Shout
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Interrupt target card. If you do, remove it from the game.
+
+cost: '2'
+
+temp: Naxxramas

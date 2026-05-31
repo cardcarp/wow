@@ -1,0 +1,18 @@
+card_name: Disarm Trap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Interrupt target instant.
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Subtlety

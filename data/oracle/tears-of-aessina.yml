@@ -1,0 +1,18 @@
+card_name: Tears of Aessina
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero heals 2 damage from each of up to two target heroes and/or allies.
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Restoration

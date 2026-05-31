@@ -1,0 +1,17 @@
+card_name: Indalamar
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 3 , Flip Indalamar → Heroes and allies in your party have Protector this turn.
+
+faction: Horde
+
+temp: Troll Warrior

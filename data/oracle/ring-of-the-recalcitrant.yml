@@ -1,0 +1,21 @@
+card_name: Ring of the Recalcitrant
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Friendly heroes have +1 ATK while attacking.
+
+class:
+  - Druid
+  - Warrior
+  - Hunter
+  - Rogue
+
+cost: '4'
+
+temp: Item Ring

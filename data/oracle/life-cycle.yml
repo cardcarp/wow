@@ -1,0 +1,18 @@
+card_name: Life Cycle
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero heals 2 damage from each hero and ally in your party, then deals 1 nature damage to target hero or ally for each damage healed this way.
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Restoration

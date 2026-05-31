@@ -1,0 +1,20 @@
+card_name: The Turning Tide
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You pay 2 less to play allies while you control fewer allies than an opponent.
+
+class:
+  - Paladin
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: 1H Weapon Sword

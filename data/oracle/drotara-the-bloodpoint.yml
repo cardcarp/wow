@@ -1,0 +1,23 @@
+card_name: Drotara the Bloodpoint
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Ferocity
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Hunter

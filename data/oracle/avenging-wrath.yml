@@ -1,0 +1,18 @@
+card_name: Avenging Wrath
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Double your hero's ATK this turn.
+
+class:
+  - Paladin
+
+cost: '4'
+
+temp: Retribution

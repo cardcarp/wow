@@ -1,0 +1,17 @@
+card_name: Kinivus the Focused
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 3 , Flip Kinivus → You can't discard cards this turn.
+
+faction: Alliance
+
+temp: Draenei Shaman

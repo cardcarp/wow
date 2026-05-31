@@ -1,0 +1,21 @@
+card_name: Timewalker Vanguard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play, if you control two or more allies that share a or race, this ally deals 3 melee damage to target hero.
+
+cost: '2'
+
+combat: Melee
+
+temp: Night Elf Warrior

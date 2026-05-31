@@ -1,0 +1,15 @@
+card_name: Scarlet Blades
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: When Mograine deals combat damage to a Raiding hero this turn, he also deals that much melee damage to each ally in that hero's party.
+
+temp: ''
+
+type: Dungeon

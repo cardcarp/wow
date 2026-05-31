@@ -1,0 +1,18 @@
+card_name: Grizzly Defender
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Ready heroes and allies in your party have +2 ATK. Your hero is in Bear Form .'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Feral

@@ -1,0 +1,23 @@
+card_name: Elder Moorf
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: 1 → Target ally has +2 ATK this turn. Use only once per turn.
+
+cost: '1'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

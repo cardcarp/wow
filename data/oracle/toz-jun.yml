@@ -1,0 +1,23 @@
+card_name: Toz_jun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: Ferocity
+
+cost: '5'
+
+combat: Nature
+
+faction: Horde
+
+temp: Troll Shaman

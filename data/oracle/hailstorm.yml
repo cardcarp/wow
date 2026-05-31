@@ -1,0 +1,20 @@
+card_name: Hailstorm
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: '1 , Remove five cards in your graveyard from the game → Your hero deals 1 frost damage to each opposing hero and ally. Death Rattle : Your hero deals 1 frost damage to each opposing hero and ally.'
+
+class:
+  - Warrior
+  - Death Knight
+  - Rogue
+
+cost: '3'
+
+temp: 1H Weapon Sword

@@ -1,0 +1,19 @@
+card_name: Blacksoul Polearm
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You can't strike with this weapon on your turn.
+
+class:
+  - Druid
+  - Hunter
+
+cost: '3'
+
+temp: 2H Weapon Polearm

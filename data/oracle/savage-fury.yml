@@ -1,0 +1,18 @@
+card_name: Savage Fury
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Feral Hero Required Ongoing : When you play a Feral ability, if you control a Form, your hero may deal 2 melee damage to target ally.'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Feral Talent

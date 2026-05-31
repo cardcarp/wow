@@ -1,0 +1,18 @@
+card_name: Divine Riposte
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When damage that would be dealt to a hero or ally in your party is prevented, your hero deals that much unpreventable holy damage to its source.'
+
+class:
+  - Paladin
+
+cost: '6'
+
+temp: Protection

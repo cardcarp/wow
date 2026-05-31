@@ -1,0 +1,23 @@
+card_name: Aaron Goodchilde
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: Eternal , Protector When this ally is destroyed, your hero may deal 1 melee damage to target damaged ally for each resource you control.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

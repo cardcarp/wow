@@ -1,0 +1,18 @@
+card_name: Blessing of Sanctuary
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Protection Hero Required Attach to target hero or ally. Ongoing : Prevent all combat damage that attached character would be dealt. When damage that an attacking ally would deal is prevented this way, destroy that ally. At end of turn, destroy Blessing of Sanctuary.'
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Protection Talent Blessing

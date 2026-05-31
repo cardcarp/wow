@@ -1,0 +1,23 @@
+card_name: Sha_kar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: If your hero has dealt fire ( ), frost ( ), or nature ( ) damage this turn, Sha'kar has Ferocity .
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Troll Shaman

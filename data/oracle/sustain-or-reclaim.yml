@@ -1,0 +1,18 @@
+card_name: Sustain or Reclaim
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Choose one: Your hero heals all damage from target ally; or put target ally card from your graveyard into your hand.'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Restoration

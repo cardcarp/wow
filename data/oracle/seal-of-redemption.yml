@@ -1,0 +1,18 @@
+card_name: Seal of Redemption
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When your hero deals combat damage with a weapon, put an ally card from your graveyard into your hand. 1 , Destroy Seal of Redemption → Put an ally card from your graveyard into hand.'
+
+class:
+  - Paladin
+
+cost: '3'
+
+temp: Holy

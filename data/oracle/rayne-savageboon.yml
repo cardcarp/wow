@@ -1,0 +1,23 @@
+card_name: Rayne Savageboon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Protector Nature Resistance
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Night Elf Warrior

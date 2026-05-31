@@ -1,0 +1,19 @@
+card_name: Burly Bellow
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Opposing allies have -5 ATK this turn.
+
+class:
+  - Druid
+  - Warrior
+
+cost: '3'
+
+temp: Feral Fury

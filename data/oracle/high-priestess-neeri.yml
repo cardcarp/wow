@@ -1,0 +1,17 @@
+card_name: High Priestess Neeri
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: 3 , Flip Neeri → Remove the top three cards of target opponent's deck from the game. Neeri heals 2 damage from herself for each ally removed this way.
+
+faction: Horde
+
+temp: Goblin Priest

@@ -1,0 +1,17 @@
+card_name: Meganna the Stalker
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 3 , Flip Meganna → This turn, heroes and allies in your party have Stealth , and they can attack Elusive heroes and allies.
+
+faction: Alliance
+
+temp: Human Rogue

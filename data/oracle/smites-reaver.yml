@@ -1,0 +1,22 @@
+card_name: Smites Reaver
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with this weapon, you may exhaust target hero or ally. When you strike with this weapon for the first time each turn, at the end of this combat, you may ready it and your hero.
+
+class:
+  - Warrior
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Shaman
+
+cost: '4'
+
+temp: 1H Weapon Axe

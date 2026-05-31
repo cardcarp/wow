@@ -1,0 +1,18 @@
+card_name: Crush Soul
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Interrupt target ally card. If you do, remove it from the game and put damage on your hero equal to that card's ATK.
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Destruction

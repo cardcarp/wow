@@ -1,0 +1,23 @@
+card_name: Claemora Amberglare
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When this ally enters play, target hero or ally has Assault 2 this turn.
+
+cost: '4'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Blood Elf Hunter

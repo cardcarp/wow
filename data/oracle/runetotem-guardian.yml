@@ -1,0 +1,23 @@
+card_name: Runetotem Guardian
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Protector This ally can't attack.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Druid

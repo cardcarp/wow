@@ -1,0 +1,15 @@
+card_name: Lord of the Pit
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: The first time the Caverns hero attacks this turn, ready him. If Mannoroth is the Caverns hero, when he deals combat damage to an opposing hero this turn, put a 5 / 5 Doomguard Demon Monster ally token into play.
+
+temp: Mannoroth
+
+type: Boss

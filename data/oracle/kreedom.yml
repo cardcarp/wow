@@ -1,0 +1,24 @@
+card_name: Kreedom
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: At the start of your turn, Kreedom deals 1 shadow damage to each opposing hero and ally for each ability you control attached to that character.
+
+class:
+  - Warlock
+
+cost: '2'
+
+combat: Melee
+
+temp: Felhunter Demon

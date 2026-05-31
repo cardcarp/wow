@@ -1,0 +1,23 @@
+card_name: High Tinker Mekkatorque
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 9
+
+text: At the start and end of your turn, draw a card for each Gnome in your party.
+
+cost: '9'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Tinker

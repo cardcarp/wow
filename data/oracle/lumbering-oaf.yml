@@ -1,0 +1,21 @@
+card_name: Lumbering Oaf
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 8
+
+text: 'Boss Summon Helix : When Lumbering Oaf enters play, search the Dungeon deck for an ally named Helix Gearbreaker, reveal him, and put him on top of the Dungeon deck.'
+
+combat: Melee
+
+temp: Hobgoblin Warrior
+
+type: Dungeon

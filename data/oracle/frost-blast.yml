@@ -1,0 +1,13 @@
+card_name: Frost Blast
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+text: "Ongoing : Attached hero can't attack, exhaust, or be dealt damage. At the start of your turn, destroy Frost Blast, and then Kel'Thuzad deals 10 frost damage to attached hero."
+
+temp: Token

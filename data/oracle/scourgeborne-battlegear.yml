@@ -1,0 +1,18 @@
+card_name: Scourgeborne Battlegear
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the end of your turn, you may remove target ally in a graveyard from the game. If you do, put a 3 / 3 Ghoul ally token into play. → Your hero deals 3 shadow damage to target hero or ally. Ready a Ghoul you control.
+
+class:
+  - Death Knight
+
+cost: '7'
+
+temp: Armor Set Plate

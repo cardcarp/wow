@@ -1,0 +1,18 @@
+card_name: Execute
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Destroy target damaged ally.
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Fury

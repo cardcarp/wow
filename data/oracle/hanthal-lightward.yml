@@ -1,0 +1,23 @@
+card_name: Hanthal Lightward
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Protector Prevent all combat damage that would be dealt to this ally by attackers with Assault .
+
+cost: '1'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Paladin

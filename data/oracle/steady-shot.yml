@@ -1,0 +1,18 @@
+card_name: Steady Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the start of your turn, your hero may deal 1 ranged damage to target hero or ally.'
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Marksmanship

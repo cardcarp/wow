@@ -1,0 +1,23 @@
+card_name: Dayna Cousin-to-Sun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 0
+
+text: Dayna Cousin-to-Sun has +1 health for each resource you have.
+
+cost: '2'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Druid

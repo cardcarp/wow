@@ -1,0 +1,20 @@
+card_name: Cuffs of Devastation
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When Cuffs of Devastation enters play, your hero deals 4 arcane damage to target opposing ally.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Armor Cloth

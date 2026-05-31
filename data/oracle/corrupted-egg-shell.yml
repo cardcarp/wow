@@ -1,0 +1,23 @@
+card_name: Corrupted Egg Shell
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: While you control an Egg ally token, your hero has Protector . At the end of your turn, put a 0 / 1 Egg ally token into play. At the start of your turn, you may destroy this item. If you do, all Egg ally tokens you control become 8 / 8 Twilight Dragonkin.
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '4'
+
+temp: Item Trinket

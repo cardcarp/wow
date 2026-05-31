@@ -1,0 +1,23 @@
+card_name: Lunaris Silverfrost
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Elusive This ally has Assault X , where X is the highest cost among other allies you control.
+
+cost: '4'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Night Elf Death Knight

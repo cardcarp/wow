@@ -1,0 +1,18 @@
+card_name: Stranglevine
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target opposing ability, ally, or equipment. Ongoing : Attached card can't ready during its controller's ready step. On your turn: 2 → Attach this ability to target opposing ability, ally, or equipment."
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Balance

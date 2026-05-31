@@ -1,0 +1,23 @@
+card_name: Ethereal Spellfilcher
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When this ally enters play, gain control of target ability. If it's attached, you may reattach it.
+
+cost: '6'
+
+combat: Arcane
+
+temp: Ethereal Mage
+
+type: Monster

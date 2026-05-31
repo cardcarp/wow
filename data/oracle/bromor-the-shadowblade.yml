@@ -1,0 +1,23 @@
+card_name: Bromor the Shadowblade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Stealth When your hero strikes with a weapon, add a +1 ATK counter to that weapon.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Rogue

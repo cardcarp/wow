@@ -1,0 +1,21 @@
+card_name: Soul-Eater Morgania
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 → Flip Morgania face down.
+
+faction: Alliance
+
+temp: Worgen Warlock
+
+transform:
+  - id: ability
+    text: When an opposing ally is destroyed, Morgania heals 1 damage from herself.

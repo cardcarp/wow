@@ -1,0 +1,23 @@
+card_name: Shivarra Deathspeaker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 3
+
+text: When this ally enters play, she may deal 3 fire damage to target hero with 15 or more damage on it.
+
+cost: '5'
+
+combat: Fire
+
+temp: Shivarra Demon
+
+type: Monster

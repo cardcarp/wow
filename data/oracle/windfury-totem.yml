@@ -1,0 +1,18 @@
+card_name: Windfury Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Totem Ongoing : When each hero or ally in your party attacks for the first time each turn, you may pay 1 . If you do, ready that character.'
+
+class:
+  - Shaman
+
+cost: '4'
+
+temp: Enhancement

@@ -1,0 +1,18 @@
+card_name: Get Down!
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target armor you control can prevent damage that would be dealt to allies you control this turn.
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Protection

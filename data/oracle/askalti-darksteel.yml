@@ -1,0 +1,23 @@
+card_name: Askalti Darksteel
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Flip Askalti, remove a Scourge ally in your graveyard from the game → Target ally has +1 / -1 this turn.
+
+class:
+  - Warrior
+  - Warlock
+
+temp: Val'kyr 27
+
+transform:
+  - id: ability
+    text: "Deckbuilding : You can only include abilities, equipment, allies with ally type Death Knight, neutral quests and locations, and Scourge cards. You can't include cards with reputations or other text restrictions (like Demonology Hero Required ) ."
+
+type: Raid

@@ -1,0 +1,15 @@
+card_name: Pistol Barrage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Godfrey deals 1 shadow damage to each Raiding hero and ally, plus an additional 1 for each Pistol Barrage in the Dungeon graveyard.
+
+temp: ''
+
+type: Dungeon

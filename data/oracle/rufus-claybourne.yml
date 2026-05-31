@@ -1,0 +1,23 @@
+card_name: Rufus Claybourne
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+instant: Aberration When this ally enters play, target hero or ally has Aberration and becomes a Worgen this turn.
+
+cost: '2'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Worgen Druid

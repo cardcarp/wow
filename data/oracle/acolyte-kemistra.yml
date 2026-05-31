@@ -1,0 +1,23 @@
+card_name: Acolyte Kemistra
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 7
+
+text: 1 , Put 2 damage on Kemistra → Draw a card.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Warlock

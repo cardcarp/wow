@@ -1,0 +1,15 @@
+card_name: Knock Away
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Prevent all damage that would be dealt to Onyxia this turn.
+
+cost: '1'
+
+temp: ''

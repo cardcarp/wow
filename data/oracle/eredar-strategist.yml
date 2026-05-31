@@ -1,0 +1,23 @@
+card_name: Eredar Strategist
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: 'Once per turn: Destroy another ally you control → Demon allies you control have +2 ATK this turn.'
+
+cost: '2'
+
+combat: Shadow
+
+temp: Eredar Demon Warlock
+
+type: Monster

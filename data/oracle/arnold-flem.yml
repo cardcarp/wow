@@ -1,0 +1,23 @@
+card_name: Arnold Flem
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: When Arnold Flem is destroyed, he deals 1 fire damage to each opposing hero and ally.
+
+cost: '4'
+
+combat: Fire
+
+faction: Horde
+
+temp: Undead Mage

@@ -1,0 +1,23 @@
+card_name: Icaros the Sunward
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: Protector
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Paladin

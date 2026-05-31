@@ -1,0 +1,17 @@
+card_name: Rotun Daggerhand
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 3 , Flip Rotun Daggerhand → Rotun deals 1 melee damage to target hero or ally. That damage counts as combat damage.
+
+faction: Alliance
+
+temp: Dwarf Rogue

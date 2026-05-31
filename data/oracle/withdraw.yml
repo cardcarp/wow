@@ -1,0 +1,15 @@
+card_name: Withdraw
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Put target ally into its owner's hand.
+
+cost: '3'
+
+temp: ''

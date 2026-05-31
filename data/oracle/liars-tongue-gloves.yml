@@ -1,0 +1,19 @@
+card_name: Liars Tongue Gloves
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , → Name a card type and remove a card in your hand from the game face down. Target opponent guesses whether that card has that type, then reveals it. If he's right, put it into your graveyard. Otherwise, put it into your hand and draw two cards.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '4'
+
+temp: Armor Leather

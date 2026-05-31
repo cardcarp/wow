@@ -1,0 +1,23 @@
+card_name: Hanu Skyhorn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: 3 → Target ally has Arcane Resistance this turn.
+
+cost: '2'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Tauren Druid

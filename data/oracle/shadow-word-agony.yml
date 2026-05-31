@@ -1,0 +1,18 @@
+card_name: Shadow Word_ Agony
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero. Ongoing : At the start of your turn, attached hero's controller discards a card."
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Shadow

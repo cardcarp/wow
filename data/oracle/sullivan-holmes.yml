@@ -1,0 +1,23 @@
+card_name: Sullivan Holmes
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: This ally has Mend 3 while an ally is in your graveyard.
+
+cost: '2'
+
+combat: Holy
+
+faction: Horde
+
+temp: Undead Priest

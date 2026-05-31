@@ -1,0 +1,23 @@
+card_name: Rak Skyfury
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When Rak Skyfury enters play, ready your hero and one of your weapons.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Shaman

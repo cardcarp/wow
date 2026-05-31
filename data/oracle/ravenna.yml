@@ -1,0 +1,17 @@
+card_name: Ravenna
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: Flip Ravenna → Target ally you control has Stealth this turn.
+
+faction: Horde
+
+temp: Blood Elf Rogue

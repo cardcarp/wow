@@ -1,0 +1,23 @@
+card_name: Hailey Goodchilde
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: → This ally heals all damage from target ally.
+
+cost: '2'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Priest

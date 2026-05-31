@@ -1,0 +1,17 @@
+card_name: Blythe the Pyromaniac
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 'If you control another Mage: Flip Blythe → Blythe deals 3 fire damage to target hero or ally that was dealt damage this turn.'
+
+faction: Horde
+
+temp: Undead Mage

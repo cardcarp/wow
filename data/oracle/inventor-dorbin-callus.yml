@@ -1,0 +1,23 @@
+card_name: Inventor Dorbin Callus
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 6
+
+text: Elusive → Target player draws four cards.
+
+cost: '7'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Gnome Mage

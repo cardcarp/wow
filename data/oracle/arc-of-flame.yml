@@ -1,0 +1,18 @@
+card_name: Arc of Flame
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Choose one: Your hero deals 4 fire damage to target ally; or your hero deals 2 fire damage to each of two target allies.'
+
+class:
+  - Mage
+
+cost: '5'
+
+temp: Fire

@@ -1,0 +1,17 @@
+card_name: Debilitating Nausea
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Target raider can't play cards this turn. If you're in the Plague Quarter, he also can't play cards on his next turn.
+
+temp: ''
+
+type: Raid
+
+stage: 6

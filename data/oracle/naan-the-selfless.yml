@@ -1,0 +1,23 @@
+card_name: Naan the Selfless
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 3
+
+text: Protector When Naan defends, he deals 1 nature damage to target hero or ally and heals 1 damage from a second target hero or ally.
+
+cost: '1'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

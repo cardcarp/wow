@@ -1,0 +1,18 @@
+card_name: Rallying Swarm
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : If an equipment entered play under your control this turn: → Search your deck for an Unlimited Murloc and put it into play.'
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Arms

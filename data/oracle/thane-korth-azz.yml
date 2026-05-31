@@ -1,0 +1,25 @@
+card_name: Thane Korth_azz
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 5
+
+health: 10
+
+text: At the end of your turn, the raid leader chooses a raiding ally. This ally deals 5 fire damage to it.
+
+combat: Melee
+
+temp: Dwarf Death Knight Horseman
+
+transform:
+  - id: ability
+    text: At the end of your turn, this ally deals 5 fire damage to each raiding ally.
+
+type: Ally

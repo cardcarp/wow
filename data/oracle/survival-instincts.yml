@@ -1,0 +1,18 @@
+card_name: Survival Instincts
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Survival Hero Required Ongoing : Prevent the first 4 damage that would be dealt to your hero each turn.'
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Survival Talent

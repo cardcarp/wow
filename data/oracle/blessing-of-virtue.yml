@@ -1,0 +1,18 @@
+card_name: Blessing of Virtue
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +2 / +2, and damage that it would deal is unpreventable. Stash : Damage that allies you control would deal is unpreventable this turn.'
+
+class:
+  - Paladin
+
+cost: '3'
+
+temp: Retribution Blessing

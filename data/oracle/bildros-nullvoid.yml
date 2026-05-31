@@ -1,0 +1,17 @@
+card_name: Bildros Nullvoid
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Bildros → Pet cards in your hand are instant this turn.
+
+faction: Alliance
+
+temp: Gnome Warlock

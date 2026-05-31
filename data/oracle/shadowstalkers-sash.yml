@@ -1,0 +1,19 @@
+card_name: Shadowstalkers Sash
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Friendly Druids and Rogues have Stealth .
+
+class:
+  - Druid
+  - Rogue
+
+cost: '4'
+
+temp: Armor Leather

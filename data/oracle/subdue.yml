@@ -1,0 +1,18 @@
+card_name: Subdue
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target opposing ally. Draw a card. Ongoing : Attached ally can only attack heroes.'
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Discipline

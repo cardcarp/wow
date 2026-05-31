@@ -1,0 +1,15 @@
+card_name: Justice of the Grave
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: 'Pay 2 to initiate this event. Event : Each opponent puts the top five cards of his deck into his graveyard. Draw two cards.'
+
+temp: ''
+
+type: Boss

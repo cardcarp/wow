@@ -1,0 +1,19 @@
+card_name: Retainer Marcus
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 2
+
+text: Scryer Reputation When Marcus enters play, look at target player's hand and name a card in it. That player can't play cards with that name.
+
+cost: '1'
+
+temp: Blood Elf Hunter

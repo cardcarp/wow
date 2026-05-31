@@ -1,0 +1,21 @@
+card_name: Treebole
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: At the start of your turn, each player chooses an ally in his party. Destroy all other allies.
+
+cost: '5'
+
+combat: Melee
+
+temp: Elemental Ancient

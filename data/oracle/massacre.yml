@@ -1,0 +1,18 @@
+card_name: Massacre
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: As an additional cost to play, remove up to five Combo cards in your graveyard from the game. Destroy X target exhausted allies, where X is the number of cards removed this way.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Assassination Finishing Move

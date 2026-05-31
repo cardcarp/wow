@@ -1,0 +1,15 @@
+card_name: Frostmourne
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: "Harvest Soul : When the Lich King deals fatal damage to an opposing ally with Frostmourne, add a +1 ATK counter to it, and the Lich King deals 2 frost damage to each opposing hero. Death Rattle : Put Frostmourne into its owner's hand."
+
+cost: '1'
+
+temp: 2H Weapon Sword

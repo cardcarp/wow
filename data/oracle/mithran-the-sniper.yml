@@ -1,0 +1,23 @@
+card_name: Mithran the Sniper
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When an opposing ability, ally, or equipment enters play, destroy this ally. If you do, destroy that opposing card.
+
+cost: '3'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Dwarf Hunter

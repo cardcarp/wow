@@ -1,0 +1,23 @@
+card_name: Tracker Gallen
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 2
+
+text: Tracker Gallen has +1 ATK for each ally in your party.
+
+cost: '2'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Night Elf Hunter

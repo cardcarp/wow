@@ -1,0 +1,19 @@
+card_name: Zeherahs Dragonskull Crown
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 → Target ally has Assault 1 this turn. 2 → Target ally has Ferocity this turn.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '2'
+
+temp: Armor Mail

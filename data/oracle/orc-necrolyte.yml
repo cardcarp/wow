@@ -1,0 +1,23 @@
+card_name: Orc Necrolyte
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When this ally enters play, it deals 2 shadow damage to target opposing hero and heals 2 damage from your hero.
+
+cost: '4'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Warlock

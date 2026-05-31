@@ -1,0 +1,23 @@
+card_name: Aresha Thorncaller
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: Protector This ally has Nature Resistance while you control another ally.
+
+cost: '4'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Night Elf Druid

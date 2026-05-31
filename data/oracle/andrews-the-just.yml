@@ -1,0 +1,23 @@
+card_name: Andrews the Just
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: When this ally enters play, you may put target attachment from your graveyard into your hand.
+
+cost: '5'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Priest

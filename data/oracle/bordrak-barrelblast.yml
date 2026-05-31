@@ -1,0 +1,17 @@
+card_name: Bordrak Barrelblast
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'If you control another Hunter: Flip Bordrak → Put a +1 ATK counter on target Ranged weapon.'
+
+faction: Alliance
+
+temp: Dwarf Hunter

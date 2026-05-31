@@ -1,0 +1,19 @@
+card_name: Frost Burst
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target hero or ally has -4 ATK while attacking or protecting this turn.
+
+class:
+  - Death Knight
+  - Shaman
+
+cost: '1'
+
+temp: Frost Elemental

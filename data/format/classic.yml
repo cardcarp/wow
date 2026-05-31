@@ -1,0 +1,27 @@
+set_allow:
+  - '*'
+
+regulation_allow:
+  - '*'
+
+oracle_ban:
+  - aquatic-form
+  - ashnaar-frost-herald
+  - azaloth
+  - blizzard
+  - broderick-langforth
+  - hesriana
+  - magistrix-dianas
+  - unending-breath
+  - winter-veil-disguise-kit
+
+oracle_restrict:
+
+oracle_limit: 4
+
+category_limit:
+  Hero: 1
+
+size_main: 60
+
+size_side: 10

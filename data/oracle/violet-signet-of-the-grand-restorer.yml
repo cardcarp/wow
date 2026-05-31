@@ -1,0 +1,21 @@
+card_name: Violet Signet of the Grand Restorer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Put target card from your graveyard on the bottom of your deck. Then, your hero heals damage from itself equal to that card's cost.
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '6'
+
+temp: Item Ring

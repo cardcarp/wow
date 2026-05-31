@@ -1,0 +1,23 @@
+card_name: Forager Hoofbeat
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Protector When Hoofbeat readies, draw a card.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Warrior

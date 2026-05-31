@@ -1,0 +1,21 @@
+card_name: Spire of Scarlet Pain
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn: 2 , → Your hero deals 1 fire damage to target hero or ally for each ally you control. When an ally you control exhausts, you may ready this weapon.'
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '6'
+
+temp: 2H Weapon Staff

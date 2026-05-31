@@ -1,0 +1,17 @@
+card_name: Ringleader Kuma
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 4 , Flip Kuma → Heroes and allies in your party have +2 ATK while attacking heroes this turn.
+
+faction: Horde
+
+temp: Tauren Shaman

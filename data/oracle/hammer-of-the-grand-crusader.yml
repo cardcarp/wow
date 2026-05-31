@@ -1,0 +1,19 @@
+card_name: Hammer of the Grand Crusader
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: While your hero has no damage, Hammer of the Grand Crusader has +2 ATK and you pay 2 less to strike with it.
+
+class:
+  - Druid
+  - Paladin
+
+cost: '4'
+
+temp: 2H Weapon Mace

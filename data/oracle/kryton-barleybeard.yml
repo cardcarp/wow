@@ -1,0 +1,23 @@
+card_name: Kryton Barleybeard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: 2 , Destroy Kryton Barleybeard → Put target ability into its owner's hand.
+
+cost: '1'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Dwarf Priest

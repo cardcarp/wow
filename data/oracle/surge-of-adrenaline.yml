@@ -1,0 +1,18 @@
+card_name: Surge of Adrenaline
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Finishing Move You pay x less to play Surge of Adrenaline. Draw three cards.
+
+class:
+  - Rogue
+
+cost: '5'
+
+temp: Combat

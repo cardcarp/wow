@@ -1,0 +1,19 @@
+card_name: Imp Lord Pinprik
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 8
+
+text: Elusive
+
+temp: Imp Demon
+
+transform:
+  - id: ability
+    text: "Elusive Deckbuilding: You can include only neutral quests, any abilities that deal fire damage, and any allies. You can't include cards with reputations or text restrictions (like Fire Hero Required ) ."

@@ -1,0 +1,22 @@
+card_name: Jainas Staff
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this weapon enters play, remove the top four cards of your deck from the game. → Choose an ability removed this way. You may play that ability this turn. (Pay costs as normal.) When you do, copy each other non-Ongoing ability removed this way. You may play those copies without paying their costs.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '5'
+
+temp: 2H Weapon Staff

@@ -1,0 +1,23 @@
+card_name: Lockmaw
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: When Lockmaw enters play, you may destroy target opposing damaged ally. If you do, put a 1 / 1 Crocolisk Monster ally token into play for each damage on that destroyed ally.
+
+cost: '5'
+
+combat: Melee
+
+temp: Crocolisk
+
+type: Monster

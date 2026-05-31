@@ -1,0 +1,19 @@
+card_name: Bloodsea Brigands Vest
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , Destroy Bloodsea Brigand's Vest → Put the top two cards of your deck into your resource row face down and exhausted.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '3'
+
+temp: Armor Leather

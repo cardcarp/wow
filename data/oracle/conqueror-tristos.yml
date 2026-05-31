@@ -1,0 +1,23 @@
+card_name: Conqueror Tristos
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: This ally has Assault 2 and Long-Range while attacking Mages.
+
+cost: '3'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Blood Elf Hunter

@@ -1,0 +1,15 @@
+card_name: Growing Rage
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Draw X cards, where X is the current stage.
+
+temp: ''
+
+type: Raid

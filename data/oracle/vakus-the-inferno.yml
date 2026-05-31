@@ -1,0 +1,23 @@
+card_name: Vakus the Inferno
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 1
+
+text: Aberration , Ferocity This ally can attack only heroes. At the end of your turn, destroy this ally.
+
+cost: '1'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Worgen Warlock

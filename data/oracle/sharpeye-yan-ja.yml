@@ -1,0 +1,17 @@
+card_name: Sharpeye Yan_ja
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: "On your turn: 2 , Flip Yan'ja → Yan'ja deals ranged damage to target ally equal to 1 plus the combined ATK of your Ranged weapons."
+
+faction: Horde
+
+temp: Troll Hunter

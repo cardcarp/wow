@@ -1,0 +1,20 @@
+card_name: Iceshriekers Touch
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: "When your hero turns face down, it deals 1 frost damage to each opposing hero and ally. A character dealt damage this way can't attack or exhaust this turn. Death Rattle : Each player turns his hero face up."
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Ranged Weapon Wand

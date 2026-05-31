@@ -1,0 +1,23 @@
+card_name: Seva Shadowdancer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Elusive x , → This ally heals X damage from target hero or ally.
+
+cost: '3'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Night Elf Priest

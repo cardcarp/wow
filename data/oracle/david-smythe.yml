@@ -1,0 +1,23 @@
+card_name: David Smythe
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Protector When David readies, you may remove an ally card in your graveyard from the game. If you do, destroy target equipment.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Warrior

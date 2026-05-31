@@ -1,0 +1,23 @@
+card_name: Kalecgos the Spell-Weaver
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: (Allies you control can protect this hero.) 6 , Flip Kalecgos face down → Search your deck for up to three abilities, allies, and/or equipment, reveal them, and put them into your hand.
+
+class:
+  - Warlock
+  - Mage
+
+temp: Blue Dragonkin Aspect 40
+
+transform:
+  - id: ability
+    text: "At the end of your turn, Kalecgos deals arcane damage to target hero equal to the number of cards in your hand. Deckbuilding : You can include either or cards, and , , and Neutral cards. You can't include more than one of each card."
+
+type: Monster

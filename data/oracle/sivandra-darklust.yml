@@ -1,0 +1,23 @@
+card_name: Sivandra Darklust
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Will of the Forsaken When Sivandra enters play, draw a card, then destroy an ally in your party.
+
+cost: '3'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Warlock

@@ -1,0 +1,18 @@
+card_name: Bastion of Defense
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Protection Talent Attach to target ally. Ongoing : Attached ally has +4 / +4, Protector , and "At the end of your turn, you may ready this ally."'
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Protection Attachment

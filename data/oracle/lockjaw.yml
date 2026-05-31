@@ -1,0 +1,21 @@
+card_name: Lockjaw
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Once per turn: 2 → Your hero heals 2 damage from target hero or ally.'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '2'
+
+temp: 1H Weapon Mace

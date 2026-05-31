@@ -1,0 +1,26 @@
+card_name: Arcanite Dragonling
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 → Arcanite Dragonling is also an ally with 2 ATK / 2 health and Protector this turn.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item Trinket

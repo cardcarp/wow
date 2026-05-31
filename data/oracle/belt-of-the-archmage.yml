@@ -1,0 +1,20 @@
+card_name: Belt of the Archmage
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When Belt of the Archmage enters play, reveal the top three cards of your deck. Put all revealed ability cards into your hand and the rest on the bottom of your deck.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '5'
+
+temp: Armor Cloth

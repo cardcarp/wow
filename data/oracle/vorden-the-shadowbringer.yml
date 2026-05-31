@@ -1,0 +1,23 @@
+card_name: Vorden the Shadowbringer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When Vorden enters play, destroy any number of allies in your party, then destroy an opposing ally for each ally destroyed this way.
+
+cost: '6'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Warlock

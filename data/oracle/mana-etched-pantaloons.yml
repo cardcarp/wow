@@ -1,0 +1,20 @@
+card_name: Mana-Etched Pantaloons
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Draw a card. Use only if you have seven or more cards in your hand.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '5'
+
+temp: Armor Cloth

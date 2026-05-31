@@ -1,0 +1,23 @@
+card_name: Darnassus Shadowblade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Night Elf allies you control have Stealth .
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Night Elf Rogue

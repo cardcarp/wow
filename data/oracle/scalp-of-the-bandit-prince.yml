@@ -1,0 +1,19 @@
+card_name: Scalp of the Bandit Prince
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play a card with cost 6 or more, add a scalp counter to this armor. At the start of your turn, if this armor has three or more scalp counters on it, your hero deals 6 melee damage to target hero.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '1'
+
+temp: Armor Mail

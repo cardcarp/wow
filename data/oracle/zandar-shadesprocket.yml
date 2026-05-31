@@ -1,0 +1,23 @@
+card_name: Zandar Shadesprocket
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Elusive When Zandar is dealt damage, also put that much on your hero.
+
+cost: '1'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Warlock

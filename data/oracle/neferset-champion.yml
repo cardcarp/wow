@@ -1,0 +1,23 @@
+card_name: Neferset Champion
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Protector , Sentinel
+
+cost: '3'
+
+combat: Holy
+
+temp: Tol'vir Paladin Warrior
+
+type: Monster

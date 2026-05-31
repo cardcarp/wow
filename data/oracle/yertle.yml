@@ -1,0 +1,26 @@
+card_name: Yertle
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 0
+
+text: Protector , Eternal This ally has +1 for each resource you control. When this ally is destroyed, put a Shell armor token into play with equal to the number of resources you controlled as this ally way destroyed.
+
+class:
+  - Hunter
+
+cost: '4'
+
+combat: Melee
+
+temp: Turtle
+
+type: Monster

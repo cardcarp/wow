@@ -1,0 +1,13 @@
+card_name: Dr. Boom!
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'Pay 1 to complete this quest. Reward : Reveal the top card of your deck, put damage on your hero equal to its cost, and put it into your hand.'
+
+temp: ''

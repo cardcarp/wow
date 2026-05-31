@@ -1,0 +1,18 @@
+card_name: Breath of the Elements
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Ready each ally you control.
+
+class:
+  - Shaman
+
+cost: '5'
+
+temp: Enhancement

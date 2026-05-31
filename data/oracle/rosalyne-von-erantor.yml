@@ -1,0 +1,23 @@
+card_name: Rosalyne von Erantor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play, she deals 3 fire damage to your hero.
+
+cost: '1'
+
+combat: Fire
+
+faction: Horde
+
+temp: Undead Warlock

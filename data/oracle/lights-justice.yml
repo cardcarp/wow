@@ -1,0 +1,21 @@
+card_name: Lights Justice
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When a ally in your party deals damage, it also heals that much from your hero.
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '2'
+
+temp: 1H Weapon Mace

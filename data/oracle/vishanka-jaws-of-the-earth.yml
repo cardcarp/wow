@@ -1,0 +1,18 @@
+card_name: Vishanka, Jaws of the Earth
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Long-Range This weapon enters play with five +1 ATK counters. At the start of your turn, remove a +1 ATK counter from this weapon. If none remain, destroy it.
+
+class:
+  - Hunter
+
+cost: '7'
+
+temp: Ranged Weapon Bow

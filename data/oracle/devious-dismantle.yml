@@ -1,0 +1,18 @@
+card_name: Devious Dismantle
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target equipment. If you destroyed an equipment with cost 4 or less this way, its controller discards a card.
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Assassination

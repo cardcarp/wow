@@ -1,0 +1,18 @@
+card_name: Detonate Soul
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target opposing ally. Ongoing : At the start of your turn, remove attached ally and all other opposing allies from the game.'
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Affliction

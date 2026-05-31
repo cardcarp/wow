@@ -1,0 +1,21 @@
+card_name: Hunrik Blackiron
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+cost: '4'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Dwarf Warlock

@@ -1,0 +1,18 @@
+card_name: Nerubian Conqueror
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with this weapon, your hero has Long-Range this combat. If a card would enter an opposing graveyard, remove it from the game instead.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Ranged Weapon Gun

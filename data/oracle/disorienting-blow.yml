@@ -1,0 +1,18 @@
+card_name: Disorienting Blow
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Exhaust target hero or ally. It can't ready during its controller's next ready step. Delve
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Combat

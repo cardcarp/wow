@@ -1,0 +1,23 @@
+card_name: The Greench
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 5
+
+text: Smash When the Greench enters play and when he attacks, search target opponent's deck for a card and remove it from the game.
+
+cost: '5'
+
+combat: Melee
+
+temp: Yeti
+
+type: Monster

@@ -1,0 +1,67 @@
+name: Battle of the Aspects
+
+credit: Official Product
+
+category: Raid
+
+facet:
+  - Raid
+
+collection: raid
+
+highlight: aspects-raid-001
+
+description: Co-op Automated Raid Experience
+
+context:
+  - title: The Ultimate Showdown
+    body: Team up to challenge an automated Raid Deck representing Deathwing the Destroyer.
+  - title: Play as the Aspects
+    body: In a unique twist, players can use special oversized cards to take on the roles of the Dragon Aspects—Alexstrasza, Ysera, Nozdormu, or Kalecgos—to battle Deathwing.
+  - title: Adjustable Difficulty
+    body: The set includes Tentacle cards that can be added to ratchet up the difficulty for experienced players, making it flexible for varied skill levels.
+  - title: New "Chaos Format" Variant
+    body: This set introduces a "Chaos" format, which operates similar to a Commander format with single-copy restrictions, allowing for fresh deck-building strategies.
+
+total: 63
+
+list:
+  main:
+    aspects-raid-001: 1  # Deathwing the Destroyer
+    aspects-raid-002: 1 # Deathwing the Destroyer
+    aspects-raid-003: 1 # Deathwing the Destroyer
+    aspects-raid-004: 1 # Deathwing the Destroyer
+    aspects-raid-005: 1 # Morchok
+    aspects-raid-006: 1 # Warlord Zon'ozz
+    aspects-raid-007: 1 # Yorsahj the Unsleeping
+    aspects-raid-008: 1 # Hagara the Stormbinder
+    aspects-raid-009: 1 # Ultraxion
+    aspects-raid-010: 1 # Warmaster Blackhorn
+    aspects-raid-011: 5 # Elementium Terror
+    aspects-raid-012: 6 # Hideous Amalgamation
+    aspects-raid-013: 3 # Barrel Roll
+    aspects-raid-014: 6 # Blistering Tentacle
+    aspects-raid-015: 4 # Elementium Bolt
+    aspects-raid-016: 4 # Mutated Corruption
+    aspects-raid-017: 2 # Elementium Armor
+    aspects-raid-018: 1 # Assault Aspects
+    aspects-raid-019: 1 # Congealing Blood
+    aspects-raid-020: 1 # Contagious Blood
+    aspects-raid-021: 1 # Corrupting Parasite
+    aspects-raid-022: 1 # Crush
+    aspects-raid-023: 1 # Death's Deal
+    aspects-raid-024: 1 # Debilitating Corruption
+    aspects-raid-025: 1 # Destroyers Challenge
+    aspects-raid-026: 1 # Explosive Heat
+    aspects-raid-027: 1 # Fiery Corruption
+    aspects-raid-028: 1 # Fiery Madness
+    aspects-raid-029: 1 # Focused Assault
+    aspects-raid-030: 1 # Hemorrhage
+    aspects-raid-031: 1 # Incinerating Bolt
+    aspects-raid-032: 1 # Inferno Pulse
+    aspects-raid-033: 1 # Oozing Blood
+    aspects-raid-034: 1 # Punishing Blood
+    aspects-raid-035: 1 # Rage of the Destroyer
+    aspects-raid-036: 1 # Summon Boss
+    aspects-raid-037: 1 # Swarm of Blood
+    aspects-raid-038: 1 # Tentacle Swipe

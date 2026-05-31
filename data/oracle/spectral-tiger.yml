@@ -1,0 +1,21 @@
+card_name: Spectral Tiger
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: ': Elusive allies in your party have +1 health. : Allies with Ferocity in your party have +1 ATK.'
+
+cost: '4'
+
+combat: Melee
+
+temp: Spectral Tiger

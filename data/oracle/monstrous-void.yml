@@ -1,0 +1,18 @@
+card_name: Monstrous Void
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Play only if an opposing hero has 15 or more damage on it. Put a 5 / 5 Void Terror Demon Monster ally token into play for each Demon and/or Monster hero and ally you control.
+
+class:
+  - Warlock
+
+cost: '4'
+
+temp: Demonology

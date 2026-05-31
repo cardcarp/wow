@@ -1,0 +1,23 @@
+card_name: Knight Karia
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 1
+
+text: Protector
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

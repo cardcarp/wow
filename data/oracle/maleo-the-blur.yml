@@ -1,0 +1,17 @@
+card_name: Maleo the Blur
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Maleo → This turn, Maleo is in Cat Form and has Form (1) until you strike with a weapon or play a non-Feral ability.
+
+faction: Horde
+
+temp: Tauren Druid

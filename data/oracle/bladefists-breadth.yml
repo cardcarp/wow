@@ -1,0 +1,23 @@
+card_name: Bladefists Breadth
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play a weapon, ready your hero.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+cost: '3'
+
+temp: Item Trinket

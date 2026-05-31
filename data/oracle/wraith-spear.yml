@@ -1,0 +1,20 @@
+card_name: Wraith Spear
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with this weapon while your hero is defending, it heals 4 damage from itself.
+
+class:
+  - Paladin
+  - Death Knight
+  - Hunter
+
+cost: '4'
+
+temp: 2H Weapon Polearm

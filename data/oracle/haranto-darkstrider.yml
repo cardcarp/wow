@@ -1,0 +1,23 @@
+card_name: Haranto Darkstrider
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: Protector This ally can't attack unless an opponent controls more allies than you.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Death Knight

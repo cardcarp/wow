@@ -1,0 +1,23 @@
+card_name: Thassarian
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 5
+
+text: 'Protector Once per turn: Turn a resource you control face down → Target ally has -5 ATK this turn.'
+
+cost: '6'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Human Death Knight

@@ -1,0 +1,17 @@
+card_name: Thoros the Savior
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 4 , Flip Thoros → Thoros heals 2 damage from target hero or ally. Draw a card.
+
+faction: Horde
+
+temp: Blood Elf Paladin

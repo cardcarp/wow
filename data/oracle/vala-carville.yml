@@ -1,0 +1,21 @@
+card_name: Vala Carville
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+cost: '5'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Undead Mage

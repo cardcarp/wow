@@ -1,0 +1,23 @@
+card_name: Vestia Abiectus
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: When Vestia Abiectus deals combat damage, you may put an ability you control into its owner's hand.
+
+cost: '3'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Night Elf Priest

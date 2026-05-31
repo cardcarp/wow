@@ -1,0 +1,17 @@
+card_name: Gwon Strongbark
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 4 , Flip Gwon → Ally tokens in your party have +2 ATK this turn.
+
+faction: Alliance
+
+temp: Night Elf Druid

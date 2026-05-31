@@ -1,0 +1,18 @@
+card_name: A Final Sacrifice
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target hero or ally in your party has +3 ATK / +3 health this turn. At the start of the next turn, destroy it.
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Fury

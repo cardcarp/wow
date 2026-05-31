@@ -1,0 +1,19 @@
+card_name: Legacy of the Legion
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put a 5 / 5 Pit Lord Demon Monster ally token into play with Protector . Put a 5 / 5 Fel Hound Demon Monster ally token into play with Ferocity .
+
+class:
+  - Warrior
+  - Hunter
+
+cost: '6'
+
+temp: ''

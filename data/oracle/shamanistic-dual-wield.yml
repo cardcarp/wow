@@ -1,0 +1,18 @@
+card_name: Shamanistic Dual Wield
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Enhancement Hero Required Ongoing : You pay 1 less to strike with weapons. Your hero has Dual Wield .'
+
+class:
+  - Shaman
+
+cost: '1'
+
+temp: Enhancement Talent

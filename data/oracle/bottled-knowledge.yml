@@ -1,0 +1,27 @@
+card_name: Bottled Knowledge
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'When this item enters play, draw two cards, then discard a card. On your turn: Exhaust a Mage hero or ally you control and destroy this item → Draw two cards, then discard a card.'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item Potion

@@ -1,0 +1,18 @@
+card_name: Counterspell
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Interrupt target ability.
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Arcane

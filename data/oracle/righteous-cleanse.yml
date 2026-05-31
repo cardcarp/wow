@@ -1,0 +1,18 @@
+card_name: Righteous Cleanse
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Destroy target ability. Delve
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Holy

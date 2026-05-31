@@ -1,0 +1,24 @@
+card_name: Webster
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: At the end of your turn, you may put a web counter on target ally. Allies with a web counter can't attack. When Webster leaves play, remove all web counters from opposing allies.
+
+class:
+  - Hunter
+
+cost: '3'
+
+combat: Nature
+
+temp: Spider

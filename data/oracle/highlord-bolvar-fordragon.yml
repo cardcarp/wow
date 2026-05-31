@@ -1,0 +1,23 @@
+card_name: Highlord Bolvar Fordragon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 8
+
+text: Opposing allies must attack if able and can attack only Bolvar if able. Opposing cards and effects must target Bolvar if able.
+
+cost: '8'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

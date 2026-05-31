@@ -1,0 +1,21 @@
+card_name: Hand of Edward the Odd
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Ability, ally, and equipment cards in your hand are instant.
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '6'
+
+temp: 1H Weapon Mace

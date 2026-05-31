@@ -1,0 +1,54 @@
+name: Alliance Warrior
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Alliance
+  - Starter
+  - '2011'
+
+collection: '2011'
+
+highlight: starter-2011-alliance-warrior-001
+
+description: 2011 Alliance Warrior Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2011 Alliance Warrior
+
+total: 61
+
+list:
+  hero:
+    starter-2011-alliance-warrior-001: 1  # Stromdak of Ironforge
+  main:
+    starter-2011-alliance-warrior-002: 2  # Armed to the Teeth
+    starter-2011-alliance-warrior-003: 3 # Battle Shout
+    starter-2011-alliance-warrior-004: 1 # Enraged Regeneration
+    starter-2011-alliance-warrior-005: 3 # Execute
+    starter-2011-alliance-warrior-006: 2 # Heroic Leap
+    starter-2011-alliance-warrior-007: 2 # Rend
+    starter-2011-alliance-warrior-008: 1 # Stance Mastery
+    starter-2011-alliance-warrior-009: 2 # Darktwister Kern
+    starter-2011-alliance-warrior-010: 3 # Kelsa Wildfire
+    starter-2011-alliance-warrior-011: 3 # Knight Karia
+    starter-2011-alliance-warrior-012: 2 # Laenthor Shademoon
+    starter-2011-alliance-warrior-013: 2 # Liba Wobblebonk
+    starter-2011-alliance-warrior-014: 1 # Mooncaller Jynalla Nightpath
+    starter-2011-alliance-warrior-015: 3 # Nakistis, Exodar Armorer
+    starter-2011-alliance-warrior-016: 4 # Patricia Potter
+    starter-2011-alliance-warrior-017: 2 # Shanis Bladefall
+    starter-2011-alliance-warrior-018: 1 # Terina Calin
+    starter-2011-alliance-warrior-019: 1 # Bloodbanes Fall
+    starter-2011-alliance-warrior-020: 1 # Golem Skull Helm
+    starter-2011-alliance-warrior-021: 3 # Fel Iron Hatchet
+    starter-2011-alliance-warrior-022: 1 # Warmace of Menethil
+    starter-2011-alliance-warrior-023: 3 # A Bird in Hand
+    starter-2011-alliance-warrior-024: 1 # Blueleaf Tubers
+    starter-2011-alliance-warrior-025: 4 # Entrenched
+    starter-2011-alliance-warrior-026: 3 # Forged of Shadow and Flame
+    starter-2011-alliance-warrior-027: 2 # The Grimtotem Weapon
+    starter-2011-alliance-warrior-028: 4 # The Key to Freedom

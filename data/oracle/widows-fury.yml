@@ -1,0 +1,20 @@
+card_name: Widows Fury
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: This weapon has +3 ATK if an ally you controlled was destroyed this turn.
+
+class:
+  - Warrior
+  - Death Knight
+  - Rogue
+
+cost: '2'
+
+temp: 1H Weapon Sword

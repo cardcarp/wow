@@ -1,0 +1,21 @@
+card_name: Sironas
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: At the start of your turn, the player with the most resources destroys one of them. If two or more players are tied, you choose which one destroys a resource.
+
+cost: '5'
+
+combat: Melee
+
+temp: Demon

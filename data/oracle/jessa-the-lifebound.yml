@@ -1,0 +1,23 @@
+card_name: Jessa the Lifebound
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Protector When this ally is destroyed, put three 1 / 1 Treant ally tokens into play.
+
+cost: '5'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Worgen Druid

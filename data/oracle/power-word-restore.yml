@@ -1,0 +1,18 @@
+card_name: Power Word_ Restore
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero, and you may turn it face up. Ongoing : At the start of your turn, your hero heals 1 damage from attached hero.'
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Holy

@@ -1,0 +1,19 @@
+card_name: Noth the Plaguebringer
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Assault 3 At the end of your turn, put a Plagued Warrior into play and flip Noth.
+
+temp: Human Necromancer 4
+
+transform:
+  - id: ability
+    text: Elusive Noth can't attack. At the end of your turn, put a Plagued Champion into play and flip Noth.
+
+type: Boss

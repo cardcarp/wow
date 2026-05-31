@@ -1,0 +1,18 @@
+card_name: Revealing Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Combat Talent Target opponent reveals the top card of his deck, and then he reveals his hand and discards all cards that share a card type with the revealed card.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Combat

@@ -1,0 +1,23 @@
+card_name: Doomguard Invader
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: As an additional cost to play, choose and destroy an ally you control.
+
+cost: '1'
+
+combat: Melee
+
+temp: Doomguard Demon
+
+type: Monster

@@ -1,0 +1,15 @@
+card_name: Cataclysm
+
+layout: standard
+
+regulation:
+
+category: Misc
+
+errata: []
+
+text: "At the end of Deathwing's turn, if Cataclysm has twenty or fewer madness counters, add zero to three madness counters to it, determined at random. If Deathwing is dealt 4 or more damage in one turn, remove a madness counter from Cataclysm. At the start of Deathwing's turn, if Cataclysm has: 1-6 madness counters: Put a Corrupted Blood ally token into play for each madness counter. 7-12 madness counters: The MARKED hero's controller destroy two non-hero cards he controls. 13-19 madness counters: The MARKED hero's controller destroys four non-hero cards he controls. 20+ madness counters: Destroy the MARKED hero."
+
+temp: ''
+
+type: Boss

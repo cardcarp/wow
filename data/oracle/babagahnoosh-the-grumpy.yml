@@ -1,0 +1,21 @@
+card_name: Babagahnoosh the Grumpy
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: When this ally enters play, turn all resources you control face down and discard your hand.
+
+cost: '0'
+
+combat: Frost
+
+temp: Gnome Mage

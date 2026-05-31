@@ -1,0 +1,23 @@
+card_name: Agamaggan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 6
+
+text: Monster Hero Required Smash When Agamaggan deals combat damage to an exhausted ally, ready Agamaggan. 3 → Exhaust target ally.
+
+cost: '6'
+
+combat: Melee
+
+temp: Boar Beast Demigod
+
+type: Monster

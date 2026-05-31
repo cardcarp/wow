@@ -1,0 +1,15 @@
+card_name: Corpse Run
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : When an ally in your party is destroyed during your turn, you may put it from its owner's graveyard into his hand at end of turn."
+
+cost: '7'
+
+temp: ''

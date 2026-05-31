@@ -1,0 +1,21 @@
+card_name: Elementium Terror
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 3
+
+text: This ally can't be targeted by Raiders, and it attacks the Raiding ally with the highest ATK if able. When this ally is destroyed, flip Deathwing cards equal to Deathwing's Stage.
+
+combat: Melee
+
+temp: Terror
+
+type: Boss

@@ -1,0 +1,23 @@
+card_name: Gerwixicks
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When an ally you control deals fire ( ) damage, your hero has Assault 1 this turn.
+
+cost: '2'
+
+combat: Fire
+
+faction: Horde
+
+temp: Goblin Shaman

@@ -1,0 +1,22 @@
+card_name: Haunting Call
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , Exhaust your hero → Remove three target cards in one opposing graveyard from the game. Add a spirit counter for each ally removed this way. At the start of your turn, your hero deals 1 shadow damage to each opposing hero for each spirit counter.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: 1H Weapon Dagger

@@ -1,0 +1,18 @@
+card_name: Brittilize
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : When Brittilize enters play, you may destroy target armor. Destroy Brittilize → Your hero deals 2 frost damage to target hero or ally. A character dealt damage this way can't attack this turn."
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Frost

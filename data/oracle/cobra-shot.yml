@@ -1,0 +1,18 @@
+card_name: Cobra Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals nature damage to target hero or ally equal to the combined ATK of a Pet and a Ranged weapon you control.
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Survival

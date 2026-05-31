@@ -1,0 +1,17 @@
+card_name: Chaigon Steelsight
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 1 , Flip Chaigon → Target ally has -3 ATK this turn.
+
+faction: Alliance
+
+temp: Dwarf Hunter

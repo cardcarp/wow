@@ -1,0 +1,18 @@
+card_name: Megamorph
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Target any number of allies in one party. Ongoing : Those allies can't attack or protect, lose all powers, and are Sheep."
+
+class:
+  - Mage
+
+cost: '8'
+
+temp: Arcane

@@ -1,0 +1,18 @@
+card_name: Windrunners Heartseeker
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Long-Range When this weapon enters play, put two 1 / 1 Undead ally tokens into play. This weapon has +1 ATK for each Undead you control.
+
+class:
+  - Hunter
+
+cost: '5'
+
+temp: Ranged Weapon Crossbow

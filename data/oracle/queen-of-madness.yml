@@ -1,0 +1,15 @@
+card_name: Queen of Madness
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Flip an additional Caverns card for each Caverns hero that has been defeated. If Azshara is the Caverns hero, put four guard counters on her.
+
+temp: Azshara
+
+type: Boss

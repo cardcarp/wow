@@ -1,0 +1,17 @@
+card_name: Shalu Stormshatter
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 3 , Flip Shalu → Destroy target ability that's not attached to a friendly hero or ally.
+
+faction: Horde
+
+temp: Orc Shaman

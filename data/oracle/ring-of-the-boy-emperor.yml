@@ -1,0 +1,22 @@
+card_name: Ring of the Boy Emperor
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this item enters play, name another ability, ally, or equipment. At the start of your turn, if you control the named card, put a destiny counter on this item. , Remove five destiny counters from this item → Destroy target hero.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item Ring

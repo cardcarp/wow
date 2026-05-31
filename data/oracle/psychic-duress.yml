@@ -1,0 +1,18 @@
+card_name: Psychic Duress
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero, and put three coercion counters on this ability. Ongoing : At the start of your turn, attached hero's controller may discard a card. If he does, remove a coercion counter from this ability. Otherwise, your hero deals 1 shadow damage to attached hero for each coercion counter on this ability."
+
+class:
+  - Priest
+
+cost: '4'
+
+temp: Shadow Attachment

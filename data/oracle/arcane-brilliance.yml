@@ -1,0 +1,18 @@
+card_name: Arcane Brilliance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Each friendly player draws a card. Ongoing : Each friendly player's maximum hand size is increased by three."
+
+class:
+  - Mage
+
+cost: '4'
+
+temp: Arcane

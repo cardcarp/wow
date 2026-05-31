@@ -1,0 +1,18 @@
+card_name: Blessing of Divinity
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +1 ATK and +1 health. When attached ally becomes exhausted, your hero heals 1 damage from it.'
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection Blessing

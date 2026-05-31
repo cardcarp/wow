@@ -1,0 +1,18 @@
+card_name: Terrifying Shout
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put target ally or equipment on top of it's owner's deck.
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Fury Shout

@@ -1,0 +1,23 @@
+card_name: Axar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Elusive
+
+cost: '4'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Draenei Mage

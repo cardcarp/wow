@@ -1,0 +1,18 @@
+card_name: Arcane Power
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Arcane Hero Required Ongoing : When you play an ability, you may pay 1 . If you do and your hero would deal damage with that ability this turn, it deals that much damage +1 instead.'
+
+class:
+  - Mage
+
+cost: '1'
+
+temp: Arcane Talent

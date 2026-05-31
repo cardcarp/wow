@@ -1,0 +1,22 @@
+card_name: Elemental Focus Band
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , , Discard an ability card → Your hero deals 2 fire damage to target hero or ally.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '4'
+
+temp: Item Ring

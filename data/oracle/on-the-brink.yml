@@ -1,0 +1,18 @@
+card_name: On the Brink
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : When attached ally becomes exhausted, destroy it.'
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Assassination Combo

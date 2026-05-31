@@ -1,0 +1,21 @@
+card_name: Torch of Holy Fire
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , Exhaust your hero → Reveal a random card from your hand. If it's a card, your hero deals 2 unpreventable holy damage to target hero or ally and heals 2 damage from itself.
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '2'
+
+temp: 1H Weapon Mace

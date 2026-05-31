@@ -1,0 +1,19 @@
+card_name: Marksman Eowan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Aldor Reputation Long-Range When an opposing ally is dealt non-ranged damage, Eowan deals 1 ranged ( ) damage to it.
+
+cost: '4'
+
+temp: Draenei Hunter

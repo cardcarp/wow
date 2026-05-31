@@ -1,0 +1,23 @@
+card_name: Nesmend Darkbreaker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: 5 , Destroy Nesmend Darkbreaker → Target ally is Elusive and Untargetable this turn.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Paladin

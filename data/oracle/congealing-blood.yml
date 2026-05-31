@@ -1,0 +1,15 @@
+card_name: Congealing Blood
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Put three Corrupted Blood ally tokens into play. Then, Deathwing heals damage from himself equal to the number of Corrupted Blood allies he controls.
+
+temp: ''
+
+type: Boss

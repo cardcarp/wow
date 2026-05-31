@@ -1,0 +1,15 @@
+card_name: Mortal Wound
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target raiding hero, and the Boss deals 3 melee damage to it. Ongoing : At the end of your turn, add a fester counter. If attached hero would be healed, it is healed that much -1 for each fester counter instead. When all damage is healed from attached hero, destroy this ability.'
+
+cost: '2'
+
+temp: Naxxramas

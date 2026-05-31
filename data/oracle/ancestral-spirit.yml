@@ -1,0 +1,18 @@
+card_name: Ancestral Spirit
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put target ally card from your graveyard into play if its cost is less than or equal to the number of resources you have. That ally enters play with damage on it equal to its health -1.
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Restoration

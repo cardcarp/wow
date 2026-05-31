@@ -1,0 +1,18 @@
+card_name: Lesson of the Shadow
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: You may exhaust a non-hero Rogue you control rather than pay this ability's cost. Target hero or ally has Assault 3 and Stealth this turn.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Subtlety Combo

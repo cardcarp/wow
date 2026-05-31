@@ -1,0 +1,18 @@
+card_name: Blessed Protector
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero has Protector this turn. Draw a card.
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection

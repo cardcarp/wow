@@ -1,0 +1,17 @@
+card_name: Unholy Mending
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: When you play an ability this turn, the Boss heals 2 damage from target hero or ally you control.
+
+temp: ''
+
+type: Raid
+
+stage: 20

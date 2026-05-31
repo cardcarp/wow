@@ -1,0 +1,27 @@
+card_name: Kaldorei Wind Chimes
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: This item enters play with three chime counters. , Remove a chime counter from this item, choose a or race → Your hero heals 1 damage from itself for each ally you control of the chosen race.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item

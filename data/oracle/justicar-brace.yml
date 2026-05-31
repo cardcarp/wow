@@ -1,0 +1,23 @@
+card_name: Justicar Brace
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Brace can protect heroes and allies with damage.
+
+cost: '5'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

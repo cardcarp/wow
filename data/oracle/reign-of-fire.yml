@@ -1,0 +1,15 @@
+card_name: Reign of Fire
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Onyxia deals X fire damage to each opposing ally, where X is the current stage.
+
+temp: ''
+
+type: Raid

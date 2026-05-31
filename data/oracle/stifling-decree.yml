@@ -1,0 +1,18 @@
+card_name: Stifling Decree
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ability or weapon. Ongoing : Prevent all damage that would be dealt with attached card.'
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Protection

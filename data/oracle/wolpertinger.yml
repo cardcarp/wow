@@ -1,0 +1,23 @@
+card_name: Wolpertinger
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 10
+
+health: 10
+
+text: Elusive , Stealth , Untargetable When this ally is destroyed, destroy your hero.
+
+cost: '8'
+
+combat: Melee
+
+temp: Wolpertinger
+
+type: Monster

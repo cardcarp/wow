@@ -1,0 +1,22 @@
+card_name: Karaborian Talisman
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you complete a quest, you may destroy Karaborian Talisman. If you do, turn that quest face up.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item Off-Hand

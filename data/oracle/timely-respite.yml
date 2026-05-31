@@ -1,0 +1,17 @@
+card_name: Timely Respite
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: 'The raid leader chooses one: His hero heals 6 damage from itself; or each raiding hero heals 2 damage from itself.'
+
+temp: ''
+
+type: Raid
+
+stage: 19

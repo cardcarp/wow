@@ -1,0 +1,23 @@
+card_name: Deathguard Ashleigh
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 7
+
+text: You pay 2 less to play equipment, to a minimum of 1 . Weapons you control have +2 ATK. Armor you control have +2 .
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Warrior

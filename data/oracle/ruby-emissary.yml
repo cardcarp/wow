@@ -1,0 +1,21 @@
+card_name: Ruby Emissary
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: You pay 2 less to play Priests and Paladins, to a minimum of 1 .
+
+cost: '4'
+
+combat: Fire
+
+temp: Red Dragonkin

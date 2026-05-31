@@ -1,0 +1,19 @@
+card_name: Joseph the Insane
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When this ally enters play, the MARKED hero's controller gains control of him. Protector While this ally is damaged, he has +4 ATK.
+
+combat: Holy
+
+temp: Human Paladin

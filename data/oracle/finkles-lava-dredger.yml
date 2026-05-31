@@ -1,0 +1,19 @@
+card_name: Finkles Lava Dredger
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the end of your turn, if an opponent has more resources than you, you may put the top card of your deck into your resource row face down and exhausted.
+
+class:
+  - Druid
+  - Paladin
+
+cost: '4'
+
+temp: 2H Weapon Mace

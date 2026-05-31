@@ -1,0 +1,18 @@
+card_name: Mind Blast
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 2 shadow damage to target hero or ally. Its controller discards a card for each damage dealt.
+
+class:
+  - Priest
+
+cost: '5'
+
+temp: Shadow

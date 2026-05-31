@@ -1,0 +1,18 @@
+card_name: Death Shock
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Traitor Hero Required Your hero deals 1 nature damage to target ally for each damage on your hero.
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Traitor

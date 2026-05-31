@@ -1,0 +1,18 @@
+card_name: Sap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero or ally and exhaust it. Ongoing : Attached character can't ready during its controller's ready step. When attached character is dealt damage, destroy this ability."
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Subtlety

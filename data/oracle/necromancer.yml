@@ -1,0 +1,23 @@
+card_name: Necromancer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: At the start of your turn, you may remove target card in a graveyard from the game. If you do, put a 1 / 1 Skeleton Monster ally token into play.
+
+cost: '3'
+
+combat: Shadow
+
+temp: Scourge Necromancer
+
+type: Monster

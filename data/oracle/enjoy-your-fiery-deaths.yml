@@ -1,0 +1,15 @@
+card_name: _Enjoy Your Fiery Deaths!_
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to the MARKED hero. Ongoing : When a Dungeon ally enters play, it deals 3 fire damage to attached hero.'
+
+temp: ''
+
+type: Dungeon

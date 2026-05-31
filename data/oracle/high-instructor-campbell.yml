@@ -1,0 +1,23 @@
+card_name: High Instructor Campbell
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When Campbell enters play, you may put target Talent card from your graveyard into hand.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Paladin

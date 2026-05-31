@@ -1,0 +1,17 @@
+card_name: Defile
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Each opponent discards a card, turns a resource he controls face down, and destroys an ability and equipment he controls.
+
+cost: '2'
+
+temp: ''
+
+type: Boss

@@ -1,0 +1,23 @@
+card_name: Rakasa Mournewind
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 6
+
+text: Protector When Rakasa deals damage, target opposing hero or ally can't attack or protect this turn.
+
+cost: '6'
+
+combat: Frost
+
+faction: Horde
+
+temp: Tauren Shaman

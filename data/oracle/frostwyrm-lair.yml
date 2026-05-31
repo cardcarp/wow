@@ -1,0 +1,19 @@
+card_name: Frostwyrm Lair
+
+layout: standard
+
+regulation:
+
+category: Misc
+
+errata: []
+
+text: When raiders enter Frostwyrm Lair, the Boss player shuffles his graveyard into his deck, then draws cards until he has seven. → Draw a card. When Sapphiron is dealt damage, he deals 1 frost damage to its source. When Sapphiron is destroyed, flip this card. Sapphiron - Kel'Thuzad
+
+temp: ''
+
+transform:
+  - id: ability
+    text: When this card flips to this side, put three random Kel'Thuzad allies into play. At the start of each player's turn, put three random Kel'Thuzad allies into play. Kel'Thuzad has Immune until nine Kel'Thuzad allies have entered play. → Draw a card.
+
+type: Raid

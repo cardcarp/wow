@@ -1,0 +1,23 @@
+card_name: Neph_Lahim
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 8
+
+text: Smash Other Ogre heroes and allies you control have Assault 2 and Smash .
+
+cost: '8'
+
+combat: Shadow
+
+temp: Ogre Warlock
+
+type: Monster

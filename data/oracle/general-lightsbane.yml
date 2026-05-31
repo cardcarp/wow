@@ -1,0 +1,22 @@
+card_name: General Lightsbane
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 'On your turn: Flip Lightsbane, remove a Death Knight in your graveyard from the game → Target ally has -4 ATK this turn.'
+
+class:
+  - Death Knight
+
+temp: Human Death Knight 29
+
+transform:
+  - id: ability
+    text: "Deckbuilding : You can only include either or cards, cards, Frost talents, neutral cards, and Scourge cards. You can't include cards with reputations or other text restrictions."
+
+type: Raid

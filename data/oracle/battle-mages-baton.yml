@@ -1,0 +1,21 @@
+card_name: Battle Mages Baton
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: x , Exhaust your hero → Destroy target ability, ally, or equipment with cost X.
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '6'
+
+temp: 2H Arena Weapon Staff

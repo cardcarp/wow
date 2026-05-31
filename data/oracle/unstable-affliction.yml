@@ -1,0 +1,18 @@
+card_name: Unstable Affliction
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Affliction Hero Required Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals 2 shadow damage to attached character. When Unstable Affliction is destroyed, your hero deals 4 shadow damage to attached character.'
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Affliction Talent

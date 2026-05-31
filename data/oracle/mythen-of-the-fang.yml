@@ -1,0 +1,17 @@
+card_name: Mythen of the Fang
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 2 , Flip Mythen → Mythen deals 1 nature damage to target hero for each quest its controller has. Druids of the Fang
+
+faction: Alliance
+
+temp: Night Elf Druid

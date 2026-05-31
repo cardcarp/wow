@@ -1,0 +1,15 @@
+card_name: Fiery Madness
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Each Raiding ally deals fire damage to itself equal to its ATK. If no allies were dealt fatal damage this way, flip another Deathwing card.
+
+temp: ''
+
+type: Boss

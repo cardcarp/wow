@@ -1,0 +1,15 @@
+card_name: Bestial Instinct
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : When a Hunter ally enters play under your control or a friendly player's control, target ally has Ferocity this turn."
+
+cost: '2'
+
+temp: ''

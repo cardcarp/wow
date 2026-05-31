@@ -1,0 +1,20 @@
+card_name: Tattered Dreadmist Mask
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'If this armor has three or more heirloom counters: → Look at the top three cards of your deck. Put one into your hand and the rest on the bottom of your deck. Stash : Add an heirloom counter to target equipment you control.'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '1'
+
+temp: Armor Cloth

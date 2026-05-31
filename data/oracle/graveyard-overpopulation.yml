@@ -1,0 +1,13 @@
+card_name: Graveyard Overpopulation
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: 'Ongoing : When an ally is destroyed, its owner may put an ally card with higher cost from his graveyard into play.'
+
+temp: ''

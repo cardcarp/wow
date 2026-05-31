@@ -1,0 +1,50 @@
+name: Alliance Priest
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Alliance
+  - Starter
+  - '2013'
+
+collection: '2013'
+
+highlight: starter-2013-alliance-priest-001
+
+description: 2013 Alliance Priest Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2013 Alliance Priest
+
+total: 61
+
+list:
+  hero:
+    starter-2013-alliance-priest-001: 1  # Skyler Faye, Daughter of the Light
+  main:
+    starter-2013-alliance-priest-002: 3  # Dark Deliverance
+    starter-2013-alliance-priest-003: 2 # Holy Word_ Hope
+    starter-2013-alliance-priest-004: 1 # Power Word_ Tenacity
+    starter-2013-alliance-priest-005: 3 # Power Word_ Vitality
+    starter-2013-alliance-priest-006: 3 # Redeeming Dispel
+    starter-2013-alliance-priest-007: 2 # Spirit Shield
+    starter-2013-alliance-priest-008: 3 # Andrews the Just
+    starter-2013-alliance-priest-009: 3 # Apprentice Teep
+    starter-2013-alliance-priest-010: 3 # Darkshire Deathsworn
+    starter-2013-alliance-priest-011: 3 # Darktwister Kern
+    starter-2013-alliance-priest-012: 1 # Faithseer Jasmina
+    starter-2013-alliance-priest-013: 2 # Father Charles
+    starter-2013-alliance-priest-014: 3 # Kalek Deepearth
+    starter-2013-alliance-priest-015: 3 # Lady Bancroft
+    starter-2013-alliance-priest-016: 3 # Northshire Crusader
+    starter-2013-alliance-priest-017: 3 # Petreus Roffe
+    starter-2013-alliance-priest-018: 1 # Seva Shadowdancer
+    starter-2013-alliance-priest-019: 3 # SI_7 Assassin
+    starter-2013-alliance-priest-020: 3 # Archival Purposes
+    starter-2013-alliance-priest-021: 3 # Entrenched
+    starter-2013-alliance-priest-022: 3 # Escape from Durnholde
+    starter-2013-alliance-priest-023: 3 # The Essence of Enmity
+    starter-2013-alliance-priest-024: 3 # Lightning in a Bottle

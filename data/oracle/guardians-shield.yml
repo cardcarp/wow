@@ -1,0 +1,18 @@
+card_name: Guardians Shield
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : If an ally you control would be dealt non-fatal damage, prevent it.'
+
+class:
+  - Paladin
+
+cost: '5'
+
+temp: Protection

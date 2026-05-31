@@ -1,0 +1,23 @@
+card_name: Burst of Knowledge
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , Put Burst of Knowledge into its owner's hand → You pay 2 less to play your next card this turn.
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Trinket

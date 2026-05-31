@@ -1,0 +1,23 @@
+card_name: Varok Saurfang, High Overlord
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: Ferocity When this ally would be dealt damage, prevent 1 of it for each damage on him.
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

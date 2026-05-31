@@ -1,0 +1,18 @@
+card_name: Wild Growth
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Restoration Talent Your hero heals all damage from each ally you control. Then, this ability enters play with a growth counter for each ally healed this way. Ongoing : Your hero has Mend 1 for each growth counter on this ability.'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Restoration

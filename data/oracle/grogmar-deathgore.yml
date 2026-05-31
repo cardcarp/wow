@@ -1,0 +1,23 @@
+card_name: Grogmar Deathgore
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Grogmar has Ferocity while you have a weapon.
+
+cost: '2'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Death Knight

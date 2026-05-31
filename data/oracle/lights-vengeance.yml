@@ -1,0 +1,18 @@
+card_name: Lights Vengeance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: This turn, target ally has +3 ATK, and damage it would deal is unpreventable.
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Retribution

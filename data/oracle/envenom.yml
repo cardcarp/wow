@@ -1,0 +1,18 @@
+card_name: Envenom
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: As an additional cost to play Envenom, remove up to five Combo cards in your graveyard from the game. Your hero deals that much nature damage to target hero or ally, or double that much if the targeted character has a Poison attached to it.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Assassination Finishing Move

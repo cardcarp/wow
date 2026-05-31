@@ -1,0 +1,18 @@
+card_name: Colossus Smash
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Put a 5 / 5 Colossus Warrior ally token into play. Ongoing : Whenever an ally you control with 5 or more ATK is destroyed, you may destroy target equipment.'
+
+class:
+  - Warrior
+
+cost: '5'
+
+temp: Arms

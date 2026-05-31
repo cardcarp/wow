@@ -1,0 +1,23 @@
+card_name: Aesa
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When this ally enters play, you may reveal an ally from your hand. This ally heals damage from your hero equal to the cost of that revealed ally.
+
+cost: '4'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

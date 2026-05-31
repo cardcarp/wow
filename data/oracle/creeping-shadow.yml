@@ -1,0 +1,19 @@
+card_name: Creeping Shadow
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals 2 shadow damage to attached character.'
+
+class:
+  - Priest
+  - Warlock
+
+cost: '3'
+
+temp: Shadow Affliction

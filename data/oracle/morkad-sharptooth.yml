@@ -1,0 +1,23 @@
+card_name: Morkad Sharptooth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: At the start of your turn, choose a hero or ally in your party. Other characters can't attack this turn.
+
+cost: '3'
+
+combat: Fire
+
+faction: Horde
+
+temp: Orc Warlock

@@ -1,0 +1,13 @@
+card_name: Toogas Quest
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'During your turn, pay 3 to complete this quest. Reward : Put a unique Turtle ally token named Tooga with 1 ATK and 1 health into play. At the start of your next turn, remove Tooga from the game. If you do, draw two cards.'
+
+temp: ''

@@ -1,0 +1,18 @@
+card_name: Arcane Intellect
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Attach to target hero, and its controller draws a card. Ongoing : Attached hero's controller's maximum hand size is increased by three."
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Arcane

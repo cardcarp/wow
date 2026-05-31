@@ -1,0 +1,23 @@
+card_name: Lynda Steele
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Protector 1 → Target ally must attack this turn if able.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

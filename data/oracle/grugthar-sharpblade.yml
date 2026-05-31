@@ -1,0 +1,23 @@
+card_name: Grugthar Sharpblade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: At the start of your turn, choose a hero or ally in your party. Other characters can't attack this turn.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Rogue

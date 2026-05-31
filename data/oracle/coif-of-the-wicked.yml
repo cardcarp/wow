@@ -1,0 +1,19 @@
+card_name: Coif of the Wicked
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: ': When you place a quest, ready your hero and all of your Ranged weapons. : When you place a quest, ready your hero and all of your Melee weapons.'
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '5'
+
+temp: Armor Mail

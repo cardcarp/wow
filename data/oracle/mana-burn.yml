@@ -1,0 +1,18 @@
+card_name: Mana Burn
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Exhaust all of target player's ready resources. Your hero deals 1 shadow damage to that player's hero for each resource exhausted this way.
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Discipline

@@ -1,0 +1,18 @@
+card_name: Charge
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Exhaust target hero or ally. Draw a card.
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Arms

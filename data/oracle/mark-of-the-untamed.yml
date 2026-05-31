@@ -1,0 +1,18 @@
+card_name: Mark of the Untamed
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +1 / +1 and Nature Resistance .'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Restoration

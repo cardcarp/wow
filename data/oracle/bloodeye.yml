@@ -1,0 +1,23 @@
+card_name: Bloodeye
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 8
+
+text: Bloodeye can attack only heroes.
+
+cost: '7'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Orc Hunter

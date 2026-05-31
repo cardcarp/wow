@@ -1,0 +1,23 @@
+card_name: Melgwy Pingzot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: 5 , → Melgwy Pingzot deals 5 fire damage to target hero or ally.
+
+cost: '2'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Gnome Mage

@@ -1,0 +1,17 @@
+card_name: Thaka Deadeye
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: Flip Thaka, discard a Hunter → Ready up to two resources you control.
+
+faction: Horde
+
+temp: Orc Hunter

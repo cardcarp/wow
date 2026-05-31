@@ -1,0 +1,23 @@
+card_name: Child of Ursol
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Mend 1
+
+cost: '3'
+
+combat: Nature
+
+temp: Bear Beast
+
+type: Monster

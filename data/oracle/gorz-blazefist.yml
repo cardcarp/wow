@@ -1,0 +1,23 @@
+card_name: Gorz Blazefist
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Ferocity
+
+cost: '3'
+
+combat: Fire
+
+faction: Horde
+
+temp: Orc Mage

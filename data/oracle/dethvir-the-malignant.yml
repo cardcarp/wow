@@ -1,0 +1,23 @@
+card_name: Dethvir the Malignant
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: Undead Hero Required Will of the Forsaken If another hero or ally in your party would be dealt damage, you may have it be dealt to Dethvir instead.
+
+cost: '4'
+
+combat: Fire
+
+faction: Horde
+
+temp: Undead Warlock

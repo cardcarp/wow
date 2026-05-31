@@ -1,0 +1,18 @@
+card_name: Shield Wall
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put three Wall armor tokens into play with 1 DEF.
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Protection

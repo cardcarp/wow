@@ -1,0 +1,23 @@
+card_name: Leafbeard, Ancient of Lore
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 6
+
+text: When this ally enters play, if your hero is a Monster, you may exhaust target ally. It can't ready during its controller's next ready step.
+
+cost: '6'
+
+combat: Nature
+
+temp: Ancient Druid
+
+type: Monster

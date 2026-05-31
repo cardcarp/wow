@@ -1,0 +1,21 @@
+card_name: Gutbuster
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you deal fatal damage to an ally with this equipment, ready your hero, this equipment, and up to two resources you control.
+
+class:
+  - Warrior
+  - Death Knight
+  - Shaman
+  - Rogue
+
+cost: '4'
+
+temp: 1H Weapon Mace

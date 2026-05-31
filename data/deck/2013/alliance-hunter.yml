@@ -1,0 +1,52 @@
+name: Alliance Hunter
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Alliance
+  - Starter
+  - '2013'
+
+collection: '2013'
+
+highlight: starter-2013-alliance-hunter-001
+
+description: 2013 Alliance Hunter Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2013 Alliance Hunter
+
+total: 61
+
+list:
+  hero:
+    starter-2013-alliance-hunter-001: 1  # six-Shot_ Salli Wolfstone
+  main:
+    starter-2013-alliance-hunter-002: 3  # Bloodclaw
+    starter-2013-alliance-hunter-003: 1 # Deuce
+    starter-2013-alliance-hunter-004: 2 # Eyes of the Beast
+    starter-2013-alliance-hunter-005: 3 # Kill Command
+    starter-2013-alliance-hunter-006: 1 # Master of the Hunt
+    starter-2013-alliance-hunter-007: 2 # Mothra
+    starter-2013-alliance-hunter-008: 1 # Nightfire
+    starter-2013-alliance-hunter-009: 2 # Old Bones
+    starter-2013-alliance-hunter-010: 3 # Ravenous Bite
+    starter-2013-alliance-hunter-011: 2 # Stable Master
+    starter-2013-alliance-hunter-012: 3 # Turn the Blade
+    starter-2013-alliance-hunter-013: 2 # Hunters Focus
+    starter-2013-alliance-hunter-014: 2 # Zip
+    starter-2013-alliance-hunter-015: 3 # Apprentice Teep
+    starter-2013-alliance-hunter-016: 3 # Bizzazz
+    starter-2013-alliance-hunter-017: 3 # Dagin Bootzap
+    starter-2013-alliance-hunter-018: 3 # Laenthor Shademoon
+    starter-2013-alliance-hunter-019: 2 # Nightstalker Austen
+    starter-2013-alliance-hunter-020: 2 # Rodrigo
+    starter-2013-alliance-hunter-021: 2 # Shadowmistress Jezebel Hawke
+    starter-2013-alliance-hunter-022: 3 # A Bird in Hand
+    starter-2013-alliance-hunter-023: 3 # Archival Purposes
+    starter-2013-alliance-hunter-024: 3 # Entrenched
+    starter-2013-alliance-hunter-025: 3 # Escape from Durnholde
+    starter-2013-alliance-hunter-026: 3 # The Essence of Enmity

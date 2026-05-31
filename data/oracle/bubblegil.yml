@@ -1,0 +1,23 @@
+card_name: Bubblegil
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: This and other Murloc allies you control have Protector .
+
+cost: '4'
+
+combat: Frost
+
+temp: Murloc Warrior
+
+type: Monster

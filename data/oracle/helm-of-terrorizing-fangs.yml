@@ -1,0 +1,19 @@
+card_name: Helm of Terrorizing Fangs
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When a non- , non- ally you control is destroyed, add a fang counter to this armor. Remove a fang counter from this armor → Target ally has Assault 1 this turn.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '2'
+
+temp: Armor Mail

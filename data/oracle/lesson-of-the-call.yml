@@ -1,0 +1,18 @@
+card_name: Lesson of the Call
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: You max exhaust a non-hero Warrior you control rather than pay this ability's cost. Put target ally on top of its owner's deck.
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Fury

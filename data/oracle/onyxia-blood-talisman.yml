@@ -1,0 +1,20 @@
+card_name: Onyxia Blood Talisman
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Friendly allies have +2 health.
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+cost: '6'
+
+temp: Item Trinket

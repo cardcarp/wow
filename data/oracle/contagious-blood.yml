@@ -1,0 +1,15 @@
+card_name: Contagious Blood
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Each Raider puts the top card of his deck into his graveyard. Then Deathwing puts a Corrupted Blood ally token into play for each ally in all Raiders' graveyards.
+
+temp: ''
+
+type: Boss

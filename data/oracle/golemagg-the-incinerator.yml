@@ -1,0 +1,19 @@
+card_name: Golemagg the Incinerator
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 20
+
+text: Sulfuron Harbinger has +5 ATK while attacking and can attack only heroes. At the end of your turn, Golemagg deals 3 fire damage to target opposing hero or ally. At the start of your turn, if Golemagg has 15 or more damage, flip him.
+
+temp: Giant
+
+transform:
+  - id: ability
+    text: Sulfuron Harbinger has +5 ATK while attacking and can attack only heroes. When Golemagg is dealt damage, he deals 5 melee damage to the source of that damage.

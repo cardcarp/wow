@@ -1,0 +1,21 @@
+card_name: Merissa Firebrew
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 3 → Flip Merissa
+
+faction: Alliance
+
+temp: Dwarf Shaman
+
+transform:
+  - id: ability
+    text: When you play an equipment, Merissa has Assault 1 this turn.

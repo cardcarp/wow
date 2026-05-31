@@ -1,0 +1,18 @@
+card_name: Inspiring Light
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero heals 8 damage from target hero or ally. Draw a card.
+
+class:
+  - Paladin
+
+cost: '4'
+
+temp: Holy

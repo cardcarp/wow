@@ -1,0 +1,18 @@
+card_name: Throat Slasher
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Dual Wield This weapon has +1 ATK while your hero is attacking an exhausted hero or ally.
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: 1H Weapon Dagger

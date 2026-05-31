@@ -1,0 +1,23 @@
+card_name: Jil_ti
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: Berserking 1 → Jil'ti has Long-Range this turn.
+
+cost: '3'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Troll Hunter

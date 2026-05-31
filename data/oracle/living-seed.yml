@@ -1,0 +1,18 @@
+card_name: Living Seed
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Restoration Talent Attach to your hero. Ongoing : At the start of your turn, add a growth counter to this ability, and your hero heals 1 damage from itself for each growth counter. Then, if there are four or more growth counters on this ability, destroy it. If you do, put a 4 / 4 Ancient Monster ally token into play with Protector .'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Restoration Attachment

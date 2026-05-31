@@ -1,0 +1,27 @@
+card_name: Setesh, Construct of Destruction
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has Assault 1 . At the start of your turn and when your hero deals damage to an opposing hero, add a power counter to this item. At the end of your turn, if this item has five or more power counters on it, destroy it. If you do, put two 0 / 4 Void Wurm ally tokens into play with Assault 4 .
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item

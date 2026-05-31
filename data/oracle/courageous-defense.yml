@@ -1,0 +1,19 @@
+card_name: Courageous Defense
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Draw a card. Ongoing : Your hero is a Protector .'
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '1'
+
+temp: Protection

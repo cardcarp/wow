@@ -1,0 +1,21 @@
+card_name: Azure Magus
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When you play an ability, target ally has Ferocity this turn.
+
+cost: '1'
+
+combat: Arcane
+
+temp: Blue Dragonkin

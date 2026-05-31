@@ -1,0 +1,18 @@
+card_name: Light of Dawn
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Holy Talent Attach to target ally, and your hero heals all damage from it. Add a holy counter to this ability for each damage healed this way. Ongoing : Attached ally has +1 / +1 for each holy counter on this ability. Attached ally has Absorb .'
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Holy Attachment

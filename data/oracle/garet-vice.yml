@@ -1,0 +1,23 @@
+card_name: Garet Vice
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Aberration
+
+cost: '1'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Worgen Rogue

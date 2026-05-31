@@ -1,0 +1,17 @@
+card_name: Marlowe Christophers
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'On your turn: 6 , Flip Marlowe → Target hero or ally has -5 this turn.'
+
+faction: Alliance
+
+temp: Human Warlock

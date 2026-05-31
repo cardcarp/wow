@@ -1,0 +1,20 @@
+card_name: Fluid Death
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When an ally you control deals combat damage to a hero, add a depth counter to this item. Your hero has Assault 1 for each depth counter on this item.
+
+class:
+  - Shaman
+  - Hunter
+  - Rogue
+
+cost: '4'
+
+temp: Item Trinket

@@ -1,0 +1,19 @@
+card_name: Amani Venom-Axe
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You pay 1 more to strike with this weapon for each card in your hand.
+
+class:
+  - Shaman
+  - Rogue
+
+cost: '2'
+
+temp: 1H Weapon Axe

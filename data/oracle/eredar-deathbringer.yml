@@ -1,0 +1,23 @@
+card_name: Eredar Deathbringer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 6
+
+text: When another ally you control is destroyed, this ally heals 4 damage from your hero.
+
+cost: '6'
+
+combat: Shadow
+
+temp: Eredar Demon Warlock
+
+type: Monster

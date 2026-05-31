@@ -1,0 +1,20 @@
+card_name: Band of Vile Aggression
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 5 , → Destroy target resource.
+
+class:
+  - Druid
+  - Hunter
+  - Rogue
+
+cost: '2'
+
+temp: Item Ring

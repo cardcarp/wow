@@ -1,0 +1,18 @@
+card_name: Boundless Rage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Eternal Target ally has +1 ATK this turn for each resource you control.
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Fury

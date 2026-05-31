@@ -1,0 +1,19 @@
+card_name: Fanblade Pauldrons
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Exhaust your hero → Fanblade Pauldrons has +4 DEF this turn.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '2'
+
+temp: Armor Plate

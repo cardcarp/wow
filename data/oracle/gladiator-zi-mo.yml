@@ -1,0 +1,25 @@
+card_name: Gladiator Zi_mo
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Arena allies in your party have +2 ATK.
+
+cost: '3'
+
+combat: Fire
+
+faction: Horde
+
+temp: Troll Mage
+
+type: Arena

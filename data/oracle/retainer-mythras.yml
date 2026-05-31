@@ -1,0 +1,21 @@
+card_name: Retainer Mythras
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 1
+
+text: Scryer Reputation When Mythras enters play, target opponent gains control of him. Mythras can't attack. At the end of your turn, destroy an ally in your party other than Mythras. If you can't destroy Mythras.
+
+cost: '4'
+
+combat: Melee
+
+temp: Blood Elf Rogue

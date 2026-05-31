@@ -1,0 +1,27 @@
+card_name: Arrival of the Naaru
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Exhaust an ally you control → Add a meditation counter to this item. While this item has five or more meditation counters: , Destroy this item → Put a 5 / 5 Naaru ally token into play with Absorb and Protector .'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '4'
+
+temp: Item

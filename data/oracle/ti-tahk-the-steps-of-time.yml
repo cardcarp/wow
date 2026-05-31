@@ -1,0 +1,18 @@
+card_name: Ti_tahk, the Steps of Time
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: The first time your hero would deal damage with an ability each turn, it deals that much +3 instead.
+
+class:
+  - Mage
+
+cost: '5'
+
+temp: 2H Weapon Staff

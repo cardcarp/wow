@@ -1,0 +1,19 @@
+card_name: Engulfing Blaze
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 3 fire damage to each hero and ally.
+
+class:
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Fire Destruction

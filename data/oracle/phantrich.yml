@@ -1,0 +1,23 @@
+card_name: Phantrich
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 6
+
+text: Mend 3
+
+cost: '5'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Draenei Shaman

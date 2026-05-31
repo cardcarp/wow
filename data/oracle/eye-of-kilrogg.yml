@@ -1,0 +1,18 @@
+card_name: Eye of Kilrogg
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Look at target opponent's hand and choose a card. Remove that card from the game.
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Demonology

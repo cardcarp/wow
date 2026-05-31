@@ -1,0 +1,18 @@
+card_name: Natural Alignment
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals X nature damage to target hero or ally and heals X damage from target hero or ally, where X is the number of friendly players.
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Elemental

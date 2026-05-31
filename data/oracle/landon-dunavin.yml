@@ -1,0 +1,23 @@
+card_name: Landon Dunavin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: Long-Range
+
+cost: '2'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Undead Hunter

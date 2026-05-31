@@ -1,0 +1,21 @@
+card_name: The Lobotomizer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When The Lobotomizer enters play, each player destroys one of his resources.
+
+class:
+  - Warrior
+  - Shaman
+  - Hunter
+  - Rogue
+
+cost: '5'
+
+temp: 1H Weapon Dagger

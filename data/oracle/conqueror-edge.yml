@@ -1,0 +1,26 @@
+card_name: Conqueror Edge
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: When this ally enters play, you may put target equipment on the bottom of its owner's deck.
+
+class:
+  - Hunter
+
+cost: '4'
+
+combat: Frost
+
+faction: Horde
+
+temp: Tauren Death Knight

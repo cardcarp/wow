@@ -1,0 +1,18 @@
+card_name: Natures Swiftness
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Restoration Hero Required You pay 5 less to play your next card this turn.
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Restoration Talent

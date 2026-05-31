@@ -1,0 +1,23 @@
+card_name: Jeishal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play, destroy target opposing armor. If you destroyed an armor with cost 2 or less this way, draw a card.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

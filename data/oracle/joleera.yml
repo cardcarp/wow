@@ -1,0 +1,17 @@
+card_name: Joleera
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 'On your turn: 2 , Flip Joleera → Joleera has +2 ATK this turn.'
+
+faction: Horde
+
+temp: Blood Elf Rogue

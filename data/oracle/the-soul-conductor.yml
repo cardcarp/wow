@@ -1,0 +1,23 @@
+card_name: The Soul Conductor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: The Soul Conductor has +1 ATK / +1 health for each ally card in opposing removed from game zones.
+
+cost: '3'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Warlock

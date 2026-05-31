@@ -1,0 +1,21 @@
+card_name: Lightning Whelk Axe
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Shaman
+
+cost: '2'
+
+temp: 1H Weapon Axe

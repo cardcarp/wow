@@ -1,0 +1,21 @@
+card_name: Flamewaker Elite
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Protector
+
+combat: Melee
+
+temp: Flamewaker
+
+type: Ally

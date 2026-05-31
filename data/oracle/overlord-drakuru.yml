@@ -1,0 +1,23 @@
+card_name: Overlord Drakuru
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Scourge Hero Required This ally has Assault X , where X is the highest cost among Scourge allies you control.
+
+cost: '2'
+
+combat: Frost
+
+temp: Troll Death Knight
+
+type: Raid

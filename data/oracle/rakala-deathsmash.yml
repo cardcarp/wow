@@ -1,0 +1,23 @@
+card_name: Rakala Deathsmash
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: When this ally is destroyed, target opposing ally has -3 ATK this turn.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Death Knight

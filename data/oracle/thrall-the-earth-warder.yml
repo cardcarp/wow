@@ -1,0 +1,23 @@
+card_name: Thrall the Earth-Warder
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+damage: 0
+
+health: 40
+
+text: Assault 5 , Mend 5 When Thrall deals damage to an opposing hero, put a 5 / 5 Earth Elemental ally token into play with Protector .
+
+cost: '10'
+
+combat: Nature
+
+temp: Orc Shaman
+
+type: Master

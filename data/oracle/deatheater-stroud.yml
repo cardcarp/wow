@@ -1,0 +1,23 @@
+card_name: Deatheater Stroud
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: When damage is healed from an opposing ally, this ally deals that much shadow damage to that ally's controller's hero.
+
+cost: '4'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Death Knight

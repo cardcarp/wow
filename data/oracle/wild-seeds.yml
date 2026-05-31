@@ -1,0 +1,18 @@
+card_name: Wild Seeds
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 1 nature damage to each of up to three target allies. Put a 1 / 1 Treant ally token into play for each ally that was dealt fatal damage this way.
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Balance

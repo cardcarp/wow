@@ -1,0 +1,23 @@
+card_name: Meganna Callaghan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: Meganna can attack Elusive heroes and allies.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Rogue

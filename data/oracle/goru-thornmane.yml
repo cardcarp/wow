@@ -1,0 +1,23 @@
+card_name: Goru Thornmane
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Assault 2 When this ally deals damage while attacking, you may destroy target equipment.
+
+cost: '2'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

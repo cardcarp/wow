@@ -1,0 +1,18 @@
+card_name: Blessing of the Martyr
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +2 ATK while attacking. When attached ally is destroyed, its owner puts it from his graveyard into his hand.'
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection Blessing

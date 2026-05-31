@@ -1,0 +1,19 @@
+card_name: Kick Thinking
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Interrupt target ability with cost less than or equal to the number of Mages and Rogues you control.
+
+class:
+  - Rogue
+  - Mage
+
+cost: '1'
+
+temp: Arcane Combat

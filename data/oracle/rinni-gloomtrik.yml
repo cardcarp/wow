@@ -1,0 +1,17 @@
+card_name: Rinni Gloomtrik
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'On your turn: Flip Rinni, discard a Warlock → Your hero deals 1 shadow damage to target hero or ally. When that character is destroyed this turn, its controller discards a card.'
+
+faction: Alliance
+
+temp: Gnome Warlock

@@ -1,0 +1,23 @@
+card_name: Brulu Breaks-the-Land
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 7
+
+text: Smash When this ally deals Smash damage, put a 1 / 1 Treant ally token into play for each Smash damage dealt.
+
+cost: '7'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

@@ -1,0 +1,23 @@
+card_name: Nok_tal the Savage
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Protector Berserking
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Warrior

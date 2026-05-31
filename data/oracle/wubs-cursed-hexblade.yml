@@ -1,0 +1,20 @@
+card_name: Wubs Cursed Hexblade
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , Destroy Wub's Cursed Hexblade → Destroy target ally. If an opponent went first this game, put a card with the same name as that ally from a graveyard into your party.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: 1H Weapon Dagger

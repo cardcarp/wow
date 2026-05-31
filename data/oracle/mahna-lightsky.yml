@@ -1,0 +1,23 @@
+card_name: Mahna Lightsky
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Protector This ally has Nature Resistance on opposing turns.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Paladin

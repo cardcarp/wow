@@ -1,0 +1,15 @@
+card_name: Nether Blast
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : When a Warlock ally enters play under your control or a friendly player's control, your hero deals 1 shadow damage to target opposing hero and heals damage from itself equal to the damage dealt this way."
+
+cost: '1'
+
+temp: ''

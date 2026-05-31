@@ -1,0 +1,21 @@
+card_name: Durotar Frostblade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 4
+
+cost: '4'
+
+combat: Frost
+
+faction: Horde
+
+temp: Orc Death Knight

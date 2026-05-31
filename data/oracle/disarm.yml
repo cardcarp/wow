@@ -1,0 +1,18 @@
+card_name: Disarm
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy all of target player's weapons.
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Protection

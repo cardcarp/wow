@@ -1,0 +1,23 @@
+card_name: Roshen the Oathsworn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: Protector You pay 1 less to play Auras, Blessings, and Seals.
+
+cost: '3'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Paladin

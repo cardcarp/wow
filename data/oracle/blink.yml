@@ -1,0 +1,18 @@
+card_name: Blink
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Draw a card. If your hero is defending, remove all attackers from combat.
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Arcane

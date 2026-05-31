@@ -1,0 +1,18 @@
+card_name: Retribution Aura
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When a hero or ally in your party is dealt combat damage, it deals 1 holy damage to the source of that combat damage.'
+
+class:
+  - Paladin
+
+cost: '5'
+
+temp: Retribution

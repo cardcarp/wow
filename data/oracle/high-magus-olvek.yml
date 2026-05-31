@@ -1,0 +1,17 @@
+card_name: High Magus Olvek
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 1 , Flip Olvek → Choose "ability", "ally", or "equipment", then reveal the top card of your deck. If it has the chosen type, put it into your hand.
+
+faction: Alliance
+
+temp: Dwarf Mage

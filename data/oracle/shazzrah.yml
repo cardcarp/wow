@@ -1,0 +1,19 @@
+card_name: Shazzrah
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 13
+
+text: Shazzrah has +2 ATK while attacking and can attack only heroes. 1 → Flip Shazzrah. Use only once per turn.
+
+temp: Flamewaker
+
+transform:
+  - id: ability
+    text: When Shazzrah flips to this side, drop him from at least three feet above play. He deals 5 arcane damage to each opposing hero and ally he lands on. At the start of your turn, flip Shazzrah.

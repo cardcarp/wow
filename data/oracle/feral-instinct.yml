@@ -1,0 +1,18 @@
+card_name: Feral Instinct
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Feral Hero Required Ongoing : While in cat form, your hero has +2 ATK while attacking an exhausted defender. While in bear form, your hero has +4 ATK while protecting.'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Feral Talent

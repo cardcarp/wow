@@ -1,0 +1,18 @@
+card_name: Telescopic Sharprifle
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 → When you strike with Telescopic Sharprifle this turn, your hero has Long-Range this turn.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Ranged Weapon Gun

@@ -1,0 +1,17 @@
+card_name: Joren the Martyr
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: 2 , Flip Joren → The next time target hero or ally would be dealt damage this turn, prevent it.
+
+faction: Horde
+
+temp: Undead Priest

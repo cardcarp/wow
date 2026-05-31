@@ -1,0 +1,23 @@
+card_name: Lissie Spizfrat
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: 'On your turn: → This ally deals 3 shadow damage to each hero and ally.'
+
+cost: '1'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Warlock

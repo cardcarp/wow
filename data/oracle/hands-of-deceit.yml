@@ -1,0 +1,18 @@
+card_name: Hands of Deceit
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target opponent chooses a number. Then you choose "higher", "equal", or "lower. That opponent reveals his hand and discards all cards with cost higher than, equal to, or lower than the choosen cost, accordingly.
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: Subtlety

@@ -1,0 +1,15 @@
+card_name: Meteor
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: The Boss deals 15 fire damage, divided as the raid leader chooses, to any number of raiding heroes. When a hero is dealt damage this way, its controller destroys an ability, ally, or equipment he controls.
+
+cost: '5'
+
+temp: Naxxramas

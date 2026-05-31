@@ -1,0 +1,18 @@
+card_name: Guise of the Stalker
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : Attached ally has +3 ATK, Stealth , and Spellshield .'
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Subtlety Attachment

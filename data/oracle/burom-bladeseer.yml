@@ -1,0 +1,21 @@
+card_name: Burom Bladeseer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+cost: '2'
+
+combat: Nature
+
+faction: Horde
+
+temp: Orc Shaman

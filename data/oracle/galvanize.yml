@@ -1,0 +1,19 @@
+card_name: Galvanize
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : → Choose one: Ally tokens you control have +1 ATK this turn; or target ally token you control has +3 ATK this turn.'
+
+class:
+  - Druid
+  - Death Knight
+
+cost: '2'
+
+temp: Unholy Balance

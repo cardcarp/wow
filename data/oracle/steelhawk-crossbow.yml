@@ -1,0 +1,18 @@
+card_name: Steelhawk Crossbow
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with Steelhawk Crossbow, your hero has Long-Range this combat. At the start of your turn, exhaust Steelhawk Crossbow unless you pay 1 .
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Ranged Weapon Crossbow

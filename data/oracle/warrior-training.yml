@@ -1,0 +1,18 @@
+card_name: Warrior Training
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target friendly ally. Ongoing : Opposing heroes and allies can attack only attached ally if able.'
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Protection

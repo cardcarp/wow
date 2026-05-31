@@ -1,0 +1,17 @@
+card_name: Radak Doombringer
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: x , Flip Radak Doombringer, destroy one of your Pets with cost X → Radak deals X shadow damage to target hero or ally. Use only on your turn.
+
+faction: Horde
+
+temp: Orc Warlock

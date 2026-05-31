@@ -1,0 +1,23 @@
+card_name: Baru Gravehorn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Protector When this ally enters play, if there are three or more allies in your graveyard, you may put a 3 / 3 Ghoul ally token into play.
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Death Knight

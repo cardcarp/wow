@@ -1,0 +1,23 @@
+card_name: Trixie Boltclunker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Protector
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Warrior

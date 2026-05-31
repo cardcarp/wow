@@ -1,0 +1,23 @@
+card_name: Uh_gali the Elementalist
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Protector Exhaust a Totem you control → Ready this ally.
+
+cost: '2'
+
+combat: Frost
+
+faction: Horde
+
+temp: Troll Shaman

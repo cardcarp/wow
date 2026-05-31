@@ -1,0 +1,23 @@
+card_name: Rehgar Earthfury
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: allies in your party have +1 health. allies in your party have +1 ATK. When Rehgar attacks, gain control of target ally.
+
+cost: '6'
+
+combat: Frost
+
+temp: Orc Shaman
+
+type: Arena

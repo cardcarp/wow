@@ -1,0 +1,23 @@
+card_name: Petreus Roffe
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Protector
+
+cost: '3'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

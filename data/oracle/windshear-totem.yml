@@ -1,0 +1,26 @@
+card_name: Windshear Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+damage: 0
+
+health: 1
+
+instant: 'When this card enters play, you may interrupt target ability. Ongoing : At the start of your turn, this card deals 1 nature damage to target hero or ally.'
+
+class:
+  - Shaman
+
+cost: '3'
+
+combat: Nature
+
+temp: Elemental
+
+type: Ally

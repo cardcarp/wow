@@ -1,0 +1,18 @@
+card_name: Char
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 1 fire damage to attached hero for each card in its controller's hand."
+
+class:
+  - Mage
+
+cost: '3'
+
+temp: Fire

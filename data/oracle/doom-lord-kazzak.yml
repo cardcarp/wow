@@ -1,0 +1,21 @@
+card_name: Doom Lord Kazzak
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 13
+
+health: 13
+
+text: At the end of your turn, destroy all non-Demon allies.
+
+cost: '13'
+
+combat: Melee
+
+temp: Demon

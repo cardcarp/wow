@@ -1,0 +1,18 @@
+card_name: Punishing Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 3 ranged damage to target ally. If that ally is dealt fatal damage this way, your hero deals ranged damage equal to that ally's cost to its controller's hero.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Marksmanship

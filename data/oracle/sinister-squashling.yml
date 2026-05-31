@@ -1,0 +1,23 @@
+card_name: Sinister Squashling
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 2
+
+text: At the start of your turn, reveal the top card of your deck. If you revealed an ability, ally, or equipment this turn, this ally has +ATK this turn equal to the cost of that revealed card.
+
+cost: '2'
+
+combat: Nature
+
+temp: Squashling
+
+type: Monster

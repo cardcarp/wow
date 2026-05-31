@@ -1,0 +1,23 @@
+card_name: Tonks the Tenacious
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Destroy Tonks → Target hero or ally can't attack this turn.
+
+cost: '1'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Gnome Mage

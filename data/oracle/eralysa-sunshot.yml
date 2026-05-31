@@ -1,0 +1,23 @@
+card_name: Eralysa Sunshot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: When this ally enters play, she deals 2 ranged damage to target opposing Monster hero or ally.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Hunter

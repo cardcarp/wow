@@ -1,0 +1,23 @@
+card_name: Mo_arg Punisher
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: When this ally enters play, you may destroy another ally you control. If you do, destroy target equipment.
+
+cost: '3'
+
+combat: Melee
+
+temp: Mo'arg Demon
+
+type: Monster

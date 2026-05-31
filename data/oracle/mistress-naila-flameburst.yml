@@ -1,0 +1,23 @@
+card_name: Mistress Naila Flameburst
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 5
+
+text: When Naila attacks, she deals 1 fire damage to each other hero and ally.
+
+cost: '6'
+
+combat: Fire
+
+faction: Horde
+
+temp: Blood Elf Warlock

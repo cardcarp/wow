@@ -1,0 +1,18 @@
+card_name: Thunder Clap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 1 melee damage to each opposing hero and ally. A character dealt damage this way has -1 ATK this turn.
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Arms

@@ -1,0 +1,23 @@
+card_name: Val_kyr Shadowguard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 5
+
+text: 'Grab and Drop : When this ally enters play, you may destroy target ally.'
+
+cost: '3'
+
+combat: Melee
+
+temp: Val'kyr
+
+type: Raid

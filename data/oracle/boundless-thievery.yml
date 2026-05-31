@@ -1,0 +1,18 @@
+card_name: Boundless Thievery
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Eternal Reveal cards from the top of target opponent's deck equal to the number of resources you control. You may choose a revealed ally or equipment and play it immediately, paying costs as normal. Then, put the rest on the bottom of that player's deck.
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Subtlety

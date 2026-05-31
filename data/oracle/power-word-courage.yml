@@ -1,0 +1,20 @@
+card_name: Power Word_ Courage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Preparation Ongoing : Allies in your party have +1 health.'
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: ''
+
+type: Arena

@@ -1,0 +1,25 @@
+card_name: Gladiator Kileana
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: When Kileana or another Arena ally enters your party, it may deal 1 fire damage to each other hero and ally other than itself.
+
+cost: '5'
+
+combat: Fire
+
+faction: Horde
+
+temp: Blood Elf Warlock
+
+type: Arena

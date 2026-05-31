@@ -1,0 +1,21 @@
+card_name: Magistrix Valthin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: Scryer Reputation When an ability enters play, you may have target player gain control of it. If it's attached, that player may reattach it.
+
+cost: '3'
+
+combat: Frost
+
+temp: Blood Elf Mage

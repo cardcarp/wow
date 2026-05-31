@@ -1,0 +1,23 @@
+card_name: Rensarth Shadowsun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: 'On your turn: 1 , Put 1 damage on another ally in your party → Target ally has -1 health this turn.'
+
+cost: '2'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Blood Elf Warlock

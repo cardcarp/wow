@@ -1,0 +1,18 @@
+card_name: Netherpocalypse
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Each opponent chooses one: Your hero deals 10 shadow damage to his hero; or destroy all resources he controls; or destroy all abilities, allies, and equipment he controls.'
+
+class:
+  - Warlock
+
+cost: '5'
+
+temp: Destruction

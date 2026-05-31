@@ -1,0 +1,23 @@
+card_name: Archdruid Hamuul Runetotem
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 7
+
+text: Druids in your party have +1 ATK while attacking. Druids in your party have Protector .
+
+cost: '8'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Druid

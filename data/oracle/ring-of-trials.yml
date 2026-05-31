@@ -1,0 +1,13 @@
+card_name: Ring of Trials
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: When a hero or ally in your party deals damage, add an arena counter. , Remove three arena counters → Target player chooses an ally in his party, and then you choose an ally in your party. Each deals melee damage equal to its ATK to the other.
+
+temp: Arena

@@ -1,0 +1,18 @@
+card_name: Banish to the Nether
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Remove target ability, ally, or equipment from the game. Ongoing : When Banish to the Nether leaves play, the owner of that removed card puts that card into play.'
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Destruction

@@ -1,0 +1,23 @@
+card_name: Jaema, Herald of the Light
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: 'Empower Paladin : When this ally enters play, if you control another Paladin hero or ally, this ally heals 4 damage from target hero or ally, and you draw a card.'
+
+cost: '5'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Draenei Paladin

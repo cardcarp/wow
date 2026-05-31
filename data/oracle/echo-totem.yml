@@ -1,0 +1,18 @@
+card_name: Echo Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the start of your turn, you may remove a non-ongoing ability card in your graveyard from the game. If you do, you can play that card without paying its cost this turn. (Totems can be attacked or targeted like allies.)'
+
+class:
+  - Shaman
+
+cost: '4'
+
+temp: Elemental 1

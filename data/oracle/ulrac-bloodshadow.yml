@@ -1,0 +1,23 @@
+card_name: Ulrac Bloodshadow
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Ferocity When Ulrac attacks, put a Demon ally card from your graveyard into hand.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Blood Elf Warlock

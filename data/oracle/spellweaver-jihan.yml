@@ -1,0 +1,17 @@
+card_name: Spellweaver Jihan
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: Flip Jihan → The next time Jihan would deal damage with an ability this turn, she deals that much +1 instead.
+
+faction: Alliance
+
+temp: Human Mage

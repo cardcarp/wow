@@ -1,0 +1,15 @@
+card_name: Murozond
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: "Long-Range If Murozond is the first Caverns hero, put him on the bottom of the Caverns hero pile. Entrance : Put a time counter on Murozond for each Caverns hero that has been defeated. At the start of Murozond's turn, put a time counter on him. Murozond has Flip X and Assault X , where X is the number of time counters on him."
+
+temp: Infinite Dragonkin Aspect 30
+
+type: Boss

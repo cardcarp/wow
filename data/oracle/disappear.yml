@@ -1,0 +1,19 @@
+card_name: Disappear
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero is Elusive this turn.
+
+class:
+  - Priest
+  - Mage
+
+cost: '2'
+
+temp: Arcane Shadow

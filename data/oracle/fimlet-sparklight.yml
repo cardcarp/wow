@@ -1,0 +1,23 @@
+card_name: Fimlet Sparklight
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: When this ally enters play, he deals 8 damage from each hero.
+
+cost: '5'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Gnome Priest

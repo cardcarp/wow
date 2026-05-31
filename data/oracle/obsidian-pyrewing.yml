@@ -1,0 +1,21 @@
+card_name: Obsidian Pyrewing
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: When this or another Black or Twilight Dragonkin ally you control is destroyed, you may destroy target face-up resource.
+
+cost: '6'
+
+combat: Fire
+
+temp: Black Dragonkin

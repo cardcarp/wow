@@ -1,0 +1,21 @@
+card_name: Fel Stalker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: This ally has +3 ATK while attacking a Raiding hero with no ready resources.
+
+combat: Shadow
+
+temp: Felhunter Demon
+
+type: Boss

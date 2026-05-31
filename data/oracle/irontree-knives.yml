@@ -1,0 +1,19 @@
+card_name: Irontree Knives
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: This weapon enters play exhausted. Thrown
+
+class:
+  - Warrior
+  - Rogue
+
+cost: '3'
+
+temp: Ranged Weapon Shuriken

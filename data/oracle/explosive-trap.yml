@@ -1,0 +1,18 @@
+card_name: Explosive Trap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Trap Destroy target attacking ally. If you do, exhaust all other heroes and allies in its party.
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Survival

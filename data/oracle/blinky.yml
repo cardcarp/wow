@@ -1,0 +1,24 @@
+card_name: Blinky
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 5
+
+instant: 3 → Remove Blinky from the game and put a warp counter on him. 3 , Remove a warp counter → Put Blinky into play. Use only if Blinky is removed from the game.
+
+class:
+  - Hunter
+
+cost: '7'
+
+combat: Melee
+
+temp: Warp Stalker

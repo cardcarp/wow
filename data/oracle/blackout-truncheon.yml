@@ -1,0 +1,22 @@
+card_name: Blackout Truncheon
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+instant: When this weapon enters play, exhaust target hero or ally. That character can't ready during its controller's next ready step.
+
+class:
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Shaman
+
+cost: '2'
+
+temp: 1H Weapon Mace

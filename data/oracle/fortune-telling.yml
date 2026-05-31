@@ -1,0 +1,15 @@
+card_name: Fortune Telling
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Turn your deck over.
+
+cost: '8'
+
+temp: ''

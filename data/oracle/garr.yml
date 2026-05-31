@@ -1,0 +1,19 @@
+card_name: Garr
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 14
+
+text: Garr has +3 ATK while attacking and can attack only heroes. At the end of each turn, if you have four or fewer Firesworn, flip Garr.
+
+temp: Elemental
+
+transform:
+  - id: ability
+    text: Garr has +6 ATK while attacking and can attack only heroes. 1 → Destroy one of your Firesworn. If you do, it deals 2 fire damage to each hero and ally in target opponent's party.

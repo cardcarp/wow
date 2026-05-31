@@ -1,0 +1,23 @@
+card_name: Magni, Lord of Ironforge
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 7
+
+text: Protector When this ally is dealt combat damage by an attacking ally, you may put an ally with cost less than or equal to that attacking ally's cost from your hand into play.
+
+cost: '7'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Warrior King

@@ -1,0 +1,17 @@
+card_name: Leisha of Darnassus
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 'On your turn: 3 , Flip Leisha → Leisha has Assault 3 this turn.'
+
+faction: Alliance
+
+temp: Night Elf Druid

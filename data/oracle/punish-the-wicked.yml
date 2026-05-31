@@ -1,0 +1,15 @@
+card_name: Punish the Wicked
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: The Dungeon and each Raider reveal the top card of their decks. Mograine deals 5 unpreventable holy damage to the hero of each Raider whose revealed card shares a card type with the Dungeon's. Then, put all revealed cards on the bottom of their respective decks.
+
+temp: ''
+
+type: Dungeon

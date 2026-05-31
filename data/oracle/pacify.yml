@@ -1,0 +1,18 @@
+card_name: Pacify
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target ally. Ongoing : You control attached ally. Attached ally can't attack."
+
+class:
+  - Priest
+
+cost: '4'
+
+temp: Discipline Attachment

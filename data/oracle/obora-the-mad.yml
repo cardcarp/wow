@@ -1,0 +1,17 @@
+card_name: Obora the Mad
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 2 , Flip Obora → When an opponent draws a card this turn, Obora deals 1 arcane damage to target hero or ally in that opponent's party. Auchenai
+
+faction: Alliance
+
+temp: Draenei Mage

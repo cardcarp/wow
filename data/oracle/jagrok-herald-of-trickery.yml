@@ -1,0 +1,23 @@
+card_name: Jagrok, Herald of Trickery
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: 'Empower Rogue : When this ally enters play, if you control another Rogue hero or ally, you may destroy target exhausted ally.'
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Rogue

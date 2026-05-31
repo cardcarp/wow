@@ -1,0 +1,23 @@
+card_name: Doom Commander Zaakuul
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 6
+
+text: Monster Hero Required When another non-token ally you control is destroyed, put a token copy of that ally into play that is also a Demon Monster.
+
+cost: '5'
+
+combat: Shadow
+
+temp: Doomguard Demon
+
+type: Monster

@@ -1,0 +1,58 @@
+name: Alliance Death Knight
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Alliance
+  - Starter
+  - '2011'
+
+collection: '2011'
+
+highlight: starter-2011-alliance-dk-001
+
+description: 2011 Alliance Death Knight Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the Alliance's Death Knight class
+
+total: 61
+
+list:
+  hero:
+    starter-2011-alliance-dk-001: 1  # Davron of Stormwind
+  main:
+    starter-2011-alliance-dk-002: 1  # Black Blood
+    starter-2011-alliance-dk-003: 2 # Blood Chill
+    starter-2011-alliance-dk-004: 1 # Chains of Ice
+    starter-2011-alliance-dk-005: 2 # Frost Fever
+    starter-2011-alliance-dk-006: 2 # Glacial Strike
+    starter-2011-alliance-dk-007: 3 # Horn of Winter
+    starter-2011-alliance-dk-008: 1 # Hungering Cold
+    starter-2011-alliance-dk-009: 1 # Outbreak
+    starter-2011-alliance-dk-010: 1 # Path of Frost
+    starter-2011-alliance-dk-011: 2 # Surge of Blood
+    starter-2011-alliance-dk-012: 2 # Jinie Swizzleshade
+    starter-2011-alliance-dk-013: 3 # Kelsa Wildfire
+    starter-2011-alliance-dk-014: 2 # Knight Karia
+    starter-2011-alliance-dk-015: 1 # Koeus
+    starter-2011-alliance-dk-016: 3 # Latro Abiectus
+    starter-2011-alliance-dk-017: 2 # Olaf Steelbreaker
+    starter-2011-alliance-dk-018: 2 # Patricia Potter
+    starter-2011-alliance-dk-019: 2 # Petreus Roffe
+    starter-2011-alliance-dk-020: 3 # Scaramanga
+    starter-2011-alliance-dk-021: 2 # Stargazer Ronal
+    starter-2011-alliance-dk-022: 1 # Terina Calin
+    starter-2011-alliance-dk-023: 1 # Bloodbanes Fall
+    starter-2011-alliance-dk-024: 2 # Angry Dread
+    starter-2011-alliance-dk-025: 1 # Colossal Skull-Clad Cleaver
+    starter-2011-alliance-dk-026: 2 # Brothers in Death
+    starter-2011-alliance-dk-027: 2 # A Bird in Hand
+    starter-2011-alliance-dk-028: 3 # Entrenched
+    starter-2011-alliance-dk-029: 3 # The Essence of Enmity
+    starter-2011-alliance-dk-030: 1 # The Grimtotem Weapon
+    starter-2011-alliance-dk-031: 4 # The Key to Freedom
+    starter-2011-alliance-dk-032: 2 # Mystery Goo

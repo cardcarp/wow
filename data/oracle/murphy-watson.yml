@@ -1,0 +1,23 @@
+card_name: Murphy Watson
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: This ally has Assault 3 while an ally is in your graveyard.
+
+cost: '4'
+
+combat: Fire
+
+faction: Horde
+
+temp: Undead Mage

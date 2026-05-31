@@ -1,0 +1,23 @@
+card_name: Bronwyn Lightborn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Frost Resistance At the start of your turn, you may destroy this ally. If you do, destroy target ability.
+
+cost: '1'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Dwarf Paladin

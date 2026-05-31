@@ -1,0 +1,23 @@
+card_name: Kil_jaeden the Deceiver
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+damage: 2
+
+health: 40
+
+text: At the start of your turn, each player draws a card. Opponents play with their hands revealed and can't play cards during your turn. You can play cards in opposing hands during your turn.
+
+cost: '10'
+
+combat: Shadow
+
+temp: Eredar Demon Warlock
+
+type: Master

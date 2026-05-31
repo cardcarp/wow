@@ -1,0 +1,18 @@
+card_name: Rituals of Power
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: "Pay 1 to complete this quest. Reward : Target opposing card loses and can't have powers this turn."
+
+class:
+  - Mage
+
+temp: ''
+
+type: Class Restriction

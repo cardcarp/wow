@@ -1,0 +1,13 @@
+card_name: The Fall of Neferset City
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: "On your turn: Pay 2 to complete this quest. Reward : Reveal the top card of your deck. If it's an ally, target ally you control has +2 ATK and Ferocity this turn."
+
+temp: ''

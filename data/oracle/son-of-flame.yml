@@ -1,0 +1,21 @@
+card_name: Son of Flame
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Ferocity Son of Flame can't be dealt fire ( ) damage. When the last Son of Flame leaves play, if Ragnaros is submerged, flip Ragnaros.
+
+combat: Fire
+
+temp: Elemental
+
+type: Ally

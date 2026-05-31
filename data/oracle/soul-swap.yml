@@ -1,0 +1,18 @@
+card_name: Soul Swap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Affliction Talent Your hero deals shadow damage to target hero equal to half its remaining health, rounded up, and heals 1 damage from itself for each damage dealt this way.
+
+class:
+  - Warlock
+
+cost: '6'
+
+temp: Affliction

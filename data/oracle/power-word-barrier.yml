@@ -1,0 +1,18 @@
+card_name: Power Word_ Barrier
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Discipline Talent Ongoing : This ability enters play with two bubble counters on it. If a hero or ally you control would be dealt damage, remove a bubble counter from this ability. If you do, prevent that damage. Then, if no bubble counters remain, destroy this ability.'
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Discipline

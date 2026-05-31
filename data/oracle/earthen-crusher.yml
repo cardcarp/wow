@@ -1,0 +1,21 @@
+card_name: Earthen Crusher
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: 1 → This ally has +1 ATK this turn.
+
+cost: '3'
+
+combat: Melee
+
+temp: Earthen Warrior

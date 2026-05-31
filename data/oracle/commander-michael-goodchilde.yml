@@ -1,0 +1,17 @@
+card_name: Commander Michael Goodchilde
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 2 , Flip Michael → If a friendly ally would deal combat damage while defending this turn, it deals that much +2 instead.
+
+faction: Alliance
+
+temp: Human Paladin

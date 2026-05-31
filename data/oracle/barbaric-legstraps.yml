@@ -1,0 +1,19 @@
+card_name: Barbaric Legstraps
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Your hero deals 2 melee damage to target hero or ally. Use only if an opposing ally was destroyed this turn.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '3'
+
+temp: Armor Mail

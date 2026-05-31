@@ -1,0 +1,13 @@
+card_name: Political Savvy
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Each player writes down the name of the player who complains the most. Players reveal their votes. If one player has the most votes, each other player who gives that player a tissue may draw a card.
+
+temp: ''

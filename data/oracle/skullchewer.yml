@@ -1,0 +1,26 @@
+card_name: Skullchewer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 6
+
+text: As this ally enters play, you may remove an ally in an opposing graveyard from the game. If you do, this ally has that card's printed powers.
+
+class:
+  - Death Knight
+
+cost: '5'
+
+combat: Frost
+
+temp: Vrykul Ghoul
+
+type: Monster

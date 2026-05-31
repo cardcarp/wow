@@ -1,0 +1,19 @@
+card_name: Fists of Mukoa
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: While you have no weapons, your hero has +1 ATK while attacking.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '3'
+
+temp: Armor Mail

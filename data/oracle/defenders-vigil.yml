@@ -1,0 +1,18 @@
+card_name: Defenders Vigil
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: This turn, target hero or ally must attack if able, can attack only your hero if able, and has -3 ATK while attacking your hero.
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Protection

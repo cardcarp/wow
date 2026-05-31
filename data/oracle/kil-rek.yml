@@ -1,0 +1,23 @@
+card_name: Kil_rek
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 3
+
+text: Elusive → Kil'rek deals 1 fire damage to target opposing hero for each demon you control.
+
+cost: '2'
+
+combat: Fire
+
+temp: Imp Demon
+
+type: Monster

@@ -1,0 +1,23 @@
+card_name: Packleader Ivar Bloodfang
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 6
+
+text: 'Aberration Once per turn: Growl → Allies you control have Assault 2 this turn.'
+
+cost: '6'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Worgen Warrior

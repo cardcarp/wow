@@ -1,0 +1,18 @@
+card_name: Wild Swipes
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Your hero has Assault 2 while you control a form.'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Feral

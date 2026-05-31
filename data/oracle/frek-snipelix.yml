@@ -1,0 +1,23 @@
+card_name: Frek Snipelix
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: Time is Money → Target ally has Long-Range this turn.
+
+cost: '3'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Goblin Hunter

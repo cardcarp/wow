@@ -1,0 +1,21 @@
+card_name: Cho_gall
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: Cho'gall's Command 2 , Flip Cho'gall → You and target opponent each reveal the top card of your decks. If your card has a higher cost, put it into your hand.
+
+faction: Horde
+
+temp: Ogre Mage
+
+transform:
+  - id: ability
+    text: "Cho'gall's Fury Once per game: 6 → Cho'gall has +4 ATK and Smash this turn."

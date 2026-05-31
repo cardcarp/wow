@@ -1,0 +1,23 @@
+card_name: Caretaker Mooncrier
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Ready allies in your party have +2 ATK.
+
+cost: '3'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Night Elf Priest

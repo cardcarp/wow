@@ -1,0 +1,23 @@
+card_name: Kresss, Herald of the Hunt
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: 'Empower Hunter : When this ally enters play, if you control another Hunter hero or ally, this ally deals 2 ranged damage to each of up to two target heroes and/or allies.'
+
+cost: '4'
+
+combat: Melee
+
+temp: Naga Hunter
+
+type: Monster

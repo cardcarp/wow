@@ -1,0 +1,18 @@
+card_name: Merciless Gladiators Pursuit
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, you may put a Bear ally token into play with 4 ATK / 4 health, Pet (1), and "This ally can protect your hero." → Your hero deals 2 ranged damage to each of up to three target heroes and/or allies.
+
+class:
+  - Hunter
+
+cost: '8'
+
+temp: Arena Armor Set Mail

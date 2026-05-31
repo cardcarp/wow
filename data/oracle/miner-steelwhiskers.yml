@@ -1,0 +1,23 @@
+card_name: Miner Steelwhiskers
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Protector When Steelwhiskers protects, put the top two cards of target opponent's deck into his graveyard.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Warrior

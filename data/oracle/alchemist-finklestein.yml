@@ -1,0 +1,21 @@
+card_name: Alchemist Finklestein
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Argent Crusade Reputation 1 , Discard a Unique card → Draw a card.
+
+cost: '2'
+
+combat: Fire
+
+temp: Undead Alchemist

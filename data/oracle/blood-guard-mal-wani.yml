@@ -1,0 +1,23 @@
+card_name: Blood Guard Mal_wani
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: Blood Guard Mal'wani has +1 ATK for each damage on him.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Rogue

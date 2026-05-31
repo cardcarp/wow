@@ -1,0 +1,19 @@
+card_name: Feast of Flame
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals 1 fire damage to attached character for each Mage and Warlock you control.'
+
+class:
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: Fire Destruction

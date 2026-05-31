@@ -1,0 +1,18 @@
+card_name: Deathblow
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Finishing Move Your hero deals 1 plus X melee damage to target hero or ally.
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Assassination Combo

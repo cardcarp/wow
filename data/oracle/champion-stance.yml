@@ -1,0 +1,18 @@
+card_name: Champion Stance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : If your hero would deal damage, it deals that much +1 instead. If your hero would be dealt damage, prevent 1 of it.'
+
+class:
+  - Warrior
+
+cost: '5'
+
+temp: Arms

@@ -1,0 +1,23 @@
+card_name: Pygmy Pyramid
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Monster Hero Required Elusive , Mend 2 , Protector When this ally is destroyed, put three 1 / 1 Pygmy Monster ally tokens into play, the first with Elusive , the second with Mend 2 , and the third with Protector .
+
+cost: '4'
+
+combat: Melee
+
+temp: Pygmy
+
+type: Monster

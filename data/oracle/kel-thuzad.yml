@@ -1,0 +1,30 @@
+card_name: Kel_Thuzad
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+damage: 3
+
+health: 33
+
+text: ", , , , or Hero Required When your hero becomes Kel'Thuzad, target an opponent. Gain control of an ally he controls. Search his zones for one ally each and put any number of them into play."
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Mage
+  - Warlock
+
+cost: '10'
+
+combat: Frost
+
+temp: Lich
+
+type: Master

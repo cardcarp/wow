@@ -1,0 +1,19 @@
+card_name: Fist of the Deity
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+instant: Your hero has Dual Wield . When this weapon enters play, it has +2 ATK this turn.
+
+class:
+  - Shaman
+  - Rogue
+
+cost: '4'
+
+temp: 1H Weapon Fist

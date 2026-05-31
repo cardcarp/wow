@@ -1,0 +1,23 @@
+card_name: Raztu_jor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: When this ally attacks, you may destroy target weapon.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Warrior

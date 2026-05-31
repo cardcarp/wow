@@ -1,0 +1,17 @@
+card_name: Jaral of Gilneas
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'On your turn: 2 , Flip Jaral → Jaral deals 3 ranged damage to target ally with cost 4 or more.'
+
+faction: Alliance
+
+temp: Worgen Hunter

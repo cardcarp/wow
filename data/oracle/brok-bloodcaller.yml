@@ -1,0 +1,23 @@
+card_name: Brok Bloodcaller
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Ferocity At the end of your turn, destroy Brok if he's undamaged.
+
+cost: '4'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Orc Hunter

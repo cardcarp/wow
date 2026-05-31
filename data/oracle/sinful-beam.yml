@@ -1,0 +1,15 @@
+card_name: Sinful Beam
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals X shadow damage to target opposing hero or ally and each other opposing hero and ally with the same class as that character.
+
+cost: X
+
+temp: Black Temple

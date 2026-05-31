@@ -1,0 +1,21 @@
+card_name: Mining Monkey
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this ally enters play, each friendly player may draw a card (including you) .
+
+cost: '3'
+
+combat: Melee
+
+temp: Monkey

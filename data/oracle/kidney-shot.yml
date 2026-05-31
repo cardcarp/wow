@@ -1,0 +1,18 @@
+card_name: Kidney Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Finishing Move Choose X of the following: "ability," "ally," "equipment," "hero," and "resource." Exhaust all opposing cards of the chosen kinds.'
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Assassination

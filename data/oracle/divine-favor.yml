@@ -1,0 +1,18 @@
+card_name: Divine Favor
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Holy Hero Required Ongoing : , Remove the top X cards of your deck from the game → Your hero heals X damage from target hero or ally.'
+
+class:
+  - Paladin
+
+cost: '5'
+
+temp: Holy Talent

@@ -1,0 +1,23 @@
+card_name: Nespirah
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 9
+
+health: 9
+
+text: If Nespirah would deal damage to an opposing hero, she deals that much divided as you choose among any number of opposing heroes and/or allies instead.
+
+cost: '8'
+
+combat: Melee
+
+temp: Demigod
+
+type: Monster

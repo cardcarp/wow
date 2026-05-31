@@ -1,0 +1,15 @@
+card_name: Monstrous Regeneration
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target friendly Monster ally. Ongoing : Attached ally has +1 / +1 and Mend 1 . (At the start of your turn, it may heal 1 damage from target hero or ally.)'
+
+cost: '1'
+
+temp: ''

@@ -1,0 +1,20 @@
+card_name: Gurubashi Dwarf Destroyer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with Gurubashi Dwarf Destroyer, your hero has Long-Range this combat. 2 , Destroy Gurubashi Dwarf Destroyer → Destroy target Dwarf ally.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+
+cost: '4'
+
+temp: Ranged Weapon Gun

@@ -1,0 +1,21 @@
+card_name: Promenade Sentinel
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: Traitor Hero Required When Promenade Sentinel enters play, it deals 2 arcane damage to each of up to three target heroes and/or allies.
+
+cost: '7'
+
+combat: Arcane
+
+temp: Mechanical Traitor

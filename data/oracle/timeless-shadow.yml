@@ -1,0 +1,18 @@
+card_name: Timeless Shadow
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Echo Target opponent chooses an ally he controls and puts it into its owner's hand.
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Affliction

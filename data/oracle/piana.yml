@@ -1,0 +1,23 @@
+card_name: Piana
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 2
+
+text: → Target up to three heroes and/or allies. Piana heals 3, 2, and 1 damage from them, respectively.
+
+cost: '1'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

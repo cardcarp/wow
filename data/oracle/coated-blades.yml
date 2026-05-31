@@ -1,0 +1,18 @@
+card_name: Coated Blades
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Choose one: Target player discards a card for each Poison attached to his hero; or search your deck for a poison, reveal it, and put it into your hand.'
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Assassination

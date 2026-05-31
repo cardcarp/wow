@@ -1,0 +1,23 @@
+card_name: Vindicator Saaris
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: When this ally enters play, each opponent destroys equipment he controls until he controls only one.
+
+cost: '6'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Warrior

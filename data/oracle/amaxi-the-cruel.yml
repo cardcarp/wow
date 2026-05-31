@@ -1,0 +1,21 @@
+card_name: Amaxi the Cruel
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 4 → Flip Amaxi face down.
+
+faction: Horde
+
+temp: Goblin Warlock
+
+transform:
+  - id: ability
+    text: If an opposing ally would be destroyed by fatal damage, you may remove it from the game instead.

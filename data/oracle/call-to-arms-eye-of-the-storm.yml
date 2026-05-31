@@ -1,0 +1,13 @@
+card_name: Call to Arms_ Eye of the Storm
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: "On your turn, pay 3 to complete this quest. Reward : Draw a card, and target hero or ally can't ready during its controller's next ready step. You may add an honor counter to a Battleground card you control."
+
+temp: Battleground

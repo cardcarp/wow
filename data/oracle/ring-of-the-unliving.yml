@@ -1,0 +1,23 @@
+card_name: Ring of the Unliving
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero can't be destroyed. While your hero has fatal damage on it, when it's dealt damage, destroy that many of your equipment and/or resources.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+cost: '4'
+
+temp: Item Ring

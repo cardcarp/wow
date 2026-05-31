@@ -1,0 +1,18 @@
+card_name: Malfurions Gift
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Restoration Talent Put target ally with cost less than or equal to the number of resources you control from your graveyard into play and attach this ability to it. Ongoing : Attached ally has +2 / +2. When this ability leaves play, destroy attached ally.'
+
+class:
+  - Druid
+
+cost: '5'
+
+temp: Restoration

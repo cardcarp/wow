@@ -1,0 +1,18 @@
+card_name: Dirty Distraction
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Exhaust each opposing ally and equipment with cost 4 or less. Those cards can't ready during their controller's next ready step.
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: Combat

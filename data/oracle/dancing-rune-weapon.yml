@@ -1,0 +1,18 @@
+card_name: Dancing Rune Weapon
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Blood Hero Required Put a weapon with cost less than or equal to the number of resources you control from your hand into play. At the end of this turn, put that weapon from play into your hand.
+
+class:
+  - Death Knight
+
+cost: '1'
+
+temp: Blood Talent

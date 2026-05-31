@@ -1,0 +1,19 @@
+card_name: Swiftsteel Bracers
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You pay 5 less to strike with weapons.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '5'
+
+temp: Armor Plate

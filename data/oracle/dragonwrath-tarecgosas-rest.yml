@@ -1,0 +1,22 @@
+card_name: Dragonwrath, Tarecgosas Rest
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this weapon enters play or you play an ability, you may put a 5 / 5 Blue Dragonkin ally token into play.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '7'
+
+temp: 2H Weapon Staff

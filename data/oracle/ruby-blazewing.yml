@@ -1,0 +1,21 @@
+card_name: Ruby Blazewing
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: 'When this or another ally enters play under your control, it may deal 1 fire damage to target ally. Stash : Your hero deals fire damage to target hero equal to the number of Dragonkin you control.'
+
+cost: '6'
+
+combat: Fire
+
+temp: Red Dragonkin

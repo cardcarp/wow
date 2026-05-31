@@ -1,0 +1,17 @@
+card_name: Ivan, Bladewind Brute
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 'If you control another Warrior: Flip Ivan → Ivan deals 2 melee damage to target damaged hero or ally.'
+
+faction: Alliance
+
+temp: Human Warrior

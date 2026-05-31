@@ -1,0 +1,18 @@
+card_name: Timeless Bounty
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Echo Put two 1 / 1 Treant ally tokens into play.
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Balance

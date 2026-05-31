@@ -1,0 +1,18 @@
+card_name: Breathstone-Infused Longbow
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Long-Range You pay 2 less to play allies with cost 6 or more.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Ranged Weapon Bow

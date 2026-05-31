@@ -1,0 +1,23 @@
+card_name: Katoka Dreadblade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: This ally is instant on each opponent's turn. When this ally enters play, you may exhaust target ready hero or ally. If it's your turn, draw a card. Otherwise, this ally deals 1 melee damage to that character.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

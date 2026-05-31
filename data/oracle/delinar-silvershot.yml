@@ -1,0 +1,23 @@
+card_name: Delinar Silvershot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play, if you control another Night Elf ally, this ally deals 3 ranged damage to target opposing ally.
+
+cost: '4'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Night Elf Hunter

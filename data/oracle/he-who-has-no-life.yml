@@ -1,0 +1,23 @@
+card_name: _He Who Has No Life_
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 3
+
+text: When an ally with cost 5 or less enters play, destroy it.
+
+cost: '6'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

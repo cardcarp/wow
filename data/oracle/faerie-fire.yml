@@ -1,0 +1,18 @@
+card_name: Faerie Fire
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Attach to target hero or ally. Ongoing : Attached character loses and can't have Stealth . If attached character would be dealt damage, it's dealt that much +1 instead."
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Balance

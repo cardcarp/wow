@@ -1,0 +1,21 @@
+card_name: Odo the Blindwatcher
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 10
+
+text: When this ally enters play, if Godfrey or any other Dungeon ally would deal damage this turn, it deals double that much instead.
+
+combat: Melee
+
+temp: Worgen Spirit
+
+type: Dungeon

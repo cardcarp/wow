@@ -1,0 +1,18 @@
+card_name: Shield Slam
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Protection Hero Required You may exhaust one of your Shields rather than pay Shield Slam's cost. Your hero deals 3 melee damage to target hero or ally. If you targeted a hero, you may destroy an ability controlled by its controller.
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Protection Talent

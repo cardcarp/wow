@@ -1,0 +1,23 @@
+card_name: Wrathguard Defender
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Protector
+
+cost: '3'
+
+combat: Melee
+
+temp: Wrathguard Demon
+
+type: Monster

@@ -1,0 +1,23 @@
+card_name: Rogg Dreadnock
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When your hero defends, Rogg deals 2 ranged damage to target attacker.
+
+cost: '3'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Orc Hunter

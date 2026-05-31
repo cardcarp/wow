@@ -1,0 +1,20 @@
+card_name: Blade of the Empty Void
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: While this weapon is in your graveyard, your hero has Protector .
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '3'
+
+temp: 1H Weapon Sword

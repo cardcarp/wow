@@ -1,0 +1,15 @@
+card_name: Blunder into the Eggs
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Put a Whelp into play for each opposing hero. Those whelps have Ferocity this turn.
+
+temp: ''
+
+type: Raid

@@ -1,0 +1,23 @@
+card_name: Consul Rhys Lorgrand
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: 'Human Hero Required Diplomacy: allies Rhys has +1 ATK / +1 health for each different race among allies in your party other than Human. (Draenei, Dwarf, Gnome, and Night Elf.)'
+
+cost: '3'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Priest

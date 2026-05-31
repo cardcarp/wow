@@ -1,0 +1,18 @@
+card_name: Primal Mending
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally, and your hero heals 2 damage from it. Ongoing : At the end of each turn, your hero heals 1 damage from attached ally.'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Restoration

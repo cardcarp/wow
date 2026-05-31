@@ -1,0 +1,18 @@
+card_name: Improvised Weaponry
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target Melee weapon. Ongoing : Attached weapon loses Melee (1), has Ranged (1), becomes a weapon, and has "When you strike with this weapon, your hero has Long-Range this combat."'
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Marksmanship

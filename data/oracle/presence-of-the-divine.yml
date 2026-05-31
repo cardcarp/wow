@@ -1,0 +1,18 @@
+card_name: Presence of the Divine
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When an attacking ally deals damage to an ally you control, you may destroy that attacker.'
+
+class:
+  - Paladin
+
+cost: '4'
+
+temp: Retribution

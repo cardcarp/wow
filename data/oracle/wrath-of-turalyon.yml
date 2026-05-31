@@ -1,0 +1,18 @@
+card_name: Wrath of Turalyon
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Destroy all allies that attacked this turn.
+
+class:
+  - Paladin
+
+cost: '4'
+
+temp: Retribution

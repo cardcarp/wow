@@ -1,0 +1,18 @@
+card_name: Muddle
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : When this ability enters play, you may put target opposing ability into its owner's hand. Opponents pay 1 more to play abilities."
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Affliction

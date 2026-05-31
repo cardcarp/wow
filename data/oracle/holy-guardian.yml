@@ -1,0 +1,24 @@
+card_name: Holy Guardian
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Protector Damage that this ally would deal is unpreventable. Opposing heroes can't deal holy ( ) damage.
+
+class:
+  - Priest
+
+cost: '2'
+
+combat: Holy
+
+temp: Guardian

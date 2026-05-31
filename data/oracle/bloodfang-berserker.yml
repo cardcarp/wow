@@ -1,0 +1,23 @@
+card_name: Bloodfang Berserker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 3
+
+text: Ferocity This ally has +2 ATK while attacking a damaged hero or ally.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Worgen Warrior

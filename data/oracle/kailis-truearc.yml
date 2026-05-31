@@ -1,0 +1,23 @@
+card_name: Kailis Truearc
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Kailis Truearc has +2 ATK and +2 health while there are four or more allies in your party.
+
+cost: '1'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Night Elf Hunter

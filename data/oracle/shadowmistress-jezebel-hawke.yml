@@ -1,0 +1,23 @@
+card_name: Shadowmistress Jezebel Hawke
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Friendly Pets have +2 .
+
+cost: '3'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Warlock

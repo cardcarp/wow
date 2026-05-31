@@ -1,0 +1,18 @@
+card_name: Primal Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target ally or weapon has +3 ATK this turn.
+
+class:
+  - Shaman
+
+cost: '1'
+
+temp: Enhancement

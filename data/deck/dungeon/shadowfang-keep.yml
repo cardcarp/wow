@@ -1,0 +1,71 @@
+name: Shadowfang Keep
+
+credit: Official Product
+
+category: Raid
+
+facet:
+  - Dungeon
+  - Raid
+
+collection: dungeon
+
+highlight: shadowfang-keep-001
+
+description: Shadowfang Keep
+
+context:
+  - title: ''
+    body: Introduction to the Shadowfang Keep
+
+total: 70
+
+list:
+  hero:
+    shadowfang-keep-001: 1  # Lord Godfrey - Level 1
+    shadowfang-keep-002: 1 # Lord Godfrey - Level 2
+    shadowfang-keep-003: 1 # Lord Godfrey - Level 3
+    shadowfang-keep-004: 1 # Lord Godfrey - Level 4
+  main:
+    shadowfang-keep-005: 1  # Baron Ashbury
+    shadowfang-keep-006: 1 # Baron Silverlaine
+    shadowfang-keep-007: 1 # Commander Springvale
+    shadowfang-keep-008: 1 # Lord Walden
+    shadowfang-keep-009: 1 # Bloodfang Berserker
+    shadowfang-keep-010: 8 # Bloodthirsty Ghoul
+    shadowfang-keep-011: 4 # Haunting Spirit
+    shadowfang-keep-012: 4 # Lupine Spectre
+    shadowfang-keep-013: 4 # Mindless Horror
+    shadowfang-keep-014: 1 # Odo the Blindwatcher
+    shadowfang-keep-015: 1 # Razorclaw the Butcher
+    shadowfang-keep-016: 4 # Spitebone Guardian
+    shadowfang-keep-017: 1 # Bleed Them Dry
+    shadowfang-keep-018: 1 # Calamity
+    shadowfang-keep-019: 1 # Cursed Bullets
+    shadowfang-keep-020: 1 # Dangerous Gambit
+    shadowfang-keep-021: 1 # Dark Archangel Form
+    shadowfang-keep-022: 1 # Dark Confusion
+    shadowfang-keep-023: 1 # Dark Influence
+    shadowfang-keep-024: 1 # Gargoyles
+    shadowfang-keep-025: 1 # Heroic Sacrifice
+    shadowfang-keep-026: 1 # _Intruders in the Keep! To Arms!_
+    shadowfang-keep-027: 1 # Kill Them All
+    shadowfang-keep-028: 1 # Our Vigilance Is Eternal...
+    shadowfang-keep-029: 1 # Pain and Suffering
+    shadowfang-keep-030: 6 # Pistol Barrage
+    shadowfang-keep-031: 1 # Protect Lord Godfrey!
+    shadowfang-keep-032: 1 # Stay of Execution
+    shadowfang-keep-033: 1 # Sudden Attack
+    shadowfang-keep-034: 1 # Toxic Coagulant
+    shadowfang-keep-035: 1 # Word of Shame
+    shadowfang-keep-036: 1 # _Your Journey Ends in Agony!_
+    shadowfang-keep-037: 1 # Godfreys Belt
+    shadowfang-keep-038: 1 # Godfreys Britches
+    shadowfang-keep-039: 1 # Godfreys Crystal Scope
+    shadowfang-keep-040: 1 # Godfreys Pistols
+    shadowfang-keep-041: 1 # Be Vewy Vewy Quiet!
+    shadowfang-keep-042: 1 # Completion Machine
+    shadowfang-keep-043: 1 # Haunted Keep
+    shadowfang-keep-044: 1 # Not a Scratch on Me!
+    shadowfang-keep-045: 1 # Pantsing
+    shadowfang-keep-046: 1 # Pro Move

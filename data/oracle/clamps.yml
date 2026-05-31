@@ -1,0 +1,26 @@
+card_name: Clamps
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: 2 , → Exhaust up to two target allies.
+
+class:
+  - Hunter
+
+cost: '4'
+
+combat: Melee
+
+temp: Crab
+
+type: Monster

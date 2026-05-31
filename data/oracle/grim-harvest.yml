@@ -1,0 +1,18 @@
+card_name: Grim Harvest
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : At the start of your turn, you may destroy an ally you control. If you do, your hero deals shadow damage to target hero or ally equal to the destroyed ally's cost and heals 1 damage from itself for each damage dealt this way."
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Demonology

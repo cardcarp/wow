@@ -1,0 +1,23 @@
+card_name: Saurfang the Younger
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 4
+
+text: Protector When Saurfang enters combat with an ally with damage, destroy it and ready Saurfang.
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

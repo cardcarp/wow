@@ -1,0 +1,23 @@
+card_name: Gardos Gravefang
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Protector When this ally is destroyed, you may put target card in a graveyard on the bottom of its owner's deck.
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Worgen Death Knight

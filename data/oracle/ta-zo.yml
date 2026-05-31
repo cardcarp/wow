@@ -1,0 +1,17 @@
+card_name: Ta_zo
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 3 , Flip Ta'zo → Ta'zo deals 3 fire damage to target hero or ally. Use only on your turn.
+
+faction: Horde
+
+temp: Troll Mage

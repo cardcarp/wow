@@ -1,0 +1,20 @@
+card_name: Axe of Cenarius
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with this weapon, your hero and this weapon can't ready during your next ready step.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '5'
+
+temp: 2H Weapon Axe

@@ -1,0 +1,17 @@
+card_name: Janvaru the Thunderspeaker
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: '4 , Flip Janvaru → Choose one: Janvaru deals 4 nature damage to target hero, or Janvaru heals 4 damage from himself.'
+
+faction: Alliance
+
+temp: Draenei Shaman

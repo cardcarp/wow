@@ -1,0 +1,23 @@
+card_name: Orderkeeper Calister
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: Protector Opponents pay 2 more to play equipment.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

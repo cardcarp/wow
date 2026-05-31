@@ -1,0 +1,23 @@
+card_name: Eredar Chaosbringer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: When this ally enters play, Portal .
+
+cost: '7'
+
+combat: Fire
+
+temp: Eredar Demon Warlock
+
+type: Monster

@@ -1,0 +1,18 @@
+card_name: Heroic Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Weapons you control have +3 ATK this turn.
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Arms

@@ -1,0 +1,23 @@
+card_name: King Varian Wrynn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 9
+
+health: 9
+
+text: Protector Opposing heroes and allies have -1 / -1 for each different card type you control.
+
+cost: '9'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior King

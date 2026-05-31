@@ -1,0 +1,18 @@
+card_name: Ice Trap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Trap Your hero deals 3 frost damage to target attacker. Remove a character dealt damage this way from combat.
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Survival

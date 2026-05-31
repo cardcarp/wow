@@ -1,0 +1,15 @@
+card_name: Mark of Kaz_rogal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to the MARKED hero. Ongoing : At the start of the Caverns hero's turn, attached hero's controller chooses one: the Caverns hero deals 6 shadow damage to attached hero; or the Caverns hero deals 3 shadow damage to each other Raiding hero."
+
+temp: Attachment
+
+type: Boss

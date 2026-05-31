@@ -1,0 +1,18 @@
+card_name: Dark Extortion
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target player chooses an ally he controls. Gain control of that ally.
+
+class:
+  - Priest
+
+cost: '5'
+
+temp: Shadow

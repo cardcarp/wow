@@ -1,0 +1,18 @@
+card_name: Feedback
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Elemental Talent Ongoing : When you play an ability, reveal the top card of your deck. If it has the same cost as that ability, you may put it into your hand.'
+
+class:
+  - Shaman
+
+cost: '1'
+
+temp: Elemental

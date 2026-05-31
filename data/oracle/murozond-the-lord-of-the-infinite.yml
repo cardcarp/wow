@@ -1,0 +1,23 @@
+card_name: Murozond, The Lord of the Infinite
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+damage: 2
+
+health: 42
+
+text: 'On your turn, if Murozond is in your hand: 3 → Remove Murozond from the game with twelve time counters on it. On your turn, if Murozond is removed from the game: 2 → Remove a time counter from Murozond. At the start of your turn, if Murozond has a time counter, remove a time counter from him. When the last time counter is removed from Murozond, you may put him into play. If Murozond is in play: The first time you would draw a card on your turn, search your deck for any card and put it into your hand.'
+
+cost: '12'
+
+combat: Arcane
+
+temp: Infinite Dragonkin Aspect
+
+type: Master

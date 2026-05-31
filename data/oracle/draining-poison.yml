@@ -1,0 +1,18 @@
+card_name: Draining Poison
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Attach to target hero or ally that was dealt combat damage by your hero this turn. Ongoing : At the start of your turn, attached character's controller discards a card."
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Assassination Poison

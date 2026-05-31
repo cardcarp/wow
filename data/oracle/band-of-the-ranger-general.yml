@@ -1,0 +1,23 @@
+card_name: Band of the Ranger-General
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You pay 1 less to strike with weapons for each weapon you have.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+cost: '3'
+
+temp: Item Ring

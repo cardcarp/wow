@@ -1,0 +1,22 @@
+card_name: Overseer Savryn
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 'On your turn: Flip Savryn, remove a Rogue in your graveyard from the game → This turn, Melee weapons you control have Assault 1 , and combat damage your hero would deal is unpreventable.'
+
+class:
+  - Rogue
+
+temp: Human Rogue 27
+
+transform:
+  - id: ability
+    text: "Deckbuilding : You can only include either or cards, cards, Combat talents, neutral cards, and Scourge cards. You can't include cards with reputations or other text restrictions."
+
+type: Raid

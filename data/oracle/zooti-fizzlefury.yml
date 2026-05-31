@@ -1,0 +1,23 @@
+card_name: _Zooti_ Fizzlefury
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Elusive When this ally enters play, put a 2 / 1 Water Elemental ally token into play.
+
+cost: '5'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Gnome Mage

@@ -1,0 +1,23 @@
+card_name: Uruka the Cutthroat
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: 'When this ally is dealt damage, target opponent reveals his hand. Death Rattle : You may choose "ability," "ally," or "equipment." If you do, target opponent reveals his hand, and this ally deals 1 melee damage to his hero for each revealed card of that kind.'
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Rogue

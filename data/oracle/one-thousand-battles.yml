@@ -1,0 +1,23 @@
+card_name: One-Thousand-Battles
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: "Protector At the start of your turn, an opponent chooses one: One-Thousand-Battles can't attack this turn; or One-Thousand-Battles must attack this turn if able."
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Druid

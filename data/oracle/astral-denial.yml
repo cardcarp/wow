@@ -1,0 +1,18 @@
+card_name: Astral Denial
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Interrupt target quest reward effect. Ongoing : When an opponent completes a quest, destroy this ability. If you do, interrupt that quest's reward effect."
+
+class:
+  - Mage
+
+cost: '3'
+
+temp: Arcane

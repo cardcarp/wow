@@ -1,0 +1,18 @@
+card_name: Ancestral Purge
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target ability that's not attached to a friendly card. If you do, your hero deals 1 nature damage to each opposing hero and ally.
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Elemental

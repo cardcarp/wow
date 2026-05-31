@@ -1,0 +1,15 @@
+card_name: Mograines Justice
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Level 1 : Destroy all Raiding allies that have or share the highest among Raiding allies. Level 2 : Each Raider chooses and destroys a resource he controls. Level 3 : Each Raider discards two cards. Level 4 : Put two random bosses from the Dungeon graveyard into play.'
+
+temp: ''
+
+type: Dungeon

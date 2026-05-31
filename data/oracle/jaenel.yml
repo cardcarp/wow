@@ -1,0 +1,21 @@
+card_name: Jaenel
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 4 → Flip Jaenel
+
+faction: Alliance
+
+temp: Draenei Paladin
+
+transform:
+  - id: ability
+    text: Assault 1

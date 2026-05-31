@@ -1,0 +1,18 @@
+card_name: Two-Handed Weapon Specialization
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Arms Hero Required Ongoing : Your Two-Handed weapons have +5 ATK.'
+
+class:
+  - Warrior
+
+cost: '5'
+
+temp: Arms Talent

@@ -1,0 +1,17 @@
+card_name: Grindel Hellbringer
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 3 , Flip Grindel → Grindel deals 1 fire damage to each hero and ally. Use only on your turn.
+
+faction: Horde
+
+temp: Orc Warlock

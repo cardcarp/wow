@@ -1,0 +1,17 @@
+card_name: Gazriz of Gnomeregan
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'On your turn: 3 , Flip Gazriz → Gazriz deals 2 shadow damage to target ally and heals 1 damage from himself for each damage dealt this way.'
+
+faction: Alliance
+
+temp: Gnome Warlock

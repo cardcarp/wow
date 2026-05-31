@@ -1,0 +1,23 @@
+card_name: Torr_nag
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: Enrage When you reveal an ally this way, this ally has +2 ATK and Ferocity this turn. Smash
+
+cost: '7'
+
+combat: Frost
+
+temp: Ogre Shaman
+
+type: Monster

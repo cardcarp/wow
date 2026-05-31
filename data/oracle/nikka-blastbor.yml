@@ -1,0 +1,21 @@
+card_name: Nikka Blastbor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+cost: '1'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Goblin Hunter

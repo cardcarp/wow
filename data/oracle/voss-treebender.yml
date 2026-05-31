@@ -1,0 +1,23 @@
+card_name: Voss Treebender
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When this ally attacks, you may exhaust target hero or ally.
+
+cost: '1'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

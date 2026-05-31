@@ -1,0 +1,17 @@
+card_name: Gyro of the Ring
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 'On your turn: 2 , Flip Gyro → If Gyro has Stealth , destroy target exhausted ally.'
+
+faction: Alliance
+
+temp: Gnome Rogue

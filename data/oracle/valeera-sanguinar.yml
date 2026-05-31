@@ -1,0 +1,23 @@
+card_name: Valeera Sanguinar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: You may discard an Arena card rather than pay Valeera's cost.
+
+cost: '3'
+
+combat: Melee
+
+temp: Blood Elf Rogue
+
+type: Arena

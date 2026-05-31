@@ -1,0 +1,18 @@
+card_name: Unyielding Faith
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Holy Talent Prevent all damage that would be dealt this turn.
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Holy

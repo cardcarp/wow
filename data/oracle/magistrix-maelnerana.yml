@@ -1,0 +1,23 @@
+card_name: Magistrix Maelnerana
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: You may destroy two of your resources rather than pay Magistrix Maelnerana's cost.
+
+cost: '4'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Blood Elf Mage

@@ -1,0 +1,23 @@
+card_name: General Husam
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 0
+
+text: Protector , Sentinel Husam enters play with four +1 / +1 counters. When an ally you control attacks, add a +1 / +1 counter to Husam. If Husam would be dealt damage, remove that many +1 / +1 counters from him instead.
+
+cost: '5'
+
+combat: Melee
+
+temp: Tol'vir Hunter Warrior
+
+type: Monster

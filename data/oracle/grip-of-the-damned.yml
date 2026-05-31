@@ -1,0 +1,18 @@
+card_name: Grip of the Damned
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put target opposing ally or weapon on the bottom of its owner's deck.
+
+class:
+  - Death Knight
+
+cost: '4'
+
+temp: Unholy

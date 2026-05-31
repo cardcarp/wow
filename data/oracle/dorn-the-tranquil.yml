@@ -1,0 +1,17 @@
+card_name: Dorn the Tranquil
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Dorn → Dorn heals 2 damage from each friendly hero and ally.
+
+faction: Horde
+
+temp: Tauren Druid

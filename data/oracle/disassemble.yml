@@ -1,0 +1,18 @@
+card_name: Disassemble
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Destroy target exhausted equipment.
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Combat Combo

@@ -1,0 +1,17 @@
+card_name: Justice Blindburn
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 3 , Flip Blindburn → When the next ally you control is destroyed this turn, each opponent destroys an ally he controls.
+
+faction: Horde
+
+temp: Blood Elf Paladin

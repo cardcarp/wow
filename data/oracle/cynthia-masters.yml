@@ -1,0 +1,23 @@
+card_name: Cynthia Masters
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Assault 1 This ally has an additional Assault 1 for each other ally you control.
+
+cost: '4'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Human Mage

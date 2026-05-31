@@ -1,0 +1,21 @@
+card_name: Royal Scepter of Terenas II
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When a card enters your resource row, your hero may deal 2 damage from target hero or ally.
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '3'
+
+temp: 1H Weapon Mace

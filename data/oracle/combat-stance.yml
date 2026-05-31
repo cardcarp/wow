@@ -1,0 +1,18 @@
+card_name: Combat Stance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : You can't play cards other than allies and Stances, and you can't complete quests. Each ally you control has Assault X , where X is its cost."
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Arms

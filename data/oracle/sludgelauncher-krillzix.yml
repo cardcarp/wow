@@ -1,0 +1,23 @@
+card_name: Sludgelauncher Krillzix
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 8
+
+text: When this ally enters play, you may reveal the top card of your deck. If you reveal an ability, ally, or equipment this way, this ally deals nature damage equal to that card's cost to each other hero and ally.
+
+cost: '8'
+
+combat: Nature
+
+faction: Horde
+
+temp: Goblin Hunter

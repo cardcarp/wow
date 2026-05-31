@@ -1,0 +1,18 @@
+card_name: Scorpid Sting
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Attach to target hero. Ongoing : At the start of attached hero's controller's turn, he exhausts an equipment he controls. If you control a Ranged weapon, he exhausts a second equipment he controls."
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Marksmanship Sting

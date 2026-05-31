@@ -1,0 +1,20 @@
+card_name: Wand of Biting Cold
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+instant: When Wand of Biting Cold enters play, target hero or ally can't attack this turn.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: Ranged Weapon Wand

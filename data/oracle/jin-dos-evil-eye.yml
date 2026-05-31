@@ -1,0 +1,21 @@
+card_name: Jin_dos Evil Eye
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of each player's turn, the first opponent to that player's left names a card. That card can't be played this turn.
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '4'
+
+temp: Item Neck

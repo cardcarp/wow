@@ -1,0 +1,18 @@
+card_name: Command Decision
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : 1 , → Target ally you control has Protector this turn.'
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Protection

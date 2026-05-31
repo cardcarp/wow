@@ -1,0 +1,18 @@
+card_name: Poach
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Look at target player's hand and choose an ability, ally, or equipment with cost 4 or less. He discards that card.
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Subtlety

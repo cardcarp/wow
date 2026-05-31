@@ -1,0 +1,19 @@
+card_name: Elementium Poleaxe
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Your hero has Assault 1 this turn for each token ally you control.
+
+class:
+  - Druid
+  - Hunter
+
+cost: '5'
+
+temp: 2H Weapon Polearm

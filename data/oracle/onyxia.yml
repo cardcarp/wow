@@ -1,0 +1,17 @@
+card_name: Onyxia
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Onyxia has +3 ATK while attacking. 20 , Flip Onyxia → Destroy all opposing heroes.
+
+temp: Black Dragon Stage 3
+
+transform:
+  - id: ability
+    text: Onyxia has +3 ATK while attacking.

@@ -1,0 +1,17 @@
+card_name: Zunjo of Sen_jin
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'On your turn: 2 , Flip Zunjo → Target ally has -4 ATK this turn.'
+
+faction: Horde
+
+temp: Troll Hunter

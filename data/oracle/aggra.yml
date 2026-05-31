@@ -1,0 +1,21 @@
+card_name: Aggra
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 6
+
+text: 'When Aggra enters play, choose two of the following: Assault 4 , Elusive , Mend 4 , or Untargetable . Aggra has the chosen keywords until she leaves play.'
+
+cost: '5'
+
+combat: Nature
+
+temp: Orc Shaman

@@ -1,0 +1,23 @@
+card_name: Leeza, Tomb Robber
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Stealth When Leeza deals combat damage, you may remove target card in a graveyard from the game.
+
+cost: '2'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Rogue

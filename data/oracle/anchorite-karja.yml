@@ -1,0 +1,21 @@
+card_name: Anchorite Karja
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: Aldor Reputation Ready allies in your party have +3 ATK / +3 health.
+
+cost: '7'
+
+combat: Holy
+
+temp: Draenei Priest

@@ -1,0 +1,17 @@
+card_name: _Black Ice_ Fizzlefreeze
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 1 , Flip Black Ice → Black Ice deals 1 frost damage to target hero or ally. A character dealt damage this way can't attack this turn.
+
+faction: Alliance
+
+temp: Gnome Mage

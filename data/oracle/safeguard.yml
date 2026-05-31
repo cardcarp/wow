@@ -1,0 +1,18 @@
+card_name: Safeguard
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ready your hero. Ongoing : Your hero has Protector .'
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Protection

@@ -1,0 +1,23 @@
+card_name: Frostwolf
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: This and other allies you control have +1 ATK while attacking heroes and allies.
+
+cost: '3'
+
+combat: Melee
+
+temp: Wolf Beast
+
+type: Monster

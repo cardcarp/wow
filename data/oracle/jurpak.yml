@@ -1,0 +1,23 @@
+card_name: Jurpak
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: 2 → Target ally has Ferocity this turn.
+
+cost: '2'
+
+combat: Fire
+
+faction: Horde
+
+temp: Orc Shaman

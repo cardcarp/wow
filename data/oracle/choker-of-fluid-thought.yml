@@ -1,0 +1,22 @@
+card_name: Choker of Fluid Thought
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Reveal the top card of target player's deck. You may remove that card from the game.
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Warlock
+  - Shaman
+
+cost: '4'
+
+temp: Item Neck

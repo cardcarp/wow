@@ -1,0 +1,23 @@
+card_name: Earthseer Dambrak
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Harmonize When you play another ally with cost 4 or more, you may pay 1 . If you do, draw a card.
+
+cost: '5'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Dwarf Shaman

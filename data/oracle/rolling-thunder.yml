@@ -1,0 +1,18 @@
+card_name: Rolling Thunder
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Elemental Hero Required Your hero deals nature damage to target hero or ally equal to 3 plus an additional 3 for each equipment in that character's party.
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Elemental Talent

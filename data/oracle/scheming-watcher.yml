@@ -1,0 +1,23 @@
+card_name: Scheming Watcher
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this ally enters play, you may draw two cards. If you do, put two cards from your hand on top of your deck in any order.
+
+cost: '2'
+
+combat: Shadow
+
+temp: Floating Eye Demon
+
+type: Monster

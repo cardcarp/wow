@@ -1,0 +1,18 @@
+card_name: Crushing Shadows
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Traitor Hero Required Each opponent discards a random card, and your hero deals shadow damage to his hero equal to that card's cost.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Traitor

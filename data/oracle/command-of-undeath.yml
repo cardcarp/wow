@@ -1,0 +1,18 @@
+card_name: Command of Undeath
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put target opposing equipment on the bottom of its owner's deck. If you do, your hero deals 4 shadow damage to its controller's hero.
+
+class:
+  - Death Knight
+
+cost: '4'
+
+temp: Unholy

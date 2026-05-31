@@ -1,0 +1,23 @@
+card_name: Naz_jar Harpooner
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: When this ally enters play, Delve .
+
+cost: '2'
+
+combat: Melee
+
+temp: Naga Hunter
+
+type: Monster

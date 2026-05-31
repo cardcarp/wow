@@ -1,0 +1,26 @@
+card_name: Alchemists Stone
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Alchemy Hero Required → Reveal the top card of your deck. You may discard a card with a different type. If you do, put that revealed card into hand.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Trinket

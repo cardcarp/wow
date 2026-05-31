@@ -1,0 +1,23 @@
+card_name: Tani Bixtix
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: At the start of your turn, this ally may deal 1 nature damage to target Scourge hero or ally.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Rogue

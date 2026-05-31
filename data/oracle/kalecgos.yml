@@ -1,0 +1,23 @@
+card_name: Kalecgos
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+damage: 1
+
+health: 38
+
+text: You pay 3 less to play Kalecgos for each ability you played this turn. When you play a non-Ongoing ability, copy it. (You may choose new targets for the copy.)
+
+cost: '21'
+
+combat: Ranged
+
+temp: Blue Dragonkin Aspect
+
+type: Master

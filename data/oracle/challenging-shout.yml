@@ -1,0 +1,18 @@
+card_name: Challenging Shout
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: This turn, opposing heroes and allies must attack if able and can attack only your hero if able.
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Fury Shout

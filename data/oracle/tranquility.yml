@@ -1,0 +1,18 @@
+card_name: Tranquility
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero heals double X damage from each friendly hero and ally.
+
+class:
+  - Druid
+
+cost: X
+
+temp: Restoration

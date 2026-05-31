@@ -1,0 +1,21 @@
+card_name: Shadowy Construct
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When Teron Gorefiend is destroyed, destroy Shadowy Construct. (This ally is a ghost, but it can attack only non-ghosts. See ghost rules.)
+
+combat: Melee
+
+temp: Shadowy Construct
+
+type: Ally

@@ -1,0 +1,22 @@
+card_name: Dragonslayers Signet
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If a friendly hero or ally would deal damage to a Dragon or Dragonkin, it deals that amount of damage +1 instead.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item Ring

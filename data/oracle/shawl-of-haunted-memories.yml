@@ -1,0 +1,20 @@
+card_name: Shawl of Haunted Memories
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: "1 , , Destroy this armor → Destroy target ability, ally, or equipment that shares a name with a card in its controller's graveyard. Death Rattle : Target opponent puts the top three cards of his deck into his graveyard."
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: Armor Cloth

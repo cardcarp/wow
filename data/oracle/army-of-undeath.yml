@@ -1,0 +1,18 @@
+card_name: Army of Undeath
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : On your turn: , Remove three cards in an opposing graveyard from the game → Put a 3 / 3 Ghoul ally token into play. Ghouls you control have Assault 2 .'
+
+class:
+  - Death Knight
+
+cost: '5'
+
+temp: Unholy

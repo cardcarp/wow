@@ -1,0 +1,21 @@
+card_name: Violet Signet of the Master Assassin
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: x , , Destroy this item → Destroy all abilities, allies, and equipment with cost X.
+
+class:
+  - Druid
+  - Shaman
+  - Hunter
+  - Rogue
+
+cost: '6'
+
+temp: Item Ring

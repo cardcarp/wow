@@ -1,0 +1,15 @@
+card_name: Face of Fear
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put target ally into its owner's hand.
+
+cost: '3'
+
+temp: ''

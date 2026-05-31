@@ -1,0 +1,23 @@
+card_name: Bimble Blackout
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: When Bimble is removed from the game from anywhere, draw a card.
+
+cost: '3'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Warlock

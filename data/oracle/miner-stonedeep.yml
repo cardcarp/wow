@@ -1,0 +1,23 @@
+card_name: Miner Stonedeep
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 7
+
+text: At the start of your turn, target player puts the top five cards of his deck into his graveyard.
+
+cost: '7'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Dwarf Paladin

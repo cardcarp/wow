@@ -1,0 +1,21 @@
+card_name: Brother Keltan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Argent Crusade Reputation When this or another Unique ally enters play under your control, it may deal 2 unpreventable holy damage to target ally.
+
+cost: '3'
+
+combat: Holy
+
+temp: Blood Elf Priest

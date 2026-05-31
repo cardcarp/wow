@@ -1,0 +1,23 @@
+card_name: Myro Lumastis
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: 'Unity : When this ally enters play, if you control three or more Human allies, remove target opposing ally from the game. When this ally leaves play, the owner of that removed ally puts that ally into play.'
+
+cost: '3'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Human Warlock

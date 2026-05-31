@@ -1,0 +1,23 @@
+card_name: Bubula del Kissel
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Stealth → Target hero or ally has Stealth this turn.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Rogue

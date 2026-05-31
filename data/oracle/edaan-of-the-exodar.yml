@@ -1,0 +1,17 @@
+card_name: Edaan of the Exodar
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'On your turn: 1 , Flip Edaan → Edaan heals 3 damage from target hero or ally.'
+
+faction: Alliance
+
+temp: Draenei Shaman

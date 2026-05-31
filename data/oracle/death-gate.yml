@@ -1,0 +1,18 @@
+card_name: Death Gate
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy a resource you control. If you do, search your deck for a location and put it into play face up and exhausted.
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Unholy

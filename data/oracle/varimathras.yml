@@ -1,0 +1,23 @@
+card_name: Varimathras
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 9
+
+health: 7
+
+text: At the end of your turn, Varimathras deals 5 shadow damage to target opposing hero or ally. When that character is destroyed this turn, its controller discards a card.
+
+cost: '9'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Demon

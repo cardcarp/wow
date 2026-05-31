@@ -1,0 +1,18 @@
+card_name: Convocation
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : When you play an ally, your hero either deals nature damage to or heals damage from target hero equal to that ally's cost."
+
+class:
+  - Druid
+
+cost: '6'
+
+temp: Restoration

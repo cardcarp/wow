@@ -1,0 +1,19 @@
+card_name: Victimize
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target player discards two cards and you draw two cards.
+
+class:
+  - Warlock
+  - Rogue
+
+cost: '5'
+
+temp: Subtlety Affliction

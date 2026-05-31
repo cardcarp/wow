@@ -1,0 +1,17 @@
+card_name: Seadog Nally
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Nally, destroy a friendly ally → Nally deals ranged damage to target ally equal to that friendly ally's ATK. Southsea Freebooters
+
+faction: Alliance
+
+temp: Dwarf Hunter

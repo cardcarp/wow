@@ -1,0 +1,18 @@
+card_name: Unholy Ground
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When a non-token ally you control is destroyed, put a 3 / 3 Ghoul ally token into play.'
+
+class:
+  - Death Knight
+
+cost: '4'
+
+temp: Unholy

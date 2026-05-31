@@ -1,0 +1,15 @@
+card_name: Hardpacked Snowball
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Attach to target hero or ally and exhaust it. Ongoing : Attached character can't attack or protect and has \" → Attach this ability to target hero or ally and exhaust it.\""
+
+cost: '3'
+
+temp: ''

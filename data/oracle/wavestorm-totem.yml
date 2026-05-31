@@ -1,0 +1,18 @@
+card_name: Wavestorm Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : When an opposing ability, ally, or equipment readies, put it into its owner's hand. (Totems can be attacked or targeted like allies.)"
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Restoration 1

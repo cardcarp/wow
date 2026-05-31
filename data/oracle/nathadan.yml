@@ -1,0 +1,17 @@
+card_name: Nathadan
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 3 , Flip Nathadan → If target ally in your party is defending, remove it from combat.
+
+faction: Horde
+
+temp: Blood Elf Paladin

@@ -1,0 +1,23 @@
+card_name: Alchemist Norrin_thal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: 0 → Norrin'thal becomes an ally this turn. Use only once per turn. 0 → Norrin'thal becomes an ally this turn. Use only once per turn.
+
+cost: '3'
+
+combat: Frost
+
+faction: Horde
+
+temp: Blood Elf Mage

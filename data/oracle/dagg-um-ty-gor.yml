@@ -1,0 +1,21 @@
+card_name: Dagg_um Ty_gor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: Conspicuous
+
+cost: '5'
+
+combat: Melee
+
+temp: Two-Headed Ogre Ninja

@@ -1,0 +1,23 @@
+card_name: Revenant of Neptulon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: When you play a Frost or card, this ally may deal 2 frost damage to target hero or ally.
+
+cost: '4'
+
+combat: Frost
+
+temp: Water Elemental
+
+type: Monster

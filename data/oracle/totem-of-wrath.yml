@@ -1,0 +1,18 @@
+card_name: Totem of Wrath
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Elemental Hero Required Ongoing : If an ally in your party would deal non-combat damage, it deals that much +2 instead. (Totems can be attacked or targeted like allies.)'
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Elemental Talent 1

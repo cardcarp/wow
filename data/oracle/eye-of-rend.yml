@@ -1,0 +1,20 @@
+card_name: Eye of Rend
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your weapons have +1 ATK.
+
+class:
+  - Druid
+  - Hunter
+  - Rogue
+
+cost: '1'
+
+temp: Armor Leather

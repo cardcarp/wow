@@ -1,0 +1,19 @@
+card_name: Lucifron
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 6
+
+text: Lucifron has +2 ATK while attacking and can attack only heroes. At the start of your third turn, flip Lucifron.
+
+temp: Flamewaker
+
+transform:
+  - id: ability
+    text: Lucifron has +2 ATK while attacking and can attack only heroes. At the end of your turn, Lucifron deals 6 shadow damage to each opposing hero.

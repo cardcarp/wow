@@ -1,0 +1,23 @@
+card_name: Windspeaker Nuvu
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: When this ally attacks for the first time each turn, ready him.
+
+cost: '1'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

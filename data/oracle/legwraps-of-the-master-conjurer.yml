@@ -1,0 +1,20 @@
+card_name: Legwraps of the Master Conjurer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, look at the top card of your deck and remove it from the game face down. 2 , Discard your hand, destroy this armor → Put each card you removed this way into your hand.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Armor Cloth

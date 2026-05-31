@@ -1,0 +1,21 @@
+card_name: Icon of the Silver Crescent
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If a non-token ally in your party would be destroyed, attach it to a hero instead. That ally loses all powers and becomes an ability with "At the start of your turn, your hero deals 1 fire damage to attached hero."
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '4'
+
+temp: Item Trinket

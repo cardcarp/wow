@@ -1,0 +1,18 @@
+card_name: Flourish
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Reveal the top card of your deck. You may place it into your resource row exhausted as an additional resource. Stash : Your hero heals 2 damage from itself.'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Balance

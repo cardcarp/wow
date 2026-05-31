@@ -1,0 +1,23 @@
+card_name: Scaramanga
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: 2 , Destroy this ally → Draw a card.
+
+cost: '1'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Warlock

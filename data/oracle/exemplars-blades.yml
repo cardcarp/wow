@@ -1,0 +1,18 @@
+card_name: Exemplars Blades
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +X ATK, where X is the highest ATK among your Melee weapons.'
+
+class:
+  - Shaman
+
+cost: '1'
+
+temp: Enhancement

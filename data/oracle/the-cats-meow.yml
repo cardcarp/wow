@@ -1,0 +1,17 @@
+card_name: The Cats Meow
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: If Mr. Bigglesworth is in play, he heals 5 damage from each raiding hero, and each raider draws a card. Otherwise, the Boss deals 5 meowlee damage to each raiding hero, and each raider discards a card.
+
+temp: ''
+
+type: Raid
+
+stage: 3

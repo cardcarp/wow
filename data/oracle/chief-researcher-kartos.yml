@@ -1,0 +1,23 @@
+card_name: Chief Researcher Kartos
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 7
+
+text: When you complete your first quest each turn, you may ready all resources exhausted to complete it.
+
+cost: '6'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Researcher

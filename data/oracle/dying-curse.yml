@@ -1,0 +1,20 @@
+card_name: Dying Curse
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , → Destroy target attachment. If you do, it's controller draws a card.
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+
+cost: '1'
+
+temp: Item Trinket

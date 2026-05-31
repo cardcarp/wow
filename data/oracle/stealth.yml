@@ -1,0 +1,18 @@
+card_name: Stealth
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : Your hero is stealthed. (Can't protect against it. Destroy this card when your hero deals damage.) When Stealth is destroyed, you may pay 2 . If you do, put it into your hand at end of turn."
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Subtlety

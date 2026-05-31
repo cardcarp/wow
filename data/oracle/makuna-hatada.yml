@@ -1,0 +1,23 @@
+card_name: Makuna Hatada
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: 5 → This and other allies you control have +5 ATK, Absorb , and Smash this turn.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Druid

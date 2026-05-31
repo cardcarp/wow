@@ -1,0 +1,19 @@
+card_name: Legacy of the Horde
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : If a friendly hero or ally would deal damage, it deals double that much instead. If a friendly hero or ally would be dealt damage, prevent half that damage, rounded up.'
+
+class:
+  - Priest
+  - Shaman
+
+cost: '6'
+
+temp: ''

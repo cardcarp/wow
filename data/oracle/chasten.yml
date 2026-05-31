@@ -1,0 +1,18 @@
+card_name: Chasten
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 3 unpreventable holy damage to target hero or ally.
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Holy

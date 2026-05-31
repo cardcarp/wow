@@ -1,0 +1,18 @@
+card_name: Decisive Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Exhaust target hero or ally, and your hero deals 2 melee damage to it.
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Combat

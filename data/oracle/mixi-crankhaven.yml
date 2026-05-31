@@ -1,0 +1,23 @@
+card_name: Mixi Crankhaven
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When you play an ability, ally, or equipment, this ally deals 1 unpreventable holy damage to target opposing hero.
+
+cost: '3'
+
+combat: Holy
+
+faction: Horde
+
+temp: Goblin Priest

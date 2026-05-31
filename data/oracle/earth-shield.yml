@@ -1,0 +1,18 @@
+card_name: Earth Shield
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Restoration Hero Required Earth Shield enters play with four shield counters. Ongoing : When your hero is dealt combat damage, remove a shield counter, and your hero heals 3 damage from itself. When the last counter is removed, destroy Earth Shield.'
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Restoration Talent

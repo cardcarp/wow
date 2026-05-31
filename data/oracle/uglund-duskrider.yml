@@ -1,0 +1,23 @@
+card_name: Uglund Duskrider
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: Stealth When Uglund Duskrider attacks, target hero or ally has Stealth this turn.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Rogue

@@ -1,0 +1,20 @@
+card_name: Berserker Bracers
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero is dealt damage, ready Berserker Bracers.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '4'
+
+temp: Armor Plate

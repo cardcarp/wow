@@ -1,0 +1,15 @@
+card_name: Elementium Bolt
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "This ability enters play with an elementium counter on it. Ongoing : At the start of Deathwing's turn, remove an elementium counter from this ability, and Deathwing deals 3 unpreventable fire damage to each Raiding hero and ally. If you didn't, each Raider discards a card. If Deathwing is dealt 8 or more damage in one turn, destroy this ability."
+
+temp: ''
+
+type: Boss

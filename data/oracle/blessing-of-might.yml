@@ -1,0 +1,18 @@
+card_name: Blessing of Might
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero or ally. Ongoing : Attached character has +1 ATK while attacking.'
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Retribution Blessing

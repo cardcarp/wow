@@ -1,0 +1,18 @@
+card_name: Power Infusion
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Discipline Hero Required Ongoing : At the start of your turn, add a haste counter. For each haste counter, you pay 1 less to play your first card each turn.'
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Discipline Talent

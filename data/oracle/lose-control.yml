@@ -1,0 +1,19 @@
+card_name: Lose Control
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target player discards a random card.
+
+class:
+  - Priest
+  - Rogue
+
+cost: '1'
+
+temp: Shadow Subtlety

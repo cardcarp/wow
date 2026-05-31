@@ -1,0 +1,18 @@
+card_name: Unfair Advantage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: As an additional cost to play Unfair Advantage, remove up to five Combo cards in your graveyard from the game. Target player discards that many cards.
+
+class:
+  - Rogue
+
+cost: '5'
+
+temp: Subtlety Finishing Move

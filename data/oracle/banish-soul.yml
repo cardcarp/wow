@@ -1,0 +1,18 @@
+card_name: Banish Soul
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Remove target non-Demon ally from the game.
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Demonology

@@ -1,0 +1,23 @@
+card_name: Gispax the Mixologist
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Time is Money , Discard a card → Search your deck for a card, reveal it, and put it into your hand.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Goblin Rogue

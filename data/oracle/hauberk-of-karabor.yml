@@ -1,0 +1,19 @@
+card_name: Hauberk of Karabor
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has +1 health for each ability and equipment you control.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '2'
+
+temp: Armor Leather

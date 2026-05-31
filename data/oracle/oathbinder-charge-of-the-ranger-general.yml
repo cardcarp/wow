@@ -1,0 +1,19 @@
+card_name: Oathbinder, Charge of the Ranger-General
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, your hero deals 1 nature damage to target hero for each ability, ally, and equipment you control.
+
+class:
+  - Druid
+  - Hunter
+
+cost: '4'
+
+temp: 2H Weapon Polearm

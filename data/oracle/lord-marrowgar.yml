@@ -1,0 +1,23 @@
+card_name: Lord Marrowgar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 7
+
+text: "Bone Storm : When Lord Marrowgar is destroyed, he deals 1 melee damage to each opposing hero for each ally in its controller's graveyard."
+
+cost: '3'
+
+combat: Melee
+
+temp: Bone Wraith
+
+type: Raid

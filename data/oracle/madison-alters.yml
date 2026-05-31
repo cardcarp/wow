@@ -1,0 +1,23 @@
+card_name: Madison Alters
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Untargetable Madison has +1 ATK / +1 health for each hero in play.
+
+cost: '6'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Human Mage

@@ -1,0 +1,23 @@
+card_name: Stella Bellamy
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: 'Unity : When this ally enters play, if you control three or more Human allies, allies you control have +2 ATK this turn.'
+
+cost: '6'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

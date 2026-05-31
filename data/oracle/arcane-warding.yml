@@ -1,0 +1,19 @@
+card_name: Arcane Warding
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally. Ongoing : Attached ally is Untargetable .'
+
+class:
+  - Paladin
+  - Mage
+
+cost: '2'
+
+temp: Arcane Protection

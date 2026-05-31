@@ -1,0 +1,18 @@
+card_name: Boundless Winter
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Eternal Your hero has +1 ATK this turn for each resource you control.
+
+class:
+  - Death Knight
+
+cost: '4'
+
+temp: Frost

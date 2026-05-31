@@ -1,0 +1,19 @@
+card_name: Greaves of Desolation
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with a weapon, your hero heals all damage from target ally in your party.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '2'
+
+temp: Armor Mail

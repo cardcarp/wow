@@ -1,0 +1,18 @@
+card_name: Riftmaker
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Rift Dual Wield Allies you control have Assault 1 .
+
+class:
+  - Rogue
+
+cost: '5'
+
+temp: 1H Weapon Dagger

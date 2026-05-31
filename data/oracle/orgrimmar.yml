@@ -1,0 +1,15 @@
+card_name: Orgrimmar
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: Orc Hero Required → Target Orc in your party has Ferocity this turn.
+
+faction: Horde
+
+temp: City

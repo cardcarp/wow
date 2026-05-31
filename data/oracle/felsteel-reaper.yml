@@ -1,0 +1,19 @@
+card_name: Felsteel Reaper
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Felsteel Reaper has +1 ATK for each resource you have.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '8'
+
+temp: 2H Weapon Axe

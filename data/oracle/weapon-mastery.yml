@@ -1,0 +1,18 @@
+card_name: Weapon Mastery
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Fury Hero Required Ongoing : When you play a Melee weapon, put a strength counter on Weapon Mastery. Your Melee weapons have +1 ATK for each strength counter.'
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Fury Talent

@@ -1,0 +1,23 @@
+card_name: High Overlord Saurfang
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 9
+
+health: 4
+
+text: Protector When an ally enters combat with High Overlord Saurfang, destroy that ally.
+
+cost: '8'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

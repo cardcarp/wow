@@ -1,0 +1,23 @@
+card_name: Ozumat
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 7
+
+text: Ferocity , Eternal When Ozumat becomes targeted by an opposing card or effect, it deals 10 shadow damage to that opponent's hero.
+
+cost: '8'
+
+combat: Shadow
+
+temp: Leviathan
+
+type: Monster

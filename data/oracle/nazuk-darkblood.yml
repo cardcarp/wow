@@ -1,0 +1,23 @@
+card_name: Nazuk Darkblood
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: 2 → This ally has Ferocity this turn.
+
+cost: '4'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Warlock

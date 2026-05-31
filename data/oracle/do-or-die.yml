@@ -1,0 +1,15 @@
+card_name: Do or Die
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "The MARKED hero's controller chooses one: He discards three random cards; or he chooses and destroys three allies he controls."
+
+temp: ''
+
+type: Dungeon

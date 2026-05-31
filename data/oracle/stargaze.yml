@@ -1,0 +1,15 @@
+card_name: Stargaze
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : When a Druid ally enters play under your control or a friendly player's control, target player draws a card."
+
+cost: '4'
+
+temp: ''

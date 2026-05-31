@@ -1,0 +1,21 @@
+card_name: Instructor Giralo
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: 'Aldor Reputation Inspire: Ally When Giralo inspires an ally, that ally is a Protector this turn.'
+
+cost: '2'
+
+combat: Holy
+
+temp: Draenei Priest

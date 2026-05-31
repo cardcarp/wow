@@ -1,0 +1,21 @@
+card_name: Father Winters Helper
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When this ally enters play, each player removes the top card of his deck from the game. Players may play their opponents' cards removed this way this game. (Pay costs as normal.)
+
+cost: '1'
+
+combat: Melee
+
+temp: Helper

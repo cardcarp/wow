@@ -1,0 +1,24 @@
+card_name: Lynxia
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: At the start of each turn, you may exhaust target ally.
+
+class:
+  - Warlock
+
+cost: '2'
+
+combat: Shadow
+
+temp: Succubus Demon

@@ -1,0 +1,17 @@
+card_name: Spiritwalker Kavi_je
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: Flip Kavi'je, discard a Shaman → You pay 2 less to play your next Totem this turn.
+
+faction: Horde
+
+temp: Troll Shaman

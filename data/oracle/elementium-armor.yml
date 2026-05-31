@@ -1,0 +1,15 @@
+card_name: Elementium Armor
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: This armor enters play with four +1 counters on it. When this armor prevents damage, remove a +1 counter from it. If none remain, destroy this armor. This armor exhausts to prevent the first damage Deathwing would be dealt each turn. Deathwing has Assault 1 for each counter on this armor.
+
+temp: Armor
+
+type: Boss

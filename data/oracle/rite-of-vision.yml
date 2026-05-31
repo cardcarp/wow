@@ -1,0 +1,15 @@
+card_name: Rite of Vision
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'Tauren Hero Required During your turn, pay 3 to complete this quest. Reward : Put a Spirit Guide ally token with 1 ATK and 1 health into play. At the start of your next turn, remove that ally from the game. If you do, choose a card from your collection, reveal it, and put it into your hand.'
+
+faction: Horde
+
+temp: ''

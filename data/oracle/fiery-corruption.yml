@@ -1,0 +1,15 @@
+card_name: Fiery Corruption
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Deathwing deals 5 fire damage to each Raiding hero. Each Raider draws a card.
+
+temp: ''
+
+type: Boss

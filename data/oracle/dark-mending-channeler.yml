@@ -1,0 +1,19 @@
+card_name: Dark Mending Channeler
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 4
+
+text: Dark Mending Channeler can attack only heroes and has +X ATK while attacking, where X is 1 plus the number of Warlocks that have left your party. → Dark Mending Channeler heals all damage from target friendly ally. Use only on your turn.
+
+combat: Shadow
+
+temp: Warlock

@@ -1,0 +1,23 @@
+card_name: Tanwa the Marksman
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: Long-Range
+
+cost: '6'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Tauren Hunter

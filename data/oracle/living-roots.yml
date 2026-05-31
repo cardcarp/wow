@@ -1,0 +1,18 @@
+card_name: Living Roots
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target ally. Ongoing : Attached ally can't attack or exhaust unless its controller pays 2 ."
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Balance

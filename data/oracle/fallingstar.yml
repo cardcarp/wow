@@ -1,0 +1,17 @@
+card_name: Fallingstar
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 1 , Flip Fallingstar → Allies in your party with damage have +2 ATK this turn.
+
+faction: Alliance
+
+temp: Night Elf Warrior

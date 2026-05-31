@@ -1,0 +1,27 @@
+card_name: Rajh, Construct of the Sun
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has Protector . At the start of your turn and when you play an ally, add a power counter to this item. At the end of your turn, if this item has five ore more power counters on it, destroy it. If you do, put a 6 / 6 Construct ally token into play with Protector .
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item

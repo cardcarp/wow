@@ -1,0 +1,23 @@
+card_name: Hateful Infernal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this ally enters play, he deals 2 fire damage to each opposing Human ally.
+
+cost: '4'
+
+combat: Fire
+
+temp: Infernal Demon
+
+type: Monster

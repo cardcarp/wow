@@ -1,0 +1,18 @@
+card_name: Inner Focus
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Discipline Hero Required Ongoing : Destroy Inner Focus → When you play your next ability this turn, ready up to X of your resources, where X is that ability's cost."
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Discipline Talent

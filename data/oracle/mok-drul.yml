@@ -1,0 +1,23 @@
+card_name: Mok_drul
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 3
+
+text: 'Empower Monster : When this ally enters play, if you control another Monster hero or ally, heroes and allies you control have +3 ATK and Smash this turn.'
+
+cost: '7'
+
+combat: Frost
+
+temp: Ogre Death Knight
+
+type: Monster

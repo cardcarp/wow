@@ -1,0 +1,27 @@
+card_name: Bottled Wild
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'When this item enters play, target hero or ally has Long-Range this turn. On your turn: Exhaust a Hunter hero or ally you control and destroy this item → Target hero or ally has Long-Range this turn.'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Potion

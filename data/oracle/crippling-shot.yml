@@ -1,0 +1,18 @@
+card_name: Crippling Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target hero or ally has -5 ATK this turn.
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Survival

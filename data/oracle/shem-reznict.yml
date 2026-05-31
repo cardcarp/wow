@@ -1,0 +1,23 @@
+card_name: Shem Reznict
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: → Target up to three heroes and/or allies. Shem deals 3, 2, and 1 nature damage to them, respectively.
+
+cost: '6'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

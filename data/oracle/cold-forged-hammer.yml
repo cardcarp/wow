@@ -1,0 +1,20 @@
+card_name: Cold Forged Hammer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You pay 1 less to play Cold Forged Hammer for each ally in your party.
+
+class:
+  - Druid
+  - Paladin
+  - Shaman
+
+cost: '3'
+
+temp: 1H Weapon Mace

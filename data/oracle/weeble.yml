@@ -1,0 +1,23 @@
+card_name: Weeble
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Protector When Weeble enters play, draw a card.
+
+cost: '6'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Warrior

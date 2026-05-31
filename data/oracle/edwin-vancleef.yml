@@ -1,0 +1,21 @@
+card_name: Edwin VanCleef
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: Stealth , Untargetable When Edwin enters play, put two 1 / 1 Defias Thug ally tokens into play with "This ally can protect allies with VanCleef in their names." When Edwin is destroyed, you may put an ally named Vanessa VanCleef from your hand into play.
+
+cost: '4'
+
+combat: Melee
+
+temp: Human Rogue

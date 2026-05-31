@@ -1,0 +1,23 @@
+card_name: Telor Sunsurge
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: Protector
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Warrior

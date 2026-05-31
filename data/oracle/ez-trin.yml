@@ -1,0 +1,23 @@
+card_name: Ez_trin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: When Ez'trin enters play, you may exhaust target weapon.
+
+cost: '2'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Warrior

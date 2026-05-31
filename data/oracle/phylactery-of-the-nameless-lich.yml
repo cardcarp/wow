@@ -1,0 +1,22 @@
+card_name: Phylactery of the Nameless Lich
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the end of your turn, you may put an Unlimited ally from your hand into play if its cost is less than or equal to the cost of an Unlimited ally you control.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Trinket

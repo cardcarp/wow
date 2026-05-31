@@ -1,0 +1,20 @@
+card_name: Tirisfal Wand of Ascendancy
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Remove an ability card in your graveyard from the game → You pay 1 less the next time you strike with Tirisfal Wand of Ascendancy this turn.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '1'
+
+temp: Ranged Weapon Wand

@@ -1,0 +1,21 @@
+card_name: Auralyn the Light of Dawn
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 4 → Flip Auralyn face down.
+
+faction: Alliance
+
+temp: Human Paladin
+
+transform:
+  - id: ability
+    text: Mend 2

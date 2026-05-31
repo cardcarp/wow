@@ -1,0 +1,23 @@
+card_name: Lara, Timewalker Commander
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 0
+
+text: This and other Human allies you control have +1 / +1 for each Human ally you control.
+
+cost: '7'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

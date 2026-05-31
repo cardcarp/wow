@@ -1,0 +1,18 @@
+card_name: World in Flames
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : If your hero would deal fire damage, it deals double that amount of damage instead.'
+
+class:
+  - Mage
+
+cost: '8'
+
+temp: Fire

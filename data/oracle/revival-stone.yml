@@ -1,0 +1,19 @@
+card_name: Revival Stone
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target ally in your party. Ongoing : When attached ally is destroyed, put it from its owner's graveyard into your party with damage equal to its health minus 1."
+
+class:
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Restoration Demonology

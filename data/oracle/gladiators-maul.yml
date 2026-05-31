@@ -1,0 +1,18 @@
+card_name: Gladiators Maul
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You can place the top card of your deck face down (as your one resource per turn) .
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: 2H Arena Weapon Mace

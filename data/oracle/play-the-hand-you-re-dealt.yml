@@ -1,0 +1,13 @@
+card_name: Play the Hand You_re Dealt
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Ignoring heroes and resources, count how many cards in play each player controls, then shuffle them all together. Deal each player the number of cards he controlled, and he puts them into play.
+
+temp: ''

@@ -1,0 +1,21 @@
+card_name: Azjol-anak Acidspewer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Nerubian Reputation This ally has +1 / +1 while an equipment is in your graveyard.
+
+cost: '5'
+
+combat: Nature
+
+temp: Nerubian

@@ -1,0 +1,15 @@
+card_name: Death's Deal
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: "Each Raider chooses one: Discard two cards; Deathwing deals 5 fire damage to that Raider's hero; or Deathwing deals 5 fire damage to each ally that Raider controls."
+
+temp: ''
+
+type: Boss

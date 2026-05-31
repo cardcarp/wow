@@ -1,0 +1,19 @@
+card_name: Legacy of Stormrage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : When an ally enters play under your control, you may put X 1 / 1 Treant ally tokens into play, where X is that ally's cost. When you play a non-Ongoing ability, you may copy it. (You may choose new targets for the copy.)"
+
+class:
+  - Druid
+  - Mage
+
+cost: '7'
+
+temp: ''

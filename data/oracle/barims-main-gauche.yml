@@ -1,0 +1,19 @@
+card_name: Barims Main Gauche
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: This weapon has +3 ATK for each ally you control with 6 or more ATK.
+
+class:
+  - Shaman
+  - Rogue
+
+cost: '5'
+
+temp: 1H Weapon Dagger

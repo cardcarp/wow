@@ -1,0 +1,19 @@
+card_name: Horns of Eranikus
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, you may pay 1 . If you do, draw a card.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '6'
+
+temp: Armor Mail

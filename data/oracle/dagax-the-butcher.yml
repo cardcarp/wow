@@ -1,0 +1,23 @@
+card_name: Dagax the Butcher
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 1
+
+text: Ferocity , Stealth This ally can attack only heroes. At the end of your turn, destroy this ally.
+
+cost: '2'
+
+combat: Melee
+
+faction: Horde
+
+temp: Goblin Rogue

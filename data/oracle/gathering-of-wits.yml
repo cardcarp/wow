@@ -1,0 +1,18 @@
+card_name: Gathering of Wits
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Gain control of any number of target opposing allies with combined cost less than or equal to the number of resources you control.
+
+class:
+  - Priest
+
+cost: '7'
+
+temp: Shadow

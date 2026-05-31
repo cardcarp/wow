@@ -1,0 +1,17 @@
+card_name: Blaize Brightspark
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 1 , Flip Blaize → Blaize deals 3 fire damage to target hero or ally that was dealt fire ( ) damage this turn.
+
+faction: Alliance
+
+temp: Gnome Mage

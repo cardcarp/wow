@@ -1,0 +1,18 @@
+card_name: Mark of the Ancients
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally you control. Ongoing : Attached ally has +1 / +1 and Harmonize .'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Restoration

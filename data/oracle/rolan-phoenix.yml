@@ -1,0 +1,23 @@
+card_name: Rolan Phoenix
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Aberration When this ally is destroyed while you control another Worgen, you may pay 1 . If you do, his owner puts him from his graveyard into his hand.
+
+cost: '3'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Worgen Druid

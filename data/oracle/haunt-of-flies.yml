@@ -1,0 +1,22 @@
+card_name: Haunt of Flies
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor prevents damage on an opponent's turn, add a fly counter to it. Remove three fly counters from this armor → Put a 2 / 1 Swarm ally token into play with Ferocity and Stealth .
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Armor Cloth

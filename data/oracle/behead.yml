@@ -1,0 +1,18 @@
+card_name: Behead
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: If target ally is damaged, destroy it. Otherwise, your hero deals 1 melee damage to it.
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Fury

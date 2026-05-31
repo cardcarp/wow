@@ -1,0 +1,18 @@
+card_name: Healing Stream Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Totem Ongoing : At the start of each turn, Healing Stream Totem heals 1 damage from each hero and ally in your party.'
+
+class:
+  - Shaman
+
+cost: '1'
+
+temp: Restoration 1

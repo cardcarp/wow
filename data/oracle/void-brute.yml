@@ -1,0 +1,23 @@
+card_name: Void Brute
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 6
+
+text: Opposing heroes and allies can attack only this ally if able.
+
+cost: '4'
+
+combat: Shadow
+
+temp: Voidwalker Demon
+
+type: Monster

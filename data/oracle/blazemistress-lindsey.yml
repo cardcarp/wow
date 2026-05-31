@@ -1,0 +1,23 @@
+card_name: Blazemistress Lindsey
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: ', Discard an ability → This ally deals 4 fire damage to target hero or ally.'
+
+cost: '4'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Human Mage

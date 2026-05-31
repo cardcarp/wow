@@ -1,0 +1,23 @@
+card_name: Envoy Samantha Dillon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: "Diplomacy: Night Elves → Ready another target ally in your party. It can't attack this turn."
+
+cost: '3'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Priest

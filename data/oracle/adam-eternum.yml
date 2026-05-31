@@ -1,0 +1,23 @@
+card_name: Adam Eternum
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: Pay 2 or remove an honor counter from a card you control → Remove Adam from the game. Put him into play at the start of the next turn.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

@@ -1,0 +1,21 @@
+card_name: Doomguard Devastator
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: When this ally enters play, exhaust all opposing heroes and allies with Protector .
+
+combat: Melee
+
+temp: Doomguard Demon
+
+type: Boss

@@ -1,0 +1,20 @@
+card_name: Cookies Stirring Rod
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Long-Range When your hero deals damage with this weapon, reveal the top card of your deck. If it's an card, put it into your hand.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: Ranged Weapon Wand

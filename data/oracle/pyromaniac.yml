@@ -1,0 +1,18 @@
+card_name: Pyromaniac
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Fire Talent You pay 1 less to play this ability for each card you control. Your hero deals 10 fire damage to target hero or ally.
+
+class:
+  - Mage
+
+cost: '10'
+
+temp: Fire

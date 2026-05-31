@@ -1,0 +1,19 @@
+card_name: Primal Taming
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally or weapon. Ongoing : Attached card has -X ATK, where X is the highest cost among Hunter and Shaman allies you control.'
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '1'
+
+temp: Survival Restoration

@@ -1,0 +1,18 @@
+card_name: Holy Shield
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Protection Hero Required Prevent the next 5 damage that would be dealt to your hero by target hero or ally this turn. When damage is prevented this way, your hero deals that amount of holy damage to that character.
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Protection Talent

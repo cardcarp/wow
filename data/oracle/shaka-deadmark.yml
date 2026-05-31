@@ -1,0 +1,23 @@
+card_name: Shaka Deadmark
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When this ally enters play, target an opposing hero. Orc allies you control have +3 ATK while in combat with that hero this turn.
+
+cost: '4'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Orc Hunter

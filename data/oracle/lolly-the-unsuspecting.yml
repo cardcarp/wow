@@ -1,0 +1,23 @@
+card_name: Lolly the Unsuspecting
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: All targets are chosen at random.
+
+cost: '4'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Gnome Mage

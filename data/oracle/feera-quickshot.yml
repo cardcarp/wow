@@ -1,0 +1,17 @@
+card_name: Feera Quickshot
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 1 , Flip Feera → You pay 2 less the next time you strike with a Ranged weapon this turn.
+
+faction: Alliance
+
+temp: Draenei Hunter

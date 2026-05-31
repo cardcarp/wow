@@ -1,0 +1,23 @@
+card_name: Gilblin Hoarder
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: → Put target equipment you control into its owner's hand.
+
+cost: '2'
+
+combat: Nature
+
+temp: Goblin Rogue
+
+type: Monster

@@ -1,0 +1,18 @@
+card_name: Aura of Anger
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Traitor Hero Required Ongoing : Heroes and allies in your party have +1 ATK when attacking damaged heroes and allies.'
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Traitor

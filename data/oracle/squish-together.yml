@@ -1,0 +1,15 @@
+card_name: Squish Together
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Exhaust two target opposing allies. Each deals melee damage equal to its ATK to the other ally.
+
+cost: '1'
+
+temp: ''

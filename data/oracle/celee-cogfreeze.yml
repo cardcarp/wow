@@ -1,0 +1,23 @@
+card_name: Celee Cogfreeze
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When you play an ability, you may draw a card. If you do, discard a card.
+
+cost: '2'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Gnome Mage

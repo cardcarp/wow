@@ -1,0 +1,23 @@
+card_name: Nala Stalks-the-Night
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Ferocity Stealth
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Druid

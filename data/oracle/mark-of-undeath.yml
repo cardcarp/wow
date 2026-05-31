@@ -1,0 +1,18 @@
+card_name: Mark of Undeath
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target friendly non-token ally. Ongoing : When attached ally is destroyed, put a 3 / 3 Ghoul ally token into play. When attached ally is destroyed, put this ability from its owner's graveyard into play attached to target non-token ally."
+
+class:
+  - Death Knight
+
+cost: '3'
+
+temp: Unholy

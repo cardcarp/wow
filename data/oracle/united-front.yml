@@ -1,0 +1,18 @@
+card_name: United Front
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target a friendly hero and a friendly ally. The next time each of them would be dealt damage this turn, prevent it.
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Discipline

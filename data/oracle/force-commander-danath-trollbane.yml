@@ -1,0 +1,23 @@
+card_name: Force Commander Danath Trollbane
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 7
+
+text: Protector When Danath enters play, destroy target ally.
+
+cost: '7'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

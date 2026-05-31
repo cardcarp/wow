@@ -1,0 +1,19 @@
+card_name: Pauldrons of the Crimson Flight
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the end of your turn, ready one of your armor.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '4'
+
+temp: Armor Plate

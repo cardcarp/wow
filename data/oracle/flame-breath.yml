@@ -1,0 +1,15 @@
+card_name: Flame Breath
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Onyxia deals X fire damage to each opposing hero and ally, where X is the current stage.
+
+cost: '2'
+
+temp: ''

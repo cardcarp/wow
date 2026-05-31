@@ -1,0 +1,21 @@
+card_name: Scarlet Commander Renault Mograine
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Protector If Renault would be dealt damage while defending, you may have any amount of it dealt to your hero instead.
+
+cost: '5'
+
+combat: Holy
+
+temp: Human Paladin

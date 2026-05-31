@@ -1,0 +1,21 @@
+card_name: Valerie Worfield
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 3 → Flip Valerie
+
+faction: Horde
+
+temp: Undead Hunter
+
+transform:
+  - id: ability
+    text: Prevent the first 1 damage that would be dealt to Valerie each turn.

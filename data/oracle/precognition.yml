@@ -1,0 +1,18 @@
+card_name: Precognition
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target opponent reveals his hand and chooses an ally card in it with cost X or less. Put that card into your party.
+
+class:
+  - Priest
+
+cost: X
+
+temp: Shadow

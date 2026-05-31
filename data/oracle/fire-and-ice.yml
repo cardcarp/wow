@@ -1,0 +1,19 @@
+card_name: Fire and Ice
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero may deal 2 fire damage to target hero or ally, and it may deal 1 frost damage to a second target hero or ally. A character dealt frost damage this way can't attack this turn.
+
+class:
+  - Shaman
+  - Mage
+
+cost: '3'
+
+temp: Fire Frost Elemental

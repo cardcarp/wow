@@ -1,0 +1,21 @@
+card_name: Baron Ashbury
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: When Ashbury enters play, he deals shadow damage to each opposing ally equal to that ally's remaining -1.
+
+cost: '4'
+
+combat: Shadow
+
+temp: Undead Priest

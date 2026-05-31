@@ -1,0 +1,23 @@
+card_name: Muluno Sunbreath
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: At the start of your turn, this ally heals damage from target hero or ally equal to this ally's ATK.
+
+cost: '3'
+
+combat: Holy
+
+faction: Horde
+
+temp: Tauren Paladin

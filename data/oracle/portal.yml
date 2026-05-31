@@ -1,0 +1,18 @@
+card_name: Portal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Search your deck for an ally card, reveal it, and put it into your hand.
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Arcane

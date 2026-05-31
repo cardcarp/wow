@@ -1,0 +1,18 @@
+card_name: Rupture
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Finishing Move Attach to target hero or ally, and put X bleed counters on Rupture. Ongoing : At the start of your turn, your hero deals 1 melee damage to attached character for each bleed counter.'
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: Assassination

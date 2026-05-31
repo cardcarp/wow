@@ -1,0 +1,23 @@
+card_name: Erindae Firestrider
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: 'Once per turn: 1 → Interrupt target card unless its controller pays 1 .'
+
+cost: '2'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Blood Elf Mage

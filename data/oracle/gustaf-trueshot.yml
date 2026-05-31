@@ -1,0 +1,23 @@
+card_name: Gustaf Trueshot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 3
+
+text: Dwarf Hero Required Long-Range 1 → Look at the top card of your deck. You may put it into your graveyard.
+
+cost: '6'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Dwarf Hunter

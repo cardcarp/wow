@@ -1,0 +1,15 @@
+card_name: A New Plague
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'During your turn, pay 4 to complete this quest. Reward : Choose one: If an ally is in your party, each player destroys an ally in his party; or draw a card. If your hero is an Undead, you may choose both.'
+
+faction: Horde
+
+temp: ''

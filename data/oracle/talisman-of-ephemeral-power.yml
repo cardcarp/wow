@@ -1,0 +1,23 @@
+card_name: Talisman of Ephemeral Power
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play an ability, you may pay 1 and put Talisman of Ephemeral Power into its owner's hand. If you do and your hero would deal damage with that ability this turn, it deals that much damage +1 instead.
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Trinket

@@ -1,0 +1,23 @@
+card_name: Tyrus Sheynathren
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: 3 , Destroy Tyrus Sheynathren → Interrupt target ability card.
+
+cost: '4'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Blood Elf Priest

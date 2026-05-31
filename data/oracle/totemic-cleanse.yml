@@ -1,0 +1,18 @@
+card_name: Totemic Cleanse
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Play only if you control a Totem. Destroy target ability.
+
+class:
+  - Shaman
+
+cost: '1'
+
+temp: Restoration

@@ -1,0 +1,22 @@
+card_name: Illusionary Rod
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , , Exhaust your hero → Remove your hand from the game. At the end of turn, put the removed cards into your hand.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: 2H Weapon Staff

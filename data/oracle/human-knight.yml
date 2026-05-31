@@ -1,0 +1,23 @@
+card_name: Human Knight
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Protector At the start of your turn, this ally heals 2 damage from your hero.
+
+cost: '3'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

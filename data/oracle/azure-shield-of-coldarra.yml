@@ -1,0 +1,20 @@
+card_name: Azure-Shield of Coldarra
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If your hero would be dealt damage, prevent all but 3 of it.
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+cost: '3'
+
+temp: Armor Shield

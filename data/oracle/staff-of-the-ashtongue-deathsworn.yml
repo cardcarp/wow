@@ -1,0 +1,20 @@
+card_name: Staff of the Ashtongue Deathsworn
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Loyal Hero Required Text that refers to the start of a turn refers to the end of that turn instead.
+
+class:
+  - Druid
+  - Priest
+  - Shaman
+
+cost: '4'
+
+temp: 2H Weapon Staff

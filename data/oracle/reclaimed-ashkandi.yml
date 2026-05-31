@@ -1,0 +1,20 @@
+card_name: Reclaimed Ashkandi
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Play only if you control three or more equipment. Your hero has Smash .
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '3'
+
+temp: 2H Weapon Sword

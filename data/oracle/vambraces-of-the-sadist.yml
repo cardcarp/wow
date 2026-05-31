@@ -1,0 +1,19 @@
+card_name: Vambraces of the Sadist
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When an ally is destroyed, your hero deals melee damage equal to that ally's cost to target hero in that ally's party.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '6'
+
+temp: Armor Plate

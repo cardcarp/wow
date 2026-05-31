@@ -1,0 +1,23 @@
+card_name: Roon Plainswalker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: Nature Resistance
+
+cost: '3'
+
+combat: Frost
+
+faction: Horde
+
+temp: Tauren Shaman

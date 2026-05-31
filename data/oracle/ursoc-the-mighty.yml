@@ -1,0 +1,23 @@
+card_name: Ursoc the Mighty
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: Ursoc can protect allies you control named Ursol the Wise. While you control Ursoc the Mighty and Ursol the Wise, if they would deal combat damage while attacking, they deal double that much instead.
+
+cost: '4'
+
+combat: Melee
+
+temp: Bear Beast Demigod
+
+type: Monster

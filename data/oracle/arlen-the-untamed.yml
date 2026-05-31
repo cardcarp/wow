@@ -1,0 +1,23 @@
+card_name: Arlen the Untamed
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Allies you control have Assault 1 while you control a Form.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Night Elf Druid

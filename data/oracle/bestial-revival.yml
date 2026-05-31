@@ -1,0 +1,18 @@
+card_name: Bestial Revival
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When this ability enters play, put target Pet from your graveyard into play if its cost is less than or equal to the number of resources you control. You can control an additional Pet.'
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Beast Mastery

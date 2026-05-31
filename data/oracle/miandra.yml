@@ -1,0 +1,23 @@
+card_name: Miandra
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Miandra enters play with a divine shield counter. While Miandra has a divine shield counter, prevent all damage that would be dealt to her. When damage is prevented this way, remove her divine shield counter.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Paladin

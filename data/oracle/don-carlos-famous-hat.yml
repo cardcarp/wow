@@ -1,0 +1,27 @@
+card_name: Don Carlos_ Famous Hat
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor enters play, put a 4 / 4 Coyote Spirit Monster ally token into play. This armor can prevent damage that would be dealt to Coyote allies you control.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '5'
+
+temp: Armor Cloth

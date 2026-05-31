@@ -1,0 +1,17 @@
+card_name: Durzion, Champion of A_dal
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: Flip Durzion, discard a Priest → Durzion heals 2 damage from each friendly hero and ally.
+
+faction: Alliance
+
+temp: Draenei Priest

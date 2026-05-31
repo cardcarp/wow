@@ -1,0 +1,23 @@
+card_name: Witch Doctor Ka_booma
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 1
+
+text: When this ally deals combat damage to a defending hero, reveal the top card of your deck. This ally deals shadow damage to your hero equal to that revealed card's cost, then put that card into your hand.
+
+cost: '2'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Troll Warlock

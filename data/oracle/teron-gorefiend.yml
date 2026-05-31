@@ -1,0 +1,21 @@
+card_name: Teron Gorefiend
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Teron has +4 ATK while attacking. At the end of your turn, put four Shadowy Constructs into play and choose a non-ghost opponent. That player becomes a ghost until Teron flips or is destroyed. When the last Shadowy Construct leaves your party, flip Teron. At the start of your turn, you win the game if all opponents are ghosts. (See ghost rules.)
+
+temp: Undead Death Knight Traitor 13
+
+transform:
+  - id: ability
+    text: Teron has +2 ATK while attacking. At the end of your turn, choose a random opponent, and Teron deals 1 shadow damage to each hero and ally in that opponent's party for each of your resources.
+
+type: Boss
+
+stage: 4

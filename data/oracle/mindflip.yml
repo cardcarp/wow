@@ -1,0 +1,18 @@
+card_name: Mindflip
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: You may choose an ally in your party and have target player gain control of it. If you do, gain control of target ally in his party.
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Shadow

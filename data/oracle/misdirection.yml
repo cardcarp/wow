@@ -1,0 +1,18 @@
+card_name: Misdirection
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : At the start of each opponent's turn, choose an ally in your party. Opposing allies can attack only that ally this turn if able."
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Survival

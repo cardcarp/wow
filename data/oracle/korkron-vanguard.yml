@@ -1,0 +1,15 @@
+card_name: Kor'kron Vanguard
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: '→ Target hero or ally you control has Assault 1 this turn. If you control an ally with Saurfang in its name: → Target hero or ally you control has Assault 3 this turn.'
+
+faction: Horde
+
+temp: ''

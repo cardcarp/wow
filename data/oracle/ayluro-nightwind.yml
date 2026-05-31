@@ -1,0 +1,23 @@
+card_name: Ayluro Nightwind
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Mend 5 This ally can't heal heroes.
+
+cost: '1'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Night Elf Druid

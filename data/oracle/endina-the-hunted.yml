@@ -1,0 +1,23 @@
+card_name: Endina the Hunted
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Protector While Endina is exhausted, opposing heroes and allies can attack only Endina if able.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Night Elf Druid

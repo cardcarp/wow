@@ -1,0 +1,23 @@
+card_name: Alexi Barov
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: At the start of your turn, put three Peasant ally tokens into play with 1 ATK / 1 health and Ferocity . At the end of the next turn, destroy them.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Rogue

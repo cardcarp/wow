@@ -1,0 +1,19 @@
+card_name: Natural Disaster
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 6 nature damage to target hero or ally.
+
+class:
+  - Druid
+  - Shaman
+
+cost: '6'
+
+temp: Balance Elemental

@@ -1,0 +1,23 @@
+card_name: Ghank
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Stealth When Ghank enters play, you may destroy target exhausted ally with damage on it.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Rogue

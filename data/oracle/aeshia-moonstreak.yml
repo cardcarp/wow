@@ -1,0 +1,23 @@
+card_name: Aeshia Moonstreak
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: When this ally enters play, she heals 2 damage from target hero or ally.
+
+cost: '1'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Night Elf Priest

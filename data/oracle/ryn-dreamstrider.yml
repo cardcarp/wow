@@ -1,0 +1,23 @@
+card_name: Ryn Dreamstrider
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Elusive → Target hero or ally has +2 ATK while attacking this turn.
+
+cost: '4'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Night Elf Druid

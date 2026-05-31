@@ -1,0 +1,21 @@
+card_name: Sindragosa, the Frost Queen
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 9
+
+health: 9
+
+text: Scourge Hero Required At the start of each turn, you may remove five cards in one graveyard from the game. If you do, this ally deals 5 frost damage to target hero or ally. A character dealt damage this way can't attack or protect this turn.
+
+cost: '8'
+
+combat: Frost
+
+temp: Scourge Frost Wyrm

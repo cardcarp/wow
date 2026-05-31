@@ -1,0 +1,18 @@
+card_name: Power Word_ Shield
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero or ally. Ongoing : Prevent all damage that would be dealt to attached character. When damage is prevented this way, destroy Power Word: Shield.'
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Discipline

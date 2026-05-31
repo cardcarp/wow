@@ -1,0 +1,18 @@
+card_name: Prayer of Fortitude
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Your hero and allies you control have +5 .'
+
+class:
+  - Priest
+
+cost: '6'
+
+temp: Discipline

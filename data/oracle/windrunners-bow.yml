@@ -1,0 +1,18 @@
+card_name: Windrunners Bow
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: While your hero has 5 or less remaining health, double the ATK of this weapon, and it has Long-Range .
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Ranged Weapon Bow

@@ -1,0 +1,19 @@
+card_name: Doomplate Warhelm
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Each of your armor has +3 DEF while you have five or more equipment.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '4'
+
+temp: Armor Plate

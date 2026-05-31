@@ -1,0 +1,23 @@
+card_name: Zorus the Judicator
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 1
+
+text: Protector Zorus can't be destroyed by fatal damage.
+
+cost: '8'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Draenei Paladin

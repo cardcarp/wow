@@ -1,0 +1,19 @@
+card_name: Terror Pit Girdle
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero is untargetable while an ally is in your party.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '2'
+
+temp: Armor Mail

@@ -1,0 +1,23 @@
+card_name: Esad
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: When E'sad enters play, target opponent puts the top card of his deck into his resource row face down.
+
+cost: '1'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Troll Hunter

@@ -1,0 +1,23 @@
+card_name: Corrupted Furbolg
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 8
+
+text: This ally has -1 / -1 for each card in opposing graveyards.
+
+cost: '4'
+
+combat: Nature
+
+temp: Furbolg Shaman
+
+type: Monster

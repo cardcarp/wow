@@ -1,0 +1,18 @@
+card_name: Obliterating Trap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Trap Destroy target attacking ally. If its cost is 4 or more, Delve .
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Survival

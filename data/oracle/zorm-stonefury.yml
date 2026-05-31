@@ -1,0 +1,23 @@
+card_name: Zorm Stonefury
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Allies in your party have +1 ATK while attacking.
+
+cost: '2'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Shaman

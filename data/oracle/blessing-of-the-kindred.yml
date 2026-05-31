@@ -1,0 +1,18 @@
+card_name: Blessing of the Kindred
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : As this ability enters play, name a class. Friendly allies of that class have +1 / +1.'
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection Blessing

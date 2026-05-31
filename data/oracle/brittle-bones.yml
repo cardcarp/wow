@@ -1,0 +1,18 @@
+card_name: Brittle Bones
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Frost Talent Attach to target opposing hero. Ongoing : At the start of your turn, your hero deals 2 frost damage to attached hero. Then, if attached hero has 15 or more damage, destroy this ability. If you do, destroy two target non-hero cards.'
+
+class:
+  - Death Knight
+
+cost: '4'
+
+temp: Frost Disease

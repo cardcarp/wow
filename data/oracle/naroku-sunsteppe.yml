@@ -1,0 +1,23 @@
+card_name: Naroku Sunsteppe
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Protector This ally has +2 / +2 while you control another ally, an ability, and an equipment.
+
+cost: '5'
+
+combat: Holy
+
+faction: Horde
+
+temp: Tauren Paladin

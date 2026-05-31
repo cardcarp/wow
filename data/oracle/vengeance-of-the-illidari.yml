@@ -1,0 +1,23 @@
+card_name: Vengeance of the Illidari
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play an ability, ready your hero.
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '5'
+
+temp: Item Trinket

@@ -1,0 +1,18 @@
+card_name: Furor
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Restoration Hero Required Ongoing : When you play a Form, you may ready up to X of your resources, where X is its cost.'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Restoration Talent

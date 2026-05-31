@@ -1,0 +1,18 @@
+card_name: Deaths Duo
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Remove two target allies in an opposing graveyard from the game. If you do, put two 3 / 3 Ghoul ally tokens into play.
+
+class:
+  - Death Knight
+
+cost: '4'
+
+temp: Unholy

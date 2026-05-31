@@ -1,0 +1,18 @@
+card_name: Lights Embrace
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Put target ally from your graveyard into your hand. Your hero heals damage from itself equal to that ally's cost.
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Holy

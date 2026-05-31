@@ -1,0 +1,23 @@
+card_name: Mollie Brightheart
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: 'Diplomacy: Draenei → Mollie deals 1 fire damage to target hero or ally.'
+
+cost: '4'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Human Mage

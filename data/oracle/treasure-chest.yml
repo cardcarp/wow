@@ -1,0 +1,15 @@
+card_name: Treasure Chest
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Look at the top three cards of your deck. Put one into your hand and the rest on top of your deck in any order.
+
+cost: '2'
+
+temp: ''

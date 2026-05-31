@@ -1,0 +1,23 @@
+card_name: Brumdor Dreadforge
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: 1 , Destroy one of your equipment → Draw a card.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Death Knight

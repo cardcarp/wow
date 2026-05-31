@@ -1,0 +1,22 @@
+card_name: Lothars Edge
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this weapon enters play, if an opponent controls a hero, you pay 3 less to strike with this weapon this turn.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '4'
+
+faction: Alliance
+
+temp: 2H Weapon Axe

@@ -1,0 +1,21 @@
+card_name: Lady Vashj
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 9
+
+text: Traitor Hero Required At the end of each turn, roll a die. Put that many Naga ally tokens with 1 ATK / 1 health into play.
+
+cost: '9'
+
+combat: Melee
+
+temp: Naga Traitor

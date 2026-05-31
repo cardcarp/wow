@@ -1,0 +1,53 @@
+name: Alliance Druid
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Alliance
+  - Starter
+  - '2011'
+
+collection: '2011'
+
+highlight: starter-2011-alliance-druid-001
+
+description: 2011 Alliance Druid Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the Alliance's Druid class
+
+total: 61
+
+list:
+  hero:
+    starter-2011-alliance-druid-001: 1  # Leisha of Darnassus
+  main:
+    starter-2011-alliance-druid-002: 2  # Energize
+    starter-2011-alliance-druid-003: 2 # Entangling Roots
+    starter-2011-alliance-druid-004: 1 # Gift of the Earthmother
+    starter-2011-alliance-druid-005: 1 # Gift of the Wild
+    starter-2011-alliance-druid-006: 3 # Mark of the Wild
+    starter-2011-alliance-druid-007: 2 # Natures Focus
+    starter-2011-alliance-druid-008: 2 # Savage Cat Form
+    starter-2011-alliance-druid-009: 1 # Thorns
+    starter-2011-alliance-druid-010: 4 # Wrath
+    starter-2011-alliance-druid-011: 1 # Braxiss the Sleeper
+    starter-2011-alliance-druid-012: 3 # Cerwyn
+    starter-2011-alliance-druid-013: 2 # Darktwister Kern
+    starter-2011-alliance-druid-014: 2 # Dominic Kandor
+    starter-2011-alliance-druid-015: 2 # Gerana Sparkfist
+    starter-2011-alliance-druid-016: 2 # Gully Rustinax
+    starter-2011-alliance-druid-017: 3 # Hira
+    starter-2011-alliance-druid-018: 3 # Kysa Shadowstalker
+    starter-2011-alliance-druid-019: 3 # Laenthor Shademoon
+    starter-2011-alliance-druid-020: 3 # Sha_lin Nightwind
+    starter-2011-alliance-druid-021: 1 # Varah, Fury of the Stars
+    starter-2011-alliance-druid-022: 3 # A Bird in Hand
+    starter-2011-alliance-druid-023: 1 # Blueleaf Tubers
+    starter-2011-alliance-druid-024: 3 # Entrenched
+    starter-2011-alliance-druid-025: 4 # The Essence of Enmity
+    starter-2011-alliance-druid-026: 4 # The Key to Freedom
+    starter-2011-alliance-druid-027: 2 # Mystery Goo

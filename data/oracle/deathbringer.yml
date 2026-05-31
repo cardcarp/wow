@@ -1,0 +1,21 @@
+card_name: Deathbringer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals combat damage with Deathbringer to an ally, your hero deals that amount of shadow damage to target hero in that ally's party.
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Shaman
+
+cost: '3'
+
+temp: 1H Weapon Axe

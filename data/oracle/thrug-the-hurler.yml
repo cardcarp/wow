@@ -1,0 +1,23 @@
+card_name: Thrug the Hurler
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: 'Empower Monster : When this ally enters play, if you control another Monster hero or ally, this ally deals 4 melee damage to target hero or ally.'
+
+cost: '6'
+
+combat: Melee
+
+temp: Ogre Warrior
+
+type: Monster

@@ -1,0 +1,21 @@
+card_name: Mogors Anointing Club
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn: , Destroy an ally in your party → Put an ally card with lower cost than that ally from your graveyard into play.'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '4'
+
+temp: 1H Arena Weapon Mace

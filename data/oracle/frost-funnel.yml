@@ -1,0 +1,18 @@
+card_name: Frost Funnel
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 1 frost damage to each of up to two target heroes and/or allies. A character dealt damage this way can't attack this turn.
+
+class:
+  - Mage
+
+cost: '3'
+
+temp: Frost

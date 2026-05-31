@@ -1,0 +1,23 @@
+card_name: Caretaker Devonar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: Protector Devonar is Elusive while ready.
+
+cost: '4'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Night Elf Druid

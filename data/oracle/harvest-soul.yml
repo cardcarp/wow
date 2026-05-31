@@ -1,0 +1,15 @@
+card_name: Harvest Soul
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target raiding ally. Ongoing : You control attached ally. Put 1 damage on attached ally → The Boss heals 1 damage from itself.'
+
+cost: '4'
+
+temp: Naxxramas

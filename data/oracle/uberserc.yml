@@ -1,0 +1,26 @@
+card_name: Uberserc
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 7
+
+text: Beast Mastery Talent This ally can attack two opposing heroes and/or allies at the same time. (This ally deals combat damage to both defenders, and both defenders deal combat damage back to this ally.)
+
+class:
+  - Hunter
+
+cost: '5'
+
+combat: Fire
+
+temp: Core Hound
+
+type: Monster

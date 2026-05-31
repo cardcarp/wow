@@ -1,0 +1,18 @@
+card_name: Dark Command
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : Attached ally has -3 ATK, must attack if able, and can attack only your hero if able.'
+
+class:
+  - Death Knight
+
+cost: '1'
+
+temp: Blood

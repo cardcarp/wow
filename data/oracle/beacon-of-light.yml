@@ -1,0 +1,18 @@
+card_name: Beacon of Light
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Holy Talent Attach to target ally. Ongoing : When damage is healed from a hero or ally you control, add that many light counters to this ability. Attached ally has +1 / +1 for each light counter on this ability.'
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Holy

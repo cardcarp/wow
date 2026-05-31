@@ -1,0 +1,21 @@
+card_name: Rekwa Proudhorn
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 2 → Flip Rekwa
+
+faction: Horde
+
+temp: Tauren Paladin
+
+transform:
+  - id: ability
+    text: Damage that Rekwa and allies you control would deal is unpreventable.

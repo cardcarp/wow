@@ -1,0 +1,15 @@
+card_name: Dark Influence
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Each Raiding ally deals shadow damage to itself equal to its ATK.
+
+temp: ''
+
+type: Dungeon

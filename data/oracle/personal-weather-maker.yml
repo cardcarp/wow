@@ -1,0 +1,15 @@
+card_name: Personal Weather Maker
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : Play with the top card of your deck revealed. Opponents can't target cards in play you control that share a type with the top card of your deck."
+
+cost: '3'
+
+temp: ''

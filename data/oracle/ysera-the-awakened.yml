@@ -1,0 +1,23 @@
+card_name: Ysera the Awakened
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: (Allies you control can protect this hero.) 5 , Flip Ysera face down → Ysera heals 5 damage from herself and each ally you control.
+
+class:
+  - Druid
+  - Hunter
+
+temp: Green Dragonkin Aspect 40
+
+transform:
+  - id: ability
+    text: "When a hero or ally you control is healed, you may draw a card. Deckbuilding : You may include either or cards, and , , and Neutral cards. You can't include more than one of each card."
+
+type: Monster

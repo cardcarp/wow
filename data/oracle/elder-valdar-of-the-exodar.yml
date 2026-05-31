@@ -1,0 +1,23 @@
+card_name: Elder Valdar of the Exodar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 6
+
+text: Protector Inspiring Presence
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Warrior

@@ -1,0 +1,18 @@
+card_name: Fusion Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: '1 , Exhaust a Totem you control → Air : Exhaust target ally. Earth : Target ally has Assault 2 this turn. Fire : It deals 2 fire damage to target ally. Water : Target player draws a card.'
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Elemental 1

@@ -1,0 +1,23 @@
+card_name: Kelena Ashford
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 1
+
+text: When this ally enters play, if you control a Demon or a Pet, she deals 4 fire damage to target hero.
+
+cost: '3'
+
+combat: Fire
+
+faction: Horde
+
+temp: Undead Warlock

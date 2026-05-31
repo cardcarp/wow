@@ -1,0 +1,18 @@
+card_name: Frost Presence
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Opposing cards and effects must target your hero if able. Your hero has +10 health and is a Protector .'
+
+class:
+  - Death Knight
+
+cost: '5'
+
+temp: Frost

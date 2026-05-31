@@ -1,0 +1,22 @@
+card_name: Signet of Manifested Pain
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, you may put 2 damage on your hero. If you do, put a 2 / 2 ally token into play with the same class and race as your hero.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Ring

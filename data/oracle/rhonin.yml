@@ -1,0 +1,21 @@
+card_name: Rhonin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: 2 , Discard a Mage with cost X → Interrupt target card with cost X.
+
+cost: '3'
+
+combat: Frost
+
+temp: Human Mage

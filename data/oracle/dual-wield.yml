@@ -1,0 +1,20 @@
+card_name: Dual Wield
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Your hero has Dual Wield .'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+
+cost: '1'
+
+temp: ''

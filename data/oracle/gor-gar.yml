@@ -1,0 +1,23 @@
+card_name: Gor_gar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Gor'gar enters play with an ankh counter. While Gor'gar has an ankh counter, when he's destroyed, you may have his owner put him from his graveyard into play, then remove his ankh counter.
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Shaman

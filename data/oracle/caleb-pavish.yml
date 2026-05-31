@@ -1,0 +1,21 @@
+card_name: Caleb Pavish
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 2 → Flip Caleb
+
+faction: Alliance
+
+temp: Worgen Rogue
+
+transform:
+  - id: ability
+    text: At the start of your turn, Caleb deals 1 melee damage to target hero.

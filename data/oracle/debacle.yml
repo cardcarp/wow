@@ -1,0 +1,17 @@
+card_name: Debacle
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: The raid leader turns three raiding resources face down.
+
+temp: ''
+
+type: Raid
+
+stage: 5

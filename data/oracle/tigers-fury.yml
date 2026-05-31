@@ -1,0 +1,18 @@
+card_name: Tigers Fury
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : 1 → Your hero has an additional +1 ATK while attacking in Cat Form this turn.'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Feral

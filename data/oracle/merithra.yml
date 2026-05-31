@@ -1,0 +1,21 @@
+card_name: Merithra
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: When a resource you control is turned face down, this ally deals nature damage to target hero or ally equal to the number of Green Dragonkin you control.
+
+cost: '4'
+
+combat: Nature
+
+temp: Green Dragonkin

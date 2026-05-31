@@ -1,0 +1,21 @@
+card_name: Magistrix Larynna
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 8
+
+text: 'Scryer Reputation Sabotage: Graveyard When Layrnna sabotages a graveyard, she deals 1 fire damage to target hero or ally for each card in it.'
+
+cost: '7'
+
+combat: Fire
+
+temp: Blood Elf Mage

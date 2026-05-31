@@ -1,0 +1,23 @@
+card_name: Spawn of Rokad
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: When this ally enters play, if an opponent controls an ally with 6 or more, this ally has +4 ATK and Ferocity this turn.
+
+cost: '6'
+
+combat: Melee
+
+temp: Hound Beast
+
+type: Monster

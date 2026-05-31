@@ -1,0 +1,17 @@
+card_name: Plague Demonsoul
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Plague → If a Demon in your party would be dealt damage this turn, it's dealt to Plague instead. Shadowsworn
+
+faction: Horde
+
+temp: Undead Warlock

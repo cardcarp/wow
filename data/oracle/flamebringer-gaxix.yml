@@ -1,0 +1,23 @@
+card_name: Flamebringer Gaxix
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 5
+
+text: This ally has +2 / +2 while you control another card.
+
+cost: '6'
+
+combat: Fire
+
+faction: Horde
+
+temp: Goblin Mage

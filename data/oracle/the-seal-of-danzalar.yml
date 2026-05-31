@@ -1,0 +1,22 @@
+card_name: The Seal of Danzalar
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, your hero deals shadow damage to target hero equal to the number of cards in your hand minus the number of cards in that hero's controller's hand.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item Ring

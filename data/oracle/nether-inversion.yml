@@ -1,0 +1,18 @@
+card_name: Nether Inversion
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target ally has +3 / -3 this turn.
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Affliction

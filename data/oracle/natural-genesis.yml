@@ -1,0 +1,18 @@
+card_name: Natural Genesis
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Each player may place an additional resource during his turn.'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Restoration

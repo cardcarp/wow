@@ -1,0 +1,21 @@
+card_name: Lord Godfrey - Level 2
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+damage: 0
+
+health: 50
+
+text: 'Level Up: 20 Flip 2 Assault 5 , Long-Range'
+
+combat: Shadow
+
+temp: Undead Lord
+
+type: Dungeon

@@ -1,0 +1,23 @@
+card_name: Sylvanas, Lady of Undercity
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 7
+
+text: Long-Range When this ally deals fatal damage to a defending ally, you may put target ally with cost less than or equal to that defending ally's cost from your graveyard into play.
+
+cost: '7'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Undead Banshee Queen

@@ -1,0 +1,26 @@
+card_name: Chalice of the Mountain Kings
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Artifact When this item enters play, each player may put a 1 / 1 Dwarf Sword Dancer ally token into play. Prevent all damage that Dwarves would deal to Dwarves.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item

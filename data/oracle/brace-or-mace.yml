@@ -1,0 +1,18 @@
+card_name: Brace or Mace
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Choose one: Your hero heals 4 damage from target hero; or attach to target ally. Ongoing : Attached ally has +1 ATK / +1 health.'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Restoration

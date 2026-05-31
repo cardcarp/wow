@@ -1,0 +1,18 @@
+card_name: Predatory Sense
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Your hero has Assault 2 this turn. Ongoing : Your hero has Cat Form .'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Feral Combo

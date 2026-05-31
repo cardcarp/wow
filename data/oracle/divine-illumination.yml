@@ -1,0 +1,18 @@
+card_name: Divine Illumination
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Holy Hero Required You pay 1 less to play abilities this turn, to a minimum of 1 . Draw a card.
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Holy Talent

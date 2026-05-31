@@ -1,0 +1,23 @@
+card_name: Archduke Franklin Pearce
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: 3 , Discard a card → Put target equipment on the bottom of its owner's deck.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Death Knight

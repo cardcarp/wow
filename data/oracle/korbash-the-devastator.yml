@@ -1,0 +1,23 @@
+card_name: Korbash the Devastator
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 7
+
+text: Conspicuous When this ally enters play, exhaust a target opposing hero or ally for each Ogre hero and ally you control. Characters exhausted that way can't ready this turn or next turn.
+
+cost: '7'
+
+combat: Melee
+
+temp: Ogre Lord Warrior
+
+type: Monster

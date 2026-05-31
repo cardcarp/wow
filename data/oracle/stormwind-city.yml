@@ -1,0 +1,15 @@
+card_name: Stormwind City
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: 'Human Hero Required If a Human ally is in your party: → You pay 2 less to play your next ally this turn.'
+
+faction: Alliance
+
+temp: City

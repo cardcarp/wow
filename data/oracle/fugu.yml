@@ -1,0 +1,23 @@
+card_name: Fugu
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: → Gain control of target ally until end of turn.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Night Elf Priest

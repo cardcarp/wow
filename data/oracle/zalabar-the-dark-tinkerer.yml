@@ -1,0 +1,23 @@
+card_name: Zalabar the Dark Tinkerer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 9
+
+text: Elusive At the end of your turn, this ally deals 1 shadow damage to target hero for each ally in that hero's controller's graveyard, and then this ally heals that much damage from your hero.
+
+cost: '8'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Priest

@@ -1,0 +1,17 @@
+card_name: Moonshadow
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 3 , Flip Moonshadow → Shuffle your hand into your deck, then draw that many cards.
+
+faction: Alliance
+
+temp: Night Elf Druid

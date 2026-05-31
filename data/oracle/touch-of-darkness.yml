@@ -1,0 +1,18 @@
+card_name: Touch of Darkness
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 1 shadow damage to target hero or ally. If a hero is dealt damage this way, its controller discards a card.
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Shadow

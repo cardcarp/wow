@@ -1,0 +1,23 @@
+card_name: Emora Delwin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: → This turn, target ally can't attack or protect, loses and can't have powers, and is also a Sheep.
+
+cost: '2'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Human Mage

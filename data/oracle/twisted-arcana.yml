@@ -1,0 +1,18 @@
+card_name: Twisted Arcana
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: As an additional cost to play this ability, destroy an ability, ally, or equipment you control. Draw two cards.
+
+class:
+  - Mage
+
+cost: '1'
+
+temp: Arcane

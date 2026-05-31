@@ -1,0 +1,23 @@
+card_name: Kiki Sparkbottom
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: Elusive Long-Range
+
+cost: '3'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Gnome Mage

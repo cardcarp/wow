@@ -1,0 +1,23 @@
+card_name: Trytha Darksun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: At the start of each player's turn, he exhausts one of his resources.
+
+cost: '3'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Blood Elf Priest

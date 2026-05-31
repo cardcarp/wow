@@ -1,0 +1,26 @@
+card_name: Ring of Binding
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Opponents pay 1 more to play abilities that target your hero.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Ring

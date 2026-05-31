@@ -1,0 +1,23 @@
+card_name: Nadina the Red
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: Protector At the end of each opponent's turn, if your hero wasn't dealt damage this turn, you may draw a card.
+
+cost: '4'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Paladin

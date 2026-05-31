@@ -1,0 +1,15 @@
+card_name: Lava Splash
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Ragnaros deals 1 fire damage to each hero and ally in target player's party for each rune you have.
+
+cost: '3'
+
+temp: Ragnaros

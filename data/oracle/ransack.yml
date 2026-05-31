@@ -1,0 +1,18 @@
+card_name: Ransack
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy the card with the lowest cost among abilities, allies, and equipment in play. If two or more are tied, destroy all with that cost.
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: Assassination

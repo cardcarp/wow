@@ -1,0 +1,20 @@
+card_name: Hammer of the Naaru
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero attacks, exhaust all opposing heroes and allies. Damage that would be dealt with Hammer of the Naaru is unpreventable.
+
+class:
+  - Druid
+  - Paladin
+  - Shaman
+
+cost: '8'
+
+temp: 2H Weapon Mace

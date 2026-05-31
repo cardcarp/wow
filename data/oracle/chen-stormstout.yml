@@ -1,0 +1,21 @@
+card_name: Chen Stormstout
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+instant: When Chen Stormstout enters play, say "I bring PANDA-MONIUM!" and opposing allies can't attack this turn. 3 , Say "Another round?" → Target ally can't attack this turn.
+
+cost: '7'
+
+combat: Melee
+
+temp: Pandaren Brewmaster

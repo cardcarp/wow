@@ -1,0 +1,23 @@
+card_name: Randipan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this ally deals combat damage to a defending hero, draw a card.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Rogue

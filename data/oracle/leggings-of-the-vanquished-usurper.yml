@@ -1,0 +1,19 @@
+card_name: Leggings of the Vanquished Usurper
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , → Non- , non- allies you control have Assault 2 this turn.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '3'
+
+temp: Armor Leather

@@ -1,0 +1,23 @@
+card_name: Komma, Timewalker Graveguard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this ally enters play and when she is revealed from your deck, target opposing ally has -2 ATK this turn.
+
+cost: '2'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Draenei Death Knight

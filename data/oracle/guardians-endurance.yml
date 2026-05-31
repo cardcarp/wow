@@ -1,0 +1,18 @@
+card_name: Guardians Endurance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Your hero has Protector . Your hero has +5 while you control an equipment.'
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Protection

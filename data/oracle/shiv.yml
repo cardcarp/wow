@@ -1,0 +1,18 @@
+card_name: Shiv
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 1 melee damage to target hero or ally. That damage counts as combat damage.
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Combat Combo

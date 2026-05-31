@@ -1,0 +1,23 @@
+card_name: Frizzlight
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Damage that this and other Murloc allies you control would deal is unpreventable.
+
+cost: '2'
+
+combat: Holy
+
+temp: Murloc Priest
+
+type: Monster

@@ -1,0 +1,23 @@
+card_name: Waz_luk
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When Waz'luk enters play, he deals 1 fire damage to target hero.
+
+cost: '1'
+
+combat: Fire
+
+faction: Horde
+
+temp: Troll Mage

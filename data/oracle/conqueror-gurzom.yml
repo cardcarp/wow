@@ -1,0 +1,23 @@
+card_name: Conqueror Gurzom
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Prevent all damage that Rogues would deal to this ally.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

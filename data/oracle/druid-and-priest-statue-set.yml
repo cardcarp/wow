@@ -1,0 +1,27 @@
+card_name: Druid and Priest Statue Set
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: x , , Destroy this item → Put an X / X Spirit ally token into play with Mend X and Protector .
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item

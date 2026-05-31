@@ -1,0 +1,21 @@
+card_name: Marksman Glous
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: 'Aldor Reputation Inspire: Quest When a quest is inspired this way, you pay 1 less to complete it this turn.'
+
+cost: '2'
+
+combat: Ranged
+
+temp: Draenei Hunter

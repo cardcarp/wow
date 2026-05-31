@@ -1,0 +1,21 @@
+card_name: Akama
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 9
+
+text: Loyal Hero Required Protector , Stealth Other allies in your party are Untargetable . Traitor cards can't be played.
+
+cost: '8'
+
+combat: Melee
+
+temp: Broken Elder Sage

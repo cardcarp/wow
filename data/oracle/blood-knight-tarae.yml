@@ -1,0 +1,23 @@
+card_name: Blood Knight Tarae
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 7
+
+text: Protector 1 → Remove target ability card in a graveyard from the game. If you do, Tarae heals 1 damage from target hero or ally.
+
+cost: '6'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Paladin

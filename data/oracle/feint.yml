@@ -1,0 +1,18 @@
+card_name: Feint
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Remove target attacker from combat.
+
+class:
+  - Rogue
+
+cost: '0'
+
+temp: Combat

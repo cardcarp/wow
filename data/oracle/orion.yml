@@ -1,0 +1,23 @@
+card_name: Orion
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 7
+
+text: Protector
+
+cost: '5'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Paladin

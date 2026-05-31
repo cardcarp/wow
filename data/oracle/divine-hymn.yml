@@ -1,0 +1,18 @@
+card_name: Divine Hymn
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : At the start of your turn, your hero heals 2 damage from each hero and ally you control. At the end of your turn, destroy this ability if you don't control an ally."
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Holy

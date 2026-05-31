@@ -1,0 +1,27 @@
+card_name: Glacial Bag
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Exhaust a Bag you control → Add a thaw counter. , Remove four thaw counters → Draw three cards.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item Bag

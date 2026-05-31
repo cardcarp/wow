@@ -1,0 +1,24 @@
+card_name: Sardok
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Protector Physical Resistance
+
+class:
+  - Warlock
+
+cost: '1'
+
+combat: Melee
+
+temp: Voidwalker Demon

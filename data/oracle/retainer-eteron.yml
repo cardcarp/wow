@@ -1,0 +1,21 @@
+card_name: Retainer Eteron
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: "Scryer Reputation Sabotage: Hand When Eteron sabotages an opponent's hand, look at it and choose up to two cards. That opponent puts those cards into his resource row face down and exhausted."
+
+cost: '5'
+
+combat: Melee
+
+temp: Blood Elf Rogue

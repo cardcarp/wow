@@ -1,0 +1,18 @@
+card_name: Cleave
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals X melee damage to each of up to two target allies, where X is 1 plus the ATK of one of your Melee weapons.
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Arms

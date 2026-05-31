@@ -1,0 +1,23 @@
+card_name: Haro Setting-Sun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: 'Tribe : When this or another Tauren ally enters play under your control, target opposing ally has -1 this turn.'
+
+cost: '3'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Tauren Priest

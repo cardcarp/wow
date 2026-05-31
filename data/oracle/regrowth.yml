@@ -1,0 +1,18 @@
+card_name: Regrowth
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero or ally, and your hero heals 4 damage from it. Ongoing : At the start of your turn, your hero heals 1 damage from attached character.'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Restoration

@@ -1,0 +1,18 @@
+card_name: Helplessness
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: You may discard a ability instead of paying this ability's cost. Look at target player's hand and choose a card. That player discards that card.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Subtlety

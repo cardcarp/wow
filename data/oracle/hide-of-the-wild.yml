@@ -1,0 +1,21 @@
+card_name: Hide of the Wild
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If your hero would heal damage, it heals that amount of damage plus 1 instead.
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '2'
+
+temp: Armor Cloth

@@ -1,0 +1,23 @@
+card_name: Soulrender Keldah
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When this ally attacks, choose and destroy a resource you control.
+
+cost: '1'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Warlock

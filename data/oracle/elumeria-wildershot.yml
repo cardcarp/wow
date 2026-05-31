@@ -1,0 +1,17 @@
+card_name: Elumeria Wildershot
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 1 , Flip Elumeria → Elumeria heals all damage from all of your Pets.
+
+faction: Alliance
+
+temp: Night Elf Hunter

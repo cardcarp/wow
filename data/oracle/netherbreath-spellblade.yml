@@ -1,0 +1,21 @@
+card_name: Netherbreath Spellblade
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If you would draw a card, you may skip drawing it instead. When you first skip drawing a card this way on each of your turns, put target ability from your graveyard into your hand.
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '5'
+
+temp: 1H Weapon Dagger

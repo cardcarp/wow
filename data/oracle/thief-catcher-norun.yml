@@ -1,0 +1,21 @@
+card_name: Thief Catcher Norun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Aldor Reputation Protector Norun can also protect against attackers with Stealth .
+
+cost: '3'
+
+combat: Melee
+
+temp: Draenei Warrior

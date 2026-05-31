@@ -1,0 +1,15 @@
+card_name: Inspire
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: You may flip your hero. If your hero is Sulfuron Harbinger, you may ready him.
+
+cost: '4'
+
+temp: Molten Core

@@ -1,0 +1,23 @@
+card_name: Zor_dul Deathbinder
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 1
+
+text: Assault 1 When this ally is destroyed, you may draw a card.
+
+cost: '1'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Orc Mage

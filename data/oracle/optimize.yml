@@ -1,0 +1,19 @@
+card_name: Optimize
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : → You may ready or exhaust target resource.'
+
+class:
+  - Priest
+  - Hunter
+
+cost: '4'
+
+temp: Survival Discipline

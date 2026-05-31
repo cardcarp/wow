@@ -1,0 +1,21 @@
+card_name: Farseer Nobundo
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 8
+
+text: You may look at the top card of any opponent's deck at any time. At the start of your turn, guess whether the top card of your deck has a higher or lower cost than the top card of target opponent's deck. Then, both players reveal the top card of their deck. If you guessed correctly, draw a card.
+
+cost: '5'
+
+combat: Nature
+
+temp: Draenei Shaman

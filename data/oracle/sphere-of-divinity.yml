@@ -1,0 +1,19 @@
+card_name: Sphere of Divinity
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally. Ongoing : Prevent all damage that attached ally would be dealt. At the start of the turn, destroy Sphere of Divinity.'
+
+class:
+  - Paladin
+  - Priest
+
+cost: '2'
+
+temp: Protection Discipline

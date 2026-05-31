@@ -1,0 +1,21 @@
+card_name: Gavel of the Fleshcrafter
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has Mend 3 .
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '5'
+
+temp: 1H Weapon Mace

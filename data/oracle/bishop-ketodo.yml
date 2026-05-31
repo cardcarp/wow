@@ -1,0 +1,23 @@
+card_name: Bishop Ketodo
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Mend 1
+
+cost: '4'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Priest

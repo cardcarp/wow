@@ -1,0 +1,18 @@
+card_name: Penetrating Shots
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Play only if you control a Ranged weapon. Choose X of the following: Your hero deals 3 ranged damage to target hero; your hero deals 3 ranged damage to target ally; target hero has -3 ATK this turn; or target ally has -3 ATK this turn.'
+
+class:
+  - Hunter
+
+cost: X
+
+temp: Marksmanship

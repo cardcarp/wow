@@ -1,0 +1,18 @@
+card_name: Everlasting Affliction
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Affliction Talent Attach to target opposing hero. Ongoing : At the start of your turn, your hero deals 1 shadow damage to attached hero. If damage is dealt this way, you may search your deck for a card named Everlasting Affliction and attach it to attached hero.'
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Affliction

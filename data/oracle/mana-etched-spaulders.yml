@@ -1,0 +1,20 @@
+card_name: Mana-Etched Spaulders
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Your hero heals 1 damage from itself for each of your armor with Mana-Etched in its name.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '2'
+
+temp: Armor Cloth

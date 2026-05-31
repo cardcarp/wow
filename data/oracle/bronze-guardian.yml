@@ -1,0 +1,21 @@
+card_name: Bronze Guardian
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Protector When this ally enters play, if you control no ready resources, you may draw a card.
+
+cost: '3'
+
+combat: Melee
+
+temp: Bronze Dragonkin

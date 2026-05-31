@@ -1,0 +1,19 @@
+card_name: Shadowprowlers Chestguard
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has +1 ATK while attacking for each hero and ally in your party with Stealth .
+
+class:
+  - Druid
+  - Rogue
+
+cost: '1'
+
+temp: Armor Leather

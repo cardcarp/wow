@@ -1,0 +1,19 @@
+card_name: Headdress of the First Shaman
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'At the start of your turn, choose one of the following and put it into play: 2 / 1 Fire Elemental ally token, 2 / 1 Earth Elemental ally token, 2 / 1 Air Elemental ally token, or 2 / 1 Water Elemental ally token. While you control a , a , a , and a ally, your hero has Assault 8 .'
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '6'
+
+temp: Armor Mail

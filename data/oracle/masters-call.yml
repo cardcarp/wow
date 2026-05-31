@@ -1,0 +1,18 @@
+card_name: Masters Call
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: If you control a Pet, destroy any number of abilities attached to your hero. While you control a Pet this turn, your hero has Untargetable , and Pets you control can protect your hero.
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Beast Mastery

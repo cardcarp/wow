@@ -1,0 +1,18 @@
+card_name: Coordinated Attack
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Friendly heroes have " → This hero deals 1 ranged damage to target hero or ally."'
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Marksmanship

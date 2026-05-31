@@ -1,0 +1,24 @@
+card_name: Buzz
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: 'When this ally enters play, you may destroy target equipment. Death Rattle : You may destroy target weapon.'
+
+class:
+  - Hunter
+
+cost: '5'
+
+combat: Melee
+
+temp: Wasp

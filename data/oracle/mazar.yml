@@ -1,0 +1,17 @@
+card_name: Mazar
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 3 , Flip Mazar, remove a Pet card in your graveyard from the game → Destroy target ally. Use only on your turn.
+
+faction: Alliance
+
+temp: Gnome Warlock

@@ -1,0 +1,23 @@
+card_name: Rek_gar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Protector When one of your Totems is destroyed, Rek'gar deals 1 frost damage to target hero or ally.
+
+cost: '4'
+
+combat: Frost
+
+faction: Horde
+
+temp: Troll Shaman

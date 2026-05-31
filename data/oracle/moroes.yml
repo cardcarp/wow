@@ -1,0 +1,23 @@
+card_name: Moroes
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: 'Stealth , Spellshield When Moroes deals combat damage to a defending hero, choose one of the following at random and put it into play: 2 / 2 Priest Spirit Monster ally token with Absorb , 2 / 2 Paladin Spirit Monster ally token with Protector , 2 / 2 Warrior Spirit Monster ally token with Ferocity .'
+
+cost: '3'
+
+combat: Melee
+
+temp: Risen Rogue
+
+type: Monster

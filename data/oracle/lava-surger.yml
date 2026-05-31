@@ -1,0 +1,19 @@
+card_name: Lava Surger
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 1
+
+text: When Lava Surger deals combat damage to a hero, ready Lava Surger. It can't attack that hero this turn.
+
+combat: Melee
+
+temp: Elemental Minion

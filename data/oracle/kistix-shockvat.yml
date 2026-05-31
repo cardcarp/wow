@@ -1,0 +1,23 @@
+card_name: Kistix Shockvat
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: Elusive
+
+cost: '4'
+
+combat: Nature
+
+faction: Horde
+
+temp: Goblin Shaman

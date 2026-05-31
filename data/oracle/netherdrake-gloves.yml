@@ -1,0 +1,19 @@
+card_name: Netherdrake Gloves
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: ', Destroy Netherdrake Gloves → Put a Netherdrake ally token with 3 ATK / 3 health into play.'
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '4'
+
+temp: Armor Mail

@@ -1,0 +1,23 @@
+card_name: Zor_chal the Shadowseer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: Enrage When you reveal an ally this way, this ally has +2 ATK and Ferocity this turn.
+
+cost: '6'
+
+combat: Shadow
+
+temp: Ogre Warlock
+
+type: Monster

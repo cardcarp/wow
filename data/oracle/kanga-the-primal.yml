@@ -1,0 +1,21 @@
+card_name: Kanga the Primal
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 3 → Flip Kanga
+
+faction: Horde
+
+temp: Troll Druid
+
+transform:
+  - id: ability
+    text: You pay 1 less to play Feral abilities, to a minimum of 1 .

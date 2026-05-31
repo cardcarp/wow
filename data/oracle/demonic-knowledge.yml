@@ -1,0 +1,18 @@
+card_name: Demonic Knowledge
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Demonology Hero Required Ongoing : , Destroy a Demon in your party → Draw two cards.'
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Demonology Talent

@@ -1,0 +1,18 @@
+card_name: Drain Mana
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the start of your turn, destroy Drain Mana unless you pay 4 . At the end of your turn, target opponent discards a card and you draw a card.'
+
+class:
+  - Warlock
+
+cost: '4'
+
+temp: Affliction

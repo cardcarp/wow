@@ -1,0 +1,23 @@
+card_name: Furbolg Firecaller
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: While you have four or more cards in your graveyard, this ally has Assault 2 and Smash .
+
+cost: '4'
+
+combat: Fire
+
+temp: Furbolg Shaman
+
+type: Monster

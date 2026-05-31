@@ -1,0 +1,15 @@
+card_name: Fixate
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero has +3 ATK, and combat damage that it would deal is unpreventable this turn.
+
+cost: '1'
+
+temp: Black Temple

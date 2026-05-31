@@ -1,0 +1,23 @@
+card_name: Underking Talonox
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: Scourge Hero Required This ally has -1 / -1 while there is an ability in an opposing graveyard. This ally has -1 / -1 while there is an ally in an opposing graveyard. This ally has -1 / -1 while there is an equipment in an opposing graveyard.
+
+cost: '3'
+
+combat: Melee
+
+temp: Crypt Lord
+
+type: Raid

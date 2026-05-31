@@ -1,0 +1,18 @@
+card_name: Burning Winds
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: If you control one or more non-token allies, put an X / X Fire Elemental ally token into play, where X is the highest cost among allies you control. If you control one or more non-token allies, put an X / X Air Elemental ally token into play, where X is the highest cost among allies you control.
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Elemental

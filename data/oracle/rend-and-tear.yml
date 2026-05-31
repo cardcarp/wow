@@ -1,0 +1,18 @@
+card_name: Rend and Tear
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Feral Combat Talent Ongoing : When this ability enters play, your hero deals 1 melee damage to each of up to three target opposing heroes and/or allies. Your hero has Assault 2 for each damaged opposing character.'
+
+class:
+  - Druid
+
+cost: '4'
+
+temp: Feral Cat Form

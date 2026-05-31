@@ -1,0 +1,23 @@
+card_name: Ashton Barstow
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: You pay 2 less to play this ally if an opponent controls an ally with cost 4 or more.
+
+cost: '6'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Worgen Hunter

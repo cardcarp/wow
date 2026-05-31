@@ -1,0 +1,23 @@
+card_name: Ian Lanstrick
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When an opponent completes a quest, this ally deals 2 fire damage to his hero.
+
+cost: '1'
+
+combat: Fire
+
+faction: Horde
+
+temp: Undead Mage

@@ -1,0 +1,23 @@
+card_name: King Bagurgle, Terror of the Tides
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: This and other Murloc allies you control have +2 / +2. At the start of your turn, put a 1 / 1 Murloc Monster ally token into play.
+
+cost: '5'
+
+combat: Melee
+
+temp: Murloc Warrior
+
+type: Monster

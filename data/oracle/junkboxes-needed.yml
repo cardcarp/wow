@@ -1,0 +1,18 @@
+card_name: Junkboxes Needed
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: "On your turn: Choose \"ability,\" \"ally,\" or \"equipment,\" and pay 2 to complete this quest. Reward : Look at target opponent's hand and choose a card of that kind. He discards that card."
+
+class:
+  - Rogue
+
+temp: ''
+
+type: Class Restriction

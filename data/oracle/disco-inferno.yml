@@ -1,0 +1,15 @@
+card_name: Disco Inferno!
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the end of your turn, ready all exhausted heroes and allies in your party, then exhaust all other heroes and allies in your party.'
+
+cost: '5'
+
+temp: ''

@@ -1,0 +1,23 @@
+card_name: Miranda McMiserson
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Elusive → Name a card, then reveal the top card of your deck. If it has that name, draw it. Otherwise, put it on the bottom of your deck.
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Rogue

@@ -1,0 +1,18 @@
+card_name: Netherwind Pants
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play a ability, you may pay 1 . If you do, you and target opponent each draw a card.
+
+class:
+  - Mage
+
+cost: '3'
+
+temp: Armor Cloth

@@ -1,0 +1,15 @@
+card_name: Locust Swarm
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Each raider turns a resource he controls face down. Draw a card for each resource turned this way.
+
+cost: '3'
+
+temp: Naxxramas

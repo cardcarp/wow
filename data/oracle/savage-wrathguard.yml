@@ -1,0 +1,23 @@
+card_name: Savage Wrathguard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Smash
+
+cost: '3'
+
+combat: Melee
+
+temp: Wrathguard Demon
+
+type: Monster

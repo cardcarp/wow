@@ -1,0 +1,19 @@
+card_name: Doomplate Legguards
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your weapons have +3 ATK while you have five or more equipment.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '4'
+
+temp: Armor Plate

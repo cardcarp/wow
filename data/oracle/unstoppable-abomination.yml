@@ -1,0 +1,21 @@
+card_name: Unstoppable Abomination
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: This ally can't be protected against. Damage that this ally would deal is unpreventable.
+
+combat: Melee
+
+temp: Abomination
+
+type: Ally

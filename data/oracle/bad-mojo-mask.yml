@@ -1,0 +1,19 @@
+card_name: Bad Mojo Mask
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of each player's turn, that player discards a card.
+
+class:
+  - Priest
+  - Warlock
+
+cost: '4'
+
+temp: Armor Cloth

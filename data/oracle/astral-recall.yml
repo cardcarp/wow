@@ -1,0 +1,18 @@
+card_name: Astral Recall
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Remove this ability from the game. Put up to one target ability, up to one target ally, and up to one target equipment from your graveyard into your hand.
+
+class:
+  - Shaman
+
+cost: '4'
+
+temp: Enhancement

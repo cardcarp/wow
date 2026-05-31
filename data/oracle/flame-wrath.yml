@@ -1,0 +1,20 @@
+card_name: Flame Wrath
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals combat damage with Flame Wrath, your hero deals 1 fire damage to each opposing hero and ally.
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+
+cost: '4'
+
+temp: 2H Weapon Polearm

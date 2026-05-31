@@ -1,0 +1,17 @@
+card_name: Taheo Skyspeaker
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: '4 , Flip Taheo → Choose one: Taheo deals 3 nature damage to target hero or ally; or Taheo heals 6 damage from target hero or ally. Use only on your turn.'
+
+faction: Horde
+
+temp: Tauren Druid

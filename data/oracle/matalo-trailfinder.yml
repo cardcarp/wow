@@ -1,0 +1,23 @@
+card_name: Matalo Trailfinder
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Matalo has +1 ATK while attacking for each quest you have.
+
+cost: '1'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Tauren Hunter

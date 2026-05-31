@@ -1,0 +1,23 @@
+card_name: Short John Mithril
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When John enters play, search your deck for an equipment card and reveal it. If it's an Arena card, put it into hand. Otherwise, put it on top of your deck.
+
+cost: '3'
+
+combat: Melee
+
+temp: Goblin
+
+type: Arena

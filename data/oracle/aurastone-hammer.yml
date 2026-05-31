@@ -1,0 +1,21 @@
+card_name: Aurastone Hammer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , → Put target ally from your party into its owner's hand. Use only on your turn.
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '2'
+
+temp: 1H Weapon Mace

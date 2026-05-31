@@ -1,0 +1,18 @@
+card_name: Vileblade of the Betrayer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You may remove a Poison card in hand from the game rather than pay Vileblade of the Betrayer's cost.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: 1H Weapon Dagger

@@ -1,0 +1,19 @@
+card_name: VanCleefs Boots
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor enters play, choose "Demon," a race, or an race. → Reveal the top three cards of your deck. Put a revealed ally of the chosen race into your hand and the rest on the bottom of your deck.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '4'
+
+temp: Armor Leather

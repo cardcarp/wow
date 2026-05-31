@@ -1,0 +1,18 @@
+card_name: Whiteout
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Your hero deals 3 frost damage to each opposing hero and ally. Ongoing : Opposing heroes and allies can't attack unless their controller pays 1 for each attacker."
+
+class:
+  - Mage
+
+cost: '6'
+
+temp: Frost

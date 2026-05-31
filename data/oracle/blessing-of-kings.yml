@@ -1,0 +1,18 @@
+card_name: Blessing of Kings
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Protection Hero Required Ongoing : Each ally in your party has +X ATK / +X health, where X is its cost.'
+
+class:
+  - Paladin
+
+cost: '5'
+
+temp: Protection Talent Blessing

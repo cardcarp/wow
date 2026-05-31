@@ -1,0 +1,23 @@
+card_name: Goldenmoon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Elusive You can have an additional Pet while your Pets have different names.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Night Elf Rogue

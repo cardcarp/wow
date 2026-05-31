@@ -1,0 +1,23 @@
+card_name: Whiteout Staff
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When an ally is dealt frost or damage, destroy it.
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+faction: Horde
+
+temp: 2H Weapon Staff

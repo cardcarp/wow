@@ -1,0 +1,23 @@
+card_name: Grovemender Ash_lon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 6
+
+text: Mend 3 When this ally heals damage, you may draw a card.
+
+cost: '6'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

@@ -1,0 +1,23 @@
+card_name: Izza Spindleflame
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Elusive At the start of each turn, Izza Spindleflame deals 1 fire damage to each hero.
+
+cost: '3'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Gnome Warlock

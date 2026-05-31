@@ -1,0 +1,18 @@
+card_name: Wild Roots
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target ally and exhaust it, then Delve . Ongoing : Attached ally can't ready."
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Balance

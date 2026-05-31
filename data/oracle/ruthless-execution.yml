@@ -1,0 +1,18 @@
+card_name: Ruthless Execution
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target damaged ally. Draw a card.
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Fury

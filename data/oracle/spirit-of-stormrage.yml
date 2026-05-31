@@ -1,0 +1,23 @@
+card_name: Spirit of Stormrage
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 12
+
+text: Untargetable → Search your deck for a card and put it into hand.
+
+cost: '9'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Night Elf Druid Spirit

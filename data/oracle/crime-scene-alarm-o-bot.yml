@@ -1,0 +1,23 @@
+card_name: Crime Scene Alarm-O-Bot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 4
+
+text: Protector When an opposing hero or ally attacks, you may ready this ally.
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Mechanical Sentry

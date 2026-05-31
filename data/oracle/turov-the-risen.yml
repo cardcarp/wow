@@ -1,0 +1,23 @@
+card_name: Turov the Risen
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 'On your turn: Flip Turov the Risen, remove a Scourge ally in your graveyard from the game → Turov deals 2 frost damage to target exhausted ally.'
+
+class:
+  - Rogue
+  - Mage
+
+temp: Skeleton 27
+
+transform:
+  - id: ability
+    text: "Deckbuilding : You can only include abilities, equipment, allies with ally type Death Knight, neutral quests and locations, and Scourge cards. You can't include cards with reputations or other text restrictions (like Frost Hero Required ) ."
+
+type: Raid

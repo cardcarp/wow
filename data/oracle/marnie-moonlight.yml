@@ -1,0 +1,23 @@
+card_name: Marnie Moonlight
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: → Marnie heals 5 damage from target hero or ally.
+
+cost: '4'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Priest

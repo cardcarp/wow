@@ -1,0 +1,20 @@
+card_name: Pendant of Quiet Breath
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the end of your turn, if your hero didn't attack this turn, add a tactics counter to this item. Your hero has Assault 1 for each tactics counter.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '3'
+
+temp: Item Neck

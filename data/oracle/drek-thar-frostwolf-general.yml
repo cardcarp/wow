@@ -1,0 +1,23 @@
+card_name: Drek_Thar, Frostwolf General
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 7
+
+text: 'Bloodrush : At the start of your turn, if an opposing hero has more damage on it than your hero, put X 1 / 1 Wolf Beast Monster ally tokens into play with Ferocity , where X is the difference in damage between your hero and the opposing hero with the most damage.'
+
+cost: '7'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Shaman

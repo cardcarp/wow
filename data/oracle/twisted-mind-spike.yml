@@ -1,0 +1,18 @@
+card_name: Twisted Mind Spike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: As an additional cost to play this ability, destroy an ability, ally, or equipment you control. Your hero deals 3 shadow damage to target ally. Then, its controller discards a card.
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Shadow

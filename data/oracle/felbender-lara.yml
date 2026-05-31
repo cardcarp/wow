@@ -1,0 +1,17 @@
+card_name: Felbender Lara
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'If you control another Warlock: Flip Lara → Lara deals 3 shadow damage to target hero or ally with an attachment.'
+
+faction: Alliance
+
+temp: Human Warlock

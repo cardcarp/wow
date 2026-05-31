@@ -1,0 +1,18 @@
+card_name: Cleanse Spirit
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target ability. If you do, your hero heals 3 damage from target hero or ally.
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Restoration

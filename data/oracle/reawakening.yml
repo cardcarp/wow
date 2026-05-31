@@ -1,0 +1,18 @@
+card_name: Reawakening
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put any number of allies from your graveyard into your resource row face down and exhausted.
+
+class:
+  - Druid
+
+cost: '5'
+
+temp: Restoration

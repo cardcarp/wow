@@ -1,0 +1,23 @@
+card_name: Mias the Putrid
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When this ally enters play, target player discards a card.
+
+cost: '2'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Warlock

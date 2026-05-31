@@ -1,0 +1,21 @@
+card_name: Korialstrasz
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 6
+
+text: When you play an ally, put X 1 / 1 Red Dragonkin ally tokens into play, where X is that ally's cost.
+
+cost: '6'
+
+combat: Fire
+
+temp: Red Dragonkin Consort

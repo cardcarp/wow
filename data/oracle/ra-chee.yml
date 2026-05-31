@@ -1,0 +1,23 @@
+card_name: Ra_chee
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: When Ra'chee enters play, he heals 2 damage from target hero or ally.
+
+cost: '1'
+
+combat: Holy
+
+faction: Horde
+
+temp: Troll Priest

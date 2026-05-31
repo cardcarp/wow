@@ -1,0 +1,23 @@
+card_name: Grint Sundershot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Opponents can't strike with weapons on your turn.
+
+cost: '3'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Dwarf Hunter

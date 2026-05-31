@@ -1,0 +1,17 @@
+card_name: Rocket Barrage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : → When target Goblin ally you control exhausts this turn, you may pay 1 . If you do, it deals 1 fire damage to target ally.'
+
+cost: '2'
+
+faction: Horde
+
+temp: ''

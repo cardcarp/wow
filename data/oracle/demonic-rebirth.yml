@@ -1,0 +1,18 @@
+card_name: Demonic Rebirth
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Demonology Talent Ongoing : When a Demon enters play under your control, add a nether counter to this ability. , Destroy this ability → Put target Demon ally with cost less than or equal to the number of nether counters on this ability from your graveyard into play.'
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Demonology

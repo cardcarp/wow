@@ -1,0 +1,18 @@
+card_name: Unleashed Rage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Enhancement Talent Attach to target ally you control. Ongoing : Your hero has Assault X , where X is attached ally's ATK."
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Enhancement

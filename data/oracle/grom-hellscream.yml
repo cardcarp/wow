@@ -1,0 +1,23 @@
+card_name: Grom Hellscream
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 8
+
+text: Smash Grom has +X ATK while attacking, while X is the cost of a defender.
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

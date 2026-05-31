@@ -1,0 +1,26 @@
+card_name: Seths Graphite Fishing Pole
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Put the card tenth from the top of your deck into hand.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '6'
+
+temp: 2H Weapon Fishing Pole

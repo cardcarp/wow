@@ -1,0 +1,23 @@
+card_name: Banshee Soulclaimer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: Scourge Hero Required and allies have -1 / -1.
+
+cost: '4'
+
+combat: Shadow
+
+temp: Banshee
+
+type: Raid

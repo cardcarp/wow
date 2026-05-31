@@ -1,0 +1,17 @@
+card_name: Wildseer Varel
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 'On your turn: 4 → Search your deck for an attachment, reveal it, and put it into your hand.'
+
+faction: Alliance
+
+temp: Worgen Druid

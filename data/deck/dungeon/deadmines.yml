@@ -1,0 +1,71 @@
+name: Deadmines
+
+credit: Official Product
+
+category: Raid
+
+facet:
+  - Dungeon
+  - Raid
+
+collection: dungeon
+
+highlight: deadmines-001
+
+description: Deadmines
+
+context:
+  - title: ''
+    body: Introduction to the Deadmines
+
+total: 70
+
+list:
+  hero:
+    deadmines-001: 1  # Captain Cookie - Level 1
+    deadmines-002: 1 # Captain Cookie - Level 2
+    deadmines-003: 1 # Captain Cookie - Level 3
+    deadmines-004: 1 # Vanessa VanCleef
+  main:
+    deadmines-005: 1  # Admiral Ripsnarl
+    deadmines-006: 1 # Foe Reaper 5000
+    deadmines-007: 1 # Glubtok
+    deadmines-008: 1 # Helix Gearbreaker
+    deadmines-009: 1 # Lumbering Oaf
+    deadmines-010: 4 # Defias Envoker
+    deadmines-011: 4 # Defias Pirate
+    deadmines-012: 4 # Defias Squallshaper
+    deadmines-013: 4 # Defias Watcher
+    deadmines-014: 4 # Kobold Digger
+    deadmines-015: 4 # Mine Bunny
+    deadmines-016: 4 # Ogre Bodyguard
+    deadmines-017: 4 # Vapor
+    deadmines-018: 1 # A Potent Plan
+    deadmines-019: 1 # Biding Her Time
+    deadmines-020: 1 # Brotherhood Assembles
+    deadmines-021: 1 # Building Her Forces
+    deadmines-022: 1 # Captains Command
+    deadmines-023: 1 # Casualties of War
+    deadmines-024: 1 # Defias to the Core
+    deadmines-025: 1 # The Die Is Cast
+    deadmines-026: 1 # Do or Die
+    deadmines-027: 1 # _Enjoy Your Fiery Deaths!_
+    deadmines-028: 1 # Hope is Lost
+    deadmines-029: 1 # I Always Excelled at Poisons...
+    deadmines-030: 1 # _I_m Taking You All With Me!_
+    deadmines-031: 1 # Life... and Death
+    deadmines-032: 1 # Marked for Death
+    deadmines-033: 1 # _MY FATE IS MY OWN!_
+    deadmines-034: 1 # Nightmare Elixir
+    deadmines-035: 1 # Sneak Attack
+    deadmines-036: 1 # _Your Tale Ends Here!_
+    deadmines-037: 1 # Cookies Cauldron
+    deadmines-038: 1 # Defias Gunpowder
+    deadmines-039: 1 # Defias Cannon
+    deadmines-040: 1 # Cookies Stirring Stick
+    deadmines-041: 1 # Deadmine Sweeper
+    deadmines-042: 1 # Defias on Defias
+    deadmines-043: 1 # Hell Hath No Furry
+    deadmines-044: 1 # Its a Sabotage
+    deadmines-045: 1 # Pile High Club
+    deadmines-046: 1 # _Tis But a Flesh Wound

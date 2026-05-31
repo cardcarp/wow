@@ -1,0 +1,23 @@
+card_name: Rorga Trueshot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Ferocity Hardiness
+
+cost: '5'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Orc Hunter

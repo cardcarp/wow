@@ -1,0 +1,23 @@
+card_name: Grismare
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: 1 , Destroy an ally token in your party → Grismare deals nature damage equal to that token's ATK to target hero or ally.
+
+cost: '8'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

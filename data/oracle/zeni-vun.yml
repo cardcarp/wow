@@ -1,0 +1,23 @@
+card_name: Zeni_vun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: 2 , Discard a card → This ally deals 1 arcane damage to each opposing hero and ally.
+
+cost: '3'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Troll Mage

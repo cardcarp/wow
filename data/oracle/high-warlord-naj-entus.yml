@@ -1,0 +1,21 @@
+card_name: High Warlord Naj_entus
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: Immune At the end of your turn, put a spine counter on target opposing hero, and Naj'entus deals 2 melee damage to it. 2 , Exhaust a hero or ally in your party with no spine counters → Remove all spine counters from all characters and flip Naj'entus. Only an opponent can use this power, and only on his turn.
+
+temp: Naga Traitor
+
+transform:
+  - id: ability
+    text: "(Printed: 5 ) When Naj'entus flips to this side, he deals 2 frost damage to each opposing hero. Naj'entus has +2 ATK while attacking."
+
+type: Boss
+
+stage: 1

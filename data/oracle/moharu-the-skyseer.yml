@@ -1,0 +1,23 @@
+card_name: Moharu the Skyseer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When this ally deals combat damage to an opposing hero, you may put up to three allies from your hand into play.
+
+cost: '5'
+
+combat: Holy
+
+faction: Horde
+
+temp: Tauren Priest

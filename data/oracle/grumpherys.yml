@@ -1,0 +1,17 @@
+card_name: Grumpherys
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 3 , Flip Grumpherys → Your Pets are Elusive and Untargetable this turn.
+
+faction: Alliance
+
+temp: Dwarf Hunter

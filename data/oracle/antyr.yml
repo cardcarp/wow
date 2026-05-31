@@ -1,0 +1,23 @@
+card_name: Antyr
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 5
+
+text: When this ally enters play, you may destroy target ability that's not attached to a friendly card.
+
+cost: '7'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Draenei Shaman

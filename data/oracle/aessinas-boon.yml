@@ -1,0 +1,18 @@
+card_name: Aessinas Boon
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally, then put two 1 / 1 Treant ally tokens into play. Ongoing : Attached ally has +1 / +1 for each ally you control.'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Restoration Attachment

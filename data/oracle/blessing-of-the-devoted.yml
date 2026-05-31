@@ -1,0 +1,18 @@
+card_name: Blessing of the Devoted
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target ally. If that ally's cost is 2 or less, draw a card. Ongoing : Attached ally has +3 / +3."
+
+class:
+  - Paladin
+
+cost: '4'
+
+temp: Protection Blessing

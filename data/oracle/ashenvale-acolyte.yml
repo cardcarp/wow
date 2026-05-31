@@ -1,0 +1,23 @@
+card_name: Ashenvale Acolyte
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: Haste 5
+
+cost: '7'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Night Elf Priest

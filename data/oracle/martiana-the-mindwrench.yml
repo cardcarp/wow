@@ -1,0 +1,17 @@
+card_name: Martiana the Mindwrench
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: 1 , Flip Martiana → Target player discards a card if he already discarded a card this turn.
+
+faction: Alliance
+
+temp: Dwarf Priest

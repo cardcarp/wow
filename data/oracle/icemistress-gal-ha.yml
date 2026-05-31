@@ -1,0 +1,23 @@
+card_name: Icemistress Gal_ha
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Each opponent's maximum hand size is reduced by one for each ally in your party.
+
+cost: '4'
+
+combat: Frost
+
+faction: Horde
+
+temp: Troll Mage

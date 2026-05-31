@@ -1,0 +1,18 @@
+card_name: Feral Energy
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : While in Cat Form , when your hero deals combat damage to a defending hero, you may pay 1 . If you do, its controller discards a card.'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Feral

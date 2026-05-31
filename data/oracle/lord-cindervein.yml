@@ -1,0 +1,23 @@
+card_name: Lord Cindervein
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: At the end of your turn, you may put target ability into its owner's hand.
+
+cost: '3'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Dwarf Paladin

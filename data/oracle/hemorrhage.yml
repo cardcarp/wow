@@ -1,0 +1,15 @@
+card_name: Hemorrhage
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: The MARKED hero's controller rolls a die. If he rolls even, put that many Corrupted Blood ally tokens into play. If he rolls odd, Deathwing deals that much fire damage to each hero and ally that Raider controls.
+
+temp: ''
+
+type: Boss

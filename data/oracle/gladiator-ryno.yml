@@ -1,0 +1,25 @@
+card_name: Gladiator Ryno
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: When Ryno or another Arena ally enters your party, put a Felhunter Demon ally token into play with 1 ATK / 1 health.
+
+cost: '4'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Warlock
+
+type: Arena

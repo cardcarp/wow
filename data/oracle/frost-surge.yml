@@ -1,0 +1,19 @@
+card_name: Frost Surge
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals X frost damage to target hero or ally, where X is the cost of a non-hero Mage or Shaman you control. A character dealt damage this way can't attack or exhaust this turn.
+
+class:
+  - Shaman
+  - Mage
+
+cost: '2'
+
+temp: Frost Elemental

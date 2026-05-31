@@ -1,0 +1,18 @@
+card_name: Nightfall
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Affliction Talent Your hero deals X shadow damage to target opposing hero or ally and heals X damage from itself.
+
+class:
+  - Warlock
+
+cost: X
+
+temp: Affliction

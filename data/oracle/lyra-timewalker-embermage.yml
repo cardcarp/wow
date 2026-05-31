@@ -1,0 +1,21 @@
+card_name: Lyra, Timewalker Embermage
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: 'Spellshield While you control two or more allies that share a or race: → This ally deals 5 fire damage to target hero.'
+
+cost: '4'
+
+combat: Fire
+
+temp: Night Elf Mage

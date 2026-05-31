@@ -1,0 +1,18 @@
+card_name: Divine Shield
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Destroy any number of abilities attached to your hero. Prevent all damage that would be dealt to your hero this turn. Your hero can't be targeted by opponents this turn.
+
+class:
+  - Paladin
+
+cost: '3'
+
+temp: Holy

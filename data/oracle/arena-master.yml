@@ -1,0 +1,15 @@
+card_name: Arena Master
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'Pay 4 to complete this quest. Reward : Each player chooses an ally in his party. If you chose the ally with the highest ATK, draw two cards.'
+
+temp: ''
+
+type: Arena

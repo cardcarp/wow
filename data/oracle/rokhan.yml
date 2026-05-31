@@ -1,0 +1,23 @@
+card_name: Rokhan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: As Rokhan enters play, name a card. Opposing cards in play with that name lose and can't have powers.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Hunter

@@ -1,0 +1,23 @@
+card_name: Sebastian Malak
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: This ally has +2 ATK while in combat with a Monster.
+
+cost: '2'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Worgen Rogue

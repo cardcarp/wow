@@ -1,0 +1,23 @@
+card_name: Jerrick Valder
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: 'When this ally attacks, you may exhaust target ally. Stash : Exhaust target ally.'
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Worgen Rogue

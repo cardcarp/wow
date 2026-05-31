@@ -1,0 +1,18 @@
+card_name: Explosive Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Survival Talent Destroy target opposing ally. If you do, your hero deals fire damage equal to that ally's cost to a second target hero or ally.
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Survival

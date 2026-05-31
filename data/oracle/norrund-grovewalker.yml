@@ -1,0 +1,23 @@
+card_name: Norrund Grovewalker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: Elusive Untargetable
+
+cost: '6'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Night Elf Druid

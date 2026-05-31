@@ -1,0 +1,23 @@
+card_name: _Chipper_ Ironbane
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: x , Destroy "Chipper" Ironbane → Destroy target ability or equipment with cost X.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Warrior

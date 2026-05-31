@@ -1,0 +1,23 @@
+card_name: Barous the Storm Baron
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: allies in your party have " → This ally deals nature damage equal to its ATK, divided as you choose, to any number of target allies."
+
+cost: '5'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

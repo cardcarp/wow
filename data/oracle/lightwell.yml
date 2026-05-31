@@ -1,0 +1,18 @@
+card_name: Lightwell
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Holy Hero Required Ongoing : Friendly heroes and allies have " → This character heals 2 damage from itself."'
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Holy Talent

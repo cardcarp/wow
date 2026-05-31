@@ -1,0 +1,27 @@
+card_name: Anti-magic Potion
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+instant: 2 , Destroy this item → Prevent all magical damage that would be dealt to target hero or ally this turn. (Arcane ( ), Fire ( ), Frost ( ), Holy ( ), Nature ( ), and Shadow ( ) are the magical damage types)
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item Potion

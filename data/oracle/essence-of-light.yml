@@ -1,0 +1,15 @@
+card_name: Essence of Light
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "You pay 2 less to play this ability if you control a Paladin hero or ally. You pay 2 less to play this ability if you control a Priest hero or ally. Attach to target ally. Ongoing : Attached ally has +2 / +2 and can't be targeted by opponents."
+
+cost: '5'
+
+temp: ''

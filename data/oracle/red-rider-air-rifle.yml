@@ -1,0 +1,27 @@
+card_name: Red Rider Air Rifle
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Long-Range This weapon enters play with two eye counters. This weapon has +2 ATK for each eye counter on it. When you strike with this weapon, reveal the top card of your deck. If it has an odd cost, remove an eye counter from this weapon.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '5'
+
+temp: Ranged Weapon Gun

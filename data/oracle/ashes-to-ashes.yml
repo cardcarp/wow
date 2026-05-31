@@ -1,0 +1,15 @@
+card_name: Ashes to Ashes
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Each opponent chooses an ally in his party and removes it from the game. If your hero is Majordomo Executus, you choose instead. Ongoing : When an ally is destroyed, remove it from the game.'
+
+cost: '3'
+
+temp: Molten Core

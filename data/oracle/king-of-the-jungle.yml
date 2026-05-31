@@ -1,0 +1,18 @@
+card_name: King of the Jungle
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Your hero has +1 ATK while attacking for each other ability you control. Your hero is in Cat Form .'
+
+class:
+  - Druid
+
+cost: '6'
+
+temp: Feral Combo

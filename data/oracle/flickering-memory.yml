@@ -1,0 +1,13 @@
+card_name: Flickering Memory
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Choose an opponent, and he shuts his eyes for 10 seconds, during which you may make one change to your cards or his cards in play. If that opponent's first guess about what changed is correct, the game reverts to its original state. Otherwise, it stays as is.
+
+temp: ''

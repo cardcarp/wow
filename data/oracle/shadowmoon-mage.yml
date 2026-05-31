@@ -1,0 +1,21 @@
+card_name: Shadowmoon Mage
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 9
+
+health: 1
+
+cost: '5'
+
+combat: Arcane
+
+temp: Ogre Mage
+
+type: Monster

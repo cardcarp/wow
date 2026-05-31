@@ -1,0 +1,23 @@
+card_name: Krumshal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 2
+
+text: 'Empower Monster : When this ally enters play, if you control another Monster hero or ally, target hero or ally has +3 ATK and Smash this turn.'
+
+cost: '5'
+
+combat: Nature
+
+temp: Ogre Shaman
+
+type: Monster

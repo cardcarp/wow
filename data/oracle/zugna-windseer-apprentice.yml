@@ -1,0 +1,23 @@
+card_name: Zugna, Windseer Apprentice
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Assault 1 When this ally exhausts for the first time each turn, you may pay 1 . If you do, ready her.
+
+cost: '2'
+
+combat: Nature
+
+faction: Horde
+
+temp: Orc Shaman

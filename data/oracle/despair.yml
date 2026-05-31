@@ -1,0 +1,20 @@
+card_name: Despair
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals combat damage with this weapon to a hero, its controller reveals the top three cards of his deck. Add a +1 ATK counter to this weapon for each revealed ally, then put all revealed cards into their owner's graveyard.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '4'
+
+temp: 2H Weapon Sword

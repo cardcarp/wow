@@ -1,0 +1,18 @@
+card_name: Stab in the Dark
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Look at target opponent's hand and choose an ally card. He discards that card.
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Subtlety

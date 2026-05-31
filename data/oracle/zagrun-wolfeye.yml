@@ -1,0 +1,17 @@
+card_name: Zagrun Wolfeye
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'If you control another Shaman: Flip Zagrun → Put a +1 ATK counter on target Melee weapon.'
+
+faction: Horde
+
+temp: Orc Shaman

@@ -1,0 +1,23 @@
+card_name: Kaale
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: 2 , Discard a card → Target ally has +2 ATK this turn.
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Shaman

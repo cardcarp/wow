@@ -1,0 +1,18 @@
+card_name: Frost Trap
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Trap Remove all attackers from combat, and opposing heroes and allies can't attack this turn.
+
+class:
+  - Hunter
+
+cost: '4'
+
+temp: Survival

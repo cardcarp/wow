@@ -1,0 +1,19 @@
+card_name: Emerald Ripper
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has Dual Wield . 3 → Emerald Ripper has +X ATK this turn, where X is its ATK.
+
+class:
+  - Hunter
+  - Rogue
+
+cost: '4'
+
+temp: 1H Weapon Dagger

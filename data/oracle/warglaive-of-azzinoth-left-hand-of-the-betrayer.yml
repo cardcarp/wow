@@ -1,0 +1,19 @@
+card_name: Warglaive of Azzinoth, Left Hand of the Betrayer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has Dual Wield while you have another Warglaive. When Warglaive of Azzinoth leaves play, put a Demon ally token named Flame of Azzinoth into play with 3 ATK / 3 health and Ferocity .
+
+class:
+  - Warrior
+  - Rogue
+
+cost: '4'
+
+temp: 1H Weapon Warglaive Sword

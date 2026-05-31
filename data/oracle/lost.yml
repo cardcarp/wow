@@ -1,0 +1,13 @@
+card_name: Lost!
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'During your turn, pay 3 to complete this quest. Reward : Put a unique Goblin ally token named Ringo into play with 0 ATK, 1 health, and "At the start of your turn, draw a card."'
+
+temp: ''

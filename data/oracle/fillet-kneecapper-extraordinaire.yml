@@ -1,0 +1,17 @@
+card_name: Fillet, Kneecapper Extraordinaire
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 3 , Flip Fillet → Allies you control have +1 ATK this turn.
+
+faction: Alliance
+
+temp: Gnome Warrior

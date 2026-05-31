@@ -1,0 +1,18 @@
+card_name: Exemplars Shield
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +X health, where X is the highest DEF among your armor.'
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection

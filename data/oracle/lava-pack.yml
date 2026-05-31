@@ -1,0 +1,19 @@
+card_name: Lava Pack
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When Lava Pack enters play, put the top card of the Minion deck into play as an ally.
+
+combat: Melee
+
+temp: Elemental Minion

@@ -1,0 +1,17 @@
+card_name: Into the Fray
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target ally in your party has Ferocity this turn.
+
+cost: '1'
+
+faction: Horde
+
+temp: ''

@@ -1,0 +1,23 @@
+card_name: Ossandran, Crematorium Master
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: When an opposing ability, ally, equipment, or resource is destroyed, remove it from the game.
+
+cost: '4'
+
+combat: Nature
+
+faction: Horde
+
+temp: Undead Rogue

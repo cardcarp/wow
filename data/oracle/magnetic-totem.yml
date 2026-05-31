@@ -1,0 +1,26 @@
+card_name: Magnetic Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+damage: 0
+
+health: 4
+
+instant: "When this Totem enters play, you may change a target of target opposing card or effect to this Totem. Ongoing : Opposing cards and effects must target this Totem if able. (Totems can't attack.)"
+
+class:
+  - Shaman
+
+cost: '2'
+
+combat: Nature
+
+temp: Enhancement
+
+type: Ally

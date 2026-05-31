@@ -1,0 +1,23 @@
+card_name: Andiss Butcherson
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: You pay 1 less to strike with each weapon you control.
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

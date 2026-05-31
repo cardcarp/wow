@@ -1,0 +1,21 @@
+card_name: Commander Falstaav
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: 'Argent Crusade Reputation Protector Once per turn: 2 → Target Unique ally has +X ATK this turn, where X is its ATK.'
+
+cost: '4'
+
+combat: Melee
+
+temp: Draenei Paladin

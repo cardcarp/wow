@@ -1,0 +1,21 @@
+card_name: Neophyte Morandi
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: Aldor Reputation If an ally in your party other than Morandi would be dealt damage, it's dealt to Morandi instead.
+
+cost: '3'
+
+combat: Holy
+
+temp: Draenei Paladin

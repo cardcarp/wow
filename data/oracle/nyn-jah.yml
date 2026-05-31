@@ -1,0 +1,23 @@
+card_name: Nyn_jah
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When Nyn'jah enters play, you may ready target opposing equipment. You control that equipment while Nyn'jah remains in your party.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Rogue

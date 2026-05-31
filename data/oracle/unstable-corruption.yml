@@ -1,0 +1,23 @@
+card_name: Unstable Corruption
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: When this ally deals combat damage to an opposing hero, you may put a token copy of this ally into play exhausted.
+
+cost: '3'
+
+combat: Nature
+
+temp: Water Elemental
+
+type: Monster

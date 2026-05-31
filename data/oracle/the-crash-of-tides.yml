@@ -1,0 +1,18 @@
+card_name: The Crash of Tides
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 1 nature damage to target hero or ally and heals 1 damage from a second target hero or ally for each damage dealt this way.
+
+class:
+  - Shaman
+
+cost: '1'
+
+temp: Elemental

@@ -1,0 +1,18 @@
+card_name: Stasis
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target equipment and exhaust it. Ongoing : Attached equipment can't ready during its controller's ready step."
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection

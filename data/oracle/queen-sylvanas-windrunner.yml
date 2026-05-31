@@ -1,0 +1,23 @@
+card_name: Queen Sylvanas Windrunner
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 7
+
+text: Other Undead heroes and allies in your party can't be destroyed.
+
+cost: '9'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Banshee Ranger

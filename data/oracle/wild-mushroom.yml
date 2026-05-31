@@ -1,0 +1,18 @@
+card_name: Wild Mushroom
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : This ability enters play with three fungus counters. At the start of your turn, remove a fungus counter from this ability. If none remain, destroy this ability. If you do, your hero deals 5 nature damage to target hero, plus an additional 5 for each other ability named Wild Mushroom you control.'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Balance

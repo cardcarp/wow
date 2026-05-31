@@ -1,0 +1,19 @@
+card_name: Arisella, Daughter of Cenarius
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 8 → Flip Arisella face down You pay 8 less to flip Arisella if allies you control have 10 or more combined health remaining.
+
+temp: Dryad Druid 27
+
+transform:
+  - id: ability
+    text: "Harmonize Deckbuilding: You can't put or cards in your deck."
+
+type: Monster

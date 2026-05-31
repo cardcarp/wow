@@ -1,0 +1,15 @@
+card_name: Flames of the Incinerator
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target opposing hero or ally, and your hero deals 3 fire damage to it. Ongoing : At the start of your turn, your hero deals 1 fire damage to attached character, or 4 if your hero is Golemagg.'
+
+cost: '2'
+
+temp: Molten Core

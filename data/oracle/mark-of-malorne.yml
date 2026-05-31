@@ -1,0 +1,18 @@
+card_name: Mark of Malorne
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : Attached ally has +2 / +3.'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Restoration Attachment

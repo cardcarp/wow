@@ -1,0 +1,23 @@
+card_name: Nazguk Sharptongue
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 5
+
+text: At the start of your turn, choose a hero or ally in your party. Other characters can't attack this turn. 2 , Destroy another ally in your party → Nazguk has Ferocity this turn.
+
+cost: '5'
+
+combat: Frost
+
+faction: Horde
+
+temp: Orc Shaman

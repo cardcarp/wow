@@ -1,0 +1,17 @@
+card_name: Stromdak of Ironforge
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 'On your turn: 5 , Flip Stromdak → Search your deck for an equipment, reveal it, and put it into your hand.'
+
+faction: Alliance
+
+temp: Dwarf Warrior

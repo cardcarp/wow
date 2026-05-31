@@ -1,0 +1,19 @@
+card_name: The Undeath Carrier
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When a non-Undead ally you control is destroyed, put it into play, and it's also an Undead.
+
+class:
+  - Druid
+  - Hunter
+
+cost: '5'
+
+temp: 2H Weapon Staff

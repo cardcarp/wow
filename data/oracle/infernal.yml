@@ -1,0 +1,24 @@
+card_name: Infernal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: At the start of your turn, discard a card, or target opponent gains control of Infernal. At the end of your turn, Infernal deals 1 fire damage to each opposing hero and ally.
+
+class:
+  - Warlock
+
+cost: '6'
+
+combat: Fire
+
+temp: Infernal Demon

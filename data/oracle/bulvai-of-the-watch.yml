@@ -1,0 +1,21 @@
+card_name: Bulvai of the Watch
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Aldor Reputation Protector If damage would be dealt to your hero, it's dealt to Bulvai instead.
+
+cost: '4'
+
+combat: Melee
+
+temp: Draenei Paladin

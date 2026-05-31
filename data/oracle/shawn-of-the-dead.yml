@@ -1,0 +1,23 @@
+card_name: Shawn of the Dead
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: When Shawn of the Dead attacks, you may put an ally card from target opponent's graveyard into play under your control.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Undead Warrior

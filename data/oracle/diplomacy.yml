@@ -1,0 +1,17 @@
+card_name: Diplomacy
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Human Hero Required Ongoing : You pay 1 less to play allies, to a minimum of 1 .'
+
+cost: '3'
+
+faction: Alliance
+
+temp: ''

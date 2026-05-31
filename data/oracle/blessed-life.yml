@@ -1,0 +1,18 @@
+card_name: Blessed Life
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Holy Hero Required Ongoing : If your hero would be dealt damage, you may put Blessed Life from play into its owner's hand. If you do, prevent that damage."
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Holy Talent

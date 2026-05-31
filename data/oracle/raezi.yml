@@ -1,0 +1,23 @@
+card_name: Raezi
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: Harmonize
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Shaman

@@ -1,0 +1,18 @@
+card_name: Blessing of Faith
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target friendly ally. Ongoing : Attached ally has +1 / +1. 2 , Destroy this ability → Destroy target ability.'
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Holy Blessing

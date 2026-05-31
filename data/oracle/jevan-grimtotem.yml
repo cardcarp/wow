@@ -1,0 +1,23 @@
+card_name: Jevan Grimtotem
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 8
+
+text: "Smash Tribe : When this or another Tauren ally enters play under your control, double Jevan's ATK this turn."
+
+cost: '6'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Shaman

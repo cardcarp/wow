@@ -1,0 +1,23 @@
+card_name: Tinkmaster Overspark
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 6
+
+text: At the start of your turn, you may put an equipment card from your graveyard into play.
+
+cost: '8'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Engineer

@@ -1,0 +1,25 @@
+card_name: Gladiator Zophos
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 6
+
+text: When an Arena ally in your party is dealt damage, it deals 3 unpreventable holy damage to its source.
+
+cost: '8'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Draenei Paladin
+
+type: Arena

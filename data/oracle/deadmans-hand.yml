@@ -1,0 +1,27 @@
+card_name: Deadmans Hand
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Allies you control have Assault 1 while an opponent controls more allies than you.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Ring

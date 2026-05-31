@@ -1,0 +1,23 @@
+card_name: Prince Malchezaar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 7
+
+text: At the start of your turn, reveal the top card of your deck. If its cost is odd, you may play it without paying its cost. Otherwise, put a 6 / 6 Infernal Demon Monster ally token into play.
+
+cost: '6'
+
+combat: Melee
+
+temp: Eredar Demon
+
+type: Monster

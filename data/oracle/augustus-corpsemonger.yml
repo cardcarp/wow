@@ -1,0 +1,23 @@
+card_name: Augustus Corpsemonger
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: ', Remove three ally cards in your graveyard from the game → Destroy target ally.'
+
+cost: '5'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Warlock

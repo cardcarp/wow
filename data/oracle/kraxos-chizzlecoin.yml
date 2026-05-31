@@ -1,0 +1,23 @@
+card_name: Kraxos Chizzlecoin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: 'Assault 3 Stash : Add an heirloom counter to target equipment you control.'
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Goblin Death Knight

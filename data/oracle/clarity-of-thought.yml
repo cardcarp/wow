@@ -1,0 +1,18 @@
+card_name: Clarity of Thought
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : → Draw a card. Use only if your hero has no damage on it.'
+
+class:
+  - Priest
+
+cost: '4'
+
+temp: Holy

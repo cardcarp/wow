@@ -1,0 +1,58 @@
+name: Horde Druid
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Horde
+  - Starter
+  - '2011'
+
+collection: '2011'
+
+highlight: starter-2011-horde-druid-001
+
+description: 2011 Horde Druid Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2011 Horde Druid
+
+total: 61
+
+list:
+  hero:
+    starter-2011-horde-druid-001: 1  # Kamu of Thunder Bluff
+  main:
+    starter-2011-horde-druid-002: 1  # Brutal Bear Form
+    starter-2011-horde-druid-003: 1 # Celestial Moonfire
+    starter-2011-horde-druid-004: 1 # Earth and Moon
+    starter-2011-horde-druid-005: 2 # Earth Mothers Blessing
+    starter-2011-horde-druid-006: 2 # Entangling Roots
+    starter-2011-horde-druid-007: 2 # Mark of the Wild
+    starter-2011-horde-druid-008: 2 # Natural Selection
+    starter-2011-horde-druid-009: 1 # Rebirth
+    starter-2011-horde-druid-010: 1 # Starfire
+    starter-2011-horde-druid-011: 2 # Tears of Aessina
+    starter-2011-horde-druid-012: 3 # Wrath
+    starter-2011-horde-druid-013: 2 # Besora Galefeather
+    starter-2011-horde-druid-014: 2 # Burom Bladeseer
+    starter-2011-horde-druid-015: 2 # Forager Cloudbloom
+    starter-2011-horde-druid-016: 2 # Ka_tali Stonetusk
+    starter-2011-horde-druid-017: 2 # Kirga Earthguard
+    starter-2011-horde-druid-018: 2 # Kistix Shockvat
+    starter-2011-horde-druid-019: 2 # Nikka Blastbor
+    starter-2011-horde-druid-020: 2 # Oruk Starstorm
+    starter-2011-horde-druid-021: 1 # Vala Carville
+    starter-2011-horde-druid-022: 2 # Valytha Colton
+    starter-2011-horde-druid-023: 1 # Vanda Skydaughter
+    starter-2011-horde-druid-024: 2 # Voss Treebender
+    starter-2011-horde-druid-025: 2 # Yazli Earthspark
+    starter-2011-horde-druid-026: 1 # Hersirs Greatspear
+    starter-2011-horde-druid-027: 3 # A Bird in Hand
+    starter-2011-horde-druid-028: 1 # Blueleaf Tubers
+    starter-2011-horde-druid-029: 3 # Entrenched
+    starter-2011-horde-druid-030: 4 # The Essence of Enmity
+    starter-2011-horde-druid-031: 4 # The Key to Freedom
+    starter-2011-horde-druid-032: 2 # Mystery Goo

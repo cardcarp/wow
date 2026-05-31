@@ -1,0 +1,23 @@
+card_name: Farseer Horgath
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: 'Bloodrush : At the start of your turn, if an opposing hero has more damage on it than your hero, you may put this ally from your graveyard into your hand.'
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Orc Shaman

@@ -1,0 +1,13 @@
+card_name: Potential Energy Source
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'Pay 2 to complete this quest. Reward : You pay 4 less to complete your next quest this turn.'
+
+temp: ''

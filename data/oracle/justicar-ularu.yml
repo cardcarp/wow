@@ -1,0 +1,23 @@
+card_name: Justicar Ularu
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: When this ally enters combat for the first time on each of your turns, ready him if a Priest is defending.
+
+cost: '5'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Draenei Shaman

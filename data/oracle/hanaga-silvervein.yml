@@ -1,0 +1,23 @@
+card_name: Hanaga Silvervein
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: Elusive Your hero has +5 health.
+
+cost: '2'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Dwarf Priest

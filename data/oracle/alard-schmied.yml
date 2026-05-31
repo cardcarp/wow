@@ -1,0 +1,21 @@
+card_name: Alard Schmied
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: This ally has +X , where X is the combined of Plate armor you control.
+
+cost: '4'
+
+combat: Fire
+
+temp: Human Blacksmithing Master

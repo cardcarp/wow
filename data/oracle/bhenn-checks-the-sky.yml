@@ -1,0 +1,23 @@
+card_name: Bhenn Checks-the-Sky
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+instant: When this ally enters play, you may exhaust target ally.
+
+cost: '2'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

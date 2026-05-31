@@ -1,0 +1,21 @@
+card_name: The Betrayer
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: The Betrayer has +10 ATK while attacking. → The Betrayer heals 15 damage from itself. At the end of your turn, flip The Betrayer.
+
+temp: Night Elf Demon Demonhunter Traitor 50
+
+transform:
+  - id: ability
+    text: The Betrayer has +10 ATK while attacking. → The Betrayer deals 3 shadow damage to each opposing hero and ally. At the end of your turn, flip The Betrayer.
+
+type: Boss
+
+stage: 9

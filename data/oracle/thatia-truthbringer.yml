@@ -1,0 +1,17 @@
+card_name: Thatia Truthbringer
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: '4 , Flip Tathia Truthbringer → Choose one: Thatia heals 4 damage from target hero or ally; or prevent the next 4 damage that would be dealt to target hero or ally this turn.'
+
+faction: Alliance
+
+temp: Human Paladin

@@ -1,0 +1,23 @@
+card_name: Alana the Woebringer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 8
+
+text: At the start of your turn, remove the top half of target opponent's deck from the game, rounded up.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Priest

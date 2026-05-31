@@ -1,0 +1,23 @@
+card_name: Wilba
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When a Spider in your party deals combat damage to an ally, destroy that ally. 3 → Put a unique Spider ally token named Charlotte with 1 ATK and 1 health into play.
+
+cost: '4'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Dwarf Hunter

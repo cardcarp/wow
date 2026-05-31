@@ -1,0 +1,23 @@
+card_name: Maxie the Blaster
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Time is Money → The next time target hero or ally you control would deal arcane damage this turn, it deals that much +2 instead.
+
+cost: '3'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Goblin Mage

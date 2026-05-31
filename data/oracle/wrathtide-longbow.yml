@@ -1,0 +1,18 @@
+card_name: Wrathtide Longbow
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with Wrathtide Longbow, your hero has Long-Range this combat. When an opposing ally enters play, your hero deals 1 ranged damage to it.
+
+class:
+  - Hunter
+
+cost: '5'
+
+temp: Ranged Weapon Bow

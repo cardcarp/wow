@@ -1,0 +1,23 @@
+card_name: Kiani De_nara
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 5
+
+text: You may destroy four of your resources rather than pay Kiani De'nara's cost.
+
+cost: '7'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Paladin

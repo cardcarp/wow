@@ -1,0 +1,13 @@
+card_name: Firelands
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: "On your turn, if a hero or ally you controlled dealt fire ( ) damage this turn: 2 , → Put a 2 / 1 Fire Elemental ally token into play. When a Fire Elemental enters play under your control, remove the top two cards of target player's deck from the game."
+
+temp: ''

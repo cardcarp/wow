@@ -1,0 +1,18 @@
+card_name: Icy Impediment
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : Each opposing equipment can't exhaust unless its controller pays 1 ."
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Frost

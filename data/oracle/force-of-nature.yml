@@ -1,0 +1,18 @@
+card_name: Force of Nature
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Balance Hero Required Put three Treant ally tokens with 1 ATK, 1 health, and Ferocity into play.
+
+class:
+  - Druid
+
+cost: '4'
+
+temp: Balance Talent

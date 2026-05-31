@@ -1,0 +1,23 @@
+card_name: Ja_zoona
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: Opponents pay 1 more to complete quests.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Rogue

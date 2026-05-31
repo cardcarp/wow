@@ -1,0 +1,21 @@
+card_name: Caelestrasz
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Allies you control have +1 / +1 for each Red Dragonkin you control.
+
+cost: '5'
+
+combat: Fire
+
+temp: Red Dragonkin

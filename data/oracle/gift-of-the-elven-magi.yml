@@ -1,0 +1,22 @@
+card_name: Gift of the Elven Magi
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , , Exhaust your hero → Look at the top card of your deck. If it's an ability card, you may reveal it and put it into your hand.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: 1H Weapon Dagger

@@ -1,0 +1,23 @@
+card_name: Aessina
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 5
+
+text: Elusive Other friendly Monster heroes and allies have +10 .
+
+cost: '7'
+
+combat: Nature
+
+temp: Spirit
+
+type: Monster

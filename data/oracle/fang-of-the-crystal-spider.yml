@@ -1,0 +1,21 @@
+card_name: Fang of the Crystal Spider
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals combat damage to a hero, that hero's controller can't play cards or strike with weapons this turn.
+
+class:
+  - Warrior
+  - Shaman
+  - Hunter
+  - Rogue
+
+cost: '2'
+
+temp: 1H Weapon Dagger

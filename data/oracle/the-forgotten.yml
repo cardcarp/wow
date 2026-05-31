@@ -1,0 +1,19 @@
+card_name: The Forgotten
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 8 → Flip The Forgotten face down. You pay 8 less to flip The Forgotten if you control an ability, an ally, and an equipment.
+
+temp: Tol'vir Paladin 29
+
+transform:
+  - id: ability
+    text: "When The Forgotten deals combat damage to an opposing hero, he heals that much damage from himself. Deckbuilding: You can't put or cards in your deck."
+
+type: Monster

@@ -1,0 +1,19 @@
+card_name: Wall of Terror
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor enters play, put each other ability, ally, and equipment into it's owner's hand.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '6'
+
+temp: Armor Shield

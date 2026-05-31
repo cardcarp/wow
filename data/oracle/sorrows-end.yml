@@ -1,0 +1,20 @@
+card_name: Sorrows End
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Play with the top card of your deck revealed. While a card with cost 3 or more is revealed this way, this weapon has +3 ATK. While a card with cost 3 or less is revealed this way, you pay 3 less to strike with this weapon.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '4'
+
+temp: 2H Weapon Mace

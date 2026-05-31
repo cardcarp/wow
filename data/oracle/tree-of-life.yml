@@ -1,0 +1,18 @@
+card_name: Tree of Life
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Restoration Hero Required Ongoing : You pay 1 less to play Restoration abilities, to a minimum of 1 . If damage would be healed from a friendly hero or ally, that much damage +1 is healed. When you play a non-Restoration ability, destroy Tree of Life.'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Restoration Talent

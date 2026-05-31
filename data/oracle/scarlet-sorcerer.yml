@@ -1,0 +1,21 @@
+card_name: Scarlet Sorcerer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: When this ally enters play, he deals 2 frost damage to each Raiding ally.
+
+combat: Frost
+
+temp: Human Sorcerer
+
+type: Dungeon

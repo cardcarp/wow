@@ -1,0 +1,23 @@
+card_name: Hoxie Mettlemelt
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: At the start of your turn, Hoxie deals 2 fire damage to target opposing hero or ally for each ally in your party.
+
+cost: '5'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Gnome Mage

@@ -1,0 +1,23 @@
+card_name: Zealot Kalinov
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: While this ally is in your graveyard, your hero has Mend 1 .
+
+cost: '2'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Priest

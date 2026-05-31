@@ -1,0 +1,20 @@
+card_name: Cerith Spire Staff
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If your hero would deal any type of damage, it deals frost damage instead. At the end of your turn, your hero deals 10 frost damage to target opposing hero that was dealt 10 or more frost ( ) damage this turn.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: 2H Weapon Staff

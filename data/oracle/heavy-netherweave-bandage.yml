@@ -1,0 +1,26 @@
+card_name: Heavy Netherweave Bandage
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , Put Heavy Netherweave Bandage on the bottom of its owner's deck → Your hero heals 6 damage from target hero or ally. Use only on your turn.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Bandage

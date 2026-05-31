@@ -1,0 +1,18 @@
+card_name: Earthen Flurry
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target a hero or ally, and you may target an additional character for each Totem you control. Your hero deals 4 melee damage to each target.
+
+class:
+  - Shaman
+
+cost: '5'
+
+temp: Enhancement

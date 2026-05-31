@@ -1,0 +1,18 @@
+card_name: Cheat Death
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Subtlety Hero Required Remove your hero from the game. As your next turn starts, put it into play flipped the same way and with the same damage. (You can't play cards while your hero is removed.)
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Subtlety Talent

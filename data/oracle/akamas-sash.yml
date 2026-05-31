@@ -1,0 +1,20 @@
+card_name: Akamas Sash
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Loyal Hero Required If your hero would deal damage with an ability, it deals that much unpreventable damage +1 instead. When an ally is destroyed by fatal damage dealt with an ability you control, remove that ally from the game.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '4'
+
+temp: Armor Cloth

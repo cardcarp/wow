@@ -1,0 +1,27 @@
+card_name: Bottled Mind
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'When this item enters play, target opponent discards a card. On your turn: Exhaust a Priest hero or ally you control and destroy this item → Target opponent discards a card.'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item Potion

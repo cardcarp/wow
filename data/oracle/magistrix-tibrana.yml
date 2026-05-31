@@ -1,0 +1,21 @@
+card_name: Magistrix Tibrana
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: 'Scryer Reputation Sabotage: Attached Ability When Tibrana sabotages an ability, gain control of it. You may attach it to another hero or ally.'
+
+cost: '3'
+
+combat: Arcane
+
+temp: Blood Elf Mage

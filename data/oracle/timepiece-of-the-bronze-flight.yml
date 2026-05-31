@@ -1,0 +1,18 @@
+card_name: Timepiece of the Bronze Flight
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When this armor enters play, your hero deals unpreventable holy damage to target ally equal to the combined of this and other armor you control.
+
+class:
+  - Paladin
+
+cost: '5'
+
+temp: Armor Shield

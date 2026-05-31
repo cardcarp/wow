@@ -1,0 +1,23 @@
+card_name: Porto
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Protector Friendly Totems are Untargetable .
+
+cost: '2'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

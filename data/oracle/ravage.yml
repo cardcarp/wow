@@ -1,0 +1,18 @@
+card_name: Ravage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 2 melee damage to target ally, or 4 if you control a Form.
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Feral Combo

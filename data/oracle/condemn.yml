@@ -1,0 +1,18 @@
+card_name: Condemn
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Destroy target ally that's attacking an ally you control.
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Retribution

@@ -1,0 +1,23 @@
+card_name: Vile Watcher
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: When this ally enters play, you may look at the top card of each opponent's deck.
+
+cost: '5'
+
+combat: Shadow
+
+temp: Floating Eye Demon
+
+type: Monster

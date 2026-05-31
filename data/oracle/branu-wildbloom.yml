@@ -1,0 +1,23 @@
+card_name: Branu Wildbloom
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: When Branu Wildbloom enters play, put the top card of your deck into your resource row face down and exhausted.
+
+cost: '5'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Druid

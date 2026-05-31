@@ -1,0 +1,24 @@
+card_name: Shadow Silhouettes
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: At the end of your turn, remove 6 damage from your hero and put 1 damage on Shadow Silhouettes for each damage removed this way.
+
+class:
+  - Priest
+
+cost: '4'
+
+combat: Shadow
+
+temp: Shadow Silhouette

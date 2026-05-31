@@ -1,0 +1,23 @@
+card_name: Sister Rot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 2
+
+text: When this ally enters play, you may destroy target ability.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Priest

@@ -1,0 +1,18 @@
+card_name: Hymn of Hope
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero heals 3 damage from each friendly hero and ally. For each character healed this way, ready a resource you control.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Holy

@@ -1,0 +1,23 @@
+card_name: Drandus the Deathcaller
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Protector Ghouls you control have Assault 2 .
+
+cost: '2'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Blood Elf Death Knight

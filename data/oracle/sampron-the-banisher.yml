@@ -1,0 +1,23 @@
+card_name: Sampron the Banisher
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: → Remove target opposing ally from the game. When Sampron leaves play, the owner of each card removed this way puts that card into play.
+
+cost: '2'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Warlock

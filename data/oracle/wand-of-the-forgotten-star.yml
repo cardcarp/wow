@@ -1,0 +1,20 @@
+card_name: Wand of the Forgotten Star
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When combat damage is dealt with this weapon to a hero, that hero's controller puts that many cards from the top of his deck into his graveyard.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '1'
+
+temp: Ranged Weapon Wand

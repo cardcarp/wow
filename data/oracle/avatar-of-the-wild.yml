@@ -1,0 +1,19 @@
+card_name: Avatar of the Wild
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put an X / X Tiger ally token into play with Ferocity .
+
+class:
+  - Druid
+  - Hunter
+
+cost: X
+
+temp: Feral Beast Mastery

@@ -1,0 +1,23 @@
+card_name: Volatile Terrorfiend
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: When an ally you control is destroyed for the first time on each of your turns, this ally has +3 ATK and Smash this turn.
+
+cost: '4'
+
+combat: Fire
+
+temp: Terrorguard Demon
+
+type: Monster

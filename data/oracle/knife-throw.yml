@@ -1,0 +1,18 @@
+card_name: Knife Throw
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target Dagger you control has +4 ATK and Thrown this turn. (When you strike with that weapon, it has Long-Range this combat. At the end of this turn, put that weapon into its owner's hand.)
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Assassination

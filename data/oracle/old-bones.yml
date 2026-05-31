@@ -1,0 +1,24 @@
+card_name: Old Bones
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: This ally can protect your hero.
+
+class:
+  - Hunter
+
+cost: '4'
+
+combat: Melee
+
+temp: Bear

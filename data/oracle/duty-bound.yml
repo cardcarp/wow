@@ -1,0 +1,18 @@
+card_name: Duty Bound
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Your hero is a Protector . When your hero protects, ready it.'
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Protection

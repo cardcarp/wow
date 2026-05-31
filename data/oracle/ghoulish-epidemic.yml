@@ -1,0 +1,18 @@
+card_name: Ghoulish Epidemic
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: When a non-token ally is destroyed this turn, put a 3 / 3 Ghoul ally token into play.
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Unholy

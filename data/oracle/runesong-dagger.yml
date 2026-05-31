@@ -1,0 +1,22 @@
+card_name: Runesong Dagger
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you draw a card, put a verse counter on Runesong Dagger. 1 , Remove three verse counters → Your hero deals 3 arcane damage to target ally.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: 1H Weapon Dagger

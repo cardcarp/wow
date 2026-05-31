@@ -1,0 +1,23 @@
+card_name: Jadefire Rogue
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: While an opposing hero has 15 or more damage on it, opposing allies can't protect and lose and can't have Elusive .
+
+cost: '4'
+
+combat: Shadow
+
+temp: Satyr Demon Rogue
+
+type: Monster

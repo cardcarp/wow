@@ -1,0 +1,23 @@
+card_name: Justicar Andaer Ragepaw
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 7
+
+text: This ally can protect against Death Knights. When an opposing Death Knight attacks, you may ready this ally.
+
+cost: '7'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Night Elf Druid

@@ -1,0 +1,21 @@
+card_name: Earthseer Nakza
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 4 → Flip Nazka face down.
+
+faction: Horde
+
+temp: Goblin Shaman
+
+transform:
+  - id: ability
+    text: At the start of your turn, Nakza may heal all damage from target ally you control.

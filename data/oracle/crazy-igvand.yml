@@ -1,0 +1,23 @@
+card_name: Crazy Igvand
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 6
+
+text: Protector
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Warrior

@@ -1,0 +1,20 @@
+card_name: Belt of Absolute Zero
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Weapons you control have +1 ATK.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '3'
+
+temp: Armor Plate

@@ -1,0 +1,23 @@
+card_name: Vanora Moonshot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 6
+
+text: At the start of your turn, target ally has Assault 3 this turn.
+
+cost: '6'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Night Elf Hunter

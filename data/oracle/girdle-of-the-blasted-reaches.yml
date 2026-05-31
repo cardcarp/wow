@@ -1,0 +1,19 @@
+card_name: Girdle of the Blasted Reaches
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When Girdle of the Blasted Reaches enters play, look at the top card of your deck. You may put it on the bottom.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '2'
+
+temp: Armor Mail

@@ -1,0 +1,18 @@
+card_name: Natural Conduit
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 3 nature damage to target ally and heals 3 damage from itself.
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Elemental

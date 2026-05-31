@@ -1,0 +1,18 @@
+card_name: Aimed Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Marksmanship Hero Required Your hero deals X ranged damage to target hero or ally.
+
+class:
+  - Hunter
+
+cost: 1+X
+
+temp: Marksmanship Talent

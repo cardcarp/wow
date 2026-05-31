@@ -1,0 +1,21 @@
+card_name: Cameo of Terrible Memories
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the end of each player's turn, he discards his hand and draws seven cards. If a player would draw from an empty deck, he shuffles his graveyard into his deck, then draws a card instead.
+
+class:
+  - Druid
+  - Shaman
+  - Hunter
+  - Rogue
+
+cost: '6'
+
+temp: Item Neck

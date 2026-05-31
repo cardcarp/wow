@@ -1,0 +1,13 @@
+card_name: _That Reminds Me ..._
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Search your deck for a card with reminder text, reveal it, and put it into hand. (This is reminder text.)
+
+temp: ''

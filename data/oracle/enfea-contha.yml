@@ -1,0 +1,23 @@
+card_name: Enfea Contha
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: → Enfea Contha heals all damage from target friendly ally, then deals that much nature damage to target opposing ally.
+
+cost: '5'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

@@ -1,0 +1,18 @@
+card_name: Savage Combat
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Combat Talent This turn, when your hero deals combat damage to a hero, it also deals that much melee damage to each opposing ally.
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Combat

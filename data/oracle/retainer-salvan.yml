@@ -1,0 +1,21 @@
+card_name: Retainer Salvan
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: "Scryer Reputation Sabotage: Armor When Salvan sabotages a player's armor, exhaust all of that player's armor."
+
+cost: '1'
+
+combat: Melee
+
+temp: Blood Elf Rogue

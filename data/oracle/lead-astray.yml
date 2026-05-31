@@ -1,0 +1,18 @@
+card_name: Lead Astray
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Exhaust target hero or ally. It can't ready during its controller's next ready step. Its controller discards a card.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Subtlety Combo

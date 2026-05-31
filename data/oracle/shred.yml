@@ -1,0 +1,18 @@
+card_name: Shred
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : When Shred enters play, your hero may deal 2 melee damage to target exhausted hero or ally. Your hero is in Cat Form .'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Feral

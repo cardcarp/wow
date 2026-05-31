@@ -1,0 +1,18 @@
+card_name: Infusion of Earth
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally or weapon you control. Ongoing : Attached card has Assault 3 .'
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Enhancement

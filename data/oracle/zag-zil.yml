@@ -1,0 +1,17 @@
+card_name: Zag_zil
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: x , Flip Zag'zil → Destroy target weapon with cost X. Use only on your turn.
+
+faction: Horde
+
+temp: Troll Rogue

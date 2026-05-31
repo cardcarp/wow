@@ -1,0 +1,18 @@
+card_name: Binding Heal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero heals 5 damage from itself and 5 damage from a second target hero or ally.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Holy

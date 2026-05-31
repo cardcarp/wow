@@ -1,0 +1,20 @@
+card_name: Mask of Death
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , , Destroy this armor → Target ally and all other opposing allies with the same name as that ally have - equal to this armor's this turn.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '2'
+
+temp: Armor Plate

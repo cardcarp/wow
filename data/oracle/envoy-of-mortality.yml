@@ -1,0 +1,18 @@
+card_name: Envoy of Mortality
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with this weapon, your hero has Long-Range this combat. When your hero deals damage with this weapon, it also deals that much ranged damage to target friendly hero or ally.
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Ranged Weapon Gun

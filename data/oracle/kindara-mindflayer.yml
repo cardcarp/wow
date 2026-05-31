@@ -1,0 +1,23 @@
+card_name: Kindara Mindflayer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Kindara has +2 ATK / +2 health while an opposing hero is face up.
+
+cost: '4'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Draenai Priest

@@ -1,0 +1,18 @@
+card_name: Prayer of Mending
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Attach to target friendly ally. Ongoing : At the start of your turn, your hero heals 3 damage from attached ally. When attached ally is destroyed, put Prayer of Mending from its owner's graveyard into play attached to target friendly ally."
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Holy

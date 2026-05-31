@@ -1,0 +1,18 @@
+card_name: Bleed
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target hero or ally. Ongoing : At the start of your turn, destroy Bleed if attached character is undamaged. Otherwise, your hero deals 2 melee damage to it.'
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Arms

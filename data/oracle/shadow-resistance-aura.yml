@@ -1,0 +1,18 @@
+card_name: Shadow Resistance Aura
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Friendly allies have Shadow Resistance while ready.'
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Protection

@@ -1,0 +1,18 @@
+card_name: Curse of Doom
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target opposing ally. Ongoing : At the start of your turn, destroy attached ally. If you do, reveal the top X cards of your deck, where X is the number of resources you control. Put a revealed Demon with cost X or less into play and shuffle the rest into your deck.'
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Affliction Curse

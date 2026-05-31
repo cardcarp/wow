@@ -1,0 +1,18 @@
+card_name: Intuition
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Remove target attacker from combat. You may ready it.
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Combat

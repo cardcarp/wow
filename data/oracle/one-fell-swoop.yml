@@ -1,0 +1,15 @@
+card_name: One Fell Swoop
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Play only if fifteen or more Bloods are in play. As an additional cost to play, exhaust Magtheridon. One Fell Swoop can't be interrupted. Magtheridon deals 30 melee damage to each opposing hero and ally.
+
+cost: '6'
+
+temp: ''

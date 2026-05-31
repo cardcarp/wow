@@ -1,0 +1,18 @@
+card_name: Obsidium Executioner
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '5'
+
+temp: 2H Weapon Sword

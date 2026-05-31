@@ -1,0 +1,18 @@
+card_name: Faithful Dispel
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy target ability. Draw a card.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Holy

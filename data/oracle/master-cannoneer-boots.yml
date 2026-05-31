@@ -1,0 +1,19 @@
+card_name: Master Cannoneer Boots
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , Destroy Master Cannoneer Boots → Your hero deals 2 melee damage to target hero or ally.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '3'
+
+temp: Armor Plate

@@ -1,0 +1,15 @@
+card_name: Gnomeregan
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: Gnome Hero Required Gnomes in your party are irradiated . (When this character deals combat damage to an ally that's not irradiated, it becomes irradiated.) → Destroy target irradiated ally.
+
+faction: Alliance
+
+temp: City

@@ -1,0 +1,13 @@
+card_name: Protect the Master
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: "Ongoing : Each deck is also an ally with Protector and 0 ATK / X health, where X is the number of cards in that deck. When a deck is dealt damage, put that many of its cards into its owner's graveyard, then remove that much damage from it. A deck can't leave its owner's party."
+
+temp: ''

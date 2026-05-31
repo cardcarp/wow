@@ -1,0 +1,20 @@
+card_name: Blue Diamond Witchwand
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When an opponent discards a card, put a +1 ATK counter on Blue Diamond Witchwand. When damage is dealt with Blue Diamond Witchwand, remove all +1 ATK counters from it.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '1'
+
+temp: Ranged Weapon Wand

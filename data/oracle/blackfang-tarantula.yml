@@ -1,0 +1,23 @@
+card_name: Blackfang Tarantula
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Monster Hero Required Elusive Stealth
+
+cost: '1'
+
+combat: Nature
+
+temp: Spider Beast
+
+type: Monster

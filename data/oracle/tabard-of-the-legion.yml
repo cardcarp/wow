@@ -1,0 +1,27 @@
+card_name: Tabard of the Legion
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 3 , → Look at the top card of your deck. You may put that card on the bottom of your deck. You pay 1 less to use this power for each Demon ally you control.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item Tabard

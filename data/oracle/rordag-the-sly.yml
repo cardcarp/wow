@@ -1,0 +1,17 @@
+card_name: Rordag the Sly
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: "If you control another Rogue: Flip Rordag → Target hero or ally can't ready during its controller's next ready step."
+
+faction: Alliance
+
+temp: Dwarf Rogue

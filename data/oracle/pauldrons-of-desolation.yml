@@ -1,0 +1,19 @@
+card_name: Pauldrons of Desolation
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with a weapon, target ally in your party has Long-Range this turn.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '4'
+
+temp: Armor Mail

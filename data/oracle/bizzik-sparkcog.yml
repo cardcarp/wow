@@ -1,0 +1,23 @@
+card_name: Bizzik Sparkcog
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: ', Destroy an ally in your party → Draw a card.'
+
+cost: '4'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Gnome Warlock

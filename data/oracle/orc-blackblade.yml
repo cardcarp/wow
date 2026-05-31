@@ -1,0 +1,23 @@
+card_name: Orc Blackblade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: 'Bloodrush : When this ally enters play, if an opposing hero has more damage on it than your hero, target opponent chooses and discards a card.'
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Rogue

@@ -1,0 +1,21 @@
+card_name: Vindicator Kentho
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Aldor Reputation Destroy Kentho → Interrupt target card or effect targeting a card in play you control.
+
+cost: '2'
+
+combat: Melee
+
+temp: Draenei Warrior

@@ -1,0 +1,18 @@
+card_name: Ritual of Souls
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Play only if two or more allies are in your party. Ongoing : Ritual of Souls enters play with four spirit counters. , Remove a spirit counter → Your hero heals 3 damage from target hero or ally. If no counters remain, destroy Ritual of Souls.'
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Demonology

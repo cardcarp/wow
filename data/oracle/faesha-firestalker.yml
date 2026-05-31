@@ -1,0 +1,23 @@
+card_name: Faesha Firestalker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Destroy one of your resources → Faesha Firestalker has Long-Range this turn.
+
+cost: '1'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Blood Elf Hunter

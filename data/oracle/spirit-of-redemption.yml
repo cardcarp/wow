@@ -1,0 +1,20 @@
+card_name: Spirit of Redemption
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+instant: Holy Hero Required You pay 1 less to play Spirit of Redemption for each damage on your hero. Spirit of Redemption can't be destroyed while you control an ally.
+
+class:
+  - Priest
+
+cost: '25'
+
+temp: Spirit Holy Talent
+
+type: Master

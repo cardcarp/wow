@@ -1,0 +1,23 @@
+card_name: Eskhandars Collar
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has +1 ATK while in combat with an opposing hero. Opposing heroes have -1 ATK while in combat with your hero.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+cost: '2'
+
+temp: Item Neck

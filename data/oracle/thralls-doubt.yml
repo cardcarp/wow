@@ -1,0 +1,15 @@
+card_name: Thralls Doubt
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : On your turn: Exhaust an Aspect of Thrall ability you control → Draw a card, then discard a card.'
+
+cost: '4'
+
+temp: Aspect of Thrall

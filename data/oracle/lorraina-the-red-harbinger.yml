@@ -1,0 +1,23 @@
+card_name: Lorraina the Red Harbinger
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: When this ally enters combat, she may deal 2 ranged damage to target attacker or defender. When this ally deals damage to a hero or ally, you may ready a resource you control.
+
+cost: '5'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Blood Elf Hunter

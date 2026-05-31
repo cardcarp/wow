@@ -1,0 +1,24 @@
+card_name: Maazhum
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When this ally enters play, he deals 3 shadow damage to target hero and heals 3 damage from your hero.
+
+class:
+  - Warlock
+
+cost: '3'
+
+combat: Shadow
+
+temp: Felhunter Demon

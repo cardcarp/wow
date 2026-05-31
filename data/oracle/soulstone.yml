@@ -1,0 +1,18 @@
+card_name: Soulstone
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : When attached ally is destroyed, its owner may put it from his graveyard into play.'
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Demonology

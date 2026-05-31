@@ -1,0 +1,23 @@
+card_name: Zarim Redskull
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: "Bloodrush : When this ally enters play, if an opposing hero has more damage than your hero, exhaust target opposing ally. It can't ready during its controller's next ready step."
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Rogue

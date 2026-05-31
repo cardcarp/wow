@@ -1,0 +1,22 @@
+card_name: Discerning Eye of the Beast
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: "2 , Put this equipment into its owner's hand → Draw a card. Stash : Add an heirloom counter to target equipment you control."
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: Item Trinket

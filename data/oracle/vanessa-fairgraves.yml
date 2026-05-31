@@ -1,0 +1,23 @@
+card_name: Vanessa Fairgraves
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When Vanessa is destroyed, put a Ghoul ally token into play with 3 ATK / 3 health.
+
+cost: '3'
+
+combat: Frost
+
+faction: Horde
+
+temp: Undead Death Knight

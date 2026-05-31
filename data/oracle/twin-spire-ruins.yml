@@ -1,0 +1,13 @@
+card_name: Twin Spire Ruins
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: 'When an opposing ally is destroyed, add a capture counter. On your turn: 2 , , Remove two capture counters → Put an ally card with cost 2 or less from your graveyard into play.'
+
+temp: Objective

@@ -1,0 +1,15 @@
+card_name: Faithful Prayer
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : When a Priest ally enters play under your control or a friendly player's control, it heals 1 damage from each friendly hero and ally."
+
+cost: '1'
+
+temp: ''

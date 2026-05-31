@@ -1,0 +1,19 @@
+card_name: Spinal Reaper
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When your hero deals fatal combat damage with Spinal Reaper, draw a card.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '5'
+
+temp: 2H Weapon Axe

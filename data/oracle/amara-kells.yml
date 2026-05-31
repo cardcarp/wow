@@ -1,0 +1,23 @@
+card_name: Amara Kells
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this ally enters play, she deals 2 arcane damage to target hero.
+
+cost: '2'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Undead Mage

@@ -1,0 +1,23 @@
+card_name: Nozdormu the Timeless
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+damage: 1
+
+health: 35
+
+text: You may pay up to x less to play Nozdormu, where X is the combined cost of cards you control. When your hero becomes Nozdormu, if you control no ready resources, target player skips his next turn.
+
+cost: '25'
+
+combat: Melee
+
+temp: Bronze Dragonkin Aspect
+
+type: Master

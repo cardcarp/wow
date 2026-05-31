@@ -1,0 +1,18 @@
+card_name: Judgement Legplates
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play a ability, you may pay 1 . If you do, prevent all damage that would be dealt to and dealt by target friendly ally this turn.
+
+class:
+  - Paladin
+
+cost: '4'
+
+temp: Armor Plate

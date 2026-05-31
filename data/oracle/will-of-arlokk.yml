@@ -1,0 +1,20 @@
+card_name: Will of Arlokk
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When Will of Arlokk enters play, your hero heals 3 damage from target hero or ally. 1 , Destroy Will of Arlokk → Your hero heals 3 damage from target hero or ally.
+
+class:
+  - Druid
+  - Priest
+  - Shaman
+
+cost: '1'
+
+temp: 2H Weapon Staff

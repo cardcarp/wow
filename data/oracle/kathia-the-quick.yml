@@ -1,0 +1,23 @@
+card_name: Kathia the Quick
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: When Kathia becomes exhausted, she deals 1 ranged damage to target hero or ally.
+
+cost: '2'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Night Elf Hunter

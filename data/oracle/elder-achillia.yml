@@ -1,0 +1,23 @@
+card_name: Elder Achillia
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: Inspiring Presence
+
+cost: '2'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Draenei Mage

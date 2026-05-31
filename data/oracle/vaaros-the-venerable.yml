@@ -1,0 +1,17 @@
+card_name: Vaaros the Venerable
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 3 , Flip Vaaros → Target ally has +3 ATK this turn.
+
+faction: Alliance
+
+temp: Draenei Shaman

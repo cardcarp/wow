@@ -1,0 +1,18 @@
+card_name: Reverse Polarity
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Interrupt target ability.
+
+class:
+  - Mage
+
+cost: '1'
+
+temp: Arcane

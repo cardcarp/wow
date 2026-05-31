@@ -1,0 +1,18 @@
+card_name: Magma Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : At the start of your turn, Magma Totem deals 1 fire damage to each opposing hero and ally. (Totems can be attacked or targeted like allies.)'
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Elemental 1

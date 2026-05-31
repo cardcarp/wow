@@ -1,0 +1,21 @@
+card_name: Clockwork Rocket Bot
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 2
+
+text: When this ally enters play, target another random hero or ally. This ally and that targeted character deal melee damage to each other equal to their respective ATK.
+
+cost: '3'
+
+combat: Melee
+
+temp: Mechanical

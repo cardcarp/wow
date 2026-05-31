@@ -1,0 +1,17 @@
+card_name: Rumi of Gnomeregan
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 'On your turn: 4 , Flip Rumi → Rumi deals 2 fire damage to target hero and 2 fire damage to up to one target ally.'
+
+faction: Alliance
+
+temp: Gnome Mage

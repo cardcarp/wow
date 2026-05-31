@@ -1,0 +1,23 @@
+card_name: Talaan Solaras
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: 'Stash : Your hero deals 1 melee damage to target damaged ally.'
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Warrior

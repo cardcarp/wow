@@ -1,0 +1,18 @@
+card_name: Raise Dead
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : At the end of your turn, if no Ghouls are in your party, you may remove target ally card in a graveyard from the game. If you do, put a Ghoul ally token into play with 3 ATK / 3 health.'
+
+class:
+  - Death Knight
+
+cost: '4'
+
+temp: Unholy

@@ -1,0 +1,15 @@
+card_name: Quick Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 2 melee damage to target hero or ally.
+
+cost: '3'
+
+temp: ''

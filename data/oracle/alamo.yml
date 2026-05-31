@@ -1,0 +1,23 @@
+card_name: ALAMO
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: OK LISSEN, UDDER FRENDLY DURIDS HAF +1 FITE / +1 HEELTH. (Alamo is a Druid. Other friendly Druids have +1 ATK / +1 health.)
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: TAUREN DURID

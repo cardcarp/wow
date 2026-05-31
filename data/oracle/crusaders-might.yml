@@ -1,0 +1,18 @@
+card_name: Crusaders Might
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: This turn, your hero has +ATK equal to the combined of armor you control.
+
+class:
+  - Paladin
+
+cost: '5'
+
+temp: Retribution

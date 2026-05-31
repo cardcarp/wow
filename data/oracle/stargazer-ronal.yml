@@ -1,0 +1,23 @@
+card_name: Stargazer Ronal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: When this ally is destroyed, you may shuffle target player's graveyard into his deck.
+
+cost: '4'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Worgen Druid

@@ -1,0 +1,23 @@
+card_name: Blood Knight Adrenna
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Protector When this ally is destroyed, prevent all damage that would be dealt to target ally you control this turn.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Paladin

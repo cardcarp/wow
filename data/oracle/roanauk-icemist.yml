@@ -1,0 +1,23 @@
+card_name: Roanauk Icemist
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: At the end of your turn, put a 1 / 1 Taunka ally token into play. Taunka you control have Assault 1 .
+
+cost: '4'
+
+combat: Frost
+
+faction: Horde
+
+temp: Taunka High Chieftain

@@ -1,0 +1,18 @@
+card_name: Surprise Attacks
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Combat Hero Required Ongoing : Your Melee weapons have +1 ATK. Combat damage dealt by your hero can't be prevented."
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Combat Talent

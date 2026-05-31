@@ -1,0 +1,19 @@
+card_name: Wristwraps of the Cutthroat
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the end of each opponent's turn, if a card didn't enter his graveyard this turn, he discards a card.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '3'
+
+temp: Armor Leather

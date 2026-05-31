@@ -1,0 +1,23 @@
+card_name: Syluri
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 4
+
+text: Protector , Destroy Syluri → Destroy target equipment.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Draenei Warrior

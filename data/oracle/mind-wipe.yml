@@ -1,0 +1,18 @@
+card_name: Mind Wipe
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Choose "ability", "ally", or "equipment,", and then target player discards a random card. If he discarded a card that has the chosen type, he discards another random card.
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Shadow

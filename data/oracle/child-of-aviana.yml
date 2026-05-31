@@ -1,0 +1,23 @@
+card_name: Child of Aviana
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 1
+
+text: Monster heroes can protect this ally.
+
+cost: '3'
+
+combat: Nature
+
+temp: Harpy Druid
+
+type: Monster

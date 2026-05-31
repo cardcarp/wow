@@ -1,0 +1,18 @@
+card_name: Flight Form
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Your hero is Untargetable . When you play an ability or your hero attacks, destroy Flight Form.'
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Feral

@@ -1,0 +1,21 @@
+card_name: Vagaries of Time
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 3 , → Reveal the top card of your deck. You may place it into your resource row exhausted as an additional resource.
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '4'
+
+temp: 1H Weapon Mace

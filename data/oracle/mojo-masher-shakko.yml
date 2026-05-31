@@ -1,0 +1,23 @@
+card_name: Mojo Masher Shakko
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When another ally in your party is destroyed, you may destroy target ability.
+
+cost: '2'
+
+combat: Frost
+
+faction: Horde
+
+temp: Troll Shaman

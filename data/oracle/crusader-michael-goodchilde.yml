@@ -1,0 +1,17 @@
+card_name: Crusader Michael Goodchilde
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 2 , Flip Michael → If an opposing ally would be dealt combat damage while defending this turn, it's dealt that much +2 instead. Scarlet Crusade
+
+faction: Alliance
+
+temp: Human Paladin

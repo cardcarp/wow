@@ -1,0 +1,23 @@
+card_name: Fel Imp
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When this ally is destroyed, you may put it into your deck third from the top.
+
+cost: '1'
+
+combat: Fire
+
+temp: Imp Demon
+
+type: Monster

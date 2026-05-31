@@ -1,0 +1,17 @@
+card_name: Zorak_tul
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: "If you control another Rogue: Flip Zorak'tul → Exhaust target hero or ally."
+
+faction: Horde
+
+temp: Troll Rogue

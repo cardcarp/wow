@@ -1,0 +1,23 @@
+card_name: Vixton Pinchwhistle
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 5
+
+text: → Reveal the top three cards of your deck. Put a revealed Arena card into hand and the rest on the bottom of your deck.
+
+cost: '2'
+
+combat: Melee
+
+temp: Goblin
+
+type: Arena

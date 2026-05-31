@@ -1,0 +1,18 @@
+card_name: Arcane Barrage
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Arcane Talent This ability can't be interrupted. Your hero deals 4 arcane damage to target hero or ally. You may play this ability from your graveyard. If you do, the next time it would enter a graveyard from anywhere, remove it from the game instead.
+
+class:
+  - Mage
+
+cost: '4'
+
+temp: Arcane

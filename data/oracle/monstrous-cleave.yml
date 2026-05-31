@@ -1,0 +1,18 @@
+card_name: Monstrous Cleave
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target up to two allies. Your hero deals 4 melee damage to the first target. If you control two or more Monster heroes and/or allies, your hero deals 4 melee damage to the second target.
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Fury

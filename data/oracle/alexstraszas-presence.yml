@@ -1,0 +1,15 @@
+card_name: Alexstraszas Presence
+
+layout: standard
+
+regulation:
+
+category: Misc
+
+errata: []
+
+text: "If a Raider's hero was destroyed while he had twenty or more cards in his graveyard, gain this Gift. Use this Gift: Each Raider may shuffle any number of cards from his graveyard into his deck."
+
+temp: ''
+
+type: Gift

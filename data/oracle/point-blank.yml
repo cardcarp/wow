@@ -1,0 +1,18 @@
+card_name: Point Blank
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: If your hero is defending, it deals 3 ranged damage to target attacker.
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Marksmanship

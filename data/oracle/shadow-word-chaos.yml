@@ -1,0 +1,18 @@
+card_name: Shadow Word_ Chaos
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 4 shadow damage to a random opposing hero or ally.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Shadow

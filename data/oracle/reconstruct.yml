@@ -1,0 +1,18 @@
+card_name: Reconstruct
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put target equipment from your graveyard into play if its cost is less than or equal to the number of resources you control.
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Arms

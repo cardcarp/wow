@@ -1,0 +1,15 @@
+card_name: Violent Reflex
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When Magtheridon is dealt damage, he deals 1 melee damage to the source of that damage.'
+
+cost: '1'
+
+temp: ''

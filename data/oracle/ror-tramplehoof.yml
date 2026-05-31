@@ -1,0 +1,23 @@
+card_name: Ror Tramplehoof
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 7
+
+text: Smash
+
+cost: '7'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Druid

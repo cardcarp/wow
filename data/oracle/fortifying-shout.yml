@@ -1,0 +1,19 @@
+card_name: Fortifying Shout
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Heroes and allies in your party have +2 health.'
+
+class:
+  - Priest
+  - Warrior
+
+cost: '5'
+
+temp: Discipline Fury Shout

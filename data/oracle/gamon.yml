@@ -1,0 +1,23 @@
+card_name: Gamon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Any hero or ally can attack Gamon. (Including characters in your party.)
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Warrior

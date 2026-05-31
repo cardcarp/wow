@@ -1,0 +1,17 @@
+card_name: Hekto Starspire
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 4 , Flip Hekto → Destroy target attacking ally.
+
+faction: Horde
+
+temp: Blood Elf Paladin

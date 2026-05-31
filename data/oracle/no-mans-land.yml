@@ -1,0 +1,19 @@
+card_name: No Mans Land
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally in your party. Ongoing : When attached ally is destroyed, draw two cards.'
+
+class:
+  - Druid
+  - Warlock
+
+cost: '2'
+
+temp: Restoration Demonology

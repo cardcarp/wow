@@ -1,0 +1,18 @@
+card_name: Devouring Plague
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 3 shadow damage to attached hero. Attached hero's controller discards a card for each damage dealt this way."
+
+class:
+  - Priest
+
+cost: '4'
+
+temp: Shadow

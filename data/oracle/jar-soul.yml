@@ -1,0 +1,18 @@
+card_name: Jar Soul
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Remove target ally from the game. Ongoing : Destroy Jar Soul → You pay 2 less to play your next Pet this turn.'
+
+class:
+  - Warlock
+
+cost: '4'
+
+temp: Destruction

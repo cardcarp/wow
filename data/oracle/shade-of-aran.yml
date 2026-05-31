@@ -1,0 +1,23 @@
+card_name: Shade of Aran
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Monster Hero Required As Aran enters play and as your turn starts, you may choose another ally. If you do, Aran has all powers of the chosen ally until the start of your next turn.
+
+cost: '5'
+
+combat: Arcane
+
+temp: Spirit Mage
+
+type: Monster

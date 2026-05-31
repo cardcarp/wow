@@ -1,0 +1,18 @@
+card_name: Tithe
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Ready target opposing ally. This turn, it's a Protector and you control it.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Shadow

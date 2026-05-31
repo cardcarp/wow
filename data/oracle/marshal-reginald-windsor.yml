@@ -1,0 +1,23 @@
+card_name: Marshal Reginald Windsor
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: 3 , Destroy Marshal Reginald Windsor → Destroy target ally with cost 7 or more.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

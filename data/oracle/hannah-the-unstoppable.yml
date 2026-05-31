@@ -1,0 +1,23 @@
+card_name: Hannah the Unstoppable
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Opposing heroes and allies can't protect.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Rogue

@@ -1,0 +1,23 @@
+card_name: Tauren Sunhoof
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Protector
+
+cost: '6'
+
+combat: Holy
+
+faction: Horde
+
+temp: Tauren Paladin

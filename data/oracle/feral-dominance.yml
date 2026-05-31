@@ -1,0 +1,18 @@
+card_name: Feral Dominance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : 1 , → Target Druid you control has Assault 1 or Protector this turn.'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Feral

@@ -1,0 +1,18 @@
+card_name: Snare from Beyond
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Warp Attach to target ability, ally, or equipment and exhaust it. Ongoing : Attached card can't ready during it's controller's ready step."
+
+class:
+  - Druid
+
+cost: '4'
+
+temp: Balance Attachment

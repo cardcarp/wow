@@ -1,0 +1,20 @@
+card_name: Maelstrom of Steel
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Preparation Ongoing : You pay 1 less to strike with weapons.'
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: ''
+
+type: Arena

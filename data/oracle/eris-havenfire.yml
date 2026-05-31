@@ -1,0 +1,21 @@
+card_name: Eris Havenfire
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: When this or another Priest ally enters play under your control, prevent all damage that would be dealt to target hero or ally this turn.
+
+cost: '3'
+
+combat: Holy
+
+temp: Human Spirit Priest

@@ -1,0 +1,18 @@
+card_name: Impede
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put target , , or ally or weapon on top of its owner's deck.
+
+class:
+  - Warrior
+
+cost: '2'
+
+temp: Arms

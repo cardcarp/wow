@@ -1,0 +1,23 @@
+card_name: Aknot Whetstone
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 4
+
+text: Protector Hardiness 2 , Destroy another ally in your party → Destroy target weapon.
+
+cost: '2'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

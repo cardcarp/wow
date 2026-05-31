@@ -1,0 +1,23 @@
+card_name: Furbolg Spiritbinder
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 6
+
+text: When this ally enters play, if you have eight or more cards in your graveyard, this ally heals 8 damage from your hero.
+
+cost: '6'
+
+combat: Nature
+
+temp: Furbolg Shaman
+
+type: Monster

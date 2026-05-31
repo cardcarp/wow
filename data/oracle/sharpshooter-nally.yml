@@ -1,0 +1,17 @@
+card_name: Sharpshooter Nally
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 3 , Flip Nally → Target hero or ally has Long-Range this turn.
+
+faction: Alliance
+
+temp: Dwarf Hunter

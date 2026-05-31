@@ -1,0 +1,19 @@
+card_name: Sacrificial Vengeance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally in your party. Ongoing : When attached ally is destroyed, target opponent destroys an ally in his party.'
+
+class:
+  - Paladin
+  - Warlock
+
+cost: '2'
+
+temp: Retribution Demonology

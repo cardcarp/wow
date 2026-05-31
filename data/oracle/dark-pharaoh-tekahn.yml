@@ -1,0 +1,19 @@
+card_name: Dark Pharaoh Tekahn
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 8 → Flip Tekahn face down. You pay 8 less to flip Tekahn if you have seven or more allies in your graveyard.
+
+temp: Tol'vir Priest 26
+
+transform:
+  - id: ability
+    text: "At the start of your turn, put two 1 / 1 Tol'vir Ritualist Monster ally tokens into play. Deckbuilding: You can't put or cards in your deck."
+
+type: Monster

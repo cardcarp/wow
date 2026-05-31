@@ -1,0 +1,23 @@
+card_name: Valak the Vortex
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When this ally attacks, you may discard an ability. If you do, he deals arcane damage to target ally equal to the cost of that ability.
+
+cost: '1'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Worgen Mage

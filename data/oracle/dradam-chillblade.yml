@@ -1,0 +1,23 @@
+card_name: Dradam Chillblade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Protector
+
+cost: '2'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Dwarf Death Knight

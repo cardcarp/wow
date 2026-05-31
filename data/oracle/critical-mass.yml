@@ -1,0 +1,18 @@
+card_name: Critical Mass
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Fire Talent Reveal cards from the top of your deck until you reveal two cards with the same cost. Your hero deals 1 fire damage to each opposing hero and ally for each card revealed this way. Then shuffle those revealed cards in your deck.
+
+class:
+  - Mage
+
+cost: '5'
+
+temp: Fire

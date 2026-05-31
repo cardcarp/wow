@@ -1,0 +1,23 @@
+card_name: Soulseeker Huulo
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: This ally has Assault 1 while you control another hero or ally with Assault , and Mend 1 while you control another hero or ally with Mend .
+
+cost: '3'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Draenei Priest

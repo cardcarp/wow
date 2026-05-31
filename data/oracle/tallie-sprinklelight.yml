@@ -1,0 +1,23 @@
+card_name: Tallie Sprinklelight
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Mend 1
+
+cost: '2'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Gnome Priest

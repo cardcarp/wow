@@ -1,0 +1,18 @@
+card_name: Gushing Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When an opposing ability, ally, or equipment enters play, you may draw a card.'
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Restoration 1

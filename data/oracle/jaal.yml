@@ -1,0 +1,23 @@
+card_name: Jaal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: → Target ally you control has Assault 3 this turn.
+
+cost: '3'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

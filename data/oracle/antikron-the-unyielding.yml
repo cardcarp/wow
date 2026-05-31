@@ -1,0 +1,23 @@
+card_name: Antikron the Unyielding
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Protector Put 2 damage on your hero → Prevent all combat damage that would be dealt to Antikron this combat. Use only if he's defending.
+
+cost: '1'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Draenei Paladin

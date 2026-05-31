@@ -1,0 +1,26 @@
+card_name: Thoglos
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: This ally can protect your hero. When this ally is dealt fatal damage, he heals 5 damage from your hero.
+
+class:
+  - Warlock
+
+cost: '2'
+
+combat: Shadow
+
+temp: Voidwalker Demon
+
+type: Monster

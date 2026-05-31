@@ -1,0 +1,23 @@
+card_name: Chora Cloudspeaker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 6
+
+text: 'Tribe : When this or another Tauren ally enters play under your control, allies you control have +1 ATK this turn.'
+
+cost: '6'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Shaman

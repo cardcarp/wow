@@ -1,0 +1,18 @@
+card_name: No Mere Dream
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'On your turn: Pay 3 to complete this quest. Reward : Reveal the top card of your deck and put it into your resource row face down and exhausted. If it was a location or quest, you may turn it face up.'
+
+class:
+  - Druid
+
+temp: ''
+
+type: Class Restriction

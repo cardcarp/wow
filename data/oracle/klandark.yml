@@ -1,0 +1,23 @@
+card_name: Klandark
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: 'Bloodrush : When this ally deals combat damage while attacking for the first time each turn, if an opposing hero has more damage on it than your hero, ready this ally.'
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Orc Shaman

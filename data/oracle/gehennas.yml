@@ -1,0 +1,19 @@
+card_name: Gehennas
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 11
+
+text: Gehennas has +2 ATK while attacking and can attack only heroes. At the end of your turn, Gehennas deals 3 shadow damage to target opposing hero chosen at random. That hero's controller discards a card. Flip Gehennas.
+
+temp: Flamewaker
+
+transform:
+  - id: ability
+    text: Gehennas has +2 ATK while attacking and can attack only heroes. At the end of your turn, Gehennas deals 1 fire damage to each opposing ally. Flip Gehennas.

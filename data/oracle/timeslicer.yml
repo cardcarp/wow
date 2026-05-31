@@ -1,0 +1,21 @@
+card_name: Timeslicer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has Dual Wield .
+
+class:
+  - Warrior
+  - Shaman
+  - Hunter
+  - Rogue
+
+cost: '3'
+
+temp: 1H Weapon Dagger

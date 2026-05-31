@@ -1,0 +1,23 @@
+card_name: Zarixx, Herald of Death
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: 'Empower Death Knight : When this ally enters play, if you control another Death Knight hero or ally, put a 3 / 3 Ghoul ally token into play, and token allies you control have +1 ATK and Ferocity this turn.'
+
+cost: '7'
+
+combat: Melee
+
+faction: Horde
+
+temp: Goblin Death Knight

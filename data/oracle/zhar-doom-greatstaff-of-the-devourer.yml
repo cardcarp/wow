@@ -1,0 +1,20 @@
+card_name: Zhar_doom, Greatstaff of the Devourer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , Exhaust your hero, remove three ability cards in your graveyard from the game → Your hero deals 3 shadow damage to target hero or ally and heals 3 damage from itself.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: 2H Weapon Staff

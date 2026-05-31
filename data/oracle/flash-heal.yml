@@ -1,0 +1,18 @@
+card_name: Flash Heal
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero heals 4 damage from target hero or ally.
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Holy

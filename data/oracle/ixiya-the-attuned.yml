@@ -1,0 +1,23 @@
+card_name: Ixiya the Attuned
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Protector , Mend 1
+
+cost: '3'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

@@ -1,0 +1,15 @@
+card_name: Poison Water
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'Pay 3 to complete this quest. Reward : Choose one: Shuffle any number of cards from your graveyard into your deck; or draw a card. If your hero is a Tauren, you may choose both.'
+
+faction: Horde
+
+temp: ''

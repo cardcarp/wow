@@ -1,0 +1,13 @@
+card_name: Unbinding
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: "On your turn: Pay 1 to complete this quest. Reward : Look at the top card of target opponent's deck. You may remove that card from the game or leave it on top."
+
+temp: ''

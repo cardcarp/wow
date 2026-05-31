@@ -1,0 +1,18 @@
+card_name: Guardian of the Light
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Play only if an opponent hero or ally is attacking. Put a 5 / 5 Guardian ally token into play with Protector and "At end of turn, destroy this ally."
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection

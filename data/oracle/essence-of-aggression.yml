@@ -1,0 +1,15 @@
+card_name: Essence of Aggression
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'You pay 2 less to play this ability if you control a Hunter hero or ally. You pay 2 less to play this ability if you control a Warlock hero or ally. Attach to target ally. Ongoing : Attached ally has +2 / +2 and Ferocity .'
+
+cost: '5'
+
+temp: ''

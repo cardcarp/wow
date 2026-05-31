@@ -1,0 +1,23 @@
+card_name: Krenig Soulguard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: "3 , Destroy Krenig Soulguard → Choose one: Destroy target ability; or put target ability into its owner's hand."
+
+cost: '1'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Dwarf Priest

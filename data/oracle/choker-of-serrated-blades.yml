@@ -1,0 +1,27 @@
+card_name: Choker of Serrated Blades
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'This item enters play with three blade counters. 1 , , Remove a blade counter → Choose one: add a +1 ATK counter to target weapon; or add a +1 counter to target armor. When the last blade counter is removed from this item, destroy it.'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item Neck

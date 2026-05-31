@@ -1,0 +1,23 @@
+card_name: Illia the Bitter
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: Fire Resistance
+
+cost: '5'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Blood Elf Hunter

@@ -1,0 +1,23 @@
+card_name: Faithseer Jasmina
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: If this ally would be dealt non-fatal damage, prevent it. When you play an ability, ally, or equipment, you may put a +1 / +1 counter on this ally.
+
+cost: '2'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Worgen Priest

@@ -1,0 +1,23 @@
+card_name: Shattered Hand Assassin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Stealth When this ally enters play, exhaust target opposing ally. It can't ready during it's controller's next ready step.
+
+cost: '3'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Rogue

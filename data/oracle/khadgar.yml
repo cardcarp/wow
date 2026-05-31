@@ -1,0 +1,23 @@
+card_name: Khadgar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 4
+
+text: You pay 2 less to play abilities, to a minimum of 1 . When you play an ability, you may ready Khadgar.
+
+cost: '5'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Human Mage

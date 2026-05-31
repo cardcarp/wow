@@ -1,0 +1,20 @@
+card_name: Helm of Blazing Glory
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: While your hero has 5 or more remaining health, double the ATK of weapons you control and double the of armor you control.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '8'
+
+temp: Armor Plate

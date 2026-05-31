@@ -1,0 +1,23 @@
+card_name: Frizzle Stumbleshade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Untargetable
+
+cost: '3'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Priest

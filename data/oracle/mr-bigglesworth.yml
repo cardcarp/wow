@@ -1,0 +1,13 @@
+card_name: Mr. Bigglesworth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+text: This ally can't attack. When this ally is destroyed, say "No!!! A curse upon you, interlopers! The armies of the Lich King will hunt you down. You will not escape your fate ..."
+
+temp: 1 Cat

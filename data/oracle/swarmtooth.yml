@@ -1,0 +1,23 @@
+card_name: Swarmtooth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When this or another Murloc ally enters play under your control, you may reveal the top card of your deck. If it's a Murloc, put it into your hand.
+
+cost: '2'
+
+combat: Frost
+
+temp: Murloc Mage
+
+type: Monster

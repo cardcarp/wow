@@ -1,0 +1,23 @@
+card_name: Guardian Steppestrider
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Protector Guardian Steppestrider can't attack.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Warrior

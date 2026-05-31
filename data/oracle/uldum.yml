@@ -1,0 +1,13 @@
+card_name: Uldum
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: '2 , → Choose one: Target weapon has +3 ATK this turn; or target armor has +3 this turn.'
+
+temp: ''

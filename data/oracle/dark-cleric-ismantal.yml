@@ -1,0 +1,23 @@
+card_name: Dark Cleric Ismantal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: 4 → Dark Cleric Ismantal deals 1 shadow damage to target hero or ally. That character's controller discards a card for each damage dealt. Use only on your turn.
+
+cost: '3'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Priest

@@ -1,0 +1,23 @@
+card_name: Zaza_jun
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this ally enters play, put two 1 / 1 Treant ally tokens into play. Token allies you control have Assault 1 .
+
+cost: '4'
+
+combat: Nature
+
+faction: Horde
+
+temp: Troll Druid

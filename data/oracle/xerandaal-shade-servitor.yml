@@ -1,0 +1,17 @@
+card_name: Xerandaal, Shade Servitor
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: 'If you control another Priest: Flip Xerandaal → Xerandaal deals 3 shadow damage to target hero.'
+
+faction: Alliance
+
+temp: Draenei Priest

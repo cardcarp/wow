@@ -1,0 +1,23 @@
+card_name: Iku_tak
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 7
+
+health: 3
+
+text: Fire Resistance Shadow Resistance
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Troll Rogue

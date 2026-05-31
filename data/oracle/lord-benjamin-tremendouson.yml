@@ -1,0 +1,17 @@
+card_name: Lord Benjamin Tremendouson
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 'On your turn: 4 , Flip Benjamin → Opposing allies have -1 health this turn.'
+
+faction: Alliance
+
+temp: Dwarf Warrior

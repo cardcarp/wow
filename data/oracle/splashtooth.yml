@@ -1,0 +1,23 @@
+card_name: Splashtooth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: When this or another Murloc ally enters play under your control, you may Delve .
+
+cost: '3'
+
+combat: Shadow
+
+temp: Murloc Warlock
+
+type: Monster

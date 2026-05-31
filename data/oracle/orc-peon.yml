@@ -1,0 +1,23 @@
+card_name: Orc Peon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When this ally enters play, you may turn a face up resource you control face down. If you do, target ally has +2 ATK this turn.
+
+cost: '1'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Peon

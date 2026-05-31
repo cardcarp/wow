@@ -1,0 +1,23 @@
+card_name: Faenis the Tranquil
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 6
+
+text: At the end of your turn, this ally heals 1 damage from each hero and ally you control for each ally you control.
+
+cost: '3'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Night Elf Druid

@@ -1,0 +1,26 @@
+card_name: Spirit Link Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+damage: 0
+
+health: 3
+
+text: "Restoration Talent Ongoing : When an ally you control deals damage to an opposing hero, this Totem heals that much damage from your hero. (Totems can't attack.)"
+
+class:
+  - Shaman
+
+cost: '2'
+
+combat: Nature
+
+temp: Restoration
+
+type: Ally

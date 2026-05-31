@@ -1,0 +1,21 @@
+card_name: Ring of the Battle Anthem
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: '2 → Allies you control have Assault 1 this turn. Stash : Target ally has Assault 1 this turn.'
+
+class:
+  - Druid
+  - Warrior
+  - Death Knight
+  - Paladin
+
+cost: '2'
+
+temp: Item Ring

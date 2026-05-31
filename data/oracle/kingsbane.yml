@@ -1,0 +1,18 @@
+card_name: Kingsbane
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has Dual Wield . This weapon has Assault X while your hero is attacking, where X is the ATK of a defender.
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: 1H Weapon Dagger

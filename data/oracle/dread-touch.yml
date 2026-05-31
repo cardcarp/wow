@@ -1,0 +1,18 @@
+card_name: Dread Touch
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put target opposing ally into its owner's hand. Then, that player discards a card.
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Affliction

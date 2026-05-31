@@ -1,0 +1,23 @@
+card_name: Elaar
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 7
+
+text: 2 , → Gain control of target ally.
+
+cost: '6'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Draenei Priest

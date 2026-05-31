@@ -1,0 +1,23 @@
+card_name: Nalonae
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: You may destroy one of your resources rather than pay Nalonae's cost.
+
+cost: '2'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Priest

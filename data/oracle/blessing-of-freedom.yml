@@ -1,0 +1,18 @@
+card_name: Blessing of Freedom
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero or ally in your party. Ongoing : Attached character is untargetable. At end of turn, destroy Blessing of Freedom.'
+
+class:
+  - Paladin
+
+cost: '1'
+
+temp: Protection Blessing

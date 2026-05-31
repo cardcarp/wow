@@ -1,0 +1,20 @@
+card_name: Flickering Cowl
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn: 1 , → Target ally has +1 / -1 this turn.'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '4'
+
+temp: Armor Cloth

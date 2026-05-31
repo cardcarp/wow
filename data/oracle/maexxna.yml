@@ -1,0 +1,19 @@
+card_name: Maexxna
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: "Assault 8 At the start of your turn, heroes and allies in target raider's party lose and can't have powers this turn. On your turn: 9 → Flip Maexxna face down."
+
+temp: Giant Spider 18
+
+transform:
+  - id: ability
+    text: Assault 12 At the start of your turn, if you didn't take the last turn, take an extra turn after this one.
+
+type: Boss

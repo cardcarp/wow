@@ -1,0 +1,23 @@
+card_name: Archdruid Fandral Staghelm
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: Elusive → Target ally has Absorb , Ferocity , Sentinel , and Stealth this turn.
+
+cost: '4'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Night Elf Druid

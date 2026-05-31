@@ -1,0 +1,23 @@
+card_name: Liba Wobblebonk
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: When this ally enters play, draw a card.
+
+cost: '5'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Gnome Mage

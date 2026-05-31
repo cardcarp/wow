@@ -1,0 +1,19 @@
+card_name: Twinblade of the Phoenix
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You can play Twinblade of the Phoenix from your graveyard.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '5'
+
+temp: 2H Weapon Sword

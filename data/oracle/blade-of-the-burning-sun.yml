@@ -1,0 +1,20 @@
+card_name: Blade of the Burning Sun
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: ", Exhaust your hero → Reveal the top card of your deck. If it's a ally or equipment, your allies have Assault X this turn, where X is the cost of the revealed card."
+
+class:
+  - Paladin
+  - Warlock
+  - Mage
+
+cost: '4'
+
+temp: 1H Weapon Sword

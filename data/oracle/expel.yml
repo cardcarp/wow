@@ -1,0 +1,18 @@
+card_name: Expel
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 1 unpreventable holy damage to target ally for each ally you control.
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Holy

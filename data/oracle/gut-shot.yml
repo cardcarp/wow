@@ -1,0 +1,18 @@
+card_name: Gut Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Traitor Hero Required As an additional cost to play, remove up to five ally cards in your graveyard from the game. Your hero deals melee damage to target hero or ally equal to 2 plus the number of cards removed this way.
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Finishing Move Traitor

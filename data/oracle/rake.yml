@@ -1,0 +1,18 @@
+card_name: Rake
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero or ally, and your hero deals 1 melee damage to it. Ongoing : At the start of your turn, if your hero is in cat form, it deals 1 melee damage to attached character.'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Feral Combo

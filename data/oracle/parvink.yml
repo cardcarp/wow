@@ -1,0 +1,23 @@
+card_name: Parvink
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Protector When this ally enters play, draw a card.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Gnome Warrior

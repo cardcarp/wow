@@ -1,0 +1,17 @@
+card_name: Omedus the Punisher
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: 3 , Flip Omedus → Omedus deals shadow damage to target hero equal to 7 minus the number of cards in its controller's hand.
+
+faction: Horde
+
+temp: Undead Priest

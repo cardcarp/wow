@@ -1,0 +1,23 @@
+card_name: Kalnuf Eagleheart
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play, look at target player's hand.
+
+cost: '2'
+
+combat: Ranged
+
+faction: Horde
+
+temp: Tauren Hunter

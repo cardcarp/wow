@@ -1,0 +1,23 @@
+card_name: Leeroy Jenkins
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 1
+
+text: When this ally enters play, exhaust all other allies you control. They can't ready during your next ready step. Say "Leeeerooooy Jenkins!" → This ally has Ferocity this turn.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Paladin

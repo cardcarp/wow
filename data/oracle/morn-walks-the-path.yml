@@ -1,0 +1,17 @@
+card_name: Morn Walks-the-Path
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 3 , Flip Morn → You can play target ability card from your graveyard this turn.
+
+faction: Horde
+
+temp: Tauren Hunter

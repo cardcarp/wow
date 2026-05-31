@@ -1,0 +1,22 @@
+card_name: Headmasters Charge
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play an ability, you may exhaust a hero or ally in your party. If you do, draw a card.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '5'
+
+temp: 2H Weapon Staff

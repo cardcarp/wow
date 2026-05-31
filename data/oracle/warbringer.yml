@@ -1,0 +1,18 @@
+card_name: Warbringer
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Protection Hero Required Ongoing : → abilities and equipment in your hand are instant this turn until you play a card.'
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Protection Talent

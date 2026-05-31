@@ -1,0 +1,23 @@
+card_name: Yana_mi
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: When you attach an ability to a hero or ally, draw a card.
+
+cost: '3'
+
+combat: Nature
+
+faction: Horde
+
+temp: Troll Druid

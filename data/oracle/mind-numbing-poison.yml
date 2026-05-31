@@ -1,0 +1,18 @@
+card_name: Mind-numbing Poison
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Attach to target hero that was dealt combat damage by your hero this turn. Ongoing : At the start of attached hero's controller's turn, that player exhausts one of his ready resources."
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Poison

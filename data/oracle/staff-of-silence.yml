@@ -1,0 +1,21 @@
+card_name: Staff of Silence
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When an opponent plays an ability, add a silence counter to this weapon. Opponents pay 1 more to play abilities for each silence counter on this weapon.
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '3'
+
+temp: 2H Weapon Staff

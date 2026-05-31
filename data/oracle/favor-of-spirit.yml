@@ -1,0 +1,18 @@
+card_name: Favor of Spirit
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, you may destroy target ability.'
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Discipline

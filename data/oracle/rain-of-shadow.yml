@@ -1,0 +1,18 @@
+card_name: Rain of Shadow
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 1 shadow damage to each opposing hero and ally. When a character dealt damage this way is destroyed this turn, its controller discards a card.
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Affliction

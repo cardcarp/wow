@@ -1,0 +1,23 @@
+card_name: Vexra Darkfall
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 2
+
+text: When Vexra Darkfall is destroyed, she deals 1 arcane damage to target hero for each card in its controller's hand.
+
+cost: '5'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Undead Mage

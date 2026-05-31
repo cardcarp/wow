@@ -1,0 +1,18 @@
+card_name: Intervening Shot
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Put target defending ally you control into its owner's hand. Your hero deals 5 ranged damage to target attacker.
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Survival

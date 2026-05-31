@@ -1,0 +1,23 @@
+card_name: Voidmaven Christie Noone
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 5
+
+text: 'On your turn: 3 , Exhaust a Demon you control → Target player discards a card.'
+
+cost: '3'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Warlock

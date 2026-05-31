@@ -1,0 +1,23 @@
+card_name: Astani Dawngrace
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Protector , Assault 1 , Mend 1
+
+cost: '3'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Paladin

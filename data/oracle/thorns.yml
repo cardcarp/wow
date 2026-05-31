@@ -1,0 +1,18 @@
+card_name: Thorns
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero or ally. Ongoing : When attached character is dealt combat damage, it deals 1 nature damage to the source of that combat damage.'
+
+class:
+  - Druid
+
+cost: '4'
+
+temp: Balance

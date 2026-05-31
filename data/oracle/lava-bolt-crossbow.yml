@@ -1,0 +1,19 @@
+card_name: Lava Bolt Crossbow
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Long-Range
+
+class:
+  - Hunter
+  - Rogue
+
+cost: '5'
+
+temp: Ranged Weapon Crossbow

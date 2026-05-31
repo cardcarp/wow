@@ -1,0 +1,19 @@
+card_name: Molten Giants
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Molten Giants has +1 ATK and +1 health for each rune you have.
+
+combat: Melee
+
+temp: Giant Minion

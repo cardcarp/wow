@@ -1,0 +1,15 @@
+card_name: Silvermoon City
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: Blood Elf Hero Required As Silvermoon City enters play, choose arcane, fire, frost, nature, or shadow. → Target Blood Elf in your party has the chosen resistance this turn.
+
+faction: Horde
+
+temp: City

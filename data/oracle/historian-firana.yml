@@ -1,0 +1,21 @@
+card_name: Historian Firana
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Scryer Reputation Stealth Opponents play with their hands revealed.
+
+cost: '3'
+
+combat: Melee
+
+temp: Blood Elf Rogue

@@ -1,0 +1,24 @@
+card_name: Piztog
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 2
+
+text: Elusive Other allies in your party have +1 health.
+
+class:
+  - Warlock
+
+cost: '1'
+
+combat: Fire
+
+temp: Imp Demon

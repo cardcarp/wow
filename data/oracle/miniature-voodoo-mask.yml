@@ -1,0 +1,20 @@
+card_name: Miniature Voodoo Mask
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: As this item enters play, name an ability or equipment with cost 3 or less. Opposing cards in play with the chosen name lose and can't have powers.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '1'
+
+temp: Item Trinket

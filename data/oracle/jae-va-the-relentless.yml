@@ -1,0 +1,23 @@
+card_name: Jae_va the Relentless
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 7
+
+text: Protector Exhaust a hero or ally in your party → Ready Jae'va. Use only once per turn.
+
+cost: '7'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Paladin

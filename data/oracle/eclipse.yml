@@ -1,0 +1,18 @@
+card_name: Eclipse
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Traitor Hero Required Ongoing : When damage is healed from an opposing hero or ally, your hero deals double that much shadow damage to that character.'
+
+class:
+  - Priest
+
+cost: '5'
+
+temp: Traitor

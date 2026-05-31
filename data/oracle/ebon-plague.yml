@@ -1,0 +1,18 @@
+card_name: Ebon Plague
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Unholy Talent Attach to target hero. Ongoing : At the start of your turn, put the top card of attached hero's controller's deck into his graveyard. If it's an ability, ally, or equipment, put a number of additional cards into his graveyard equal to that card's cost."
+
+class:
+  - Death Knight
+
+cost: '4'
+
+temp: Unholy Disease Attachment

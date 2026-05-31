@@ -1,0 +1,16 @@
+card_name: A Heros Burden
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'Pay 1 and name a class to complete this quest. Reward : Reveal the top four cards of your deck. Put a revealed ally of that class into your hand and the rest on the bottom of your deck.'
+
+class:
+  - Hunter
+
+temp: ''

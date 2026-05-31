@@ -1,0 +1,23 @@
+card_name: Ruon Wildhoof
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Mend 2
+
+cost: '6'
+
+combat: Nature
+
+faction: Horde
+
+temp: Tauren Shaman

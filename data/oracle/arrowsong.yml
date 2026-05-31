@@ -1,0 +1,18 @@
+card_name: Arrowsong
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with this weapon, your hero has Long-Range this combat. When you draw a card, add a verse counter. Remove three verse counters → You pay 3 less the next time you strike with this weapon this turn.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Ranged Weapon Bow

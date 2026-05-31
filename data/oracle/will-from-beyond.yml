@@ -1,0 +1,18 @@
+card_name: Will from Beyond
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Warp Ongoing : Your hero has +10 and Protector .'
+
+class:
+  - Death Knight
+
+cost: '5'
+
+temp: Blood

@@ -1,0 +1,15 @@
+card_name: Thundering Footsteps
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: As an additional cost to play Thundering Footsteps, stomp your feet. Put a Mechanical ally token named Fel Reaver with 10 ATK / 10 health into play.
+
+cost: '8'
+
+temp: ''

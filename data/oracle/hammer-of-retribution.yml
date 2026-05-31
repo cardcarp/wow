@@ -1,0 +1,18 @@
+card_name: Hammer of Retribution
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Exhaust up to three target heroes and/or allies.
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Retribution

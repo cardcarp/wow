@@ -1,0 +1,27 @@
+card_name: Frostweave Bandage
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: '1 , Destroy this item → Your hero heals 4 damage from target hero or ally. Death Rattle : Target hero or ally has Frost Resistance this turn.'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '1'
+
+temp: Item Bandage

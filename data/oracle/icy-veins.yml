@@ -1,0 +1,18 @@
+card_name: Icy Veins
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Frost Hero Required Ongoing : Skip your draw step. At the start of your turn, target opponent chooses a hero or ally in his party, and your hero deals 5 frost damage to it.'
+
+class:
+  - Mage
+
+cost: '4'
+
+temp: Frost Talent

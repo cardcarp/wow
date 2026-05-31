@@ -1,0 +1,19 @@
+card_name: Bloody Slaughter
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals X melee damage to target exhausted hero or ally, where X is the cost of a non-hero Druid or Rogue you control.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '1'
+
+temp: Feral Assassination Combo

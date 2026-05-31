@@ -1,0 +1,17 @@
+card_name: Zorin of the Thunderhead
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'On your turn: 5 , Flip Zorin → Zorin deals 3 nature damage divided as you choose to any number of target heroes and/or allies.'
+
+faction: Alliance
+
+temp: Draenei Shaman

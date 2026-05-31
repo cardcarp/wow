@@ -1,0 +1,18 @@
+card_name: Dark Intent
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'As an additional cost to play, put 2 damage on your hero. Attach to target friendly ally. Ongoing : Attached ally has +2 / +2. If attached ally would deal fatal combat damage to an opposing ally, remove that ally from the game instead.'
+
+class:
+  - Warlock
+
+cost: '1'
+
+temp: Affliction

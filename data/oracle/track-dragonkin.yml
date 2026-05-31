@@ -1,0 +1,18 @@
+card_name: Track Dragonkin
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target ally has -2 ATK this turn, or -4 ATK if it's a Dragonkin.
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Survival

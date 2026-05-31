@@ -1,0 +1,18 @@
+card_name: Demon Armor
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : 1 , Remove an ability card in your graveyard from the game → Your hero heals 2 damage from itself.'
+
+class:
+  - Warlock
+
+cost: '5'
+
+temp: Demonology

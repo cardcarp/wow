@@ -1,0 +1,22 @@
+card_name: Strong-Handed Ring
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your hero has Assault 5 while you have five or more cards in your hand.
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Paladin
+  - Death Knight
+
+cost: '5'
+
+temp: Item Ring

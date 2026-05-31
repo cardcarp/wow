@@ -1,0 +1,21 @@
+card_name: Kaz_rogal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 12
+
+text: "Boss When Kaz'rogal enters play, he deals 4 shadow damage to the hero of each Raider that controls no ready resources. Caverns Hero 2+ : Kaz'rogal has Assault 1 for each exhausted resource the MARKED hero controls."
+
+combat: Melee
+
+temp: Doomguard Demon
+
+type: Boss

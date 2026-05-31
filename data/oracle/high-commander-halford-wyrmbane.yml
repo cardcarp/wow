@@ -1,0 +1,23 @@
+card_name: High Commander Halford Wyrmbane
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Protector This ally has Assault 1 and Mend 1 for each other ally you control.
+
+cost: '4'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

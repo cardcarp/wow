@@ -1,0 +1,15 @@
+card_name: Aeonus
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 'Flip 2 , Assault 3 , Long-Range Entrance : A random Raider skips their next turn. When Aeonus flips the second Caverns card on his turn, if it does not share a type with the first Caverns card flipped this turn, flip an additional Caverns card.'
+
+temp: Infinite Dragonkin 25
+
+type: Boss

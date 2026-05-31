@@ -1,0 +1,18 @@
+card_name: Ruthlessness
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Assassination Hero Required Put up to five Combo cards from your removed from game zone into hand.
+
+class:
+  - Rogue
+
+cost: '5'
+
+temp: Assassination Talent

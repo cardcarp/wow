@@ -1,0 +1,21 @@
+card_name: Edwin Blademark
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 4 → Flip Edwin
+
+faction: Alliance
+
+temp: Worgen Rogue
+
+transform:
+  - id: ability
+    text: Allies you control have Stealth .

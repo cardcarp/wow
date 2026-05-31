@@ -1,0 +1,23 @@
+card_name: Gellrin of the Gallows
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Remove Gellrin from the game → Target player turns one of his quests face down.
+
+cost: '2'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Undead Warlock

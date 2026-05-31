@@ -1,0 +1,18 @@
+card_name: Nemesis Skullcap
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Your hero heals 1 damage from itself. When you play a ability, ready Nemesis Skullcap.
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Armor Cloth

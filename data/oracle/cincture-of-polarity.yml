@@ -1,0 +1,20 @@
+card_name: Cincture of Polarity
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Heroes and allies you control have +2 while you control an even number of heroes and allies.
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '1'
+
+temp: Armor Cloth

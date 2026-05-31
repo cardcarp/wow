@@ -1,0 +1,21 @@
+card_name: Blazing Hippogryph
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 4
+
+text: Argent Crusade Reputation → Ready a location you control. When you place a resource face up, you may heal all damage from target Unique ally you control. (Mounts can't attack or be attacked.)
+
+cost: '2'
+
+combat: Melee
+
+temp: Hippogryph

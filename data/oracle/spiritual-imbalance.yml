@@ -1,0 +1,18 @@
+card_name: Spiritual Imbalance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target ally has -3 / -3 this turn.
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Shadow

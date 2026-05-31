@@ -1,0 +1,18 @@
+card_name: Death Pact
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: As an additional cost to play, destroy an ally you control. Your hero heals damage from itself equal to that ally's and has +X ATK this turn, where X was that ally's ATK.
+
+class:
+  - Death Knight
+
+cost: '2'
+
+temp: Blood

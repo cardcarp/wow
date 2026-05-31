@@ -1,0 +1,18 @@
+card_name: Sentry Totem
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When an opposing ally enters play, exhaust it. (Totems can be attacked or targeted like allies.)'
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Enhancement 1

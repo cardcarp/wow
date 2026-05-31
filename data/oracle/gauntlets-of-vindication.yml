@@ -1,0 +1,19 @@
+card_name: Gauntlets of Vindication
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Your Melee weapons have +1 ATK. If your hero would deal damage with an ability, it deals that much damage +1 instead.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '3'
+
+temp: Armor Plate

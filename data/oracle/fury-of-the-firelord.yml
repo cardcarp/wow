@@ -1,0 +1,15 @@
+card_name: Fury of the Firelord
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Ragnaros deals 50 fire damage to each opposing hero and ally. That damage can't be prevented. Fury of the Firelord can't be interrupted.
+
+cost: '15'
+
+temp: Ragnaros

@@ -1,0 +1,18 @@
+card_name: Smoke Bomb
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Opposing heroes and allies attack at random. Opponents pay 2 more to play abilities that target a hero or ally you control.'
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: Subtlety

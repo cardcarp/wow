@@ -1,0 +1,18 @@
+card_name: Thunderstrike Weapon
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target equipment you control. Ongoing : When attached equipment exhausts, you may pay 1 . If you do, your hero deals 1 nature damage to target hero or ally.'
+
+class:
+  - Shaman
+
+cost: '1'
+
+temp: Enhancement

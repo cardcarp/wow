@@ -1,0 +1,55 @@
+name: Alliance Paladin
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Alliance
+  - Starter
+  - '2011'
+
+collection: '2011'
+
+highlight: starter-2011-alliance-paladin-001
+
+description: 2011 Alliance Paladin Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2011 Alliance Paladin
+
+total: 61
+
+list:
+  hero:
+    starter-2011-alliance-paladin-001: 1  # Saria of Stormwind
+  main:
+    starter-2011-alliance-paladin-002: 2  # Blessing of Might
+    starter-2011-alliance-paladin-003: 2 # Censure
+    starter-2011-alliance-paladin-004: 2 # Hammer of Justice
+    starter-2011-alliance-paladin-005: 2 # Holy Light
+    starter-2011-alliance-paladin-006: 1 # Holy Shock
+    starter-2011-alliance-paladin-007: 1 # Seal of Wrath
+    starter-2011-alliance-paladin-008: 1 # Wrath of Turalyon
+    starter-2011-alliance-paladin-009: 3 # Alador Stonebrew
+    starter-2011-alliance-paladin-010: 3 # Andiss Butcherson
+    starter-2011-alliance-paladin-011: 1 # Anika Berlyn
+    starter-2011-alliance-paladin-012: 3 # Apprentice Teep
+    starter-2011-alliance-paladin-013: 2 # Gerana Sparkfist
+    starter-2011-alliance-paladin-014: 2 # Jeniva Prescott
+    starter-2011-alliance-paladin-015: 2 # Kor Cindervein
+    starter-2011-alliance-paladin-016: 3 # Orono the Great
+    starter-2011-alliance-paladin-017: 2 # Terina Calin
+    starter-2011-alliance-paladin-018: 3 # Trixie Boltclunker
+    starter-2011-alliance-paladin-019: 2 # Tyrus Lionheart
+    starter-2011-alliance-paladin-020: 1 # Edgemasters Handguards
+    starter-2011-alliance-paladin-021: 1 # Golem Skull Helm
+    starter-2011-alliance-paladin-022: 2 # Angry Dread
+    starter-2011-alliance-paladin-023: 2 # Citadel Enforcers Claymore
+    starter-2011-alliance-paladin-024: 2 # A Bird in Hand
+    starter-2011-alliance-paladin-025: 1 # Blueleaf Tubers
+    starter-2011-alliance-paladin-026: 4 # Entrenched
+    starter-2011-alliance-paladin-027: 4 # The Essence of Enmity
+    starter-2011-alliance-paladin-028: 2 # The Grimtotem Weapon
+    starter-2011-alliance-paladin-029: 4 # The Key to Freedom

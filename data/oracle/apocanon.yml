@@ -1,0 +1,24 @@
+card_name: Apocanon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: Traitor Hero Required Ally cards in all zones are also Demon cards.
+
+class:
+  - Warlock
+
+cost: '3'
+
+combat: Fire
+
+temp: Abyssal Demon Traitor

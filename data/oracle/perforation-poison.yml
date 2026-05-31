@@ -1,0 +1,18 @@
+card_name: Perforation Poison
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero that was dealt combat damage by your hero this turn. Ongoing : At the start of your turn, your hero deals nature damage to attached hero equal to 1 plus the number of weapons you control.'
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Poison

@@ -1,0 +1,18 @@
+card_name: Dark Deliverance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 3 shadow damage to target ally. If an ally is dealt fatal damage this way, your hero heals 3 damage from itself.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Shadow

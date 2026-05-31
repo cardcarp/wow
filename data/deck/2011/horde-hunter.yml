@@ -1,0 +1,57 @@
+name: Horde Hunter
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Horde
+  - Starter
+  - '2011'
+
+collection: '2011'
+
+highlight: starter-2011-horde-hunter-001
+
+description: 2011 Horde Hunter Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2011 Horde Hunter
+
+total: 61
+
+list:
+  hero:
+    starter-2011-horde-hunter-001: 1  # Zunjo of Sen_jin
+  main:
+    starter-2011-horde-hunter-002: 3  # Arcane Shot
+    starter-2011-horde-hunter-003: 2 # Bogspike
+    starter-2011-horde-hunter-004: 1 # Chops
+    starter-2011-horde-hunter-005: 2 # Crippling Shot
+    starter-2011-horde-hunter-006: 1 # Crusty
+    starter-2011-horde-hunter-007: 1 # Explosive Shot
+    starter-2011-horde-hunter-008: 1 # Favor of the Hunt
+    starter-2011-horde-hunter-009: 1 # Fury
+    starter-2011-horde-hunter-010: 1 # Kill Command
+    starter-2011-horde-hunter-011: 1 # Spoils of the Hunt
+    starter-2011-horde-hunter-012: 2 # Steady Shot
+    starter-2011-horde-hunter-013: 2 # Turn the Blade
+    starter-2011-horde-hunter-014: 2 # Zip
+    starter-2011-horde-hunter-015: 3 # Benethor Draigo
+    starter-2011-horde-hunter-016: 3 # Claemora Amberglare
+    starter-2011-horde-hunter-017: 1 # Drizzie Steelslam
+    starter-2011-horde-hunter-018: 3 # Kagra of the Crossroads
+    starter-2011-horde-hunter-019: 2 # Kalnuf Eagleheart
+    starter-2011-horde-hunter-020: 1 # Moko Hunts-at-Dawn
+    starter-2011-horde-hunter-021: 2 # Nikka Blastbor
+    starter-2011-horde-hunter-022: 2 # Taz_dingo
+    starter-2011-horde-hunter-023: 2 # Zulanji
+    starter-2011-horde-hunter-024: 2 # Blackcrow
+    starter-2011-horde-hunter-025: 2 # Stakethrower
+    starter-2011-horde-hunter-026: 3 # A Bird in Hand
+    starter-2011-horde-hunter-027: 1 # Blueleaf Tubers
+    starter-2011-horde-hunter-028: 3 # Entrenched
+    starter-2011-horde-hunter-029: 4 # The Essence of Enmity
+    starter-2011-horde-hunter-030: 4 # The Key to Freedom
+    starter-2011-horde-hunter-031: 2 # Mystery Goo

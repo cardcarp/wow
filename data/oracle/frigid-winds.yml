@@ -1,0 +1,19 @@
+card_name: Frigid Winds
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target hero or ally can't attack this turn. Draw a card.
+
+class:
+  - Druid
+  - Mage
+
+cost: '2'
+
+temp: Balance Frost

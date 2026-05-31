@@ -1,0 +1,18 @@
+card_name: Heartrazor
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 1 , Destroy Heartrazor → Target hero can't deal damage this turn.
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: 1H Weapon Dagger

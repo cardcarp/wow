@@ -1,0 +1,18 @@
+card_name: Rage of the Elements
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target ally. Ongoing : Attached ally has Assault 2 and Smash . When attached ally is destroyed, if it was a Monster, put this ability from the graveyard into its owner's hand."
+
+class:
+  - Shaman
+
+cost: '1'
+
+temp: Enhancement

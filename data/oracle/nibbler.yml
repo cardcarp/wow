@@ -1,0 +1,23 @@
+card_name: Nibbler
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: When this or another Murloc ally enters play under your control, it deals 1 melee damage to target opposing hero.
+
+cost: '2'
+
+combat: Melee
+
+temp: Murloc Rogue
+
+type: Monster

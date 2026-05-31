@@ -1,0 +1,22 @@
+card_name: Stormtip
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you play a card, you may pay 1 . If you do, add a surge counter. 2 , Exhaust your hero, remove all surge counters → Your hero deals 1 frost damage to target hero or ally for each counter removed this way.
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: 1H Weapon Dagger

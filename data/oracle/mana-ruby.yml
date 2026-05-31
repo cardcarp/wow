@@ -1,0 +1,18 @@
+card_name: Mana Ruby
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : 2 , Destroy Mana Ruby → Draw cards until you reach your maximum hand size.'
+
+class:
+  - Mage
+
+cost: '5'
+
+temp: Arcane

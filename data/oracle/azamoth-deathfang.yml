@@ -1,0 +1,23 @@
+card_name: Azamoth Deathfang
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: 2 , Discard a card → This ally deals 1 shadow damage to target ally.
+
+cost: '1'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Orc Warlock

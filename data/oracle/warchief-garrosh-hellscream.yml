@@ -1,0 +1,23 @@
+card_name: Warchief Garrosh Hellscream
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 3
+
+text: When another ally enters play under your control, it has Assault 2 , Ferocity , and "At the end of your turn, destroy this ally" this turn.
+
+cost: '4'
+
+combat: Nature
+
+faction: Horde
+
+temp: Orc Warrior

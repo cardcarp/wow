@@ -1,0 +1,23 @@
+card_name: Blood Guard Gulmok
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 8
+
+text: Protector When another ally enters your party, you may destroy target ally.
+
+cost: '9'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

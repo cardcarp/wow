@@ -1,0 +1,23 @@
+card_name: Kallipssa
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: Long-Range When this ally deals combat damage to a defending ally, draw a card.
+
+cost: '4'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Draenei Mage

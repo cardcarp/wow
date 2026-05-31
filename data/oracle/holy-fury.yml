@@ -1,0 +1,18 @@
+card_name: Holy Fury
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 3 unpreventable holy damage to target ally. If that ally has fatal damage, destroy any number of abilities attached to a card you control.
+
+class:
+  - Paladin
+
+cost: '3'
+
+temp: Holy

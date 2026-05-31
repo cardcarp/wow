@@ -1,0 +1,23 @@
+card_name: Yula the Fair
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: Pay 2 or remove an honor counter from a card you control → Prevent the next 1 damage that Yula would be dealt this turn.
+
+cost: '4'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Paladin

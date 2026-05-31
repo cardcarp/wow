@@ -1,0 +1,24 @@
+card_name: Enslaved Abyssal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 7
+
+text: Fire Resistance At the end of your turn, if you didn't play a Demon or Demonology card this turn, choose an opponent. He gains control of Enslaved Abyssal, and it loses this power.
+
+class:
+  - Warlock
+
+cost: '4'
+
+combat: Fire
+
+temp: Abyssal Demon

@@ -1,0 +1,21 @@
+card_name: Deragor the Earthsworn
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 6 → Flip Deragor face down.
+
+faction: Alliance
+
+temp: Dwarf Shaman
+
+transform:
+  - id: ability
+    text: At the start of your turn, target up to three heroes and/or allies. Deragor heals 3, 2, and 1 damage from them, respectively.

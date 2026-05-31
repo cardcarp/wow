@@ -1,0 +1,18 @@
+card_name: Blood Presence
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : If your hero would deal damage, it deals that much +1 instead. When your hero deals damage it heals 1 damage from itself.'
+
+class:
+  - Death Knight
+
+cost: '4'
+
+temp: Blood

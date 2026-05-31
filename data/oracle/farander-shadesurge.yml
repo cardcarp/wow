@@ -1,0 +1,23 @@
+card_name: Farander Shadesurge
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: Mend 2
+
+cost: '5'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Blood Elf Priest

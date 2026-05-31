@@ -1,0 +1,18 @@
+card_name: Void Rip
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Remove target ally from the game.
+
+class:
+  - Warlock
+
+cost: '4'
+
+temp: Destruction

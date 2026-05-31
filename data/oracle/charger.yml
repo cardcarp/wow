@@ -1,0 +1,24 @@
+card_name: Charger
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 5
+
+text: You pay 1 less to complete quests. When you place a resource face up, your hero deals 1 unpreventable holy damage to target hero or ally. Prevent the next 1 damage that would be dealt to a second target hero or ally this turn. (Mounts can't attack or be attacked.)
+
+class:
+  - Paladin
+
+cost: '2'
+
+combat: Melee
+
+temp: Horse

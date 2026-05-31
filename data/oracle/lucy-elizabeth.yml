@@ -1,0 +1,23 @@
+card_name: Lucy Elizabeth
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Protector
+
+cost: '2'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

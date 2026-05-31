@@ -1,0 +1,18 @@
+card_name: Feline Grace
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : 2 , → Ready your hero. Your hero has Cat Form .'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Feral

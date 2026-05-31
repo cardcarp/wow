@@ -1,0 +1,15 @@
+card_name: Blistering Tentacle
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Put two Corrupted Blood ally tokens into play. Ongoing : At the end of Deathwing's turn, he deals fire damage to each Raiding hero equal to the number of Corrupted Blood allies Deathwing controls. If Deathwing is dealt 8 or more damage in one turn, destroy this ability."
+
+temp: ''
+
+type: Boss

@@ -1,0 +1,21 @@
+card_name: Collidus the Warp-Watcher
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: When Collidus enters play, put each other ally into its owner's hand.
+
+cost: '7'
+
+combat: Shadow
+
+temp: Demon

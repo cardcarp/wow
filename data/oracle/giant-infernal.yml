@@ -1,0 +1,21 @@
+card_name: Giant Infernal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 1
+
+text: At the start of the Caverns hero's turn, this ally deals 10 fire damage to the MARKED hero.
+
+combat: Fire
+
+temp: Infernal Demon
+
+type: Boss

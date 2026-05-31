@@ -1,0 +1,23 @@
+card_name: Kentro Slade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: At the start of your turn, if you control an armor, item, and weapon, destroy this ally. If you do, search your deck and/or hand for a master hero and put it into play.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

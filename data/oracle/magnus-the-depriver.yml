@@ -1,0 +1,17 @@
+card_name: Magnus the Depriver
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 'On your turn: 2 , Flip Magnus → Target player turns one of his face-up resources face down.'
+
+faction: Alliance
+
+temp: Dwarf Hunter

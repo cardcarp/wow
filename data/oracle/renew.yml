@@ -1,0 +1,18 @@
+card_name: Renew
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero heals 1 damage from attached character.'
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Holy

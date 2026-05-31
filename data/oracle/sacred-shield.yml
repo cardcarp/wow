@@ -1,0 +1,18 @@
+card_name: Sacred Shield
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Interrupt target ability card that is targeting a friendly card.
+
+class:
+  - Paladin
+
+cost: '3'
+
+temp: Holy

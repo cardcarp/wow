@@ -1,0 +1,19 @@
+card_name: The Arachnid Quarter
+
+layout: standard
+
+regulation:
+
+category: Misc
+
+errata: []
+
+text: "If a raiding hero or ally would deal non-combat damage, it deals that much -1 instead. On your turn: → Put a Web Wrap from your graveyard into your hand. When a Boss is destroyed, destroy all Naxxramas tokens. When Maexxna is destroyed, flip this card. Anub'Rekhan Grand Widow Faerlina Maexxna"
+
+temp: ''
+
+transform:
+  - id: ability
+    text: When this card flips to this side, say "Who dares violate the sanctity of my domain? Be warned, all who trespass here are doomed!" If a raiding hero or ally would deal non-combat damage, it deals that much +1 instead.
+
+type: Raid

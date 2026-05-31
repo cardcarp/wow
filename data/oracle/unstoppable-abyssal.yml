@@ -1,0 +1,23 @@
+card_name: Unstoppable Abyssal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: When this ally enters play, target opposing ally can't protect this turn.
+
+cost: '4'
+
+combat: Fire
+
+temp: Abyssal Demon
+
+type: Monster

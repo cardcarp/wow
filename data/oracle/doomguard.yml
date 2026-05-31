@@ -1,0 +1,19 @@
+card_name: Doomguard
+
+layout: standard
+
+regulation:
+
+category: Token
+
+errata: []
+
+damage: 5
+
+health: 5
+
+combat: Shadow
+
+temp: Doomguard Demon
+
+type: Monster

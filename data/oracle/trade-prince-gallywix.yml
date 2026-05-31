@@ -1,0 +1,23 @@
+card_name: Trade Prince Gallywix
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Goblin allies you control have Time is Money and " → Ready a resource you control."
+
+cost: '2'
+
+combat: Melee
+
+faction: Horde
+
+temp: Goblin Trade Prince

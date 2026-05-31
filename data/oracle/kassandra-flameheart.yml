@@ -1,0 +1,17 @@
+card_name: Kassandra Flameheart
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Kassandra → Target Pet has +3 ATK this turn.
+
+faction: Horde
+
+temp: Blood Elf Hunter

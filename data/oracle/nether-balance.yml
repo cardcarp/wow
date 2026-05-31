@@ -1,0 +1,18 @@
+card_name: Nether Balance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When this ability enters play, your hero deals 5 shadow damage to target ally. When an opposing ally is destroyed, you may pay 2 . If you do, put a 2 / 2 Demon Skull Monster token into play.'
+
+class:
+  - Warlock
+
+cost: '5'
+
+temp: Demonology

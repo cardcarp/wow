@@ -1,0 +1,23 @@
+card_name: Sapphiron Drape
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If your hero would deal damage with an ability, it deals that amount of damage plus 1 instead. If your hero would heal damage with an ability, it heals that amount of damage plus 1 instead.
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '5'
+
+temp: Armor Cloth

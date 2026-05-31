@@ -1,0 +1,18 @@
+card_name: Dagger of Betrayal
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn: → Target opponent chooses an ally he controls. Exchange control of that ally and this weapon.'
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: 1H Weapon Dagger

@@ -1,0 +1,18 @@
+card_name: Excessive Force
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target ally has +3 ATK this turn. Target ally has -3 ATK this turn.
+
+class:
+  - Rogue
+
+cost: '2'
+
+temp: Combat

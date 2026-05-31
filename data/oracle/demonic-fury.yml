@@ -1,0 +1,15 @@
+card_name: Demonic Fury
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Demonic Fury enters play exhausted. Ongoing : → You pay 2 less to play your next card this turn.'
+
+cost: '2'
+
+temp: ''

@@ -1,0 +1,21 @@
+card_name: Glubtok
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 12
+
+text: 'Boss Arcane Power : When Glubtok attacks, roll two six-sided dice. He has Assault X this turn, where X is the sum of those rolls.'
+
+combat: Arcane
+
+temp: Ogre Mage
+
+type: Dungeon

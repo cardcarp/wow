@@ -1,0 +1,23 @@
+card_name: Cunning Crypt Fiend
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: When this ally enters play, you may destroy target ally with ATK 2 or less.
+
+cost: '5'
+
+combat: Melee
+
+temp: Scourge Crypt Fiend
+
+type: Monster

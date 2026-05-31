@@ -1,0 +1,13 @@
+card_name: A Common Enemy
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: 'Ongoing : Players skip flipping Arena cards. The Arena deck is a Raid Boss hero with 1 ATK / X health, where X is the number of cards in the Arena graveyard. Heroes and allies can attack only the Raid Boss, and cards and effects must target the Raid Boss if able. When the Raid Boss is dealt fatal damage, put this card into the Arena graveyard, and the turn player flips a new Arena card.'
+
+temp: ''

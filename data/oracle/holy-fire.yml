@@ -1,0 +1,18 @@
+card_name: Holy Fire
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero or ally, and your hero deals 2 holy damage to it. That damage can't be prevented. Ongoing : At the start of each turn, your hero deals 1 holy damage to attached character. That damage can't be prevented."
+
+class:
+  - Priest
+
+cost: '3'
+
+temp: Holy

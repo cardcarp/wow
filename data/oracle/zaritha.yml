@@ -1,0 +1,17 @@
+card_name: Zaritha
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Zaritha → Zaritha heals 5 damage from target hero or ally.
+
+faction: Alliance
+
+temp: Draenei Shaman

@@ -1,0 +1,104 @@
+card_name:
+  type: string
+  required: true
+
+layout:
+  type: string
+  required: true
+
+regulation:
+  type: string
+  required: true
+  nullable: true
+
+category:
+  type: string
+  required: true
+  allowed: ['Ally', 'Hero', 'Master Hero', 'Ability', 'Equipment', 'Location', 'Event', 'Quest', 'Achievement', 'Token', 'Craft', 'Dungeon', 'Badge', 'Misc']
+  nullable: true
+
+text:
+  type: string
+  required: false
+  nullable: true
+
+# ability:
+#   type: list
+#   required: false
+#   schema:
+#     type: string
+
+errata:
+  type: list
+  required: false
+  nullable: true
+  schema:
+    type: dict
+    schema:
+      date:
+        type: string
+        required: false
+      text:
+        type: string
+        required: false
+
+damage:
+  type: integer
+  required: false
+  min: 0
+  coerce: int
+
+health:
+  type: integer
+  required: false
+  min: 0
+  coerce: int
+
+cost:
+  type: string
+  required: false
+  min: 0 
+  coerce: str
+
+combat:
+  type: string
+  required: false
+
+faction:
+  type: string
+  required: false
+
+class:
+  type: list
+  required: false
+  schema:
+    type: string
+
+instant:
+  type: string
+  required: false
+
+type:
+  type: string
+  required: false
+
+stage:
+  type: integer
+  required: false
+
+transform:
+  type: list
+  required: false
+  schema:
+    type: dict
+    schema:
+      id:
+        type: string
+        required: false
+      text:
+        type: string
+        required: false
+
+temp: # Data normalized from other sources, Intended to be cleaned up.
+  type: string
+  required: false

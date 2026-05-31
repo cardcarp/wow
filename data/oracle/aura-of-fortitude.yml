@@ -1,0 +1,13 @@
+card_name: Aura of Fortitude
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: 'Ongoing : Each ally has +X health, where X is its printed health. As Aura of Fortitude leaves play, remove all damage from all allies.'
+
+temp: ''

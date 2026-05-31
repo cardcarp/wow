@@ -1,0 +1,19 @@
+card_name: Paralyzing Strike
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Exhaust target hero, ally, or equipment. It can't ready during its controller's next ready step.
+
+class:
+  - Warrior
+  - Rogue
+
+cost: '1'
+
+temp: Combat Arms

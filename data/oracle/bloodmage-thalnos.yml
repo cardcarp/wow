@@ -1,0 +1,21 @@
+card_name: Bloodmage Thalnos
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 12
+
+text: "Boss Flame Shock : When Thalnos attacks, he deals fire damage to the MARKED hero equal to the highest cost card in that hero's party. If this ally would be dealt holy ( ) damage, he is dealt double that amount instead."
+
+combat: Shadow
+
+temp: Skeleton Mage
+
+type: Dungeon

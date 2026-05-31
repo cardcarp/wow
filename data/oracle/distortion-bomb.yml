@@ -1,0 +1,15 @@
+card_name: Distortion Bomb
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Choose one of the following at random: Destroy all Raiding abilities, allies and equipment with an even cost; or destroy all Raiding abilities, allies, and equipment with an odd cost.'
+
+temp: ''
+
+type: Boss

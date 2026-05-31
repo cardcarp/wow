@@ -1,0 +1,23 @@
+card_name: Corvus Promaethon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 5
+
+text: → Remove target ability or equipment from the game.
+
+cost: '5'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Human Warlock

@@ -1,0 +1,21 @@
+card_name: Millhouse Manastorm
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 7
+
+text: Millhouse enters play with three monologue counters and can't attack while he has any. 1 , Say "Lowly? Nobody refers to the mighty Millhouse Manastorm as lowly!" → Remove a monologue counter. 2 , Say "Ice, Ice, Baby!" → Remove a monologue counter. 3 , Say "I'm gonna light you up, sweet cheeks!" → Remove a monologue counter. Use each of these powers only once per game.
+
+cost: '3'
+
+combat: Frost
+
+temp: Gnome Mage

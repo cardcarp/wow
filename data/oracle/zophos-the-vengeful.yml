@@ -1,0 +1,17 @@
+card_name: Zophos the Vengeful
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 3 , Flip Zophos → Zophos deals 3 unpreventable holy damage to target attacker.
+
+faction: Alliance
+
+temp: Draenei Paladin

@@ -1,0 +1,18 @@
+card_name: Frozen Core
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally. Ongoing : Attached ally has -2 / -2.'
+
+class:
+  - Death Knight
+
+cost: '1'
+
+temp: Frost

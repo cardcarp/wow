@@ -1,0 +1,23 @@
+card_name: Darkshire Deathsworn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: Protector
+
+cost: '4'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Human Death Knight

@@ -1,0 +1,23 @@
+card_name: Nightbane
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 10
+
+health: 10
+
+text: When Nightbane enters play, he deals 10 fire damage divided as you choose to any number of target opposing heroes and/or allies.
+
+cost: '10'
+
+combat: Fire
+
+temp: Skeleton Dragonkin
+
+type: Monster

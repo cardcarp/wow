@@ -1,0 +1,23 @@
+card_name: Thanu Sunhorn
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: Protector When damage is healed from your hero, your hero may heal that much damage from target ally.
+
+cost: '4'
+
+combat: Holy
+
+faction: Horde
+
+temp: Tauren Paladin

@@ -1,0 +1,23 @@
+card_name: Swift Nightsaber
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 4
+
+text: Night Elf Hero Required You pay 1 less to complete quests. When you place a resource face up, you may ready your hero. If you do, it can't attack this turn. (Mounts can't attack or be attacked.)
+
+cost: '1'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Nightsaber

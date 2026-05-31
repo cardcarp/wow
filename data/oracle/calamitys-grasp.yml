@@ -1,0 +1,19 @@
+card_name: Calamitys Grasp
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+instant: When this equipment enters play, choose "ability", "ally", or "equipment." You may discard a card of that kind. If you do, destroy target card if it shares that kind.
+
+class:
+  - Shaman
+  - Rogue
+
+cost: '4'
+
+temp: 1H Weapon Fist

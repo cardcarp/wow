@@ -1,0 +1,22 @@
+card_name: Nethershard
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn: 2 , Exhaust your hero → Target opponent removes a card in his hand from the game.'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '3'
+
+temp: 1H Weapon Dagger

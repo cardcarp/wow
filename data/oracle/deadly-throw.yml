@@ -1,0 +1,18 @@
+card_name: Deadly Throw
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Finishing Move Your daggers have Thrown and +X ATK this turn.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Assassination

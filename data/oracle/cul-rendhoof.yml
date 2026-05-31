@@ -1,0 +1,17 @@
+card_name: Cul Rendhoof
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 3 , Flip Cul Rendhoof → When target ally in your party is destroyed this turn, its owner puts it from his graveyard into his resource row face down and exhausted.
+
+faction: Horde
+
+temp: Tauren Druid

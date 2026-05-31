@@ -1,0 +1,23 @@
+card_name: Jasmine von Ludrow
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Frost Resistance
+
+cost: '6'
+
+combat: Frost
+
+faction: Horde
+
+temp: Undead Mage

@@ -1,0 +1,23 @@
+card_name: Velen, Prophet of the Naaru
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 7
+
+text: At the end of your turn, Velen deals 5 unpreventable holy damage to target opposing or Monster hero or ally. If that character is dealt fatal damage this way, draw a card.
+
+cost: '7'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Draenei Priest

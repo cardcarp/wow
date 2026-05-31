@@ -1,0 +1,21 @@
+card_name: Arcanist Bartis
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: 'Scryer Reputation Sabotage: Player When Bartis sabotages a player, that player discards a card or destroys an ally in his party.'
+
+cost: '2'
+
+combat: Fire
+
+temp: Blood Elf Mage

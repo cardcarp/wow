@@ -1,0 +1,19 @@
+card_name: Vengeful Gladiators Bonecracker
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When a resource enters play under your control, put a +1 ATK counter on Vengeful Gladiator's Bonecracker.
+
+class:
+  - Warrior
+  - Rogue
+
+cost: '2'
+
+temp: 1H Arena Weapon Mace

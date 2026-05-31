@@ -1,0 +1,18 @@
+card_name: Tainted Earth
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Traitor Hero Required Ongoing : When an opponent completes a quest, your hero deals 3 nature damage to target hero in his party.'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Traitor

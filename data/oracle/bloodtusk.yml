@@ -1,0 +1,17 @@
+card_name: Bloodtusk
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 26
+
+text: 5 , Flip Bloodtusk → Discard your hand. Each opponent discards a card for each card you discarded this way. Use only on your turn. Hakkari
+
+faction: Horde
+
+temp: Troll Priest

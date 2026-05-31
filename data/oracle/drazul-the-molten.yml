@@ -1,0 +1,17 @@
+card_name: Drazul the Molten
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 3 , Flip Drazul → Drazul deals 4 fire damage to target hero or ally that was dealt damage this turn.
+
+faction: Horde
+
+temp: Orc Mage

@@ -1,0 +1,49 @@
+set_allow:
+  type: list
+  required: false
+  schema:
+    type: string
+
+regulation_allow:
+  type: list
+  required: false
+  schema:
+    type: string
+    coerce: str
+
+oracle_ban:
+  type: list
+  required: false
+  nullable: true
+  schema:
+    type: string
+
+oracle_restrict:
+  type: list
+  required: false
+  nullable: true
+  schema:
+    type: string
+
+oracle_limit:
+  type: integer
+  required: false
+  min: 1
+
+category_limit:
+  type: dict
+  required: false
+  nullable: true
+  valuesrules:
+    type: integer
+
+size_main:
+  type: integer
+  required: false
+  min: 0
+
+size_side:
+  type: integer
+  required: false
+  nullable: true
+  min: 0

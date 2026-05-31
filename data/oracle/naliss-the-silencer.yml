@@ -1,0 +1,23 @@
+card_name: Naliss the Silencer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 7
+
+text: Blood Elf Hero Required Arcane Torrent 1 → Target opposing card in play loses and can't have powers this turn.
+
+cost: '6'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Blood Elf Mage

@@ -1,0 +1,17 @@
+card_name: Sana the Black Blade
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 'On your turn: 3 , Flip Sana → Sana deals 3 melee damage to target exhausted hero or ally.'
+
+faction: Alliance
+
+temp: Worgen Rogue

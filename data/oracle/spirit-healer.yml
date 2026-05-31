@@ -1,0 +1,15 @@
+card_name: Spirit Healer
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : At the end of each player's turn, that player may put an ally card from his graveyard into play with damage on it equal to its health minus 1."
+
+cost: '8'
+
+temp: ''

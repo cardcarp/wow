@@ -1,0 +1,18 @@
+card_name: Natural Defenses
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Each of your armor has +1 DEF while your hero is in bear form.'
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Feral

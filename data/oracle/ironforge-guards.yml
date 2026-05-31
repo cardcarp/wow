@@ -1,0 +1,23 @@
+card_name: Ironforge Guards
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Ironforge Guards has +1 health for each other ally named Ironforge Guards in your party.
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Warrior

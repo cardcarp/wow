@@ -1,0 +1,21 @@
+card_name: Retainer Cara
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 4
+
+text: 'Scryer Reputation Sabotage: Equipment When Cara sabotages an equipment, gain control of it.'
+
+cost: '6'
+
+combat: Melee
+
+temp: Blood Elf Rogue

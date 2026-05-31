@@ -1,0 +1,18 @@
+card_name: Arcane Binding
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Attach to target hero. Ongoing : As this ability enters play, choose \"ability,\" \"ally,\" or \"equipment.\" Attached hero's controller can't play more than one card of the chosen kind per turn."
+
+class:
+  - Mage
+
+cost: '2'
+
+temp: Arcane

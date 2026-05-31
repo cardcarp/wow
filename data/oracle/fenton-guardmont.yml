@@ -1,0 +1,23 @@
+card_name: Fenton Guardmont
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Protector Aberration
+
+cost: '2'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Worgen Warrior

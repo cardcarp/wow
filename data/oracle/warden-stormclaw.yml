@@ -1,0 +1,17 @@
+card_name: Warden Stormclaw
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Stormclaw, destroy a Form you control → Destroy target ally. Use only on your turn.
+
+faction: Horde
+
+temp: Tauren Druid

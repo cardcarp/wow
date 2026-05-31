@@ -1,0 +1,18 @@
+card_name: Withering Shout
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Opposing allies have -1 health.'
+
+class:
+  - Warrior
+
+cost: '4'
+
+temp: Fury Shout

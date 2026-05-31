@@ -1,0 +1,21 @@
+card_name: Tauren Deathwalker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 7
+
+cost: '5'
+
+combat: Frost
+
+faction: Horde
+
+temp: Tauren Death Knight

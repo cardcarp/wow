@@ -1,0 +1,19 @@
+card_name: Essence of Mending
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero heals 6 damage from each friendly hero and ally.
+
+class:
+  - Priest
+  - Shaman
+
+cost: '4'
+
+temp: Holy Restoration

@@ -1,0 +1,18 @@
+card_name: Energize
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Target player draws two cards.
+
+class:
+  - Druid
+
+cost: '3'
+
+temp: Restoration

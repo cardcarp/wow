@@ -1,0 +1,23 @@
+card_name: Lei of Lilies
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: At the start of your turn, if you have four or more cards in your hand, your hero heals 1 damage from itself. 1 , Destroy Lei of Lilies → Your hero heals 1 damage from itself for each card in your hand.
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '4'
+
+temp: Item Neck

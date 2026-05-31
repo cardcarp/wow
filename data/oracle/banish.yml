@@ -1,0 +1,18 @@
+card_name: Banish
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Remove target Demon ally or Elemental ally from the game.
+
+class:
+  - Warlock
+
+cost: '1'
+
+temp: Demonology

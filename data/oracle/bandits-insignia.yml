@@ -1,0 +1,19 @@
+card_name: Bandits Insignia
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn: → Target opponent puts a card from his hand into his resource row face down and exhausted.'
+
+class:
+  - Druid
+  - Rogue
+
+cost: '4'
+
+temp: Item Trinket

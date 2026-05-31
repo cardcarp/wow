@@ -1,0 +1,23 @@
+card_name: Tyrus Lionheart
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Protector This ally has +4 ATK while defending.
+
+cost: '1'
+
+combat: Holy
+
+faction: Alliance
+
+temp: Human Paladin

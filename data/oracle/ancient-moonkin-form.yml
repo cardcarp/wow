@@ -1,0 +1,18 @@
+card_name: Ancient Moonkin Form
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : If your hero would deal or heal damage, it deals or heals that much +1 instead. While you control five or more Ongoing abilities: → Draw a card.'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Balance Moonkin Form

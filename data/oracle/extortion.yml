@@ -1,0 +1,18 @@
+card_name: Extortion
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Ready and gain control of target opposing ally until end of turn. It has Ferocity and Stealth this turn, and can attack only heroes this turn.
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Subtlety

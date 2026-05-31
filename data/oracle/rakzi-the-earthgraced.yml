@@ -1,0 +1,23 @@
+card_name: Rakzi the Earthgraced
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: 'This ally has Assault 1 for each equipment you control. Stash : Target weapon you control has Assault 1 this turn.'
+
+cost: '2'
+
+combat: Nature
+
+faction: Horde
+
+temp: Goblin Shaman

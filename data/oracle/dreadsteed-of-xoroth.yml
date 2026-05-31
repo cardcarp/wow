@@ -1,0 +1,18 @@
+card_name: Dreadsteed of Xoroth
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'On your turn: Pay 4 to complete this quest. Reward : Put target Demon ally from your graveyard into play if its cost is less than or equal to the number of resources you control.'
+
+class:
+  - Warlock
+
+temp: ''
+
+type: Class Restriction

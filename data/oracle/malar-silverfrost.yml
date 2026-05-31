@@ -1,0 +1,23 @@
+card_name: Malar Silverfrost
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Protector When this ally enters play, opposing allies have -1 this turn.
+
+cost: '4'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Night Elf Death Knight

@@ -1,0 +1,17 @@
+card_name: Ozzati
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 25
+
+text: 4 , Flip Ozzati → Ozzati deals 1 fire damage to each opposing hero and ally. Use only on your turn.
+
+faction: Alliance
+
+temp: Draenei Mage

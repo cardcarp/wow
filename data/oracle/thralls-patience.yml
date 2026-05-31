@@ -1,0 +1,15 @@
+card_name: Thralls Patience
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : On your turn: Exhaust an Aspect of Thrall ability you control → Put a 2 / 1 Earth Elemental ally token into play. When your hero attacks, if you control four exhausted Aspect of Thrall abilities, destroy all four of them. If you do, search your deck and/or hand for a master hero named Thrall the Earth-Warder and put it into play.'
+
+cost: '5'
+
+temp: Aspect of Thrall

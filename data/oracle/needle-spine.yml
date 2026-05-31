@@ -1,0 +1,18 @@
+card_name: Needle Spine
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Traitor Hero Required When target hero or ally deals combat damage to your defending hero this turn, your hero also deals that much ranged damage to it.
+
+class:
+  - Hunter
+
+cost: '1'
+
+temp: Traitor

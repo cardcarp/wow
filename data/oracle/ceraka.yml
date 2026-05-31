@@ -1,0 +1,23 @@
+card_name: Ceraka
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: 'On your turn: 1 , Turn a quest you control face down → This ally deals 3 fire damage to target hero.'
+
+cost: '4'
+
+combat: Fire
+
+faction: Horde
+
+temp: Orc Mage

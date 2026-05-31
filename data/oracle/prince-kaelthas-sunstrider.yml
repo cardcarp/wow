@@ -1,0 +1,21 @@
+card_name: Prince Kael'thas Sunstrider
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 8
+
+text: Traitor Hero Required At the end of your turn, gain control of all ready opposing resources. (Move them to your resource row.)
+
+cost: '9'
+
+combat: Arcane
+
+temp: Blood Elf Mage Traitor

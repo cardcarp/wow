@@ -1,0 +1,23 @@
+card_name: Overlord Or_barokh
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 1
+
+text: Ferocity When Or'barokh enters play, you may destroy target damaged ally.
+
+cost: '8'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

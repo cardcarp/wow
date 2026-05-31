@@ -1,0 +1,23 @@
+card_name: Forager Cloudbloom
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When this ally readies, draw a card.
+
+cost: '1'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Tauren Druid

@@ -1,0 +1,18 @@
+card_name: Whirlwind Weapon
+
+layout: standard
+
+regulation:
+
+category: Quest
+
+errata: []
+
+text: 'On your turn: Pay 5 to complete this quest. Reward : Your hero deals X melee damage to each opposing ally, where X is the ATK of a Melee weapon you control.'
+
+class:
+  - Warrior
+
+temp: ''
+
+type: Class Restriction

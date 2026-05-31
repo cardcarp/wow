@@ -1,0 +1,18 @@
+card_name: Commanding Shout
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Ongoing : Allies in your party have +1 health.'
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Fury Shout

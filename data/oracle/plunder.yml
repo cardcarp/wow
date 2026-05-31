@@ -1,0 +1,18 @@
+card_name: Plunder
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target location or quest. Ongoing : You control attached resource.'
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: Subtlety

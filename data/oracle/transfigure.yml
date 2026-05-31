@@ -1,0 +1,18 @@
+card_name: Transfigure
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Ongoing : → Target weapon's ATK becomes equal to its strike cost this turn."
+
+class:
+  - Mage
+
+cost: '4'
+
+temp: Arcane

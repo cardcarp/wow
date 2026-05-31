@@ -1,0 +1,23 @@
+card_name: Vurkeran
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 9
+
+text: Protector → Ready all abilities and equipment you control.
+
+cost: '7'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

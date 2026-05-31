@@ -1,0 +1,18 @@
+card_name: Lions, Tigers, and Bears
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Put a 2 / 2 Lion ally token into play with Ferocity . Put a 2 / 2 Tiger ally token into play with Stealth . Put a 2 / 2 Bear ally token into play with Protector .
+
+class:
+  - Druid
+
+cost: '5'
+
+temp: Feral

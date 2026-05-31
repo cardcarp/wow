@@ -1,0 +1,51 @@
+name: Alliance Warlock
+
+credit: Official Product
+
+category: Preconstructed
+
+facet:
+  - Alliance
+  - Starter
+  - '2013'
+
+collection: '2013'
+
+highlight: starter-2013-alliance-warlock-001
+
+description: 2013 Alliance Warlock Preconstructed
+
+context:
+  - title: ''
+    body: Introduction to the 2013 Alliance Warlock
+
+total: 61
+
+list:
+  hero:
+    starter-2013-alliance-warlock-001: 1  # Pierson Vale, Keeper of Secrets
+  main:
+    starter-2013-alliance-warlock-002: 3  # Drain Essence
+    starter-2013-alliance-warlock-003: 2 # Dread Touch
+    starter-2013-alliance-warlock-004: 2 # Life Tap
+    starter-2013-alliance-warlock-005: 1 # Siphon Life
+    starter-2013-alliance-warlock-006: 2 # Soul Trap
+    starter-2013-alliance-warlock-007: 3 # Steal Essence
+    starter-2013-alliance-warlock-008: 2 # Cerwyn
+    starter-2013-alliance-warlock-009: 2 # Corvus Promaethon
+    starter-2013-alliance-warlock-010: 3 # Dagin Bootzap
+    starter-2013-alliance-warlock-011: 1 # Gerrunge the Sadist
+    starter-2013-alliance-warlock-012: 3 # Gully Rustinax
+    starter-2013-alliance-warlock-013: 3 # Warden Tonarin
+    starter-2013-alliance-warlock-014: 3 # Jeniva Prescott
+    starter-2013-alliance-warlock-015: 2 # Kallipssa
+    starter-2013-alliance-warlock-016: 3 # Liba Wobblebonk
+    starter-2013-alliance-warlock-017: 3 # Maazhum
+    starter-2013-alliance-warlock-018: 1 # Marundal the Kindred
+    starter-2013-alliance-warlock-019: 3 # Parvink
+    starter-2013-alliance-warlock-020: 3 # Tomadae the Magnificent
+    starter-2013-alliance-warlock-021: 3 # Archival Purposes
+    starter-2013-alliance-warlock-022: 3 # Entrenched
+    starter-2013-alliance-warlock-023: 3 # Escape from Durnholde
+    starter-2013-alliance-warlock-024: 3 # The Essence of Enmity
+    starter-2013-alliance-warlock-025: 3 # The Vainglorious

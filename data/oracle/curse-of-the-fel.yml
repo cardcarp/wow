@@ -1,0 +1,18 @@
+card_name: Curse of the Fel
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target opposing hero. Ongoing : At the start of your turn, your hero deals 2 shadow damage to attached hero. Then, if attached hero has 15 or more damage on it, destroy this ability. If you do, put a 5 / 5 Felguard Demon Monster ally token into play with Ferocity .'
+
+class:
+  - Warlock
+
+cost: '3'
+
+temp: Affliction Curse Attachment

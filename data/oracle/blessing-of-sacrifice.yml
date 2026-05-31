@@ -1,0 +1,18 @@
+card_name: Blessing of Sacrifice
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally in your party. Ongoing : If attached ally would be dealt damage, that much damage is dealt to your hero instead.'
+
+class:
+  - Paladin
+
+cost: '5'
+
+temp: Protection Blessing

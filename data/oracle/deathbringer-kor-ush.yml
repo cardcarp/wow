@@ -1,0 +1,19 @@
+card_name: Deathbringer Kor_ush
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: 8 → Flip Kor'ush face down. You pay 8 less to flip Kor'ush if an ally you controlled with 6 or more ATK was destroyed this turn.
+
+temp: Ogre Death Knight 32
+
+transform:
+  - id: ability
+    text: "At the start of your turn, you may pay 3 and remove target ally in an opposing graveyard from the game. If you do, put a 3 / 3 Ghoul ally token into play under your control. Deckbuilding: You can't put or cards in your deck."
+
+type: Monster

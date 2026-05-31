@@ -1,0 +1,23 @@
+card_name: Wildwatcher Elandra
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When Elandra enters play, target player shuffles his graveyard into his deck.
+
+cost: '3'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Night Elf Druid

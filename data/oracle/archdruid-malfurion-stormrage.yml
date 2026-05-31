@@ -1,0 +1,23 @@
+card_name: Archdruid Malfurion Stormrage
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 8
+
+text: At the start of your turn, you may draw a card. You can place an additional resource on each of your turns.
+
+cost: '6'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Night Elf Druid

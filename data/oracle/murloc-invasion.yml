@@ -1,0 +1,13 @@
+card_name: Murloc Invasion
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Each player puts the top card of his deck into his graveyard. Then, he puts X Murloc ally tokens into play with 1 ATK / 1 health, where X is that card's cost.
+
+temp: ''

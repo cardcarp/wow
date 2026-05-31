@@ -1,0 +1,23 @@
+card_name: _Cracklehands_ Spigotgulp
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: If you would draw a card, you may skip drawing it instead. When you skip drawing a card this way, Cracklehands deals 2 arcane damage to target ally.
+
+cost: '1'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Gnome Warlock

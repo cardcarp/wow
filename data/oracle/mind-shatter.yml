@@ -1,0 +1,18 @@
+card_name: Mind Shatter
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 3 shadow damage to target hero or ally. If a hero was dealt damage this way, its controller discards a card.
+
+class:
+  - Priest
+
+cost: '2'
+
+temp: Shadow

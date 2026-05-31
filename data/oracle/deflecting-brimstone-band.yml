@@ -1,0 +1,20 @@
+card_name: Deflecting Brimstone Band
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: If your hero would be dealt damage by an opposing hero or ally, prevent 1 of it and add a stone counter to this item. Your hero has Assault 1 for each stone counter on this item.
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+cost: '6'
+
+temp: Item Ring

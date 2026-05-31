@@ -1,0 +1,23 @@
+card_name: Elementalist Psyrin
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: Psyrin can't attack. → Target ally has +3 ATK this turn.
+
+cost: '2'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

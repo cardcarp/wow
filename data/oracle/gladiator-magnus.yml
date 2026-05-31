@@ -1,0 +1,25 @@
+card_name: Gladiator Magnus
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: 1 , Destroy an Arena ally in your party → Turn target resource face down.
+
+cost: '3'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Dwarf Hunter
+
+type: Arena

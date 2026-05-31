@@ -1,0 +1,18 @@
+card_name: Shadowstep
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Subtlety Hero Required Ongoing : Ready opposing heroes and allies also count as being exhausted. (They are still ready.)'
+
+class:
+  - Rogue
+
+cost: '1'
+
+temp: Subtlety Talent

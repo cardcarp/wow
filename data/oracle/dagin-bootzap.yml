@@ -1,0 +1,23 @@
+card_name: Dagin Bootzap
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: When this ally enters play, he deals 1 arcane damage to target hero or ally.
+
+cost: '4'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Dwarf Hunter

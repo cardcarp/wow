@@ -1,0 +1,19 @@
+card_name: Gloves of Immortal Dusk
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When Gloves of Immortal Dusk enters play, you may put the top card of your deck into your resource row face down and exhausted. When Gloves of Immortal Dusk is destroyed, you may destroy target resource.
+
+class:
+  - Druid
+  - Rogue
+
+cost: '4'
+
+temp: Armor Leather

@@ -1,0 +1,17 @@
+card_name: Kileana the Inferno
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 28
+
+text: 2 , Flip Kileana → Kileana deals 2 fire damage to each ally in your party and 1 fire damage to each other ally.
+
+faction: Horde
+
+temp: Blood Elf Warlock

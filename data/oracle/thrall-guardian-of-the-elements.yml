@@ -1,0 +1,21 @@
+card_name: Thrall, Guardian of the Elements
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: "You pay 8 less to play this ally if you control each of the following: card, card, card, and card. Other abilities, allies and equipment you control can't be destroyed."
+
+cost: '8'
+
+combat: Nature
+
+temp: Orc Shaman

@@ -1,0 +1,17 @@
+card_name: Broodmothers Rage
+
+layout: standard
+
+regulation:
+
+category: Event
+
+errata: []
+
+text: Target a raider. Heroes and allies he control lose and can't have powers this turn. If you're in the Arachnid Quarter, all raiding heroes and allies lose and can't have powers this turn.
+
+temp: ''
+
+type: Raid
+
+stage: 2

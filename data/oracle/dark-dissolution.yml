@@ -1,0 +1,18 @@
+card_name: Dark Dissolution
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Remove up to one ability, one ally, and one equipment in target opponent's graveyard from the game. Your hero deals shadow damage to up to one target ally equal to the cost of an ally removed this way, heals damage from itself equal to the cost of an ability removed this way, and deals shadow damage to up to one target hero equal to the cost of an equipment removed this way.
+
+class:
+  - Death Knight
+
+cost: '5'
+
+temp: Unholy

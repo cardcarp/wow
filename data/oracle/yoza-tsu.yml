@@ -1,0 +1,23 @@
+card_name: Yoza_tsu
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 1
+
+text: When this ally enters play, target opposing ally has -1 this turn.
+
+cost: '4'
+
+combat: Fire
+
+faction: Horde
+
+temp: Troll Warlock

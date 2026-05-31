@@ -1,0 +1,23 @@
+card_name: Dreadhound
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: When this ally enters play, you may destroy another ally you control. If you do, destroy target ability.
+
+cost: '2'
+
+combat: Shadow
+
+temp: Felhunter Demon
+
+type: Monster

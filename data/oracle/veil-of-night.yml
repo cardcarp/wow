@@ -1,0 +1,18 @@
+card_name: Veil of Night
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Your hero can't be targeted by opponents this turn. Ongoing : Your hero is stealthed. (Can't protect against it. Destroy this card when your hero deals damage.)"
+
+class:
+  - Rogue
+
+cost: '3'
+
+temp: Subtlety

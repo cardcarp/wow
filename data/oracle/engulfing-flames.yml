@@ -1,0 +1,15 @@
+card_name: Engulfing Flames
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target opposing hero or ally, and Onyxia deals 5 fire damage to it. Ongoing : At the start of your turn, Onyxia deals X fire damage to attached character, where X is the current stage.'
+
+cost: '3'
+
+temp: ''

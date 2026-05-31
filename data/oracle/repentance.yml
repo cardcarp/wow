@@ -1,0 +1,18 @@
+card_name: Repentance
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Retribution Talent Destroy target ability, ally, or equipment that damage was dealt with or dealt by this turn.
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Retribution

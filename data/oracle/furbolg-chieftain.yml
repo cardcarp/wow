@@ -1,0 +1,23 @@
+card_name: Furbolg Chieftain
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 4
+
+text: While you have eight or more cards in your graveyard, prevent all damage that attacking allies would deal to this ally.
+
+cost: '6'
+
+combat: Melee
+
+temp: Furbolg Warrior
+
+type: Monster

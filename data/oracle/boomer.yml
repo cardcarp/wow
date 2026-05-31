@@ -1,0 +1,24 @@
+card_name: Boomer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: 'Once on each of your turns: Emit a sonic blast → Exhaust target hero or ally. This ally deals 1 nature damage to it.'
+
+class:
+  - Hunter
+
+cost: '2'
+
+combat: Nature
+
+temp: Bat

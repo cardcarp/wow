@@ -1,0 +1,23 @@
+card_name: Danath Trollbane
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 5
+
+text: Protector When Danath deals damage, put a 1 / 1 Human Warrior ally token into play with Protector .
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Warrior

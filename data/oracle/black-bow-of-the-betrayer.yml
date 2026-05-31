@@ -1,0 +1,20 @@
+card_name: Black Bow of the Betrayer
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'When you strike with Black Bow of the Betrayer, your hero has Long-Range this combat. : When an ally is dealt combat damage with Black Bow of the Betrayer, ready up to four of your resources.'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+
+cost: '4'
+
+temp: Ranged Weapon Bow

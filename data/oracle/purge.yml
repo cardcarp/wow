@@ -1,0 +1,18 @@
+card_name: Purge
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Destroy target ability if it's not attached to a friendly hero or ally.
+
+class:
+  - Shaman
+
+cost: '1'
+
+temp: Elemental

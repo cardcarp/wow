@@ -1,0 +1,21 @@
+card_name: Moroes_ Lucky Pocket Watch
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 2 , → Reveal the top card of your deck. The next time your hero would be dealt damage this turn, prevent damage equal to the cost of the revealed card.
+
+class:
+  - Druid
+  - Warrior
+  - Death Knight
+  - Paladin
+
+cost: '3'
+
+temp: Item Trinket

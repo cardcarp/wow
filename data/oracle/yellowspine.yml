@@ -1,0 +1,23 @@
+card_name: Yellowspine
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 1
+
+text: Long-Range Other allies in your party can protect Yellowspine.
+
+cost: '4'
+
+combat: Arcane
+
+faction: Horde
+
+temp: Troll Mage

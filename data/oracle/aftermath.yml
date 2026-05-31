@@ -1,0 +1,18 @@
+card_name: Aftermath
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Destruction Hero Required Ongoing : When you play an ability, you may exhaust target hero or ally.'
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Destruction Talent

@@ -1,0 +1,23 @@
+card_name: Stevrona Forgemender
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: 'Token allies you control have +1 / +1. Stash : Ready target token ally.'
+
+cost: '3'
+
+combat: Fire
+
+faction: Alliance
+
+temp: Dwarf Shaman

@@ -1,0 +1,23 @@
+card_name: Windseer Tarus
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 3
+
+text: When Windseer Tarus attacks for the first time each turn, you may pay 1 . If you do, ready him.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Shaman

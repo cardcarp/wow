@@ -1,0 +1,23 @@
+card_name: Watchman Visi
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: This ally has Assault 2 while an opposing hero is face down.
+
+cost: '4'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Human Hunter

@@ -1,0 +1,15 @@
+card_name: Unstoppable Flame
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: This turn, Ragnaros has +X ATK, is untargetable, and can't be protected against.
+
+cost: 1+X
+
+temp: Ragnaros

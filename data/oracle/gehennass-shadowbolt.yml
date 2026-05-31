@@ -1,0 +1,15 @@
+card_name: Gehennass Shadowbolt
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Your hero deals 4 shadow damage to target opposing hero or ally. If your hero is Gehennas, each opponent discards a card.
+
+cost: '3'
+
+temp: Molten Core

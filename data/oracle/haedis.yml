@@ -1,0 +1,21 @@
+card_name: Haedis
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 5 → Flip Haedis
+
+faction: Alliance
+
+temp: Draenei Death Knight
+
+transform:
+  - id: ability
+    text: If Haedis would deal damage, he deals that much +1 instead.

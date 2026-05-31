@@ -1,0 +1,18 @@
+card_name: Barkskin
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: "Ongoing : Your ability, ally, and equipment cards can't be interrupted."
+
+class:
+  - Druid
+
+cost: '1'
+
+temp: Balance

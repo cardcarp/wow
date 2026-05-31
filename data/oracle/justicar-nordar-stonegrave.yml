@@ -1,0 +1,26 @@
+card_name: Justicar Nordar Stonegrave
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 1
+
+text: Opposing Hunters and Pets have -2 ATK.
+
+class:
+  - Hunter
+
+cost: '1'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Dwarf Death Knight

@@ -1,0 +1,23 @@
+card_name: Chief Researcher Amereldine
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 7
+
+text: When you complete your first quest each turn, you may turn it face up if it's in play.
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Researcher

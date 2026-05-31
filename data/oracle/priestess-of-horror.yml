@@ -1,0 +1,23 @@
+card_name: Priestess of Horror
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Absorb
+
+cost: '2'
+
+combat: Shadow
+
+temp: Shivarra Demon
+
+type: Monster

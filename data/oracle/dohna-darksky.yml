@@ -1,0 +1,23 @@
+card_name: Dohna Darksky
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 3
+
+text: Other Tauren allies you control have +2 .
+
+cost: '3'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Tauren Priest

@@ -1,0 +1,23 @@
+card_name: Kena Shadowbrand
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 3
+
+text: ', Put 1 damage on Kena Shadowbrand → Draw a card.'
+
+cost: '3'
+
+combat: Shadow
+
+faction: Alliance
+
+temp: Gnome Warlock

@@ -1,0 +1,18 @@
+card_name: Vortex
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Monster allies in your hand are instant this turn until you play a Monster ally.
+
+class:
+  - Mage
+
+cost: '0'
+
+temp: Arcane

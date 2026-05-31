@@ -1,0 +1,17 @@
+card_name: Silas Darkmoon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+text: Silas has additional ATK equal to the combined ATK of all other allies in your party, and additional health equal to the combined health of all other allies in your party.
+
+cost: '6'
+
+combat: Melee
+
+temp: Gnome Ringleader

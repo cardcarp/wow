@@ -1,0 +1,18 @@
+card_name: Unending Breath
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Play with the top card of your deck revealed. You may complete quest cards from the top of your deck. As you do, remove them from the game as an additional cost.'
+
+class:
+  - Warlock
+
+cost: '2'
+
+temp: Demonology

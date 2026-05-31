@@ -1,0 +1,23 @@
+card_name: Rysa the Earthcaller
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 4
+
+text: Protector At the start of your turn, put a Totem card from your graveyard into hand.
+
+cost: '3'
+
+combat: Nature
+
+faction: Alliance
+
+temp: Draenei Shaman

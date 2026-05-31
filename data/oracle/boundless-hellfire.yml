@@ -1,0 +1,18 @@
+card_name: Boundless Hellfire
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Eternal Your hero deals 1 fire damage to each hero and ally for each resource you control.
+
+class:
+  - Warlock
+
+cost: '4'
+
+temp: Destruction

@@ -1,0 +1,20 @@
+card_name: Faerlinas Madness
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'On your turn: , Turn a resource you control face down → Turn target opposing resource face down.'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+cost: '1'
+
+temp: Armor Cloth

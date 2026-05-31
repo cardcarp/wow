@@ -1,0 +1,23 @@
+card_name: Silea Dawnwalker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: When you play an ability, you may destroy target equipment.
+
+cost: '5'
+
+combat: Melee
+
+faction: Horde
+
+temp: Blood Elf Rogue

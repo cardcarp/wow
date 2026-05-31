@@ -1,0 +1,18 @@
+card_name: Surgical Strikes
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : When a hero or ally in your party deals combat damage to a defending hero, its controller discards a card.'
+
+class:
+  - Rogue
+
+cost: '4'
+
+temp: Subtlety

@@ -1,0 +1,23 @@
+card_name: Servant of Neptulon
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 1
+
+text: Elusive → You pay 1 less to play your next Frost or card this turn. (A card is one with in its lower-left corner.)
+
+cost: '1'
+
+combat: Frost
+
+temp: Water Elemental
+
+type: Monster

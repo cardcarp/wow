@@ -1,0 +1,18 @@
+card_name: Beast Mastery
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Beast Mastery Talent Choose one of the following: Rotund Rhino: Put a 2 / 5 Rhinoceros Beast Monster ally token into play with Protector , Spellshield , and Pet (1). Dire Devilsaur: Put a 5 / 3 Devilsaur Beast Monster ally token into play with Smash , \"When this ally deals damage to an opposing hero, that hero can't be healed for the rest of the game,\", and Pet (1). Cruel Chimaera: Put a 4 / 2 Chimaera Beast Monster ally token into play with Elusive , \"When this ally enters play, it deals 1 frost damage to each opposing hero and ally,\", and Pet (1)."
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Beast Mastery

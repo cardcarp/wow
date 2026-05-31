@@ -1,0 +1,18 @@
+card_name: Blessing of Protection
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target hero or ally you control. Ongoing : Prevent all damage that would be dealt to and dealt by attached character. At end of turn, destroy this ability.'
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Protection Blessing

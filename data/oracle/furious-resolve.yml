@@ -1,0 +1,15 @@
+card_name: Furious Resolve
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +1 ATK and +1 health.'
+
+cost: '2'
+
+temp: ''

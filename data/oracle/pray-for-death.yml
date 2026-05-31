@@ -1,0 +1,15 @@
+card_name: Pray for Death
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: When a Dungeon ally deals damage while attacking this turn, it also heals that much damage from Mograine.
+
+temp: ''
+
+type: Dungeon

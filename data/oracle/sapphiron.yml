@@ -1,0 +1,19 @@
+card_name: Sapphiron
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: When Sapphiron exhausts, he deals 5 melee damage to target raiding hero. At the end of your turn, Sapphiron deals 5 shadow damage to a random raiding hero and heals 1 damage from himself for each damage dealt this way. Flip Sapphiron.
+
+temp: Frost Wyrm 20
+
+transform:
+  - id: ability
+    text: "cards can't attack or exhaust. At the start of your turn, Sapphiron deals 5 frost damage to a random raiding hero, and then attach Icebolt to it. Any raider: Discard a card → Put a shelter counter on your hero or each ally you control."
+
+type: Boss

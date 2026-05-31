@@ -1,0 +1,19 @@
+card_name: Masters Embrace
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Choose one: Search your deck for a Pet, reveal it, and put it into your hand; or attach to target Pet. Ongoing : Attached Pet has +4 / +4.'
+
+class:
+  - Warlock
+  - Hunter
+
+cost: '3'
+
+temp: Beast Mastery Demonology

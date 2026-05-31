@@ -1,0 +1,17 @@
+card_name: Sarina the Immaculate
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 29
+
+text: 'On your turn: Flip Sarina, discard a Paladin → Sarina heals 5 damage from target hero or ally.'
+
+faction: Alliance
+
+temp: Human Paladin

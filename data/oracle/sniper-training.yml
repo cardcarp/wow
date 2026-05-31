@@ -1,0 +1,18 @@
+card_name: Sniper Training
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: "Survival Talent Attach to target hero. Ongoing : 1 → The next time attached hero would be dealt exactly 1 damage, it's dealt 5 damage instead."
+
+class:
+  - Hunter
+
+cost: '5'
+
+temp: Survival

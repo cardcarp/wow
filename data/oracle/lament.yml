@@ -1,0 +1,15 @@
+card_name: Lament
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Each Raider discards a random card. If it's an ability, ally, or equipment, he chooses and destroys a card of the same type that he controls.
+
+temp: ''
+
+type: Dungeon

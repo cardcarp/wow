@@ -1,0 +1,23 @@
+card_name: Prototype Reaper
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: When this ally enters play, leaves play, exhausts, or readies, it may deal 1 melee damage to target ally.
+
+cost: '3'
+
+combat: Melee
+
+temp: Mechanical Reaper
+
+type: Monster

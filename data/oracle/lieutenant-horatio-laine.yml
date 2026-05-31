@@ -1,0 +1,23 @@
+card_name: Lieutenant Horatio Laine
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 2
+
+text: At the end of your turn, target opponent reveals the top card of his deck. If it's an ally, remove it from the game. If it's a weapon, you may put it into play under your control.
+
+cost: '3'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Investigator

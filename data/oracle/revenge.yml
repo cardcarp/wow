@@ -1,0 +1,18 @@
+card_name: Revenge
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: You can't play Revenge during combat. Destroy target ally that attacked your hero this turn but dealt no combat damage to your hero this turn.
+
+class:
+  - Warrior
+
+cost: '1'
+
+temp: Protection

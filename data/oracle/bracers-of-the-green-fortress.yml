@@ -1,0 +1,19 @@
+card_name: Bracers of the Green Fortress
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: Each of your face-down resources is also an armor with 1 DEF.
+
+class:
+  - Paladin
+  - Warrior
+
+cost: '3'
+
+temp: Armor Plate

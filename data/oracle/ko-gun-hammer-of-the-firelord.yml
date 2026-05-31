@@ -1,0 +1,21 @@
+card_name: Ko_gun, Hammer of the Firelord
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'If an opposing hero was dealt 6 or more damage this turn: → Put three 2 / 1 Fire Elemental ally tokens into play.'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+cost: '5'
+
+temp: 1H Weapon Mace

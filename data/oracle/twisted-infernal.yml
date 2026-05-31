@@ -1,0 +1,24 @@
+card_name: Twisted Infernal
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 8
+
+text: As an additional cost to play this ally, destroy an ability, ally, or equipment you control. Ferocity
+
+class:
+  - Warlock
+
+cost: '7'
+
+combat: Fire
+
+temp: Infernal Demon

@@ -1,0 +1,23 @@
+card_name: Jezziki Shinebog
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 5
+
+text: Time is Money → This ally heals 2 damage from target hero or ally you control.
+
+cost: '4'
+
+combat: Holy
+
+faction: Horde
+
+temp: Goblin Priest

@@ -1,0 +1,18 @@
+card_name: Mark of Restoration
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target friendly ally. Ongoing : Attached ally has +2 / +2. When attached ally attacks, it heals damage equal to its ATK from each other friendly hero and ally.'
+
+class:
+  - Druid
+
+cost: '2'
+
+temp: Restoration

@@ -1,0 +1,18 @@
+card_name: Grace of the Lightbringer
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : If a friendly hero would deal holy ( ) or melee ( ) damage, it deals that much +1 instead.'
+
+class:
+  - Paladin
+
+cost: '2'
+
+temp: Holy

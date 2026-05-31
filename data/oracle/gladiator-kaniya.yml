@@ -1,0 +1,25 @@
+card_name: Gladiator Kaniya
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 4
+
+text: Arena allies in your party are Protector s.
+
+cost: '4'
+
+combat: Melee
+
+faction: Horde
+
+temp: Tauren Warrior
+
+type: Arena

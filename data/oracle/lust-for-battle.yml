@@ -1,0 +1,18 @@
+card_name: Lust for Battle
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Allies you control have +2 ATK this turn.
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Enhancement

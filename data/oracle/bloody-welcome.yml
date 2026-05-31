@@ -1,0 +1,18 @@
+card_name: Bloody Welcome
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 3 ranged damage to target ally. If that ally entered play this turn, ready up to two of your resources.
+
+class:
+  - Hunter
+
+cost: '2'
+
+temp: Marksmanship

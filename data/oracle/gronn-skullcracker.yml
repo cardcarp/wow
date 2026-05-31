@@ -1,0 +1,23 @@
+card_name: Gronn Skullcracker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 12
+
+text: Monster Hero Required You may reveal this ally from your opening hand once. If you do, your hero has +3 ATK on your first turn. Smash This ally has +6 ATK for each Ogre hero and ally you control.
+
+cost: '9'
+
+combat: Melee
+
+temp: Gronn
+
+type: Monster

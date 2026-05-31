@@ -1,0 +1,23 @@
+card_name: Lhurg Venomblade
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 2
+
+text: → Destroy target exhausted ally.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Dwarf Rogue

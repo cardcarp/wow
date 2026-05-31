@@ -1,0 +1,23 @@
+card_name: Conqueror Nairi
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 6
+
+text: If an opposing Shaman would deal damage, prevent 2 of it.
+
+cost: '6'
+
+combat: Holy
+
+faction: Horde
+
+temp: Blood Elf Paladin

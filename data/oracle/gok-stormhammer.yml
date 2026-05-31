@@ -1,0 +1,23 @@
+card_name: Gok Stormhammer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: Long-Range When Gok enters play, he deals 3 nature damage divided as you choose to any number of target heroes and/or allies.
+
+cost: '6'
+
+combat: Nature
+
+faction: Horde
+
+temp: Orc Shaman

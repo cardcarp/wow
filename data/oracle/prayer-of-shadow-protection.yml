@@ -1,0 +1,18 @@
+card_name: Prayer of Shadow Protection
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Friendly heroes and allies have Shadow Resistance this turn.
+
+class:
+  - Priest
+
+cost: '1'
+
+temp: Shadow

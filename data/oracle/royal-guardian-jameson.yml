@@ -1,0 +1,23 @@
+card_name: Royal Guardian Jameson
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 5
+
+text: Protector At the end of your turn, exhaust target ready opposing ally. If you do, you may have it deal melee damage equal to its ATK to a second target ally.
+
+cost: '5'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Paladin

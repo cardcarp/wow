@@ -1,0 +1,18 @@
+card_name: Monstrous Intervention
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Monster heroes and allies you control have Invincible this turn.
+
+class:
+  - Priest
+
+cost: '6'
+
+temp: Discipline

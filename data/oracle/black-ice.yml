@@ -1,0 +1,20 @@
+card_name: Black Ice
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: When you strike with this weapon on an opponent's turn, your hero may deal 1 frost damage to target hero or ally. A character dealt damage this way can't attack this turn.
+
+class:
+  - Paladin
+  - Death Knight
+  - Hunter
+
+cost: '3'
+
+temp: 2H Weapon Polearm

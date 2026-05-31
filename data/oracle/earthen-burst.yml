@@ -1,0 +1,18 @@
+card_name: Earthen Burst
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Your hero deals 2 nature damage to target ally. Target ally has +2 ATK this turn.
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Elemental

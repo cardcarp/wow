@@ -1,0 +1,23 @@
+card_name: Kolorath
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 12
+
+text: When Kolorath enters play, put all non- allies into their owners' hands.
+
+cost: '8'
+
+combat: Frost
+
+temp: Kraken
+
+type: Monster

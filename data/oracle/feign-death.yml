@@ -1,0 +1,18 @@
+card_name: Feign Death
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: Play only if your hero is defending or the target of an opposing card or effect. Interrupt all cards and effects, then end the turn.
+
+class:
+  - Hunter
+
+cost: '3'
+
+temp: Survival

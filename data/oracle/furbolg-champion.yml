@@ -1,0 +1,23 @@
+card_name: Furbolg Champion
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 4
+
+text: At the start of your turn, you may put the top two cards of target player's deck into his graveyard.
+
+cost: '4'
+
+combat: Melee
+
+temp: Furbolg Warrior
+
+type: Monster

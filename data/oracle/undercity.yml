@@ -1,0 +1,15 @@
+card_name: Undercity
+
+layout: standard
+
+regulation:
+
+category: Location
+
+errata: []
+
+text: Undead Hero Required → You may remove target ally card in a graveyard from the game. If you do, an Undead in your party heals 2 damage from itself.
+
+faction: Horde
+
+temp: City

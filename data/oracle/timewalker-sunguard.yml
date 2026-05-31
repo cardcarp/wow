@@ -1,0 +1,23 @@
+card_name: Timewalker Sunguard
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: Protector This ally has +1 for each other Tauren ally you control.
+
+cost: '1'
+
+combat: Holy
+
+faction: Horde
+
+temp: Tauren Paladin

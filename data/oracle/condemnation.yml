@@ -1,0 +1,15 @@
+card_name: Condemnation
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Target up to one hero or ally each raider controls. The Boss deals X unpreventable holy damage to each target, where X is the highest cost among cards in that target's party.
+
+cost: '5'
+
+temp: Naxxramas

@@ -1,0 +1,17 @@
+card_name: Halavar
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: Flip Halavar → You pay 1 less to play your next Two-Handed weapon this turn.
+
+faction: Alliance
+
+temp: Draenei Warrior

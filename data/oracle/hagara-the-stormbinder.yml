@@ -1,0 +1,21 @@
+card_name: Hagara the Stormbinder
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 12
+
+text: 'Boss When Hagara enters play, she deals 6 frost damage to the Raiding ally with the highest remaining health. Lightning Storm (Deathwing Stages 2+) : When Hagara deals combat damage to a defending Raiding hero, she deals 10 nature damage to the Raiding heroes divided as the Raiders choose.'
+
+combat: Nature
+
+temp: Orc Shaman
+
+type: Boss

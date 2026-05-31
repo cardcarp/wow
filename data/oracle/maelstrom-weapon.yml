@@ -1,0 +1,18 @@
+card_name: Maelstrom Weapon
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+instant: 'Your hero deals 2 nature damage to target hero or ally. Attach to one of your Melee weapons. Ongoing : When you strike with attached weapon, your hero deals 1 nature damage to target hero or ally.'
+
+class:
+  - Shaman
+
+cost: '3'
+
+temp: Enhancement

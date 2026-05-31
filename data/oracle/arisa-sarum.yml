@@ -1,0 +1,23 @@
+card_name: Arisa Sarum
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 2
+
+text: Protector Opponents can't place quests face up.
+
+cost: '4'
+
+combat: Melee
+
+faction: Alliance
+
+temp: Human Death Knight

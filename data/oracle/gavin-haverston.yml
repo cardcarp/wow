@@ -1,0 +1,23 @@
+card_name: Gavin Haverston
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 2
+
+text: This ally has Ferocity and Long-Range while an opponent controls more allies than you.
+
+cost: '1'
+
+combat: Fire
+
+faction: Horde
+
+temp: Undead Hunter

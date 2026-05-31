@@ -1,0 +1,23 @@
+card_name: Frostweaver Dakarsith
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 3
+
+health: 2
+
+text: Opposing heroes and allies can't attack unless their controller exhausts two other cards he controls for each attacker.
+
+cost: '3'
+
+combat: Frost
+
+faction: Horde
+
+temp: Blood Elf Mage

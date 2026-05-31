@@ -1,0 +1,17 @@
+card_name: Rajasul the Relentless
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 30
+
+text: 4 , Flip Raja'sul → Heroes and allies you control have +1 ATK this turn.
+
+faction: Horde
+
+temp: Troll Warrior

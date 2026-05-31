@@ -1,0 +1,19 @@
+card_name: Journeys End
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Hero : 1 , , Destroy a resource you control → Druids you control have Assault 2 and Stealth this turn. Hero : 1 , , Destroy a resource you control → Hunters you control have Assault 2 and Long-Range this turn.'
+
+class:
+  - Druid
+  - Hunter
+
+cost: '2'
+
+temp: 2H Weapon Staff

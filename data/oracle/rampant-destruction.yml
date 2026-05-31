@@ -1,0 +1,15 @@
+card_name: Rampant Destruction
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: Destroy an opposing ability or equipment for each Blood in play. When an opposing card or effect causes you to discard Rampant Destruction, you may put it from your graveyard into your hand.
+
+cost: '3'
+
+temp: ''

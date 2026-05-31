@@ -1,0 +1,23 @@
+card_name: Nox the Lifedrainer
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 0
+
+health: 0
+
+text: This ally has +1 / +1 for each damage on opposing heroes.
+
+cost: '7'
+
+combat: Shadow
+
+faction: Horde
+
+temp: Goblin Warlock

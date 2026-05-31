@@ -1,0 +1,18 @@
+card_name: Armsman
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : Your hero has Assault 1 for each armor and item you control.'
+
+class:
+  - Warrior
+
+cost: '3'
+
+temp: Arms

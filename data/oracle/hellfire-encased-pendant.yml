@@ -1,0 +1,27 @@
+card_name: Hellfire-Encased Pendant
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Your hero deals 1 fire damage to target hero for each ally you control. → Your hero heals 1 damage from itself for each ally you control.
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+cost: '2'
+
+temp: Item Neck

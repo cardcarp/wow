@@ -1,0 +1,23 @@
+card_name: Hateful Darkweaver
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 2
+
+health: 4
+
+text: Opposing Night Elf allies lose and can't have Stealth and have Conspicuous .
+
+cost: '3'
+
+combat: Shadow
+
+temp: Satyr Demon Warlock
+
+type: Monster

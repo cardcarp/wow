@@ -1,0 +1,19 @@
+card_name: Overwhelm
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Ongoing : On your turn: 2 , → Put a token copy of target token ally you control into play. On your turn: 2 , → Token allies you control have +1 ATK this turn.'
+
+class:
+  - Druid
+  - Death Knight
+
+cost: '2'
+
+temp: Unholy Balance

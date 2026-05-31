@@ -1,0 +1,23 @@
+card_name: Human Sniper
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 4
+
+text: 'Unity : When this ally enters play, if you control three or more Human allies, target ally you control has Long-Range this turn.'
+
+cost: '5'
+
+combat: Ranged
+
+faction: Alliance
+
+temp: Human Hunter

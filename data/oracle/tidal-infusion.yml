@@ -1,0 +1,18 @@
+card_name: Tidal Infusion
+
+layout: standard
+
+regulation:
+
+category: Ability
+
+errata: []
+
+text: 'Attach to target ally or weapon you control. Ongoing : When attached card exhausts, you may draw a card.'
+
+class:
+  - Shaman
+
+cost: '2'
+
+temp: Restoration

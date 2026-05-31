@@ -1,0 +1,21 @@
+card_name: Bedrock Talisman
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: You pay 1 less to play this item for each 5 damage on your hero. Allies you control have Protector .
+
+class:
+  - Druid
+  - Warrior
+  - Death Knight
+  - Paladin
+
+cost: '6'
+
+temp: Item Trinket

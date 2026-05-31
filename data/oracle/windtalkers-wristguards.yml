@@ -1,0 +1,19 @@
+card_name: Windtalkers Wristguards
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: → Reveal the top two cards of your deck, then put them on the bottom. If they have different card types, your hero deals 2 nature damage to target hero or ally.
+
+class:
+  - Hunter
+  - Shaman
+
+cost: '4'
+
+temp: Armor Mail

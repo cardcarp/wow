@@ -1,0 +1,23 @@
+card_name: Zygore Bladebreaker
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 4
+
+health: 3
+
+text: When this ally enters play, you may destroy target armor or weapon.
+
+cost: '6'
+
+combat: Melee
+
+faction: Horde
+
+temp: Orc Warrior

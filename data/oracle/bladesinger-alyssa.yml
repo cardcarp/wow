@@ -1,0 +1,21 @@
+card_name: Bladesinger Alyssa
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+health: 27
+
+text: 5 → Flip Alyssa face down.
+
+faction: Alliance
+
+temp: Worgen Rogue
+
+transform:
+  - id: ability
+    text: When Alyssa deals combat damage to an ally, she also deals that much melee damage to target hero in that ally's party.

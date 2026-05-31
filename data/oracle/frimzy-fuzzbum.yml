@@ -1,0 +1,23 @@
+card_name: Frimzy Fuzzbum
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 1
+
+health: 1
+
+text: Elusive → Target ally has Elusive this turn.
+
+cost: '1'
+
+combat: Arcane
+
+faction: Alliance
+
+temp: Gnome Mage

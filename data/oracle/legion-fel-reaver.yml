@@ -1,0 +1,23 @@
+card_name: Legion Fel Reaver
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 8
+
+health: 8
+
+text: As an additional cost to play, choose and destroy a Demon ally you control.
+
+cost: '5'
+
+combat: Melee
+
+temp: Construct Demon
+
+type: Monster

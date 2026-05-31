@@ -1,0 +1,23 @@
+card_name: Nozdormu the Timeless One
+
+layout: transform
+
+regulation:
+
+category: Hero
+
+errata: []
+
+text: (Allies you control can protect this hero.) 7 , Flip Nozdormu face down → Look at the bottom card of your deck. If its an ability, ally, or equipment, you may play it immediately without paying its cost.
+
+class:
+  - Warrior
+  - Rogue
+
+temp: Bronze Dragonkin Aspect 40
+
+transform:
+  - id: ability
+    text: "At the start of each opponent's turn, you may ready up to one ability, ally, and equipment you control. Deckbuilding : You can include either or cards, and , , and Neutral cards. You can't include more than one of each card."
+
+type: Monster

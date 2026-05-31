@@ -1,0 +1,19 @@
+card_name: Soul of the Dead
+
+layout: standard
+
+regulation:
+
+category: Equipment
+
+errata: []
+
+text: 'Your hero has +1 for each soul counter. Hero : Opposing allies everywhere have " Death Rattle : Add a soul counter to this item." Hero : Opposing abilities everywhere have " Death Rattle : Add a soul counter to this item."'
+
+class:
+  - Priest
+  - Death Knight
+
+cost: '2'
+
+temp: Item Trinket

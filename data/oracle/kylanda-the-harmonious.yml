@@ -1,0 +1,23 @@
+card_name: Kylanda the Harmonious
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 5
+
+health: 3
+
+text: Protector Totems you control have +3 .
+
+cost: '4'
+
+combat: Frost
+
+faction: Alliance
+
+temp: Draenei Shaman

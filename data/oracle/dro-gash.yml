@@ -1,0 +1,23 @@
+card_name: Dro_gash
+
+layout: standard
+
+regulation:
+
+category: Ally
+
+errata: []
+
+damage: 6
+
+health: 6
+
+text: When this ally enters play, if there are 30 or more opposing cards removed from the game, he heals all damage from your hero and deals shadow damage to target opposing hero equal to that hero's remaining health -1.
+
+cost: '8'
+
+combat: Shadow
+
+temp: Ogre Priest
+
+type: Monster
