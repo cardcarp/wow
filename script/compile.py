@@ -167,6 +167,8 @@ def compile_joined_database():
                         key = "set_name"
                     case 'type':
                         key = "set_type"
+                    case 'lex':
+                        key = "set_lex"
                     case 'collection':
                         key = "collection_id"
                     case _:
@@ -182,6 +184,8 @@ def compile_joined_database():
                         key = "collection_name"
                     case 'type':
                         key = "collection_type"
+                    case 'lex':
+                        key = "collection_lex"
                     case _:
                         key = k
                 if key not in record: record[key] = v
