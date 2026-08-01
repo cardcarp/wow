@@ -2,17 +2,19 @@ card_name: Crushing Strike
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target opposing equipment. If you do, your hero may deal 3 melee damage to its controller's hero.
+cost: '3'
 
 class:
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: Destroy target opposing equipment. If you do, your hero may deal 3 melee damage to its controller's hero.
+
+regulation:
+
+errata: []
 
 temp: Arms

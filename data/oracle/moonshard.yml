@@ -2,17 +2,19 @@ card_name: Moonshard
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 4 arcane damage to target ally.
+cost: '2'
 
 class:
   - Druid
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero deals 4 arcane damage to target ally.
+
+regulation:
+
+errata: []
 
 temp: Balance

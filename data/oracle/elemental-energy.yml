@@ -2,12 +2,14 @@ card_name: Elemental Energy
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 5 to complete this quest. Reward : Draw a card, or two if you control an Elemental.'
 
-text: 'Pay 5 to complete this quest. Reward : Draw a card, or two if you control an Elemental.'
+regulation:
+
+errata: []
 
 temp: ''

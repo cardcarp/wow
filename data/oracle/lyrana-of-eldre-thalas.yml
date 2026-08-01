@@ -2,22 +2,24 @@ card_name: Lyrana of Eldre_Thalas
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 6
 
 health: 4
 
-text: 'When this ally enters play, she deals fire damage to each opposing hero and ally equal to the number of cards you control. Stash : Fire ( ) damage that your hero and allies you control would deal is unpreventable this turn.'
-
-cost: '7'
-
 combat: Fire
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 'When this ally enters play, she deals fire damage to each opposing hero and ally equal to the number of cards you control. Stash : Fire ( ) damage that your hero and allies you control would deal is unpreventable this turn.'
+
+regulation:
+
+errata: []
 
 temp: Night Elf Mage

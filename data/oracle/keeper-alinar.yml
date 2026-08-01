@@ -2,22 +2,24 @@ card_name: Keeper Alinar
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 4
 
-text: Harmonize When this ally enters play, he heals 3 damage from target hero or ally.
-
-cost: '3'
-
 combat: Nature
 
-temp: Keeper of the Grove Druid
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Harmonize When this ally enters play, he heals 3 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Keeper of the Grove Druid

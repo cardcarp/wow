@@ -2,12 +2,14 @@ card_name: Whats Haunting Witch Hill_
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 2 and an additional 1 for each opposing face-up resource to complete this quest. Reward : Draw a card.'
 
-text: 'Pay 2 and an additional 1 for each opposing face-up resource to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

@@ -10,4 +10,5 @@ artist: Alex Garner
 
 flavor: (It is no longer a hero.)
 
-appearance: []
+variation:
+  - transform

@@ -2,14 +2,16 @@ card_name: Unraveled Plans
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '3'
 
 instant: Target player destroys one of his abilities.
 
-cost: '3'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

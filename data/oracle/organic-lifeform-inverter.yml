@@ -2,19 +2,21 @@ card_name: Organic Lifeform Inverter
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When this weapon is destroyed, you may destroy target ally.
+cost: '4'
 
 class:
   - Shaman
   - Hunter
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: When this weapon is destroyed, you may destroy target ally.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

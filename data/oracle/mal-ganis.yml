@@ -2,22 +2,24 @@ card_name: Mal_Ganis
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '8'
 
 damage: 9
 
 health: 9
 
-text: When Mal'Ganis enters play and when he attacks, Portal . If a Portal power would let you choose one card and put it into play, you may choose any number of cards and put them into play instead. (Each of those cards must still be a legal choice.)
-
-cost: '8'
-
 combat: Melee
 
-temp: Dreadlord Demon
-
 type: Monster
+
+rule:
+  - type: ability
+    text: When Mal'Ganis enters play and when he attacks, Portal . If a Portal power would let you choose one card and put it into play, you may choose any number of cards and put them into play instead. (Each of those cards must still be a legal choice.)
+
+regulation:
+
+errata: []
+
+temp: Dreadlord Demon

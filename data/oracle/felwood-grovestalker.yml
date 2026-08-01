@@ -2,22 +2,24 @@ card_name: Felwood Grovestalker
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 3
 
 health: 4
 
-text: Elusive Stealth
-
-cost: '5'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive Stealth
+
+regulation:
+
+errata: []
 
 temp: Night Elf Druid

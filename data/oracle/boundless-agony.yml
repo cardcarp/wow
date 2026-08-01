@@ -2,17 +2,19 @@ card_name: Boundless Agony
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Damage can't be healed. Damage is unpreventable.
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: Damage can't be healed. Damage is unpreventable.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

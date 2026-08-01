@@ -2,17 +2,19 @@ card_name: Metalmorph
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target equipment. Ongoing : Attached equipment loses and can't have powers and can't be exhausted."
+cost: '1'
 
 class:
   - Mage
 
-cost: '1'
+rule:
+  - type: ability
+    text: "Attach to target equipment. Ongoing : Attached equipment loses and can't have powers and can't be exhausted."
+
+regulation:
+
+errata: []
 
 temp: Arcane

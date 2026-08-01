@@ -2,17 +2,19 @@ card_name: Curse of Exhaustion
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Affliction Hero Required Target player skips his next turn.
+cost: '9'
 
 class:
   - Warlock
 
-cost: '9'
+rule:
+  - type: ability
+    text: Affliction Hero Required Target player skips his next turn.
+
+regulation:
+
+errata: []
 
 temp: Affliction Talent Curse

@@ -2,8 +2,10 @@ card_name: The Darkspear Rebellion
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

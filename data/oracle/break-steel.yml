@@ -2,17 +2,19 @@ card_name: Break Steel
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target exhausted equipment. If you do, your hero deals 2 melee damage to its controller's hero.
+cost: '1'
 
 class:
   - Rogue
 
-cost: '1'
+rule:
+  - type: ability
+    text: Destroy target exhausted equipment. If you do, your hero deals 2 melee damage to its controller's hero.
+
+regulation:
+
+errata: []
 
 temp: Assassination

@@ -2,20 +2,22 @@ card_name: Flamewaker Healer
 
 layout: standard
 
-regulation:
-
 category: Token
-
-errata: []
 
 damage: 1
 
 health: 3
 
-text: → Flamewaker Healer deals 1 shadow damage to each hero and ally in target opponent's party.
-
 combat: Melee
 
-temp: Flamewaker
-
 type: Ally
+
+rule:
+  - type: ability
+    text: → Flamewaker Healer deals 1 shadow damage to each hero and ally in target opponent's party.
+
+regulation:
+
+errata: []
+
+temp: Flamewaker

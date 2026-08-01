@@ -2,8 +2,10 @@ card_name: Fortuitous Gift
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

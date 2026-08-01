@@ -2,19 +2,21 @@ card_name: The Decapitator
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 0 → The Decapitator has Thrown this turn.
+cost: '2'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: 0 → The Decapitator has Thrown this turn.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

@@ -2,8 +2,10 @@ card_name: Nahua Greenthumb
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

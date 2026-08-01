@@ -2,17 +2,19 @@ card_name: Surge of Lightning
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Choose one: Your hero deals 6 nature damage to target ally; or your hero deals 3, 2, and 1 nature damage to up to three target allies, respectively.'
+cost: '5'
 
 class:
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: 'Choose one: Your hero deals 6 nature damage to target ally; or your hero deals 3, 2, and 1 nature damage to up to three target allies, respectively.'
+
+regulation:
+
+errata: []
 
 temp: Elemental

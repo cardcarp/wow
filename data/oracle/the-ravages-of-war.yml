@@ -2,12 +2,14 @@ card_name: The Ravages of War
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: The Arena deals 5 collateral damage to each hero in the room.
 
-text: The Arena deals 5 collateral damage to each hero in the room.
+regulation:
+
+errata: []
 
 temp: ''

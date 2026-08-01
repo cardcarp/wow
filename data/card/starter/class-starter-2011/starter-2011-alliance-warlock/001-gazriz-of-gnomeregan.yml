@@ -10,4 +10,5 @@ artist: Jim Nelson
 
 flavor:
 
-appearance: []
+variation:
+  - transform

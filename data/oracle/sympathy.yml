@@ -2,19 +2,21 @@ card_name: Sympathy
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: If an ally you control would be dealt damage, 1 of it is dealt to your hero instead.
+cost: '3'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: If an ally you control would be dealt damage, 1 of it is dealt to your hero instead.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

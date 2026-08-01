@@ -2,8 +2,10 @@ card_name: Chi-Ji, the Red Crane
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

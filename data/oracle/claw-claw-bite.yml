@@ -2,14 +2,16 @@ card_name: Claw, Claw, Bite
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Onyxia deals 1 melee damage to each hero and ally in target player's party.
+
+regulation:
 
 errata: []
 
-text: Onyxia deals 1 melee damage to each hero and ally in target player's party.
-
 temp: ''
-
-type: Raid

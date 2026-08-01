@@ -2,12 +2,14 @@ card_name: Copycast
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: 'Ongoing : When a player plays a non-ongoing ability, he copies it. (That player may choose new targets for the copy.)'
 
-text: 'Ongoing : When a player plays a non-ongoing ability, he copies it. (That player may choose new targets for the copy.)'
+regulation:
+
+errata: []
 
 temp: ''

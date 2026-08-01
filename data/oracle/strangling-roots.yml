@@ -2,17 +2,19 @@ card_name: Strangling Roots
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target ally and exhaust it. Ongoing : Attached ally can't ready during its controller's ready step. At the start of your turn, your hero deals 2 nature damage to attached ally."
+cost: '3'
 
 class:
   - Druid
 
-cost: '3'
+rule:
+  - type: ability
+    text: "Attach to target ally and exhaust it. Ongoing : Attached ally can't ready during its controller's ready step. At the start of your turn, your hero deals 2 nature damage to attached ally."
+
+regulation:
+
+errata: []
 
 temp: Balance

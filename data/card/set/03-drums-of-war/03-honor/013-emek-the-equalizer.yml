@@ -10,4 +10,5 @@ artist: Daren Bader
 
 flavor: '"Do not be fooled by the path I choose to follow."'
 
-appearance: []
+variation:
+  - transform

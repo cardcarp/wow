@@ -2,22 +2,24 @@ card_name: Tinker Bixy Blue
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 4
 
-text: 'If Bixy is undamaged: → Target player discards a card and you draw a card.'
-
-cost: '3'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 'If Bixy is undamaged: → Target player discards a card and you draw a card.'
+
+regulation:
+
+errata: []
 
 temp: Gnome Rogue

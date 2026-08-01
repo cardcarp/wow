@@ -2,22 +2,24 @@ card_name: Timewalker Sentinel
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 1
 
-text: Elusive This ally has Assault 1 for each other Night Elf ally you control.
-
-cost: '2'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive This ally has Assault 1 for each other Night Elf ally you control.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Hunter

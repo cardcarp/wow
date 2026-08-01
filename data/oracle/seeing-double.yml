@@ -2,12 +2,14 @@ card_name: Seeing Double
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: Double all (non-damage) counters. The controller of each ally token puts another copy of that token into play.
 
-text: Double all (non-damage) counters. The controller of each ally token puts another copy of that token into play.
+regulation:
+
+errata: []
 
 temp: ''

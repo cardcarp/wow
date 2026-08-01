@@ -2,13 +2,9 @@ card_name: Core Hound Tooth
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the start of your turn, put a +1 ATK counter on Core Hound Tooth. When your hero deals combat damage with Core Hound Tooth, remove all +1 ATK counters from Core Hound Tooth.
+cost: '2'
 
 class:
   - Warrior
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: At the start of your turn, put a +1 ATK counter on Core Hound Tooth. When your hero deals combat damage with Core Hound Tooth, remove all +1 ATK counters from Core Hound Tooth.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

@@ -2,16 +2,19 @@ card_name: Sister Remba
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 26
 
-text: 1 , Flip Remba → Target ally in your party with an attachment is Elusive and Untargetable this turn.
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 1 , Flip Remba → Target ally in your party with an attachment is Elusive and Untargetable this turn.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Priest

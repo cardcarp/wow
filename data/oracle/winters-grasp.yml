@@ -2,17 +2,19 @@ card_name: Winters Grasp
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Ongoing : Opposing allies can't attack heroes or allies in your party unless their controller pays 1 for each attacker."
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: "Ongoing : Opposing allies can't attack heroes or allies in your party unless their controller pays 1 for each attacker."
+
+regulation:
+
+errata: []
 
 temp: Frost

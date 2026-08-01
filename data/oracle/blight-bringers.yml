@@ -2,17 +2,19 @@ card_name: Blight Bringers
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Up to three target allies have -3 ATK this turn.
+cost: '1'
 
 class:
   - Death Knight
 
-cost: '1'
+rule:
+  - type: ability
+    text: Up to three target allies have -3 ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: Unholy

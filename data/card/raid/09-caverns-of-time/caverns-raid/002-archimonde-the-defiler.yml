@@ -10,4 +10,5 @@ artist: Jim Nelson
 
 flavor: '"This world will burn!"'
 
-appearance: []
+variation:
+  - transform

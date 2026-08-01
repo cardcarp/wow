@@ -2,8 +2,10 @@ card_name: The Ballad of Liu Lang
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

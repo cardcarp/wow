@@ -2,17 +2,19 @@ card_name: Shadow Word_ Corruption
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target friendly Monster ally. Ongoing : Attached ally has +1 / +1. When attached ally deals combat damage to a hero, remove the top three cards of that hero's controller's deck from the game."
+cost: '2'
 
 class:
   - Priest
 
-cost: '2'
+rule:
+  - type: ability
+    text: "Attach to target friendly Monster ally. Ongoing : Attached ally has +1 / +1. When attached ally deals combat damage to a hero, remove the top three cards of that hero's controller's deck from the game."
+
+regulation:
+
+errata: []
 
 temp: Shadow

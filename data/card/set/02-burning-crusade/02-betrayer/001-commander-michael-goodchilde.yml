@@ -10,4 +10,5 @@ artist: James Zhang
 
 flavor: '"You stand in judgement before the Light!"'
 
-appearance: []
+variation:
+  - transform

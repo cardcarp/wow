@@ -2,17 +2,19 @@ card_name: Mind Spike
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 1 shadow damage to target hero or ally. Its controller discards a card for each damage dealt this way.
+cost: '2'
 
 class:
   - Priest
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero deals 1 shadow damage to target hero or ally. Its controller discards a card for each damage dealt this way.
+
+regulation:
+
+errata: []
 
 temp: Shadow

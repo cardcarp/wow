@@ -10,4 +10,5 @@ artist: Samwise
 
 flavor: "\"Fire burns everyone - it doesn't care who you are!\""
 
-appearance: []
+variation:
+  - transform

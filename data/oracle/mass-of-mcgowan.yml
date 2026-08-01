@@ -2,13 +2,9 @@ card_name: Mass of McGowan
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Mass of McGowan has +2 ATK while your hero is attacking an ally.
+cost: '3'
 
 class:
   - Warrior
@@ -17,6 +13,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: Mass of McGowan has +2 ATK while your hero is attacking an ally.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

@@ -2,17 +2,19 @@ card_name: Raging Blow
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Fury Talent Your hero deals 15 melee damage to target opposing hero.
+cost: '9'
 
 class:
   - Warrior
 
-cost: '9'
+rule:
+  - type: ability
+    text: Fury Talent Your hero deals 15 melee damage to target opposing hero.
+
+regulation:
+
+errata: []
 
 temp: Fury

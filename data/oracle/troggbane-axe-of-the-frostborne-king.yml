@@ -2,19 +2,21 @@ card_name: Troggbane, Axe of the Frostborne King
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: x → This equipment has +X ATK this turn.
+cost: '3'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '3'
+rule:
+  - type: ability
+    text: x → This equipment has +X ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

@@ -2,22 +2,24 @@ card_name: Debros Cousin-to-Moon
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 0
 
 health: 1
 
-text: Debros Cousin-to-Moon has +1 ATK for each resource you have.
-
-cost: '2'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Debros Cousin-to-Moon has +1 ATK for each resource you have.
+
+regulation:
+
+errata: []
 
 temp: Tauren Druid

@@ -2,16 +2,19 @@ card_name: Ixamos the Corrupted
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 28
 
-text: 2 , Flip Ixamos, destroy a friendly Totem → Ready Ixamos and all of your weapons. Auchenai
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Ixamos, destroy a friendly Totem → Ready Ixamos and all of your weapons. Auchenai
+
+regulation:
+
+errata: []
 
 temp: Draenei Shaman

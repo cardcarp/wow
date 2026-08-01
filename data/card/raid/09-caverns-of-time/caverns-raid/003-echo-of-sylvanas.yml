@@ -10,4 +10,5 @@ artist: Alex Garner
 
 flavor: '"Watch, heathens, as death surrounds you!"'
 
-appearance: []
+variation:
+  - transform

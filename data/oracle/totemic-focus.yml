@@ -2,17 +2,19 @@ card_name: Totemic Focus
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Restoration Hero Required Ongoing : You pay 1 less to play Totems.'
+cost: '2'
 
 class:
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Restoration Hero Required Ongoing : You pay 1 less to play Totems.'
+
+regulation:
+
+errata: []
 
 temp: Restoration Talent

@@ -2,18 +2,20 @@ card_name: Life-Binders Locket
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: ', Discard a card → Hero : If a friendly hero or ally would be dealt damage this turn, prevent 1 of it. Hero : The next time target hero or ally would be dealt damage this turn, prevent it.'
+cost: '2'
 
 class:
   - Paladin
   - Priest
 
-cost: '2'
+rule:
+  - type: ability
+    text: ', Discard a card → Hero : If a friendly hero or ally would be dealt damage this turn, prevent 1 of it. Hero : The next time target hero or ally would be dealt damage this turn, prevent it.'
+
+regulation:
+
+errata: []
 
 temp: Item Neck

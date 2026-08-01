@@ -10,4 +10,5 @@ artist: Oiqo
 
 flavor: Father to Cenarius, consort to Elune.
 
-appearance: []
+variation:
+  - transform

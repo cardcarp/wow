@@ -2,8 +2,10 @@ card_name: Relentless Strikes
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

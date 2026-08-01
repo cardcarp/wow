@@ -2,8 +2,10 @@ card_name: Dragonstalkers Helm
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

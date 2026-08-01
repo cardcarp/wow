@@ -2,14 +2,16 @@ card_name: Home Lair Advantage
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '1'
 
 instant: This turn, Onyxia can't be targeted by opponents, and your cards can't be interrupted.
 
-cost: '1'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

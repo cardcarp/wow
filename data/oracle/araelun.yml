@@ -2,20 +2,22 @@ card_name: Araelun
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 3
 
-cost: '2'
-
 combat: Melee
 
 faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Paladin

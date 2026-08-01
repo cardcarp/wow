@@ -2,11 +2,9 @@ card_name: Viking Warhammer
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '1'
 
 class:
   - Paladin
@@ -14,6 +12,10 @@ class:
   - Shaman
   - Rogue
 
-cost: '1'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

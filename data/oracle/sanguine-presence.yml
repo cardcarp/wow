@@ -2,17 +2,19 @@ card_name: Sanguine Presence
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Ongoing : Your hero has Protector and +10 . 1 , → Ready your hero.'
+cost: '4'
 
 class:
   - Death Knight
 
-cost: '4'
+instant: 'Ongoing : Your hero has Protector and +10 . 1 , → Ready your hero.'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Blood

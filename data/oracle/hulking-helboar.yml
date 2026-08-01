@@ -2,22 +2,24 @@ card_name: Hulking Helboar
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 5
 
 health: 1
 
-text: When this ally enters play, target ally you control has Smash this turn.
-
-cost: '3'
-
 combat: Melee
 
-temp: Boar Beast Demon
-
 type: Monster
+
+rule:
+  - type: ability
+    text: When this ally enters play, target ally you control has Smash this turn.
+
+regulation:
+
+errata: []
+
+temp: Boar Beast Demon

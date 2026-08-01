@@ -2,22 +2,24 @@ card_name: Child of Agamaggan
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 4
 
 health: 2
 
-text: Monster Hero Required Smash
-
-cost: '2'
-
 combat: Melee
 
-temp: Boar Beast
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Monster Hero Required Smash
+
+regulation:
+
+errata: []
+
+temp: Boar Beast

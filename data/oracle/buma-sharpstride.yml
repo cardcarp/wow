@@ -2,22 +2,24 @@ card_name: Buma Sharpstride
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 2
 
-text: Scourge heroes and allies have -2 ATK while in combat with this ally.
-
-cost: '2'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Scourge heroes and allies have -2 ATK while in combat with this ally.
+
+regulation:
+
+errata: []
 
 temp: Tauren Hunter

@@ -2,13 +2,9 @@ card_name: Dragonflight Great-Ring
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the start of your turn, destroy target hero.
+cost: '13'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Death Knight
   - Paladin
 
-cost: '13'
+rule:
+  - type: ability
+    text: At the start of your turn, destroy target hero.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

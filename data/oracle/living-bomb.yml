@@ -2,14 +2,16 @@ card_name: Living Bomb
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '1'
 
 instant: 'Attach to target opposing ally. Ongoing : At the start of your turn, destroy attached ally. If your hero is Baron Geddon, that ally deals fire damage equal to its cost to each other hero and ally in its party.'
 
-cost: '1'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Molten Core

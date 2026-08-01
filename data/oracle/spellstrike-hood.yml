@@ -2,19 +2,21 @@ card_name: Spellstrike Hood
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 2 , → When you next play a non-ongoing ability this turn, copy it. (You may choose new targets for the copy.)
+cost: '5'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '5'
+rule:
+  - type: ability
+    text: 2 , → When you next play a non-ongoing ability this turn, copy it. (You may choose new targets for the copy.)
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

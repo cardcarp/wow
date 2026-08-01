@@ -10,4 +10,5 @@ artist: Howard Lyon
 
 flavor: She feeds her brood the corpses of all those who dare venture too deeply into Naxxramas.
 
-appearance: []
+variation:
+  - transform

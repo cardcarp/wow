@@ -2,14 +2,16 @@ card_name: Southshore
 
 layout: standard
 
-regulation:
-
 category: Location
 
-errata: []
-
-text: 'On your turn: 1 , → When target ally in your party next deals damage to an ally with lower cost this turn, draw a card.'
-
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 'On your turn: 1 , → When target ally in your party next deals damage to an ally with lower cost this turn, draw a card.'
+
+regulation:
+
+errata: []
 
 temp: City

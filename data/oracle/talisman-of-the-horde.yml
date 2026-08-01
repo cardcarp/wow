@@ -2,13 +2,11 @@ card_name: Talisman of the Horde
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '3'
 
-text: ', Destroy this item → Destroy all abilities and equipment that have or share the highest cost among abilities and equipment in play.'
+faction: Horde
 
 class:
   - Priest
@@ -21,8 +19,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: ', Destroy this item → Destroy all abilities and equipment that have or share the highest cost among abilities and equipment in play.'
 
-faction: Horde
+regulation:
+
+errata: []
 
 temp: Item Trinket

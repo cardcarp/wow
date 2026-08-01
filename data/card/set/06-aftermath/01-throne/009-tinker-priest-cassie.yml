@@ -10,4 +10,5 @@ artist: Ben Olson
 
 flavor: '"Healing and tinkering have quite a lot in common, you know."'
 
-appearance: []
+variation:
+  - transform

@@ -2,17 +2,19 @@ card_name: Lord Alexanders Battle Axe
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '5'
 
 class:
   - Paladin
   - Warrior
   - Hunter
 
-cost: '5'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Axe

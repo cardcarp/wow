@@ -2,8 +2,10 @@ card_name: One True King
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

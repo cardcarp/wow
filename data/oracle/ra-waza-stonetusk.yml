@@ -2,22 +2,24 @@ card_name: Ra_waza Stonetusk
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 0
 
 health: 5
 
-text: Protector At the start of your turn, Ra'waza heals all damage from himself.
-
-cost: '2'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector At the start of your turn, Ra'waza heals all damage from himself.
+
+regulation:
+
+errata: []
 
 temp: Troll Shaman

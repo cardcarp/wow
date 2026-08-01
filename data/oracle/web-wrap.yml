@@ -2,14 +2,16 @@ card_name: Web Wrap
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target raiding hero or ally. Ongoing : At the start of your turn, the Boss deals 3 nature damage to attached character. Attached character can't attack or exhaust, and loses and can't have powers. This ability can be attacked or targeted like an ally."
-
 cost: '2'
+
+rule:
+  - type: ability
+    text: "Attach to target raiding hero or ally. Ongoing : At the start of your turn, the Boss deals 3 nature damage to attached character. Attached character can't attack or exhaust, and loses and can't have powers. This ability can be attacked or targeted like an ally."
+
+regulation:
+
+errata: []
 
 temp: Naxxramas 3

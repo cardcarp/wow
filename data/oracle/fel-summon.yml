@@ -2,17 +2,19 @@ card_name: Fel Summon
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Delve Reveal the top two cards of your deck. Put all revealed allies into your hand and the rest on the bottom of your deck.
+cost: '2'
 
 class:
   - Warlock
 
-cost: '2'
+rule:
+  - type: ability
+    text: Delve Reveal the top two cards of your deck. Put all revealed allies into your hand and the rest on the bottom of your deck.
+
+regulation:
+
+errata: []
 
 temp: Demonology

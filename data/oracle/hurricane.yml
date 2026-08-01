@@ -2,17 +2,19 @@ card_name: Hurricane
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Ongoing : This ability enters play with two wind counters. Opposing heroes and allies can't attack or protect. At the start of your turn, your hero deals 2 nature damage to each opposing hero and ally, then remove a wind counter. If none remain, destroy this ability."
+cost: '5'
 
 class:
   - Druid
 
-cost: '5'
+rule:
+  - type: ability
+    text: "Ongoing : This ability enters play with two wind counters. Opposing heroes and allies can't attack or protect. At the start of your turn, your hero deals 2 nature damage to each opposing hero and ally, then remove a wind counter. If none remain, destroy this ability."
+
+regulation:
+
+errata: []
 
 temp: Balance

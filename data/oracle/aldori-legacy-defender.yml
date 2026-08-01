@@ -2,19 +2,21 @@ card_name: Aldori Legacy Defender
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → Target hero or ally has -2 ATK this turn.
+cost: '4'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: → Target hero or ally has -2 ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

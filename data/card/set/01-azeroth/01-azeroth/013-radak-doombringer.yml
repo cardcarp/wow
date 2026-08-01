@@ -10,4 +10,5 @@ artist: Greg Staples
 
 flavor: Azeroth's darkest places offer great rewards to those willing to traverse them.
 
-appearance: []
+variation:
+  - transform

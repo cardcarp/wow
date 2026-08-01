@@ -2,13 +2,9 @@ card_name: Band of the Ranger-General
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: You pay 1 less to strike with weapons for each weapon you have.
+cost: '3'
 
 class:
   - Warrior
@@ -18,6 +14,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: You pay 1 less to strike with weapons for each weapon you have.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

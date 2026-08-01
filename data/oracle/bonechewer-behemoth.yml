@@ -2,20 +2,22 @@ card_name: Bonechewer Behemoth
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 4
 
 health: 3
 
-text: Traitor Hero Required When Bonechewer Behemoth enters play, he deals 4 fire damage to target hero.
-
-cost: '5'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Traitor Hero Required When Bonechewer Behemoth enters play, he deals 4 fire damage to target hero.
+
+regulation:
+
+errata: []
 
 temp: Fel Orc Warrior Traitor

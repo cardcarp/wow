@@ -2,16 +2,18 @@ card_name: From the Shadows
 
 layout: standard
 
-regulation:
-
 category: Ability
-
-errata: []
-
-text: 'Ongoing : All allies have Elusive .'
 
 cost: '5'
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Ongoing : All allies have Elusive .'
+
+regulation:
+
+errata: []
 
 temp: ''

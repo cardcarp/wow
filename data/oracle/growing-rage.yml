@@ -2,14 +2,16 @@ card_name: Growing Rage
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Draw X cards, where X is the current stage.
+
+regulation:
 
 errata: []
 
-text: Draw X cards, where X is the current stage.
-
 temp: ''
-
-type: Raid

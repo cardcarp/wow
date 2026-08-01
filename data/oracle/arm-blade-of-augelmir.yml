@@ -2,18 +2,20 @@ card_name: Arm Blade of Augelmir
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-instant: When this weapon enters play, you may put target ability into its owner's hand.
+cost: '2'
 
 class:
   - Shaman
   - Rogue
 
-cost: '2'
+instant: When this weapon enters play, you may put target ability into its owner's hand.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Fist

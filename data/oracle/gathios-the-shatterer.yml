@@ -2,20 +2,22 @@ card_name: Gathios the Shatterer
 
 layout: standard
 
-regulation:
-
 category: Token
-
-errata: []
 
 damage: 5
 
 health: 3
 
-text: Protector If Gathios would be dealt damage, prevent all but 1 of it.
-
 combat: Holy
 
-temp: Blood Elf Paladin
-
 type: Ally
+
+rule:
+  - type: ability
+    text: Protector If Gathios would be dealt damage, prevent all but 1 of it.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

@@ -2,17 +2,19 @@ card_name: Infiltrate
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Up to two target heroes and/or allies have Assault 2 and Stealth this turn.
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: Up to two target heroes and/or allies have Assault 2 and Stealth this turn.
+
+regulation:
+
+errata: []
 
 temp: Subtlety

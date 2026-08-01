@@ -2,14 +2,16 @@ card_name: Bleed Them Dry
 
 layout: standard
 
-regulation:
-
 category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: "Attach to the MARKED hero, and Godfrey deals 4 shadow damage to it. Ongoing : Attached hero can't be healed."
+
+regulation:
 
 errata: []
 
-text: "Attach to the MARKED hero, and Godfrey deals 4 shadow damage to it. Ongoing : Attached hero can't be healed."
-
 temp: ''
-
-type: Dungeon

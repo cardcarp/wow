@@ -2,22 +2,24 @@ card_name: Malistra the Demonmistress
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 2
 
-text: Friendly Pets have +2 ATK.
-
-cost: '3'
-
 combat: Fire
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Friendly Pets have +2 ATK.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Warlock

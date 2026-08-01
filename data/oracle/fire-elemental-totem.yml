@@ -2,17 +2,19 @@ card_name: Fire Elemental Totem
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Ongoing : When Fire Elemental Totem enters play, put a Fire Elemental ally token with 2 ATK / 1 health, and Ferocity into play. (Totems can be attacked or targeted like allies.)'
+cost: '2'
 
 class:
   - Shaman
 
-cost: '2'
+instant: 'Ongoing : When Fire Elemental Totem enters play, put a Fire Elemental ally token with 2 ATK / 1 health, and Ferocity into play. (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Elemental 1

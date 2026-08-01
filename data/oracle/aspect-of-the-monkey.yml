@@ -2,17 +2,19 @@ card_name: Aspect of the Monkey
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Discard a card → Opposing allies have -2 ATK while in combat with your hero this turn. Use only once per turn.'
+cost: '1'
 
 class:
   - Hunter
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Ongoing : Discard a card → Opposing allies have -2 ATK while in combat with your hero this turn. Use only once per turn.'
+
+regulation:
+
+errata: []
 
 temp: Beast Mastery

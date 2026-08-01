@@ -2,19 +2,21 @@ card_name: Wand of the Demonsoul
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals combat damage with this weapon, it also heals 1 damage from itself.
+cost: '3'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: When your hero deals combat damage with this weapon, it also heals 1 damage from itself.
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Wand

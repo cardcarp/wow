@@ -2,17 +2,19 @@ card_name: Mass Revival
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put up to three target allies from your graveyard into your hand.
+cost: '6'
 
 class:
   - Priest
 
-cost: '6'
+rule:
+  - type: ability
+    text: Put up to three target allies from your graveyard into your hand.
+
+regulation:
+
+errata: []
 
 temp: Holy

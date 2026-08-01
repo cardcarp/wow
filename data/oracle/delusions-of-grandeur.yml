@@ -2,17 +2,19 @@ card_name: Delusions of Grandeur
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Target opponent puts an ability, ally, and equipment he controls into their owners' hands.
+cost: '2'
 
 class:
   - Priest
 
-cost: '2'
+rule:
+  - type: ability
+    text: Target opponent puts an ability, ally, and equipment he controls into their owners' hands.
+
+regulation:
+
+errata: []
 
 temp: Shadow

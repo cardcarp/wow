@@ -10,4 +10,5 @@ artist: Brandon Kitkouski
 
 flavor: "\"Naralex hoped to revitalize the Barrens. If only he hadn't become trapped in a nightmare!\""
 
-appearance: []
+variation:
+  - transform

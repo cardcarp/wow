@@ -2,22 +2,24 @@ card_name: Kaale
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 1
 
 health: 2
 
-text: 2 , Discard a card → Target ally has +2 ATK this turn.
-
-cost: '1'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 2 , Discard a card → Target ally has +2 ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: Draenei Shaman

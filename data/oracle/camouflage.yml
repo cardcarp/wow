@@ -2,17 +2,19 @@ card_name: Camouflage
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Ongoing : On your turn: 2 , → Remove target ally you control from the game. If you do, put it into play under your control at the end of the next opponent's turn."
+cost: '4'
 
 class:
   - Hunter
 
-cost: '4'
+rule:
+  - type: ability
+    text: "Ongoing : On your turn: 2 , → Remove target ally you control from the game. If you do, put it into play under your control at the end of the next opponent's turn."
+
+regulation:
+
+errata: []
 
 temp: Survival

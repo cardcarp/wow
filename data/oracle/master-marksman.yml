@@ -2,17 +2,19 @@ card_name: Master Marksman
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Marksmanship Talent Ongoing : Your hero has Ranged Dual Wield . Ranged weapons you control have +1 ATK, and you pay 1 less to strike with them.'
+cost: '2'
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Marksmanship Talent Ongoing : Your hero has Ranged Dual Wield . Ranged weapons you control have +1 ATK, and you pay 1 less to strike with them.'
+
+regulation:
+
+errata: []
 
 temp: Marksmanship

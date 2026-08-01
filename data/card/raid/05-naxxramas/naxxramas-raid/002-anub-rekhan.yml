@@ -10,4 +10,5 @@ artist: Raymond Swanland
 
 flavor: "\"Closer now ... tasty morsels. I've been too long without food. Without blood to drink.\""
 
-appearance: []
+variation:
+  - transform

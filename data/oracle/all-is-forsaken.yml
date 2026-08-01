@@ -2,12 +2,14 @@ card_name: All Is Forsaken
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: Remove all allies from the game. Each player puts all ally cards from his graveyard into play.
 
-text: Remove all allies from the game. Each player puts all ally cards from his graveyard into play.
+regulation:
+
+errata: []
 
 temp: ''

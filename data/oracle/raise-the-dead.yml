@@ -2,17 +2,19 @@ card_name: Raise the Dead
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put a 3 / 3 Ghoul ally token into play.
+cost: '2'
 
 class:
   - Death Knight
 
-cost: '2'
+rule:
+  - type: ability
+    text: Put a 3 / 3 Ghoul ally token into play.
+
+regulation:
+
+errata: []
 
 temp: Unholy

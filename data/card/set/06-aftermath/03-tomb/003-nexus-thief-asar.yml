@@ -10,4 +10,5 @@ artist: Benjamin Zhang
 
 flavor: '"My analysis of the technology in Uldum has given me occasion to alter my goal."'
 
-appearance: []
+variation:
+  - transform

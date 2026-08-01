@@ -2,22 +2,24 @@ card_name: Vindicator Borovon
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 6
 
 health: 6
 
-text: At the start of your turn, you may destroy target equipment.
-
-cost: '7'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: At the start of your turn, you may destroy target equipment.
+
+regulation:
+
+errata: []
 
 temp: Draenei Warrior

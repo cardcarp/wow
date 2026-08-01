@@ -2,12 +2,14 @@ card_name: The Storm Kings Vengeance
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : Reveal the top three cards of your deck. Put a revealed ability, ally, or equipment with cost less than or equal to the amount of damage on your hero into your hand, and the rest on the bottom of your deck.'
 
-text: 'Pay 3 to complete this quest. Reward : Reveal the top three cards of your deck. Put a revealed ability, ally, or equipment with cost less than or equal to the amount of damage on your hero into your hand, and the rest on the bottom of your deck.'
+regulation:
+
+errata: []
 
 temp: ''

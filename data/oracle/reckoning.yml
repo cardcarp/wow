@@ -2,17 +2,19 @@ card_name: Reckoning
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Protection Hero Required Ongoing : When your hero is dealt combat damage on an opponent's turn, you may ready a card you control."
+cost: '2'
 
 class:
   - Paladin
 
-cost: '2'
+rule:
+  - type: ability
+    text: "Protection Hero Required Ongoing : When your hero is dealt combat damage on an opponent's turn, you may ready a card you control."
+
+regulation:
+
+errata: []
 
 temp: Protection Talent

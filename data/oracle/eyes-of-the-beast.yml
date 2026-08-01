@@ -2,17 +2,19 @@ card_name: Eyes of the Beast
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : 1 , Exhaust your hero → Ready target Pet you control.'
+cost: '1'
 
 class:
   - Hunter
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Ongoing : 1 , Exhaust your hero → Ready target Pet you control.'
+
+regulation:
+
+errata: []
 
 temp: Beast Mastery

@@ -2,22 +2,24 @@ card_name: Highland Lion
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 3
 
-text: This and other allies you control have +1 ATK while attacking heroes and allies.
-
-cost: '3'
-
 combat: Melee
 
-temp: Lion Beast
-
 type: Monster
+
+rule:
+  - type: ability
+    text: This and other allies you control have +1 ATK while attacking heroes and allies.
+
+regulation:
+
+errata: []
+
+temp: Lion Beast

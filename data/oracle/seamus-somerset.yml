@@ -2,22 +2,24 @@ card_name: Seamus Somerset
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 1
 
-text: Ferocity When Seamus attacks, you may remove target card in a graveyard from the game.
-
-cost: '2'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity When Seamus attacks, you may remove target card in a graveyard from the game.
+
+regulation:
+
+errata: []
 
 temp: Undead Rogue

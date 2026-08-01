@@ -2,17 +2,19 @@ card_name: Vicious Circle
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: You may put an ally card from your hand into play. If you do, destroy a second target ally in your party, then put a third ally card from your graveyard into hand.
+cost: '7'
 
 class:
   - Warlock
 
-cost: '7'
+rule:
+  - type: ability
+    text: You may put an ally card from your hand into play. If you do, destroy a second target ally in your party, then put a third ally card from your graveyard into hand.
+
+regulation:
+
+errata: []
 
 temp: Demonology

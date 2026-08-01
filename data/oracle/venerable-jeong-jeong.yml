@@ -2,8 +2,10 @@ card_name: Venerable Jeong Jeong
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

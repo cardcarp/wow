@@ -2,20 +2,22 @@ card_name: Crusade Commander Entari
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 4
 
 health: 4
 
-text: Argent Crusade Reputation At the end of your turn, this ally deals 1 unpreventable holy damage to each opposing hero and ally for each Unique ally you control.
-
-cost: '6'
-
 combat: Holy
+
+rule:
+  - type: ability
+    text: Argent Crusade Reputation At the end of your turn, this ally deals 1 unpreventable holy damage to each opposing hero and ally for each Unique ally you control.
+
+regulation:
+
+errata: []
 
 temp: Human Paladin

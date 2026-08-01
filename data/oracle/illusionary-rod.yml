@@ -2,13 +2,9 @@ card_name: Illusionary Rod
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 , , Exhaust your hero → Remove your hand from the game. At the end of turn, put the removed cards into your hand.
+cost: '1'
 
 class:
   - Priest
@@ -17,6 +13,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: 1 , , Exhaust your hero → Remove your hand from the game. At the end of turn, put the removed cards into your hand.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

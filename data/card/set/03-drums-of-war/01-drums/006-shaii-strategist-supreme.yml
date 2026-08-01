@@ -10,4 +10,5 @@ artist: JonBoy Meyers
 
 flavor: '"Of course I saw you coming. How else could you have gotten so dangerously close?"'
 
-appearance: []
+variation:
+  - transform

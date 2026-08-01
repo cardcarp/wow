@@ -2,8 +2,10 @@ card_name: Nothiel Netheryn
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

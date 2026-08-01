@@ -2,12 +2,14 @@ card_name: The Summoning Chamber
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'If an ability was destroyed this turn, pay 1 to complete this quest. Reward : Draw a card.'
 
-text: 'If an ability was destroyed this turn, pay 1 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

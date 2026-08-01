@@ -2,8 +2,10 @@ card_name: Blind Hatred
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

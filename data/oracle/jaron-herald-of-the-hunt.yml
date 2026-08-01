@@ -2,22 +2,24 @@ card_name: Jaron, Herald of the Hunt
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 2
 
-instant: 'Empower Hunter : When this ally enters play, if you control another Hunter hero or ally, destroy target attacking ally.'
-
-cost: '3'
-
 combat: Melee
 
 faction: Horde
+
+instant: 'Empower Hunter : When this ally enters play, if you control another Hunter hero or ally, destroy target attacking ally.'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Undead Hunter

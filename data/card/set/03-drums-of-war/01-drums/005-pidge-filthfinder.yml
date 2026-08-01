@@ -10,4 +10,5 @@ artist: Dan Scott
 
 flavor: '"Secrets are for sharing."'
 
-appearance: []
+variation:
+  - transform

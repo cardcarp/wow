@@ -2,23 +2,25 @@ card_name: Angrida
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 3
 
-text: → This ally deals 2 shadow damage to target ally.
+combat: Shadow
 
 class:
   - Warlock
 
-cost: '3'
+rule:
+  - type: ability
+    text: → This ally deals 2 shadow damage to target ally.
 
-combat: Shadow
+regulation:
+
+errata: []
 
 temp: Succubus Demon

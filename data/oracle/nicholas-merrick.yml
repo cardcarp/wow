@@ -2,16 +2,19 @@ card_name: Nicholas Merrick
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 25
 
-text: 'On your turn: 3 , Flip Nicholas → Nicholas deals 2 fire damage to each opposing ally.'
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 3 , Flip Nicholas → Nicholas deals 2 fire damage to each opposing ally.'
+
+regulation:
+
+errata: []
 
 temp: Human Mage

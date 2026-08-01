@@ -2,17 +2,19 @@ card_name: Arcane Breach
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Interrupt target ability, ally, or equipment. Draw a card.
+cost: '5'
 
 class:
   - Mage
 
-cost: '5'
+instant: Interrupt target ability, ally, or equipment. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Arcane

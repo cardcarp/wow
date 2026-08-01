@@ -2,22 +2,24 @@ card_name: Dhoros Ravestrike
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 3
 
-text: 3 → This ally has Assault 3 this turn.
-
-cost: '3'
-
 combat: Ranged
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: 3 → This ally has Assault 3 this turn.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Hunter

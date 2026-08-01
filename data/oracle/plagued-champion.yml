@@ -2,20 +2,22 @@ card_name: Plagued Champion
 
 layout: standard
 
-regulation:
-
 category: Token
-
-errata: []
 
 damage: 1
 
 health: 1
 
-text: Protector
-
 combat: Shadow
 
-temp: Skeleton
-
 type: Ally
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Skeleton

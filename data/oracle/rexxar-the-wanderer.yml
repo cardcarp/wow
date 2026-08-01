@@ -2,20 +2,22 @@ card_name: Rexxar the Wanderer
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 4
 
-text: When Rexxar enters play, search your deck for a Beast ally, reveal it, and put it into your hand. Beast allies you control have +1 / +1.
-
-cost: '4'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: When Rexxar enters play, search your deck for a Beast ally, reveal it, and put it into your hand. Beast allies you control have +1 / +1.
+
+regulation:
+
+errata: []
 
 temp: Orc Ogre Hunter

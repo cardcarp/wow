@@ -10,4 +10,5 @@ artist: Raymond Swanland
 
 flavor:
 
-appearance: []
+variation:
+  - transform

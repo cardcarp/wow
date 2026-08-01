@@ -10,4 +10,5 @@ artist: Vance Kovacs
 
 flavor:
 
-appearance: []
+variation:
+  - transform

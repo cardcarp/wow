@@ -2,18 +2,20 @@ card_name: Cursed Vision of Sargeras
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → If you completed a quest this turn, turn target resource face down.
+cost: '3'
 
 class:
   - Druid
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: → If you completed a quest this turn, turn target resource face down.
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

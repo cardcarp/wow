@@ -2,19 +2,21 @@ card_name: Continuum Blade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the start of each player's turn, if he didn't take the last turn, he takes an extra turn after this one.
+cost: '5'
 
 class:
   - Paladin
   - Warlock
   - Mage
 
-cost: '5'
+rule:
+  - type: ability
+    text: At the start of each player's turn, if he didn't take the last turn, he takes an extra turn after this one.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

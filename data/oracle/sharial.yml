@@ -2,22 +2,24 @@ card_name: Sharial
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 1
 
-text: Elusive → Exhaust target equipment.
-
-cost: '5'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive → Exhaust target equipment.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Rogue

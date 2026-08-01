@@ -10,4 +10,5 @@ artist: Kev Walker
 
 flavor: '"Once Ymiron has been awakened, we will scour this world of its unworthy infestation."'
 
-appearance: []
+variation:
+  - transform

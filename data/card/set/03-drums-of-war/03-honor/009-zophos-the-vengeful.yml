@@ -10,4 +10,5 @@ artist: Dan Scott
 
 flavor: '"Your aggression shall be rewarded by your destruction."'
 
-appearance: []
+variation:
+  - transform

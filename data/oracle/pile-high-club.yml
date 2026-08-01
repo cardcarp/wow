@@ -2,12 +2,14 @@ card_name: Pile High Club
 
 layout: standard
 
-regulation:
-
 category: Achievement
 
-errata: []
+rule:
+  - type: ability
+    text: There are twenty or more cards in the Dungeon graveyard.
 
-text: There are twenty or more cards in the Dungeon graveyard.
+regulation:
+
+errata: []
 
 temp: ''

@@ -2,16 +2,19 @@ card_name: Boris Brightbeard
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 26
 
-text: x , Flip Boris Brightbeard → Boris heals X damage from target hero or ally. Use only on your turn.
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: x , Flip Boris Brightbeard → Boris heals X damage from target hero or ally. Use only on your turn.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Priest

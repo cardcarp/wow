@@ -2,20 +2,22 @@ card_name: Anchorite Viluaa
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 3
 
-text: 'Aldor Reputation Inspire: Hero'
-
-cost: '3'
-
 combat: Holy
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Hero'
+
+regulation:
+
+errata: []
 
 temp: Draenei Priest

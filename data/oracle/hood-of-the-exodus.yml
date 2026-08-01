@@ -2,18 +2,20 @@ card_name: Hood of the Exodus
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When an ally you control with Assault deals combat damage to an opponent's hero, he discards a card.
+cost: '3'
 
 class:
   - Druid
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: When an ally you control with Assault deals combat damage to an opponent's hero, he discards a card.
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

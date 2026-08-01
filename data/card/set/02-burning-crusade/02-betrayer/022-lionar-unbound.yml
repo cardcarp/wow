@@ -10,4 +10,5 @@ artist: Glenn Rane
 
 flavor: '"WE ARE HORDE!"'
 
-appearance: []
+variation:
+  - transform

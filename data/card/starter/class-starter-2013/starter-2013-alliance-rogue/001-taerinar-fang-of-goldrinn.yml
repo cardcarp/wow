@@ -10,4 +10,5 @@ artist: Luke Mancini
 
 flavor: '"To honor the spirit of the wolf ancient and his ferocity without being overcome by both is a delicate balance."'
 
-appearance: []
+variation:
+  - transform

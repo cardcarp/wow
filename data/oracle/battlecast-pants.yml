@@ -2,19 +2,21 @@ card_name: Battlecast Pants
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → Cards in your hand are instant this turn until you play a card.
+cost: '3'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: → Cards in your hand are instant this turn until you play a card.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

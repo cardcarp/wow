@@ -2,17 +2,19 @@ card_name: Soulshatter
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Ongoing : When your hero defends against an ally, that ally's controller exhausts all allies in his party."
+cost: '4'
 
 class:
   - Warlock
 
-cost: '4'
+rule:
+  - type: ability
+    text: "Ongoing : When your hero defends against an ally, that ally's controller exhausts all allies in his party."
+
+regulation:
+
+errata: []
 
 temp: Demonology

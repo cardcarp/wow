@@ -2,19 +2,21 @@ card_name: Aegis of the Blood God
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Aegis of the Blood God has +1 DEF for each damage on your hero.
+cost: '5'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: Aegis of the Blood God has +1 DEF for each damage on your hero.
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

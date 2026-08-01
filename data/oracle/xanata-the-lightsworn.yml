@@ -2,20 +2,22 @@ card_name: Xanata the Lightsworn
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 3
 
-text: Aldor Reputation Protector If Xanata would be dealt combat damage while defending, prevent 2 of it.
-
-cost: '2'
-
 combat: Holy
+
+rule:
+  - type: ability
+    text: Aldor Reputation Protector If Xanata would be dealt combat damage while defending, prevent 2 of it.
+
+regulation:
+
+errata: []
 
 temp: Draenei Paladin

@@ -2,17 +2,19 @@ card_name: Wild Fervor
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Target ally has Assault 2 , Ferocity , and Long-Range this turn.
+cost: '2'
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: Target ally has Assault 2 , Ferocity , and Long-Range this turn.
+
+regulation:
+
+errata: []
 
 temp: Beast Mastery

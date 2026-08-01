@@ -10,4 +10,5 @@ artist: Chris Rahn
 
 flavor: "\"I don't mind if my skull ends up on a shelf as long as it's got my name on it.\""
 
-appearance: []
+variation:
+  - transform

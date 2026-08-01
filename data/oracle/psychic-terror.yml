@@ -2,8 +2,10 @@ card_name: Psychic Terror
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

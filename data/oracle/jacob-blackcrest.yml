@@ -2,16 +2,19 @@ card_name: Jacob Blackcrest
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 28
 
-text: 4 , Flip Jacob → Put target Demon from your graveyard into your hand.
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 4 , Flip Jacob → Put target Demon from your graveyard into your hand.
+
+regulation:
+
+errata: []
 
 temp: Worgen Warlock

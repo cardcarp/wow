@@ -2,17 +2,19 @@ card_name: Murderous Torment
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Traitor Hero Required Ongoing : When an opponent draws a card, your hero deals 1 arcane damage to his hero.'
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Traitor Hero Required Ongoing : When an opponent draws a card, your hero deals 1 arcane damage to his hero.'
+
+regulation:
+
+errata: []
 
 temp: Traitor

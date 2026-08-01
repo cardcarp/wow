@@ -2,20 +2,22 @@ card_name: Coilfang Myrmidon
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 2
 
-text: Traitor Hero Required When Coilfang Myrmidon is destroyed, reveal the top card of your deck. If it's named Coilfang Myrmidon, draw it.
-
-cost: '3'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Traitor Hero Required When Coilfang Myrmidon is destroyed, reveal the top card of your deck. If it's named Coilfang Myrmidon, draw it.
+
+regulation:
+
+errata: []
 
 temp: Naga Traitor

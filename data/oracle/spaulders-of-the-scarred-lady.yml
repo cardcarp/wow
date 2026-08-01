@@ -2,18 +2,20 @@ card_name: Spaulders of the Scarred Lady
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has Assault 2 for each ally you control with 6 or more ATK.
+cost: '2'
 
 class:
   - Hunter
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero has Assault 2 for each ally you control with 6 or more ATK.
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

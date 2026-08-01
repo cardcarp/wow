@@ -2,8 +2,10 @@ card_name: Skyshaper Stellaria
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

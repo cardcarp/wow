@@ -10,4 +10,5 @@ artist: Michael Kormarck
 
 flavor:
 
-appearance: []
+variation:
+  - transform

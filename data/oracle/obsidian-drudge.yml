@@ -2,20 +2,22 @@ card_name: Obsidian Drudge
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 2
 
-text: When this or another Black or Twilight Dragonkin ally you control is destroyed, you may destroy target equipment.
-
-cost: '3'
-
 combat: Fire
+
+rule:
+  - type: ability
+    text: When this or another Black or Twilight Dragonkin ally you control is destroyed, you may destroy target equipment.
+
+regulation:
+
+errata: []
 
 temp: Black Dragonkin

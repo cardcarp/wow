@@ -2,22 +2,24 @@ card_name: Elderguard Brennan
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 8
 
-text: This ally enters play with 4 damage on him.
-
-cost: '5'
-
 combat: Shadow
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: This ally enters play with 4 damage on him.
+
+regulation:
+
+errata: []
 
 temp: Undead Death Knight

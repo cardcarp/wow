@@ -2,22 +2,24 @@ card_name: Strongroot, Ancient of War
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 1
 
 health: 9
 
-text: This ally can protect Monster heroes and allies you control. When an opposing ally attacks, ready this ally.
-
-cost: '5'
-
 combat: Nature
 
-temp: Ancient Druid
-
 type: Monster
+
+rule:
+  - type: ability
+    text: This ally can protect Monster heroes and allies you control. When an opposing ally attacks, ready this ally.
+
+regulation:
+
+errata: []
+
+temp: Ancient Druid

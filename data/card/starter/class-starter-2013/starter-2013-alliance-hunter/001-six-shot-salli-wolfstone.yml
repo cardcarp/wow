@@ -10,4 +10,5 @@ artist: Grace Liu
 
 flavor: "\"A beast is just a companion you haven't convinced yet.\""
 
-appearance: []
+variation:
+  - transform

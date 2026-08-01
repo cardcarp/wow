@@ -2,18 +2,20 @@ card_name: Saliva Corroded Pike
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When damage is dealt with this weapon on an opponent's turn, you may ready it.
+cost: '4'
 
 class:
   - Paladin
   - Hunter
 
-cost: '4'
+rule:
+  - type: ability
+    text: When damage is dealt with this weapon on an opponent's turn, you may ready it.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Polearm

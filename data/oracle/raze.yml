@@ -2,17 +2,19 @@ card_name: Raze
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Finishing Move Destroy each opposing ally and equipment with cost X.
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: Finishing Move Destroy each opposing ally and equipment with cost X.
+
+regulation:
+
+errata: []
 
 temp: Assassination

@@ -2,12 +2,14 @@ card_name: Godfreys Crystal Scope
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+rule:
+  - type: ability
+    text: 'When Godfrey deals combat damage to a Raiding hero, he also deals that much damage to each other Raiding hero. Level 3+ : When this item enters play, Godfrey has Stealth this turn.'
 
-text: 'When Godfrey deals combat damage to a Raiding hero, he also deals that much damage to each other Raiding hero. Level 3+ : When this item enters play, Godfrey has Stealth this turn.'
+regulation:
+
+errata: []
 
 temp: Item

@@ -2,13 +2,11 @@ card_name: High Warlords Cleaver
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '3'
 
-text: While your hero is attacking an hero, this weapon has +3 ATK.
+faction: Horde
 
 class:
   - Warrior
@@ -18,8 +16,12 @@ class:
   - Death Knight
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: While your hero is attacking an hero, this weapon has +3 ATK.
 
-faction: Horde
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

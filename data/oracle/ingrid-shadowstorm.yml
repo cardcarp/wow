@@ -2,22 +2,24 @@ card_name: Ingrid Shadowstorm
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 5
 
-text: Opposing heroes lose and can't have flip powers.
-
-cost: '4'
-
 combat: Shadow
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Opposing heroes lose and can't have flip powers.
+
+regulation:
+
+errata: []
 
 temp: Human Warlock

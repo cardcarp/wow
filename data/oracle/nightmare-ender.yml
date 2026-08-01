@@ -2,19 +2,21 @@ card_name: Nightmare Ender
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'On your turn: Destroy this weapon → Shuffle your hand into your deck, then draw that many cards.'
+cost: '3'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'On your turn: Destroy this weapon → Shuffle your hand into your deck, then draw that many cards.'
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Wand

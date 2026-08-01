@@ -2,8 +2,10 @@ card_name: Gamon Hero Of Orgimmar
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

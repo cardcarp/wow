@@ -2,19 +2,21 @@ card_name: The Oathkeeper
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: "When The Oathkeeper enters play, choose an oath: \"I won't play cards;\" or \"I won't draw cards.\" You can't break that oath."
+cost: '4'
 
 class:
   - Druid
   - Paladin
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: "When The Oathkeeper enters play, choose an oath: \"I won't play cards;\" or \"I won't draw cards.\" You can't break that oath."
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Mace

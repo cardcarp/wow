@@ -2,22 +2,24 @@ card_name: Gobbler
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 6
 
-text: When Gobbler attacks, you may search your deck for a Murloc, reveal it, and put it into your hand. When Gobbler or another Murloc ally you control is destroyed, each opponent chooses and destroys an ally he controls.
-
-cost: '6'
-
 combat: Nature
 
-temp: Murloc Shaman
-
 type: Monster
+
+rule:
+  - type: ability
+    text: When Gobbler attacks, you may search your deck for a Murloc, reveal it, and put it into your hand. When Gobbler or another Murloc ally you control is destroyed, each opponent chooses and destroys an ally he controls.
+
+regulation:
+
+errata: []
+
+temp: Murloc Shaman

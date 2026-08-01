@@ -2,16 +2,19 @@ card_name: Velindra Sepulchre
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 25
 
-text: 1 , Flip Velindra → This turn, target ally can't attack or protect, loses and can't have powers, and is also a Sheep.
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 1 , Flip Velindra → This turn, target ally can't attack or protect, loses and can't have powers, and is also a Sheep.
+
+regulation:
+
+errata: []
 
 temp: Undead Mage

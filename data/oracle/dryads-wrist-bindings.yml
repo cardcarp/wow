@@ -2,13 +2,9 @@ card_name: Dryads Wrist Bindings
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: ', Destroy one of your resources → Draw a card.'
+cost: '2'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Warlock
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: ', Destroy one of your resources → Draw a card.'
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

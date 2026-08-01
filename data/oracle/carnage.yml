@@ -2,17 +2,19 @@ card_name: Carnage
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy each opposing ally with cost 4 or less.
+cost: '5'
 
 class:
   - Rogue
 
-cost: '5'
+rule:
+  - type: ability
+    text: Destroy each opposing ally with cost 4 or less.
+
+regulation:
+
+errata: []
 
 temp: Assassination Combo

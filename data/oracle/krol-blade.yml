@@ -2,11 +2,9 @@ card_name: Krol Blade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '3'
 
 class:
   - Paladin
@@ -14,6 +12,10 @@ class:
   - Warrior
   - Hunter
 
-cost: '3'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

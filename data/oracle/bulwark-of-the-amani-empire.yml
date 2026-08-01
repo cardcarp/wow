@@ -2,19 +2,21 @@ card_name: Bulwark of the Amani Empire
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Bulwark of the Amani Empire can prevent damage that would be dealt to allies in your party.
+cost: '4'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: Bulwark of the Amani Empire can prevent damage that would be dealt to allies in your party.
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

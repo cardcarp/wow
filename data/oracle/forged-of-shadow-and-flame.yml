@@ -2,12 +2,14 @@ card_name: Forged of Shadow and Flame
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'If you control an equipment: Pay 3 to complete this quest. Reward : Draw a card.'
 
-text: 'If you control an equipment: Pay 3 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

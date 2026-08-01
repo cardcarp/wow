@@ -2,17 +2,19 @@ card_name: Monstrous Boon
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Reveal cards from the top of your deck equal to the number of Monster heroes and allies you control, then place them into your resource row exhausted as additional resources.
+cost: '4'
 
 class:
   - Druid
 
-cost: '4'
+rule:
+  - type: ability
+    text: Reveal cards from the top of your deck equal to the number of Monster heroes and allies you control, then place them into your resource row exhausted as additional resources.
+
+regulation:
+
+errata: []
 
 temp: Balance

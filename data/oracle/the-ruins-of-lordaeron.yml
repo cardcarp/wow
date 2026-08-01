@@ -2,12 +2,14 @@ card_name: The Ruins of Lordaeron
 
 layout: standard
 
-regulation:
-
 category: Location
 
-errata: []
+rule:
+  - type: ability
+    text: When a hero or ally in your party deals damage, add an arena counter. , Remove three arena counters → Put up to three target cards from one player's graveyard on the bottom of his deck.
 
-text: When a hero or ally in your party deals damage, add an arena counter. , Remove three arena counters → Put up to three target cards from one player's graveyard on the bottom of his deck.
+regulation:
+
+errata: []
 
 temp: Arena

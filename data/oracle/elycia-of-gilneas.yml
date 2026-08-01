@@ -2,16 +2,19 @@ card_name: Elycia of Gilneas
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 27
 
-text: 'On your turn: 4 , Flip Elycia → Target hero or ally has +2 ATK and Stealth this turn.'
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 4 , Flip Elycia → Target hero or ally has +2 ATK and Stealth this turn.'
+
+regulation:
+
+errata: []
 
 temp: Worgen Rogue

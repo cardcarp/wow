@@ -2,17 +2,19 @@ card_name: Icy Torment
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 1 frost damage to attached hero. When damage is dealt this way, target ally in attached hero's party has -2 ATK this turn."
+cost: '1'
 
 class:
   - Death Knight
 
-cost: '1'
+rule:
+  - type: ability
+    text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 1 frost damage to attached hero. When damage is dealt this way, target ally in attached hero's party has -2 ATK this turn."
+
+regulation:
+
+errata: []
 
 temp: Frost Disease

@@ -2,22 +2,24 @@ card_name: Doom
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 2
 
 health: 6
 
-text: Assault 4
-
-cost: '5'
-
 combat: Shadow
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Assault 4
+
+regulation:
+
+errata: []
 
 temp: Undead Warlock

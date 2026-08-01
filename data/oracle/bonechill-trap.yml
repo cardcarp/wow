@@ -2,8 +2,10 @@ card_name: Bonechill Trap
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

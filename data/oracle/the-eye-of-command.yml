@@ -2,12 +2,14 @@ card_name: The Eye of Command
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'On your turn, pay 7 to complete this quest. Reward : Draw three cards.'
 
-text: 'On your turn, pay 7 to complete this quest. Reward : Draw three cards.'
+regulation:
+
+errata: []
 
 temp: ''

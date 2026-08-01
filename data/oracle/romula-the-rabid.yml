@@ -2,8 +2,10 @@ card_name: Romula the Rabid
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

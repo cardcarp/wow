@@ -2,8 +2,10 @@ card_name: Beric Sweetbarrow
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

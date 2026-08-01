@@ -2,17 +2,19 @@ card_name: Windfury Infusion
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally or weapon. Ongoing : Attached card has +3 ATK. When attached card becomes exhausted for the first time each turn, you may ready it.'
+cost: '6'
 
 class:
   - Shaman
 
-cost: '6'
+rule:
+  - type: ability
+    text: 'Attach to target ally or weapon. Ongoing : Attached card has +3 ATK. When attached card becomes exhausted for the first time each turn, you may ready it.'
+
+regulation:
+
+errata: []
 
 temp: Enhancement

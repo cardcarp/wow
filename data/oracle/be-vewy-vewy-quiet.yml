@@ -2,12 +2,14 @@ card_name: Be Vewy Vewy Quiet!
 
 layout: standard
 
-regulation:
-
 category: Achievement
 
-errata: []
+rule:
+  - type: ability
+    text: Flip the Gargoyles ability without putting any Gargoyle tokens into play.
 
-text: Flip the Gargoyles ability without putting any Gargoyle tokens into play.
+regulation:
+
+errata: []
 
 temp: ''

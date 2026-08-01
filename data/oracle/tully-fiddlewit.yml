@@ -2,22 +2,24 @@ card_name: Tully Fiddlewit
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 3
 
-text: When Tully defends against an ally, discard a card.
-
-cost: '2'
-
 combat: Arcane
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: When Tully defends against an ally, discard a card.
+
+regulation:
+
+errata: []
 
 temp: Gnome Mage

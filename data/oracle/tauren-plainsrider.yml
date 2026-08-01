@@ -2,22 +2,24 @@ card_name: Tauren Plainsrider
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 5
 
-text: Long-Range
-
-cost: '3'
-
 combat: Ranged
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Long-Range
+
+regulation:
+
+errata: []
 
 temp: Tauren Hunter

@@ -2,12 +2,14 @@ card_name: Deadmine Sweeper
 
 layout: standard
 
-regulation:
-
 category: Achievement
 
-errata: []
+rule:
+  - type: ability
+    text: Defeat The Deadmines without losing a player OR defeat The Deadmines despite losing two players.
 
-text: Defeat The Deadmines without losing a player OR defeat The Deadmines despite losing two players.
+regulation:
+
+errata: []
 
 temp: ''

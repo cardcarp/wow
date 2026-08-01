@@ -10,4 +10,5 @@ artist: Matt Dixon
 
 flavor:
 
-appearance: []
+variation:
+  - transform

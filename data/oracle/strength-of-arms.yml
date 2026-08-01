@@ -2,17 +2,19 @@ card_name: Strength of Arms
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Each of your weapons has +2 ATK. Each of your armor has +2 DEF.'
+cost: '7'
 
 class:
   - Warrior
 
-cost: '7'
+rule:
+  - type: ability
+    text: 'Ongoing : Each of your weapons has +2 ATK. Each of your armor has +2 DEF.'
+
+regulation:
+
+errata: []
 
 temp: Arms

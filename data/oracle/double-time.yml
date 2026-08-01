@@ -2,18 +2,20 @@ card_name: Double Time
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Ready target equipment.
+cost: '2'
 
 class:
   - Warrior
   - Shaman
 
-cost: '2'
+instant: Ready target equipment.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Enhancement Arms

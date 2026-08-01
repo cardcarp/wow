@@ -2,17 +2,19 @@ card_name: Disengage
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Remove target attacker from combat, and your hero deals 1 ranged damage to it.
+cost: '1'
 
 class:
   - Hunter
 
-cost: '1'
+instant: Remove target attacker from combat, and your hero deals 1 ranged damage to it.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Survival

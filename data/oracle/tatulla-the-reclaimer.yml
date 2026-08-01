@@ -2,22 +2,24 @@ card_name: Tatulla the Reclaimer
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 3
 
-text: When Tatulla enters play, target player destroys an ability or equipment he controls.
-
-cost: '4'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When Tatulla enters play, target player destroys an ability or equipment he controls.
+
+regulation:
+
+errata: []
 
 temp: Tauren Druid

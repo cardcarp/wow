@@ -2,14 +2,16 @@ card_name: First to Fall
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '2'
 
 instant: Destroy target protecting ally.
 
-cost: '2'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

@@ -2,17 +2,19 @@ card_name: Primal Totem
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Ongoing : When one of your Totems is destroyed, it deals 1 nature damage to each opposing hero and ally. (Totems can be attacked or targeted like allies.)'
+cost: '1'
 
 class:
   - Shaman
 
-cost: '1'
+instant: 'Ongoing : When one of your Totems is destroyed, it deals 1 nature damage to each opposing hero and ally. (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Elemental 1

@@ -10,4 +10,5 @@ artist: Jim Nelson
 
 flavor: '"Aye, soon your shots will be as good as mine."'
 
-appearance: []
+variation:
+  - transform

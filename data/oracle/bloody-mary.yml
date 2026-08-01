@@ -2,16 +2,19 @@ card_name: Bloody Mary
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 30
 
-text: 2 , Flip Bloody Mary → Opposing allies have -1 ATK this turn.
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Bloody Mary → Opposing allies have -1 ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: Undead Warrior

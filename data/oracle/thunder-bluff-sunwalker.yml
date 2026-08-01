@@ -2,22 +2,24 @@ card_name: Thunder Bluff Sunwalker
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 5
 
-text: Protector
-
-cost: '3'
-
 combat: Holy
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
 
 temp: Tauren Paladin

@@ -2,20 +2,22 @@ card_name: Scarlet Conjuror
 
 layout: standard
 
-regulation:
-
 category: Ally
-
-errata: []
 
 damage: 3
 
 health: 2
 
-text: Ferocity
-
 combat: Fire
 
-temp: Human Conjuror
-
 type: Dungeon
+
+rule:
+  - type: ability
+    text: Ferocity
+
+regulation:
+
+errata: []
+
+temp: Human Conjuror

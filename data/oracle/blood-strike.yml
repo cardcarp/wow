@@ -2,17 +2,19 @@ card_name: Blood Strike
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Your hero deals 2 melee damage to target ally. That ally has -1 health this turn for each Disease you control.
+cost: '1'
 
 class:
   - Death Knight
 
-cost: '1'
+instant: Your hero deals 2 melee damage to target ally. That ally has -1 health this turn for each Disease you control.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Blood

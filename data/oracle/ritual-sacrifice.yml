@@ -2,17 +2,19 @@ card_name: Ritual Sacrifice
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Destroy an ally in your party → Your hero deals 1 shadow damage to target hero or ally.'
+cost: '2'
 
 class:
   - Warlock
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : Destroy an ally in your party → Your hero deals 1 shadow damage to target hero or ally.'
+
+regulation:
+
+errata: []
 
 temp: Demonology

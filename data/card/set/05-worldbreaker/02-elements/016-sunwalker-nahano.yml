@@ -10,4 +10,5 @@ artist: James Zhang (CAH)
 
 flavor: '"The light of the sun will surely help guide is, even in the deepest depths of the earth and sea."'
 
-appearance: []
+variation:
+  - transform

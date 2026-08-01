@@ -2,17 +2,19 @@ card_name: Flamestrike
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 3 fire damage to each opposing hero and ally.
+cost: '7'
 
 class:
   - Mage
 
-cost: '7'
+rule:
+  - type: ability
+    text: Your hero deals 3 fire damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
 
 temp: Fire

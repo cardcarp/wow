@@ -10,4 +10,5 @@ artist: Efrem Palacios
 
 flavor:
 
-appearance: []
+variation:
+  - transform

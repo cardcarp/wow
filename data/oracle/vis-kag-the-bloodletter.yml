@@ -2,13 +2,9 @@ card_name: Vis_kag the Bloodletter
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals combat damage with Vis'kag the Bloodletter to an ally without damage on it, destroy that ally.
+cost: '4'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: When your hero deals combat damage with Vis'kag the Bloodletter to an ally without damage on it, destroy that ally.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

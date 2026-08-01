@@ -10,4 +10,5 @@ artist: Dan Scott
 
 flavor: '"I fight for Velen, the naaru, and the Light. What hope do you have?"'
 
-appearance: []
+variation:
+  - transform

@@ -2,12 +2,14 @@ card_name: Down But Not Out
 
 layout: standard
 
-regulation:
-
 category: Achievement
 
-errata: []
+rule:
+  - type: ability
+    text: Have 60 or more total damage on Raiding heroes with no Raiding heroes being destroyed by the damage.
 
-text: Have 60 or more total damage on Raiding heroes with no Raiding heroes being destroyed by the damage.
+regulation:
+
+errata: []
 
 temp: ''

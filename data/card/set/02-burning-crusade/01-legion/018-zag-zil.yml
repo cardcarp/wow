@@ -10,4 +10,5 @@ artist: Andrew Robinson
 
 flavor: '"Fair fights be overrated, mon!"'
 
-appearance: []
+variation:
+  - transform

@@ -2,13 +2,9 @@ card_name: Life-Staff of the Web Lair
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Nerubian Reputation Nerubian allies you control have +1 / +1. → Your hero deals nature damage to target hero or ally equal to the number of Nerubian allies you control.
+cost: '3'
 
 class:
   - Priest
@@ -17,6 +13,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: Nerubian Reputation Nerubian allies you control have +1 / +1. → Your hero deals nature damage to target hero or ally equal to the number of Nerubian allies you control.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

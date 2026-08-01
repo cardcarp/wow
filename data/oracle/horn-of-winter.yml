@@ -2,17 +2,19 @@ card_name: Horn of Winter
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Heroes and allies you control have Assault 1 this turn.
+cost: '2'
 
 class:
   - Death Knight
 
-cost: '2'
+rule:
+  - type: ability
+    text: Heroes and allies you control have Assault 1 this turn.
+
+regulation:
+
+errata: []
 
 temp: Frost

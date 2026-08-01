@@ -2,12 +2,14 @@ card_name: Not a Scratch on Me!
 
 layout: standard
 
-regulation:
-
 category: Achievement
 
-errata: []
+rule:
+  - type: ability
+    text: Destroy the Dungeon hero with at least one Raiding hero at full health.
 
-text: Destroy the Dungeon hero with at least one Raiding hero at full health.
+regulation:
+
+errata: []
 
 temp: ''

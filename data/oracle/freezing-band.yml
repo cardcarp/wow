@@ -2,19 +2,21 @@ card_name: Freezing Band
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Each opponent can't draw more than one card per turn.
+cost: '3'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: Each opponent can't draw more than one card per turn.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

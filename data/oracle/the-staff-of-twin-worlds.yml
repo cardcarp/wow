@@ -2,13 +2,9 @@ card_name: The Staff of Twin Worlds
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Other cards in play have their printed text a second time. (For example, if a card has the text, "Allies have +1 ATK," treat it as though it says that twice.)
+cost: '6'
 
 class:
   - Priest
@@ -17,6 +13,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '6'
+rule:
+  - type: ability
+    text: Other cards in play have their printed text a second time. (For example, if a card has the text, "Allies have +1 ATK," treat it as though it says that twice.)
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

@@ -2,19 +2,21 @@ card_name: Battleplate of the Apocalypse
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'On your turn: → When target ally you control deals damage to an opposing ally this turn, destroy both allies.'
+cost: '6'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '6'
+rule:
+  - type: ability
+    text: 'On your turn: → When target ally you control deals damage to an opposing ally this turn, destroy both allies.'
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

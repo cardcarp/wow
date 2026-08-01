@@ -2,8 +2,10 @@ card_name: Shatter
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

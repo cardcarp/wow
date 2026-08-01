@@ -2,22 +2,24 @@ card_name: Neferset Frostbringer
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 3
 
-text: Sentinel
-
-cost: '4'
-
 combat: Frost
 
-temp: Tol'vir Mage Shaman
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Sentinel
+
+regulation:
+
+errata: []
+
+temp: Tol'vir Mage Shaman

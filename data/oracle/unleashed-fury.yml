@@ -2,8 +2,10 @@ card_name: Unleashed Fury
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

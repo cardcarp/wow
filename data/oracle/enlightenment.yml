@@ -2,17 +2,19 @@ card_name: Enlightenment
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Discipline Hero Required You pay 1 less to play Enlightenment for each ability card in your graveyard. Ongoing : At the start of your turn, you win the game.'
+cost: '25'
 
 class:
   - Priest
 
-cost: '25'
+rule:
+  - type: ability
+    text: 'Discipline Hero Required You pay 1 less to play Enlightenment for each ability card in your graveyard. Ongoing : At the start of your turn, you win the game.'
+
+regulation:
+
+errata: []
 
 temp: Discipline Talent

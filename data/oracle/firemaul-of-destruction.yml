@@ -2,13 +2,9 @@ card_name: Firemaul of Destruction
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: You pay 3 less to strike with Firemaul of Destruction if an opposing card was destroyed this turn.
+cost: '6'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Death Knight
   - Shaman
 
-cost: '6'
+rule:
+  - type: ability
+    text: You pay 3 less to strike with Firemaul of Destruction if an opposing card was destroyed this turn.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

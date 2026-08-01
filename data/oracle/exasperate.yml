@@ -2,17 +2,19 @@ card_name: Exasperate
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Target player discards a card for each ally in your party.
+cost: '2'
 
 class:
   - Priest
 
-cost: '2'
+rule:
+  - type: ability
+    text: Target player discards a card for each ally in your party.
+
+regulation:
+
+errata: []
 
 temp: Shadow

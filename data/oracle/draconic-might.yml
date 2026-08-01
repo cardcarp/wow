@@ -2,14 +2,16 @@ card_name: Draconic Might
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '1'
 
 instant: Onyxia has +X ATK while attacking this turn, where X is the number of opposing heroes.
 
-cost: '1'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

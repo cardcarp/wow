@@ -2,12 +2,14 @@ card_name: Akamas Promise
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Loyal Hero Required Pay 1 for each card in your hand to complete this quest. Reward : Draw a card.'
 
-text: 'Loyal Hero Required Pay 1 for each card in your hand to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

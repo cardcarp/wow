@@ -2,17 +2,19 @@ card_name: Ancestral Awakening
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Restoration Hero Required Search your deck for an ally with cost less than or equal to the number of resources you control. Put it into play with damage equal to its -1.
+cost: '4'
 
 class:
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: Restoration Hero Required Search your deck for an ally with cost less than or equal to the number of resources you control. Put it into play with damage equal to its -1.
+
+regulation:
+
+errata: []
 
 temp: Restoration Talent

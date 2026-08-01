@@ -2,16 +2,19 @@ card_name: Kana Nassis
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 28
 
-text: 2 , Flip Kana Nassis → If Kana is defending, remove her from combat.
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Kana Nassis → If Kana is defending, remove her from combat.
+
+regulation:
+
+errata: []
 
 temp: Draenei Hunter

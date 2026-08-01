@@ -2,13 +2,9 @@ card_name: Reanimators Hacker
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 2 , Destroy this weapon → Put target ally from your graveyard into your hand.
+cost: '4'
 
 class:
   - Warrior
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: 2 , Destroy this weapon → Put target ally from your graveyard into your hand.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

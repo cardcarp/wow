@@ -2,18 +2,20 @@ card_name: Blade of Wizardry
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 , , Discard an ability card → Destroy target ally.
+cost: '3'
 
 class:
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: 1 , , Discard an ability card → Destroy target ally.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

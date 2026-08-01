@@ -2,14 +2,16 @@ card_name: Hidden Reserves
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Each opponent reveals the top two cards of his deck. He may put a revealed ally card into his hand and the rest on the bottom of his deck.
+
+regulation:
 
 errata: []
 
-text: Each opponent reveals the top two cards of his deck. He may put a revealed ally card into his hand and the rest on the bottom of his deck.
-
 temp: ''
-
-type: Raid

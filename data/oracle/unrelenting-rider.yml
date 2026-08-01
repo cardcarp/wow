@@ -2,20 +2,22 @@ card_name: Unrelenting Rider
 
 layout: standard
 
-regulation:
-
 category: Token
-
-errata: []
 
 damage: 2
 
 health: 2
 
-text: Ferocity When this ally leaves play, the Boss player puts a Spectral Rider into play.
-
 combat: Melee
 
-temp: Human Death Knight
-
 type: Ally
+
+rule:
+  - type: ability
+    text: Ferocity When this ally leaves play, the Boss player puts a Spectral Rider into play.
+
+regulation:
+
+errata: []
+
+temp: Human Death Knight

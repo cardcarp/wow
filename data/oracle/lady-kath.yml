@@ -2,22 +2,24 @@ card_name: Lady Kath
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 4
 
 health: 5
 
-text: At the end of each turn, Lady Kath heals all damage from all allies.
-
-cost: '5'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: At the end of each turn, Lady Kath heals all damage from all allies.
+
+regulation:
+
+errata: []
 
 temp: Human Paladin

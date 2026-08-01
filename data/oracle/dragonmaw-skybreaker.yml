@@ -2,8 +2,10 @@ card_name: Dragonmaw Skybreaker
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

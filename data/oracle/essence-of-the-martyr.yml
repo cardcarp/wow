@@ -2,13 +2,9 @@ card_name: Essence of the Martyr
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When an ally in your party is destroyed, you may remove it from the game. If you do, Essence of the Martyr becomes a copy of that ally with this power, and you may remove all damage from it.
+cost: '3'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: When an ally in your party is destroyed, you may remove it from the game. If you do, Essence of the Martyr becomes a copy of that ally with this power, and you may remove all damage from it.
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

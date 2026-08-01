@@ -2,22 +2,24 @@ card_name: Siaranna the Fickle
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 6
 
 health: 9
 
-text: When a player plays an ability, he gains control of Siaranna.
-
-cost: '6'
-
 combat: Arcane
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When a player plays an ability, he gains control of Siaranna.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Mage

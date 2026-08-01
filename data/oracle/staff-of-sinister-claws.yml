@@ -2,13 +2,9 @@ card_name: Staff of Sinister Claws
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the start of your turn, target random ally you control has Assault 2 this turn.
+cost: '2'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Warlock
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: At the start of your turn, target random ally you control has Assault 2 this turn.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

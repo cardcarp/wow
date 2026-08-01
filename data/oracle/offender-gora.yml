@@ -2,22 +2,24 @@ card_name: Offender Gora
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 2
 
 health: 1
 
-text: Ferocity Gora has -2 ATK during each opponent's turn.
-
-cost: '1'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity Gora has -2 ATK during each opponent's turn.
+
+regulation:
+
+errata: []
 
 temp: Orc Shaman

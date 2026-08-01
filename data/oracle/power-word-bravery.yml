@@ -2,17 +2,19 @@ card_name: Power Word_ Bravery
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Double the of all friendly allies.'
+cost: '4'
 
 class:
   - Priest
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Ongoing : Double the of all friendly allies.'
+
+regulation:
+
+errata: []
 
 temp: Discipline

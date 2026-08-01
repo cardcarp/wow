@@ -2,12 +2,14 @@ card_name: _A Plague upon Thee!_
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: 'Ongoing : Each hero is in rabid rabbit form . (For each damage on it, it has +1 ATK while attacking an ally.)'
 
-text: 'Ongoing : Each hero is in rabid rabbit form . (For each damage on it, it has +1 ATK while attacking an ally.)'
+regulation:
+
+errata: []
 
 temp: ''

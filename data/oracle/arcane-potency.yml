@@ -2,17 +2,19 @@ card_name: Arcane Potency
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Arcane Talent Ongoing : This ability enters play exhausted. This ability can be exhausted to pay the cost of abilities as though it were a resource.'
+cost: '1'
 
 class:
   - Mage
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Arcane Talent Ongoing : This ability enters play exhausted. This ability can be exhausted to pay the cost of abilities as though it were a resource.'
+
+regulation:
+
+errata: []
 
 temp: Arcane

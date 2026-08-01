@@ -2,17 +2,19 @@ card_name: Sublimate
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put each opposing ability and equipment into its owner's hand.
+cost: '4'
 
 class:
   - Priest
 
-cost: '4'
+rule:
+  - type: ability
+    text: Put each opposing ability and equipment into its owner's hand.
+
+regulation:
+
+errata: []
 
 temp: Shadow

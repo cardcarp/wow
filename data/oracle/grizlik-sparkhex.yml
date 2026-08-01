@@ -2,20 +2,22 @@ card_name: Grizlik Sparkhex
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 28
 
-text: 2 → Flip Grizlik
-
 faction: Horde
 
-temp: Goblin Warlock
-
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: 2 → Flip Grizlik
+  - type: ability
+    position: reverse
     text: You can control an additional Pet.
+
+regulation:
+
+errata: []
+
+temp: Goblin Warlock

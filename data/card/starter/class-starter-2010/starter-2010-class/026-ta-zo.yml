@@ -10,4 +10,5 @@ artist: Ariel Olivetti
 
 flavor: '"You play wit da fire, mon, you gonna get da burn!"'
 
-appearance: []
+variation:
+  - transform

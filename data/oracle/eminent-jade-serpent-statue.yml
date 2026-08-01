@@ -2,8 +2,10 @@ card_name: Eminent Jade Serpent Statue
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

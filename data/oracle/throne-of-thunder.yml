@@ -2,8 +2,10 @@ card_name: 'Throne of Thunder '
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

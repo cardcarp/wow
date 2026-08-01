@@ -2,17 +2,19 @@ card_name: Boundless Shadows
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Eternal Target player removes a card from the top of his deck from the game for each resource you control.
+cost: '4'
 
 class:
   - Priest
 
-cost: '4'
+rule:
+  - type: ability
+    text: Eternal Target player removes a card from the top of his deck from the game for each resource you control.
+
+regulation:
+
+errata: []
 
 temp: Shadow

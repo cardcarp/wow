@@ -10,4 +10,5 @@ artist: Michael Kormarck
 
 flavor: '"When it comes to the unjust, the Light as a very long memory."'
 
-appearance: []
+variation:
+  - transform

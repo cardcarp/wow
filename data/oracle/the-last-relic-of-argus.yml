@@ -2,13 +2,9 @@ card_name: The Last Relic of Argus
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: You pay 1 less to complete quests. When you complete a quest, your hero heals 3 damage from itself.
+cost: '2'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: You pay 1 less to complete quests. When you complete a quest, your hero heals 3 damage from itself.
+
+regulation:
+
+errata: []
 
 temp: Item

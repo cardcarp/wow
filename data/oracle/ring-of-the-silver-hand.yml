@@ -2,19 +2,21 @@ card_name: Ring of the Silver Hand
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → Prevent all combat damage that target attacking ally would deal to your hero this combat.
+cost: '3'
 
 class:
   - Druid
   - Paladin
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: → Prevent all combat damage that target attacking ally would deal to your hero this combat.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

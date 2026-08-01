@@ -10,4 +10,5 @@ artist: Daren Bader
 
 flavor: '"I have seen the error of my ways. I will give my life to destroy the Legion!"'
 
-appearance: []
+variation:
+  - transform

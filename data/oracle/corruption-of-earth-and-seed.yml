@@ -2,12 +2,14 @@ card_name: Corruption of Earth and Seed
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'You pay 1 less to complete this quest for each ally in your party. Pay 3 to complete this quest. Reward : Draw a card.'
 
-text: 'You pay 1 less to complete this quest for each ally in your party. Pay 3 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

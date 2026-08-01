@@ -2,22 +2,24 @@ card_name: Kirga Earthguard
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 4
 
-text: Protector At the end of your turn, ready this ally.
-
-cost: '2'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector At the end of your turn, ready this ally.
+
+regulation:
+
+errata: []
 
 temp: Tauren Shaman

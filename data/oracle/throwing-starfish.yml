@@ -2,13 +2,9 @@ card_name: Throwing Starfish
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the start of your turn, you may add a starfish counter to this item. 2 , Remove a starfish counter from this item → Your hero deals 1 melee damage to target hero or ally.
+cost: '1'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: At the start of your turn, you may add a starfish counter to this item. 2 , Remove a starfish counter from this item → Your hero deals 1 melee damage to target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Item

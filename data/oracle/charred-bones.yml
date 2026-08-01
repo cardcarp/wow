@@ -2,14 +2,16 @@ card_name: Charred Bones
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Shuffle any number of target graveyards into their owners' decks.
+
+regulation:
 
 errata: []
 
-text: Shuffle any number of target graveyards into their owners' decks.
-
 temp: ''
-
-type: Raid

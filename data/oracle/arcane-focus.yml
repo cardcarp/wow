@@ -2,17 +2,19 @@ card_name: Arcane Focus
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Arcane Hero Required Ongoing : → Ready one of your resources. Use only if you've played another Arcane or card this turn."
+cost: '1'
 
 class:
   - Mage
 
-cost: '1'
+rule:
+  - type: ability
+    text: "Arcane Hero Required Ongoing : → Ready one of your resources. Use only if you've played another Arcane or card this turn."
+
+regulation:
+
+errata: []
 
 temp: Arcane Talent

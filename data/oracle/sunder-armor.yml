@@ -2,17 +2,19 @@ card_name: Sunder Armor
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Destroy target armor.
+cost: '1'
 
 class:
   - Warrior
 
-cost: '1'
+instant: Destroy target armor.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Protection

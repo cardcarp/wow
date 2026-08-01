@@ -10,4 +10,5 @@ artist: Josh Tallman
 
 flavor: '"The icy grasp of death offers no mercy to those who oppose it."'
 
-appearance: []
+variation:
+  - transform

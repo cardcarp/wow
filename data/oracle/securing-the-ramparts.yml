@@ -2,12 +2,14 @@ card_name: Securing the Ramparts
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'If you control an armor, item, and weapon: Pay 1 to complete this quest. Reward : Draw two cards.'
 
-text: 'If you control an armor, item, and weapon: Pay 1 to complete this quest. Reward : Draw two cards.'
+regulation:
+
+errata: []
 
 temp: ''

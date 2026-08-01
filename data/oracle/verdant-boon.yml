@@ -2,17 +2,19 @@ card_name: Verdant Boon
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put a 1 / 1 Treant ally token into play, or three if you control an ally token.
+cost: '2'
 
 class:
   - Druid
 
-cost: '2'
+rule:
+  - type: ability
+    text: Put a 1 / 1 Treant ally token into play, or three if you control an ally token.
+
+regulation:
+
+errata: []
 
 temp: Balance

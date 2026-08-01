@@ -2,17 +2,19 @@ card_name: Favor of the Nether
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, your hero deals 1 fire damage to each opposing hero and ally.'
+cost: '2'
 
 class:
   - Warlock
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, your hero deals 1 fire damage to each opposing hero and ally.'
+
+regulation:
+
+errata: []
 
 temp: Destruction

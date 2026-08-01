@@ -2,19 +2,21 @@ card_name: Mooncloth Robe
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 2 , , Exhaust your hero → Draw a card.
+cost: '4'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '4'
+rule:
+  - type: ability
+    text: 2 , , Exhaust your hero → Draw a card.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

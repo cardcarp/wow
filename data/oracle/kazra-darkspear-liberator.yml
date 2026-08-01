@@ -2,8 +2,10 @@ card_name: Kazra Darkspear Liberator
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

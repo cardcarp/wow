@@ -2,18 +2,20 @@ card_name: Wyrmwing Treads
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 , Exhaust a Dragonkin you control → Ready target exhausted ally.
+cost: '2'
 
 class:
   - Hunter
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: 1 , Exhaust a Dragonkin you control → Ready target exhausted ally.
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

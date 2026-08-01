@@ -2,17 +2,19 @@ card_name: Demonic Accord
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : On your turn: 1 , → Target ally has +1 / -1 this turn.'
+cost: '3'
 
 class:
   - Warlock
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : On your turn: 1 , → Target ally has +1 / -1 this turn.'
+
+regulation:
+
+errata: []
 
 temp: Affliction

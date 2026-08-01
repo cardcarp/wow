@@ -2,19 +2,21 @@ card_name: Wildlife Defender
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'While you control a Dragonkin, your hero has Protector . Stash : Put target Dragonkin from your graveyard on top of your deck.'
+cost: '2'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'While you control a Dragonkin, your hero has Protector . Stash : Put target Dragonkin from your graveyard on top of your deck.'
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

@@ -2,13 +2,9 @@ card_name: Bones of Transformation
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'Naga allies you control have Assault 3 . On your turn: → Target ally you control is also a Naga this turn, and if it would deal any type of damage this turn, it deals frost damage instead.'
+cost: '4'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Naga allies you control have Assault 3 . On your turn: → Target ally you control is also a Naga this turn, and if it would deal any type of damage this turn, it deals frost damage instead.'
+
+regulation:
+
+errata: []
 
 temp: Item

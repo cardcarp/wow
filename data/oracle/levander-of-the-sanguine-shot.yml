@@ -2,16 +2,19 @@ card_name: Levander of the Sanguine Shot
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 28
 
-text: 'If you control another Hunter: Flip Levander → Ready target Ranged weapon.'
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'If you control another Hunter: Flip Levander → Ready target Ranged weapon.'
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Hunter

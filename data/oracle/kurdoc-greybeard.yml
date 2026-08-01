@@ -2,22 +2,24 @@ card_name: Kurdoc Greybeard
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 5
 
-text: Protector Exhaust your hero → Target attacking ally has -3 ATK this turn.
-
-cost: '3'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Exhaust your hero → Target attacking ally has -3 ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Paladin

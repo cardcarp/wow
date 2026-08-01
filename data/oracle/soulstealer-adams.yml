@@ -2,22 +2,24 @@ card_name: Soulstealer Adams
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 2
 
 health: 7
 
-text: When this ally deals fatal combat damage while attacking, draw a card.
-
-cost: '5'
-
 combat: Shadow
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally deals fatal combat damage while attacking, draw a card.
+
+regulation:
+
+errata: []
 
 temp: Undead Warlock

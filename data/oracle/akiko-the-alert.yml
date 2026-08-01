@@ -2,25 +2,27 @@ card_name: Akiko the Alert
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 4
 
 health: 6
 
-text: Pets you control have +2 / +2.
+combat: Ranged
+
+faction: Alliance
 
 class:
   - Hunter
 
-cost: '5'
+rule:
+  - type: ability
+    text: Pets you control have +2 / +2.
 
-combat: Ranged
+regulation:
 
-faction: Alliance
+errata: []
 
 temp: Draenei Hunter

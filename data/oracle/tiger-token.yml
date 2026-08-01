@@ -2,8 +2,10 @@ card_name: Tiger Token
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,20 +2,22 @@ card_name: Amani Dragonhawk
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 8
 
 health: 5
 
-text: As this ally enters play, choose "ability," "ally," or "equipment." Opposing cards of the chosen type lose and can't have powers.
-
-cost: '7'
-
 combat: Fire
+
+rule:
+  - type: ability
+    text: As this ally enters play, choose "ability," "ally," or "equipment." Opposing cards of the chosen type lose and can't have powers.
+
+regulation:
+
+errata: []
 
 temp: Dragonhawk

@@ -2,8 +2,10 @@ card_name: Historian Helena
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

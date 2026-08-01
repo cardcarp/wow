@@ -2,22 +2,24 @@ card_name: Gollom Skybang
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 2
 
-text: When this ally is destroyed, you may turn target face-up resource face down.
-
-cost: '2'
-
 combat: Fire
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally is destroyed, you may turn target face-up resource face down.
+
+regulation:
+
+errata: []
 
 temp: Goblin Hunter

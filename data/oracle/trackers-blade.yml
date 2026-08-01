@@ -2,17 +2,19 @@ card_name: Trackers Blade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Dual Wield Stealth
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: Dual Wield Stealth
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

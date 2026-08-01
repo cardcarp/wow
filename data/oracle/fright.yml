@@ -2,17 +2,19 @@ card_name: Fright
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Target opponent puts an ally he controls into its owner's hand.
+cost: '1'
 
 class:
   - Priest
 
-cost: '1'
+instant: Target opponent puts an ally he controls into its owner's hand.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Shadow

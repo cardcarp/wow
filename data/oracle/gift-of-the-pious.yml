@@ -2,18 +2,20 @@ card_name: Gift of the Pious
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Allies you control have +1 / +1 for each Druid and Paladin you control.'
+cost: '6'
 
 class:
   - Druid
   - Paladin
 
-cost: '6'
+rule:
+  - type: ability
+    text: 'Ongoing : Allies you control have +1 / +1 for each Druid and Paladin you control.'
+
+regulation:
+
+errata: []
 
 temp: Restoration Protection Blessing

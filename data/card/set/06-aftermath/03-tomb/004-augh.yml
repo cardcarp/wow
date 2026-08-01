@@ -10,4 +10,5 @@ artist: LD Austin
 
 flavor: '"Augh da boss! Oh yeah!"'
 
-appearance: []
+variation:
+  - transform

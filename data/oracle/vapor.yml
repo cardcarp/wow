@@ -2,20 +2,22 @@ card_name: Vapor
 
 layout: standard
 
-regulation:
-
 category: Ally
-
-errata: []
 
 damage: 4
 
 health: 2
 
-text: Stealth Untargetable
-
 combat: Frost
 
-temp: Vapor
-
 type: Dungeon
+
+rule:
+  - type: ability
+    text: Stealth Untargetable
+
+regulation:
+
+errata: []
+
+temp: Vapor

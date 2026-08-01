@@ -2,17 +2,19 @@ card_name: Blind
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Target player can't play cards this turn.
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+instant: Target player can't play cards this turn.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Subtlety

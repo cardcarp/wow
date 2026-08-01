@@ -2,18 +2,20 @@ card_name: Celerity
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : → If your hero is defending against an ally, remove your hero from combat.'
+cost: '3'
 
 class:
   - Shaman
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : → If your hero is defending against an ally, remove your hero from combat.'
+
+regulation:
+
+errata: []
 
 temp: Combat Enhancement

@@ -2,17 +2,19 @@ card_name: Chaos Bolt
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destruction Talent Reveal the top card of target opponent's deck and remove it from the game. If it's an ability, ally, or equipment, your hero deals shadow damage to that opponent's hero equal to the cost of that revealed card, and you may play it this turn. (Pay costs as normal.)
+cost: '2'
 
 class:
   - Warlock
 
-cost: '2'
+rule:
+  - type: ability
+    text: Destruction Talent Reveal the top card of target opponent's deck and remove it from the game. If it's an ability, ally, or equipment, your hero deals shadow damage to that opponent's hero equal to the cost of that revealed card, and you may play it this turn. (Pay costs as normal.)
+
+regulation:
+
+errata: []
 
 temp: Destruction

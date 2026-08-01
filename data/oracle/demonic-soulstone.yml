@@ -2,17 +2,19 @@ card_name: Demonic Soulstone
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target ally you control. Ongoing : When attached ally is destroyed, put it from its owner's graveyard into his hand."
+cost: '1'
 
 class:
   - Warlock
 
-cost: '1'
+rule:
+  - type: ability
+    text: "Attach to target ally you control. Ongoing : When attached ally is destroyed, put it from its owner's graveyard into his hand."
+
+regulation:
+
+errata: []
 
 temp: Demonology

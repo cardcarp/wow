@@ -2,19 +2,21 @@ card_name: Bloodskull Destroyer
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 , Destroy Bloodskull Destroyer → Destroy target ally with Protector .
+cost: '2'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: 1 , Destroy Bloodskull Destroyer → Destroy target ally with Protector .
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

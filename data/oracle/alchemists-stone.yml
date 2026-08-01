@@ -2,13 +2,9 @@ card_name: Alchemists Stone
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Alchemy Hero Required → Reveal the top card of your deck. You may discard a card with a different type. If you do, put that revealed card into hand.
+cost: '2'
 
 class:
   - Priest
@@ -21,6 +17,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: Alchemy Hero Required → Reveal the top card of your deck. You may discard a card with a different type. If you do, put that revealed card into hand.
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

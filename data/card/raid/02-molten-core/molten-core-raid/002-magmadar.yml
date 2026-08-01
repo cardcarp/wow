@@ -10,4 +10,5 @@ artist: Clint Langley
 
 flavor:
 
-appearance: []
+variation:
+  - transform

@@ -2,22 +2,24 @@ card_name: Jarod Shadowsong
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 6
 
 health: 1
 
-text: Elusive , Spellshield , Stealth
-
-cost: '4'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive , Spellshield , Stealth
+
+regulation:
+
+errata: []
 
 temp: Night Elf Warrior

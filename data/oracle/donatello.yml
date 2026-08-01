@@ -2,23 +2,25 @@ card_name: Donatello
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 5
 
-text: Protector
+combat: Melee
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: Protector
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Turtle

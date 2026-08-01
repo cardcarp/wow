@@ -2,22 +2,24 @@ card_name: Aileen the Thunderblessed
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 1
 
 health: 6
 
-text: 1 , Exhaust a card you control → This ally deals nature damage to target hero or ally equal to that card's ATK.
-
-cost: '4'
-
 combat: Nature
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 1 , Exhaust a card you control → This ally deals nature damage to target hero or ally equal to that card's ATK.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Shaman

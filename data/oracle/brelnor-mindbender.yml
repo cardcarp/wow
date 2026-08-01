@@ -2,22 +2,24 @@ card_name: Brelnor Mindbender
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 4
 
 health: 3
 
-text: When Brelnor enters play, gain control of target ally while Brelnor remains in your party.
-
-cost: '6'
-
 combat: Shadow
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: When Brelnor enters play, gain control of target ally while Brelnor remains in your party.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Priest

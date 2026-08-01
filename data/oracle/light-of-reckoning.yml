@@ -2,17 +2,19 @@ card_name: Light of Reckoning
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Your hero has +3 ATK while defending this combat.
+cost: '1'
 
 class:
   - Paladin
 
-cost: '1'
+instant: Your hero has +3 ATK while defending this combat.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Protection

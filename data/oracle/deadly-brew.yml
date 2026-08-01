@@ -2,17 +2,19 @@ card_name: Deadly Brew
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Choose a Poison attached to a hero or ally. Search your deck for a card with the same name and attach it to that character.
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: Choose a Poison attached to a hero or ally. Search your deck for a card with the same name and attach it to that character.
+
+regulation:
+
+errata: []
 
 temp: Assassination

@@ -2,17 +2,19 @@ card_name: Frost Resistance Totem
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Ongoing : Friendly heroes and allies have Frost Resistance . (Totems can be attacked or targeted like allies.)'
+cost: '1'
 
 class:
   - Shaman
 
-cost: '1'
+instant: 'Ongoing : Friendly heroes and allies have Frost Resistance . (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Enhancement 1

@@ -2,17 +2,19 @@ card_name: Sacred Purification
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target ability. If it was attached to a friendly hero or ally, draw a card.
+cost: '1'
 
 class:
   - Paladin
 
-cost: '1'
+rule:
+  - type: ability
+    text: Destroy target ability. If it was attached to a friendly hero or ally, draw a card.
+
+regulation:
+
+errata: []
 
 temp: Holy

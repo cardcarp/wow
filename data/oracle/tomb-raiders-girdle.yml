@@ -2,8 +2,10 @@ card_name: Tomb Raiders Girdle
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

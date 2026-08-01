@@ -2,17 +2,19 @@ card_name: Shattering Strike
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Destroy target armor or item.
+cost: '1'
 
 class:
   - Warrior
 
-cost: '1'
+instant: Destroy target armor or item.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Arms

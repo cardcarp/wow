@@ -2,22 +2,24 @@ card_name: Noxel Shroudhaggle
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 1
 
 health: 2
 
-text: Escape Artist Your hero is Untargetable .
-
-cost: '1'
-
 combat: Fire
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Escape Artist Your hero is Untargetable .
+
+regulation:
+
+errata: []
 
 temp: Gnome Warlock

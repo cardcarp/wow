@@ -2,22 +2,24 @@ card_name: Bala Silentblade
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 4
 
-text: Bala Silentblade has +3 ATK while attacking an exhausted hero or ally.
-
-cost: '3'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Bala Silentblade has +3 ATK while attacking an exhausted hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Orc Rogue

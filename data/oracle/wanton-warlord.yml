@@ -2,12 +2,14 @@ card_name: Wanton Warlord
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Exhaust four cards you control to complete this quest. Reward : Draw a card.'
 
-text: 'Exhaust four cards you control to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

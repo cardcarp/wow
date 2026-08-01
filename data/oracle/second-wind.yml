@@ -2,14 +2,16 @@ card_name: Second Wind
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Each player draws cards until he reaches his maximum hand size.
+
+regulation:
 
 errata: []
 
-text: Each player draws cards until he reaches his maximum hand size.
-
 temp: ''
-
-type: Raid

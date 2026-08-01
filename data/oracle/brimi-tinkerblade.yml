@@ -2,22 +2,24 @@ card_name: Brimi Tinkerblade
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 4
 
-text: 'On your turn: 3 , Destroy this ally → Destroy target equipment with cost 4 or less.'
-
-cost: '4'
-
 combat: Nature
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 'On your turn: 3 , Destroy this ally → Destroy target equipment with cost 4 or less.'
+
+regulation:
+
+errata: []
 
 temp: Gnome Rogue

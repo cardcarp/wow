@@ -2,18 +2,20 @@ card_name: Bloody Grip
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target weapon. Ongoing : As this ability enters play, choose one: This ability has "Attached weapon has +3 ATK"; or this ability has "You pay 3 less to strike with attached weapon."'
+cost: '3'
 
 class:
   - Warrior
   - Death Knight
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Attach to target weapon. Ongoing : As this ability enters play, choose one: This ability has "Attached weapon has +3 ATK"; or this ability has "You pay 3 less to strike with attached weapon."'
+
+regulation:
+
+errata: []
 
 temp: Blood Arms

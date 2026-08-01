@@ -2,20 +2,22 @@ card_name: Magister Ashi
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 2
 
 health: 1
 
-text: Scryer Reputation Stealth When Ashi enters play, look at the top card of your deck. You may put it on the bottom of your deck.
-
-cost: '1'
-
 combat: Fire
+
+rule:
+  - type: ability
+    text: Scryer Reputation Stealth When Ashi enters play, look at the top card of your deck. You may put it on the bottom of your deck.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Mage

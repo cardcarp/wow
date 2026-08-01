@@ -2,13 +2,9 @@ card_name: Winter Veil Disguise Kit
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → Target ally you control is also a Snowman this turn. When a Snowman you control defends against a non- hero or ally, remove it from combat.
+cost: '2'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: → Target ally you control is also a Snowman this turn. When a Snowman you control defends against a non- hero or ally, remove it from combat.
+
+regulation:
+
+errata: []
 
 temp: Item

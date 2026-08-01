@@ -2,22 +2,24 @@ card_name: Tyrennius Scatheblade
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 2
 
-text: Protector
-
-cost: '2'
-
 combat: Holy
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Paladin

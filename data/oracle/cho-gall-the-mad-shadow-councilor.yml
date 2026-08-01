@@ -2,8 +2,10 @@ card_name: Cho Gall The Mad Shadow Councilor
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

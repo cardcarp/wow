@@ -2,19 +2,21 @@ card_name: Draconian Deflector
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has Protector .
+cost: '4'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: Your hero has Protector .
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

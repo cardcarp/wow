@@ -2,18 +2,20 @@ card_name: Embolism
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Target player discards X cards, where X is the cost of a non-hero Priest or Rogue you control.
+cost: '4'
 
 class:
   - Priest
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: Target player discards X cards, where X is the cost of a non-hero Priest or Rogue you control.
+
+regulation:
+
+errata: []
 
 temp: Shadow Subtlety

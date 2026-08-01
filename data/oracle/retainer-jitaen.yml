@@ -2,20 +2,22 @@ card_name: Retainer Jitaen
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 3
 
-text: 'Scryer Reputation Sabotage: Quest When Jitaen sabotages a quest, turn it face down.'
-
-cost: '2'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: 'Scryer Reputation Sabotage: Quest When Jitaen sabotages a quest, turn it face down.'
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Rogue

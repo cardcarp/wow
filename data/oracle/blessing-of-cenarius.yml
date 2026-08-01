@@ -2,17 +2,19 @@ card_name: Blessing of Cenarius
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Attach to target ally. Ongoing : Attached ally has +1 / +1. When attached ally is destroyed, you may draw a card.'
+cost: '1'
 
 class:
   - Druid
 
-cost: '1'
+instant: 'Attach to target ally. Ongoing : Attached ally has +1 / +1. When attached ally is destroyed, you may draw a card.'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Restoration Attachment

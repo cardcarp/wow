@@ -2,17 +2,19 @@ card_name: Impaling Shot
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals ranged damage to target ally equal to that ally's cost.
+cost: '2'
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero deals ranged damage to target ally equal to that ally's cost.
+
+regulation:
+
+errata: []
 
 temp: Survival

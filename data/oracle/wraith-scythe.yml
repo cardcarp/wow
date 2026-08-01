@@ -2,13 +2,9 @@ card_name: Wraith Scythe
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals combat damage, it heals that amount of damage from itself.
+cost: '4'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: When your hero deals combat damage, it heals that amount of damage from itself.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

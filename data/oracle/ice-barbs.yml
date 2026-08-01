@@ -2,17 +2,19 @@ card_name: Ice Barbs
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Ongoing : Each opponent can't draw cards unless he pays 1 for each card."
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: "Ongoing : Each opponent can't draw cards unless he pays 1 for each card."
+
+regulation:
+
+errata: []
 
 temp: Frost

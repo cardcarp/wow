@@ -2,17 +2,19 @@ card_name: Dragonstalkers Legguards
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you play a ability, you may pay 1 . If you do, target Ranged weapon has +2 ATK this turn.
+cost: '4'
 
 class:
   - Hunter
 
-cost: '4'
+rule:
+  - type: ability
+    text: When you play a ability, you may pay 1 . If you do, target Ranged weapon has +2 ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

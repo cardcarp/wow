@@ -2,17 +2,19 @@ card_name: Yoink!
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target equipment. Ongoing : You control attached equipment.'
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Attach to target equipment. Ongoing : You control attached equipment.'
+
+regulation:
+
+errata: []
 
 temp: Subtlety

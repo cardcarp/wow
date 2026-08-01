@@ -2,25 +2,27 @@ card_name: Windguard Totem
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '2'
 
 damage: 0
 
 health: 4
 
-text: "Ongoing : At the start of each opponent's turn, you may ready all allies you control. (Totems can't attack.)"
+combat: Nature
 
 class:
   - Shaman
 
-cost: '2'
+type: Ally
 
-combat: Nature
+rule:
+  - type: ability
+    text: "Ongoing : At the start of each opponent's turn, you may ready all allies you control. (Totems can't attack.)"
+
+regulation:
+
+errata: []
 
 temp: Elemental
-
-type: Ally

@@ -10,4 +10,5 @@ artist: Howard Lyon
 
 flavor: Auchenai
 
-appearance: []
+variation:
+  - transform

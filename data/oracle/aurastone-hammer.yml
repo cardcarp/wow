@@ -2,13 +2,9 @@ card_name: Aurastone Hammer
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 2 , → Put target ally from your party into its owner's hand. Use only on your turn.
+cost: '2'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: 2 , → Put target ally from your party into its owner's hand. Use only on your turn.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

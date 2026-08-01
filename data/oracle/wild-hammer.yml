@@ -2,17 +2,19 @@ card_name: Wild Hammer
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Fury Talent Your hero has Two-Handed Dual Wield . While you control no ready resources, you pay 7 less to strike with Two-Handed weapons.
+cost: '7'
 
 class:
   - Warrior
 
-cost: '7'
+rule:
+  - type: ability
+    text: Fury Talent Your hero has Two-Handed Dual Wield . While you control no ready resources, you pay 7 less to strike with Two-Handed weapons.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Mace

@@ -2,17 +2,19 @@ card_name: Psychic Horror
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Shadow Talent Target up to one each of an opposing ability, ally, and equipment, and put those cards into their owners' hands.
+cost: '3'
 
 class:
   - Priest
 
-cost: '3'
+rule:
+  - type: ability
+    text: Shadow Talent Target up to one each of an opposing ability, ally, and equipment, and put those cards into their owners' hands.
+
+regulation:
+
+errata: []
 
 temp: Shadow

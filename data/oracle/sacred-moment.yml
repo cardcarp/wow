@@ -2,17 +2,19 @@ card_name: Sacred Moment
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Cards in play can't ready until after your next turn.
+cost: '4'
 
 class:
   - Paladin
 
-cost: '4'
+rule:
+  - type: ability
+    text: Cards in play can't ready until after your next turn.
+
+regulation:
+
+errata: []
 
 temp: Protection

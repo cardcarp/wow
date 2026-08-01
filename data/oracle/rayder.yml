@@ -2,23 +2,25 @@ card_name: Rayder
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: → Allies in your party have +2 ATK while attacking this turn.
+combat: Melee
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: → Allies in your party have +2 ATK while attacking this turn.
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Wolf

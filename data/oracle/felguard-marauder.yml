@@ -2,20 +2,22 @@ card_name: Felguard Marauder
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 3
 
-cost: '2'
-
 combat: Melee
 
-temp: Felguard Demon
-
 type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Felguard Demon

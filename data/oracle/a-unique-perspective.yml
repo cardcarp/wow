@@ -2,12 +2,14 @@ card_name: A Unique Perspective
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: You may destroy a non-hero card for each unique card in play.
 
-text: You may destroy a non-hero card for each unique card in play.
+regulation:
+
+errata: []
 
 temp: ''

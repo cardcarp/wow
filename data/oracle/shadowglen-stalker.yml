@@ -2,22 +2,24 @@ card_name: Shadowglen Stalker
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 4
 
-text: Haste 2
-
-cost: '6'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Haste 2
+
+regulation:
+
+errata: []
 
 temp: Night Elf Rogue

@@ -2,22 +2,24 @@ card_name: Frenzyfin
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 5
 
 health: 5
 
-text: At the start of your turn, you may search your deck for a Murloc ally and put it into play.
-
-cost: '7'
-
 combat: Arcane
 
-temp: Murloc Mage
-
 type: Monster
+
+rule:
+  - type: ability
+    text: At the start of your turn, you may search your deck for a Murloc ally and put it into play.
+
+regulation:
+
+errata: []
+
+temp: Murloc Mage

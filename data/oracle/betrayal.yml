@@ -2,12 +2,14 @@ card_name: Betrayal
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'On your turn, destroy an ally in your party and pay 1 to complete this quest. Reward : Draw a card.'
 
-text: 'On your turn, destroy an ally in your party and pay 1 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

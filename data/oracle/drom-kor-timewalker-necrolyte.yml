@@ -2,22 +2,24 @@ card_name: Drom_kor, Timewalker Necrolyte
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 6
 
 health: 3
 
-text: If this ally would be destroyed, you may remove three Orc allies in your graveyard from the game. If you do, exhaust this ally and remove all damage from him instead.
-
-cost: '5'
-
 combat: Shadow
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: If this ally would be destroyed, you may remove three Orc allies in your graveyard from the game. If you do, exhaust this ally and remove all damage from him instead.
+
+regulation:
+
+errata: []
 
 temp: Orc Warlock

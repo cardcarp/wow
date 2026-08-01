@@ -10,4 +10,5 @@ artist: Brian Despain
 
 flavor:
 
-appearance: []
+variation:
+  - transform

@@ -2,12 +2,14 @@ card_name: The Unending Invasion
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 4 to complete this quest. Reward : Draw a card, then draw another one for each 10 damage on your hero.'
 
-text: 'Pay 4 to complete this quest. Reward : Draw a card, then draw another one for each 10 damage on your hero.'
+regulation:
+
+errata: []
 
 temp: ''

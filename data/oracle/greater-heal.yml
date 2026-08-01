@@ -2,17 +2,19 @@ card_name: Greater Heal
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero heals 14 damage from target hero or ally.
+cost: '4'
 
 class:
   - Priest
 
-cost: '4'
+rule:
+  - type: ability
+    text: Your hero heals 14 damage from target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Holy

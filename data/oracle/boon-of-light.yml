@@ -2,17 +2,19 @@ card_name: Boon of Light
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero heals 12 damage from target hero or ally. Draw a card.
+cost: '5'
 
 class:
   - Paladin
 
-cost: '5'
+rule:
+  - type: ability
+    text: Your hero heals 12 damage from target hero or ally. Draw a card.
+
+regulation:
+
+errata: []
 
 temp: Holy

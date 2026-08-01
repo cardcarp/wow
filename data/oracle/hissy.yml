@@ -2,23 +2,25 @@ card_name: Hissy
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 2
 
-instant: Trap When Hissy enters play, he deals 1 nature damage to target attacker.
+combat: Nature
 
 class:
   - Hunter
 
-cost: '4'
+instant: Trap When Hissy enters play, he deals 1 nature damage to target attacker.
 
-combat: Nature
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Serpent

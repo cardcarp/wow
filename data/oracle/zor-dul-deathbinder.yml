@@ -2,22 +2,24 @@ card_name: Zor_dul Deathbinder
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 0
 
 health: 1
 
-text: Assault 1 When this ally is destroyed, you may draw a card.
-
-cost: '1'
-
 combat: Arcane
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Assault 1 When this ally is destroyed, you may draw a card.
+
+regulation:
+
+errata: []
 
 temp: Orc Mage

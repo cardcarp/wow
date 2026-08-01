@@ -2,14 +2,16 @@ card_name: Lucifrons Curse
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '1'
 
 instant: 'Choose one: Destroy target ability; or interrupt target ability card. If your hero is Lucifron, you may choose both.'
 
-cost: '1'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Molten Core

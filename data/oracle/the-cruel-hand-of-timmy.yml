@@ -2,13 +2,9 @@ card_name: The Cruel Hand of Timmy
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals combat damage with The Cruel Hand of Timmy to a hero, that hero's controller destroys one of his resources.
+cost: '5'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Shaman
   - Rogue
 
-cost: '5'
+rule:
+  - type: ability
+    text: When your hero deals combat damage with The Cruel Hand of Timmy to a hero, that hero's controller destroys one of his resources.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

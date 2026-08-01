@@ -2,22 +2,24 @@ card_name: Nurgle Tinkfrost
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 3
 
-text: Opposing heroes and allies can't attack unless their controller pays 1 for each attacker.
-
-cost: '3'
-
 combat: Frost
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Opposing heroes and allies can't attack unless their controller pays 1 for each attacker.
+
+regulation:
+
+errata: []
 
 temp: Gnome Mage

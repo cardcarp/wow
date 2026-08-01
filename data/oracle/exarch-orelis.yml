@@ -2,20 +2,22 @@ card_name: Exarch Orelis
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 7
 
-text: 'Aldor Reputation Inspire: Ability, ally, equipment, hero, and resource'
-
-cost: '6'
-
 combat: Holy
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Ability, ally, equipment, hero, and resource'
+
+regulation:
+
+errata: []
 
 temp: Draenei Paladin

@@ -2,16 +2,19 @@ card_name: Crusader Farisa
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 'On your turn: Flip Farisa, discard a Paladin → Farisa heals 3 damage from target ally. Draw a card.'
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: Flip Farisa, discard a Paladin → Farisa heals 3 damage from target ally. Draw a card.'
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Paladin

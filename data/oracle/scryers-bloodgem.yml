@@ -2,13 +2,9 @@ card_name: Scryers Bloodgem
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Scryer Reputation Heroes and allies in your party with sabotage also have Stealth .
+cost: '2'
 
 class:
   - Priest
@@ -21,6 +17,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: Scryer Reputation Heroes and allies in your party with sabotage also have Stealth .
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

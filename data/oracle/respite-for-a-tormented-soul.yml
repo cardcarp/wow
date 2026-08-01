@@ -2,12 +2,14 @@ card_name: Respite for a Tormented Soul
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: "Pay 2 to complete this quest. Reward : Put target ally from a graveyard on top of its owner's deck."
 
-text: "Pay 2 to complete this quest. Reward : Put target ally from a graveyard on top of its owner's deck."
+regulation:
+
+errata: []
 
 temp: ''

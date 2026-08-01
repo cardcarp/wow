@@ -2,12 +2,14 @@ card_name: Natural Remedies
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 0 to complete this quest. Reward : Look at the top two cards of your deck. Put one on top of your deck and the other on the bottom.'
 
-text: 'Pay 0 to complete this quest. Reward : Look at the top two cards of your deck. Put one on top of your deck and the other on the bottom.'
+regulation:
+
+errata: []
 
 temp: ''

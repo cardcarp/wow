@@ -2,12 +2,14 @@ card_name: The Reason for the Season
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: "During your turn, pay 3 to complete this quest. Reward : Draw a card. If it's December, draw another card."
 
-text: "During your turn, pay 3 to complete this quest. Reward : Draw a card. If it's December, draw another card."
+regulation:
+
+errata: []
 
 temp: ''

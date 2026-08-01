@@ -2,17 +2,19 @@ card_name: Moonflare
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : When a resource enters play under your control, your hero may deal 1 arcane damage to target ally.'
+cost: '3'
 
 class:
   - Druid
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : When a resource enters play under your control, your hero may deal 1 arcane damage to target ally.'
+
+regulation:
+
+errata: []
 
 temp: Balance

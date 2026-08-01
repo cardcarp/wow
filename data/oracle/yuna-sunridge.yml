@@ -2,20 +2,22 @@ card_name: Yuna Sunridge
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 27
 
-text: 3 → Flip Yuna
-
 faction: Horde
 
-temp: Tauren Priest
-
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: 3 → Flip Yuna
+  - type: ability
+    position: reverse
     text: Mend 1
+
+regulation:
+
+errata: []
+
+temp: Tauren Priest

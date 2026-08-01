@@ -2,18 +2,20 @@ card_name: Gloves of Unerring Aim
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Opposing cards lose and can't have Untargetable . Damage your hero deals with abilities is unpreventable. When your hero would deal damage with a weapon, it deals that much +1 instead.
+cost: '3'
 
 class:
   - Hunter
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: Opposing cards lose and can't have Untargetable . Damage your hero deals with abilities is unpreventable. When your hero would deal damage with a weapon, it deals that much +1 instead.
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

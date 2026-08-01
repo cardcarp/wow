@@ -2,24 +2,26 @@ card_name: Baron Rivendare
 
 layout: standard
 
-regulation:
-
 category: Token
-
-errata: []
 
 damage: 5
 
 health: 10
 
-text: At the end of your turn, the raid leader chooses a raider. That raider discards a random card.
-
 combat: Melee
 
-temp: Human Death Knight Horseman
+type: Ally
 
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: At the end of your turn, the raid leader chooses a raider. That raider discards a random card.
+  - type: ability
+    position: reverse
     text: At the end of your turn, each raider discards a random card.
 
-type: Ally
+regulation:
+
+errata: []
+
+temp: Human Death Knight Horseman

@@ -2,13 +2,9 @@ card_name: Abracadaver
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the start of your turn, you may put a 1 / 1 Cadaver ally token into play with Ferocity and Protector . At the end of your turn, for each Cadaver you control, destroy it unless you pay 1 .
+cost: '4'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Warlock
   - Mage
 
-cost: '4'
+rule:
+  - type: ability
+    text: At the start of your turn, you may put a 1 / 1 Cadaver ally token into play with Ferocity and Protector . At the end of your turn, for each Cadaver you control, destroy it unless you pay 1 .
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

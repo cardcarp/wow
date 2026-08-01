@@ -2,19 +2,21 @@ card_name: Gladiators Spellblade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the start of your turn, put a spell counter on Gladiator's Spellblade. If your hero would deal damage, it deals that much +1 for each spell counter instead.
+cost: '5'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '5'
+rule:
+  - type: ability
+    text: At the start of your turn, put a spell counter on Gladiator's Spellblade. If your hero would deal damage, it deals that much +1 for each spell counter instead.
+
+regulation:
+
+errata: []
 
 temp: 1H Arena Weapon Dagger

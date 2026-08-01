@@ -2,22 +2,24 @@ card_name: Orderkeeper Henley
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 3
 
-text: Opponents play 2 more to play abilities.
-
-cost: '5'
-
 combat: Frost
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Opponents play 2 more to play abilities.
+
+regulation:
+
+errata: []
 
 temp: Human Mage

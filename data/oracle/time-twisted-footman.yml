@@ -2,20 +2,22 @@ card_name: Time-Twisted Footman
 
 layout: standard
 
-regulation:
-
 category: Ally
-
-errata: []
 
 damage: 3
 
 health: 2
 
-text: Prevent all damage that would be dealt to this ally by Raiding allies with an odd cost.
-
 combat: Melee
 
-temp: Human Echo
-
 type: Boss
+
+rule:
+  - type: ability
+    text: Prevent all damage that would be dealt to this ally by Raiding allies with an odd cost.
+
+regulation:
+
+errata: []
+
+temp: Human Echo

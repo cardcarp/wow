@@ -10,4 +10,5 @@ artist: Jim Murray
 
 flavor: "\"You'll only see me when I want you to ... and I won't.\""
 
-appearance: []
+variation:
+  - transform

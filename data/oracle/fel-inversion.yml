@@ -2,17 +2,19 @@ card_name: Fel Inversion
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Target ally has +4 / -2 this turn.
+cost: '2'
 
 class:
   - Warlock
 
-cost: '2'
+instant: Target ally has +4 / -2 this turn.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Affliction

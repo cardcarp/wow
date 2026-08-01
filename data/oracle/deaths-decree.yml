@@ -2,17 +2,19 @@ card_name: Death's Decree
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target ally. Put a 3 / 3 Ghoul ally token into play.
+cost: '6'
 
 class:
   - Death Knight
 
-cost: '6'
+rule:
+  - type: ability
+    text: Destroy target ally. Put a 3 / 3 Ghoul ally token into play.
+
+regulation:
+
+errata: []
 
 temp: Unholy

@@ -2,8 +2,10 @@ card_name: Forgotten Hope
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

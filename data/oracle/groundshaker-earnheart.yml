@@ -2,22 +2,24 @@ card_name: Groundshaker Earnheart
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 5
 
-text: When Earnheart is dealt damage, draw a card.
-
-cost: '6'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When Earnheart is dealt damage, draw a card.
+
+regulation:
+
+errata: []
 
 temp: Tauren Warrior

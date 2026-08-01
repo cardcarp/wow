@@ -2,17 +2,19 @@ card_name: Fury of the Ages
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Rift Ongoing : Allies you control have Ferocity .'
+cost: '7'
 
 class:
   - Warrior
 
-cost: '7'
+rule:
+  - type: ability
+    text: 'Rift Ongoing : Allies you control have Ferocity .'
+
+regulation:
+
+errata: []
 
 temp: Fury

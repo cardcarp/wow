@@ -10,4 +10,5 @@ artist: Kevin Chen
 
 flavor: '"These totemic contraptions sure do pack quite the punch."'
 
-appearance: []
+variation:
+  - transform

@@ -2,12 +2,14 @@ card_name: The Green Hills of Stranglethorn
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : Reveal the top three cards of your deck. Put all revealed cards named The Green Hills of Stranglethorn into your hand and the rest on the bottom of your deck.'
 
-text: 'Pay 3 to complete this quest. Reward : Reveal the top three cards of your deck. Put all revealed cards named The Green Hills of Stranglethorn into your hand and the rest on the bottom of your deck.'
+regulation:
+
+errata: []
 
 temp: ''

@@ -2,17 +2,19 @@ card_name: Rune of Vengeance
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Attach to target weapon you control. Remove target ally in a graveyard from the game. Ongoing : Attached weapon has +ATK equal to the ATK of that removed ally.'
+cost: '2'
 
 class:
   - Death Knight
 
-cost: '2'
+instant: 'Attach to target weapon you control. Remove target ally in a graveyard from the game. Ongoing : Attached weapon has +ATK equal to the ATK of that removed ally.'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Blood Attachment

@@ -2,19 +2,21 @@ card_name: Power Word_ Courage
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Preparation Ongoing : Allies in your party have +1 health.'
+cost: '3'
 
 class:
   - Priest
 
-cost: '3'
+type: Arena
+
+rule:
+  - type: ability
+    text: 'Preparation Ongoing : Allies in your party have +1 health.'
+
+regulation:
+
+errata: []
 
 temp: ''
-
-type: Arena

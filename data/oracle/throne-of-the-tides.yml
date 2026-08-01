@@ -2,12 +2,14 @@ card_name: Throne of the Tides
 
 layout: standard
 
-regulation:
-
 category: Location
 
-errata: []
+rule:
+  - type: ability
+    text: 1 , → Delve
 
-text: 1 , → Delve
+regulation:
+
+errata: []
 
 temp: ''

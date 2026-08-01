@@ -2,18 +2,20 @@ card_name: Belt of the Twilight Assassin
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 , Discard an equipment → Add a murder counter. Your hero has Assault 1 for each murder counter.
+cost: '2'
 
 class:
   - Druid
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: 1 , Discard an equipment → Add a murder counter. Your hero has Assault 1 for each murder counter.
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

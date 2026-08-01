@@ -2,17 +2,19 @@ card_name: Arcane Reflection
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put a token copy of target ally you control into play.
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: Put a token copy of target ally you control into play.
+
+regulation:
+
+errata: []
 
 temp: Arcane

@@ -10,4 +10,5 @@ artist: Aleksi Briclot
 
 flavor: "\"Ojo got mojo to sho' joo.\""
 
-appearance: []
+variation:
+  - transform

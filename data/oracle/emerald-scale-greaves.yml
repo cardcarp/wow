@@ -2,18 +2,20 @@ card_name: Emerald-Scale Greaves
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 2 , Destroy Emerald-Scale Greaves → Ready target friendly ally.
+cost: '4'
 
 class:
   - Hunter
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: 2 , Destroy Emerald-Scale Greaves → Ready target friendly ally.
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

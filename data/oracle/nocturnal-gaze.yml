@@ -2,18 +2,20 @@ card_name: Nocturnal Gaze
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: While you have no cards in your hand, your hero has Assault 2 .
+cost: '4'
 
 class:
   - Druid
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: While you have no cards in your hand, your hero has Assault 2 .
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

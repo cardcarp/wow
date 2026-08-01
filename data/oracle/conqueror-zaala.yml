@@ -2,25 +2,27 @@ card_name: Conqueror Zaala
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 5
 
-text: At the start of your turn, you may remove another ally you control from the game. If you do, remove target Druid ally, ability, or equipment from the game.
+combat: Shadow
+
+faction: Horde
 
 class:
   - Druid
 
-cost: '4'
+rule:
+  - type: ability
+    text: At the start of your turn, you may remove another ally you control from the game. If you do, remove target Druid ally, ability, or equipment from the game.
 
-combat: Shadow
+regulation:
 
-faction: Horde
+errata: []
 
 temp: Orc Warlock

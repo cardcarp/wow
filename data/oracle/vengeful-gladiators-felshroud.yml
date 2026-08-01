@@ -2,17 +2,19 @@ card_name: Vengeful Gladiators Felshroud
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: On your turn, you can play ability cards that are removed from the game. → Put target opposing ally into its owner's hand.
+cost: '7'
 
 class:
   - Warlock
 
-cost: '7'
+rule:
+  - type: ability
+    text: On your turn, you can play ability cards that are removed from the game. → Put target opposing ally into its owner's hand.
+
+regulation:
+
+errata: []
 
 temp: Arena Armor Set Cloth

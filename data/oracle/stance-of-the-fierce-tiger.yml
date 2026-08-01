@@ -2,8 +2,10 @@ card_name: Stance of the Fierce Tiger
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

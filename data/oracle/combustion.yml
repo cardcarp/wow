@@ -2,17 +2,19 @@ card_name: Combustion
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Fire Hero Required Your hero deals X fire damage to each hero and ally, where X is target ally's health.
+cost: '4'
 
 class:
   - Mage
 
-cost: '4'
+rule:
+  - type: ability
+    text: Fire Hero Required Your hero deals X fire damage to each hero and ally, where X is target ally's health.
+
+regulation:
+
+errata: []
 
 temp: Fire Talent

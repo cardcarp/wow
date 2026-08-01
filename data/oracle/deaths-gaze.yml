@@ -2,12 +2,14 @@ card_name: Deaths Gaze
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 2 to complete this quest. Reward : If you have fewer cards in your hand than in your graveyard, draw a card.'
 
-text: 'Pay 2 to complete this quest. Reward : If you have fewer cards in your hand than in your graveyard, draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

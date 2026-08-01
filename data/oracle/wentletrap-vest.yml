@@ -2,16 +2,18 @@ card_name: Wentletrap Vest
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '2'
 
 class:
   - Hunter
   - Shaman
 
-cost: '2'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

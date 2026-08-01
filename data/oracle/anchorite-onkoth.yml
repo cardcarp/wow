@@ -2,20 +2,22 @@ card_name: Anchorite Onkoth
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 4
 
-text: 'Aldor Reputation Inspire: Ability, ally, equipment, hero, or resource'
-
-cost: '5'
-
 combat: Holy
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Ability, ally, equipment, hero, or resource'
+
+regulation:
+
+errata: []
 
 temp: Draenai Priest

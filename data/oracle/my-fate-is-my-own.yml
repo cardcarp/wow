@@ -2,14 +2,16 @@ card_name: _MY FATE IS MY OWN!_
 
 layout: standard
 
-regulation:
-
 category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: "Attach to the Dungeon ally with the highest printed . Ongoing : When attached ally deals damage to a Raiding hero, that hero's controller discards two random cards."
+
+regulation:
 
 errata: []
 
-text: "Attach to the Dungeon ally with the highest printed . Ongoing : When attached ally deals damage to a Raiding hero, that hero's controller discards two random cards."
-
 temp: ''
-
-type: Dungeon

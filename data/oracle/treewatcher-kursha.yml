@@ -2,22 +2,24 @@ card_name: Treewatcher Kursha
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 1
 
 health: 6
 
-text: When this ally readies, you may target ability and/or equipment.
-
-cost: '4'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally readies, you may target ability and/or equipment.
+
+regulation:
+
+errata: []
 
 temp: Tauren Druid

@@ -2,17 +2,19 @@ card_name: Aura of Fanaticism
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Traitor Hero Required Ongoing : Your hero has +1 ATK for each ally in your party. Allies in your party have -1 health.'
+cost: '2'
 
 class:
   - Paladin
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Traitor Hero Required Ongoing : Your hero has +1 ATK for each ally in your party. Allies in your party have -1 health.'
+
+regulation:
+
+errata: []
 
 temp: Traitor

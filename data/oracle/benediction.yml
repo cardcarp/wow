@@ -2,17 +2,19 @@ card_name: Benediction
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero heals damage with an ability, draw a card. Exhaust your hero → Put a card named Anathema from your graveyard into play.
+cost: '5'
 
 class:
   - Priest
 
-cost: '5'
+rule:
+  - type: ability
+    text: When your hero heals damage with an ability, draw a card. Exhaust your hero → Put a card named Anathema from your graveyard into play.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

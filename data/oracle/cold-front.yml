@@ -2,17 +2,19 @@ card_name: Cold Front
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Allies can't attack this turn.
+cost: '2'
 
 class:
   - Mage
 
-cost: '2'
+instant: Allies can't attack this turn.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Frost

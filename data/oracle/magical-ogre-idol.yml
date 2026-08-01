@@ -2,13 +2,9 @@ card_name: Magical Ogre Idol
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'This item enters play exhausted. On your turn: , Destroy this item → This turn, your hero becomes an Ogre Monster hero and has +6 ATK and Smash .'
+cost: '4'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'This item enters play exhausted. On your turn: , Destroy this item → This turn, your hero becomes an Ogre Monster hero and has +6 ATK and Smash .'
+
+regulation:
+
+errata: []
 
 temp: Item

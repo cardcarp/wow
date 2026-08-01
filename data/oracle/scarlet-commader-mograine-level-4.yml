@@ -2,8 +2,10 @@ card_name: Scarlet Commader Mograine - Level 4
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,22 +2,24 @@ card_name: Bolan Earthmend
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 4
 
-text: Protector When Bolan readies, he heals all damage from target ally.
-
-cost: '3'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When Bolan readies, he heals all damage from target ally.
+
+regulation:
+
+errata: []
 
 temp: Tauren Druid

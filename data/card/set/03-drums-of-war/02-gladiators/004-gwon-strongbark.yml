@@ -10,4 +10,5 @@ artist: James Ryman
 
 flavor: '"The followers of Cenarius take care of their own."'
 
-appearance: []
+variation:
+  - transform

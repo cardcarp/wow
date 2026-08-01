@@ -2,22 +2,24 @@ card_name: Hota the Bloodsoaked
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 4
 
-text: Hota has Protector while an opponent has more allies than you.
-
-cost: '4'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Hota has Protector while an opponent has more allies than you.
+
+regulation:
+
+errata: []
 
 temp: Orc Warrior

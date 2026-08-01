@@ -2,11 +2,7 @@ card_name: Abyssal
 
 layout: standard
 
-regulation:
-
 category: Token
-
-errata: []
 
 damage: 6
 
@@ -14,6 +10,12 @@ health: 6
 
 combat: Fire
 
-temp: Abyssal
-
 type: Ally
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Abyssal

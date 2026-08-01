@@ -2,17 +2,19 @@ card_name: Hammer of the Divine
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Exhaust all opposing heroes and allies. Each of them can't ready during its controller's next ready step. Draw a card.
+cost: '3'
 
 class:
   - Paladin
 
-cost: '3'
+rule:
+  - type: ability
+    text: Exhaust all opposing heroes and allies. Each of them can't ready during its controller's next ready step. Draw a card.
+
+regulation:
+
+errata: []
 
 temp: Protection

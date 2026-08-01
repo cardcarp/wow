@@ -10,4 +10,5 @@ artist:
 
 flavor: (Allies you control can protect this hero.)
 
-appearance: []
+variation:
+  - transform

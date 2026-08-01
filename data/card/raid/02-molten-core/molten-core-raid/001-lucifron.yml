@@ -10,4 +10,5 @@ artist: Aleksi Briclot
 
 flavor:
 
-appearance: []
+variation:
+  - transform

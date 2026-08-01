@@ -2,17 +2,19 @@ card_name: Colossal Totem
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Ongoing : If a friendly hero or ally would be dealt damage, it's dealt to this ability instead. (Totems can be attacked or targeted like allies.)"
+cost: '5'
 
 class:
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: "Ongoing : If a friendly hero or ally would be dealt damage, it's dealt to this ability instead. (Totems can be attacked or targeted like allies.)"
+
+regulation:
+
+errata: []
 
 temp: Enhancement 10

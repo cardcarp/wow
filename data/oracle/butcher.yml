@@ -2,17 +2,19 @@ card_name: Butcher
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Finishing Move Choose X from among "ability," "ally," "equipment," "location," and "quest." Target player reveals his hand and discards a card of each of the chosen kinds.
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: Finishing Move Choose X from among "ability," "ally," "equipment," "location," and "quest." Target player reveals his hand and discards a card of each of the chosen kinds.
+
+regulation:
+
+errata: []
 
 temp: Assassination

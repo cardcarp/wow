@@ -2,12 +2,14 @@ card_name: Leader of the Darkcrest
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'If an ally with cost 5 or more is in your party, pay 5 to complete this quest. Reward : Draw three cards.'
 
-text: 'If an ally with cost 5 or more is in your party, pay 5 to complete this quest. Reward : Draw three cards.'
+regulation:
+
+errata: []
 
 temp: ''

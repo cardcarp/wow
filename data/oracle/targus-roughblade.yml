@@ -2,22 +2,24 @@ card_name: Targus Roughblade
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 6
 
 health: 1
 
-text: Stealth
-
-cost: '4'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Stealth
+
+regulation:
+
+errata: []
 
 temp: Dwarf Rogue

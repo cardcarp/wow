@@ -2,17 +2,19 @@ card_name: Shield Bash
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: You may exhaust one of your Shields rather than pay Shield Bash's cost. Your hero deals 1 damage to target hero or ally. If you targeted a hero, you may interrupt an ability card played by its controller.
+cost: '3'
 
 class:
   - Warrior
 
-cost: '3'
+instant: You may exhaust one of your Shields rather than pay Shield Bash's cost. Your hero deals 1 damage to target hero or ally. If you targeted a hero, you may interrupt an ability card played by its controller.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Fury

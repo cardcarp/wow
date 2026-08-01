@@ -2,14 +2,16 @@ card_name: Learn Your Place, Mortal!
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '3'
 
 instant: Draw cards until you reach your maximum hand size.
 
-cost: '3'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

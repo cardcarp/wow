@@ -2,12 +2,14 @@ card_name: Plead With the Heavens
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: Each player may make a phone call. The first player to get someone to say "Draw a card" on speakerphone may draw a card.
 
-text: Each player may make a phone call. The first player to get someone to say "Draw a card" on speakerphone may draw a card.
+regulation:
+
+errata: []
 
 temp: ''

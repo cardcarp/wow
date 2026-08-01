@@ -2,22 +2,24 @@ card_name: Kray_zin Firetusk
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 0
 
 health: 10
 
-text: Troll Hero Required Berserking When Kray'zin or another ally enters your party, you may put any amount of non-fatal damage on it.
-
-cost: '4'
-
 combat: Fire
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Troll Hero Required Berserking When Kray'zin or another ally enters your party, you may put any amount of non-fatal damage on it.
+
+regulation:
+
+errata: []
 
 temp: Troll Mage

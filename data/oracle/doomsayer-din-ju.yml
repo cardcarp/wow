@@ -2,22 +2,24 @@ card_name: Doomsayer Din_ju
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 4
 
 health: 8
 
-text: When Din'ju enters play, turn all opposing resources face down.
-
-cost: '7'
-
 combat: Shadow
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When Din'ju enters play, turn all opposing resources face down.
+
+regulation:
+
+errata: []
 
 temp: Troll Priest

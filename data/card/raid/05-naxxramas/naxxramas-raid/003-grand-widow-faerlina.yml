@@ -10,4 +10,5 @@ artist: Gonzalo Ordonez
 
 flavor: '"Kneel before me, worm!"'
 
-appearance: []
+variation:
+  - transform

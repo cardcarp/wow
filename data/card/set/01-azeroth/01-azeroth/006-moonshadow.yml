@@ -10,4 +10,5 @@ artist: RK Post
 
 flavor: 'Life, death, rebirth: all of nature is a cycle.'
 
-appearance: []
+variation:
+  - transform

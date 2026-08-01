@@ -2,20 +2,22 @@ card_name: Field Repair Bot 74A
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 0
 
 health: 2
 
-text: Friendly heroes have " 1 , → Put an equipment card from your graveyard into your hand."
-
-cost: '1'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Friendly heroes have " 1 , → Put an equipment card from your graveyard into your hand."
+
+regulation:
+
+errata: []
 
 temp: Repair Bot

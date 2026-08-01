@@ -2,12 +2,14 @@ card_name: The Fel and the Furious
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'If your hero has more damage than an opposing hero: Pay 1 to complete this quest. Reward : Draw a card.'
 
-text: 'If your hero has more damage than an opposing hero: Pay 1 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

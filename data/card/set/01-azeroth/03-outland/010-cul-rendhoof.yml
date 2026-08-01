@@ -10,4 +10,5 @@ artist: Karl Kopinski
 
 flavor: '"The Earth Mother smiles upon you this day."'
 
-appearance: []
+variation:
+  - transform

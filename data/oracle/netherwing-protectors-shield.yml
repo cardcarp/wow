@@ -2,19 +2,21 @@ card_name: Netherwing Protectors Shield
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has Dual Shield .
+cost: '2'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero has Dual Shield .
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

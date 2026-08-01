@@ -2,20 +2,22 @@ card_name: Kwee Q. Peddlefeet
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 1
 
 health: 4
 
-text: Long-Range When this ally deals combat damage to an ally while attacking, gain control of that ally while this ally remains under your control.
-
-cost: '4'
-
 combat: Ranged
+
+rule:
+  - type: ability
+    text: Long-Range When this ally deals combat damage to an ally while attacking, gain control of that ally while this ally remains under your control.
+
+regulation:
+
+errata: []
 
 temp: Goblin Cupid

@@ -2,8 +2,10 @@ card_name: Tok1 Beast
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

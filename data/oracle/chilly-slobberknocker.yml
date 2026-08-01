@@ -2,13 +2,9 @@ card_name: Chilly Slobberknocker
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: As this weapon enters play, name two damage types. If the first type of damage would be dealt, that much +1 is dealt instead. If the second type of damage would be dealt, that much -1 is dealt instead.
+cost: '3'
 
 class:
   - Priest
@@ -17,6 +13,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: As this weapon enters play, name two damage types. If the first type of damage would be dealt, that much +1 is dealt instead. If the second type of damage would be dealt, that much -1 is dealt instead.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

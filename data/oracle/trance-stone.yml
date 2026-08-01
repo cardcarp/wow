@@ -2,13 +2,9 @@ card_name: Trance Stone
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the end of your turn, if you didn't place a resource this turn, draw a card.
+cost: '3'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: At the end of your turn, if you didn't place a resource this turn, draw a card.
+
+regulation:
+
+errata: []
 
 temp: Item Off-Hand

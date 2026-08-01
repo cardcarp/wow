@@ -2,19 +2,21 @@ card_name: Pauldrons of Roaring Flame
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 2 → Your hero has Protector this turn.
+cost: '3'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '3'
+rule:
+  - type: ability
+    text: 2 → Your hero has Protector this turn.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

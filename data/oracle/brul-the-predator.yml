@@ -2,8 +2,10 @@ card_name: Brul The Predator
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

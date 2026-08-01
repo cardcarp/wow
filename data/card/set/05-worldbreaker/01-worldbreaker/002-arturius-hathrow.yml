@@ -10,4 +10,5 @@ artist: Dan Scott
 
 flavor: '"The night elves have shown me just how empowering Cenarius can be."'
 
-appearance: []
+variation:
+  - transform

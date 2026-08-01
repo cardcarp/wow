@@ -2,20 +2,22 @@ card_name: Grak Foulblade
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 6
 
 health: 2
 
-cost: '4'
-
 combat: Melee
 
 faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Orc Death Knight

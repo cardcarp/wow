@@ -2,8 +2,10 @@ card_name: Jab
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

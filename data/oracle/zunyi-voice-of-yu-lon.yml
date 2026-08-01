@@ -2,8 +2,10 @@ card_name: Zunyi, Voice of Yu_lon
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

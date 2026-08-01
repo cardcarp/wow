@@ -10,4 +10,5 @@ artist: Kev Walker
 
 flavor: "\"The Cult of the Damned will not rest until the Lich King's plans have been fulfilled.\""
 
-appearance: []
+variation:
+  - transform

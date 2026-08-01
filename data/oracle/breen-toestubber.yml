@@ -2,22 +2,24 @@ card_name: Breen Toestubber
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 4
 
 health: 5
 
-text: Opposing allies have -1 ATK.
-
-cost: '5'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Opposing allies have -1 ATK.
+
+regulation:
+
+errata: []
 
 temp: Gnome Warrior

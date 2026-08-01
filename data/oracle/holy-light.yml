@@ -2,17 +2,19 @@ card_name: Holy Light
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero heals 5 damage from target hero or ally. Draw a card.
+cost: '3'
 
 class:
   - Paladin
 
-cost: '3'
+rule:
+  - type: ability
+    text: Your hero heals 5 damage from target hero or ally. Draw a card.
+
+regulation:
+
+errata: []
 
 temp: Holy

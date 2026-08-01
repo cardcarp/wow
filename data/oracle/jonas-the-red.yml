@@ -2,16 +2,19 @@ card_name: Jonas the Red
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 27
 
-text: 2 , Flip Jonas → When target friendly ally deals combat damage to an ally this turn, destroy both. Burning Blade
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Jonas → When target friendly ally deals combat damage to an ally this turn, destroy both. Burning Blade
+
+regulation:
+
+errata: []
 
 temp: Undead Rogue

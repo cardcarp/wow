@@ -2,8 +2,10 @@ card_name: Dragonmaw Farseer
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

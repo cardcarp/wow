@@ -2,16 +2,18 @@ card_name: Ornate Adamantium Breastplate
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '5'
 
 class:
   - Paladin
   - Warrior
 
-cost: '5'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

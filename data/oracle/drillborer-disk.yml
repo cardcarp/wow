@@ -2,19 +2,21 @@ card_name: Drillborer Disk
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When Drillborer Disk prevents damage, your hero deals 1 arcane damage to the source of that damage.
+cost: '3'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: When Drillborer Disk prevents damage, your hero deals 1 arcane damage to the source of that damage.
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

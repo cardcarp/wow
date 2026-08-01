@@ -2,14 +2,16 @@ card_name: Exhaustion
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '2'
 
 instant: Exhaust target ally.
 
-cost: '2'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

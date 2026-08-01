@@ -2,17 +2,19 @@ card_name: Flickers from the Past
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put any number of target ongoing ability cards from your graveyard into play if their combined cost is less than or equal to the number of resources you have.
+cost: '7'
 
 class:
   - Mage
 
-cost: '7'
+rule:
+  - type: ability
+    text: Put any number of target ongoing ability cards from your graveyard into play if their combined cost is less than or equal to the number of resources you have.
+
+regulation:
+
+errata: []
 
 temp: Arcane

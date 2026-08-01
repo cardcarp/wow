@@ -2,20 +2,22 @@ card_name: Darynus
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 6
 
 health: 4
 
-text: 'Aldor Reputation Protector Inspire: Ally'
-
-cost: '6'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Protector Inspire: Ally'
+
+regulation:
+
+errata: []
 
 temp: Draenei Warrior

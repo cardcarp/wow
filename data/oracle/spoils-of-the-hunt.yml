@@ -2,17 +2,19 @@ card_name: Spoils of the Hunt
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy all opposing allies that have or share the highest cost among opposing allies.
+cost: '3'
 
 class:
   - Hunter
 
-cost: '3'
+rule:
+  - type: ability
+    text: Destroy all opposing allies that have or share the highest cost among opposing allies.
+
+regulation:
+
+errata: []
 
 temp: Survival

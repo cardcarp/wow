@@ -2,22 +2,24 @@ card_name: Kralnor
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 3
 
-text: When Kralnor enters play, you may search your deck for a Staff card and let everyone LOOK IT OVER. If you do, shuffle your deck and put that card on top.
-
-cost: '3'
-
 combat: Shadow
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When Kralnor enters play, you may search your deck for a Staff card and let everyone LOOK IT OVER. If you do, shuffle your deck and put that card on top.
+
+regulation:
+
+errata: []
 
 temp: Orc Warlock

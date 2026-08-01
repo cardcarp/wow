@@ -2,13 +2,9 @@ card_name: Big Cauldron of Battle
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'At the start of your turn, choose one at random: Pain; Mind; Cunning; Power; or Time. Pain: Your hero deals 1 arcane damage to itself. Mind: Draw a card. Cunning: Each opponent discards a card. Power: Your hero deals 3 melee damage to each opposing hero and ally. Time: Repeat this process two more times.'
+cost: '6'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '6'
+rule:
+  - type: ability
+    text: 'At the start of your turn, choose one at random: Pain; Mind; Cunning; Power; or Time. Pain: Your hero deals 1 arcane damage to itself. Mind: Draw a card. Cunning: Each opponent discards a card. Power: Your hero deals 3 melee damage to each opposing hero and ally. Time: Repeat this process two more times.'
+
+regulation:
+
+errata: []
 
 temp: Item

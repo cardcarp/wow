@@ -2,13 +2,9 @@ card_name: Superior Mana Oil
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Superior Mana Oil enters play attached to one of your weapons. At the start of your turn, you may reveal the top card of your deck. If it's an ability card, put it into your hand. Otherwise, put it into your graveyard.
+cost: '1'
 
 class:
   - Priest
@@ -19,6 +15,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: Superior Mana Oil enters play attached to one of your weapons. At the start of your turn, you may reveal the top card of your deck. If it's an ability card, put it into your hand. Otherwise, put it into your graveyard.
+
+regulation:
+
+errata: []
 
 temp: Item

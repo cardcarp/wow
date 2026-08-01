@@ -2,22 +2,24 @@ card_name: Winterhoof Frostheart
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 4
 
-text: 'Tribe : When this or another Tauren ally enters play under your control, target opposing ally has -1 ATK this turn.'
-
-cost: '2'
-
 combat: Frost
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: 'Tribe : When this or another Tauren ally enters play under your control, target opposing ally has -1 ATK this turn.'
+
+regulation:
+
+errata: []
 
 temp: Tauren Death Knight

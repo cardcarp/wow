@@ -2,20 +2,22 @@ card_name: Defias Pirate
 
 layout: standard
 
-regulation:
-
 category: Ally
-
-errata: []
 
 damage: 4
 
 health: 1
 
-text: Ferocity
-
 combat: Melee
 
-temp: Human Pirate
-
 type: Dungeon
+
+rule:
+  - type: ability
+    text: Ferocity
+
+regulation:
+
+errata: []
+
+temp: Human Pirate

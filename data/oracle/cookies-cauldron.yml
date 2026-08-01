@@ -2,12 +2,14 @@ card_name: Cookies Cauldron
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+rule:
+  - type: ability
+    text: Dungeon allies have Assault 3 .
 
-text: Dungeon allies have Assault 3 .
+regulation:
+
+errata: []
 
 temp: Item

@@ -2,18 +2,20 @@ card_name: Spaulders of Eternity
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When this armor enters play, your hero has +1 ATK this turn for each ally you control.
+cost: '2'
 
 class:
   - Druid
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: When this armor enters play, your hero has +1 ATK this turn for each ally you control.
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

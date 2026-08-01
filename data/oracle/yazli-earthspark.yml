@@ -2,22 +2,24 @@ card_name: Yazli Earthspark
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: When this ally attacks, she may deal 2 nature damage to target hero.
-
-cost: '2'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally attacks, she may deal 2 nature damage to target hero.
+
+regulation:
+
+errata: []
 
 temp: Goblin Shaman

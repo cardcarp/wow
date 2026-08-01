@@ -2,20 +2,22 @@ card_name: Mrglrglmrglmrrrlggg
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 2
 
 health: 2
 
-text: When Mrglrglmrglmrrrlggg attacks, say "Mrglrglmrglmrrrlggg!" Then, put two Murloc ally tokens with +1 ATK, 1 health, and Ferocity into play.
-
-cost: '5'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: When Mrglrglmrglmrrrlggg attacks, say "Mrglrglmrglmrrrlggg!" Then, put two Murloc ally tokens with +1 ATK, 1 health, and Ferocity into play.
+
+regulation:
+
+errata: []
 
 temp: Murloc

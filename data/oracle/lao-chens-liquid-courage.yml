@@ -2,8 +2,10 @@ card_name: Lao Chens Liquid Courage
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

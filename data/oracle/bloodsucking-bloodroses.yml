@@ -2,8 +2,10 @@ card_name: Bloodsucking Bloodroses
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

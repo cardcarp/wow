@@ -2,17 +2,19 @@ card_name: Nether Rip
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Portal , Portal
+cost: '4'
 
 class:
   - Warlock
 
-cost: '4'
+rule:
+  - type: ability
+    text: Portal , Portal
+
+regulation:
+
+errata: []
 
 temp: Demonology

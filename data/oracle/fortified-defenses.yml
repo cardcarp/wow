@@ -2,17 +2,19 @@ card_name: Fortified Defenses
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Your hero has Protector . While you control five or more allies: → Ready target hero or ally.'
+cost: '4'
 
 class:
   - Warrior
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Ongoing : Your hero has Protector . While you control five or more allies: → Ready target hero or ally.'
+
+regulation:
+
+errata: []
 
 temp: Protection

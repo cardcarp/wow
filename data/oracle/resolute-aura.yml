@@ -2,17 +2,19 @@ card_name: Resolute Aura
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : For each armor you control, your weapons have +1 ATK and you pay 1 less to strike with them.'
+cost: '4'
 
 class:
   - Paladin
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Ongoing : For each armor you control, your weapons have +1 ATK and you pay 1 less to strike with them.'
+
+regulation:
+
+errata: []
 
 temp: Retribution

@@ -2,14 +2,16 @@ card_name: Defensive Breach
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '5'
 
 instant: Destroy target equipment.
 
-cost: '5'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

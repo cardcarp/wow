@@ -10,4 +10,5 @@ artist: Marcelo Vignali
 
 flavor: '"I have quite the hot temper."'
 
-appearance: []
+variation:
+  - transform

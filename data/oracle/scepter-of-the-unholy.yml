@@ -2,17 +2,19 @@ card_name: Scepter of the Unholy
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: If a card or effect you control would cause an opponent to discard a card, he discards a random card instead.
+cost: '4'
 
 class:
   - Priest
 
-cost: '4'
+rule:
+  - type: ability
+    text: If a card or effect you control would cause an opponent to discard a card, he discards a random card instead.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

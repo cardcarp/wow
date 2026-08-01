@@ -10,4 +10,5 @@ artist: James Ryman
 
 flavor: '"Humanity must bring the Light to the darkest ends of Azeroth."'
 
-appearance: []
+variation:
+  - transform

@@ -2,17 +2,19 @@ card_name: Jackknife
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Target up to two heroes and/or allies. Your hero deals 3 melee damage to the first target. If you have a Dagger, your hero deals 3 melee damage to the second target.
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: Target up to two heroes and/or allies. Your hero deals 3 melee damage to the first target. If you have a Dagger, your hero deals 3 melee damage to the second target.
+
+regulation:
+
+errata: []
 
 temp: Assassination Combo

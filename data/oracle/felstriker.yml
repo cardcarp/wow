@@ -2,18 +2,20 @@ card_name: Felstriker
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 5 , Destroy Felstriker → Destroy target ally.
+cost: '2'
 
 class:
   - Warrior
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: 5 , Destroy Felstriker → Destroy target ally.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

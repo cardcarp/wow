@@ -2,8 +2,10 @@ card_name: Amber Spear Of Klaxxi Vess
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

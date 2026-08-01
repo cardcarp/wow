@@ -2,18 +2,20 @@ card_name: Revitalize
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero heals 2 damage from attached character.'
+cost: '3'
 
 class:
   - Druid
   - Priest
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero heals 2 damage from attached character.'
+
+regulation:
+
+errata: []
 
 temp: Restoration Holy

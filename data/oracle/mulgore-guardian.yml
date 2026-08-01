@@ -2,22 +2,24 @@ card_name: Mulgore Guardian
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 4
 
-text: This ally can't attack. Protector
-
-cost: '2'
-
 combat: Holy
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: This ally can't attack. Protector
+
+regulation:
+
+errata: []
 
 temp: Tauren Paladin

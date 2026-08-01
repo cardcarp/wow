@@ -2,22 +2,24 @@ card_name: Father Charles
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 4
 
-text: When this ally enters play, he heals all damage from target ally you control.
-
-cost: '5'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, he heals all damage from target ally you control.
+
+regulation:
+
+errata: []
 
 temp: Human Priest

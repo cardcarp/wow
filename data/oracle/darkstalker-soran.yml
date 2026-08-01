@@ -2,22 +2,24 @@ card_name: Darkstalker Soran
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 1
 
-text: Elusive When this ally deals combat damage to a defending hero for the first time each game, this ally has "Allies you control have +2 / +2" until he leaves play.
-
-cost: '2'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive When this ally deals combat damage to a defending hero for the first time each game, this ally has "Allies you control have +2 / +2" until he leaves play.
+
+regulation:
+
+errata: []
 
 temp: Worgen Rogue

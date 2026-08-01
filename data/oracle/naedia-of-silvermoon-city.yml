@@ -2,16 +2,19 @@ card_name: Naedia of Silvermoon City
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 'On your turn: 3 , Flip Naedia → Naedia deals 2 unpreventable holy damage to target hero or ally.'
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 3 , Flip Naedia → Naedia deals 2 unpreventable holy damage to target hero or ally.'
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Paladin

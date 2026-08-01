@@ -10,4 +10,5 @@ artist: Volkan Baga
 
 flavor: '"Even in this broken world, the elements speak."'
 
-appearance: []
+variation:
+  - transform

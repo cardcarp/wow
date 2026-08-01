@@ -2,22 +2,24 @@ card_name: Wynnd the Spry
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 2
 
 health: 4
 
-text: Elusive This ally has +1 ATK for each exhausted opposing resource.
-
-cost: '4'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive This ally has +1 ATK for each exhausted opposing resource.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Druid

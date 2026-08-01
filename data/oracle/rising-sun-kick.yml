@@ -2,8 +2,10 @@ card_name: Rising Sun Kick
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

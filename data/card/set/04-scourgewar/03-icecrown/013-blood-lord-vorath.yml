@@ -10,4 +10,5 @@ artist: Jim Murray
 
 flavor: (like Frost Hero Required)
 
-appearance: []
+variation:
+  - transform

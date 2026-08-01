@@ -2,12 +2,14 @@ card_name: _Tis But a Flesh Wound
 
 layout: standard
 
-regulation:
-
 category: Achievement
 
-errata: []
+rule:
+  - type: ability
+    text: Defeat the Dungeon hero while each Raiding hero has 10 or less damage on it.
 
-text: Defeat the Dungeon hero while each Raiding hero has 10 or less damage on it.
+regulation:
+
+errata: []
 
 temp: ''

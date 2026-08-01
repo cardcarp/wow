@@ -2,17 +2,19 @@ card_name: Prayer of Vitality
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Your hero heals all damage from allies you control. Ongoing : Allies you control have +1 .'
+cost: '3'
 
 class:
   - Priest
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Your hero heals all damage from allies you control. Ongoing : Allies you control have +1 .'
+
+regulation:
+
+errata: []
 
 temp: Discipline

@@ -2,22 +2,24 @@ card_name: Vanndar Stormpike
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '14'
 
 damage: 7
 
 health: 9
 
-text: Protector You pay 1 less to play Vanndar for each honor counter on cards you control. 1 , Remove an honor counter from a card you control → Each player destroys one of his resources.
-
-cost: '14'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector You pay 1 less to play Vanndar for each honor counter on cards you control. 1 , Remove an honor counter from a card you control → Each player destroys one of his resources.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Warrior

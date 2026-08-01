@@ -2,13 +2,9 @@ card_name: Axe of Grounded Flame
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'This weapon enters play with three +1 ATK counters. On your turn: Remove a +1 ATK counter from this weapon → Target ally has Arcane , Fire , or Nature Resistance this turn.'
+cost: '5'
 
 class:
   - Warrior
@@ -17,6 +13,12 @@ class:
   - Death Knight
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: 'This weapon enters play with three +1 ATK counters. On your turn: Remove a +1 ATK counter from this weapon → Target ally has Arcane , Fire , or Nature Resistance this turn.'
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

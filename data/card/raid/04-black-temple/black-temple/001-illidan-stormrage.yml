@@ -10,4 +10,5 @@ artist: Ben Thompson
 
 flavor: '"Feel the hatred of ten thousand years!"'
 
-appearance: []
+variation:
+  - transform

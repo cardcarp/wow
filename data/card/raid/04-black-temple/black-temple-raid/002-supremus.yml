@@ -10,4 +10,5 @@ artist: Alex Horley Orlandelli
 
 flavor:
 
-appearance: []
+variation:
+  - transform

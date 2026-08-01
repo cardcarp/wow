@@ -2,14 +2,16 @@ card_name: Goblin Gumbo
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '2'
 
 instant: "Attach to target ally. Ongoing : Attached ally has -2 ATK. When Goblin Gumbo enters a graveyard from play, put it from that graveyard on top of its owner's deck."
 
-cost: '2'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

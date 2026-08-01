@@ -2,20 +2,22 @@ card_name: Savage Raptor
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '9'
 
 damage: 6
 
 health: 15
 
-text: Ferocity This ally has +1 ATK for each damage on it.
-
-cost: '9'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Ferocity This ally has +1 ATK for each damage on it.
+
+regulation:
+
+errata: []
 
 temp: Raptor

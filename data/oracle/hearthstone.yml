@@ -2,13 +2,9 @@ card_name: Hearthstone
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 6 , , Concede the game → Players can keep any of their equipment and start the next game with those cards in play.
+cost: '6'
 
 class:
   - Priest
@@ -21,6 +17,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '6'
+rule:
+  - type: ability
+    text: 6 , , Concede the game → Players can keep any of their equipment and start the next game with those cards in play.
+
+regulation:
+
+errata: []
 
 temp: Item

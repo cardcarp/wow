@@ -2,22 +2,24 @@ card_name: Najan Spiritbinder
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 3
 
 health: 4
 
-text: Ferocity When Najan Spiritbinder deals combat damage to a hero, you may destroy target ability.
-
-cost: '6'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity When Najan Spiritbinder deals combat damage to a hero, you may destroy target ability.
+
+regulation:
+
+errata: []
 
 temp: Orc Shaman

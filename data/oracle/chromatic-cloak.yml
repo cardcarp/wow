@@ -2,13 +2,9 @@ card_name: Chromatic Cloak
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: If your hero would deal damage with an ability, it deals that amount of damage plus 1 instead.
+cost: '4'
 
 class:
   - Priest
@@ -18,6 +14,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: If your hero would deal damage with an ability, it deals that amount of damage plus 1 instead.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

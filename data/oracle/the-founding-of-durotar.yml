@@ -2,14 +2,16 @@ card_name: The Founding of Durotar
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
-
-text: 'Pay 2 to complete this quest. Reward : Draw two cards, then discard a card at random.'
-
 faction: Horde
+
+rule:
+  - type: ability
+    text: 'Pay 2 to complete this quest. Reward : Draw two cards, then discard a card at random.'
+
+regulation:
+
+errata: []
 
 temp: ''

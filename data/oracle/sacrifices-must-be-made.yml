@@ -2,12 +2,14 @@ card_name: Sacrifices Must Be Made
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 5 to complete this quest. Reward : Draw three cards, then discard two cards unless you discard an ally.'
 
-text: 'Pay 5 to complete this quest. Reward : Draw three cards, then discard two cards unless you discard an ally.'
+regulation:
+
+errata: []
 
 temp: ''

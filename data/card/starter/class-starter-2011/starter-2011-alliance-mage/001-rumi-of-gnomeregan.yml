@@ -10,4 +10,5 @@ artist: Ben Olson
 
 flavor:
 
-appearance: []
+variation:
+  - transform

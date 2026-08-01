@@ -2,17 +2,19 @@ card_name: Gorehowl
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '10'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '10'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Axe

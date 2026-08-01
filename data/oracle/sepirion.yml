@@ -2,22 +2,24 @@ card_name: Sepirion
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 2
 
 health: 5
 
-text: Berserking When Sepirion attacks for the first time each turn, you may pay 1 . If you do, ready him.
-
-cost: '4'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Berserking When Sepirion attacks for the first time each turn, you may pay 1 . If you do, ready him.
+
+regulation:
+
+errata: []
 
 temp: Troll Shaman

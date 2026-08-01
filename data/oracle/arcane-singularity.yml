@@ -2,8 +2,10 @@ card_name: Arcane Singularity
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

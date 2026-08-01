@@ -2,19 +2,21 @@ card_name: Queen Azsharas Dressing Gown
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When an Elf you control is destroyed, it may deal arcane damage equal to its ATK to target hero or ally.
+cost: '2'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: When an Elf you control is destroyed, it may deal arcane damage equal to its ATK to target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

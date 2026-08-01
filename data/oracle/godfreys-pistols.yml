@@ -2,12 +2,14 @@ card_name: Godfreys Pistols
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+rule:
+  - type: ability
+    text: 'Godfrey strikes with this weapon the first time he attacks each turn. Level 3+ : When this weapon enters play, ready Godfrey when he attacks for the first time this turn.'
 
-text: 'Godfrey strikes with this weapon the first time he attacks each turn. Level 3+ : When this weapon enters play, ready Godfrey when he attacks for the first time this turn.'
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Guns

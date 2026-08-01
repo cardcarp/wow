@@ -2,20 +2,22 @@ card_name: Voren_thal the Seer
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '8'
 
 damage: 5
 
 health: 8
 
-text: Scryer Reputation If you would draw a card, draw two instead.
-
-cost: '8'
-
 combat: Fire
+
+rule:
+  - type: ability
+    text: Scryer Reputation If you would draw a card, draw two instead.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Mage

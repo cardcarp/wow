@@ -2,19 +2,21 @@ card_name: The Darkspeakers Footpads
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → Ready a resource you control.
+cost: '2'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: → Ready a resource you control.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

@@ -2,17 +2,19 @@ card_name: Favor of the Elements
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, your hero deals 3 fire damage to target hero.'
+cost: '2'
 
 class:
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, your hero deals 3 fire damage to target hero.'
+
+regulation:
+
+errata: []
 
 temp: Elemental

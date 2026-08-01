@@ -2,8 +2,10 @@ card_name: Insane Ghyslaine
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

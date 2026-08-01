@@ -2,12 +2,14 @@ card_name: Tanks for Everything, Dalaran
 
 layout: standard
 
-regulation:
-
 category: Location
 
-errata: []
+rule:
+  - type: ability
+    text: → Ready up to X target Plate armor you control, where X is the number of Blacksmithing heroes and allies you control.
 
-text: → Ready up to X target Plate armor you control, where X is the number of Blacksmithing heroes and allies you control.
+regulation:
+
+errata: []
 
 temp: ''

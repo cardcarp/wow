@@ -2,17 +2,19 @@ card_name: Focused Dispel
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Destroy up to two target abilities.
+cost: '3'
 
 class:
   - Priest
 
-cost: '3'
+instant: Destroy up to two target abilities.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Discipline

@@ -2,16 +2,19 @@ card_name: Gurzak of Orgrimmar
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 30
 
-text: 'On your turn: 2 , Flip Gurzak → Target weapon has +2 ATK this turn.'
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 2 , Flip Gurzak → Target weapon has +2 ATK this turn.'
+
+regulation:
+
+errata: []
 
 temp: Orc Warrior

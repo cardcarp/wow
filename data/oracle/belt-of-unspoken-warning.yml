@@ -2,8 +2,10 @@ card_name: Belt of Unspoken Warning
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

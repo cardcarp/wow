@@ -10,4 +10,5 @@ artist: Trent Kaniuga
 
 flavor:
 
-appearance: []
+variation:
+  - transform

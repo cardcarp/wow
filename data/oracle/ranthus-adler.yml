@@ -2,22 +2,24 @@ card_name: Ranthus Adler
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 3
 
-text: 1 , Destroy Ranthus Adler → Put target ally into its owner's hand.
-
-cost: '4'
-
 combat: Shadow
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 1 , Destroy Ranthus Adler → Put target ally into its owner's hand.
+
+regulation:
+
+errata: []
 
 temp: Human Warlock

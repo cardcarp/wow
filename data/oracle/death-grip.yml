@@ -2,17 +2,19 @@ card_name: Death Grip
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : → This turn, target opposing hero or ally must attack if able and can attack only your hero if able.'
+cost: '2'
 
 class:
   - Death Knight
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : → This turn, target opposing hero or ally must attack if able and can attack only your hero if able.'
+
+regulation:
+
+errata: []
 
 temp: Unholy

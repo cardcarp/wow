@@ -2,14 +2,16 @@ card_name: Caught Off-Guard
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '1'
 
 instant: Target hero or ally has -2 ATK this turn.
 
-cost: '1'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

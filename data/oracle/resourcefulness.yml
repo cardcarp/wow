@@ -2,12 +2,14 @@ card_name: Resourcefulness
 
 layout: standard
 
-regulation:
-
 category: Achievement
 
-errata: []
+rule:
+  - type: ability
+    text: Raiders control twenty or more total resources.
 
-text: Raiders control twenty or more total resources.
+regulation:
+
+errata: []
 
 temp: ''

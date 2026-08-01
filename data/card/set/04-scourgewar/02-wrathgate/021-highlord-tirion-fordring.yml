@@ -10,4 +10,5 @@ artist: Zoltan Boros & Gabor Szikszai
 
 flavor: '"No more lives will be consumed by your hatred!"'
 
-appearance: []
+variation:
+  - transform

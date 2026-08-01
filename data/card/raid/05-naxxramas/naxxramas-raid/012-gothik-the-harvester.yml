@@ -10,4 +10,5 @@ artist: Matt Cavotta
 
 flavor: '"Death is the only escape."'
 
-appearance: []
+variation:
+  - transform

@@ -2,16 +2,19 @@ card_name: Emerson Zantides
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 26
 
-text: 'If you control another Priest: Flip Emerson → Emerson deals 2 shadow damage to target hero or ally and 2 shadow damage to himself.'
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'If you control another Priest: Flip Emerson → Emerson deals 2 shadow damage to target hero or ally and 2 shadow damage to himself.'
+
+regulation:
+
+errata: []
 
 temp: Undead Priest

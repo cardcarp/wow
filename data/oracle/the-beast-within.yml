@@ -2,17 +2,19 @@ card_name: The Beast Within
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Beast Mastery Hero Required While you have a Pet this turn, prevent all damage that your hero would be dealt, and your hero has +3 ATK.
+cost: '1'
 
 class:
   - Hunter
 
-cost: '1'
+instant: Beast Mastery Hero Required While you have a Pet this turn, prevent all damage that your hero would be dealt, and your hero has +3 ATK.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Beast Mastery Talent

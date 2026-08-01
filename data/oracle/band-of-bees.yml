@@ -2,19 +2,21 @@ card_name: Band of Bees
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has Protector . When your hero protects, you may put a 1 / 1 Bee ally token into play.
+cost: '3'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '3'
+rule:
+  - type: ability
+    text: Your hero has Protector . When your hero protects, you may put a 1 / 1 Bee ally token into play.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

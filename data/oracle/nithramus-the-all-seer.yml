@@ -2,8 +2,10 @@ card_name: Nithramus The All Seer
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,25 +2,27 @@ card_name: Gahz_rilla
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 8
 
 health: 8
 
-text: Protector When this ally is dealt fatal damage, put two 4 / 4 Hydra Beast Monster ally tokens into play with Protector and "When this ally is dealt fatal damage, put two 2 / 2 Hydra Beast Monster ally tokens into play with Protector ."
+combat: Frost
 
 class:
   - Hunter
 
-cost: '7'
+type: Monster
 
-combat: Frost
+rule:
+  - type: ability
+    text: Protector When this ally is dealt fatal damage, put two 4 / 4 Hydra Beast Monster ally tokens into play with Protector and "When this ally is dealt fatal damage, put two 2 / 2 Hydra Beast Monster ally tokens into play with Protector ."
+
+regulation:
+
+errata: []
 
 temp: Hydra Beast
-
-type: Monster

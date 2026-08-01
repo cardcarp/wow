@@ -2,16 +2,19 @@ card_name: Tribemother Torra
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 3 , Flip Torra → Target up to three heroes and/or allies. Torra heals 3, 2, and 1 damage from them, respectively.
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Torra → Target up to three heroes and/or allies. Torra heals 3, 2, and 1 damage from them, respectively.
+
+regulation:
+
+errata: []
 
 temp: Tauren Shaman

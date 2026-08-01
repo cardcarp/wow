@@ -2,20 +2,22 @@ card_name: Retainer Faryn
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 3
 
 health: 3
 
-text: 'Scryer Reputation Sabotage: Resource When Faryn sabotages a resource, gain control of it. (Move it to your resource row.)'
-
-cost: '5'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: 'Scryer Reputation Sabotage: Resource When Faryn sabotages a resource, gain control of it. (Move it to your resource row.)'
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Rogue

@@ -2,19 +2,21 @@ card_name: Ebonweave Robe
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Allies you control have Shadow Resistance . If an opposing ally would deal any type of damage, it deals shadow damage instead.
+cost: '4'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '4'
+rule:
+  - type: ability
+    text: Allies you control have Shadow Resistance . If an opposing ally would deal any type of damage, it deals shadow damage instead.
+
+regulation:
+
+errata: []
 
 temp: Armor

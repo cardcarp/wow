@@ -2,17 +2,15 @@ card_name: Kel_Thuzad
 
 layout: transform
 
-regulation:
-
 category: Hero
 
-errata: []
+cost: '10'
 
 damage: 3
 
 health: 33
 
-text: ", , , , or Hero Required When your hero becomes Kel'Thuzad, target an opponent. Gain control of an ally he controls. Search his zones for one ally each and put any number of them into play."
+combat: Frost
 
 class:
   - Warrior
@@ -21,10 +19,15 @@ class:
   - Mage
   - Warlock
 
-cost: '10'
+type: Master
 
-combat: Frost
+rule:
+  - type: ability
+    position: front
+    text: ", , , , or Hero Required When your hero becomes Kel'Thuzad, target an opponent. Gain control of an ally he controls. Search his zones for one ally each and put any number of them into play."
+
+regulation:
+
+errata: []
 
 temp: Lich
-
-type: Master

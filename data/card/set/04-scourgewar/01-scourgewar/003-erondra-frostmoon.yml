@@ -10,4 +10,5 @@ artist: Alex Horley Orlandelli
 
 flavor: '"Your screams for mercy will not save you, for Elune no longer guides my blade."'
 
-appearance: []
+variation:
+  - transform

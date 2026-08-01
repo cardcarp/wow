@@ -2,17 +2,19 @@ card_name: Stoneclaw Totem
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Ongoing : Opposing heroes and allies can attack only Stoneclaw Totem if able. When a hero or ally deals combat damage to Stoneclaw Totem, that character can't ready during its controller's next ready step. (Totems can be attacked or targeted like allies.)"
+cost: '3'
 
 class:
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: "Ongoing : Opposing heroes and allies can attack only Stoneclaw Totem if able. When a hero or ally deals combat damage to Stoneclaw Totem, that character can't ready during its controller's next ready step. (Totems can be attacked or targeted like allies.)"
+
+regulation:
+
+errata: []
 
 temp: Elemental 5

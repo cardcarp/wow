@@ -2,20 +2,22 @@ card_name: Emerald Captain
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 2
 
 health: 1
 
-text: When a resource you control is turned face down, this ally deals 1 nature damage to target hero.
-
-cost: '1'
-
 combat: Nature
+
+rule:
+  - type: ability
+    text: When a resource you control is turned face down, this ally deals 1 nature damage to target hero.
+
+regulation:
+
+errata: []
 
 temp: Green Dragonkin

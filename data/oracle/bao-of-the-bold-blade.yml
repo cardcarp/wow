@@ -2,8 +2,10 @@ card_name: Bao of the Bold Blade
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

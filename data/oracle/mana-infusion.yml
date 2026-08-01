@@ -2,12 +2,14 @@ card_name: Mana Infusion
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: Draw cards until you reach your maximum hand size.
 
-text: Draw cards until you reach your maximum hand size.
+regulation:
+
+errata: []
 
 temp: ''

@@ -2,16 +2,19 @@ card_name: Cerripha Sunstreak
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 25
 
-text: 1 , Flip Cerripha → Cerripha deals 3 fire damage to target hero.
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 1 , Flip Cerripha → Cerripha deals 3 fire damage to target hero.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Mage

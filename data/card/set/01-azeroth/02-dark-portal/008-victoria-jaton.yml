@@ -10,4 +10,5 @@ artist: Mauro Cascioli
 
 flavor: Since she was a small girl, Victoria was trained with all manner of weaponry.
 
-appearance: []
+variation:
+  - transform

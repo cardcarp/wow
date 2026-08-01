@@ -2,13 +2,9 @@ card_name: Lumbering Ogre Axe
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has Smash .
+cost: '2'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Death Knight
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero has Smash .
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Axe

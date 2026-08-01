@@ -2,19 +2,21 @@ card_name: Helm of Setesh
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'On your turn: 4 , → Put a 2 / 2 Void Seeker ally token into play. Token allies you control have Assault 1 .'
+cost: '3'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'On your turn: 4 , → Put a 2 / 2 Void Seeker ally token into play. Token allies you control have Assault 1 .'
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

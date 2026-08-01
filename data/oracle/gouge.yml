@@ -2,17 +2,19 @@ card_name: Gouge
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Exhaust target hero or ally. It can't ready during its controller's next ready step.
+cost: '1'
 
 class:
   - Rogue
 
-cost: '1'
+instant: Exhaust target hero or ally. It can't ready during its controller's next ready step.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Combat Combo

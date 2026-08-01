@@ -2,17 +2,19 @@ card_name: Unstable Infusion
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals arcane damage to target hero or ally equal to the cost of an equipment in that character's party.
+cost: '2'
 
 class:
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero deals arcane damage to target hero or ally equal to the cost of an equipment in that character's party.
+
+regulation:
+
+errata: []
 
 temp: Arcane

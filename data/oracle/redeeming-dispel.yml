@@ -2,17 +2,19 @@ card_name: Redeeming Dispel
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Choose one: Destroy target ability; or put target ally from your graveyard into your hand.'
+cost: '2'
 
 class:
   - Priest
 
-cost: '2'
+instant: 'Choose one: Destroy target ability; or put target ally from your graveyard into your hand.'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Discipline

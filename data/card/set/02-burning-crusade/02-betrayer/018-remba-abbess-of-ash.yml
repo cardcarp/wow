@@ -10,4 +10,5 @@ artist: Dan Scott
 
 flavor: Shadowforge
 
-appearance: []
+variation:
+  - transform

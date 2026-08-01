@@ -10,4 +10,5 @@ artist: Unknown
 
 flavor: ''
 
-appearance: []
+variation:
+  - transform

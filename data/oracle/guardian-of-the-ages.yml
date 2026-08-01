@@ -2,23 +2,25 @@ card_name: Guardian of the Ages
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '8'
 
 damage: 8
 
 health: 8
 
-text: Rift Protector
+combat: Holy
 
 class:
   - Paladin
 
-cost: '8'
+rule:
+  - type: ability
+    text: Rift Protector
 
-combat: Holy
+regulation:
+
+errata: []
 
 temp: Spirit Guardian

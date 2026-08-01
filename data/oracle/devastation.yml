@@ -2,17 +2,19 @@ card_name: Devastation
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destruction Hero Required As an additional cost to play, choose "ability," "ally," or "equipment" and destroy a card you control of that kind. Destroy all opposing cards of that kind.
+cost: '7'
 
 class:
   - Warlock
 
-cost: '7'
+rule:
+  - type: ability
+    text: Destruction Hero Required As an additional cost to play, choose "ability," "ally," or "equipment" and destroy a card you control of that kind. Destroy all opposing cards of that kind.
+
+regulation:
+
+errata: []
 
 temp: Destruction Talent

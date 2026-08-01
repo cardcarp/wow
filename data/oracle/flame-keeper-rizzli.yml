@@ -2,20 +2,22 @@ card_name: Flame Keeper Rizzli
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 25
 
-text: 5 → Flip Rizzli face down.
-
 faction: Horde
 
-temp: Goblin Mage
-
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: 5 → Flip Rizzli face down.
+  - type: ability
+    position: reverse
     text: At the start of your turn, Rizzli may deal fire damage to target hero or ally equal to the ATK of a ally you control.
+
+regulation:
+
+errata: []
+
+temp: Goblin Mage

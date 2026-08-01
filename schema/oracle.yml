@@ -6,41 +6,17 @@ layout:
   type: string
   required: true
 
-regulation:
-  type: string
-  required: true
-  nullable: true
-
 category:
   type: string
   required: true
   allowed: ['Ally', 'Hero', 'Master Hero', 'Ability', 'Equipment', 'Location', 'Event', 'Quest', 'Achievement', 'Token', 'Craft', 'Dungeon', 'Badge', 'Misc']
   nullable: true
 
-text:
+cost:
   type: string
   required: false
-  nullable: true
-
-# ability:
-#   type: list
-#   required: false
-#   schema:
-#     type: string
-
-errata:
-  type: list
-  required: false
-  nullable: true
-  schema:
-    type: dict
-    schema:
-      date:
-        type: string
-        required: false
-      text:
-        type: string
-        required: false
+  min: 0 
+  coerce: str
 
 damage:
   type: integer
@@ -53,12 +29,6 @@ health:
   required: false
   min: 0
   coerce: int
-
-cost:
-  type: string
-  required: false
-  min: 0 
-  coerce: str
 
 combat:
   type: string
@@ -86,13 +56,35 @@ stage:
   type: integer
   required: false
 
-transform:
+rule:
   type: list
   required: false
   schema:
     type: dict
     schema:
-      id:
+      type:
+        type: string
+        required: false
+      position:
+        type: string
+        required: false
+      text:
+        type: string
+        required: false
+
+regulation:
+  type: string
+  required: true
+  nullable: true
+
+errata:
+  type: list
+  required: false
+  nullable: true
+  schema:
+    type: dict
+    schema:
+      date:
         type: string
         required: false
       text:

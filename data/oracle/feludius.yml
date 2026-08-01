@@ -2,20 +2,22 @@ card_name: Feludius
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 7
 
 health: 4
 
-text: 'When this or another card you control is destroyed, you may look at the top card of your deck. If you do, you may put it into your graveyard. allies you own everywhere have " Stash : Put a 2 / 1 Water Elemental ally token into play."'
-
-cost: '6'
-
 combat: Frost
+
+rule:
+  - type: ability
+    text: 'When this or another card you control is destroyed, you may look at the top card of your deck. If you do, you may put it into your graveyard. allies you own everywhere have " Stash : Put a 2 / 1 Water Elemental ally token into play."'
+
+regulation:
+
+errata: []
 
 temp: Water Elemental Ascendant

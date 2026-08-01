@@ -2,17 +2,19 @@ card_name: Dirty Work
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : If your hero would deal non-combat damage, it deals combat damage instead.'
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : If your hero would deal non-combat damage, it deals combat damage instead.'
+
+regulation:
+
+errata: []
 
 temp: Combat

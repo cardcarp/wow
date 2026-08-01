@@ -2,12 +2,14 @@ card_name: Uldum
 
 layout: standard
 
-regulation:
-
 category: Location
 
-errata: []
+rule:
+  - type: ability
+    text: '2 , → Choose one: Target weapon has +3 ATK this turn; or target armor has +3 this turn.'
 
-text: '2 , → Choose one: Target weapon has +3 ATK this turn; or target armor has +3 this turn.'
+regulation:
+
+errata: []
 
 temp: ''

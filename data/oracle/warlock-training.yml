@@ -2,17 +2,19 @@ card_name: Warlock Training
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target friendly ally. Ongoing : When attached ally attacks, you may put target opposing ally into its owner's hand."
+cost: '1'
 
 class:
   - Warlock
 
-cost: '1'
+rule:
+  - type: ability
+    text: "Attach to target friendly ally. Ongoing : When attached ally attacks, you may put target opposing ally into its owner's hand."
+
+regulation:
+
+errata: []
 
 temp: Affliction

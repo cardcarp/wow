@@ -2,8 +2,10 @@ card_name: Morakki, Captain of the Watch
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

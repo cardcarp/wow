@@ -2,12 +2,14 @@ card_name: Pantsing
 
 layout: standard
 
-regulation:
-
 category: Achievement
 
-errata: []
+rule:
+  - type: ability
+    text: Destroy Godfrey's Britches or Godfrey's Belt.
 
-text: Destroy Godfrey's Britches or Godfrey's Belt.
+regulation:
+
+errata: []
 
 temp: ''

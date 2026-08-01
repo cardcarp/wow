@@ -2,22 +2,24 @@ card_name: Mardun Valorhearth
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 4
 
 health: 4
 
-text: Mend 4
-
-cost: '5'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Mend 4
+
+regulation:
+
+errata: []
 
 temp: Dwarf Paladin

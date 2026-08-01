@@ -2,12 +2,14 @@ card_name: Brother Against Brother
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'While you control three or more abilities, pay 1 to complete this quest. Reward : Draw a card.'
 
-text: 'While you control three or more abilities, pay 1 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

@@ -2,17 +2,19 @@ card_name: Fear
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put target opposing ally into its owner's hand.
+cost: '1'
 
 class:
   - Warlock
 
-cost: '1'
+rule:
+  - type: ability
+    text: Put target opposing ally into its owner's hand.
+
+regulation:
+
+errata: []
 
 temp: Affliction

@@ -2,17 +2,19 @@ card_name: Executioners Mark
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally. Ongoing : When attached ally is dealt damage, destroy it.'
+cost: '1'
 
 class:
   - Warrior
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Attach to target ally. Ongoing : When attached ally is dealt damage, destroy it.'
+
+regulation:
+
+errata: []
 
 temp: Fury

@@ -2,17 +2,19 @@ card_name: Path of Frost
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put target ally from your graveyard on top of your deck.
+cost: '0'
 
 class:
   - Death Knight
 
-cost: '0'
+rule:
+  - type: ability
+    text: Put target ally from your graveyard on top of your deck.
+
+regulation:
+
+errata: []
 
 temp: Frost

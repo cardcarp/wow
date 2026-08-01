@@ -2,17 +2,19 @@ card_name: Wavestorm Totem
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Ongoing : When an opposing ability, ally, or equipment readies, put it into its owner's hand. (Totems can be attacked or targeted like allies.)"
+cost: '2'
 
 class:
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: "Ongoing : When an opposing ability, ally, or equipment readies, put it into its owner's hand. (Totems can be attacked or targeted like allies.)"
+
+regulation:
+
+errata: []
 
 temp: Restoration 1

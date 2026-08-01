@@ -2,17 +2,19 @@ card_name: Water Breathing
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : You may complete quest cards from your hand. As you do, remove them from the game as an additional cost.'
+cost: '2'
 
 class:
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : You may complete quest cards from your hand. As you do, remove them from the game as an additional cost.'
+
+regulation:
+
+errata: []
 
 temp: Enhancement

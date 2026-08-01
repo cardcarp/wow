@@ -2,17 +2,19 @@ card_name: Hateful Strike
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Traitor Hero Required If target player has exactly one ally in his party, destroy it.
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+instant: Traitor Hero Required If target player has exactly one ally in his party, destroy it.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Combo Traitor

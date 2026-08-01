@@ -10,4 +10,5 @@ artist: Zoltan Boros & Gabor Szikszai
 
 flavor: '"The elements are in turmoil. It is up to those of us who can hear their whispers to guide those who cannot."'
 
-appearance: []
+variation:
+  - transform

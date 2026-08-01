@@ -10,4 +10,5 @@ artist: Jesper Ejsing
 
 flavor: '"May Cenarius bless all those who defend Azeroth from the corruption of the Lich King."'
 
-appearance: []
+variation:
+  - transform

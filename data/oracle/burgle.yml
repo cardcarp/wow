@@ -2,17 +2,19 @@ card_name: Burgle
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Target any number of opposing abilities, allies, and equipment. You control them until the end of your turn.
+cost: '7'
 
 class:
   - Rogue
 
-cost: '7'
+instant: Target any number of opposing abilities, allies, and equipment. You control them until the end of your turn.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Subtlety Combo

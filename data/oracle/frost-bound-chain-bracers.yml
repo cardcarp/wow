@@ -2,18 +2,20 @@ card_name: Frost-bound Chain Bracers
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'When you strike with a weapon, your hero may deal 1 frost damage to target hero or ally. Death Rattle : You pay 2 less to strike with weapons this turn.'
+cost: '2'
 
 class:
   - Hunter
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'When you strike with a weapon, your hero may deal 1 frost damage to target hero or ally. Death Rattle : You pay 2 less to strike with weapons this turn.'
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

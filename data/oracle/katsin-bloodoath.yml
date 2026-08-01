@@ -2,22 +2,24 @@ card_name: Katsin Bloodoath
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 5
 
 health: 3
 
-text: Protector 3 → Prevent all combat damage that would be dealt to and dealt by target friendly ally this turn.
-
-cost: '4'
-
 combat: Holy
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector 3 → Prevent all combat damage that would be dealt to and dealt by target friendly ally this turn.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Paladin

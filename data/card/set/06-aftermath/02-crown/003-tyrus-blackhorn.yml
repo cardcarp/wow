@@ -10,4 +10,5 @@ artist: Wayne Reynolds
 
 flavor: '"Your heroism in the Inferno has made my escape possible. As a reward, I will allow you to live, but your time will come soon enough ..."'
 
-appearance: []
+variation:
+  - transform

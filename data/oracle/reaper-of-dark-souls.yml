@@ -2,13 +2,9 @@ card_name: Reaper of Dark Souls
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: This weapon enters play with X +1 ATK counters.
+cost: X
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Death Knight
   - Rogue
 
-cost: X
+rule:
+  - type: ability
+    text: This weapon enters play with X +1 ATK counters.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

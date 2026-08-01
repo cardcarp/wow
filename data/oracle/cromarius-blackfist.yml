@@ -2,22 +2,24 @@ card_name: Cromarius Blackfist
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 3
 
-text: When Cromarius enters play, destroy target opposing ability if its controller has more abilities than you.
-
-cost: '3'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When Cromarius enters play, destroy target opposing ability if its controller has more abilities than you.
+
+regulation:
+
+errata: []
 
 temp: Orc Shaman

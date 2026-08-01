@@ -2,19 +2,21 @@ card_name: Manaspark Gloves
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the start of your turn, if a player has fewer cards in hand than each other player, he draws a card.
+cost: '3'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: At the start of your turn, if a player has fewer cards in hand than each other player, he draws a card.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

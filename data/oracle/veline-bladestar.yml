@@ -2,22 +2,24 @@ card_name: Veline Bladestar
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 0
 
 health: 6
 
-text: Protector
-
-cost: '2'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Warrior

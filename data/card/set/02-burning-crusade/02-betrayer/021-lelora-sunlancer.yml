@@ -10,4 +10,5 @@ artist: Jonboy Meyers
 
 flavor: '"Do you seek to test my mastery of the Light?"'
 
-appearance: []
+variation:
+  - transform

@@ -2,17 +2,19 @@ card_name: Ancestral Recovery
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put up to two target allies from your graveyard into your hand.
+cost: '3'
 
 class:
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: Put up to two target allies from your graveyard into your hand.
+
+regulation:
+
+errata: []
 
 temp: Restoration

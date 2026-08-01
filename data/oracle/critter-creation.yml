@@ -2,12 +2,14 @@ card_name: Critter Creation
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: 'Ongoing : All face-down resources are also Critter allies with 1 ATK / 1 health, Elusive , and Untargetable .'
 
-text: 'Ongoing : All face-down resources are also Critter allies with 1 ATK / 1 health, Elusive , and Untargetable .'
+regulation:
+
+errata: []
 
 temp: ''

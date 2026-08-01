@@ -2,8 +2,10 @@ card_name: Our Vigilance Is Eternal...
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

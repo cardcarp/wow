@@ -2,12 +2,14 @@ card_name: Furious Anger
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: "Ongoing : Each ally's name becomes Julius. It loses and can't have keywords, and it has +1 ATK for each keyword it loses this way."
 
-text: "Ongoing : Each ally's name becomes Julius. It loses and can't have keywords, and it has +1 ATK for each keyword it loses this way."
+regulation:
+
+errata: []
 
 temp: ''

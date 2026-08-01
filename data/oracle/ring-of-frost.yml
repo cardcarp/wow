@@ -2,17 +2,19 @@ card_name: Ring of Frost
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 2 frost damage to each ready opposing ally.
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: Your hero deals 2 frost damage to each ready opposing ally.
+
+regulation:
+
+errata: []
 
 temp: Frost

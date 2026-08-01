@@ -2,17 +2,19 @@ card_name: Wild Swipes
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Your hero has Assault 2 while you control a form.'
+cost: '2'
 
 class:
   - Druid
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : Your hero has Assault 2 while you control a form.'
+
+regulation:
+
+errata: []
 
 temp: Feral

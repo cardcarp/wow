@@ -2,22 +2,24 @@ card_name: Arcane Protector
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 5
 
 health: 4
 
-text: Monster Hero Required Protector
-
-cost: '4'
-
 combat: Arcane
 
-temp: Mechanical
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Monster Hero Required Protector
+
+regulation:
+
+errata: []
+
+temp: Mechanical

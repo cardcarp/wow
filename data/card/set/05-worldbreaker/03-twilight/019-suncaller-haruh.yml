@@ -10,4 +10,5 @@ artist: Chris Rahn
 
 flavor: '"Have the lava pools of Deepholm tempered the scales of Deathwing to withstand the searing light of the sun?"'
 
-appearance: []
+variation:
+  - transform

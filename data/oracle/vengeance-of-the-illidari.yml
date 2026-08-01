@@ -2,13 +2,9 @@ card_name: Vengeance of the Illidari
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you play an ability, ready your hero.
+cost: '5'
 
 class:
   - Priest
@@ -18,6 +14,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: When you play an ability, ready your hero.
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

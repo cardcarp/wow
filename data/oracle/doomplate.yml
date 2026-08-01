@@ -2,8 +2,10 @@ card_name: Doomplate
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

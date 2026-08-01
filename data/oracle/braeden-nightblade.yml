@@ -2,22 +2,24 @@ card_name: Braeden Nightblade
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 4
 
-text: Protector Shadowmeld
-
-cost: '5'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Shadowmeld
+
+regulation:
+
+errata: []
 
 temp: Night Elf Warrior

@@ -10,4 +10,5 @@ artist: Brandon Kitkouski
 
 flavor: '"We all begin in darkness - some of us just never leave it."'
 
-appearance: []
+variation:
+  - transform

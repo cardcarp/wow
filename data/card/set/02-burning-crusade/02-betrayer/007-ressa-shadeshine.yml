@@ -10,4 +10,5 @@ artist: Matt Cavotta
 
 flavor: '"Well, fancy stunning into you here, of all places."'
 
-appearance: []
+variation:
+  - transform

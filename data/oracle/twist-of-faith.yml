@@ -2,17 +2,19 @@ card_name: Twist of Faith
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally. Ongoing : You control attached ally.'
+cost: '5'
 
 class:
   - Priest
 
-cost: '5'
+rule:
+  - type: ability
+    text: 'Attach to target ally. Ongoing : You control attached ally.'
+
+regulation:
+
+errata: []
 
 temp: Shadow

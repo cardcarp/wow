@@ -2,17 +2,19 @@ card_name: Freeze
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target opposing ally or weapon. Ongoing : Attached card can't attack or exhaust. Death Rattle : Target opposing ally or weapon can't attack or exhaust this turn."
+cost: '2'
 
 class:
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: "Attach to target opposing ally or weapon. Ongoing : Attached card can't attack or exhaust. Death Rattle : Target opposing ally or weapon can't attack or exhaust this turn."
+
+regulation:
+
+errata: []
 
 temp: Frost

@@ -2,17 +2,19 @@ card_name: Grievous Wounds
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Double the damage on each opposing ally.
+cost: '3'
 
 class:
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: Double the damage on each opposing ally.
+
+regulation:
+
+errata: []
 
 temp: Fury

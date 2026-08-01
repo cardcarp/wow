@@ -2,22 +2,24 @@ card_name: Tormentor Emek
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 3
 
-text: 'On your turn: 3 , Discard a card → Target player discards a card.'
-
-cost: '3'
-
 combat: Shadow
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: 'On your turn: 3 , Discard a card → Target player discards a card.'
+
+regulation:
+
+errata: []
 
 temp: Undead Priest

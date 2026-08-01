@@ -2,8 +2,10 @@ card_name: Niuzao, the Black Ox
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

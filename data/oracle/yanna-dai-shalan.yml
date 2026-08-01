@@ -2,16 +2,19 @@ card_name: Yanna Daishalan
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 27
 
-text: 3 , Flip Yanna Dai'shalan → Yanna deals 1 nature damage to target ally for each ally in your party. Use only on your turn.
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Yanna Dai'shalan → Yanna deals 1 nature damage to target ally for each ally in your party. Use only on your turn.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Druid

@@ -10,4 +10,5 @@ artist: Zoltan Boros & Gabor Szikszai
 
 flavor: '"The Earth Mother smiles upon us on this day."'
 
-appearance: []
+variation:
+  - transform

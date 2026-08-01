@@ -2,20 +2,22 @@ card_name: Searing Scorchling
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 1
 
-text: Ferocity When this ally is destroyed, it may deal 2 fire damage to target hero.
-
-cost: '3'
-
 combat: Fire
+
+rule:
+  - type: ability
+    text: Ferocity When this ally is destroyed, it may deal 2 fire damage to target hero.
+
+regulation:
+
+errata: []
 
 temp: Fire Elemental

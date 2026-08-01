@@ -2,24 +2,26 @@ card_name: Gladiator Boum
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 2
 
-text: Arena allies in your party have Ferocity .
-
-cost: '6'
-
 combat: Ranged
 
 faction: Horde
 
-temp: Orc Hunter
-
 type: Arena
+
+rule:
+  - type: ability
+    text: Arena allies in your party have Ferocity .
+
+regulation:
+
+errata: []
+
+temp: Orc Hunter

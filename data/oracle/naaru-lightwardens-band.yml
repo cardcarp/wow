@@ -2,13 +2,9 @@ card_name: Naaru Lightwardens Band
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Friendly heroes have +5 health.
+cost: '4'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: Friendly heroes have +5 health.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

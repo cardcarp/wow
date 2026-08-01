@@ -2,17 +2,19 @@ card_name: Holy Vengeance
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : When an ally you control is destroyed, you may pay 1 . If you do, your hero deals 2 unpreventable holy damage to target hero.'
+cost: '2'
 
 class:
   - Paladin
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : When an ally you control is destroyed, you may pay 1 . If you do, your hero deals 2 unpreventable holy damage to target hero.'
+
+regulation:
+
+errata: []
 
 temp: Retribution

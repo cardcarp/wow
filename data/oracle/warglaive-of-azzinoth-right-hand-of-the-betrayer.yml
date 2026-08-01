@@ -2,18 +2,20 @@ card_name: Warglaive of Azzinoth, Right Hand of the Betrayer
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you strike with Warglaive of Azzinoth, ready another one of your Warglaives. When Warglaive of Azzinoth leaves play, put a Demon ally token named Flame of Azzinoth into play with 3 ATK / 3 health and Protector .
+cost: '5'
 
 class:
   - Warrior
   - Rogue
 
-cost: '5'
+rule:
+  - type: ability
+    text: When you strike with Warglaive of Azzinoth, ready another one of your Warglaives. When Warglaive of Azzinoth leaves play, put a Demon ally token named Flame of Azzinoth into play with 3 ATK / 3 health and Protector .
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Warglaive Sword

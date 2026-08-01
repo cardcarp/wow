@@ -2,22 +2,24 @@ card_name: Aldana
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 3
 
-text: Your weapons have +2 ATK while your hero is defending.
-
-cost: '2'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Your weapons have +2 ATK while your hero is defending.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Warrior

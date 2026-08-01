@@ -2,22 +2,24 @@ card_name: Cymbre Shadowdrifter
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 2
 
-text: Shadowmeld
-
-cost: '2'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Shadowmeld
+
+regulation:
+
+errata: []
 
 temp: Night Elf Druid

@@ -2,22 +2,24 @@ card_name: Toraan, Eye of O_ros
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 1
 
-text: When this ally deals combat damage to an opposing hero, you pay 1 less to play your next card this turn for each damage dealt.
-
-cost: '2'
-
 combat: Ranged
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally deals combat damage to an opposing hero, you pay 1 less to play your next card this turn for each damage dealt.
+
+regulation:
+
+errata: []
 
 temp: Draenei Hunter

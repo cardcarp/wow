@@ -2,13 +2,9 @@ card_name: Grim Campfire
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When an opposing ally is destroyed, add a fuel counter to this equipment. At the end of your turn, your hero may heal 1 damage from each friendly hero and ally for each fuel counter.
+cost: '3'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: When an opposing ally is destroyed, add a fuel counter to this equipment. At the end of your turn, your hero may heal 1 damage from each friendly hero and ally for each fuel counter.
+
+regulation:
+
+errata: []
 
 temp: Item

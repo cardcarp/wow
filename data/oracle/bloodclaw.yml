@@ -2,21 +2,23 @@ card_name: Bloodclaw
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 3
 
 health: 1
 
+combat: Melee
+
 class:
   - Hunter
 
-cost: '1'
+rule: []
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Raptor

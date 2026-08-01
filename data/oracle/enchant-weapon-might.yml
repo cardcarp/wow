@@ -2,8 +2,10 @@ card_name: Enchant Weapon Might
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

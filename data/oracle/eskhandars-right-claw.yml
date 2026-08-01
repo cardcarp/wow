@@ -2,13 +2,9 @@ card_name: Eskhandars Right Claw
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: You may remove an equipment card in your hand from the game rather than pay Eskhandar's Right Claw's cost.
+cost: '3'
 
 class:
   - Warrior
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: You may remove an equipment card in your hand from the game rather than pay Eskhandar's Right Claw's cost.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Fist

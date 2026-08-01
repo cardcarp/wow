@@ -2,17 +2,19 @@ card_name: Defensive Stance
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Your hero has Protector . If your hero would deal damage, prevent 1 of that damage. If your hero would be dealt damage, prevent 1 of that damage.'
+cost: '3'
 
 class:
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : Your hero has Protector . If your hero would deal damage, prevent 1 of that damage. If your hero would be dealt damage, prevent 1 of that damage.'
+
+regulation:
+
+errata: []
 
 temp: Protection

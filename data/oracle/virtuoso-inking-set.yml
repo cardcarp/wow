@@ -2,8 +2,10 @@ card_name: Virtuoso Inking Set
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

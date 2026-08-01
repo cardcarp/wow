@@ -2,20 +2,22 @@ card_name: Emerald Soldier
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 3
 
-text: When a resource you control is turned face down, this ally heals 2 damage from target hero or ally.
-
-cost: '2'
-
 combat: Nature
+
+rule:
+  - type: ability
+    text: When a resource you control is turned face down, this ally heals 2 damage from target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Green Dragonkin

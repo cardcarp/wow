@@ -2,22 +2,24 @@ card_name: Spawn of Shadikith
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 2
 
 health: 5
 
-text: 4 → Exhaust all opposing heroes and allies.
-
-cost: '4'
-
 combat: Nature
 
-temp: Bat Beast
-
 type: Monster
+
+rule:
+  - type: ability
+    text: 4 → Exhaust all opposing heroes and allies.
+
+regulation:
+
+errata: []
+
+temp: Bat Beast

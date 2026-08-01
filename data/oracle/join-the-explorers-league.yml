@@ -2,12 +2,14 @@ card_name: _Join the Explorers_ League!_
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: You can place any number of locations and quests this turn.
 
-text: You can place any number of locations and quests this turn.
+regulation:
+
+errata: []
 
 temp: ''

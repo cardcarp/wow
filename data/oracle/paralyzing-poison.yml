@@ -2,8 +2,10 @@ card_name: Paralyzing Poison
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

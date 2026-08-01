@@ -2,12 +2,14 @@ card_name: Darkness Calling
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : Draw two cards, then discard a card.'
 
-text: 'Pay 3 to complete this quest. Reward : Draw two cards, then discard a card.'
+regulation:
+
+errata: []
 
 temp: ''

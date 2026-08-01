@@ -2,22 +2,24 @@ card_name: Logor Blackfist
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 3
 
 health: 5
 
-text: When Logor enters play, target opponent discards two cards if he has more cards in hand than you.
-
-cost: '6'
-
 combat: Shadow
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When Logor enters play, target opponent discards two cards if he has more cards in hand than you.
+
+regulation:
+
+errata: []
 
 temp: Orc Warlock

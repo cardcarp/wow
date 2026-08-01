@@ -2,17 +2,19 @@ card_name: Favor of the Light
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, your hero heals 5 damage from target hero or ally.'
+cost: '1'
 
 class:
   - Paladin
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, your hero heals 5 damage from target hero or ally.'
+
+regulation:
+
+errata: []
 
 temp: Holy Blessing

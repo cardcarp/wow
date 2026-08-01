@@ -2,13 +2,9 @@ card_name: Argent Crusader
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the start of your turn, you and target opponent each draw a card.
+cost: '3'
 
 class:
   - Priest
@@ -17,6 +13,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: At the start of your turn, you and target opponent each draw a card.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

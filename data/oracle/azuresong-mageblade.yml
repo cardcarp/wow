@@ -2,19 +2,21 @@ card_name: Azuresong Mageblade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you draw a card, put a verse counter on Azuresong Mageblade. 1 , Remove three verse counters → Draw a card.
+cost: '4'
 
 class:
   - Paladin
   - Warlock
   - Mage
 
-cost: '4'
+rule:
+  - type: ability
+    text: When you draw a card, put a verse counter on Azuresong Mageblade. 1 , Remove three verse counters → Draw a card.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

@@ -10,4 +10,5 @@ artist: Boros-Szikszai
 
 flavor: "\"Whoever said you can't have too many weapons is a genius. Oh wait - that was me.\""
 
-appearance: []
+variation:
+  - transform

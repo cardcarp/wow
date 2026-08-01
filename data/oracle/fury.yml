@@ -2,23 +2,25 @@ card_name: Fury
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 3
 
-text: Ferocity
+combat: Melee
 
 class:
   - Hunter
 
-cost: '5'
+rule:
+  - type: ability
+    text: Ferocity
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Cat

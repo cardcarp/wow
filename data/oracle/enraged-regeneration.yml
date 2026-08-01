@@ -2,17 +2,19 @@ card_name: Enraged Regeneration
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : When your hero deals combat damage with a weapon while attacking, it heals 3 damage from itself.'
+cost: '2'
 
 class:
   - Warrior
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : When your hero deals combat damage with a weapon while attacking, it heals 3 damage from itself.'
+
+regulation:
+
+errata: []
 
 temp: Fury

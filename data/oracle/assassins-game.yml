@@ -2,17 +2,19 @@ card_name: Assassins Game
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Your hero has Assault 1 for each opposing exhausted hero, ally, and equipment.'
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : Your hero has Assault 1 for each opposing exhausted hero, ally, and equipment.'
+
+regulation:
+
+errata: []
 
 temp: Combat

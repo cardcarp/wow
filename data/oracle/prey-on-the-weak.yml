@@ -2,17 +2,19 @@ card_name: Prey on the Weak
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Destroy target ally with cost 4 or less.
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+instant: Destroy target ally with cost 4 or less.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Assassination

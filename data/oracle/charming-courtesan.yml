@@ -2,20 +2,22 @@ card_name: Charming Courtesan
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 2
 
-text: Traitor Hero Required If Charming Courtesan would be dealt 2 or less damage, prevent it.
-
-cost: '4'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Traitor Hero Required If Charming Courtesan would be dealt 2 or less damage, prevent it.
+
+regulation:
+
+errata: []
 
 temp: Human Traitor

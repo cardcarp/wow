@@ -2,19 +2,21 @@ card_name: Vengeful Gladiators Piercing Touch
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 , Remove an ability card in your graveyard from the game → Vengeful Gladiator's Piercing Touch has +1 ATK this turn.
+cost: '2'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: 1 , Remove an ability card in your graveyard from the game → Vengeful Gladiator's Piercing Touch has +1 ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: Ranged Arena Weapon Wand

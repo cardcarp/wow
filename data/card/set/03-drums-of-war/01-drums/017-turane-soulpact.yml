@@ -10,4 +10,5 @@ artist: Wayne Reynolds
 
 flavor: '"Sacrifice is a small price to pay for victory. Especially when someone else pays."'
 
-appearance: []
+variation:
+  - transform

@@ -2,17 +2,19 @@ card_name: Feral Spirit
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Enhancement Hero Required Put two 4 / 4 Spirit Wolf ally tokens into play with Protector .
+cost: '4'
 
 class:
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: Enhancement Hero Required Put two 4 / 4 Spirit Wolf ally tokens into play with Protector .
+
+regulation:
+
+errata: []
 
 temp: Enhancement Talent

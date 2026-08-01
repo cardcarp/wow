@@ -2,17 +2,19 @@ card_name: Word of Glory
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Your hero has Protector and Mend 1 .'
+cost: '3'
 
 class:
   - Paladin
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : Your hero has Protector and Mend 1 .'
+
+regulation:
+
+errata: []
 
 temp: Holy

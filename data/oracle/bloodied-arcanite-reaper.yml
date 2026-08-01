@@ -2,19 +2,21 @@ card_name: Bloodied Arcanite Reaper
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'This equipment has +3 ATK for each heirloom counter on it. Stash : Add an heirloom counter to target equipment you control.'
+cost: '5'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '5'
+rule:
+  - type: ability
+    text: 'This equipment has +3 ATK for each heirloom counter on it. Stash : Add an heirloom counter to target equipment you control.'
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Axe

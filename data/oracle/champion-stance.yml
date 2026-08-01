@@ -2,17 +2,19 @@ card_name: Champion Stance
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : If your hero would deal damage, it deals that much +1 instead. If your hero would be dealt damage, prevent 1 of it.'
+cost: '5'
 
 class:
   - Warrior
 
-cost: '5'
+rule:
+  - type: ability
+    text: 'Ongoing : If your hero would deal damage, it deals that much +1 instead. If your hero would be dealt damage, prevent 1 of it.'
+
+regulation:
+
+errata: []
 
 temp: Arms

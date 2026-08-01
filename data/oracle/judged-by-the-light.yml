@@ -2,12 +2,14 @@ card_name: Judged by the Light
 
 layout: standard
 
-regulation:
-
 category: Achievement
 
-errata: []
+rule:
+  - type: ability
+    text: Deal fatal damage to Thalanos with holy ( ) damage.
 
-text: Deal fatal damage to Thalanos with holy ( ) damage.
+regulation:
+
+errata: []
 
 temp: ''

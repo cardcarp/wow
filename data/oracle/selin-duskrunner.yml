@@ -2,22 +2,24 @@ card_name: Selin Duskrunner
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: When you play an ability, Selin deals 1 shadow damage to target hero or ally.
-
-cost: '2'
-
 combat: Shadow
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When you play an ability, Selin deals 1 shadow damage to target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Warlock

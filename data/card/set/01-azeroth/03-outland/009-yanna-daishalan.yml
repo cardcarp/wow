@@ -10,4 +10,5 @@ artist: Greg Staples
 
 flavor: '"Nature has many allies. You shall not prevail against all of them."'
 
-appearance: []
+variation:
+  - transform

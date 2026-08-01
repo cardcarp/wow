@@ -2,20 +2,22 @@ card_name: Blackened Spear
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '4'
 
-text: Blackened Spear has +1 ATK if an ally with Arcane Torrent is in your party. This is also true for Berserking , Hardiness , War Stomp , and Will of the Forsaken .
+faction: Horde
 
 class:
   - Paladin
   - Warrior
 
-cost: '4'
+rule:
+  - type: ability
+    text: Blackened Spear has +1 ATK if an ally with Arcane Torrent is in your party. This is also true for Berserking , Hardiness , War Stomp , and Will of the Forsaken .
 
-faction: Horde
+regulation:
+
+errata: []
 
 temp: 2H Weapon Polearm

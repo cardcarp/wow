@@ -2,25 +2,27 @@ card_name: Scorching Totem
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '3'
 
 damage: 0
 
 health: 5
 
-instant: "Ongoing : At the start of your turn, your hero deals 1 fire damage to target opposing hero for each ally you control. (Totems can't attack.)"
+combat: Fire
 
 class:
   - Shaman
 
-cost: '3'
-
-combat: Fire
-
-temp: Elemental
+instant: "Ongoing : At the start of your turn, your hero deals 1 fire damage to target opposing hero for each ally you control. (Totems can't attack.)"
 
 type: Ally
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental

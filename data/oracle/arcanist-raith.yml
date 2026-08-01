@@ -2,20 +2,22 @@ card_name: Arcanist Raith
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 4
 
-text: Scryer Reputation Opponents play with the top card of their decks revealed.
-
-cost: '5'
-
 combat: Fire
+
+rule:
+  - type: ability
+    text: Scryer Reputation Opponents play with the top card of their decks revealed.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Mage

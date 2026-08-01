@@ -2,14 +2,16 @@ card_name: Devourer of Time
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Each Raider puts an ability, ally, and equipment he controls into their owner's hands. If Aeonus is the Caverns hero, each raider puts all abilities, allies, and equipment he controls into their owner's hands.
+
+regulation:
 
 errata: []
 
-text: Each Raider puts an ability, ally, and equipment he controls into their owner's hands. If Aeonus is the Caverns hero, each raider puts all abilities, allies, and equipment he controls into their owner's hands.
-
 temp: Aeonus
-
-type: Boss

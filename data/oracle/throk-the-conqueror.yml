@@ -2,22 +2,24 @@ card_name: Throk the Conqueror
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 6
 
 health: 6
 
-text: This ally can't attack unless you control another ally with 6 or more ATK.
-
-cost: '5'
-
 combat: Melee
 
-temp: Ogre Lord Warrior
-
 type: Monster
+
+rule:
+  - type: ability
+    text: This ally can't attack unless you control another ally with 6 or more ATK.
+
+regulation:
+
+errata: []
+
+temp: Ogre Lord Warrior

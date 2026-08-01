@@ -2,22 +2,24 @@ card_name: Christopher the Devout
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 3
 
-instant: Protector 1 , Destroy Christopher → Target hero or ally has Protector this turn.
-
-cost: '3'
-
 combat: Melee
 
 faction: Alliance
+
+instant: Protector 1 , Destroy Christopher → Target hero or ally has Protector this turn.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Human Warrior

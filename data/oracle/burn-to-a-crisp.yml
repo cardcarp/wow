@@ -2,14 +2,16 @@ card_name: Burn to a Crisp
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Onyxia deals 1 fire damage to target opposing ally for each resource you have.
+
+regulation:
 
 errata: []
 
-text: Onyxia deals 1 fire damage to target opposing ally for each resource you have.
-
 temp: ''
-
-type: Raid

@@ -2,13 +2,9 @@ card_name: Dog Whistle
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'When this item enters play, put a 2 / 2 Hound ally token into play with Protector . On your turn: 4 , → Put a 2 / 2 Hound ally token into play with Protector .'
+cost: '4'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'When this item enters play, put a 2 / 2 Hound ally token into play with Protector . On your turn: 4 , → Put a 2 / 2 Hound ally token into play with Protector .'
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

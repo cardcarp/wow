@@ -2,12 +2,14 @@ card_name: Falling to Corruption
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Destroy two of your resources and pay 1 to complete this quest. Reward : Draw two cards.'
 
-text: 'Destroy two of your resources and pay 1 to complete this quest. Reward : Draw two cards.'
+regulation:
+
+errata: []
 
 temp: ''

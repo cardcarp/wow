@@ -2,12 +2,14 @@ card_name: Shutting Down Manaforge Ara
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'If an equipment was destroyed this turn, pay 1 to complete this quest. Reward : Draw a card.'
 
-text: 'If an equipment was destroyed this turn, pay 1 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

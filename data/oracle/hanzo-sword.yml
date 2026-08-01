@@ -2,8 +2,10 @@ card_name: Hanzo Sword
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

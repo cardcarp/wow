@@ -2,8 +2,10 @@ card_name: Waterspeaker Menshu
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

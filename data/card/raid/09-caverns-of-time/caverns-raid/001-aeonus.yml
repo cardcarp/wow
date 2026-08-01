@@ -10,4 +10,5 @@ artist: Kerem Beyit
 
 flavor: '"Let us see what fate has in store ..."'
 
-appearance: []
+variation:
+  - transform

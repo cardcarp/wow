@@ -10,4 +10,5 @@ artist: James Zhang (Concept Art House)
 
 flavor: "\"Da forces of nature, dey be itchin' to stand up and fight, mon.\""
 
-appearance: []
+variation:
+  - transform

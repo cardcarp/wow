@@ -2,20 +2,22 @@ card_name: Razorclaw the Butcher
 
 layout: standard
 
-regulation:
-
 category: Ally
-
-errata: []
 
 damage: 10
 
 health: 3
 
-text: Ferocity , Stealth
-
 combat: Melee
 
-temp: Worgen Spirit
-
 type: Dungeon
+
+rule:
+  - type: ability
+    text: Ferocity , Stealth
+
+regulation:
+
+errata: []
+
+temp: Worgen Spirit

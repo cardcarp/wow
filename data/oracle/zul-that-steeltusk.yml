@@ -2,22 +2,24 @@ card_name: Zul_that Steeltusk
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 5
 
-text: Damage that allies in your party would deal is unpreventable.
-
-cost: '5'
-
 combat: Holy
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Damage that allies in your party would deal is unpreventable.
+
+regulation:
+
+errata: []
 
 temp: Troll Priest

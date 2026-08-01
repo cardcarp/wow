@@ -10,4 +10,5 @@ artist: James Wong
 
 flavor: '"Light, lend me strength to bring peace to this shattered land."'
 
-appearance: []
+variation:
+  - transform

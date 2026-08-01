@@ -2,20 +2,22 @@ card_name: Zinsul
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 2 → Flip Zin'sul
-
 faction: Horde
 
-temp: Troll Death Knight
-
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: 2 → Flip Zin'sul
+  - type: ability
+    position: reverse
     text: You pay 1 less to strike with weapons.
+
+regulation:
+
+errata: []
+
+temp: Troll Death Knight

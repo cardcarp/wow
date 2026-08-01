@@ -2,18 +2,20 @@ card_name: Protective Barricade of the Light
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'Hero : This armor has +2 . Hero : You pay 2 less to play this armor.'
+cost: '4'
 
 class:
   - Paladin
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Hero : This armor has +2 . Hero : You pay 2 less to play this armor.'
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

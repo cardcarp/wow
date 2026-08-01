@@ -2,17 +2,19 @@ card_name: Celestial Shard
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Your hero deals 3 arcane damage to target hero or ally. Ongoing : At the start of your turn, you may put Celestial Shard into its owner's hand."
+cost: '4'
 
 class:
   - Druid
 
-cost: '4'
+rule:
+  - type: ability
+    text: "Your hero deals 3 arcane damage to target hero or ally. Ongoing : At the start of your turn, you may put Celestial Shard into its owner's hand."
+
+regulation:
+
+errata: []
 
 temp: Balance

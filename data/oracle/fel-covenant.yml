@@ -2,17 +2,19 @@ card_name: Fel Covenant
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Remove target ally from the game. If you do, your hero deals fire damage to itself equal to that ally's cost.
+cost: '3'
 
 class:
   - Warlock
 
-cost: '3'
+instant: Remove target ally from the game. If you do, your hero deals fire damage to itself equal to that ally's cost.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Destruction

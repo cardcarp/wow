@@ -2,22 +2,24 @@ card_name: Belithra the Black Thorn
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 1
 
 health: 5
 
-text: Elusive → Target ally has Absorb , Ferocity , Sentinel , and Stealth this turn.
-
-cost: '4'
-
 combat: Nature
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive → Target ally has Absorb , Ferocity , Sentinel , and Stealth this turn.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Druid

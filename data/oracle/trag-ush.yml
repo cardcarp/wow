@@ -2,22 +2,24 @@ card_name: Trag_ush
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 6
 
 health: 4
 
-text: Conspicuous
-
-cost: '4'
-
 combat: Fire
 
-temp: Ogre Warlock
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Conspicuous
+
+regulation:
+
+errata: []
+
+temp: Ogre Warlock

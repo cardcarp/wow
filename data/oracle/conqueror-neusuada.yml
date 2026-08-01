@@ -2,25 +2,27 @@ card_name: Conqueror Neusuada
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 2
 
-text: When this ally attacks, you may destroy target non-hero Warlock or equipment.
+combat: Melee
+
+faction: Horde
 
 class:
   - Warlock
 
-cost: '2'
+rule:
+  - type: ability
+    text: When this ally attacks, you may destroy target non-hero Warlock or equipment.
 
-combat: Melee
+regulation:
 
-faction: Horde
+errata: []
 
 temp: Blood Elf Rogue

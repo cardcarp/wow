@@ -2,20 +2,22 @@ card_name: Hira
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 2
 
 health: 1
 
-cost: '1'
-
 combat: Fire
 
 faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Draenei Shaman

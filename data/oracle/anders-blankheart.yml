@@ -2,22 +2,24 @@ card_name: Anders Blankheart
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 1
 
-text: Elusive If damage would be dealt with an ability you control to a hero or ally it’s attached to, that much +1 is dealt instead.
-
-cost: '2'
-
 combat: Fire
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive If damage would be dealt with an ability you control to a hero or ally it’s attached to, that much +1 is dealt instead.
+
+regulation:
+
+errata: []
 
 temp: Human Warlock

@@ -2,17 +2,19 @@ card_name: Insect Swarm
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Balance Hero Required Attach to target hero or ally, and your hero deals 2 nature damage to it. Ongoing : Attached character has -2 ATK.'
+cost: '1'
 
 class:
   - Druid
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Balance Hero Required Attach to target hero or ally, and your hero deals 2 nature damage to it. Ongoing : Attached character has -2 ATK.'
+
+regulation:
+
+errata: []
 
 temp: Balance Talent

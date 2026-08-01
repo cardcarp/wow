@@ -2,13 +2,9 @@ card_name: Thunderfury, Blessed Blade of the Windseeker
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you strike with Thunderfury, choose up to five heroes and/or allies. Your hero deals 5, 4, 3, 2, and 1 nature damage to them, respectively.
+cost: '9'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Rogue
 
-cost: '9'
+rule:
+  - type: ability
+    text: When you strike with Thunderfury, choose up to five heroes and/or allies. Your hero deals 5, 4, 3, 2, and 1 nature damage to them, respectively.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

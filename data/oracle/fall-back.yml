@@ -2,14 +2,16 @@ card_name: Fall Back
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '2'
 
 instant: Put target ally from your party into its owner's hand.
 
-cost: '2'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

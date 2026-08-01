@@ -2,17 +2,19 @@ card_name: Vindicators Shock
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 1 unpreventable holy damage to each opposing hero and ally.
+cost: '1'
 
 class:
   - Paladin
 
-cost: '1'
+rule:
+  - type: ability
+    text: Your hero deals 1 unpreventable holy damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
 
 temp: Holy

@@ -2,12 +2,14 @@ card_name: Enter the Dragon Queen
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 4 to complete this quest. Reward : Draw a card for each different color among Dragonkin you control. (Dragonkin colors are Black, Blue, Bronze, Green, Red, and Twilight.)'
 
-text: 'Pay 4 to complete this quest. Reward : Draw a card for each different color among Dragonkin you control. (Dragonkin colors are Black, Blue, Bronze, Green, Red, and Twilight.)'
+regulation:
+
+errata: []
 
 temp: ''

@@ -2,22 +2,24 @@ card_name: Thag _Big Bounty_ Cragshot
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 4
 
 health: 6
 
-text: When this ally enters play, he may deal 4 ranged damage to target ally with cost 4 or more.
-
-cost: '7'
-
 combat: Ranged
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally enters play, he may deal 4 ranged damage to target ally with cost 4 or more.
+
+regulation:
+
+errata: []
 
 temp: Orc Hunter

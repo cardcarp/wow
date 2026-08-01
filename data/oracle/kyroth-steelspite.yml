@@ -2,22 +2,24 @@ card_name: Kyroth Steelspite
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 3
 
-text: Protector Opponents can't strike with weapons.
-
-cost: '3'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Opponents can't strike with weapons.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Warrior

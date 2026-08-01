@@ -2,17 +2,19 @@ card_name: Hunters Focus
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Target ally has +2 ATK and Long-Range this turn.
+cost: '1'
 
 class:
   - Hunter
 
-cost: '1'
+rule:
+  - type: ability
+    text: Target ally has +2 ATK and Long-Range this turn.
+
+regulation:
+
+errata: []
 
 temp: Marksmanship

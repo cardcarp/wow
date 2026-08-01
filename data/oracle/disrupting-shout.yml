@@ -2,14 +2,16 @@ card_name: Disrupting Shout
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '2'
 
 instant: Interrupt target card. If you do, remove it from the game.
 
-cost: '2'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Naxxramas

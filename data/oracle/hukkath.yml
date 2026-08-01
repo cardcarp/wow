@@ -2,23 +2,25 @@ card_name: Hukkath
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 5
 
-text: Protector 1 , Destroy Hukkath → Your hero is Untargetable this turn.
+combat: Shadow
 
 class:
   - Warlock
 
-cost: '4'
+rule:
+  - type: ability
+    text: Protector 1 , Destroy Hukkath → Your hero is Untargetable this turn.
 
-combat: Shadow
+regulation:
+
+errata: []
 
 temp: Voidwalker Demon

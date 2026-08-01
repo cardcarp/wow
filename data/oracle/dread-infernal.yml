@@ -2,23 +2,25 @@ card_name: Dread Infernal
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 5
 
-text: When this ally enters or leaves play, he deals 1 fire damage to each opposing hero and ally.
+combat: Fire
 
 class:
   - Warlock
 
-cost: '5'
+rule:
+  - type: ability
+    text: When this ally enters or leaves play, he deals 1 fire damage to each opposing hero and ally.
 
-combat: Fire
+regulation:
+
+errata: []
 
 temp: Infernal Demon

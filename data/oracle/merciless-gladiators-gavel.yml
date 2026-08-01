@@ -2,19 +2,21 @@ card_name: Merciless Gladiators Gavel
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: If your hero would deal non-combat damage, it deals double that much instead.
+cost: '5'
 
 class:
   - Druid
   - Priest
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: If your hero would deal non-combat damage, it deals double that much instead.
+
+regulation:
+
+errata: []
 
 temp: 1H Arena Weapon Mace

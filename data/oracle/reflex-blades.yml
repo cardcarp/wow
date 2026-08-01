@@ -2,19 +2,21 @@ card_name: Reflex Blades
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you play an armor or weapon, ready Reflex Blades and your hero.
+cost: '5'
 
 class:
   - Druid
   - Shaman
   - Rogue
 
-cost: '5'
+rule:
+  - type: ability
+    text: When you play an armor or weapon, ready Reflex Blades and your hero.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Fist

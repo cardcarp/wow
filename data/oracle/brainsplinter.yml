@@ -2,17 +2,19 @@ card_name: Brainsplinter
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Dual Wield When your hero strikes with this weapon, target ally has Stealth this turn.
+cost: '4'
 
 class:
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: Dual Wield When your hero strikes with this weapon, target ally has Stealth this turn.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

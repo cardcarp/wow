@@ -2,14 +2,16 @@ card_name: Rime and Freezin_
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '2'
 
 instant: 'Empower Mage : If you control a Mage hero or ally, your hero deals 4 frost damage to target opposing ally. Empower Shaman : If you control a Shaman hero or ally, your hero deals 4 frost damage to target opposing hero.'
 
-cost: '2'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

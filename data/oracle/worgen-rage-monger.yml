@@ -2,8 +2,10 @@ card_name: Worgen Rage Monger
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

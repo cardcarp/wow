@@ -2,22 +2,24 @@ card_name: Reverend Tobias
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 1
 
 health: 5
 
-text: 1 , → Exhaust target ready ally, and Reverend Tobias heals all damage from it.
-
-cost: '4'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 1 , → Exhaust target ready ally, and Reverend Tobias heals all damage from it.
+
+regulation:
+
+errata: []
 
 temp: Human Priest

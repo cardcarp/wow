@@ -2,16 +2,19 @@ card_name: Prometha
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 28
 
-text: 'If you control another Shaman: Flip Prometha → Ready target Melee weapon.'
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'If you control another Shaman: Flip Prometha → Ready target Melee weapon.'
+
+regulation:
+
+errata: []
 
 temp: Draenei Shaman

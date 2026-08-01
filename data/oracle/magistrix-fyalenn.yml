@@ -2,20 +2,22 @@ card_name: Magistrix Fyalenn
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 3
 
 health: 6
 
-text: Scryer Reputation You can't discard cards.
-
-cost: '6'
-
 combat: Arcane
+
+rule:
+  - type: ability
+    text: Scryer Reputation You can't discard cards.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Mage

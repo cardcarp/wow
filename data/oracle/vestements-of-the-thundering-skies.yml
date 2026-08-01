@@ -2,8 +2,10 @@ card_name: Vestements of the Thundering Skies
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

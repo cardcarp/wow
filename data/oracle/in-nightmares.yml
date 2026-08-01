@@ -2,12 +2,14 @@ card_name: In Nightmares
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'On your turn, pay 8 to complete this quest. Reward : Target opponent discards three cards.'
 
-text: 'On your turn, pay 8 to complete this quest. Reward : Target opponent discards three cards.'
+regulation:
+
+errata: []
 
 temp: ''

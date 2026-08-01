@@ -2,13 +2,9 @@ card_name: Ring of the Shadow Deeps
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: ', Destroy an ally in your party → Your hero has +2 ATK while attacking this turn.'
+cost: '1'
 
 class:
   - Warrior
@@ -18,6 +14,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: ', Destroy an ally in your party → Your hero has +2 ATK while attacking this turn.'
+
+regulation:
+
+errata: []
 
 temp: Item Ring

@@ -2,18 +2,20 @@ card_name: Girdle of Uther
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 4 , → Ready your hero and one of your Melee weapons.
+cost: '4'
 
 class:
   - Paladin
   - Warrior
 
-cost: '4'
+rule:
+  - type: ability
+    text: 4 , → Ready your hero and one of your Melee weapons.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

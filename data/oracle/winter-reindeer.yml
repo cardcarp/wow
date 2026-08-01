@@ -2,9 +2,11 @@ card_name: Winter Reindeer
 
 layout: standard
 
-regulation:
-
 category: Token
+
+rule: []
+
+regulation:
 
 errata: []
 

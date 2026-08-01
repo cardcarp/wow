@@ -2,19 +2,21 @@ card_name: Polished Breastplate of Valor
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: '3 → Add a +1 counter to target armor you control. Stash : Add a +1 ATK counter to target weapon you control.'
+cost: '3'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '3'
+rule:
+  - type: ability
+    text: '3 → Add a +1 counter to target armor you control. Stash : Add a +1 ATK counter to target weapon you control.'
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

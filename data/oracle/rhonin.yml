@@ -2,20 +2,22 @@ card_name: Rhonin
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 4
 
 health: 3
 
-text: 2 , Discard a Mage with cost X → Interrupt target card with cost X.
-
-cost: '3'
-
 combat: Frost
+
+rule:
+  - type: ability
+    text: 2 , Discard a Mage with cost X → Interrupt target card with cost X.
+
+regulation:
+
+errata: []
 
 temp: Human Mage

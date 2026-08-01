@@ -2,8 +2,10 @@ card_name: Nexus Knight Al Aniq
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

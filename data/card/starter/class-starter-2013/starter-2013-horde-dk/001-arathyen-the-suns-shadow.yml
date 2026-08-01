@@ -10,4 +10,5 @@ artist: Alex Horley Orlandelli
 
 flavor: '"I have returned from the dark places where the sun - and the Sunwell - have no authority."'
 
-appearance: []
+variation:
+  - transform

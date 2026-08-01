@@ -2,17 +2,19 @@ card_name: Terrifying Shout
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put target ally or equipment on top of it's owner's deck.
+cost: '3'
 
 class:
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: Put target ally or equipment on top of it's owner's deck.
+
+regulation:
+
+errata: []
 
 temp: Fury Shout

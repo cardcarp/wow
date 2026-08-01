@@ -10,4 +10,5 @@ artist: Jim Murray
 
 flavor: '"The Legion are mere pawns in the greater game."'
 
-appearance: []
+variation:
+  - transform

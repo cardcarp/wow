@@ -2,19 +2,21 @@ card_name: Perditions Blade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When Perdition's Blade enters play, your hero deals 1 fire damage to target hero or ally.
+cost: '2'
 
 class:
   - Warrior
   - Shaman
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: When Perdition's Blade enters play, your hero deals 1 fire damage to target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

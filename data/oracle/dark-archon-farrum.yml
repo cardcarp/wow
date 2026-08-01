@@ -2,22 +2,24 @@ card_name: Dark Archon Farrum
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 2
 
 health: 1
 
-text: Will of the Forsaken Your hero can protect Farrum.
-
-cost: '1'
-
 combat: Holy
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Will of the Forsaken Your hero can protect Farrum.
+
+regulation:
+
+errata: []
 
 temp: Undead Priest

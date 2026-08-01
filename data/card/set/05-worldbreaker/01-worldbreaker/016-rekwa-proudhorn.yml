@@ -10,4 +10,5 @@ artist: Mark Zug
 
 flavor: '"The Destroyer has returned, and I have turned to the Sun for guidance."'
 
-appearance: []
+variation:
+  - transform

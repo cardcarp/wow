@@ -2,8 +2,10 @@ card_name: Kil_ruks Furious Blade
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

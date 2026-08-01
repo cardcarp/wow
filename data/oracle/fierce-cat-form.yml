@@ -2,17 +2,19 @@ card_name: Fierce Cat Form
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Target ally has Assault 2 this turn. Ongoing: Your hero has Assault 1 .'
+cost: '3'
 
 class:
   - Druid
 
-cost: '3'
+instant: 'Target ally has Assault 2 this turn. Ongoing: Your hero has Assault 1 .'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Feral Cat Form

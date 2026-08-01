@@ -2,17 +2,19 @@ card_name: Sinister Set-up
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Exhaust up to two target heroes and/or allies. Each of them can't ready during its controller's next ready step.
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+instant: Exhaust up to two target heroes and/or allies. Each of them can't ready during its controller's next ready step.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Combat Combo

@@ -2,8 +2,10 @@ card_name: Agent Connelly
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

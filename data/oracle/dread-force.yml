@@ -2,14 +2,16 @@ card_name: Dread Force
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Exhaust all Raiding heroes and allies. If Mal'Ganis is the Caverns hero, double his ATK this turn.
+
+regulation:
 
 errata: []
 
-text: Exhaust all Raiding heroes and allies. If Mal'Ganis is the Caverns hero, double his ATK this turn.
-
 temp: Mal'Ganis
-
-type: Boss

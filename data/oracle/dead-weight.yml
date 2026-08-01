@@ -2,17 +2,19 @@ card_name: Dead Weight
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally or equipment. Ongoing : When attached card exhausts, destroy it.'
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Attach to target ally or equipment. Ongoing : When attached card exhausts, destroy it.'
+
+regulation:
+
+errata: []
 
 temp: Assassination Combo

@@ -2,8 +2,10 @@ card_name: Warlords Arsenal
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,8 +2,10 @@ card_name: Moment Of Peace
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -10,4 +10,5 @@ artist: Zoltan Boros & Gabor Szikszai
 
 flavor: '"The armies of the Lich King destroyed my home and took my family. I have been blessed by the Light, and I will see justice brought to the Scourge, one way or another."'
 
-appearance: []
+variation:
+  - transform

@@ -2,20 +2,22 @@ card_name: Crusade Engineer Spitzpatrick
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 3
 
-text: Argent Crusade Reputation Protector When this or another Unique ally enters play under your control, you may draw a card.
-
-cost: '4'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Argent Crusade Reputation Protector When this or another Unique ally enters play under your control, you may draw a card.
+
+regulation:
+
+errata: []
 
 temp: Gnome Engineer

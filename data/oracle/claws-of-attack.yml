@@ -2,17 +2,19 @@ card_name: Claws of Attack
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Dual Wield Assault 6
+cost: '6'
 
 class:
   - Rogue
 
-cost: '6'
+rule:
+  - type: ability
+    text: Dual Wield Assault 6
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Fist

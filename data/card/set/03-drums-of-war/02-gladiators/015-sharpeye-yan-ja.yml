@@ -10,4 +10,5 @@ artist: Daren Bader
 
 flavor: "\"It's simple, mon, I just take aim and fire!\""
 
-appearance: []
+variation:
+  - transform

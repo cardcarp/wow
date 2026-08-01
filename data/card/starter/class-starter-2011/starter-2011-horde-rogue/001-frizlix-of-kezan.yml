@@ -10,4 +10,5 @@ artist: Nate Bowden
 
 flavor:
 
-appearance: []
+variation:
+  - transform

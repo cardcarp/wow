@@ -2,13 +2,9 @@ card_name: Khorium Boar
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'Jewelcrafting Hero Required Weapons you control have +1 ATK. Death Rattle : Put a 1 / 1 Boar ally token into play.'
+cost: '1'
 
 class:
   - Warrior
@@ -19,6 +15,12 @@ class:
   - Death Knight
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Jewelcrafting Hero Required Weapons you control have +1 ATK. Death Rattle : Put a 1 / 1 Boar ally token into play.'
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

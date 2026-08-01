@@ -2,22 +2,24 @@ card_name: Abbie Whizzleblade
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 6
 
 health: 4
 
-text: When this ally enters play, target hero or ally has +1 ATK and a second target hero or ally has -1 ATK this turn.
-
-cost: '6'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, target hero or ally has +1 ATK and a second target hero or ally has -1 ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: Gnome Rogue

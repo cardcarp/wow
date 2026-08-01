@@ -10,4 +10,5 @@ artist: Josh Tallman
 
 flavor: "\"Let me show you how it's done ...\""
 
-appearance: []
+variation:
+  - transform

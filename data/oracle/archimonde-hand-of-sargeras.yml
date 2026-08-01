@@ -2,22 +2,24 @@ card_name: Archimonde, Hand of Sargeras
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 7
 
 health: 5
 
-text: Smash When Archimonde enters play, he smashes 7 shadow damage to target opposing ally.
-
-cost: '6'
-
 combat: Shadow
 
-temp: Eredar Demon Warlock
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Smash When Archimonde enters play, he smashes 7 shadow damage to target opposing ally.
+
+regulation:
+
+errata: []
+
+temp: Eredar Demon Warlock

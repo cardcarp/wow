@@ -2,18 +2,20 @@ card_name: Sulfuron Harbinger
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 10
 
-text: Sulfuron Harbinger has +4 ATK while attacking and can attack only heroes. → Flip Sulfuron Harbinger. Use only on your turn.
+rule:
+  - type: ability
+    position: front
+    text: Sulfuron Harbinger has +4 ATK while attacking and can attack only heroes. → Flip Sulfuron Harbinger. Use only on your turn.
+  - type: ability
+    position: reverse
+    text: Sulfuron Harbinger has +8 ATK while attacking and can attack only heroes.
+
+regulation:
+
+errata: []
 
 temp: Flamewaker
-
-transform:
-  - id: ability
-    text: Sulfuron Harbinger has +8 ATK while attacking and can attack only heroes.

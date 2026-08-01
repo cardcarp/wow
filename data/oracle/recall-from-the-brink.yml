@@ -2,18 +2,20 @@ card_name: Recall from the Brink
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put target ally or weapon card from your graveyard into play if its cost is less than or equal to the number of resources you control.
+cost: '5'
 
 class:
   - Paladin
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: Put target ally or weapon card from your graveyard into play if its cost is less than or equal to the number of resources you control.
+
+regulation:
+
+errata: []
 
 temp: Holy Restoration

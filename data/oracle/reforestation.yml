@@ -2,17 +2,19 @@ card_name: Reforestation
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target ability or equipment. Put three Treant ally tokens into play with 1 ATK / 1 health.
+cost: '5'
 
 class:
   - Druid
 
-cost: '5'
+rule:
+  - type: ability
+    text: Destroy target ability or equipment. Put three Treant ally tokens into play with 1 ATK / 1 health.
+
+regulation:
+
+errata: []
 
 temp: Balance

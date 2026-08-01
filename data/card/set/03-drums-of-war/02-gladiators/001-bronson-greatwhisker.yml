@@ -10,4 +10,5 @@ artist: Dan Scott
 
 flavor: '"The Light shines brightest on these who light the way."'
 
-appearance: []
+variation:
+  - transform

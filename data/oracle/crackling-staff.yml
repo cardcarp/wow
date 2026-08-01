@@ -2,13 +2,11 @@ card_name: Crackling Staff
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '3'
 
-text: When a ally is dealt nature or damage, destroy it.
+faction: Alliance
 
 class:
   - Druid
@@ -16,8 +14,12 @@ class:
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: When a ally is dealt nature or damage, destroy it.
 
-faction: Alliance
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

@@ -2,12 +2,14 @@ card_name: Super Hot Stew
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Super Hot Stew enters play exhausted. Pay 6 to complete this quest. Reward : Draw three cards.'
 
-text: 'Super Hot Stew enters play exhausted. Pay 6 to complete this quest. Reward : Draw three cards.'
+regulation:
+
+errata: []
 
 temp: ''

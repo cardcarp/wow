@@ -2,13 +2,9 @@ card_name: Blessing of the Old God
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When this item enters play, draw a card. , Name a class and destroy this item → Target ally you control has that class and loses all other classes this turn.
+cost: '2'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: When this item enters play, draw a card. , Name a class and destroy this item → Target ally you control has that class and loses all other classes this turn.
+
+regulation:
+
+errata: []
 
 temp: Item

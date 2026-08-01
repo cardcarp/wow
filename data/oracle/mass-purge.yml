@@ -2,17 +2,19 @@ card_name: Mass Purge
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy any number of abilities that aren't attached to friendly cards.
+cost: '2'
 
 class:
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: Destroy any number of abilities that aren't attached to friendly cards.
+
+regulation:
+
+errata: []
 
 temp: Elemental

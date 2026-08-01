@@ -2,13 +2,9 @@ card_name: Violet Signet of the Great Protector
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has Protector . While you control five or more allies, your hero has +12 .
+cost: '3'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Death Knight
   - Paladin
 
-cost: '3'
+rule:
+  - type: ability
+    text: Your hero has Protector . While you control five or more allies, your hero has +12 .
+
+regulation:
+
+errata: []
 
 temp: Item Ring

@@ -10,4 +10,5 @@ artist: Kev Walker
 
 flavor: Even the light of the moon casts a shadow.
 
-appearance: []
+variation:
+  - transform

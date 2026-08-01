@@ -2,17 +2,19 @@ card_name: Poison the Well
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Destroy all allies with cost 2 or less. (Token allies have a cost of 0.)
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+instant: Destroy all allies with cost 2 or less. (Token allies have a cost of 0.)
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Assassination

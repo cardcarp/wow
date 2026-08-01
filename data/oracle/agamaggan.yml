@@ -2,22 +2,24 @@ card_name: Agamaggan
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 8
 
 health: 6
 
-text: Monster Hero Required Smash When Agamaggan deals combat damage to an exhausted ally, ready Agamaggan. 3 → Exhaust target ally.
-
-cost: '6'
-
 combat: Melee
 
-temp: Boar Beast Demigod
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Monster Hero Required Smash When Agamaggan deals combat damage to an exhausted ally, ready Agamaggan. 3 → Exhaust target ally.
+
+regulation:
+
+errata: []
+
+temp: Boar Beast Demigod

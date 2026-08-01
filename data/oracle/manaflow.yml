@@ -2,17 +2,19 @@ card_name: Manaflow
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Draw cards equal to the highest cost among allies you control.
+cost: '5'
 
 class:
   - Mage
 
-cost: '5'
+rule:
+  - type: ability
+    text: Draw cards equal to the highest cost among allies you control.
+
+regulation:
+
+errata: []
 
 temp: Arcane

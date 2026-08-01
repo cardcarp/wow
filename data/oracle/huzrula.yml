@@ -2,22 +2,24 @@ card_name: Huzrula
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 1
 
 health: 1
 
-text: Mend 2
-
-cost: '1'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Mend 2
+
+regulation:
+
+errata: []
 
 temp: Orc Shaman

@@ -2,13 +2,9 @@ card_name: Sulfuras, The Extinguished Hand
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When an ally you control deals damage on your turn, you may add a +1 ATK counter to this weapon for each damage dealt.
+cost: '5'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Death Knight
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: When an ally you control deals damage on your turn, you may add a +1 ATK counter to this weapon for each damage dealt.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Mace

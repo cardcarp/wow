@@ -2,20 +2,22 @@ card_name: Xavar the Resourceful
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 1
 
 health: 2
 
-text: 'Aldor Reputation Inspire: Resource'
-
-cost: '1'
-
 combat: Holy
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Resource'
+
+regulation:
+
+errata: []
 
 temp: Draenei Paladin

@@ -2,13 +2,9 @@ card_name: Highborne Soul Mirror
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'When an ally you control is destroyed, destroy each other ally you control with the same name as that ally. On your turn: → Put a token copy of target ally you control into play.'
+cost: '7'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '7'
+rule:
+  - type: ability
+    text: 'When an ally you control is destroyed, destroy each other ally you control with the same name as that ally. On your turn: → Put a token copy of target ally you control into play.'
+
+regulation:
+
+errata: []
 
 temp: Item

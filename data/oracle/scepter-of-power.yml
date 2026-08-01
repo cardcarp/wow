@@ -2,13 +2,9 @@ card_name: Scepter of Power
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Exhaust an ally you control → Add a tone counter to this weapon. While this weapon has four or more tone counters on it, it has Harmonize .
+cost: '2'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: Exhaust an ally you control → Add a tone counter to this weapon. While this weapon has four or more tone counters on it, it has Harmonize .
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

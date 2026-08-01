@@ -2,8 +2,10 @@ card_name: Moira Thaurissan
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

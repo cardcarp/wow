@@ -2,12 +2,14 @@ card_name: Appeal to a Higher Power
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: Ask someone not playing in this game to choose which player he thinks is winning. Each player not chosen may draw a card.
 
-text: Ask someone not playing in this game to choose which player he thinks is winning. Each player not chosen may draw a card.
+regulation:
+
+errata: []
 
 temp: ''

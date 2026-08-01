@@ -10,4 +10,5 @@ artist: Howard Lyon
 
 flavor: '"Like the storms that sweep across this land, I harness the power of the elements."'
 
-appearance: []
+variation:
+  - transform

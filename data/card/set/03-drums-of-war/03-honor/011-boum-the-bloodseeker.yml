@@ -10,4 +10,5 @@ artist: Howard Lyon
 
 flavor: "\"Hit 'em with your best shot!\""
 
-appearance: []
+variation:
+  - transform

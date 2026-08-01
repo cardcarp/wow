@@ -2,17 +2,19 @@ card_name: Elemental Weapons
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Enhancement Hero Required Ongoing : Each of your weapons becomes a weapon and has +X ATK, where X is its cost.'
+cost: '4'
 
 class:
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Enhancement Hero Required Ongoing : Each of your weapons becomes a weapon and has +X ATK, where X is its cost.'
+
+regulation:
+
+errata: []
 
 temp: Enhancement Talent

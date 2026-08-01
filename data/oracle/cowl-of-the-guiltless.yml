@@ -2,18 +2,20 @@ card_name: Cowl of the Guiltless
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you play an ability, target hero or ally has Stealth this turn.
+cost: '1'
 
 class:
   - Druid
   - Rogue
 
-cost: '1'
+rule:
+  - type: ability
+    text: When you play an ability, target hero or ally has Stealth this turn.
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

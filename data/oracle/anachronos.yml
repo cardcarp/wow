@@ -2,20 +2,22 @@ card_name: Anachronos
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 6
 
 health: 5
 
-text: At the end of your turn, you may ready a resource you control for each Bronze Dragonkin you control.
-
-cost: '5'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: At the end of your turn, you may ready a resource you control for each Bronze Dragonkin you control.
+
+regulation:
+
+errata: []
 
 temp: Bronze Dragonkin

@@ -2,8 +2,10 @@ card_name: Loremaster Jimo
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

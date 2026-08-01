@@ -2,13 +2,9 @@ card_name: Stormrage Signet Ring
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 2 , → Put target equipment into its owner's hand. Use only on your turn.
+cost: '4'
 
 class:
   - Warrior
@@ -17,6 +13,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: 2 , → Put target equipment into its owner's hand. Use only on your turn.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

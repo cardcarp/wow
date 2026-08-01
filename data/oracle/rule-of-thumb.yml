@@ -2,12 +2,14 @@ card_name: Rule of Thumb
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: All abilities, allies, equipment, and quests are unique this turn.
 
-text: All abilities, allies, equipment, and quests are unique this turn.
+regulation:
+
+errata: []
 
 temp: ''

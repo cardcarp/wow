@@ -2,22 +2,24 @@ card_name: Spawn of Hyakiss
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 3
 
-text: Spellshield This ally has +1 / +1 for each other Beast ally you control.
-
-cost: '3'
-
 combat: Nature
 
-temp: Spider Beast
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Spellshield This ally has +1 / +1 for each other Beast ally you control.
+
+regulation:
+
+errata: []
+
+temp: Spider Beast

@@ -2,17 +2,19 @@ card_name: Infinite Brilliance
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : At the start of your turn, draw a card.'
+cost: '4'
 
 class:
   - Mage
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, draw a card.'
+
+regulation:
+
+errata: []
 
 temp: Arcane

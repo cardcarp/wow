@@ -2,19 +2,21 @@ card_name: Mantle of Master Cho
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: ', Name a standard class → Target ally you control has that class and loses all other classes this turn.'
+cost: '3'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: ', Name a standard class → Target ally you control has that class and loses all other classes this turn.'
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

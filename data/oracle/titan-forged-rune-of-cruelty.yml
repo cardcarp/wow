@@ -2,13 +2,9 @@ card_name: Titan-forged Rune of Cruelty
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the start of your turn, each hero deals melee damage to itself equal to the number of cards in its controller's hand.
+cost: '3'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: At the start of your turn, each hero deals melee damage to itself equal to the number of cards in its controller's hand.
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

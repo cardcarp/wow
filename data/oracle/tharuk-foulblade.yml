@@ -2,22 +2,24 @@ card_name: Tharuk Foulblade
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 3
 
-text: This ally has +3 ATK while attacking an exhausted hero or ally.
-
-cost: '4'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: This ally has +3 ATK while attacking an exhausted hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Orc Rogue

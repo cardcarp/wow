@@ -2,8 +2,10 @@ card_name: Lifewarden Altheia
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

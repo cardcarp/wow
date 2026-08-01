@@ -2,18 +2,20 @@ card_name: Legguards of the Shattered Hand
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → Destroy target ally with damage.
+cost: '6'
 
 class:
   - Paladin
   - Warrior
 
-cost: '6'
+rule:
+  - type: ability
+    text: → Destroy target ally with damage.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

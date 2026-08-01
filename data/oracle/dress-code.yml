@@ -2,12 +2,14 @@ card_name: Dress Code
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: "Ongoing : Unsleeved cards in play are Elusive and Untargetable . Cards can't be unsleeved after Dress Code is flipped."
 
-text: "Ongoing : Unsleeved cards in play are Elusive and Untargetable . Cards can't be unsleeved after Dress Code is flipped."
+regulation:
+
+errata: []
 
 temp: ''

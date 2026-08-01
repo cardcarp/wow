@@ -2,22 +2,24 @@ card_name: Lt. Commander Dudefella
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 3
 
-text: 1 , → Dudefella deals 1 frost damage to target hero or ally. A character dealt damage this way can't attack this turn.
-
-cost: '3'
-
 combat: Frost
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 1 , → Dudefella deals 1 frost damage to target hero or ally. A character dealt damage this way can't attack this turn.
+
+regulation:
+
+errata: []
 
 temp: Human Mage

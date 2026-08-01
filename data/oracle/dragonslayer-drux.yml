@@ -2,20 +2,22 @@ card_name: Dragonslayer Drux
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 4 → Flip Drux face down.
-
 faction: Horde
 
-temp: Goblin Death Knight
-
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: 4 → Flip Drux face down.
+  - type: ability
+    position: reverse
     text: When an opposing ally is destroyed, Drux may deal 1 frost damage to target hero.
+
+regulation:
+
+errata: []
+
+temp: Goblin Death Knight

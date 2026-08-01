@@ -2,13 +2,9 @@ card_name: Tyrandes Favorite Doll
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When this item enters play, name a card. Friendly players pay 1 less to play cards with that name, to a minimum of 1 .
+cost: '1'
 
 class:
   - Priest
@@ -18,6 +14,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: When this item enters play, name a card. Friendly players pay 1 less to play cards with that name, to a minimum of 1 .
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

@@ -2,20 +2,22 @@ card_name: Bound Torrent
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 2
 
 health: 1
 
-text: Elusive When this ally exhausts, put a 2 / 1 Water Elemental ally token into play.
-
-cost: '4'
-
 combat: Frost
+
+rule:
+  - type: ability
+    text: Elusive When this ally exhausts, put a 2 / 1 Water Elemental ally token into play.
+
+regulation:
+
+errata: []
 
 temp: Water Elemental

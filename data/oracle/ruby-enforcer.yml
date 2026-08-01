@@ -2,20 +2,22 @@ card_name: Ruby Enforcer
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 1
 
-text: Allies you control have Ferocity .
-
-cost: '3'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Allies you control have Ferocity .
+
+regulation:
+
+errata: []
 
 temp: Red Dragonkin

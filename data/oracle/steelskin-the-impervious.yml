@@ -2,8 +2,10 @@ card_name: Steelskin, the Impervious
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

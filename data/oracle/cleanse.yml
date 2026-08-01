@@ -2,17 +2,19 @@ card_name: Cleanse
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Destroy any number of abilities attached to target friendly hero or ally.
+cost: '1'
 
 class:
   - Paladin
 
-cost: '1'
+instant: Destroy any number of abilities attached to target friendly hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Holy

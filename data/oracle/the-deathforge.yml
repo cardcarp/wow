@@ -2,12 +2,14 @@ card_name: The Deathforge
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Remove three equipment cards in your graveyard from the game to complete this quest. Reward : Draw a card.'
 
-text: 'Remove three equipment cards in your graveyard from the game to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

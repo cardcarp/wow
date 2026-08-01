@@ -2,13 +2,9 @@ card_name: Shard of the Scale
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 2 , Destroy Shard of the Scale → Put the top card of your deck into your resource row face down and exhausted.
+cost: '2'
 
 class:
   - Priest
@@ -19,6 +15,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: 2 , Destroy Shard of the Scale → Put the top card of your deck into your resource row face down and exhausted.
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

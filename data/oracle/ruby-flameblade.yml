@@ -2,20 +2,22 @@ card_name: Ruby Flameblade
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 1
 
-text: Allies you control have Assault 1 .
-
-cost: '2'
-
 combat: Fire
+
+rule:
+  - type: ability
+    text: Allies you control have Assault 1 .
+
+regulation:
+
+errata: []
 
 temp: Red Dragonkin

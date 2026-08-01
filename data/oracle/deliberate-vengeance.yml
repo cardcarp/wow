@@ -2,17 +2,19 @@ card_name: Deliberate Vengeance
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : At the start of your turn, destroy this ability. If you do, your hero deals 2 unpreventable holy damage to each opposing hero and ally.'
+cost: '4'
 
 class:
   - Paladin
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, destroy this ability. If you do, your hero deals 2 unpreventable holy damage to each opposing hero and ally.'
+
+regulation:
+
+errata: []
 
 temp: Holy

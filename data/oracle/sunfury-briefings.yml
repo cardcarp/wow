@@ -2,12 +2,14 @@ card_name: Sunfury Briefings
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Aldor Reputation Pay 5 to complete this quest. Reward : Ready an ally in your party.'
 
-text: 'Aldor Reputation Pay 5 to complete this quest. Reward : Ready an ally in your party.'
+regulation:
+
+errata: []
 
 temp: ''

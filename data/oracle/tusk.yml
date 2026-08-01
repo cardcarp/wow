@@ -2,22 +2,24 @@ card_name: Tusk
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 4
 
-text: Ferocity When Tusk deals combat damage to a hero or ally, other heroes and allies in your party have Long-Range while attacking that character this turn.
-
-cost: '3'
-
 combat: Ranged
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity When Tusk deals combat damage to a hero or ally, other heroes and allies in your party have Long-Range while attacking that character this turn.
+
+regulation:
+
+errata: []
 
 temp: Troll Hunter

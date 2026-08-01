@@ -2,17 +2,19 @@ card_name: Totem of Decay
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Traitor Hero Required Ongoing : At the start of your turn, each opponent destroys an ability, ally, or equipment he controls. (Totems can be attacked or targeted like allies.)'
+cost: '4'
 
 class:
   - Shaman
 
-cost: '4'
+instant: 'Traitor Hero Required Ongoing : At the start of your turn, each opponent destroys an ability, ally, or equipment he controls. (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Traitor 1

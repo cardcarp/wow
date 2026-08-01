@@ -10,4 +10,5 @@ artist: Alex Horley Orlandelli
 
 flavor: '"The Warchief has made his declaration. Northrend must be purged of the plague of undeath and all those who carry it!"'
 
-appearance: []
+variation:
+  - transform

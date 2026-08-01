@@ -2,20 +2,22 @@ card_name: Azjol-anak Webweaver
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 3
 
-text: Nerubian Reputation This ally has +1 / +1 while an ability is in your graveyard.
-
-cost: '3'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Nerubian Reputation This ally has +1 / +1 while an ability is in your graveyard.
+
+regulation:
+
+errata: []
 
 temp: Nerubian

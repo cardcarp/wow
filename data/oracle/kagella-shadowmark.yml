@@ -2,22 +2,24 @@ card_name: Kagella Shadowmark
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 3
 
-text: Kagella Shadowmark has +1 ATK for each exhausted ally in your party.
-
-cost: '2'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Kagella Shadowmark has +1 ATK for each exhausted ally in your party.
+
+regulation:
+
+errata: []
 
 temp: Orc Rogue

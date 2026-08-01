@@ -2,13 +2,9 @@ card_name: Skibis Pendant
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: You pay 1 less to strike with weapons.
+cost: '2'
 
 class:
   - Warrior
@@ -18,6 +14,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: You pay 1 less to strike with weapons.
+
+regulation:
+
+errata: []
 
 temp: Item Neck

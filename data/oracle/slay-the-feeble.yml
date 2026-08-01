@@ -2,17 +2,19 @@ card_name: Slay the Feeble
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 3 melee damage to target exhausted hero or ally.
+cost: '1'
 
 class:
   - Rogue
 
-cost: '1'
+rule:
+  - type: ability
+    text: Your hero deals 3 melee damage to target exhausted hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Assassination Combo

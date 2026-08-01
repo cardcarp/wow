@@ -10,4 +10,5 @@ artist: Zoltan Boros & Gabor Szikszai
 
 flavor: '"The Firelord and the Windlord have aligned themselves with Deathwing; we have no choice but to show them the error of their ways."'
 
-appearance: []
+variation:
+  - transform

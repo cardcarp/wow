@@ -2,17 +2,19 @@ card_name: Fel Geyser
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Traitor Hero Required Ongoing : Opposing quests have "As an additional cost to complete, turn another one of your quests face down."'
+cost: '2'
 
 class:
   - Druid
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Traitor Hero Required Ongoing : Opposing quests have "As an additional cost to complete, turn another one of your quests face down."'
+
+regulation:
+
+errata: []
 
 temp: Traitor

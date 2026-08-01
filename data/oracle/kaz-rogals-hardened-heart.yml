@@ -2,19 +2,21 @@ card_name: Kaz_rogals Hardened Heart
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Opposing allies enter play exhausted.
+cost: '3'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: Opposing allies enter play exhausted.
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

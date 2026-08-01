@@ -2,17 +2,19 @@ card_name: Expertise of Steel
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Your hero has Dual Wield . Axes you control have +2 ATK. You pay 2 less to strike with Swords.'
+cost: '2'
 
 class:
   - Warrior
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : Your hero has Dual Wield . Axes you control have +2 ATK. You pay 2 less to strike with Swords.'
+
+regulation:
+
+errata: []
 
 temp: Arms

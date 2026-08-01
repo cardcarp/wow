@@ -2,17 +2,19 @@ card_name: Seal of Command
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Retribution Hero Required Ongoing : When your hero deals combat damage with a weapon to a hero or ally, your hero then deals 2 holy damage to that character. 1 , Destroy Seal of Command → Your hero deals 4 holy damage to target exhausted hero or ally.'
+cost: '3'
 
 class:
   - Paladin
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Retribution Hero Required Ongoing : When your hero deals combat damage with a weapon to a hero or ally, your hero then deals 2 holy damage to that character. 1 , Destroy Seal of Command → Your hero deals 4 holy damage to target exhausted hero or ally.'
+
+regulation:
+
+errata: []
 
 temp: Retribution Talent

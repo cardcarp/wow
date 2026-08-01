@@ -2,19 +2,21 @@ card_name: Brain Hacker
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals combat damage with Brain Hacker to a hero, that hero's controller discards a card.
+cost: '4'
 
 class:
   - Paladin
   - Warrior
   - Hunter
 
-cost: '4'
+rule:
+  - type: ability
+    text: When your hero deals combat damage with Brain Hacker to a hero, that hero's controller discards a card.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Axe

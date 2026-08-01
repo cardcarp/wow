@@ -2,17 +2,19 @@ card_name: Shaman Training
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target friendly ally. Ongoing : When attached ally attacks for the first time each turn, you may pay 1 . If you do, ready it.'
+cost: '1'
 
 class:
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Attach to target friendly ally. Ongoing : When attached ally attacks for the first time each turn, you may pay 1 . If you do, ready it.'
+
+regulation:
+
+errata: []
 
 temp: Enhancement

@@ -2,17 +2,19 @@ card_name: Divine Redemption
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Put target ally from your graveyard into play and attach this ability to it. Ongoing : Attached ally has +5 / +5, Protector and Invincible .'
+cost: '9'
 
 class:
   - Paladin
 
-cost: '9'
+rule:
+  - type: ability
+    text: 'Put target ally from your graveyard into play and attach this ability to it. Ongoing : Attached ally has +5 / +5, Protector and Invincible .'
+
+regulation:
+
+errata: []
 
 temp: Holy

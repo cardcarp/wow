@@ -2,18 +2,20 @@ card_name: Demolish
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target equipment.
+cost: '1'
 
 class:
   - Warrior
   - Rogue
 
-cost: '1'
+rule:
+  - type: ability
+    text: Destroy target equipment.
+
+regulation:
+
+errata: []
 
 temp: Combat Protection

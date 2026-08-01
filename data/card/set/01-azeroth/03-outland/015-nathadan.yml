@@ -10,4 +10,5 @@ artist: James Zhang
 
 flavor: '"I do not serve the Light. The Light serves me."'
 
-appearance: []
+variation:
+  - transform

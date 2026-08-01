@@ -2,17 +2,19 @@ card_name: Spirit Weapons
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Enhancement Hero Required Ongoing : → Target hero or ally has -X ATK this turn, where X is the combined ATK of your Melee weapons.'
+cost: '3'
 
 class:
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Enhancement Hero Required Ongoing : → Target hero or ally has -X ATK this turn, where X is the combined ATK of your Melee weapons.'
+
+regulation:
+
+errata: []
 
 temp: Enhancement Talent

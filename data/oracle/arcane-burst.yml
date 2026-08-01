@@ -2,17 +2,19 @@ card_name: Arcane Burst
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 1 arcane damage to each opposing hero and ally.
+cost: '1'
 
 class:
   - Mage
 
-cost: '1'
+rule:
+  - type: ability
+    text: Your hero deals 1 arcane damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
 
 temp: Arcane

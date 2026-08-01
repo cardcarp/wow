@@ -10,4 +10,5 @@ artist: Daarken
 
 flavor:
 
-appearance: []
+variation:
+  - transform

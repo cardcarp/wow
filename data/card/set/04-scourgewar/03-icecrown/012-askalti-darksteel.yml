@@ -10,4 +10,5 @@ artist: Ben Thompson
 
 flavor: (like Demonology Hero Required)
 
-appearance: []
+variation:
+  - transform

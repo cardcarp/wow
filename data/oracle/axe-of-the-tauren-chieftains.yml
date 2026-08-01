@@ -2,17 +2,19 @@ card_name: Axe of the Tauren Chieftains
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '6'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '6'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Axe

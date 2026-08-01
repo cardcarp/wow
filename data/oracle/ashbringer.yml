@@ -2,14 +2,16 @@ card_name: Ashbringer
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Invincible
-
 cost: '4'
+
+rule:
+  - type: ability
+    text: Invincible
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Sword

@@ -2,17 +2,19 @@ card_name: Swallow Soul
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Interrupt target ally card. If you do, remove it from the game.
+cost: '3'
 
 class:
   - Warlock
 
-cost: '3'
+instant: Interrupt target ally card. If you do, remove it from the game.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Destruction

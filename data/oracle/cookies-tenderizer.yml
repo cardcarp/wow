@@ -2,13 +2,9 @@ card_name: Cookies Tenderizer
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals combat damage to a hero or ally with this weapon, allies you control have +1 ATK while attacking that character this turn.
+cost: '4'
 
 class:
   - Warrior
@@ -17,6 +13,12 @@ class:
   - Death Knight
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: When your hero deals combat damage to a hero or ally with this weapon, allies you control have +1 ATK while attacking that character this turn.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

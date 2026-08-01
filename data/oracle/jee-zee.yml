@@ -2,22 +2,24 @@ card_name: Jee_zee
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 0
 
 health: 5
 
-text: Ferocity Berserking
-
-cost: '2'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity Berserking
+
+regulation:
+
+errata: []
 
 temp: Troll Shaman

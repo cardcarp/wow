@@ -2,22 +2,24 @@ card_name: Jin_lak Nightfang
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 1
 
-text: 3 → Target hero or ally can't protect this turn.
-
-cost: '2'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: 3 → Target hero or ally can't protect this turn.
+
+regulation:
+
+errata: []
 
 temp: Troll Rogue

@@ -2,13 +2,9 @@ card_name: Statue Generator
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When this item enters play, remove target ally from the game. If you do, add three marble counters, and that ally's owner puts it into play under his control when this item leaves play. At the start of your turn, remove a marble counter. If none remain, destroy this item.
+cost: '3'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: When this item enters play, remove target ally from the game. If you do, add three marble counters, and that ally's owner puts it into play under his control when this item leaves play. At the start of your turn, remove a marble counter. If none remain, destroy this item.
+
+regulation:
+
+errata: []
 
 temp: Item

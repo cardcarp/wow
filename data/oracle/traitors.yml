@@ -2,12 +2,14 @@ card_name: Traitors!
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 1 to complete this quest. Reward : An opponent chooses one: You draw a card; or your hero heals 3 damage from itself.'
 
-text: 'Pay 1 to complete this quest. Reward : An opponent chooses one: You draw a card; or your hero heals 3 damage from itself.'
+regulation:
+
+errata: []
 
 temp: ''

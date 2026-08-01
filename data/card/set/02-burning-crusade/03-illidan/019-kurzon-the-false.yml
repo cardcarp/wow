@@ -10,4 +10,5 @@ artist: Alex Horley Orlandelli
 
 flavor: '"Our enemies cannot stand against the might of the Leg - ah, the Alliance!"'
 
-appearance: []
+variation:
+  - transform

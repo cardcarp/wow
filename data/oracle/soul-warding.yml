@@ -2,17 +2,19 @@ card_name: Soul Warding
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Discipline Talent Attach to target ally. Ongoing : Attached ally can't be destroyed."
+cost: '3'
 
 class:
   - Priest
 
-cost: '3'
+rule:
+  - type: ability
+    text: "Discipline Talent Attach to target ally. Ongoing : Attached ally can't be destroyed."
+
+regulation:
+
+errata: []
 
 temp: Discipline Attachment

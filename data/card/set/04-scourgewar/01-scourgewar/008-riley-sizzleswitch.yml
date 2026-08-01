@@ -10,4 +10,5 @@ artist: Dan Scott
 
 flavor: "\"All of the undeath and ice is making me depressed. Can't we just burn it all down?\""
 
-appearance: []
+variation:
+  - transform

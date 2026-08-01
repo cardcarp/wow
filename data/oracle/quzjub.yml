@@ -2,8 +2,10 @@ card_name: Quzjub
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -10,4 +10,5 @@ artist: Jeff Miracola
 
 flavor: In life, Omedus was a handsome scholar. The plague was not kind to him.
 
-appearance: []
+variation:
+  - transform

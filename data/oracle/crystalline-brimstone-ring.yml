@@ -2,13 +2,9 @@ card_name: Crystalline Brimstone Ring
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Eternal If your hero would be destroyed, you may destroy this item instead. If you do, damage on your hero becomes equal to its printed minus the number of resources you control.
+cost: '5'
 
 class:
   - Priest
@@ -17,6 +13,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: Eternal If your hero would be destroyed, you may destroy this item instead. If you do, damage on your hero becomes equal to its printed minus the number of resources you control.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

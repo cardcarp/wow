@@ -10,4 +10,5 @@ artist: James Ryman
 
 flavor: '"Elune will not see harm come to those who are faithful!"'
 
-appearance: []
+variation:
+  - transform

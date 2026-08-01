@@ -2,8 +2,10 @@ card_name: Mak Gora
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,12 +2,14 @@ card_name: Scarlet Monastery
 
 layout: standard
 
-regulation:
-
 category: Location
 
-errata: []
+rule:
+  - type: ability
+    text: 1 → Target hero or ally that was healed this turn has Assault 2 this turn.
 
-text: 1 → Target hero or ally that was healed this turn has Assault 2 this turn.
+regulation:
+
+errata: []
 
 temp: ''

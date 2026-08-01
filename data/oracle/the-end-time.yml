@@ -2,12 +2,14 @@ card_name: The End Time
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'If you control eight or more resources: Pay 1 to complete this quest. Reward : Draw a card.'
 
-text: 'If you control eight or more resources: Pay 1 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

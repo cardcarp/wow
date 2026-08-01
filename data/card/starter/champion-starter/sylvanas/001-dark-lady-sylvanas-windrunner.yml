@@ -10,4 +10,5 @@ artist: Arnold Tsang
 
 flavor:
 
-appearance: []
+variation:
+  - transform

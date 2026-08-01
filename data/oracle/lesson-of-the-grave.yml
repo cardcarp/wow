@@ -2,17 +2,19 @@ card_name: Lesson of the Grave
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: You may exhaust a non-hero Death Knight you control rather than pay this ability's cost. Remove target ally in a graveyard from the game. If you do, put a 3 / 3 Ghoul ally token into play.
+cost: '3'
 
 class:
   - Death Knight
 
-cost: '3'
+rule:
+  - type: ability
+    text: You may exhaust a non-hero Death Knight you control rather than pay this ability's cost. Remove target ally in a graveyard from the game. If you do, put a 3 / 3 Ghoul ally token into play.
+
+regulation:
+
+errata: []
 
 temp: Unholy

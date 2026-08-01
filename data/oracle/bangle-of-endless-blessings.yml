@@ -2,13 +2,9 @@ card_name: Bangle of Endless Blessings
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When Bangle of Endless Blessings enters play, put each face-down resource into its owner's hand. Players can't place resources face down.
+cost: '12'
 
 class:
   - Priest
@@ -18,6 +14,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '12'
+rule:
+  - type: ability
+    text: When Bangle of Endless Blessings enters play, put each face-down resource into its owner's hand. Players can't place resources face down.
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

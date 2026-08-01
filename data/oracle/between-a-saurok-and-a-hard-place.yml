@@ -2,8 +2,10 @@ card_name: Between a Saurok and a Hard Place
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

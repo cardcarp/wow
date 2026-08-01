@@ -2,17 +2,19 @@ card_name: Bloodwarders Rifle
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has Long-Range .
+cost: '4'
 
 class:
   - Hunter
 
-cost: '4'
+rule:
+  - type: ability
+    text: Your hero has Long-Range .
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Gun

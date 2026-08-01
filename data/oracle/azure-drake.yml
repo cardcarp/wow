@@ -2,20 +2,22 @@ card_name: Azure Drake
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 4
 
-text: When you play an ability, this ally heals 2 damage from target hero or ally.
-
-cost: '2'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: When you play an ability, this ally heals 2 damage from target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Blue Dragonkin

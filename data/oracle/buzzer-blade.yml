@@ -2,17 +2,19 @@ card_name: Buzzer Blade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Dual Wield When your hero deals fatal damage to an ally while attacking, you may destroy target equipment.
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: Dual Wield When your hero deals fatal damage to an ally while attacking, you may destroy target equipment.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

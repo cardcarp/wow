@@ -2,14 +2,16 @@ card_name: Turn Aside
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '3'
 
 instant: Prevent all combat damage that would be dealt by target ally this turn.
 
-cost: '3'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

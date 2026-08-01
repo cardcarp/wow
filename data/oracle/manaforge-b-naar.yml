@@ -2,12 +2,14 @@ card_name: Manaforge B_naar
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Scryer Reputation Pay 2 to complete this quest. Reward : Exhaust target ally.'
 
-text: 'Scryer Reputation Pay 2 to complete this quest. Reward : Exhaust target ally.'
+regulation:
+
+errata: []
 
 temp: ''

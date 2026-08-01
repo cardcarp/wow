@@ -2,17 +2,19 @@ card_name: Darkness
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Shadow Hero Required Target player discards his hand.
+cost: '7'
 
 class:
   - Priest
 
-cost: '7'
+rule:
+  - type: ability
+    text: Shadow Hero Required Target player discards his hand.
+
+regulation:
+
+errata: []
 
 temp: Shadow Talent

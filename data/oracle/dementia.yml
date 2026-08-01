@@ -2,17 +2,19 @@ card_name: Dementia
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Target player puts the top two cards of his deck into his graveyard. If they're both abilities, both allies, or both equipment, that player discards two cards.
+cost: '2'
 
 class:
   - Priest
 
-cost: '2'
+rule:
+  - type: ability
+    text: Target player puts the top two cards of his deck into his graveyard. If they're both abilities, both allies, or both equipment, that player discards two cards.
+
+regulation:
+
+errata: []
 
 temp: Shadow

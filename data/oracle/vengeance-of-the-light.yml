@@ -2,17 +2,19 @@ card_name: Vengeance of the Light
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target Death Knight, Ghoul, or Undead ally.
+cost: '1'
 
 class:
   - Paladin
 
-cost: '1'
+rule:
+  - type: ability
+    text: Destroy target Death Knight, Ghoul, or Undead ally.
+
+regulation:
+
+errata: []
 
 temp: Holy

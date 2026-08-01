@@ -10,4 +10,5 @@ artist: Christopher Moeller
 
 flavor: '"One day the Legion shall fall, and until that day comes, my blade shall not rest."'
 
-appearance: []
+variation:
+  - transform

@@ -2,20 +2,22 @@ card_name: Corrupted Blood
 
 layout: standard
 
-regulation:
-
 category: Token
-
-errata: []
 
 damage: 1
 
 health: 1
 
-text: Ferocity
-
 combat: Melee
 
-temp: Blood
-
 type: Boss
+
+rule:
+  - type: ability
+    text: Ferocity
+
+regulation:
+
+errata: []
+
+temp: Blood

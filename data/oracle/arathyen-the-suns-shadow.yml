@@ -2,16 +2,19 @@ card_name: Arathyen, the Suns Shadow
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 2 , Flip Arathyen → Ready target Ghoul you control.
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Arathyen → Ready target Ghoul you control.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Death Knight

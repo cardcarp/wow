@@ -2,13 +2,9 @@ card_name: Glacial Bag
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Exhaust a Bag you control → Add a thaw counter. , Remove four thaw counters → Draw three cards.
+cost: '3'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: Exhaust a Bag you control → Add a thaw counter. , Remove four thaw counters → Draw three cards.
+
+regulation:
+
+errata: []
 
 temp: Item Bag

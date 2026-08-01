@@ -2,14 +2,16 @@ card_name: Biding Her Time
 
 layout: standard
 
-regulation:
-
 category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Each Raider chooses a non-hero card he controls and puts it on top of its owner's deck.
+
+regulation:
 
 errata: []
 
-text: Each Raider chooses a non-hero card he controls and puts it on top of its owner's deck.
-
 temp: ''
-
-type: Dungeon

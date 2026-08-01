@@ -2,17 +2,19 @@ card_name: Sinister Revenge
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has Dual Wield . When this weapon enters play, put X +1 ATK counters on it, where X is the ATK of another Melee weapon you control.
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero has Dual Wield . When this weapon enters play, put X +1 ATK counters on it, where X is the ATK of another Melee weapon you control.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

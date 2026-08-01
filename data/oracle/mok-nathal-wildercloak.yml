@@ -2,13 +2,9 @@ card_name: Mok_Nathal Wildercloak
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When an opposing ally is destroyed, put a +1 DEF counter on Mok'Nathal Wildercloak.
+cost: '2'
 
 class:
   - Priest
@@ -21,6 +17,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: When an opposing ally is destroyed, put a +1 DEF counter on Mok'Nathal Wildercloak.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

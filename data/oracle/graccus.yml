@@ -2,16 +2,19 @@ card_name: Graccus
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 3 , Flip Graccus → Prevent the next 3 damage that would be dealt to target hero or ally this turn.
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Graccus → Prevent the next 3 damage that would be dealt to target hero or ally this turn.
+
+regulation:
+
+errata: []
 
 temp: Human Paladin

@@ -2,17 +2,19 @@ card_name: Call the Void
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put target Demon ally from your graveyard into your hand.
+cost: '1'
 
 class:
   - Warlock
 
-cost: '1'
+rule:
+  - type: ability
+    text: Put target Demon ally from your graveyard into your hand.
+
+regulation:
+
+errata: []
 
 temp: Demonology

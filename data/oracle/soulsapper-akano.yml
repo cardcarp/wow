@@ -2,8 +2,10 @@ card_name: Soulsapper Akano
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

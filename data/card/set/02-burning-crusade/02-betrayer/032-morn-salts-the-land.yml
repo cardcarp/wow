@@ -10,4 +10,5 @@ artist: Clint Langley
 
 flavor: Grimtotem
 
-appearance: []
+variation:
+  - transform

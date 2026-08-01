@@ -2,24 +2,26 @@ card_name: Gladiator Loraala
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 3
 
 health: 4
 
-text: Arena allies in your party have " → This ally deals 3 fire damage to target hero."
-
-cost: '5'
-
 combat: Fire
 
 faction: Alliance
 
-temp: Draenei Mage
-
 type: Arena
+
+rule:
+  - type: ability
+    text: Arena allies in your party have " → This ally deals 3 fire damage to target hero."
+
+regulation:
+
+errata: []
+
+temp: Draenei Mage

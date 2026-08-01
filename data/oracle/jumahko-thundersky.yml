@@ -2,22 +2,24 @@ card_name: Jumahko Thundersky
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 1
 
 health: 9
 
-text: Protector
-
-cost: '4'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
 
 temp: Tauren Paladin

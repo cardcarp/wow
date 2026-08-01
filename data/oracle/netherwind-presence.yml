@@ -2,17 +2,19 @@ card_name: Netherwind Presence
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Arcane Hero Required Draw seven cards.
+cost: '7'
 
 class:
   - Mage
 
-cost: '7'
+rule:
+  - type: ability
+    text: Arcane Hero Required Draw seven cards.
+
+regulation:
+
+errata: []
 
 temp: Arcane Talent

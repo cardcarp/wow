@@ -2,17 +2,19 @@ card_name: Judgement of Wisdom
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target opposing hero or ally. Ongoing : When a friendly hero or ally deals combat damage to attached character, that friendly character's controller draws a card."
+cost: '5'
 
 class:
   - Paladin
 
-cost: '5'
+rule:
+  - type: ability
+    text: "Attach to target opposing hero or ally. Ongoing : When a friendly hero or ally deals combat damage to attached character, that friendly character's controller draws a card."
+
+regulation:
+
+errata: []
 
 temp: Holy

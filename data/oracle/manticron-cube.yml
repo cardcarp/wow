@@ -2,14 +2,16 @@ card_name: Manticron Cube
 
 layout: standard
 
-regulation:
-
 category: Misc
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Exhaust a hero or ally in your party → Attach this Cube to that character while that character remains exhausted. Only a raiding player can use this power, and only on his turn.
+
+regulation:
 
 errata: []
 
-text: Exhaust a hero or ally in your party → Attach this Cube to that character while that character remains exhausted. Only a raiding player can use this power, and only on his turn.
-
 temp: ''
-
-type: Boss

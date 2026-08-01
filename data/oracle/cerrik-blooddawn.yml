@@ -2,22 +2,24 @@ card_name: Cerrik Blooddawn
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 2
 
 health: 4
 
-text: Protector When you play an ability, ready Cerrik.
-
-cost: '4'
-
 combat: Holy
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When you play an ability, ready Cerrik.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Paladin

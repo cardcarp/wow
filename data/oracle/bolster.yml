@@ -2,17 +2,19 @@ card_name: Bolster
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Add two +1 counters to target armor.
+cost: '1'
 
 class:
   - Paladin
 
-cost: '1'
+instant: Add two +1 counters to target armor.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Protection

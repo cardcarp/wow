@@ -2,22 +2,24 @@ card_name: Shumu_zun
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 1
 
-text: Elusive 4 → Draw a card.
-
-cost: '3'
-
 combat: Arcane
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Elusive 4 → Draw a card.
+
+regulation:
+
+errata: []
 
 temp: Troll Mage

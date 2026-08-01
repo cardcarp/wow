@@ -2,20 +2,22 @@ card_name: Warmaul Ogre
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 6
 
 health: 5
 
-cost: '6'
-
 combat: Melee
 
-temp: Ogre Warrior
-
 type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ogre Warrior

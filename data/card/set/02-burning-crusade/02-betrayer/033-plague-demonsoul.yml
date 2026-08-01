@@ -10,4 +10,5 @@ artist: Jim Murray
 
 flavor: Shadowsworn
 
-appearance: []
+variation:
+  - transform

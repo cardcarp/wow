@@ -2,17 +2,19 @@ card_name: Spiritual Healing
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Holy Hero Required Ongoing : When you play a Holy ability, your hero heals 2 damage from target hero or ally.'
+cost: '2'
 
 class:
   - Priest
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Holy Hero Required Ongoing : When you play a Holy ability, your hero heals 2 damage from target hero or ally.'
+
+regulation:
+
+errata: []
 
 temp: Holy Talent

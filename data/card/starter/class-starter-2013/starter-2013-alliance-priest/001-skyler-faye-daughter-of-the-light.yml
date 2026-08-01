@@ -10,4 +10,5 @@ artist: Alex Garner
 
 flavor: "\"To be raised in the Light's loving embrace is all anyone could ask for.\""
 
-appearance: []
+variation:
+  - transform

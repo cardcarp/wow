@@ -2,12 +2,14 @@ card_name: Preparing for War
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: "Pay x to complete this quest. Reward : Shuffle X target cards from any number of graveyards into their owners' decks."
 
-text: "Pay x to complete this quest. Reward : Shuffle X target cards from any number of graveyards into their owners' decks."
+regulation:
+
+errata: []
 
 temp: ''

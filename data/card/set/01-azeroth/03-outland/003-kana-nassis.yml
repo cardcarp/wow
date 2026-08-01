@@ -10,4 +10,5 @@ artist: Dermot Power
 
 flavor: '"Draenor is but a memory for me now. Azeroth is my new wilderness."'
 
-appearance: []
+variation:
+  - transform

@@ -2,12 +2,14 @@ card_name: show Yourselves!_
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: 'Ongoing : Each Extended Art ally and weapon has +2 ATK, each EA armor has +2 DEF, and each player pays 2 less to play EA abilities and complete EA quests.'
 
-text: 'Ongoing : Each Extended Art ally and weapon has +2 ATK, each EA armor has +2 DEF, and each player pays 2 less to play EA abilities and complete EA quests.'
+regulation:
+
+errata: []
 
 temp: ''

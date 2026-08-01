@@ -2,17 +2,19 @@ card_name: Blessing of Wisdom
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Attach to target hero or ally. Ongoing : Attached character has " → Draw a card."'
+cost: '5'
 
 class:
   - Paladin
 
-cost: '5'
+instant: 'Attach to target hero or ally. Ongoing : Attached character has " → Draw a card."'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Holy Blessing

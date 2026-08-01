@@ -2,17 +2,19 @@ card_name: Defiance
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Protection Hero Required Ongoing : Only one character can attack on each opponent's turn."
+cost: '3'
 
 class:
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: "Protection Hero Required Ongoing : Only one character can attack on each opponent's turn."
+
+regulation:
+
+errata: []
 
 temp: Protection Talent

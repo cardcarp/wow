@@ -2,22 +2,24 @@ card_name: Azizi Daggerflick
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 2
 
 health: 5
 
-text: Time is Money → Exhaust target ally with cost 4 or less.
-
-cost: '4'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Time is Money → Exhaust target ally with cost 4 or less.
+
+regulation:
+
+errata: []
 
 temp: Goblin Rogue

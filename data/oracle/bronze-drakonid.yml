@@ -2,20 +2,22 @@ card_name: Bronze Drakonid
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: When this ally enters play, if you control no ready resources, you may ready target ally.
-
-cost: '2'
-
 combat: Arcane
+
+rule:
+  - type: ability
+    text: When this ally enters play, if you control no ready resources, you may ready target ally.
+
+regulation:
+
+errata: []
 
 temp: Bronze Dragonkin

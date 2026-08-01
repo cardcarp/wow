@@ -2,19 +2,21 @@ card_name: Blue Suede Shoes
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-instant: When Blue Suede Shoes enters play, target card in play you control is Untargetable this turn.
+cost: '2'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '2'
+instant: When Blue Suede Shoes enters play, target card in play you control is Untargetable this turn.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

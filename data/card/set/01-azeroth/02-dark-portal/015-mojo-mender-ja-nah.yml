@@ -10,4 +10,5 @@ artist: Jonboy Meyers
 
 flavor: "\"Everyone needs a helpin' hand. Mine's just a bit more powerful than others, mon.\""
 
-appearance: []
+variation:
+  - transform

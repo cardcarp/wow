@@ -2,17 +2,19 @@ card_name: Sear
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Your hero deals 2 fire damage to target ally, or 6 if that ally was dealt damage this turn.
+cost: '1'
 
 class:
   - Mage
 
-cost: '1'
+instant: Your hero deals 2 fire damage to target ally, or 6 if that ally was dealt damage this turn.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Fire

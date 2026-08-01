@@ -2,14 +2,16 @@ card_name: Monstrous Strength
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Monster heroes and allies you control have +2 ATK this turn.
-
 cost: '5'
+
+rule:
+  - type: ability
+    text: Monster heroes and allies you control have +2 ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: ''

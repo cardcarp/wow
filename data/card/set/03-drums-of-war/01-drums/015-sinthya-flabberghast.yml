@@ -10,4 +10,5 @@ artist: Dave Kendall
 
 flavor: '"I hope you brought more friends!"'
 
-appearance: []
+variation:
+  - transform

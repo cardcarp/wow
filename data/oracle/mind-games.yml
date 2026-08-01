@@ -2,12 +2,14 @@ card_name: Mind Games
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: On the count of 3, each player says "ability," "ally," "equipment," "hero," or "resource." For each word said more than once, destroy all cards of that kind.
 
-text: On the count of 3, each player says "ability," "ally," "equipment," "hero," or "resource." For each word said more than once, destroy all cards of that kind.
+regulation:
+
+errata: []
 
 temp: ''

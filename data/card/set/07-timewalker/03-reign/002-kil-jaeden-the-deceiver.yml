@@ -10,4 +10,5 @@ artist: Ruan Jia
 
 flavor: '"Chaos! Destruction! Oblivion!"'
 
-appearance: []
+variation:
+  - transform

@@ -2,11 +2,9 @@ card_name: Fel Iron Hatchet
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '4'
 
 class:
   - Paladin
@@ -14,6 +12,10 @@ class:
   - Hunter
   - Shaman
 
-cost: '4'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

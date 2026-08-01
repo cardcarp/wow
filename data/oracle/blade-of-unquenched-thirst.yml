@@ -2,18 +2,20 @@ card_name: Blade of Unquenched Thirst
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the end of your turn, if no damage was dealt with Blade of Unquenched Thirst this turn, destroy it.
+cost: '1'
 
 class:
   - Shaman
   - Rogue
 
-cost: '1'
+rule:
+  - type: ability
+    text: At the end of your turn, if no damage was dealt with Blade of Unquenched Thirst this turn, destroy it.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

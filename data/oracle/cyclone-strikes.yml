@@ -2,8 +2,10 @@ card_name: Cyclone Strikes
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,9 +2,11 @@ card_name: Hippogryph Hatchling
 
 layout: standard
 
-regulation:
-
 category: Token
+
+rule: []
+
+regulation:
 
 errata: []
 

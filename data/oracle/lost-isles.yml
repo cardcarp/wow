@@ -2,14 +2,16 @@ card_name: Lost Isles
 
 layout: standard
 
-regulation:
-
 category: Location
 
-errata: []
-
-text: 1 , → Target Goblin you control has Assault 1 this turn for each equipment you control.
-
 faction: Horde
+
+rule:
+  - type: ability
+    text: 1 , → Target Goblin you control has Assault 1 this turn for each equipment you control.
+
+regulation:
+
+errata: []
 
 temp: ''

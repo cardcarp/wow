@@ -2,14 +2,16 @@ card_name: Melt Weapon
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy all of target opponent's equipment.
-
 cost: '2'
+
+rule:
+  - type: ability
+    text: Destroy all of target opponent's equipment.
+
+regulation:
+
+errata: []
 
 temp: Ragnaros

@@ -2,13 +2,9 @@ card_name: Val_anyr, Hammer of Ancient Kings
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the end of your turn, your hero heals all damage from allies you control. Then, it heals that much damage from itself.
+cost: '4'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: At the end of your turn, your hero heals all damage from allies you control. Then, it heals that much damage from itself.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

@@ -2,8 +2,10 @@ card_name: Sunwalker Dezco
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

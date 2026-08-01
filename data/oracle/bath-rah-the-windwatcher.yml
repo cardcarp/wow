@@ -2,20 +2,22 @@ card_name: Bath_rah the Windwatcher
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 5
 
-text: When each Shaman you control exhausts for the first time each turn, you may ready it.
-
-cost: '5'
-
 combat: Nature
+
+rule:
+  - type: ability
+    text: When each Shaman you control exhausts for the first time each turn, you may ready it.
+
+regulation:
+
+errata: []
 
 temp: Troll Shaman

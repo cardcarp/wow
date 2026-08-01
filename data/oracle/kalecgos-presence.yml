@@ -2,14 +2,16 @@ card_name: Kalecgos_ Presence
 
 layout: standard
 
-regulation:
-
 category: Misc
+
+type: Gift
+
+rule:
+  - type: ability
+    text: "If the last Raider's hero was destroyed while its controller had no cards in his hand, gain this Gift. Use this Gift: Each Raider draws a card."
+
+regulation:
 
 errata: []
 
-text: "If the last Raider's hero was destroyed while its controller had no cards in his hand, gain this Gift. Use this Gift: Each Raider draws a card."
-
 temp: ''
-
-type: Gift

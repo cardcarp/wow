@@ -2,8 +2,10 @@ card_name: Durin Battleheim
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

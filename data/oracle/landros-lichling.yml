@@ -2,20 +2,22 @@ card_name: Landros Lichling
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 3
 
-text: At the start of your turn, you may destroy this ally. If you do, target opponent chooses and ally he controls, and you gain control of it.
-
-cost: '4'
-
 combat: Frost
+
+rule:
+  - type: ability
+    text: At the start of your turn, you may destroy this ally. If you do, target opponent chooses and ally he controls, and you gain control of it.
+
+regulation:
+
+errata: []
 
 temp: Lich

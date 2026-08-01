@@ -2,17 +2,19 @@ card_name: Shockburst
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Opposing allies enter play exhausted this turn.
+cost: '1'
 
 class:
   - Warrior
 
-cost: '1'
+instant: Opposing allies enter play exhausted this turn.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Protection

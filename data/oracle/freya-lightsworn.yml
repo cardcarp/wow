@@ -2,22 +2,24 @@ card_name: Freya Lightsworn
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: → Freya Lightsworn heals 3 damage from target hero or ally.
-
-cost: '2'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: → Freya Lightsworn heals 3 damage from target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Priest

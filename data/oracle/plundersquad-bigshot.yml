@@ -2,8 +2,10 @@ card_name: Plundersquad Bigshot
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

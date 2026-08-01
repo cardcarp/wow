@@ -2,22 +2,24 @@ card_name: scrapper_ Ironbane
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 3
 
 health: 4
 
-text: At the end of your turn, you may destroy target equipment.
-
-cost: '5'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: At the end of your turn, you may destroy target equipment.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Rogue

@@ -2,18 +2,20 @@ card_name: Ashtongue Blade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Loyal Hero Required Untargetable
+cost: '2'
 
 class:
   - Shaman
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: Loyal Hero Required Untargetable
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

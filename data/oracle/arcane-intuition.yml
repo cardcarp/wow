@@ -2,19 +2,21 @@ card_name: Arcane Intuition
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Preparation Ongoing : When Arcane Intuition enters play, draw a card. Your maximum hand size is increased by one.'
+cost: '2'
 
 class:
   - Mage
 
-cost: '2'
+type: Arena
+
+rule:
+  - type: ability
+    text: 'Preparation Ongoing : When Arcane Intuition enters play, draw a card. Your maximum hand size is increased by one.'
+
+regulation:
+
+errata: []
 
 temp: ''
-
-type: Arena

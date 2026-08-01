@@ -2,22 +2,24 @@ card_name: Bubblesmash
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 2
 
-text: This and other Murloc allies you control have Smash .
-
-cost: '4'
-
 combat: Nature
 
-temp: Murloc Hunter
-
 type: Monster
+
+rule:
+  - type: ability
+    text: This and other Murloc allies you control have Smash .
+
+regulation:
+
+errata: []
+
+temp: Murloc Hunter

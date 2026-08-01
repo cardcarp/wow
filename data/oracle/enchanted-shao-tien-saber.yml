@@ -2,8 +2,10 @@ card_name: Enchanted Shao-Tien Saber
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

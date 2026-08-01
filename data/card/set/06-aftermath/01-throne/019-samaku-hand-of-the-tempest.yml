@@ -10,4 +10,5 @@ artist: Steve Tappin
 
 flavor: '"I remember when the storms filled my heart with fear. My devotion to the understanding of their fury has enlightened me more than I could ever have imagined."'
 
-appearance: []
+variation:
+  - transform

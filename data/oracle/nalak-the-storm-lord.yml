@@ -2,8 +2,10 @@ card_name: Nalak, the Storm Lord
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

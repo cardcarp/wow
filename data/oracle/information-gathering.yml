@@ -2,12 +2,14 @@ card_name: Information Gathering
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'During your turn, pay 3 to complete this quest. Reward : Look at the top three cards of your deck. Put one into hand, one on top of your deck, and the other on the bottom.'
 
-text: 'During your turn, pay 3 to complete this quest. Reward : Look at the top three cards of your deck. Put one into hand, one on top of your deck, and the other on the bottom.'
+regulation:
+
+errata: []
 
 temp: ''

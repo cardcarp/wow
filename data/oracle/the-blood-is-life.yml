@@ -2,12 +2,14 @@ card_name: The Blood is Life
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: "During your turn, destroy an ally in your party and pay 1 to complete this quest. Reward : Your hero heals damage from itself equal to that ally's health."
 
-text: "During your turn, destroy an ally in your party and pay 1 to complete this quest. Reward : Your hero heals damage from itself equal to that ally's health."
+regulation:
+
+errata: []
 
 temp: ''

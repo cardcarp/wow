@@ -2,17 +2,19 @@ card_name: Vampiric Siphon
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy up to two target allies. Your hero heals damage from itself equal to the combined remaining health of allies destroyed this way.
+cost: '6'
 
 class:
   - Death Knight
 
-cost: '6'
+rule:
+  - type: ability
+    text: Destroy up to two target allies. Your hero heals damage from itself equal to the combined remaining health of allies destroyed this way.
+
+regulation:
+
+errata: []
 
 temp: Blood

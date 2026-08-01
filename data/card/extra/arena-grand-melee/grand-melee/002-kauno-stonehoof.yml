@@ -10,4 +10,5 @@ artist: Alex Horley Orlandelli
 
 flavor: '"You cannot stop me - you can only hope to contain me!"'
 
-appearance: []
+variation:
+  - transform

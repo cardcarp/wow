@@ -2,17 +2,19 @@ card_name: Leggings of Transcendence
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you play a ability, you may pay 1 . If you do, your hero heals 2 damage from each friendly ally.
+cost: '2'
 
 class:
   - Priest
 
-cost: '2'
+rule:
+  - type: ability
+    text: When you play a ability, you may pay 1 . If you do, your hero heals 2 damage from each friendly ally.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

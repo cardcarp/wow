@@ -2,17 +2,19 @@ card_name: Adrenaline Rush
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Combat Talent Ready all resources you control. Draw cards until you reach your maximum hand size. At the next end of turn, discard your hand.
+cost: '7'
 
 class:
   - Rogue
 
-cost: '7'
+rule:
+  - type: ability
+    text: Combat Talent Ready all resources you control. Draw cards until you reach your maximum hand size. At the next end of turn, discard your hand.
+
+regulation:
+
+errata: []
 
 temp: Combat

@@ -2,20 +2,22 @@ card_name: Enabrin, Timewalker Druid
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 1
 
-text: 'While you control two or more allies that share a or race: → Draw a card.'
-
-cost: '2'
-
 combat: Arcane
+
+rule:
+  - type: ability
+    text: 'While you control two or more allies that share a or race: → Draw a card.'
+
+regulation:
+
+errata: []
 
 temp: Night Elf Druid

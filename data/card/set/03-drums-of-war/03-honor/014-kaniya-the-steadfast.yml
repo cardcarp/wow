@@ -10,4 +10,5 @@ artist: Dave Kendall
 
 flavor: '"Stand ready, my brothers and sisters. They shall not get past us."'
 
-appearance: []
+variation:
+  - transform

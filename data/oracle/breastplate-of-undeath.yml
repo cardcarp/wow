@@ -2,19 +2,21 @@ card_name: Breastplate of Undeath
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: This armor enters play with five +1 counters. At the start of your turn, remove a +1 counter. If none remain, destroy this armor.
+cost: '2'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '2'
+rule:
+  - type: ability
+    text: This armor enters play with five +1 counters. At the start of your turn, remove a +1 counter. If none remain, destroy this armor.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

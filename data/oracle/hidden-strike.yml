@@ -2,17 +2,19 @@ card_name: Hidden Strike
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Reveal an ally from your hand. Your hero deals melee damage equal to that ally's ATK to target exhausted ally.
+cost: '1'
 
 class:
   - Rogue
 
-cost: '1'
+rule:
+  - type: ability
+    text: Reveal an ally from your hand. Your hero deals melee damage equal to that ally's ATK to target exhausted ally.
+
+regulation:
+
+errata: []
 
 temp: Subtlety

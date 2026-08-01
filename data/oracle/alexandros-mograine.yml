@@ -2,20 +2,22 @@ card_name: Alexandros Mograine
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 7
 
 health: 7
 
-text: Protector When Alexandros is destroyed, you may put a 6 / 0 Two-Handed Sword weapon token named Ashbringer into play with Melee (1) and Invincible .
-
-cost: '7'
-
 combat: Holy
+
+rule:
+  - type: ability
+    text: Protector When Alexandros is destroyed, you may put a 6 / 0 Two-Handed Sword weapon token named Ashbringer into play with Melee (1) and Invincible .
+
+regulation:
+
+errata: []
 
 temp: Spirit Paladin

@@ -2,19 +2,21 @@ card_name: Wraps of the Astral Traveler
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'On your turn: 3 , → Remove target opposing ability, ally, or equipment from the game. Its owner puts it into play at the start of your next turn.'
+cost: '3'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'On your turn: 3 , → Remove target opposing ability, ally, or equipment from the game. Its owner puts it into play at the start of your next turn.'
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

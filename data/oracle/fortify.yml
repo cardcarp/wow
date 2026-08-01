@@ -2,18 +2,20 @@ card_name: Fortify
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Your hero has Protector this turn. Your hero has +X ATK while protecting this turn, where X is the cost of target non-hero Paladin or Warrior you control.
+cost: '1'
 
 class:
   - Paladin
   - Warrior
 
-cost: '1'
+instant: Your hero has Protector this turn. Your hero has +X ATK while protecting this turn, where X is the cost of target non-hero Paladin or Warrior you control.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Protection

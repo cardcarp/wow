@@ -10,4 +10,5 @@ artist: R.K. Post
 
 flavor: '"Be at peace. I will not leave you."'
 
-appearance: []
+variation:
+  - transform

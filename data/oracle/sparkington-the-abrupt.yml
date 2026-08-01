@@ -2,25 +2,27 @@ card_name: Sparkington the Abrupt
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 4
 
 health: 2
 
-text: Mages and cards in your hand are instant.
+combat: Arcane
+
+faction: Alliance
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: Mages and cards in your hand are instant.
 
-combat: Arcane
+regulation:
 
-faction: Alliance
+errata: []
 
 temp: Gnome Mage

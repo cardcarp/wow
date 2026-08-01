@@ -2,17 +2,19 @@ card_name: Dismantle
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target equipment.
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: Destroy target equipment.
+
+regulation:
+
+errata: []
 
 temp: Combat

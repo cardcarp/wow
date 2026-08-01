@@ -2,8 +2,10 @@ card_name: Style and Arms
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

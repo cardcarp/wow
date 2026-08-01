@@ -2,25 +2,27 @@ card_name: Hurdan the Everlasting
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 2
 
-text: When you play a ability, if this ally is in your graveyard, you may pay 2 . If you do, put him into play.
+combat: Holy
+
+faction: Alliance
 
 class:
   - Priest
 
-cost: '2'
+rule:
+  - type: ability
+    text: When you play a ability, if this ally is in your graveyard, you may pay 2 . If you do, put him into play.
 
-combat: Holy
+regulation:
 
-faction: Alliance
+errata: []
 
 temp: Dwarf Priest

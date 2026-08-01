@@ -2,22 +2,24 @@ card_name: Modric Sternbeard
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 3
 
-text: Protector Find Treasure When Modric defends, he may heal all damage from target ally.
-
-cost: '3'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Find Treasure When Modric defends, he may heal all damage from target ally.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Paladin

@@ -2,16 +2,18 @@ card_name: Hastened Preparation
 
 layout: standard
 
-regulation:
-
 category: Event
-
-errata: []
-
-text: 'The raid leader chooses one: He readies all of his resources, or each raider readies two of his resources.'
-
-temp: ''
 
 type: Raid
 
 stage: 10
+
+rule:
+  - type: ability
+    text: 'The raid leader chooses one: He readies all of his resources, or each raider readies two of his resources.'
+
+regulation:
+
+errata: []
+
+temp: ''

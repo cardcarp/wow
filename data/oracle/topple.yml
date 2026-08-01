@@ -2,18 +2,20 @@ card_name: Topple
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Destroy target ally attacking your hero.
+cost: '2'
 
 class:
   - Paladin
   - Hunter
 
-cost: '2'
+instant: Destroy target ally attacking your hero.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Survival Retribution

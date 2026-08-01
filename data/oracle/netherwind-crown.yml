@@ -2,17 +2,19 @@ card_name: Netherwind Crown
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 , → Your hero deals 1 arcane damage to target ally. When you play a ability, ready Netherwind Crown.
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: 1 , → Your hero deals 1 arcane damage to target ally. When you play a ability, ready Netherwind Crown.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

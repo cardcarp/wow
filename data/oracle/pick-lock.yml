@@ -2,17 +2,19 @@ card_name: Pick Lock
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Look at target player's hand and choose a location or quest. He discards that card.
+cost: '1'
 
 class:
   - Rogue
 
-cost: '1'
+rule:
+  - type: ability
+    text: Look at target player's hand and choose a location or quest. He discards that card.
+
+regulation:
+
+errata: []
 
 temp: Subtlety

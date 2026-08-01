@@ -2,19 +2,21 @@ card_name: Belt of the Singing Blade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you draw a card, add a verse counter. , Remove three verse counters → Target weapon has Assault 3 this turn.
+cost: '2'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '2'
+rule:
+  - type: ability
+    text: When you draw a card, add a verse counter. , Remove three verse counters → Target weapon has Assault 3 this turn.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

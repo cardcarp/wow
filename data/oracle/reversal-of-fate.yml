@@ -2,12 +2,14 @@ card_name: Reversal of Fate
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: Players can't concede this turn. If a player would lose the game this turn, he wins instead.
 
-text: Players can't concede this turn. If a player would lose the game this turn, he wins instead.
+regulation:
+
+errata: []
 
 temp: ''

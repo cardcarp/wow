@@ -2,14 +2,16 @@ card_name: Cleave Apart
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '2'
 
 instant: Destroy an ability, ready ally, and equipment controlled by target raiding player.
 
-cost: '2'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

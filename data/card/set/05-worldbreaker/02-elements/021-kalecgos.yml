@@ -10,4 +10,5 @@ artist: Alex Horley Orlandelli
 
 flavor: (You may choose new targets for the copy.)
 
-appearance: []
+variation:
+  - transform

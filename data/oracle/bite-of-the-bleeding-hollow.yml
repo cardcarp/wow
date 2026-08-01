@@ -2,8 +2,10 @@ card_name: Bite Of The Bleeding Hollow
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

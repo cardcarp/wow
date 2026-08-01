@@ -2,16 +2,18 @@ card_name: Stoneform
 
 layout: standard
 
-regulation:
-
 category: Ability
-
-errata: []
-
-instant: 'Dwarf Hero Required Destroy any number of abilities attached to your hero. Ongoing : Each of your armor has +1 DEF.'
 
 cost: '2'
 
 faction: Alliance
+
+instant: 'Dwarf Hero Required Destroy any number of abilities attached to your hero. Ongoing : Each of your armor has +1 DEF.'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

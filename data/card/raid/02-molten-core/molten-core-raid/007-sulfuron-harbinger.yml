@@ -10,4 +10,5 @@ artist: Eric Browning
 
 flavor:
 
-appearance: []
+variation:
+  - transform

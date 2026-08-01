@@ -2,18 +2,20 @@ card_name: Downfall Hammer
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you strike with this weapon, you may exhaust target hero or ally. (A protector exhausted this way can't protect this combat.)
+cost: '2'
 
 class:
   - Paladin
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: When you strike with this weapon, you may exhaust target hero or ally. (A protector exhausted this way can't protect this combat.)
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

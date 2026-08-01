@@ -2,22 +2,24 @@ card_name: Swift Palomino
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 0
 
 health: 4
 
-text: Human Hero Required You pay 1 less to complete quests. When you place a resource face up, you pay 1 less to play your next ally this turn. (Mounts can't attack or be attacked.)
-
-cost: '2'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Human Hero Required You pay 1 less to complete quests. When you place a resource face up, you pay 1 less to play your next ally this turn. (Mounts can't attack or be attacked.)
+
+regulation:
+
+errata: []
 
 temp: Horse

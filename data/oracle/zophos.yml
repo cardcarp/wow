@@ -2,22 +2,24 @@ card_name: Zophos
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 6
 
 health: 5
 
-text: Protector When Zophos defends, he deals 3 unpreventable holy damage to target attacking ally.
-
-cost: '7'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When Zophos defends, he deals 3 unpreventable holy damage to target attacking ally.
+
+regulation:
+
+errata: []
 
 temp: Draenei Paladin

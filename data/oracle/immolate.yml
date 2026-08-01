@@ -2,17 +2,19 @@ card_name: Immolate
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target hero or ally, and your hero deals 1 fire damage to it. Ongoing : At the start of your turn, your hero deals 1 fire damage to attached character.'
+cost: '2'
 
 class:
   - Warlock
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Attach to target hero or ally, and your hero deals 1 fire damage to it. Ongoing : At the start of your turn, your hero deals 1 fire damage to attached character.'
+
+regulation:
+
+errata: []
 
 temp: Destruction

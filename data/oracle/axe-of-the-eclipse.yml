@@ -2,19 +2,21 @@ card_name: Axe of the Eclipse
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: This weapon has +2 ATK while an opponent controls more allies than you.
+cost: '3'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '3'
+rule:
+  - type: ability
+    text: This weapon has +2 ATK while an opponent controls more allies than you.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

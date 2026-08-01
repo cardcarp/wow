@@ -10,4 +10,5 @@ artist: Michael Kormarck
 
 flavor: '"We must remain true to the Light, for it will not forsake us as we stand against the Twilight Hammer."'
 
-appearance: []
+variation:
+  - transform

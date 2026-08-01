@@ -2,19 +2,21 @@ card_name: Latros Shifting Sword
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has Dual Wield . You pay 2 less to strike with other Swords.
+cost: '4'
 
 class:
   - Warrior
   - Hunter
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: Your hero has Dual Wield . You pay 2 less to strike with other Swords.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

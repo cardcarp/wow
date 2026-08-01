@@ -2,17 +2,19 @@ card_name: Debilitating Shout
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Opposing allies and weapons have -2 ATK. Death Rattle : Target opposing ally or weapon has -4 ATK this turn.'
+cost: '6'
 
 class:
   - Warrior
 
-cost: '6'
+rule:
+  - type: ability
+    text: 'Ongoing : Opposing allies and weapons have -2 ATK. Death Rattle : Target opposing ally or weapon has -4 ATK this turn.'
+
+regulation:
+
+errata: []
 
 temp: Fury Shout

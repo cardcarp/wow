@@ -2,17 +2,19 @@ card_name: Tricks of the Trade
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Friendly heroes can't be targeted by opponents this turn.
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+instant: Friendly heroes can't be targeted by opponents this turn.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Subtlety

@@ -2,16 +2,19 @@ card_name: Morganis Blackvein
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 25
 
-text: 4 , Flip Morganis Blackvein → Opponents can't draw cards this turn.
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 4 , Flip Morganis Blackvein → Opponents can't draw cards this turn.
+
+regulation:
+
+errata: []
 
 temp: Undead Mage

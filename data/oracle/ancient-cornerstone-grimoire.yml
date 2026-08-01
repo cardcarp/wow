@@ -2,13 +2,9 @@ card_name: Ancient Cornerstone Grimoire
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 2 , → Put a Skeleton ally token into play with 1 ATK / 1 health, Ferocity , Protector , and "At end of turn, destroy this ally."
+cost: '4'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Warlock
   - Mage
 
-cost: '4'
+rule:
+  - type: ability
+    text: 2 , → Put a Skeleton ally token into play with 1 ATK / 1 health, Ferocity , Protector , and "At end of turn, destroy this ally."
+
+regulation:
+
+errata: []
 
 temp: Item Off-Hand

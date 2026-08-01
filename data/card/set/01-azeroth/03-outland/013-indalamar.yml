@@ -10,4 +10,5 @@ artist: Michael Kormarck
 
 flavor: '"I bring da pain!"'
 
-appearance: []
+variation:
+  - transform

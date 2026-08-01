@@ -2,22 +2,24 @@ card_name: Xela the Tormentor
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 3
 
 health: 3
 
-text: When Xela enters play, you may put a Pet card from your graveyard into play if its cost is less than or equal to the number of resources you have.
-
-cost: '6'
-
 combat: Shadow
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When Xela enters play, you may put a Pet card from your graveyard into play if its cost is less than or equal to the number of resources you have.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Warlock

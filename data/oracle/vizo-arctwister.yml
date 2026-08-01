@@ -2,20 +2,22 @@ card_name: Vizo Arctwister
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 4
 
 health: 3
 
-cost: '3'
-
 combat: Arcane
 
 faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Goblin Mage

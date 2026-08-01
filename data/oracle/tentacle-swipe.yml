@@ -2,14 +2,16 @@ card_name: Tentacle Swipe
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Raiders choose and destroy three cards from among all abilities, allies, and/or equipment they control.
+
+regulation:
 
 errata: []
 
-text: Raiders choose and destroy three cards from among all abilities, allies, and/or equipment they control.
-
 temp: ''
-
-type: Boss

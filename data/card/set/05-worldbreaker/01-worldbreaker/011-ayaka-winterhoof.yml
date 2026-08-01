@@ -10,4 +10,5 @@ artist: Oliver Chipping
 
 flavor: '"I have already glimpsed the afterlife, and now you shall see it for yourself."'
 
-appearance: []
+variation:
+  - transform

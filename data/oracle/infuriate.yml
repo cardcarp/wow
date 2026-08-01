@@ -2,17 +2,19 @@ card_name: Infuriate
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : When your hero is dealt combat damage, ready up to that many of your resources.'
+cost: '4'
 
 class:
   - Warrior
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Ongoing : When your hero is dealt combat damage, ready up to that many of your resources.'
+
+regulation:
+
+errata: []
 
 temp: Fury

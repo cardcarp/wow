@@ -2,8 +2,10 @@ card_name: Blank Ongoing Card 3
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

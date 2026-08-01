@@ -2,8 +2,10 @@ card_name: Gate of the Blue Sapphire
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

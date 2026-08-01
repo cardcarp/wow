@@ -2,8 +2,10 @@ card_name: Impending Victory
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

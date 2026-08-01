@@ -2,12 +2,14 @@ card_name: The Key to Freedom
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 4 to complete this quest. Reward : Draw a card.'
 
-text: 'Pay 4 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

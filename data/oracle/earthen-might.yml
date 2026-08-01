@@ -2,17 +2,19 @@ card_name: Earthen Might
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero heals 3 damage from target hero or ally. Then, if that character is undamaged, it also has +3 ATK this turn.
+cost: '1'
 
 class:
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: Your hero heals 3 damage from target hero or ally. Then, if that character is undamaged, it also has +3 ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: Enhancement

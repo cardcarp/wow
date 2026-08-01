@@ -2,14 +2,16 @@ card_name: The Die Is Cast
 
 layout: standard
 
-regulation:
-
 category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: "Ongoing : As this ability enters play, the MARKED hero's controller gains control of it. 1 , Destroy this ability → Interrupt target Dungeon ability."
+
+regulation:
 
 errata: []
 
-text: "Ongoing : As this ability enters play, the MARKED hero's controller gains control of it. 1 , Destroy this ability → Interrupt target Dungeon ability."
-
 temp: ''
-
-type: Dungeon

@@ -10,4 +10,5 @@ artist: Luke Mancini
 
 flavor:
 
-appearance: []
+variation:
+  - transform

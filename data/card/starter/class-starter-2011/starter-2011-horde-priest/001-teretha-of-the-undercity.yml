@@ -10,4 +10,5 @@ artist: Paul Kwon
 
 flavor:
 
-appearance: []
+variation:
+  - transform

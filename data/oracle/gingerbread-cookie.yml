@@ -2,13 +2,9 @@ card_name: Gingerbread Cookie
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Destroy Gingerbread Cookie → Each hero heals 7 damage from itself.
+cost: '3'
 
 class:
   - Priest
@@ -21,6 +17,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: Destroy Gingerbread Cookie → Each hero heals 7 damage from itself.
+
+regulation:
+
+errata: []
 
 temp: Item Cookie

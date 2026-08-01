@@ -2,8 +2,10 @@ card_name: Shakuum
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

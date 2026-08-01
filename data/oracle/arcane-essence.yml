@@ -2,17 +2,19 @@ card_name: Arcane Essence
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Exhaust all resources you control. Draw two cards.
+cost: '2'
 
 class:
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: Exhaust all resources you control. Draw two cards.
+
+regulation:
+
+errata: []
 
 temp: Arcane

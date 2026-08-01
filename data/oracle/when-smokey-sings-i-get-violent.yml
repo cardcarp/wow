@@ -2,12 +2,14 @@ card_name: When Smokey Sings, I Get Violent
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'During your turn, destroy When Smokey Sings, I Get Violent and pay 5 to complete this quest. Reward : Target opponent destroys one of his resources.'
 
-text: 'During your turn, destroy When Smokey Sings, I Get Violent and pay 5 to complete this quest. Reward : Target opponent destroys one of his resources.'
+regulation:
+
+errata: []
 
 temp: ''

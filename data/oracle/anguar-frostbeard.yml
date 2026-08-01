@@ -2,22 +2,24 @@ card_name: Anguar Frostbeard
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 5
 
 health: 2
 
-text: Frost Resistance
-
-cost: '4'
-
 combat: Ranged
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Frost Resistance
+
+regulation:
+
+errata: []
 
 temp: Dwarf Hunter

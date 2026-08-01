@@ -2,12 +2,14 @@ card_name: The Cipher of Damnation
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : Reveal the top two cards of your deck. If they have different card types, put both in your hand. Otherwise, put both on the bottom of your deck.'
 
-text: 'Pay 3 to complete this quest. Reward : Reveal the top two cards of your deck. If they have different card types, put both in your hand. Otherwise, put both on the bottom of your deck.'
+regulation:
+
+errata: []
 
 temp: ''

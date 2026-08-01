@@ -2,20 +2,22 @@ card_name: Adenda Lighthaven
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 4
 
-cost: '5'
-
 combat: Holy
 
 faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Priest

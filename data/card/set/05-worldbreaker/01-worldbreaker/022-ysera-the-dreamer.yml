@@ -10,4 +10,5 @@ artist: Zoltan Boros & Gabor Szikszai
 
 flavor: '"I must seek answers from within the Emerald Dream."'
 
-appearance: []
+variation:
+  - transform

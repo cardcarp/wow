@@ -2,20 +2,22 @@ card_name: Anchorite Alonora
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 5
 
-text: 'Aldor Reputation Inspire: Ally'
-
-cost: '4'
-
 combat: Holy
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Ally'
+
+regulation:
+
+errata: []
 
 temp: Draenei Priest

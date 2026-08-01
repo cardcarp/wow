@@ -2,19 +2,21 @@ card_name: Inventors Focal Sword
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 2 , → If target ability is attached to a hero or ally, attach it to another hero or ally.
+cost: '3'
 
 class:
   - Paladin
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: 2 , → If target ability is attached to a hero or ally, attach it to another hero or ally.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

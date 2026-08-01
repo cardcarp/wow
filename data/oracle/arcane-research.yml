@@ -2,17 +2,19 @@ card_name: Arcane Research
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: You pay 1 less to play Arcane Research for each other card named Arcane Research in your graveyard. Draw two cards.
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: You pay 1 less to play Arcane Research for each other card named Arcane Research in your graveyard. Draw two cards.
+
+regulation:
+
+errata: []
 
 temp: Arcane

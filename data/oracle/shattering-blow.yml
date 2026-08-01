@@ -2,14 +2,16 @@ card_name: Shattering Blow
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target equipment.
-
 cost: '4'
+
+rule:
+  - type: ability
+    text: Destroy target equipment.
+
+regulation:
+
+errata: []
 
 temp: ''

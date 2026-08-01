@@ -2,13 +2,9 @@ card_name: Magnificent Flying Carpet
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Tailoring Hero Required You can control any number of locations. When you place a resource face up, you may ready all locations you control.
+cost: '2'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: Tailoring Hero Required You can control any number of locations. When you place a resource face up, you may ready all locations you control.
+
+regulation:
+
+errata: []
 
 temp: Item Mount

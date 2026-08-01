@@ -2,22 +2,24 @@ card_name: Trakas
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 3
 
-text: 3 , Destroy Trakas → Destroy target ally or equipment.
-
-cost: '4'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 3 , Destroy Trakas → Destroy target ally or equipment.
+
+regulation:
+
+errata: []
 
 temp: Draenei Warrior

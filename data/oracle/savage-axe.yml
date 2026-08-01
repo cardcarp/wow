@@ -2,8 +2,10 @@ card_name: Savage Axe
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,23 +2,25 @@ card_name: Mothra
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 6
 
 health: 7
 
-text: Protector When this ally exhausts, ready up to three resources you control.
+combat: Melee
 
 class:
   - Hunter
 
-cost: '6'
+rule:
+  - type: ability
+    text: Protector When this ally exhausts, ready up to three resources you control.
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Moth

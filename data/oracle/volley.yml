@@ -2,17 +2,19 @@ card_name: Volley
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : At the end of your turn, your hero deals 1 arcane damage to each of up to three target heroes and/or allies. When your hero is dealt damage, destroy Volley.'
+cost: '2'
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : At the end of your turn, your hero deals 1 arcane damage to each of up to three target heroes and/or allies. When your hero is dealt damage, destroy Volley.'
+
+regulation:
+
+errata: []
 
 temp: Marksmanship

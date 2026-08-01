@@ -10,4 +10,5 @@ artist: Greg Staples
 
 flavor: The ruined world of Draenor serves as a caution to those who would follow in Gul'dan's footsteps.
 
-appearance: []
+variation:
+  - transform

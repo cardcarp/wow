@@ -2,22 +2,24 @@ card_name: Caera Sunforge
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 2
 
 health: 6
 
-text: Protector
-
-cost: '4'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Paladin

@@ -2,20 +2,22 @@ card_name: Toshe Chaosrender
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 0
 
 health: 0
 
-text: Opponents can't complete quests. You can complete opposing quests. (You get the rewards.) Toshe has +1 / +1 for each opposing face-down resource.
-
-cost: '4'
-
 combat: Nature
+
+rule:
+  - type: ability
+    text: Opponents can't complete quests. You can complete opposing quests. (You get the rewards.) Toshe has +1 / +1 for each opposing face-down resource.
+
+regulation:
+
+errata: []
 
 temp: Taunka Shaman

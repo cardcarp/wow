@@ -2,22 +2,24 @@ card_name: Sha_lin Nightwind
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 4
 
 health: 1
 
-text: Elusive
-
-cost: '3'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive
+
+regulation:
+
+errata: []
 
 temp: Night Elf Druid

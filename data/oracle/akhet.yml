@@ -2,22 +2,24 @@ card_name: Akhet
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 5
 
-text: Protector While Akhet is the only ally in play, double his ATK and and he has Sentinel .
-
-cost: '6'
-
 combat: Melee
 
-temp: Lion
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Protector While Akhet is the only ally in play, double his ATK and and he has Sentinel .
+
+regulation:
+
+errata: []
+
+temp: Lion

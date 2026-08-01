@@ -2,17 +2,19 @@ card_name: Sacred Circle
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put target ally from your graveyard into play if its cost is less than or equal to the number of resources you control.
+cost: '3'
 
 class:
   - Priest
 
-cost: '3'
+rule:
+  - type: ability
+    text: Put target ally from your graveyard into play if its cost is less than or equal to the number of resources you control.
+
+regulation:
+
+errata: []
 
 temp: Holy

@@ -2,17 +2,19 @@ card_name: Invoke the Nether
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Remove all allies from the game.
+cost: '6'
 
 class:
   - Warlock
 
-cost: '6'
+rule:
+  - type: ability
+    text: Remove all allies from the game.
+
+regulation:
+
+errata: []
 
 temp: Destruction

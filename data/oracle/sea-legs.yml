@@ -2,12 +2,14 @@ card_name: Sea Legs
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'On your turn: Pay 3 to complete this quest. Reward : Put a 2 / 1 Water Elemental ally token into play.'
 
-text: 'On your turn: Pay 3 to complete this quest. Reward : Put a 2 / 1 Water Elemental ally token into play.'
+regulation:
+
+errata: []
 
 temp: ''

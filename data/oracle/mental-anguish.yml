@@ -2,17 +2,19 @@ card_name: Mental Anguish
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Target player discards two cards.
+cost: '3'
 
 class:
   - Priest
 
-cost: '3'
+rule:
+  - type: ability
+    text: Target player discards two cards.
+
+regulation:
+
+errata: []
 
 temp: Shadow

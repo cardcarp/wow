@@ -10,4 +10,5 @@ artist: Zoltan Boros & Gabor Szikszai
 
 flavor: Thunder follows lightning, but Kungen's enemies hear him before they see the light.
 
-appearance: []
+variation:
+  - transform

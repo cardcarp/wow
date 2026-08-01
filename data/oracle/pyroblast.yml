@@ -2,17 +2,19 @@ card_name: Pyroblast
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Fire Hero Required Attach to target hero or ally, and your hero deals 6 fire damage to it. Ongoing : At the start of your turn, your hero deals 2 fire damage to attached character.'
+cost: '8'
 
 class:
   - Paladin
 
-cost: '8'
+rule:
+  - type: ability
+    text: 'Fire Hero Required Attach to target hero or ally, and your hero deals 6 fire damage to it. Ongoing : At the start of your turn, your hero deals 2 fire damage to attached character.'
+
+regulation:
+
+errata: []
 
 temp: Fire Talent

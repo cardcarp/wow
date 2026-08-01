@@ -2,19 +2,21 @@ card_name: Warmace of Menethil
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When damage is dealt with this weapon, draw a card.
+cost: '5'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '5'
+rule:
+  - type: ability
+    text: When damage is dealt with this weapon, draw a card.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Mace

@@ -2,14 +2,16 @@ card_name: Call of C_Thun
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Monster Hero Required Ongoing : → Cards in your deck have Warp this turn until you use a Warp power that was granted this way.'
-
 cost: '9'
+
+rule:
+  - type: ability
+    text: 'Monster Hero Required Ongoing : → Cards in your deck have Warp this turn until you use a Warp power that was granted this way.'
+
+regulation:
+
+errata: []
 
 temp: ''

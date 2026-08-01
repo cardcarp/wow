@@ -2,13 +2,9 @@ card_name: Celadon Pendant
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-instant: Your hero has Mend 1 for each face-up resource you control.
+cost: '2'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '2'
+instant: Your hero has Mend 1 for each face-up resource you control.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Item Neck

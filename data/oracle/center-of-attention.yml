@@ -2,14 +2,16 @@ card_name: Center of Attention
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally. Ongoing : Attached ally is AWESOME!'
-
 cost: '2'
+
+rule:
+  - type: ability
+    text: 'Attach to target ally. Ongoing : Attached ally is AWESOME!'
+
+regulation:
+
+errata: []
 
 temp: ''

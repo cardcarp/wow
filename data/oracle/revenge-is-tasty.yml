@@ -2,12 +2,14 @@ card_name: Revenge Is Tasty
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Revenge Is Tasty enters play exhausted. Pay 2 to complete this quest. Reward : Draw a card.'
 
-text: 'Revenge Is Tasty enters play exhausted. Pay 2 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

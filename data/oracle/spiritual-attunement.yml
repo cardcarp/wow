@@ -2,17 +2,19 @@ card_name: Spiritual Attunement
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : When another hero or ally heals damage from your hero, you may pay 1 . If you do, draw a card.'
+cost: '3'
 
 class:
   - Paladin
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : When another hero or ally heals damage from your hero, you may pay 1 . If you do, draw a card.'
+
+regulation:
+
+errata: []
 
 temp: Protection

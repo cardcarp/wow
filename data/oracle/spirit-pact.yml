@@ -2,12 +2,14 @@ card_name: Spirit Pact
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: "Ongoing : If a card would be destroyed, put it into its owner's hand instead."
 
-text: "Ongoing : If a card would be destroyed, put it into its owner's hand instead."
+regulation:
+
+errata: []
 
 temp: ''

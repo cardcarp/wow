@@ -2,17 +2,19 @@ card_name: Run to Ground
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : At the start of your turn, target an opposing hero or ally. Allies in your party have +3 ATK while attacking that character this turn.'
+cost: '5'
 
 class:
   - Hunter
 
-cost: '5'
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, target an opposing hero or ally. Allies in your party have +3 ATK while attacking that character this turn.'
+
+regulation:
+
+errata: []
 
 temp: Marksmanship

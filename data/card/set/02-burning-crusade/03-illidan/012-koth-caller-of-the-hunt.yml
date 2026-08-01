@@ -10,4 +10,5 @@ artist: Daarken
 
 flavor: '"Hunt him down like the dog he is!"'
 
-appearance: []
+variation:
+  - transform

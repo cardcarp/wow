@@ -2,22 +2,24 @@ card_name: Jaroth Lightguard
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 4
 
-text: Protector Mend 1
-
-cost: '4'
-
 combat: Holy
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Mend 1
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Paladin

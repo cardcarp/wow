@@ -2,17 +2,19 @@ card_name: Fan of Knives
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Your hero deals 2 ranged damage to each opposing hero and ally. On your turn: Discard a weapon → Put this ability from your graveyard into your hand.'
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Your hero deals 2 ranged damage to each opposing hero and ally. On your turn: Discard a weapon → Put this ability from your graveyard into your hand.'
+
+regulation:
+
+errata: []
 
 temp: Combat

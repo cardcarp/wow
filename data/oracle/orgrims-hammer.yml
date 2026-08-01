@@ -2,14 +2,16 @@ card_name: Orgrims Hammer
 
 layout: standard
 
-regulation:
-
 category: Location
 
-errata: []
-
-text: 'When a quest you control turns face down, add a cannonball counter. On your turn: 1 , , Remove two cannonball counters → Your hero deals 4 ranged damage to target ally.'
-
 faction: Horde
+
+rule:
+  - type: ability
+    text: 'When a quest you control turns face down, add a cannonball counter. On your turn: 1 , , Remove two cannonball counters → Your hero deals 4 ranged damage to target ally.'
+
+regulation:
+
+errata: []
 
 temp: ''

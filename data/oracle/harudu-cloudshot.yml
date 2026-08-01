@@ -2,22 +2,24 @@ card_name: Harudu Cloudshot
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 5
 
-text: This ally has +4 ATK while attacking an ally with cost 4 or more.
-
-cost: '3'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: This ally has +4 ATK while attacking an ally with cost 4 or more.
+
+regulation:
+
+errata: []
 
 temp: Tauren Hunter

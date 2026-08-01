@@ -2,17 +2,19 @@ card_name: Healing Touch
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero heals 10 damage from target hero or ally.
+cost: '3'
 
 class:
   - Druid
 
-cost: '3'
+rule:
+  - type: ability
+    text: Your hero heals 10 damage from target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Restoration

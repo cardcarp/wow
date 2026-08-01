@@ -2,22 +2,24 @@ card_name: Ol_ Stonewall
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 4
 
 health: 4
 
-instant: Protector At the start of your turn, destroy Ol' Stonewall.
-
-cost: '2'
-
 combat: Melee
 
 faction: Alliance
+
+instant: Protector At the start of your turn, destroy Ol' Stonewall.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Dwarf Warrior

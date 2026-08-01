@@ -2,18 +2,20 @@ card_name: Bloody Ritual
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: As an additional cost to play, put 4 damage on your hero. Draw 4 cards.
+cost: '4'
 
 class:
   - Warrior
   - Warlock
 
-cost: '4'
+rule:
+  - type: ability
+    text: As an additional cost to play, put 4 damage on your hero. Draw 4 cards.
+
+regulation:
+
+errata: []
 
 temp: Affliction Protection

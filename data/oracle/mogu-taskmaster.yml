@@ -2,8 +2,10 @@ card_name: Mogu Taskmaster
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

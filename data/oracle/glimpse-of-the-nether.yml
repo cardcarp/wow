@@ -2,12 +2,14 @@ card_name: Glimpse of the Nether
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: Each player may open a sealed World of Warcraft® TCG booster pack he owns. If he does, he puts an ability, ally, equipment, location, or quest card from that pack into his hand.
 
-text: Each player may open a sealed World of Warcraft® TCG booster pack he owns. If he does, he puts an ability, ally, equipment, location, or quest card from that pack into his hand.
+regulation:
+
+errata: []
 
 temp: ''

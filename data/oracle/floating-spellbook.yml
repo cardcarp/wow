@@ -2,20 +2,22 @@ card_name: Floating Spellbook
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 0
 
 health: 1
 
-text: Elusive , Spellshield You have no maximum hand size.
-
-cost: '1'
-
 combat: Arcane
+
+rule:
+  - type: ability
+    text: Elusive , Spellshield You have no maximum hand size.
+
+regulation:
+
+errata: []
 
 temp: Spellbook

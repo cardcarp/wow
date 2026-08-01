@@ -2,14 +2,16 @@ card_name: Quicken the Pace
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Put the top card of the event deck into your resource row face down. Each opponent puts the top card of his deck into his resource row face down.
+
+regulation:
 
 errata: []
 
-text: Put the top card of the event deck into your resource row face down. Each opponent puts the top card of his deck into his resource row face down.
-
 temp: ''
-
-type: Raid

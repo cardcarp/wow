@@ -2,20 +2,22 @@ card_name: Magistrix Oleinas
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 4
 
 health: 5
 
-text: Scryer Reputation Ally cards in your hand are instant.
-
-cost: '5'
-
 combat: Arcane
+
+rule:
+  - type: ability
+    text: Scryer Reputation Ally cards in your hand are instant.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Mage

@@ -2,13 +2,9 @@ card_name: Battle Mages Baton
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: x , Exhaust your hero → Destroy target ability, ally, or equipment with cost X.
+cost: '6'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Warlock
   - Mage
 
-cost: '6'
+rule:
+  - type: ability
+    text: x , Exhaust your hero → Destroy target ability, ally, or equipment with cost X.
+
+regulation:
+
+errata: []
 
 temp: 2H Arena Weapon Staff

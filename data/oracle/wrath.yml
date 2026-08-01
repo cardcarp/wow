@@ -2,17 +2,19 @@ card_name: Wrath
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 3 nature damage to target hero or ally.
+cost: '2'
 
 class:
   - Druid
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero deals 3 nature damage to target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Balance

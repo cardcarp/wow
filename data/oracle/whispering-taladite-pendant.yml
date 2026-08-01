@@ -2,8 +2,10 @@ card_name: Whispering Taladite Pendant
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,20 +2,22 @@ card_name: Mercenary Dominic
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 3
 
-text: 'Once per turn: 2 → Your hero has Assault 2 this turn.'
-
-cost: '3'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: 'Once per turn: 2 → Your hero has Assault 2 this turn.'
+
+regulation:
+
+errata: []
 
 temp: Undead Rogue

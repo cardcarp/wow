@@ -2,17 +2,19 @@ card_name: Primal Madness
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Feral Combat Talent Ongoing : Your hero has Assault 3 , Mend 3 , Protector , and Stealth . At the end of your turn, you may ready your hero.'
+cost: '5'
 
 class:
   - Druid
 
-cost: '5'
+instant: 'Feral Combat Talent Ongoing : Your hero has Assault 3 , Mend 3 , Protector , and Stealth . At the end of your turn, you may ready your hero.'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Feral

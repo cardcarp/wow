@@ -2,17 +2,19 @@ card_name: Howl from Beyond
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Warp Put target ally on top of its owner's deck.
+cost: '4'
 
 class:
   - Warrior
 
-cost: '4'
+instant: Warp Put target ally on top of its owner's deck.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Fury

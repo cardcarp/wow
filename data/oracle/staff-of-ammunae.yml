@@ -2,13 +2,9 @@ card_name: Staff of Ammunae
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Artifact When your hero is dealt 1 or more damage by an attacking hero or ally, you may put a 0 / 1 Seedling Pod ally token into play with Mend 1 .
+cost: '3'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: Artifact When your hero is dealt 1 or more damage by an attacking hero or ally, you may put a 0 / 1 Seedling Pod ally token into play with Mend 1 .
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

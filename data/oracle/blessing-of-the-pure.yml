@@ -2,17 +2,19 @@ card_name: Blessing of the Pure
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally you control. Ongoing : When this ability enters play, you may destroy target ability. Attached ally has +2 / +2.'
+cost: '2'
 
 class:
   - Paladin
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Attach to target ally you control. Ongoing : When this ability enters play, you may destroy target ability. Attached ally has +2 / +2.'
+
+regulation:
+
+errata: []
 
 temp: Holy Blessing Attachment

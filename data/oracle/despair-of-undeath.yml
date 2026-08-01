@@ -2,17 +2,19 @@ card_name: Despair of Undeath
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put a 3 / 3 Ghoul ally token into play. Opposing allies have -1 this turn for each Ghoul you control.
+cost: '5'
 
 class:
   - Death Knight
 
-cost: '5'
+rule:
+  - type: ability
+    text: Put a 3 / 3 Ghoul ally token into play. Opposing allies have -1 this turn for each Ghoul you control.
+
+regulation:
+
+errata: []
 
 temp: Unholy

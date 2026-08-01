@@ -2,17 +2,19 @@ card_name: Deadliness
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Subtlety Hero Required Choose one or more: Destroy target exhausted ally; destroy target exhausted equipment; or destroy target exhausted resource.'
+cost: '4'
 
 class:
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Subtlety Hero Required Choose one or more: Destroy target exhausted ally; destroy target exhausted equipment; or destroy target exhausted resource.'
+
+regulation:
+
+errata: []
 
 temp: Subtlety Talent

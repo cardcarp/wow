@@ -2,23 +2,25 @@ card_name: Nightfire
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 4
 
-text: 2 → Nightfire has +1 ATK this turn.
+combat: Fire
 
 class:
   - Hunter
 
-cost: '3'
+rule:
+  - type: ability
+    text: 2 → Nightfire has +1 ATK this turn.
 
-combat: Fire
+regulation:
+
+errata: []
 
 temp: Dragonhawk

@@ -10,4 +10,5 @@ artist: Ben Olson
 
 flavor: '"Never in all my days did I think that I would ever get to witness the elemental lords in all their power and might."'
 
-appearance: []
+variation:
+  - transform

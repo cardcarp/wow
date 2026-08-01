@@ -2,13 +2,9 @@ card_name: Ring of Binding
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Opponents pay 1 more to play abilities that target your hero.
+cost: '2'
 
 class:
   - Priest
@@ -21,6 +17,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: Opponents pay 1 more to play abilities that target your hero.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

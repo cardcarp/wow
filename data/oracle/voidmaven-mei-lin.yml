@@ -2,8 +2,10 @@ card_name: Voidmaven Mei Lin
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

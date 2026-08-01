@@ -2,16 +2,18 @@ card_name: Golem Skull Helm
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '3'
 
 class:
   - Paladin
   - Warrior
 
-cost: '3'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

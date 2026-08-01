@@ -2,22 +2,24 @@ card_name: Gerana Sparkfist
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 3
 
 health: 4
 
-text: When this ally enters play, she deals 1 arcane damage to each opposing hero and ally.
-
-cost: '5'
-
 combat: Arcane
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, she deals 1 arcane damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Mage

@@ -2,13 +2,9 @@ card_name: Butchers Cleaver
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: This weapon has +2 ATK while your hero is attacking a hero with 15 or more damage.
+cost: '2'
 
 class:
   - Warrior
@@ -18,6 +14,12 @@ class:
   - Death Knight
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: This weapon has +2 ATK while your hero is attacking a hero with 15 or more damage.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

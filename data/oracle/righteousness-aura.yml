@@ -2,17 +2,19 @@ card_name: Righteousness Aura
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : If a hero or ally in your party would deal damage, it deals that much +1 instead.'
+cost: '4'
 
 class:
   - Paladin
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Ongoing : If a hero or ally in your party would deal damage, it deals that much +1 instead.'
+
+regulation:
+
+errata: []
 
 temp: Retribution

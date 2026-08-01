@@ -10,4 +10,5 @@ artist: Slawomir Maniak
 
 flavor: '"RwlRwlRwlRwl!"'
 
-appearance: []
+variation:
+  - transform

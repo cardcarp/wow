@@ -10,4 +10,5 @@ artist: Daren Bader
 
 flavor: '"The Scourge dare threaten the Horde? My blade will not stop until Naxxramas is filled with silence and the plague of undeath has been stamped out from this place."'
 
-appearance: []
+variation:
+  - transform

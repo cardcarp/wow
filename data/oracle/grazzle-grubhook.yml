@@ -2,22 +2,24 @@ card_name: Grazzle Grubhook
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: Time is Money → Draw a card, then discard a card.
-
-cost: '2'
-
 combat: Arcane
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Time is Money → Draw a card, then discard a card.
+
+regulation:
+
+errata: []
 
 temp: Goblin Mage

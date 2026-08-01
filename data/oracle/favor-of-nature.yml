@@ -2,17 +2,19 @@ card_name: Favor of Nature
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, put two 1 / 1 Treant ally tokens into play.'
+cost: '2'
 
 class:
   - Druid
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, put two 1 / 1 Treant ally tokens into play.'
+
+regulation:
+
+errata: []
 
 temp: Balance

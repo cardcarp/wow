@@ -2,22 +2,24 @@ card_name: _Tubs_ Klankbopple
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 4
 
 health: 6
 
-text: When this ally enters play, he may deal 4 melee damage to target ally with cost 4 or less.
-
-cost: '7'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, he may deal 4 melee damage to target ally with cost 4 or less.
+
+regulation:
+
+errata: []
 
 temp: Gnome Rogue

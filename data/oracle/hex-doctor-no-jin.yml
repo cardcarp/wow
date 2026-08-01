@@ -2,22 +2,24 @@ card_name: Hex Doctor No_jin
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 0
 
 health: 3
 
-text: No'jin has +3 ATK while you have fewer resources than an opponent.
-
-cost: '1'
-
 combat: Frost
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: No'jin has +3 ATK while you have fewer resources than an opponent.
+
+regulation:
+
+errata: []
 
 temp: Troll Mage

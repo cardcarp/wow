@@ -2,22 +2,24 @@ card_name: Makta the Rumbler
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 8
 
 health: 6
 
-text: While you control a Shout, allies you control have +1 / +1, and opposing allies have -1 / -1.
-
-cost: '7'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: While you control a Shout, allies you control have +1 / +1, and opposing allies have -1 / -1.
+
+regulation:
+
+errata: []
 
 temp: Tauren Warrior

@@ -2,22 +2,24 @@ card_name: Terrorguard Detonator
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 2
 
-text: When this ally enters play, you may destroy another ally you control. If you do, destroy target ally.
-
-cost: '4'
-
 combat: Shadow
 
-temp: Terrorguard Demon
-
 type: Monster
+
+rule:
+  - type: ability
+    text: When this ally enters play, you may destroy another ally you control. If you do, destroy target ally.
+
+regulation:
+
+errata: []
+
+temp: Terrorguard Demon

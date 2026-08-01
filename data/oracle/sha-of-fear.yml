@@ -2,8 +2,10 @@ card_name: Sha of Fear
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

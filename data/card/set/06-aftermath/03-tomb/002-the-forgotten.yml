@@ -10,4 +10,5 @@ artist: Steve Toppin
 
 flavor: '"All must be cleansed; it is my purpose, my entire reason for being."'
 
-appearance: []
+variation:
+  - transform

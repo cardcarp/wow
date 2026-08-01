@@ -10,4 +10,5 @@ artist: Christopher Moeller
 
 flavor: '"You call that hiding? I will take a payment of flesh for your foolishness."'
 
-appearance: []
+variation:
+  - transform

@@ -2,17 +2,19 @@ card_name: Fangs of the Father
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: "When your hero deals combat damage with this weapon to an opposing hero, choose one: That hero's controller discards two random cards; or exhaust up to two target allies, and they can't ready next turn; or search your deck for up to two poisons, reveal them, and put them into your hand."
+cost: '5'
 
 class:
   - Rogue
 
-cost: '5'
+rule:
+  - type: ability
+    text: "When your hero deals combat damage with this weapon to an opposing hero, choose one: That hero's controller discards two random cards; or exhaust up to two target allies, and they can't ready next turn; or search your deck for up to two poisons, reveal them, and put them into your hand."
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Dagger

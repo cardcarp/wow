@@ -2,17 +2,19 @@ card_name: Mana Diamond
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : At the start of your turn, add a mana counter to this ability. Then, you may destroy this ability. If you do, draw a card for each mana counter.'
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, add a mana counter to this ability. Then, you may destroy this ability. If you do, draw a card for each mana counter.'
+
+regulation:
+
+errata: []
 
 temp: Arcane

@@ -2,17 +2,19 @@ card_name: Arcing Smash
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Traitor Hero Required Destroy target opposing equipment and all opposing equipment with the same cost as that equipment.
+cost: '2'
 
 class:
   - Warrior
 
-cost: '2'
+rule:
+  - type: ability
+    text: Traitor Hero Required Destroy target opposing equipment and all opposing equipment with the same cost as that equipment.
+
+regulation:
+
+errata: []
 
 temp: Traitor

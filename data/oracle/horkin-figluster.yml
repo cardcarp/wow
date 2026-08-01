@@ -2,22 +2,24 @@ card_name: Horkin Figluster
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 4
 
-text: War Stomp When Horkin enters play, exhaust all opposing heroes and allies.
-
-cost: '4'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: War Stomp When Horkin enters play, exhaust all opposing heroes and allies.
+
+regulation:
+
+errata: []
 
 temp: Tauren Druid

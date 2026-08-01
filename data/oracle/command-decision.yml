@@ -2,17 +2,19 @@ card_name: Command Decision
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : 1 , → Target ally you control has Protector this turn.'
+cost: '3'
 
 class:
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : 1 , → Target ally you control has Protector this turn.'
+
+regulation:
+
+errata: []
 
 temp: Protection

@@ -8,6 +8,27 @@ from ruamel.yaml.comments import CommentedMap
 
 from part.util import to_kebab_case
 
+def load_schema_order(schema_name):
+    # Field order is taken from the schema file so the two never drift apart
+    schema_path = f'schema/{schema_name}.yml'
+    if not os.path.exists(schema_path):
+        print(f"Warning: schema/{schema_name}.yml not found, leaving field order as-is.")
+        return None
+
+    yaml = YAML()
+    with open(schema_path, 'r', encoding='utf-8') as f:
+        return list(yaml.load(f).keys())
+
+def order_by_schema(entry, order):
+    # Keys the schema knows about come first, in schema order.
+    # Anything unrecognized is kept at the end rather than dropped.
+    if not order:
+        return entry
+
+    ordered = {key: entry[key] for key in order if key in entry}
+    ordered.update({k: v for k, v in entry.items() if k not in order})
+    return ordered
+
 def save_yml(path, data):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     
@@ -56,22 +77,26 @@ def split_json_to_yml():
         print(f"Warning: {joined_file} not found.")
 
     # --- 1. Split metadata maps
+    # Target folder, plus the schema whose field order the output should follow
+    # (None leaves the JSON's own key order untouched)
     simple_maps = {
-        'dist/oracle.json': 'data/oracle',
-        'dist/collection.json': 'data/collection',
-        'dist/set.json': 'data/set',
-        'dist/format.json': 'data/format'
+        'dist/oracle.json': ('data/oracle', 'oracle'),
+        'dist/collection.json': ('data/collection', None),
+        'dist/set.json': ('data/set', None),
+        'dist/format.json': ('data/format', None)
     }
 
-    for json_file, target_dir in simple_maps.items():
+    for json_file, (target_dir, schema_name) in simple_maps.items():
         if os.path.exists(json_file):
             with open(json_file, 'r') as f:
                 data_map = json.load(f)
-            
+
+            field_order = load_schema_order(schema_name) if schema_name else None
+
             print(f"Splitting {json_file} into {target_dir}...")
             for key, entry in data_map.items():
                 yml_path = os.path.join(target_dir, f"{key}.yml")
-                save_yml(yml_path, entry)
+                save_yml(yml_path, order_by_schema(entry, field_order))
         else:
             print(f"Warning: {json_file} not found, skipping.")
 
@@ -150,7 +175,7 @@ def split_json_to_yml():
                 "rarity": card_data.get('rarity', ''),
                 "artist": card_data.get('artist', ''),
                 "flavor": card_data.get('flavor', ''),
-                "appearance": card_data.get('appearance', [])
+                "variation": card_data.get('variation', [])
             }
 
             save_yml(path, ordered_card_data)

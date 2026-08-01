@@ -10,4 +10,5 @@ artist: Jim Murray
 
 flavor: '"Practice always makes perfect."'
 
-appearance: []
+variation:
+  - transform

@@ -2,22 +2,24 @@ card_name: Ghostly Charger
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 0
 
 health: 3
 
-text: "If you placed a resource face up into your resource row this turn: → Target ally has Ferocity and Stealth this turn. (Mounts can't attack or be attacked.)"
-
-cost: '2'
-
 combat: Melee
 
-temp: Horse Spirit
-
 type: Monster
+
+rule:
+  - type: ability
+    text: "If you placed a resource face up into your resource row this turn: → Target ally has Ferocity and Stealth this turn. (Mounts can't attack or be attacked.)"
+
+regulation:
+
+errata: []
+
+temp: Horse Spirit

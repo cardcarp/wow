@@ -2,8 +2,10 @@ card_name: Jolee Felpath
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

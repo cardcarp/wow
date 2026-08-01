@@ -2,12 +2,14 @@ card_name: The Lexicon Demonica
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'During your turn, pay 3 to complete this quest. Reward : Turn all resources face down.'
 
-text: 'During your turn, pay 3 to complete this quest. Reward : Turn all resources face down.'
+regulation:
+
+errata: []
 
 temp: ''

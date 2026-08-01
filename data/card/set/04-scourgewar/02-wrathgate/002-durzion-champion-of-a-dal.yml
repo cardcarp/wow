@@ -10,4 +10,5 @@ artist: Christian Lichtner
 
 flavor: '"Pray for those who willingly gave all they had to combat this great evil."'
 
-appearance: []
+variation:
+  - transform

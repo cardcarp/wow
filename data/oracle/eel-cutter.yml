@@ -2,13 +2,9 @@ card_name: Eel Cutter
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 , → Allies you control have Assault 1 this turn.
+cost: '3'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Death Knight
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: 1 , → Allies you control have Assault 1 this turn.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

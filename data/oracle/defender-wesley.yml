@@ -2,8 +2,10 @@ card_name: Defender Wesley
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

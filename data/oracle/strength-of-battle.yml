@@ -2,18 +2,20 @@ card_name: Strength of Battle
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: This turn, weapons you control have Assault 1 for each Shaman and Warrior you control.
+cost: '1'
 
 class:
   - Warrior
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: This turn, weapons you control have Assault 1 for each Shaman and Warrior you control.
+
+regulation:
+
+errata: []
 
 temp: Enhancement Fury

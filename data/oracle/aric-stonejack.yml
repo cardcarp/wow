@@ -2,20 +2,22 @@ card_name: Aric Stonejack
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 7 → Flip Aric
-
 faction: Alliance
 
-temp: Dwarf Death Knight
-
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: 7 → Flip Aric
+  - type: ability
+    position: reverse
     text: At the end of your turn, if you do not control a Ghoul, put a 3 / 3 Ghoul ally token into play.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Death Knight

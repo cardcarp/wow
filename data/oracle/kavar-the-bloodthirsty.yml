@@ -2,20 +2,22 @@ card_name: Kavar the Bloodthirsty
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 4 → Flip Kavar face down.
-
 faction: Alliance
 
-temp: Worgen Death Knight
-
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: 4 → Flip Kavar face down.
+  - type: ability
+    position: reverse
     text: At the start of your turn, you may exhaust target card.
+
+regulation:
+
+errata: []
+
+temp: Worgen Death Knight

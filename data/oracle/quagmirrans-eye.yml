@@ -2,13 +2,9 @@ card_name: Quagmirrans Eye
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: You pay 1 less to play abilities, to a minimum of 1 .
+cost: '3'
 
 class:
   - Priest
@@ -18,6 +14,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: You pay 1 less to play abilities, to a minimum of 1 .
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

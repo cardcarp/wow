@@ -10,4 +10,5 @@ artist: Malcolm Davis (front), Alex Horley (back)
 
 flavor:
 
-appearance: []
+variation:
+  - transform

@@ -2,22 +2,24 @@ card_name: Idra_kess Enchantress
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 2
 
 health: 5
 
-text: ', Destroy this and two other allies you control → Search your hand and/or deck for a card named Ozumat and put it into play.'
-
-cost: '4'
-
 combat: Frost
 
-temp: Naga Mage
-
 type: Monster
+
+rule:
+  - type: ability
+    text: ', Destroy this and two other allies you control → Search your hand and/or deck for a card named Ozumat and put it into play.'
+
+regulation:
+
+errata: []
+
+temp: Naga Mage

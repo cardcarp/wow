@@ -10,4 +10,5 @@ artist: Steven Belledin
 
 flavor: "\"As long as our faith remains strong, the man'ari will never prevail.\""
 
-appearance: []
+variation:
+  - transform

@@ -2,8 +2,10 @@ card_name: Forestguard Kodral
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

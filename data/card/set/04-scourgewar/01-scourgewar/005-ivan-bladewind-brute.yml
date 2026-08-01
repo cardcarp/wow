@@ -10,4 +10,5 @@ artist: James Zhang
 
 flavor: His unbridled rage continued for what seemed like an eternity, as corpse upon corpse fell before the mighty Ivan's blades.
 
-appearance: []
+variation:
+  - transform

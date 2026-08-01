@@ -2,17 +2,19 @@ card_name: Close Quarters Combat
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Combat Hero Required Each player destroys resources he controls until he controls three.
+cost: '5'
 
 class:
   - Rogue
 
-cost: '5'
+rule:
+  - type: ability
+    text: Combat Hero Required Each player destroys resources he controls until he controls three.
+
+regulation:
+
+errata: []
 
 temp: Combat Talent

@@ -2,13 +2,9 @@ card_name: Blitz
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 3 melee damage to target hero or ally.
+cost: '2'
 
 class:
   - Warlock
@@ -16,6 +12,12 @@ class:
   - Rogue
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero deals 3 melee damage to target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: ''

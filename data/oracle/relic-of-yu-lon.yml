@@ -2,8 +2,10 @@ card_name: Relic Of Yu Lon
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,19 +2,21 @@ card_name: Destiny
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals combat damage with Destiny, put a strength counter on Destiny. Destiny has +1 ATK for each strength counter on it.
+cost: '3'
 
 class:
   - Paladin
   - Warrior
   - Hunter
 
-cost: '3'
+rule:
+  - type: ability
+    text: When your hero deals combat damage with Destiny, put a strength counter on Destiny. Destiny has +1 ATK for each strength counter on it.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Sword

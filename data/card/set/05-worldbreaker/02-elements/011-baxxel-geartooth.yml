@@ -10,4 +10,5 @@ artist: John Polidora
 
 flavor: '"I was surprised to see Gallywix bring us into the Horde, but so far, this deal has been quite favorable."'
 
-appearance: []
+variation:
+  - transform

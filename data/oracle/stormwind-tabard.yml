@@ -2,13 +2,11 @@ card_name: Stormwind Tabard
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '5'
 
-text: 3 , → Put a 1 / 1 Human Warrior ally token into play with Protector . You pay 1 less to use this power for each Human ally you control.
+faction: Alliance
 
 class:
   - Priest
@@ -22,8 +20,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: 3 , → Put a 1 / 1 Human Warrior ally token into play with Protector . You pay 1 less to use this power for each Human ally you control.
 
-faction: Alliance
+regulation:
+
+errata: []
 
 temp: Item Tabard

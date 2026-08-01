@@ -2,14 +2,16 @@ card_name: Defias to the Core
 
 layout: standard
 
-regulation:
-
 category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Dungeon allies have +2 ATK and Ferocity this turn.
+
+regulation:
 
 errata: []
 
-text: Dungeon allies have +2 ATK and Ferocity this turn.
-
 temp: ''
-
-type: Dungeon

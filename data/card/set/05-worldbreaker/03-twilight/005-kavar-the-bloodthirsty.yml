@@ -10,4 +10,5 @@ artist: Greg Capullo
 
 flavor: '"Come, brothers and sisters! Let us visit our brand of savage brutality upon Deathwing himself!"'
 
-appearance: []
+variation:
+  - transform

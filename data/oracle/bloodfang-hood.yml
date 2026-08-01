@@ -2,17 +2,19 @@ card_name: Bloodfang Hood
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → Exhaust target hero or ally. Use only on your turn. When you play a ability, ready Bloodfang Hood.
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: → Exhaust target hero or ally. Use only on your turn. When you play a ability, ready Bloodfang Hood.
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

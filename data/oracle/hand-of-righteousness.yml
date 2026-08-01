@@ -2,13 +2,9 @@ card_name: Hand of Righteousness
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 → Damage that target hero or ally would deal this turn is unpreventable.
+cost: '3'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: 1 → Damage that target hero or ally would deal this turn is unpreventable.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

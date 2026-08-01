@@ -2,14 +2,16 @@ card_name: Blindside
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Each raiding player removes his hand from the game. At the end of your next turn, put each card removed this way into its owner's hand.
-
 cost: '2'
+
+rule:
+  - type: ability
+    text: Each raiding player removes his hand from the game. At the end of your next turn, put each card removed this way into its owner's hand.
+
+regulation:
+
+errata: []
 
 temp: ''

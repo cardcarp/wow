@@ -2,22 +2,24 @@ card_name: Wildhammer Gryphon
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 3
 
-text: While an opponent controls a hero, this ally has +2 ATK and Elusive .
-
-cost: '4'
-
 combat: Melee
 
-temp: Gryphon Beast
-
 type: Monster
+
+rule:
+  - type: ability
+    text: While an opponent controls a hero, this ally has +2 ATK and Elusive .
+
+regulation:
+
+errata: []
+
+temp: Gryphon Beast

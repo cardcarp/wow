@@ -2,18 +2,20 @@ card_name: Proto-Handlers Gauntlets
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'As this armor enters play, choose one of the following: Black, Blue, Bronze, Green, Red, or Twilight. Dragonkin you control are also the chosen color.'
+cost: '2'
 
 class:
   - Hunter
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'As this armor enters play, choose one of the following: Black, Blue, Bronze, Green, Red, or Twilight. Dragonkin you control are also the chosen color.'
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

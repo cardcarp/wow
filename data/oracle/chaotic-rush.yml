@@ -2,17 +2,19 @@ card_name: Chaotic Rush
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Put target ally on top of its owner's deck. Ongoing : Opposing allies enter play exhausted."
+cost: '5'
 
 class:
   - Warrior
 
-cost: '5'
+rule:
+  - type: ability
+    text: "Put target ally on top of its owner's deck. Ongoing : Opposing allies enter play exhausted."
+
+regulation:
+
+errata: []
 
 temp: Fury

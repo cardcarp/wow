@@ -2,22 +2,24 @@ card_name: Buldrug
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 5
 
-text: Enrage When you reveal an ally this way, this ally has +2 ATK and Ferocity this turn.
-
-cost: '4'
-
 combat: Melee
 
-temp: Ogre Warrior
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Enrage When you reveal an ally this way, this ally has +2 ATK and Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: Ogre Warrior

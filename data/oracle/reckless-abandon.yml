@@ -2,17 +2,19 @@ card_name: Reckless Abandon
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Ongoing : → If target friendly ally would be dealt damage this turn, it's dealt to your hero instead."
+cost: '5'
 
 class:
   - Warrior
 
-cost: '5'
+rule:
+  - type: ability
+    text: "Ongoing : → If target friendly ally would be dealt damage this turn, it's dealt to your hero instead."
+
+regulation:
+
+errata: []
 
 temp: Fury

@@ -10,4 +10,5 @@ artist: Michael Komarck
 
 flavor: '"Frozen, lifeless, shiny like diamonds. Mogdar hopes you will like your cold future."'
 
-appearance: []
+variation:
+  - transform

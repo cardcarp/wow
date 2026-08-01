@@ -2,22 +2,24 @@ card_name: Lordann the Bloodreaver
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 3
 
-text: Protector This ally has +3 / +3 while your hero has 15 or more damage.
-
-cost: '2'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector This ally has +3 / +3 while your hero has 15 or more damage.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Warrior

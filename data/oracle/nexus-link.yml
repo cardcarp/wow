@@ -2,17 +2,19 @@ card_name: Nexus Link
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : When you or a friendly player plays a fire or card, your hero may deal 1 fire damage to target hero. When you or a friendly player plays a frost or card, your hero may deal 1 frost damage to target ally.'
+cost: '2'
 
 class:
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : When you or a friendly player plays a fire or card, your hero may deal 1 fire damage to target hero. When you or a friendly player plays a frost or card, your hero may deal 1 frost damage to target ally.'
+
+regulation:
+
+errata: []
 
 temp: Arcane

@@ -2,22 +2,24 @@ card_name: Enslaved Red Dragon
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 3
 
-text: While an opponent controls an hero, this ally has +2 ATK and Spellshield .
-
-cost: '4'
-
 combat: Fire
 
-temp: Red Dragonkin
-
 type: Monster
+
+rule:
+  - type: ability
+    text: While an opponent controls an hero, this ally has +2 ATK and Spellshield .
+
+regulation:
+
+errata: []
+
+temp: Red Dragonkin

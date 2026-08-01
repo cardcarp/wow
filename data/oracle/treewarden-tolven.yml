@@ -2,22 +2,24 @@ card_name: Treewarden Tolven
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 4
 
-text: Protector Shadowmeld
-
-cost: '3'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Shadowmeld
+
+regulation:
+
+errata: []
 
 temp: Night Elf Druid

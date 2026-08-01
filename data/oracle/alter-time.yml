@@ -2,8 +2,10 @@ card_name: Alter Time
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

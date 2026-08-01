@@ -2,17 +2,19 @@ card_name: Blessing of the Light
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally you control. Ongoing : Attached ally has +1 / +1. When attached ally deals damage to an opposing hero, it also heals that much damage from your hero.'
+cost: '1'
 
 class:
   - Paladin
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Attach to target ally you control. Ongoing : Attached ally has +1 / +1. When attached ally deals damage to an opposing hero, it also heals that much damage from your hero.'
+
+regulation:
+
+errata: []
 
 temp: Holy Blessing

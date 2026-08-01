@@ -2,12 +2,14 @@ card_name: The Challenge
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 5 to complete this quest. Reward : Put the top card of your deck into your resource row face down and exhausted, then draw a card.'
 
-text: 'Pay 5 to complete this quest. Reward : Put the top card of your deck into your resource row face down and exhausted, then draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

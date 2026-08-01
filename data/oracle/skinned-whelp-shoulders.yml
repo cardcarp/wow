@@ -2,18 +2,20 @@ card_name: Skinned Whelp Shoulders
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has Assault 2 for each Dragonkin you control.
+cost: '3'
 
 class:
   - Druid
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: Your hero has Assault 2 for each Dragonkin you control.
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

@@ -10,4 +10,5 @@ artist: Zoltan Boros & Gabor Szikszai
 
 flavor: '"What kind of curse is undeath if it falls so easily before my own incantations?"'
 
-appearance: []
+variation:
+  - transform

@@ -2,17 +2,19 @@ card_name: Citadel Enforcers Claymore
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '4'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '4'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Sword

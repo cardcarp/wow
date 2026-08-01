@@ -2,22 +2,24 @@ card_name: Rames the Purifier
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 3
 
-text: At the end of your turn, you may destroy an ability attached to a hero or ally in your party.
-
-cost: '4'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: At the end of your turn, you may destroy an ability attached to a hero or ally in your party.
+
+regulation:
+
+errata: []
 
 temp: Human Priest

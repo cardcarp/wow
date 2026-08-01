@@ -2,17 +2,19 @@ card_name: No_Kaled, the Elements of Death
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you strike with this weapon, add a surge counter to it. Allies you control have +2 ATK for each surge counter on this weapon.
+cost: '3'
 
 class:
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: When you strike with this weapon, add a surge counter to it. Allies you control have +2 ATK for each surge counter on this weapon.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

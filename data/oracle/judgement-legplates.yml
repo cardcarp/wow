@@ -2,17 +2,19 @@ card_name: Judgement Legplates
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you play a ability, you may pay 1 . If you do, prevent all damage that would be dealt to and dealt by target friendly ally this turn.
+cost: '4'
 
 class:
   - Paladin
 
-cost: '4'
+rule:
+  - type: ability
+    text: When you play a ability, you may pay 1 . If you do, prevent all damage that would be dealt to and dealt by target friendly ally this turn.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

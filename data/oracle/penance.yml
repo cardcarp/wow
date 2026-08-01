@@ -2,17 +2,19 @@ card_name: Penance
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Each ally deals holy damage to itself equal to its ATK.
+cost: '4'
 
 class:
   - Paladin
 
-cost: '4'
+rule:
+  - type: ability
+    text: Each ally deals holy damage to itself equal to its ATK.
+
+regulation:
+
+errata: []
 
 temp: Retribution

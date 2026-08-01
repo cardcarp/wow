@@ -2,22 +2,24 @@ card_name: Zy_lah Manslayer
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 5
 
 health: 6
 
-text: Protector When Zy'lah Manslayer deals combat damage to an ally, ready her.
-
-cost: '7'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When Zy'lah Manslayer deals combat damage to an ally, ready her.
+
+regulation:
+
+errata: []
 
 temp: Troll Warrior

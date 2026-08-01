@@ -2,8 +2,10 @@ card_name: Ordos, Fire-God of the Yaungol
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

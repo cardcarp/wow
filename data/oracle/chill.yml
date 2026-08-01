@@ -2,17 +2,19 @@ card_name: Chill
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 1 frost damage to target hero or ally. A character dealt damage this way can't attack or protect this turn.
+cost: '1'
 
 class:
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: Your hero deals 1 frost damage to target hero or ally. A character dealt damage this way can't attack or protect this turn.
+
+regulation:
+
+errata: []
 
 temp: Elemental

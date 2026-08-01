@@ -2,8 +2,10 @@ card_name: Spiritsever
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,12 +2,14 @@ card_name: Hellfire Citadel
 
 layout: standard
 
-regulation:
-
 category: Location
 
-errata: []
+rule:
+  - type: ability
+    text: When an opposing ally is destroyed, add a capture counter. , Remove three capture counters → Draw a card.
 
-text: When an opposing ally is destroyed, add a capture counter. , Remove three capture counters → Draw a card.
+regulation:
+
+errata: []
 
 temp: Objective

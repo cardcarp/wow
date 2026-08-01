@@ -2,20 +2,22 @@ card_name: Neophyte Morandi
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 3
 
-text: Aldor Reputation If an ally in your party other than Morandi would be dealt damage, it's dealt to Morandi instead.
-
-cost: '3'
-
 combat: Holy
+
+rule:
+  - type: ability
+    text: Aldor Reputation If an ally in your party other than Morandi would be dealt damage, it's dealt to Morandi instead.
+
+regulation:
+
+errata: []
 
 temp: Draenei Paladin

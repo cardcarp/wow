@@ -2,13 +2,9 @@ card_name: Crown of the Ogre King
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Heroes and allies you control with Smash have Assault 3 .
+cost: '3'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: Heroes and allies you control with Smash have Assault 3 .
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

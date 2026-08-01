@@ -2,17 +2,19 @@ card_name: Requite
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 4 melee damage to target damaged hero or ally.
+cost: '2'
 
 class:
   - Warrior
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero deals 4 melee damage to target damaged hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Fury

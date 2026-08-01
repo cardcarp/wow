@@ -2,8 +2,10 @@ card_name: Links Of The Disentegrator
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

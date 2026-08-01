@@ -2,22 +2,24 @@ card_name: Alpha Prime
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 5
 
-text: When Alpha Prime enters play, put a 2 / 2 Worgen ally token into play for this and each other Night Elf ally you control. This and other Worgen allies you control have Aberration .
-
-cost: '6'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: When Alpha Prime enters play, put a 2 / 2 Worgen ally token into play for this and each other Night Elf ally you control. This and other Worgen allies you control have Aberration .
+
+regulation:
+
+errata: []
 
 temp: Night Elf Worgen Druid

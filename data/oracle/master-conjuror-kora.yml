@@ -2,8 +2,10 @@ card_name: Master Conjuror Kora
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

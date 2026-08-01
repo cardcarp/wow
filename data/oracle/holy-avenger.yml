@@ -2,8 +2,10 @@ card_name: Holy Avenger
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

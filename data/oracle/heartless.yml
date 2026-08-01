@@ -2,19 +2,21 @@ card_name: Heartless
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has Dual Wield . Put 1 damage on an ally in your party → You pay 1 less the next time you strike with Heartless this turn.
+cost: '3'
 
 class:
   - Warrior
   - Death Knight
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: Your hero has Dual Wield . Put 1 damage on an ally in your party → You pay 1 less the next time you strike with Heartless this turn.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

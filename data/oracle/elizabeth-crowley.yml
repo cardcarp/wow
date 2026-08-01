@@ -2,22 +2,24 @@ card_name: Elizabeth Crowley
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 3
 
-text: 2 , Discard a card → Elizabeth heals 4 damage from target hero or ally.
-
-cost: '2'
-
 combat: Holy
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: 2 , Discard a card → Elizabeth heals 4 damage from target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Undead Priest

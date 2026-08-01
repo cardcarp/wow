@@ -2,17 +2,19 @@ card_name: Blistering Fire
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 3 fire damage to target hero.
+cost: '1'
 
 class:
   - Mage
 
-cost: '1'
+rule:
+  - type: ability
+    text: Your hero deals 3 fire damage to target hero.
+
+regulation:
+
+errata: []
 
 temp: Fire

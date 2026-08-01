@@ -2,17 +2,19 @@ card_name: Double Barrel
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Ongoing : Your hero has Ranged Dual Wield .'
+cost: '1'
 
 class:
   - Hunter
 
-cost: '1'
+instant: 'Ongoing : Your hero has Ranged Dual Wield .'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Marksmanship

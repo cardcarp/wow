@@ -2,8 +2,10 @@ card_name: Wugou, Spirit of Earth
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

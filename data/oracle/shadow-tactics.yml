@@ -2,19 +2,21 @@ card_name: Shadow Tactics
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Preparation Ongoing : You pay 1 less to play Combos and Finishing Move s, to a minimum of 1 .'
+cost: '4'
 
 class:
   - Rogue
 
-cost: '4'
+type: Arena
+
+rule:
+  - type: ability
+    text: 'Preparation Ongoing : You pay 1 less to play Combos and Finishing Move s, to a minimum of 1 .'
+
+regulation:
+
+errata: []
 
 temp: ''
-
-type: Arena

@@ -2,12 +2,14 @@ card_name: Battle of the Crimson Watch
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 3 or more to complete this quest. Reward : Draw a card for each 3 paid this way.'
 
-text: 'Pay 3 or more to complete this quest. Reward : Draw a card for each 3 paid this way.'
+regulation:
+
+errata: []
 
 temp: ''

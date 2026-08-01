@@ -10,4 +10,5 @@ artist: Chris Seaman
 
 flavor: '"Sweep the leg! Do you have a problem with that?"'
 
-appearance: []
+variation:
+  - transform

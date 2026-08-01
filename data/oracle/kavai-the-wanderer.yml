@@ -2,22 +2,24 @@ card_name: Kavai the Wanderer
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 4
 
 health: 6
 
-text: 1 , Destroy Kavai → Destroy target ability or equipment.
-
-cost: '6'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 1 , Destroy Kavai → Destroy target ability or equipment.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Warrior

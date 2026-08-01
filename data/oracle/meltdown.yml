@@ -2,17 +2,19 @@ card_name: Meltdown
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Choose one: Your hero deals X fire damage to target ally; or destroy target weapon with cost X.'
+cost: X
 
 class:
   - Mage
 
-cost: X
+rule:
+  - type: ability
+    text: 'Choose one: Your hero deals X fire damage to target ally; or destroy target weapon with cost X.'
+
+regulation:
+
+errata: []
 
 temp: Fire

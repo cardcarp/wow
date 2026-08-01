@@ -2,20 +2,22 @@ card_name: Anetheron
 
 layout: standard
 
-regulation:
-
 category: Ally
-
-errata: []
 
 damage: 1
 
 health: 10
 
-text: 'Boss Absorb Caverns Hero 2+ : Anetheron has Assault 1 for each Caverns hero that has been defeated.'
-
 combat: Melee
 
-temp: Dreadlord Demon
-
 type: Boss
+
+rule:
+  - type: ability
+    text: 'Boss Absorb Caverns Hero 2+ : Anetheron has Assault 1 for each Caverns hero that has been defeated.'
+
+regulation:
+
+errata: []
+
+temp: Dreadlord Demon

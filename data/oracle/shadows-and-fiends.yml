@@ -2,12 +2,14 @@ card_name: Shadows and Fiends
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: "Ongoing : All allies have Ferocity . When an ally enters play, put it into its owner's hand at the start of the next turn."
 
-text: "Ongoing : All allies have Ferocity . When an ally enters play, put it into its owner's hand at the start of the next turn."
+regulation:
+
+errata: []
 
 temp: ''

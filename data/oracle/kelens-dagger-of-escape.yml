@@ -2,18 +2,20 @@ card_name: Kelens Dagger of Escape
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 → Remove your hero from the game. If you do, put this weapon into its owner's hand.
+cost: '2'
 
 class:
   - Shaman
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: 1 → Remove your hero from the game. If you do, put this weapon into its owner's hand.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

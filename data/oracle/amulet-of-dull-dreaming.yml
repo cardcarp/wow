@@ -2,13 +2,9 @@ card_name: Amulet of Dull Dreaming
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the start of your turn, you may put a resource you control into your hand.
+cost: '4'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: At the start of your turn, you may put a resource you control into your hand.
+
+regulation:
+
+errata: []
 
 temp: Item Neck

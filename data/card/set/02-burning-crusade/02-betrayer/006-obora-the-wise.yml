@@ -10,4 +10,5 @@ artist: Howard Lyon
 
 flavor: '"This is Draenor, our home. We must reclaim it from those who would corrupt it."'
 
-appearance: []
+variation:
+  - transform

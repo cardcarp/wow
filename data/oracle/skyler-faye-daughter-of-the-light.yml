@@ -2,16 +2,19 @@ card_name: Skyler Faye, Daughter of the Light
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 26
 
-text: 1 , Flip Skyler → Skyler heals 3 damage from target ally you control.
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 1 , Flip Skyler → Skyler heals 3 damage from target ally you control.
+
+regulation:
+
+errata: []
 
 temp: Human Priest

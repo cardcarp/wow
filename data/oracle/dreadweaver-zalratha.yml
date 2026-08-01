@@ -2,8 +2,10 @@ card_name: Dreadweaver Zalratha
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

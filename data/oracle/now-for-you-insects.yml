@@ -2,14 +2,16 @@ card_name: _NOW FOR YOU, INSECTS!_
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '2'
 
 instant: Interrupt target ability, ally, or equipment card.
 
-cost: '2'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Ragnaros

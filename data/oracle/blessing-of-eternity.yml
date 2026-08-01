@@ -2,8 +2,10 @@ card_name: Blessing Of Eternity
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

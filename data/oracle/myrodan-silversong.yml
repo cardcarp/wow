@@ -2,22 +2,24 @@ card_name: Myrodan Silversong
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 8
 
 health: 8
 
-text: This ally can't attack heroes.
-
-cost: '7'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: This ally can't attack heroes.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Rogue

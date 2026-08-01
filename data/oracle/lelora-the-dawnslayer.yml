@@ -2,16 +2,19 @@ card_name: Lelora the Dawnslayer
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 1 , Flip Lelora → If combat damage would be dealt to or dealt by target opposing ally this turn, double it instead. Crimson Hand
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 1 , Flip Lelora → If combat damage would be dealt to or dealt by target opposing ally this turn, double it instead. Crimson Hand
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Paladin

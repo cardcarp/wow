@@ -2,22 +2,24 @@ card_name: Baelgond Soulgrace
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 1
 
-text: When Baelgond enters play, reveal the top three cards of your deck. Put a revealed ability card into hand and the rest on the bottom of your deck.
-
-cost: '3'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: When Baelgond enters play, reveal the top three cards of your deck. Put a revealed ability card into hand and the rest on the bottom of your deck.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Priest

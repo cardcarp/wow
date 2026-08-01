@@ -2,17 +2,19 @@ card_name: Ancestral Revival
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Play only on an opponent's turn. Put target ally that was destroyed this turn from your graveyard into play with damage on it equal to it's -1.
+cost: '3'
 
 class:
   - Shaman
 
-cost: '3'
+instant: Play only on an opponent's turn. Put target ally that was destroyed this turn from your graveyard into play with damage on it equal to it's -1.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Restoration

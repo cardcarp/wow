@@ -2,18 +2,20 @@ card_name: Double Attack Handguards
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 3 , → Target ally has Assault X this turn, where X is its ATK.
+cost: '3'
 
 class:
   - Druid
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: 3 , → Target ally has Assault X this turn, where X is its ATK.
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

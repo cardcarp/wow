@@ -2,17 +2,19 @@ card_name: Trappers Rifle
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you strike with this weapon, your hero has Long-Range this combat. At the end of your turn, you may ready your hero.
+cost: '3'
 
 class:
   - Hunter
 
-cost: '3'
+rule:
+  - type: ability
+    text: When you strike with this weapon, your hero has Long-Range this combat. At the end of your turn, you may ready your hero.
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Gun

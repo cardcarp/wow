@@ -2,17 +2,19 @@ card_name: Spell Suppression
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target ability, ally, equipment, or resource. Ongoing : Attached card loses and can't have powers."
+cost: '1'
 
 class:
   - Mage
 
-cost: '1'
+rule:
+  - type: ability
+    text: "Attach to target ability, ally, equipment, or resource. Ongoing : Attached card loses and can't have powers."
+
+regulation:
+
+errata: []
 
 temp: Arcane

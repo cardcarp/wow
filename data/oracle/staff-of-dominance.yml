@@ -2,13 +2,9 @@ card_name: Staff of Dominance
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Staff of Dominance enters play exhausted. x , , Destroy Staff of Dominance → Gain control of target ally with cost X. Use only on your turn.
+cost: '4'
 
 class:
   - Priest
@@ -17,6 +13,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: Staff of Dominance enters play exhausted. x , , Destroy Staff of Dominance → Gain control of target ally with cost X. Use only on your turn.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

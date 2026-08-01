@@ -2,13 +2,9 @@ card_name: The Skull of Gul_dan
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → You pay 2 less the next time you pay a cost with x in it this turn.
+cost: '2'
 
 class:
   - Priest
@@ -18,6 +14,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: → You pay 2 less the next time you pay a cost with x in it this turn.
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

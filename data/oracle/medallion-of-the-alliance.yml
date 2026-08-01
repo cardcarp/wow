@@ -2,13 +2,11 @@ card_name: Medallion of the Alliance
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '2'
 
-text: 1 , Put Medallion of the Alliance on the bottom of your deck → Interrupt target ability card that's targeting your hero if it was played by a player. (This item can prevent damage like an armor.)
+faction: Alliance
 
 class:
   - Priest
@@ -21,8 +19,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: 1 , Put Medallion of the Alliance on the bottom of your deck → Interrupt target ability card that's targeting your hero if it was played by a player. (This item can prevent damage like an armor.)
 
-faction: Alliance
+regulation:
+
+errata: []
 
 temp: Item Trinket

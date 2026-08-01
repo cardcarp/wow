@@ -10,4 +10,5 @@ artist: Zoltan Boros & Gabor Szikszai
 
 flavor: Beware of cat.
 
-appearance: []
+variation:
+  - transform

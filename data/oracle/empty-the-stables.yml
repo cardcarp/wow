@@ -2,17 +2,19 @@ card_name: Empty the Stables
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Search your deck for up to three Pet cards with different names, reveal them, and put them into hand.
+cost: '4'
 
 class:
   - Hunter
 
-cost: '4'
+rule:
+  - type: ability
+    text: Search your deck for up to three Pet cards with different names, reveal them, and put them into hand.
+
+regulation:
+
+errata: []
 
 temp: Beast Mastery

@@ -2,13 +2,9 @@ card_name: Edgemasters Handguards
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: You pay 1 less to strike with weapons.
+cost: '3'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: You pay 1 less to strike with weapons.
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

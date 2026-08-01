@@ -2,22 +2,24 @@ card_name: Imp Mistress Noali
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 4
 
 health: 4
 
-text: Your face-down resources are also Imp Demon allies with 1 ATK / 1 health.
-
-cost: '6'
-
 combat: Fire
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Your face-down resources are also Imp Demon allies with 1 ATK / 1 health.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Warlock

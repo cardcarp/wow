@@ -2,18 +2,20 @@ card_name: Thornwood Staff
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: "→ Exhaust target card. On an opponent's turn: → Ready another target card."
+cost: '3'
 
 class:
   - Druid
   - Hunter
 
-cost: '3'
+rule:
+  - type: ability
+    text: "→ Exhaust target card. On an opponent's turn: → Ready another target card."
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

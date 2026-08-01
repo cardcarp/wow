@@ -10,4 +10,5 @@ artist: James Zhang
 
 flavor: '"Listen to the whispers of your ancestors. They lust for blood!"'
 
-appearance: []
+variation:
+  - transform

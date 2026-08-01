@@ -2,22 +2,24 @@ card_name: Festergut
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 5
 
 health: 10
 
-text: 'Protector Vile Gas : When Festergut enters play, he deals 5 shadow damage to each opposing hero.'
-
-cost: '4'
-
 combat: Melee
 
-temp: Mutated Abomination
-
 type: Raid
+
+rule:
+  - type: ability
+    text: 'Protector Vile Gas : When Festergut enters play, he deals 5 shadow damage to each opposing hero.'
+
+regulation:
+
+errata: []
+
+temp: Mutated Abomination

@@ -2,8 +2,10 @@ card_name: Kil Ruk The Windreaver
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

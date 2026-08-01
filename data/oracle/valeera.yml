@@ -2,20 +2,22 @@ card_name: Valeera
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 4
 
-text: When Valeera enters play, reveal the top three cards of your deck. Place all revealed quests and locations into your resource row exhausted as additional resources, and put the rest on the bottom of your deck.
-
-cost: '4'
-
 combat: Nature
+
+rule:
+  - type: ability
+    text: When Valeera enters play, reveal the top three cards of your deck. Place all revealed quests and locations into your resource row exhausted as additional resources, and put the rest on the bottom of your deck.
+
+regulation:
+
+errata: []
 
 temp: Green Dragonkin

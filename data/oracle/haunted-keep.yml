@@ -2,12 +2,14 @@ card_name: Haunted Keep
 
 layout: standard
 
-regulation:
-
 category: Achievement
 
-errata: []
+rule:
+  - type: ability
+    text: There are three or more Bloodthirsty Ghouls in the Dungeon graveyard.
 
-text: There are three or more Bloodthirsty Ghouls in the Dungeon graveyard.
+regulation:
+
+errata: []
 
 temp: ''

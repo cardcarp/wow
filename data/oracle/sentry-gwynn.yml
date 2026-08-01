@@ -2,22 +2,24 @@ card_name: Sentry Gwynn
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 3
 
 health: 4
 
-text: Your hero has Elusive .
-
-cost: '5'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Your hero has Elusive .
+
+regulation:
+
+errata: []
 
 temp: Night Elf Warrior

@@ -2,23 +2,25 @@ card_name: Rhuunom
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 2
 
 health: 2
 
-text: At the end of your turn, you may destroy target attachment. If you do, draw a card.
+combat: Shadow
 
 class:
   - Warlock
 
-cost: '1'
+rule:
+  - type: ability
+    text: At the end of your turn, you may destroy target attachment. If you do, draw a card.
 
-combat: Shadow
+regulation:
+
+errata: []
 
 temp: Felhunter Demon

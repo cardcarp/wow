@@ -2,17 +2,19 @@ card_name: Deafening Shout
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Opposing allies have -3 ATK / -3 health.'
+cost: '7'
 
 class:
   - Warrior
 
-cost: '7'
+rule:
+  - type: ability
+    text: 'Ongoing : Opposing allies have -3 ATK / -3 health.'
+
+regulation:
+
+errata: []
 
 temp: Fury Shout

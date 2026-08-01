@@ -2,17 +2,19 @@ card_name: Power Word_ Vitality
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally you control. Ongoing : Attached ally has +3 .'
+cost: '0'
 
 class:
   - Priest
 
-cost: '0'
+rule:
+  - type: ability
+    text: 'Attach to target ally you control. Ongoing : Attached ally has +3 .'
+
+regulation:
+
+errata: []
 
 temp: Discipline

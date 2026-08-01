@@ -2,13 +2,9 @@ card_name: Heartseeker
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: This weapon has +2 ATK while your hero is attacking a hero or ally that was dealt damage this turn.
+cost: '2'
 
 class:
   - Warrior
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: This weapon has +2 ATK while your hero is attacking a hero or ally that was dealt damage this turn.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

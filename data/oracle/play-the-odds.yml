@@ -2,12 +2,14 @@ card_name: Play the Odds
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: For each hero and ally, remove all dice being used to track its damage, then roll them and put that much damage on that character.
 
-text: For each hero and ally, remove all dice being used to track its damage, then roll them and put that much damage on that character.
+regulation:
+
+errata: []
 
 temp: ''

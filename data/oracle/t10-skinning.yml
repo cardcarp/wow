@@ -2,8 +2,10 @@ card_name: T10 Skinning
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,17 +2,19 @@ card_name: Infusion of Fortitude
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Attach to target ally. Ongoing : Attached ally has +3 health.'
+cost: '1'
 
 class:
   - Priest
 
-cost: '1'
+instant: 'Attach to target ally. Ongoing : Attached ally has +3 health.'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Discipline

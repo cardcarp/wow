@@ -10,4 +10,5 @@ artist: Samwise
 
 flavor: '"Death has taught me many lessons in the art of combat. Let me show you one."'
 
-appearance: []
+variation:
+  - transform

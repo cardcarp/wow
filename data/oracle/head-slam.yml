@@ -2,14 +2,16 @@ card_name: Head Slam
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: As an additional cost to play Head Slam, put up to 5 damage on Onyxia. Onyxia deals that amount of melee damage to each opposing ally.
-
 cost: '2'
+
+rule:
+  - type: ability
+    text: As an additional cost to play Head Slam, put up to 5 damage on Onyxia. Onyxia deals that amount of melee damage to each opposing ally.
+
+regulation:
+
+errata: []
 
 temp: ''

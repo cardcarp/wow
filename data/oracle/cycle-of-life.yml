@@ -2,12 +2,14 @@ card_name: Cycle of Life
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'If an ally entered play and an ally left play this turn: Pay 2 to complete this quest. Reward : Draw a card.'
 
-text: 'If an ally entered play and an ally left play this turn: Pay 2 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

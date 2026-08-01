@@ -2,8 +2,10 @@ card_name: Ragefin Tidefury
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

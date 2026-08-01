@@ -2,22 +2,24 @@ card_name: Warden Tonarin
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 1
 
 health: 1
 
-text: Protector Elusive
-
-cost: '1'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Elusive
+
+regulation:
+
+errata: []
 
 temp: Night Elf Warrior

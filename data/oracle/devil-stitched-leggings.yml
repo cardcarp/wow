@@ -2,19 +2,21 @@ card_name: Devil-Stitched Leggings
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 3 , Exhaust your hero → Target hero or ally has -3 health this turn.
+cost: '3'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: 3 , Exhaust your hero → Target hero or ally has -3 health this turn.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

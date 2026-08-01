@@ -2,17 +2,19 @@ card_name: Mandible of Beth_tilac
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '3'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '3'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

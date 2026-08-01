@@ -2,19 +2,21 @@ card_name: Axe of the Legion
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your other Axes have +2 ATK. Your hero has Dual Wield .
+cost: '4'
 
 class:
   - Warrior
   - Hunter
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: Your other Axes have +2 ATK. Your hero has Dual Wield .
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

@@ -2,14 +2,16 @@ card_name: Ultimate Triumph
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '6'
 
 instant: Destroy target ally.
 
-cost: '6'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

@@ -2,14 +2,16 @@ card_name: Monstrous Heal
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '1'
 
 instant: Your hero heals 3 damage from each Monster hero and ally you control.
 
-cost: '1'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

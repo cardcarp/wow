@@ -2,19 +2,21 @@ card_name: Boggspine Knuckles
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-instant: Your hero has Dual Wield . Boggspine Knuckles has +3 ATK while your hero has more damage than an opposing hero.
+cost: '6'
 
 class:
   - Warrior
   - Shaman
   - Rogue
 
-cost: '6'
+instant: Your hero has Dual Wield . Boggspine Knuckles has +3 ATK while your hero has more damage than an opposing hero.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Fist

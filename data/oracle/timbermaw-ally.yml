@@ -2,12 +2,14 @@ card_name: Timbermaw Ally
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Remove three ability cards in your graveyard from the game and pay 1 to complete this quest. Reward : Draw a card.'
 
-text: 'Remove three ability cards in your graveyard from the game and pay 1 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

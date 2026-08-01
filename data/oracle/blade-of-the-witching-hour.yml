@@ -2,13 +2,9 @@ card_name: Blade of the Witching Hour
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When this weapon enters play, your hero may deal 4 fire damage to target opposing hero or ally.
+cost: '4'
 
 class:
   - Priest
@@ -17,6 +13,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: When this weapon enters play, your hero may deal 4 fire damage to target opposing hero or ally.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

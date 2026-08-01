@@ -2,20 +2,22 @@ card_name: Samael the Bloodpoint
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 28
 
-text: 2 → Flip Samael face down.
-
 faction: Horde
 
-temp: Undead Hunter
-
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: 2 → Flip Samael face down.
+  - type: ability
+    position: reverse
     text: Ranged weapons you control have Assault 1 .
+
+regulation:
+
+errata: []
+
+temp: Undead Hunter

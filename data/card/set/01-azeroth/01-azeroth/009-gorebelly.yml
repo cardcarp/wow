@@ -10,4 +10,5 @@ artist: Arthur Suydam
 
 flavor: Master of weapons. Devoid of mercy.
 
-appearance: []
+variation:
+  - transform

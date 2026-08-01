@@ -2,22 +2,24 @@ card_name: Human Operative
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 1
 
 health: 2
 
-text: 'Unity : While you control three or more Human allies, this ally has Assault 2 and Stealth .'
-
-cost: '1'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Unity : While you control three or more Human allies, this ally has Assault 2 and Stealth .'
+
+regulation:
+
+errata: []
 
 temp: Human Rogue

@@ -2,22 +2,24 @@ card_name: Magatha Grimtotem
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 2
 
 health: 8
 
-text: "Tribe : When this or another Tauren ally enters play under your control, Magatha heals 5 damage from your hero. Your hero has Assault 5 while it's undamaged."
-
-cost: '6'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: "Tribe : When this or another Tauren ally enters play under your control, Magatha heals 5 damage from your hero. Your hero has Assault 5 while it's undamaged."
+
+regulation:
+
+errata: []
 
 temp: Tauren Shaman

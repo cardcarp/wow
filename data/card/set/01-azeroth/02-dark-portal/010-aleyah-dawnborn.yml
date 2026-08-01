@@ -10,4 +10,5 @@ artist: Todd Lockwood
 
 flavor: '"Mercy? You waste your breath. I bend the Light to my ends. I do not serve it, nor shall I ever do so again."'
 
-appearance: []
+variation:
+  - transform

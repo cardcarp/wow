@@ -2,17 +2,19 @@ card_name: Evocation
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : 2 → Draw a card. When a card leaves your hand, destroy Evocation.'
+cost: '1'
 
 class:
   - Mage
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Ongoing : 2 → Draw a card. When a card leaves your hand, destroy Evocation.'
+
+regulation:
+
+errata: []
 
 temp: Arcane

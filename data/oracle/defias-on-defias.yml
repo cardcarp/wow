@@ -2,12 +2,14 @@ card_name: Defias on Defias
 
 layout: standard
 
-regulation:
-
 category: Achievement
 
-errata: []
+rule:
+  - type: ability
+    text: Destroy the Dungeon hero or a Dungeon Boss ally using the Defias Cannon, the Defias Gunpowder, or a Defias Watcher.
 
-text: Destroy the Dungeon hero or a Dungeon Boss ally using the Defias Cannon, the Defias Gunpowder, or a Defias Watcher.
+regulation:
+
+errata: []
 
 temp: ''

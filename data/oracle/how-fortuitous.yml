@@ -2,14 +2,16 @@ card_name: How Fortuitous!
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '2'
 
 instant: Draw a card for each opposing hero.
 
-cost: '2'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

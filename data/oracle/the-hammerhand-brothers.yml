@@ -2,22 +2,24 @@ card_name: The Hammerhand Brothers
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 3
 
-text: When The Hammerhand Brothers enters play, target opposing ally can't attack while The Hammerhand Brothers remains in your party.
-
-cost: '4'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: When The Hammerhand Brothers enters play, target opposing ally can't attack while The Hammerhand Brothers remains in your party.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Drunks

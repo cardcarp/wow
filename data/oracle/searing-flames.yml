@@ -2,14 +2,16 @@ card_name: Searing Flames
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: You may destroy target ability.
+
+regulation:
 
 errata: []
 
-text: You may destroy target ability.
-
 temp: ''
-
-type: Raid

@@ -2,8 +2,10 @@ card_name: Sansyrus Coldbones
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

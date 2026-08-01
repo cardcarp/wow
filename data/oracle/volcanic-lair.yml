@@ -2,14 +2,16 @@ card_name: Volcanic Lair
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : At the start of your turn, if you have five or more resources, destroy target opposing hero.'
-
 cost: '1'
+
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, if you have five or more resources, destroy target opposing hero.'
+
+regulation:
+
+errata: []
 
 temp: Molten Core

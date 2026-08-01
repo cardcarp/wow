@@ -2,12 +2,15 @@ card_name: Deathwing the Destroyer
 
 layout: transform
 
-regulation:
-
 category: Hero
 
-errata: []
+rule:
+  - type: ability
+    position: front
+    text: Flip 4 Assault 20 , Long-Range
 
-text: Flip 4 Assault 20 , Long-Range
+regulation:
+
+errata: []
 
 temp: Black Dragonkin Aspect Stage 4

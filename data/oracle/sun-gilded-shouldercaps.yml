@@ -2,18 +2,20 @@ card_name: Sun-Gilded Shouldercaps
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-instant: When Sun-Gilded Shouldercaps enters play, you may exhaust target ally.
+cost: '2'
 
 class:
   - Druid
   - Rogue
 
-cost: '2'
+instant: When Sun-Gilded Shouldercaps enters play, you may exhaust target ally.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

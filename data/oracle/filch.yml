@@ -2,8 +2,10 @@ card_name: Filch
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

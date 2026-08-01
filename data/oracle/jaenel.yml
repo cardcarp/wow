@@ -2,20 +2,22 @@ card_name: Jaenel
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 4 → Flip Jaenel
-
 faction: Alliance
 
-temp: Draenei Paladin
-
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: 4 → Flip Jaenel
+  - type: ability
+    position: reverse
     text: Assault 1
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

@@ -2,18 +2,20 @@ card_name: Royal Crest of Lordaeron
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has Protector . At the start of your turn, add a +1 counter to this armor for each ally you control. Your hero has Assault 10 while this armor has 10 or more .
+cost: '6'
 
 class:
   - Paladin
   - Warrior
 
-cost: '6'
+rule:
+  - type: ability
+    text: Your hero has Protector . At the start of your turn, add a +1 counter to this armor for each ally you control. Your hero has Assault 10 while this armor has 10 or more .
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

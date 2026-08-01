@@ -2,17 +2,19 @@ card_name: Dark Penance
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Target opponent discards a random card and destroys a random ally he controls.
+cost: '4'
 
 class:
   - Priest
 
-cost: '4'
+rule:
+  - type: ability
+    text: Target opponent discards a random card and destroys a random ally he controls.
+
+regulation:
+
+errata: []
 
 temp: Shadow

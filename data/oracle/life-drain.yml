@@ -2,17 +2,19 @@ card_name: Life Drain
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 6 shadow damage to target ally and heals 6 damage from itself.
+cost: '6'
 
 class:
   - Warlock
 
-cost: '6'
+rule:
+  - type: ability
+    text: Your hero deals 6 shadow damage to target ally and heals 6 damage from itself.
+
+regulation:
+
+errata: []
 
 temp: Affliction

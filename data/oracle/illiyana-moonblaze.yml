@@ -2,22 +2,24 @@ card_name: Illiyana Moonblaze
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '8'
 
 damage: 9
 
 health: 9
 
-text: At the start of your turn, each opponent destroys a card he controls.
-
-cost: '8'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: At the start of your turn, each opponent destroys a card he controls.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Rogue

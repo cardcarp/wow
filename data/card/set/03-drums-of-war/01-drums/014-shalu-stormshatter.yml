@@ -10,4 +10,5 @@ artist: Dan Scott
 
 flavor: '"Step through the storm and discover your true worth."'
 
-appearance: []
+variation:
+  - transform

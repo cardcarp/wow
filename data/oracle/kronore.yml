@@ -2,22 +2,24 @@ card_name: Kronore
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 4
 
 health: 6
 
-text: → Ready all other allies in your party.
-
-cost: '7'
-
 combat: Nature
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: → Ready all other allies in your party.
+
+regulation:
+
+errata: []
 
 temp: Draenei Shaman

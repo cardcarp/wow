@@ -2,17 +2,19 @@ card_name: Reclusion
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally. Ongoing : Prevent all damage that attached ally would deal.'
+cost: '2'
 
 class:
   - Paladin
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Attach to target ally. Ongoing : Prevent all damage that attached ally would deal.'
+
+regulation:
+
+errata: []
 
 temp: Protection

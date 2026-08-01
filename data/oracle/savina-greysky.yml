@@ -2,22 +2,24 @@ card_name: Savina Greysky
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: Elusive Savina Greysky has +2 ATK while you control a Form.
-
-cost: '2'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive Savina Greysky has +2 ATK while you control a Form.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Druid

@@ -2,17 +2,19 @@ card_name: Aspect of the Wild
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : allies you control have +2 / +2. 2 → Target ally you control has Nature Resistance this turn.'
+cost: '3'
 
 class:
   - Hunter
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : allies you control have +2 / +2. 2 → Target ally you control has Nature Resistance this turn.'
+
+regulation:
+
+errata: []
 
 temp: Beast Mastery

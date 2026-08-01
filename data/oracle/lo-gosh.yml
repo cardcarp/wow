@@ -2,22 +2,24 @@ card_name: Lo_Gosh
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 4
 
 health: 4
 
-text: Protector Opposing heroes and allies have -1 ATK / -1 health while in combat with Lo'Gosh for each Arena ally in your party.
-
-cost: '5'
-
 combat: Melee
 
-temp: Human Warrior
-
 type: Arena
+
+rule:
+  - type: ability
+    text: Protector Opposing heroes and allies have -1 ATK / -1 health while in combat with Lo'Gosh for each Arena ally in your party.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

@@ -2,17 +2,19 @@ card_name: Spiritual Awakening
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : At the start of your turn, remove all but 14 damage from your hero.'
+cost: '7'
 
 class:
   - Shaman
 
-cost: '7'
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, remove all but 14 damage from your hero.'
+
+regulation:
+
+errata: []
 
 temp: Restoration

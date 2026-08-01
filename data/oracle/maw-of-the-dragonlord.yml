@@ -2,13 +2,9 @@ card_name: Maw of the Dragonlord
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: You pay 1 less to play this weapon for each quest you control. When you complete a quest, your hero heals 4 damage from itself.
+cost: '6'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '6'
+rule:
+  - type: ability
+    text: You pay 1 less to play this weapon for each quest you control. When you complete a quest, your hero heals 4 damage from itself.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

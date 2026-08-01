@@ -10,4 +10,5 @@ artist: Randy Gallegos
 
 flavor:
 
-appearance: []
+variation:
+  - transform

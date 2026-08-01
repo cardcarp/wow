@@ -10,4 +10,5 @@ artist: Marcelo Vignali
 
 flavor: All he needs is to hit you once.
 
-appearance: []
+variation:
+  - transform

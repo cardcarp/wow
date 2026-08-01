@@ -2,18 +2,20 @@ card_name: Boots of the Resilient
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero is dealt damage, exhaust Boots of the Resilient.
+cost: '3'
 
 class:
   - Paladin
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: When your hero is dealt damage, exhaust Boots of the Resilient.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

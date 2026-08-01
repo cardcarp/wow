@@ -2,14 +2,16 @@ card_name: Fuel for the Fire
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Draw a card for each opposing hero.
+
+regulation:
 
 errata: []
 
-text: Draw a card for each opposing hero.
-
 temp: ''
-
-type: Raid

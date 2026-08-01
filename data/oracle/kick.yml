@@ -2,17 +2,19 @@ card_name: Kick
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Your hero deals 2 melee damage to target hero or ally. If you targeted a hero, you may interrupt an ability card played by its controller.
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+instant: Your hero deals 2 melee damage to target hero or ally. If you targeted a hero, you may interrupt an ability card played by its controller.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Combat

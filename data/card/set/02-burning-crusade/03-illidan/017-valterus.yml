@@ -10,4 +10,5 @@ artist: Christopher Moeller
 
 flavor: '"If I were you, I would pay attention to me."'
 
-appearance: []
+variation:
+  - transform

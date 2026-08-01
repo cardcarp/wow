@@ -2,17 +2,19 @@ card_name: Blessing of Resolution
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target Monster ally you control. Ongoing : Attached ally has +2 / +2 for this and each other ability attached to it.'
+cost: '2'
 
 class:
   - Paladin
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Attach to target Monster ally you control. Ongoing : Attached ally has +2 / +2 for this and each other ability attached to it.'
+
+regulation:
+
+errata: []
 
 temp: Protection Blessing

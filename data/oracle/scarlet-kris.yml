@@ -2,11 +2,9 @@ card_name: Scarlet Kris
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '2'
 
 class:
   - Warrior
@@ -14,6 +12,10 @@ class:
   - Hunter
   - Rogue
 
-cost: '2'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

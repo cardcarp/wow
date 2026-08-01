@@ -2,22 +2,24 @@ card_name: Kryton Barleybeard
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 2
 
 health: 1
 
-text: 2 , Destroy Kryton Barleybeard → Put target ability into its owner's hand.
-
-cost: '1'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 2 , Destroy Kryton Barleybeard → Put target ability into its owner's hand.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Priest

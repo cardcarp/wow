@@ -10,4 +10,5 @@ artist: Brandon Kitkouski
 
 flavor: "\"I'm a real self-starter!\""
 
-appearance: []
+variation:
+  - transform

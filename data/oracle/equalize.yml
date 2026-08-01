@@ -2,17 +2,19 @@ card_name: Equalize
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Each player with more cards in play than you destroys cards in play he controls until he has the same number as you.
+cost: '5'
 
 class:
   - Priest
 
-cost: '5'
+rule:
+  - type: ability
+    text: Each player with more cards in play than you destroys cards in play he controls until he has the same number as you.
+
+regulation:
+
+errata: []
 
 temp: Discipline

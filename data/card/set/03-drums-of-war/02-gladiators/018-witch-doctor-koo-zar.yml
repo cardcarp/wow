@@ -10,4 +10,5 @@ artist: Daarken
 
 flavor: "\"It's best not to be messin' with me.\""
 
-appearance: []
+variation:
+  - transform

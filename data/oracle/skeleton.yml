@@ -2,8 +2,10 @@ card_name: Skeleton
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

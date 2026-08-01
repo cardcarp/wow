@@ -2,16 +2,19 @@ card_name: Telrander
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 27
 
-text: 3 , Flip Telrander → Ready Telrander. Use only while he's in cat form.
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Telrander → Ready Telrander. Use only while he's in cat form.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Druid

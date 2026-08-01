@@ -2,17 +2,19 @@ card_name: Frost Rune
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'As an additional cost to play, remove an ability in your graveyard from the game. Ongoing : → You pay 1 less to play your next card this turn.'
+cost: '2'
 
 class:
   - Death Knight
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'As an additional cost to play, remove an ability in your graveyard from the game. Ongoing : → You pay 1 less to play your next card this turn.'
+
+regulation:
+
+errata: []
 
 temp: Frost

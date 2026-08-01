@@ -12,7 +12,7 @@ artist:
   type: string
   nullable: true
 
-appearance:
+variation:
   type: list
   schema:
     type: string

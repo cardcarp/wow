@@ -2,8 +2,10 @@ card_name: Grummle Caravan
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

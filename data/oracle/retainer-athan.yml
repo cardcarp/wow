@@ -2,20 +2,22 @@ card_name: Retainer Athan
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 3
 
-text: Scryer Reputation When Athan is destroyed, target player discards his hand, then draws that many cards.
-
-cost: '3'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Scryer Reputation When Athan is destroyed, target player discards his hand, then draws that many cards.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Rogue

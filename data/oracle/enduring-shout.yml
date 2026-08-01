@@ -2,17 +2,19 @@ card_name: Enduring Shout
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : While exactly one ally is in your party, it has +2 ATK / +2 health and is a Protector .'
+cost: '3'
 
 class:
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : While exactly one ally is in your party, it has +2 ATK / +2 health and is a Protector .'
+
+regulation:
+
+errata: []
 
 temp: Fury Shout

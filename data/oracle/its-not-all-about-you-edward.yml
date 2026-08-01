@@ -2,12 +2,14 @@ card_name: _Its Not All about You, Edward!_
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: "Ongoing : Players can't pay even costs (including 0 ) ."
 
-text: "Ongoing : Players can't pay even costs (including 0 ) ."
+regulation:
+
+errata: []
 
 temp: ''

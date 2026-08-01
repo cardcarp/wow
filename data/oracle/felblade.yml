@@ -2,14 +2,16 @@ card_name: Felblade
 
 layout: standard
 
-regulation:
-
 category: Ability
+
+type: Boss
+
+rule:
+  - type: ability
+    text: 'The Caverns hero has Assault 2 this turn. Ongoing : When the Caverns hero deals combat damage to the MARKED hero, the Caverns hero deals that much fire damage to each other Raiding hero. When a Caverns hero is defeated, destroy this ability.'
+
+regulation:
 
 errata: []
 
-text: 'The Caverns hero has Assault 2 this turn. Ongoing : When the Caverns hero deals combat damage to the MARKED hero, the Caverns hero deals that much fire damage to each other Raiding hero. When a Caverns hero is defeated, destroy this ability.'
-
 temp: ''
-
-type: Boss

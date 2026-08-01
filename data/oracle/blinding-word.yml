@@ -2,17 +2,19 @@ card_name: Blinding Word
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Exhaust target hero. Its controller can't play cards this turn.
+cost: '2'
 
 class:
   - Paladin
 
-cost: '2'
+instant: Exhaust target hero. Its controller can't play cards this turn.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Protection

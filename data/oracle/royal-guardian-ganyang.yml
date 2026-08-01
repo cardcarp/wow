@@ -2,8 +2,10 @@ card_name: Royal Guardian Ganyang
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

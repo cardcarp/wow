@@ -2,22 +2,24 @@ card_name: Mogor
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 5
 
-text: When Mogor is destroyed, you may pay 3 . If you do, his owner puts him from his graveyard into his party.
-
-cost: '5'
-
 combat: Melee
 
-temp: Ogre Shaman
-
 type: Arena
+
+rule:
+  - type: ability
+    text: When Mogor is destroyed, you may pay 3 . If you do, his owner puts him from his graveyard into his party.
+
+regulation:
+
+errata: []
+
+temp: Ogre Shaman

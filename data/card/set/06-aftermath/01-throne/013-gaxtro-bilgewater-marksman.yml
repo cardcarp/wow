@@ -10,4 +10,5 @@ artist: Steve Prescott
 
 flavor: '"Put your money where you mouth is and try your luck."'
 
-appearance: []
+variation:
+  - transform

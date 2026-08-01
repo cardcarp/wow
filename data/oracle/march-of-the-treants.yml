@@ -2,17 +2,19 @@ card_name: March of the Treants
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : At the start of your turn, put a 1 / 1 Treant ally token into play.'
+cost: '3'
 
 class:
   - Druid
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, put a 1 / 1 Treant ally token into play.'
+
+regulation:
+
+errata: []
 
 temp: Balance

@@ -2,17 +2,19 @@ card_name: Enslave Demon
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target Demon ally. Ongoing : You control attached ally.'
+cost: '2'
 
 class:
   - Warlock
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Attach to target Demon ally. Ongoing : You control attached ally.'
+
+regulation:
+
+errata: []
 
 temp: Demonology

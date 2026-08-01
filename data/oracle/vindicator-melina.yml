@@ -2,20 +2,22 @@ card_name: Vindicator Melina
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 5
 
 health: 3
 
-text: 'Aldor Reputation Inspire: Equipment'
-
-cost: '4'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Equipment'
+
+regulation:
+
+errata: []
 
 temp: Draenei Warrior

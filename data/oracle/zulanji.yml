@@ -2,20 +2,22 @@ card_name: Zulanji
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 4
 
 health: 1
 
-cost: '2'
-
 combat: Holy
 
 faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Troll Priest

@@ -2,8 +2,10 @@ card_name: Why Do We Fight_
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

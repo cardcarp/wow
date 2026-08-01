@@ -2,22 +2,24 @@ card_name: Swordsmith Hanso
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 5
 
-text: Protector Your weapons have +3 ATK. Opposing weapons have -3 ATK.
-
-cost: '6'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Your weapons have +3 ATK. Opposing weapons have -3 ATK.
+
+regulation:
+
+errata: []
 
 temp: Draenei Warrior

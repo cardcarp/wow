@@ -2,14 +2,16 @@ card_name: Assault Aspects
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Put two Corrupted Blood ally tokens into play. Allies Deathwing controls have +1 ATK this turn.
+
+regulation:
 
 errata: []
 
-text: Put two Corrupted Blood ally tokens into play. Allies Deathwing controls have +1 ATK this turn.
-
 temp: ''
-
-type: Boss

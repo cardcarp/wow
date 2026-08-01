@@ -2,22 +2,24 @@ card_name: Malazar Eldarch
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 4
 
 health: 4
 
-text: You pay 3 less to play this ally if you control a pet.
-
-cost: '6'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: You pay 3 less to play this ally if you control a pet.
+
+regulation:
+
+errata: []
 
 temp: Undead Hunter

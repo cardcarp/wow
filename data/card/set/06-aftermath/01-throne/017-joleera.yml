@@ -10,4 +10,5 @@ artist: Glenn Rane
 
 flavor: '"To achieve apotheosis, we who walk in the shadows must force our blades to bring the silence of death."'
 
-appearance: []
+variation:
+  - transform

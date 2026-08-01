@@ -2,12 +2,14 @@ card_name: Defias Gunpowder
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+rule:
+  - type: ability
+    text: "When this item enters play, the MARKED hero's controller gains control of it. On your turn: Roll a die, destroy this item → Your hero deals that much fire damage to target hero or ally."
 
-text: "When this item enters play, the MARKED hero's controller gains control of it. On your turn: Roll a die, destroy this item → Your hero deals that much fire damage to target hero or ally."
+regulation:
+
+errata: []
 
 temp: Item

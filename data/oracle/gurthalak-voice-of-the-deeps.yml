@@ -2,19 +2,21 @@ card_name: Gurthalak, Voice of the Deeps
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: While you have no cards in your hand, this weapon has +2 ATK, and you pay 2 less to strike with it.
+cost: '3'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '3'
+rule:
+  - type: ability
+    text: While you have no cards in your hand, this weapon has +2 ATK, and you pay 2 less to strike with it.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Sword

@@ -2,22 +2,24 @@ card_name: Sal Grimstalker
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 4
 
-text: Stealth At the start of your turn, target hero or ally has Stealth this turn.
-
-cost: '4'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Stealth At the start of your turn, target hero or ally has Stealth this turn.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Rogue

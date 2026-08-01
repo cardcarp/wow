@@ -2,22 +2,24 @@ card_name: Mikael the Blunt
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: When an opposing hero or ally readies, Mikael deals 2 ranged damage to it.
-
-cost: '2'
-
 combat: Ranged
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: When an opposing hero or ally readies, Mikael deals 2 ranged damage to it.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Hunter

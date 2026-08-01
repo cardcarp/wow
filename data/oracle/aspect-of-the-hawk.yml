@@ -2,17 +2,19 @@ card_name: Aspect of the Hawk
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : If your hero would deal ranged damage, it deals that amount of damage plus 1 instead.'
+cost: '3'
 
 class:
   - Hunter
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : If your hero would deal ranged damage, it deals that amount of damage plus 1 instead.'
+
+regulation:
+
+errata: []
 
 temp: Beast Mastery

@@ -2,22 +2,24 @@ card_name: Deathstalker Leanna
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 4
 
-text: Will of the Forsaken Leanna has +3 ATK while attacking an exhausted hero or ally.
-
-cost: '6'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Will of the Forsaken Leanna has +3 ATK while attacking an exhausted hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Undead Rogue

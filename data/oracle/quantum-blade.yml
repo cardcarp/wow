@@ -2,19 +2,21 @@ card_name: Quantum Blade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Remove the top ten cards of your deck from the game → You pay 5 less the next time you strike with Quantum Blade this turn.
+cost: '5'
 
 class:
   - Paladin
   - Warrior
   - Hunter
 
-cost: '5'
+rule:
+  - type: ability
+    text: Remove the top ten cards of your deck from the game → You pay 5 less the next time you strike with Quantum Blade this turn.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Sword

@@ -2,19 +2,21 @@ card_name: Sonic Spear
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals combat damage with Sonic Spear to a hero, that hero's controller destroys one of his equipment.
+cost: '5'
 
 class:
   - Paladin
   - Warrior
   - Hunter
 
-cost: '5'
+rule:
+  - type: ability
+    text: When your hero deals combat damage with Sonic Spear to a hero, that hero's controller destroys one of his equipment.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Polearm

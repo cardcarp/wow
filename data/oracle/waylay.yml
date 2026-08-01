@@ -2,17 +2,19 @@ card_name: Waylay
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Exhaust target ally. If your hero is stealthed, it deals damage to that ally equal to that ally's health.
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+instant: Exhaust target ally. If your hero is stealthed, it deals damage to that ally equal to that ally's health.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Assassination Combo

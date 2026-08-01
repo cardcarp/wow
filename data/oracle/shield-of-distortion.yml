@@ -2,18 +2,20 @@ card_name: Shield of Distortion
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Prevent all non-melee (non- ) damage that would be dealt to target hero or ally this turn.
+cost: '1'
 
 class:
   - Death Knight
   - Mage
 
-cost: '1'
+instant: Prevent all non-melee (non- ) damage that would be dealt to target hero or ally this turn.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Unholy Arcane

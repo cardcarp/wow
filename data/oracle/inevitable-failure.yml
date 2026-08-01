@@ -2,16 +2,18 @@ card_name: Inevitable Failure
 
 layout: standard
 
-regulation:
-
 category: Event
-
-errata: []
-
-text: Look at target raider's hand and choose a card. He discards that card.
-
-temp: ''
 
 type: Raid
 
 stage: 12
+
+rule:
+  - type: ability
+    text: Look at target raider's hand and choose a card. He discards that card.
+
+regulation:
+
+errata: []
+
+temp: ''

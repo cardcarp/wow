@@ -2,17 +2,19 @@ card_name: Conjured Sparkling Water
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : 4 , Destroy Conjured Sparkling Water → Ready all of your resources. 1 → Target player gains control of Conjured Sparkling Water. Use only on your turn.'
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : 4 , Destroy Conjured Sparkling Water → Ready all of your resources. 1 → Target player gains control of Conjured Sparkling Water. Use only on your turn.'
+
+regulation:
+
+errata: []
 
 temp: Arcane

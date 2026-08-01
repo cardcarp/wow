@@ -2,17 +2,19 @@ card_name: Spirit Bond
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Beast Mastery Hero Required Ongoing : At the start of your turn, if you have a Pet, your hero heals 2 damage from itself and each of your Pets.'
+cost: '1'
 
 class:
   - Hunter
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Beast Mastery Hero Required Ongoing : At the start of your turn, if you have a Pet, your hero heals 2 damage from itself and each of your Pets.'
+
+regulation:
+
+errata: []
 
 temp: Beast Mastery Talent

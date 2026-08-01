@@ -2,17 +2,19 @@ card_name: Restless Blades
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Combat Talent Ongoing : Weapons you control have +1 ATK. Your hero has Infinite Wield .'
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Combat Talent Ongoing : Weapons you control have +1 ATK. Your hero has Infinite Wield .'
+
+regulation:
+
+errata: []
 
 temp: Combat

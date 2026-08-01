@@ -10,4 +10,5 @@ artist: Benjamin Zhang
 
 flavor: '"Souls of the damned, lost in the darkness ... your master beckons."'
 
-appearance: []
+variation:
+  - transform

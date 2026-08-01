@@ -2,17 +2,19 @@ card_name: Whirlwind
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Your hero deals melee damage to each opposing ally equal to the ATK of a Melee weapon you control.
+cost: '5'
 
 class:
   - Warrior
 
-cost: '5'
+instant: Your hero deals melee damage to each opposing ally equal to the ATK of a Melee weapon you control.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Fury

@@ -2,22 +2,24 @@ card_name: Medoc Spiritwarden
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 1
 
 health: 5
 
-text: → Put target ally card from your graveyard into your hand.
-
-cost: '5'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: → Put target ally card from your graveyard into your hand.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Priest

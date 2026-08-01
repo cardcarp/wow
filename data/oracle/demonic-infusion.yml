@@ -2,17 +2,19 @@ card_name: Demonic Infusion
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally. Ongoing : Attached ally has +3 / -1, loses all races, and becomes a Monster Demon.'
+cost: '1'
 
 class:
   - Warlock
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Attach to target ally. Ongoing : Attached ally has +3 / -1, loses all races, and becomes a Monster Demon.'
+
+regulation:
+
+errata: []
 
 temp: Demonology Attachment

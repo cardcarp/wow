@@ -2,14 +2,16 @@ card_name: Fickle Fate
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Play another event after this one. (Both go into your resource row.)
+
+regulation:
 
 errata: []
 
-text: Play another event after this one. (Both go into your resource row.)
-
 temp: ''
-
-type: Raid

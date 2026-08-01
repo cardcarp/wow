@@ -2,14 +2,16 @@ card_name: Blast Nova
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Flip Magtheridon's Lair.
-
 cost: '2'
+
+rule:
+  - type: ability
+    text: Flip Magtheridon's Lair.
+
+regulation:
+
+errata: []
 
 temp: ''

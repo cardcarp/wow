@@ -2,17 +2,19 @@ card_name: Deliberate Heal
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : At the start of your turn, destroy this ability. If you do, your hero heals 5 damage from target hero or ally, and draw a card.'
+cost: '2'
 
 class:
   - Paladin
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, destroy this ability. If you do, your hero heals 5 damage from target hero or ally, and draw a card.'
+
+regulation:
+
+errata: []
 
 temp: Holy

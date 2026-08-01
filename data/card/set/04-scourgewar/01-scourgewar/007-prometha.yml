@@ -10,4 +10,5 @@ artist: Raymond Swanland
 
 flavor: "\"I've never seen such fervor. Even the Burning Legion would retreat on occasion, but the Scourge are relentless.\""
 
-appearance: []
+variation:
+  - transform

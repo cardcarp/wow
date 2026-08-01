@@ -2,17 +2,19 @@ card_name: Shadow Dance
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Subtlety Talent Your hero has Assault 2 and Stealth this turn. Ongoing : When you play a ability, your hero has Assault 2 and Stealth this turn.'
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Subtlety Talent Your hero has Assault 2 and Stealth this turn. Ongoing : When you play a ability, your hero has Assault 2 and Stealth this turn.'
+
+regulation:
+
+errata: []
 
 temp: Subtlety

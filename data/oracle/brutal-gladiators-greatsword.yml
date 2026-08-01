@@ -2,17 +2,19 @@ card_name: Brutal Gladiators Greatsword
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Preparation
+cost: '5'
 
 class:
   - Paladin
 
-cost: '5'
+rule:
+  - type: ability
+    text: Preparation
+
+regulation:
+
+errata: []
 
 temp: 2H Arena Weapon Sword

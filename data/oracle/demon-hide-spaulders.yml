@@ -2,18 +2,20 @@ card_name: Demon Hide Spaulders
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → Each of your weapons has +1 ATK this turn. → Each of your armor has +1 DEF this turn.
+cost: '3'
 
 class:
   - Druid
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: → Each of your weapons has +1 ATK this turn. → Each of your armor has +1 DEF this turn.
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

@@ -2,20 +2,22 @@ card_name: Spring Rabbit
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 2
 
 health: 1
 
-text: 1 , Exhaust this and another Rabbit ally you control → Put a 1 / 1 Bunny Egg ally token into play.
-
-cost: '1'
-
 combat: Nature
+
+rule:
+  - type: ability
+    text: 1 , Exhaust this and another Rabbit ally you control → Put a 1 / 1 Bunny Egg ally token into play.
+
+regulation:
+
+errata: []
 
 temp: Rabbit

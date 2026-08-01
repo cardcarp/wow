@@ -2,22 +2,24 @@ card_name: Emree
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 4
 
-text: 2 , → Ready another target ally.
-
-cost: '3'
-
 combat: Nature
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 2 , → Ready another target ally.
+
+regulation:
+
+errata: []
 
 temp: Draenei Shaman

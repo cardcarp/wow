@@ -2,20 +2,22 @@ card_name: Almia Moonwhisper
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 25
 
-text: 5 → Flip Almia
-
 faction: Alliance
 
-temp: Night Elf Mage
-
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: 5 → Flip Almia
+  - type: ability
+    position: reverse
     text: At the start of your turn, if you control an ally, you may draw a card.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Mage

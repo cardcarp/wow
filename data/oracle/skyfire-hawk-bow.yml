@@ -2,17 +2,19 @@ card_name: Skyfire Hawk-Bow
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you strike with Skyfire Hawk-Bow, your hero has Long-Range this combat.
+cost: '4'
 
 class:
   - Hunter
 
-cost: '4'
+rule:
+  - type: ability
+    text: When you strike with Skyfire Hawk-Bow, your hero has Long-Range this combat.
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Bow

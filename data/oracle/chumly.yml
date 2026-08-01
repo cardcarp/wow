@@ -2,22 +2,24 @@ card_name: Chumly
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 2
 
-text: This and other Murloc allies you control have +1 / +1.
-
-cost: '3'
-
 combat: Frost
 
-temp: Murloc Warrior
-
 type: Monster
+
+rule:
+  - type: ability
+    text: This and other Murloc allies you control have +1 / +1.
+
+regulation:
+
+errata: []
+
+temp: Murloc Warrior

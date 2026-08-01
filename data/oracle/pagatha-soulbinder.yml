@@ -2,16 +2,19 @@ card_name: Pagatha Soulbinder
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 28
 
-text: 5 , Flip Pagatha Soulbinder → Interrupt target ally card.
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 5 , Flip Pagatha Soulbinder → Interrupt target ally card.
+
+regulation:
+
+errata: []
 
 temp: Undead Warlock

@@ -2,19 +2,21 @@ card_name: Netherbane
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Cards in play you control can't be removed from the game.
+cost: '1'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: Cards in play you control can't be removed from the game.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

@@ -10,4 +10,5 @@ artist: Jonboy Meyers
 
 flavor: Crimson Hand
 
-appearance: []
+variation:
+  - transform

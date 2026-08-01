@@ -2,13 +2,9 @@ card_name: The Dragon Soul
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: '→ Add an aspect counter to this item. On your turn: , Remove three aspect counters from this item → Destroy target non-hero card.'
+cost: '3'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: '→ Add an aspect counter to this item. On your turn: , Remove three aspect counters from this item → Destroy target non-hero card.'
+
+regulation:
+
+errata: []
 
 temp: Item

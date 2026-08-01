@@ -2,17 +2,19 @@ card_name: Illumination
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Holy Hero Required Ongoing : When your hero heals damage with an ability from a friendly hero or ally, you may ready up to X of your resources, where X is that ability's cost."
+cost: '4'
 
 class:
   - Paladin
 
-cost: '4'
+rule:
+  - type: ability
+    text: "Holy Hero Required Ongoing : When your hero heals damage with an ability from a friendly hero or ally, you may ready up to X of your resources, where X is that ability's cost."
+
+regulation:
+
+errata: []
 
 temp: Holy Talent

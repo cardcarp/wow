@@ -2,22 +2,24 @@ card_name: Gilblin Deathscrounger
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 4
 
 health: 2
 
-text: This ally can attack only heroes. At the start of your turn, if this ally is in your graveyard, you may remove another Monster ally in your graveyard from the game. If you do, put this ally into play.
-
-cost: '2'
-
 combat: Frost
 
-temp: Goblin Death Knight
-
 type: Monster
+
+rule:
+  - type: ability
+    text: This ally can attack only heroes. At the start of your turn, if this ally is in your graveyard, you may remove another Monster ally in your graveyard from the game. If you do, put this ally into play.
+
+regulation:
+
+errata: []
+
+temp: Goblin Death Knight

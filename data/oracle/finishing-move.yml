@@ -2,12 +2,14 @@ card_name: Finishing Move
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: You may exchange seats with another player. That player continues your turn and the game with your cards, and you continue the game with his cards (including deck, graveyard, hand, and cards in play) .
 
-text: You may exchange seats with another player. That player continues your turn and the game with your cards, and you continue the game with his cards (including deck, graveyard, hand, and cards in play) .
+regulation:
+
+errata: []
 
 temp: ''

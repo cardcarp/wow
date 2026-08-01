@@ -2,22 +2,24 @@ card_name: Keward Rocksalt
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 2
 
-text: Protector Opposing allies have -1 health while Keward is defending.
-
-cost: '3'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Opposing allies have -1 health while Keward is defending.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Warrior

@@ -2,20 +2,22 @@ card_name: Landro Longshot
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 3
 
-text: 1 , , Discard a card → Flip a coin. If you win the flip, draw two cards. If you lose the flip, you may pay 2 to reflip.
-
-cost: '2'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: 1 , , Discard a card → Flip a coin. If you win the flip, draw two cards. If you lose the flip, you may pay 2 to reflip.
+
+regulation:
+
+errata: []
 
 temp: Goblin Gambler

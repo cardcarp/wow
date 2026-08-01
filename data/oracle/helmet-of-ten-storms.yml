@@ -2,17 +2,19 @@ card_name: Helmet of Ten Storms
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 2 , → Your hero deals 1 nature damage to target hero or ally and heals 1 damage from target hero or ally. When you play a ability, ready Helmet of Ten Storms.
+cost: '4'
 
 class:
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: 2 , → Your hero deals 1 nature damage to target hero or ally and heals 1 damage from target hero or ally. When you play a ability, ready Helmet of Ten Storms.
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

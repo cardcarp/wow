@@ -2,17 +2,19 @@ card_name: Unbalance
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Exhaust all opposing heroes and allies. If you have an equipment, each of them can't ready during its controller's next ready step.
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: Exhaust all opposing heroes and allies. If you have an equipment, each of them can't ready during its controller's next ready step.
+
+regulation:
+
+errata: []
 
 temp: Combat Combo

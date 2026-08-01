@@ -2,8 +2,10 @@ card_name: Klaxxi Lash of the Orator
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

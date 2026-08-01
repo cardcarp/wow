@@ -2,17 +2,19 @@ card_name: Fel-Acid Breath
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Traitor Hero Required Target opponent chooses three allies in his party, in order. Your hero deals 3, 2, and 1 nature damage to them, respectively.
+cost: '2'
 
 class:
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: Traitor Hero Required Target opponent chooses three allies in his party, in order. Your hero deals 3, 2, and 1 nature damage to them, respectively.
+
+regulation:
+
+errata: []
 
 temp: Traitor

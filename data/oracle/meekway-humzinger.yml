@@ -2,22 +2,24 @@ card_name: Meekway Humzinger
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 2
 
-text: Elusive 1 , , Put Meekway Humzinger into her owner's hand → Draw a card.
-
-cost: '2'
-
 combat: Arcane
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive 1 , , Put Meekway Humzinger into her owner's hand → Draw a card.
+
+regulation:
+
+errata: []
 
 temp: Gnome Mage

@@ -2,12 +2,14 @@ card_name: Signed in Blood
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 1 to complete this quest. Reward : Turn target resource face down.'
 
-text: 'Pay 1 to complete this quest. Reward : Turn target resource face down.'
+regulation:
+
+errata: []
 
 temp: ''

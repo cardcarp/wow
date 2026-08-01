@@ -10,4 +10,5 @@ artist: Christopher Moeller
 
 flavor: '"Souls are just another form of currency."'
 
-appearance: []
+variation:
+  - transform

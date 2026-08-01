@@ -2,18 +2,20 @@ card_name: Wastewalker Leggings
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When an opposing hero or ally becomes exhausted, your hero deals 1 melee damage to it.
+cost: '4'
 
 class:
   - Druid
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: When an opposing hero or ally becomes exhausted, your hero deals 1 melee damage to it.
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

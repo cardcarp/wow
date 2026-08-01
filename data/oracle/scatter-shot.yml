@@ -2,17 +2,19 @@ card_name: Scatter Shot
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Marksmanship Hero Required Your hero deals ranged damage to target hero or ally equal to 1 plus the combined ATK of your Ranged weapons. If a hero is dealt damage this way, its controller can't play cards this turn.
+cost: '4'
 
 class:
   - Hunter
 
-cost: '4'
+instant: Marksmanship Hero Required Your hero deals ranged damage to target hero or ally equal to 1 plus the combined ATK of your Ranged weapons. If a hero is dealt damage this way, its controller can't play cards this turn.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Marksmanship Talent

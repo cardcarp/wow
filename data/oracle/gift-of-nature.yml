@@ -2,17 +2,19 @@ card_name: Gift of Nature
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Restoration Hero Required Ongoing : Allies in your party can't be destroyed by fatal damage. At the end of each turn, destroy all allies in your party with fatal damage."
+cost: '3'
 
 class:
   - Druid
 
-cost: '3'
+rule:
+  - type: ability
+    text: "Restoration Hero Required Ongoing : Allies in your party can't be destroyed by fatal damage. At the end of each turn, destroy all allies in your party with fatal damage."
+
+regulation:
+
+errata: []
 
 temp: Restoration Talent

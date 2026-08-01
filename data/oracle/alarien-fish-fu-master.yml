@@ -2,8 +2,10 @@ card_name: Alarien Fish Fu Master
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

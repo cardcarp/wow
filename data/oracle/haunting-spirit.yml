@@ -2,20 +2,22 @@ card_name: Haunting Spirit
 
 layout: standard
 
-regulation:
-
 category: Ally
-
-errata: []
 
 damage: 6
 
 health: 6
 
-text: "Elusive Level 3+ : When this ally enters play, each Raider chooses two allies he controls and puts them into their owners' hand."
-
 combat: Shadow
 
-temp: Spirit
-
 type: Dungeon
+
+rule:
+  - type: ability
+    text: "Elusive Level 3+ : When this ally enters play, each Raider chooses two allies he controls and puts them into their owners' hand."
+
+regulation:
+
+errata: []
+
+temp: Spirit

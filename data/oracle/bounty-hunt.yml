@@ -2,17 +2,19 @@ card_name: Bounty Hunt
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Destroy target ally with cost less than or equal to the number of allies you control.
+cost: '4'
 
 class:
   - Rogue
 
-cost: '4'
+instant: Destroy target ally with cost less than or equal to the number of allies you control.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Assassination

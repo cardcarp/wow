@@ -2,12 +2,14 @@ card_name: Off the Beaten Path
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: Each player may search his deck for a card from Feast of Winter Veil, Darkmoon Faire, Arena Grand Melee , or any other Collector's Set. If he does, he reveals it and puts it into hand.
 
-text: Each player may search his deck for a card from Feast of Winter Veil, Darkmoon Faire, Arena Grand Melee , or any other Collector's Set. If he does, he reveals it and puts it into hand.
+regulation:
+
+errata: []
 
 temp: ''

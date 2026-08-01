@@ -2,8 +2,10 @@ card_name: Oshu Gun Scepter
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

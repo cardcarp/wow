@@ -2,19 +2,21 @@ card_name: Belt of Blasting
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: x , Exhaust your hero → Your hero deals X arcane damage to target hero or ally.
+cost: '6'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '6'
+rule:
+  - type: ability
+    text: x , Exhaust your hero → Your hero deals X arcane damage to target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

@@ -10,4 +10,5 @@ artist: Andrea Uderzo
 
 flavor: '"In the name of the storms and the stars, I shall end you!"'
 
-appearance: []
+variation:
+  - transform

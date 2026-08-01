@@ -10,4 +10,5 @@ artist: Ittoku
 
 flavor: '"Seeing the Firelord before my eyes only makes my passion for the flame burn even brighter."'
 
-appearance: []
+variation:
+  - transform

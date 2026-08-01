@@ -2,17 +2,19 @@ card_name: Crusaders Armament
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target armor. Ongoing : Attached armor has +10 .'
+cost: '2'
 
 class:
   - Paladin
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Attach to target armor. Ongoing : Attached armor has +10 .'
+
+regulation:
+
+errata: []
 
 temp: Protection

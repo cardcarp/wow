@@ -2,17 +2,19 @@ card_name: Dark Embrace
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Each player puts the top 5 cards of his deck into his graveyard.
+cost: '2'
 
 class:
   - Priest
 
-cost: '2'
+rule:
+  - type: ability
+    text: Each player puts the top 5 cards of his deck into his graveyard.
+
+regulation:
+
+errata: []
 
 temp: Shadow

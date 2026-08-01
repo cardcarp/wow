@@ -2,22 +2,24 @@ card_name: Horngrim
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 3
 
-text: Harmonize This ally can't be targeted by opponents.
-
-cost: '2'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Harmonize This ally can't be targeted by opponents.
+
+regulation:
+
+errata: []
 
 temp: Troll Druid

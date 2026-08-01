@@ -2,14 +2,16 @@ card_name: Gilneas
 
 layout: standard
 
-regulation:
-
 category: Location
 
-errata: []
-
-text: 4 → Worgen you control have Assault 2 this turn.
-
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 4 → Worgen you control have Assault 2 this turn.
+
+regulation:
+
+errata: []
 
 temp: ''

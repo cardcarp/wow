@@ -2,17 +2,19 @@ card_name: Favor of Acherus
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Allies and weapons you control have Assault 1 for each Disease attached to opposing heroes.'
+cost: '2'
 
 class:
   - Death Knight
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : Allies and weapons you control have Assault 1 for each Disease attached to opposing heroes.'
+
+regulation:
+
+errata: []
 
 temp: Unholy

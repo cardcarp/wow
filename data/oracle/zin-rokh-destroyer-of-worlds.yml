@@ -2,19 +2,21 @@ card_name: Zin_rokh, Destroyer of Worlds
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals combat damage with Zin'rohk, destroy all other abilities, allies, equipment, and resources.
+cost: '7'
 
 class:
   - Paladin
   - Warrior
   - Hunter
 
-cost: '7'
+rule:
+  - type: ability
+    text: When your hero deals combat damage with Zin'rohk, destroy all other abilities, allies, equipment, and resources.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Sword

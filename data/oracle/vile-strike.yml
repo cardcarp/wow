@@ -2,17 +2,19 @@ card_name: Vile Strike
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Target hero has -X this turn.
+cost: X
 
 class:
   - Death Knight
 
-cost: X
+rule:
+  - type: ability
+    text: Target hero has -X this turn.
+
+regulation:
+
+errata: []
 
 temp: Unholy

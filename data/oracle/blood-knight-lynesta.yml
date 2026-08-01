@@ -2,22 +2,24 @@ card_name: Blood Knight Lynesta
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 4
 
 health: 3
 
-text: Absorb This ally has +3 / +4 while an opponent controls an or Monster hero.
-
-cost: '5'
-
 combat: Holy
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Absorb This ally has +3 / +4 while an opponent controls an or Monster hero.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Paladin

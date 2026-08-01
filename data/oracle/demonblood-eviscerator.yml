@@ -2,19 +2,21 @@ card_name: Demonblood Eviscerator
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-instant: Your hero has Dual Wield .
+cost: '5'
 
 class:
   - Warrior
   - Shaman
   - Rogue
 
-cost: '5'
+instant: Your hero has Dual Wield .
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Fist

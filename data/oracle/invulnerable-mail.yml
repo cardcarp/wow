@@ -2,13 +2,9 @@ card_name: Invulnerable Mail
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Destroy two of your resources → Ready Invulnerable Mail.
+cost: '7'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Shaman
 
-cost: '7'
+rule:
+  - type: ability
+    text: Destroy two of your resources → Ready Invulnerable Mail.
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

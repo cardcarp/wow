@@ -2,8 +2,10 @@ card_name: Ski_thiks Rod of Ambershaping
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

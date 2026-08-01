@@ -2,20 +2,22 @@ card_name: Baxxel Geartooth
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 28
 
-text: 4 → Flip Baxxel
-
 faction: Horde
 
-temp: Goblin Hunter
-
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: 4 → Flip Baxxel
+  - type: ability
+    position: reverse
     text: Pets you control have Assault 2 .
+
+regulation:
+
+errata: []
+
+temp: Goblin Hunter

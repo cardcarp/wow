@@ -2,20 +2,22 @@ card_name: Violet Proto-Drake
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 5
 
 health: 5
 
-text: You pay 1 less to play this ally for each different color among Dragonkin you control. Other Dragonkin you control have +2 / +2.
-
-cost: '7'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: You pay 1 less to play this ally for each different color among Dragonkin you control. Other Dragonkin you control have +2 / +2.
+
+regulation:
+
+errata: []
 
 temp: Dragonkin

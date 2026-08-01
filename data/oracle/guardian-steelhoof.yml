@@ -2,22 +2,24 @@ card_name: Guardian Steelhoof
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 4
 
 health: 4
 
-text: Protector This ally can't attack.
-
-cost: '3'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector This ally can't attack.
+
+regulation:
+
+errata: []
 
 temp: Tauren Druid

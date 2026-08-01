@@ -2,22 +2,24 @@ card_name: Stella Forgebane
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 3
 
-text: At the end of your turn, you may destroy target exhausted equipment.
-
-cost: '6'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: At the end of your turn, you may destroy target exhausted equipment.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Rogue

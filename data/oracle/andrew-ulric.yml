@@ -2,22 +2,24 @@ card_name: Andrew Ulric
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 4
 
-text: Aberration
-
-cost: '4'
-
 combat: Shadow
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Aberration
+
+regulation:
+
+errata: []
 
 temp: Worgen Priest

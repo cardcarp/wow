@@ -2,22 +2,24 @@ card_name: Durae Crystalshield
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 3
 
-text: Durae can protect friendly allies.
-
-cost: '2'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Durae can protect friendly allies.
+
+regulation:
+
+errata: []
 
 temp: Draenei Warrior

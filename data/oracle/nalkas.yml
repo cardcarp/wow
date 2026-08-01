@@ -2,22 +2,24 @@ card_name: Nalkas
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 2
 
 health: 4
 
-text: → Nalkas heals 2 damage from each hero and ally in target player's party.
-
-cost: '4'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: → Nalkas heals 2 damage from each hero and ally in target player's party.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Priest

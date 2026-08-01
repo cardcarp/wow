@@ -2,17 +2,19 @@ card_name: Blessing from Beyond
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Warp Attach to target ally. Ongoing : Attached ally has +3 / +3.'
+cost: '4'
 
 class:
   - Paladin
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Warp Attach to target ally. Ongoing : Attached ally has +3 / +3.'
+
+regulation:
+
+errata: []
 
 temp: Holy Blessing Attachment

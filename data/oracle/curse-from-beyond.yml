@@ -2,17 +2,19 @@ card_name: Curse from Beyond
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Warp Attach to target hero. Ongoing : At the start of your turn, your hero deals 2 shadow damage to attached hero.'
+cost: '4'
 
 class:
   - Warlock
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Warp Attach to target hero. Ongoing : At the start of your turn, your hero deals 2 shadow damage to attached hero.'
+
+regulation:
+
+errata: []
 
 temp: Affliction Curse Attachment

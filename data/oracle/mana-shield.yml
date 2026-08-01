@@ -2,17 +2,19 @@ card_name: Mana Shield
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Ongoing : x , → Prevent the next X combat damage that would be dealt to your hero by allies this turn.'
+cost: '2'
 
 class:
   - Mage
 
-cost: '2'
+instant: 'Ongoing : x , → Prevent the next X combat damage that would be dealt to your hero by allies this turn.'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Arcane

@@ -2,25 +2,27 @@ card_name: Bronthea the Resolute
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 5
 
-text: You can strike with weapons while this ally is in combat. armor can prevent damage that would be dealt to this ally.
+combat: Holy
+
+faction: Alliance
 
 class:
   - Paladin
 
-cost: '6'
+rule:
+  - type: ability
+    text: You can strike with weapons while this ally is in combat. armor can prevent damage that would be dealt to this ally.
 
-combat: Holy
+regulation:
 
-faction: Alliance
+errata: []
 
 temp: Dwarf Paladin

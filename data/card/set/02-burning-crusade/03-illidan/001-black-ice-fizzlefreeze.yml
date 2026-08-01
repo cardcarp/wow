@@ -10,4 +10,5 @@ artist: Glenn Rane
 
 flavor: "\"Hey, stick around. I've got plans for you.\""
 
-appearance: []
+variation:
+  - transform

@@ -2,13 +2,9 @@ card_name: Brutality Blade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Destroy Brutality Blade → Opposing heroes and allies can't be healed this turn.
+cost: '2'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: Destroy Brutality Blade → Opposing heroes and allies can't be healed this turn.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

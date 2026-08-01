@@ -10,4 +10,5 @@ artist: Matt Cavotta
 
 flavor: "\"Good to know these walkin' corpses got da same weaknesses dey had in life.\""
 
-appearance: []
+variation:
+  - transform

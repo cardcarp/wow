@@ -2,17 +2,19 @@ card_name: Strength of Earth Totem
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Ongoing : Allies in your party have +1 ATK. (Totems can be attacked or targeted like allies.)'
+cost: '1'
 
 class:
   - Shaman
 
-cost: '1'
+instant: 'Ongoing : Allies in your party have +1 ATK. (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Enhancement 1

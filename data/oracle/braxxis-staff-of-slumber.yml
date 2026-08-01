@@ -2,17 +2,19 @@ card_name: Braxxis_ Staff of Slumber
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: While you control a Form, your hero has +2 ATK while attacking and each of your armor has +2 DEF.
+cost: '4'
 
 class:
   - Druid
 
-cost: '4'
+rule:
+  - type: ability
+    text: While you control a Form, your hero has +2 ATK while attacking and each of your armor has +2 DEF.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

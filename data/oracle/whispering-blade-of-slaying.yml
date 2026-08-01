@@ -2,19 +2,21 @@ card_name: Whispering Blade of Slaying
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your other Daggers have +1 ATK. Your hero has Dual Wield .
+cost: '1'
 
 class:
   - Warrior
   - Shaman
   - Rogue
 
-cost: '1'
+rule:
+  - type: ability
+    text: Your other Daggers have +1 ATK. Your hero has Dual Wield .
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

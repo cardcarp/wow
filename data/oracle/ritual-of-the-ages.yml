@@ -2,17 +2,19 @@ card_name: Ritual of the Ages
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Rift Search your deck for an ally, reveal it, and put it into your hand.
+cost: '4'
 
 class:
   - Warlock
 
-cost: '4'
+rule:
+  - type: ability
+    text: Rift Search your deck for an ally, reveal it, and put it into your hand.
+
+regulation:
+
+errata: []
 
 temp: Demonology

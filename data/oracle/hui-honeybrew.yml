@@ -2,8 +2,10 @@ card_name: Hui Honeybrew
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

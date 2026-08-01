@@ -2,22 +2,24 @@ card_name: Muradin, Bronzebeard Adventurer
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 4
 
-text: 'Protector Once per game: 5 , Say "For Khaz Modan!" → Muradin has +4 / +4, Smash , and Spellshield , until he leaves play.'
-
-cost: '3'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Protector Once per game: 5 , Say "For Khaz Modan!" → Muradin has +4 / +4, Smash , and Spellshield , until he leaves play.'
+
+regulation:
+
+errata: []
 
 temp: Dwarf Warrior

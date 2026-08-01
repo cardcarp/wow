@@ -10,4 +10,5 @@ artist: Matt Cavotta
 
 flavor: '"Death is inevitable. I am simply speeding up the process."'
 
-appearance: []
+variation:
+  - transform

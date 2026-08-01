@@ -10,4 +10,5 @@ artist: LD Austin
 
 flavor: '"Forest just setback!"'
 
-appearance: []
+variation:
+  - transform

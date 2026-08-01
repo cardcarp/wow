@@ -2,8 +2,10 @@ card_name: Essence of Desire
 
 layout: transform
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

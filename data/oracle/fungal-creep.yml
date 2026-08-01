@@ -2,12 +2,14 @@ card_name: Fungal Creep
 
 layout: standard
 
-regulation:
-
 category: Misc
 
-errata: []
+rule:
+  - type: ability
+    text: "Ongoing : If a hero or ally in attached hero's party would deal or heal damage, it deals or heals that much +2 instead. When Loatheb is destroyed, destroy Fungal Creep."
 
-text: "Ongoing : If a hero or ally in attached hero's party would deal or heal damage, it deals or heals that much +2 instead. When Loatheb is destroyed, destroy Fungal Creep."
+regulation:
+
+errata: []
 
 temp: Token

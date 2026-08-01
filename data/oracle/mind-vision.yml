@@ -2,17 +2,19 @@ card_name: Mind Vision
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Choose an opponent. Ongoing : That opponent plays with his hand revealed. When you play a card, destroy Mind Vision. If you do, draw a card.'
+cost: '1'
 
 class:
   - Priest
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Choose an opponent. Ongoing : That opponent plays with his hand revealed. When you play a card, destroy Mind Vision. If you do, draw a card.'
+
+regulation:
+
+errata: []
 
 temp: Shadow

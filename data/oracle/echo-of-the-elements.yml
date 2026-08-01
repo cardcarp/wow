@@ -2,17 +2,19 @@ card_name: Echo of the Elements
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : When your hero heals damage, it also deals that much nature damage to target opposing ally.'
+cost: '3'
 
 class:
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : When your hero heals damage, it also deals that much nature damage to target opposing ally.'
+
+regulation:
+
+errata: []
 
 temp: Elemental

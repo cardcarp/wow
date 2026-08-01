@@ -2,20 +2,22 @@ card_name: Vindicator Dindro
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 2
 
 health: 1
 
-text: 'Aldor Reputation Inspire: Weapon'
-
-cost: '1'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Weapon'
+
+regulation:
+
+errata: []
 
 temp: Draenei Warrior

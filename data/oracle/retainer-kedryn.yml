@@ -2,20 +2,22 @@ card_name: Retainer Kedryn
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 1
 
-text: Scryer Reputation Stealth When Kedryn deals combat damage to an ally, destroy that ally.
-
-cost: '2'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Scryer Reputation Stealth When Kedryn deals combat damage to an ally, destroy that ally.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Rogue

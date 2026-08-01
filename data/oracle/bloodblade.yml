@@ -2,22 +2,24 @@ card_name: Bloodblade
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 5
 
 health: 5
 
-text: This ally can attack only heroes.
-
-cost: '4'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: This ally can attack only heroes.
+
+regulation:
+
+errata: []
 
 temp: Orc Rogue

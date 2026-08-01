@@ -2,17 +2,19 @@ card_name: Call of Lightning
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 5 nature damage divided as you choose to any number of target heroes or allies.
+cost: '4'
 
 class:
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: Your hero deals 5 nature damage divided as you choose to any number of target heroes or allies.
+
+regulation:
+
+errata: []
 
 temp: Elemental

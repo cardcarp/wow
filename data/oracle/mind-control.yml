@@ -2,17 +2,19 @@ card_name: Mind Control
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally with cost X. Ongoing : You control attached ally. When you play a card, destroy Mind Control.'
+cost: 2+X
 
 class:
   - Priest
 
-cost: 2+X
+rule:
+  - type: ability
+    text: 'Attach to target ally with cost X. Ongoing : You control attached ally. When you play a card, destroy Mind Control.'
+
+regulation:
+
+errata: []
 
 temp: Shadow

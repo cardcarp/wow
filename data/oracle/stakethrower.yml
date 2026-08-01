@@ -2,17 +2,19 @@ card_name: Stakethrower
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: This weapon enters play with a stake counter. Long-Range Remove a stake counter → This weapon has +3 ATK this combat.
+cost: '4'
 
 class:
   - Hunter
 
-cost: '4'
+rule:
+  - type: ability
+    text: This weapon enters play with a stake counter. Long-Range Remove a stake counter → This weapon has +3 ATK this combat.
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Gun

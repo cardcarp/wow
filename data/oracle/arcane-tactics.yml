@@ -2,17 +2,19 @@ card_name: Arcane Tactics
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : When you draw a card, your hero may deal 1 arcane damage to target ally.'
+cost: '4'
 
 class:
   - Mage
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Ongoing : When you draw a card, your hero may deal 1 arcane damage to target ally.'
+
+regulation:
+
+errata: []
 
 temp: Arcane

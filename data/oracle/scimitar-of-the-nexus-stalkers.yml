@@ -2,11 +2,9 @@ card_name: Scimitar of the Nexus Stalkers
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '2'
 
 class:
   - Paladin
@@ -14,6 +12,10 @@ class:
   - Hunter
   - Rogue
 
-cost: '2'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

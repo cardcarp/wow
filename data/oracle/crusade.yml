@@ -2,17 +2,19 @@ card_name: Crusade
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Retribution Hero Required Ongoing : Your hero has +2 ATK while attacking. When your hero deals combat damage to a Demon ally, destroy it.'
+cost: '3'
 
 class:
   - Paladin
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Retribution Hero Required Ongoing : Your hero has +2 ATK while attacking. When your hero deals combat damage to a Demon ally, destroy it.'
+
+regulation:
+
+errata: []
 
 temp: Retribution Talent

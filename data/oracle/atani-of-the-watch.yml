@@ -2,20 +2,22 @@ card_name: Atani of the Watch
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 0
 
 health: 4
 
-text: Aldor Reputation If damage would be dealt to your hero, it's dealt to Atani instead.
-
-cost: '1'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Aldor Reputation If damage would be dealt to your hero, it's dealt to Atani instead.
+
+regulation:
+
+errata: []
 
 temp: Draenei Paladin

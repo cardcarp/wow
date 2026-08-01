@@ -2,16 +2,19 @@ card_name: Tahanu Brinkrunner
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 28
 
-text: 4 , Flip Tahanu → Put target ally card from your graveyard into hand.
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 4 , Flip Tahanu → Put target ally card from your graveyard into hand.
+
+regulation:
+
+errata: []
 
 temp: Tauren Druid

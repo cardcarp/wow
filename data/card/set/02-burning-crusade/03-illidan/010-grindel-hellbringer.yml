@@ -10,4 +10,5 @@ artist: James Zhang
 
 flavor: '"Catch a glimpse of your eternity."'
 
-appearance: []
+variation:
+  - transform

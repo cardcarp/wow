@@ -2,13 +2,9 @@ card_name: Eternium Runed Blade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Players can't play allies. Allies can't be destroyed.
+cost: '7'
 
 class:
   - Priest
@@ -16,6 +12,12 @@ class:
   - Warlock
   - Mage
 
-cost: '7'
+rule:
+  - type: ability
+    text: Players can't play allies. Allies can't be destroyed.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

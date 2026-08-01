@@ -10,4 +10,5 @@ artist: Derrick Chew
 
 flavor: '"I am unimpressed."'
 
-appearance: []
+variation:
+  - transform

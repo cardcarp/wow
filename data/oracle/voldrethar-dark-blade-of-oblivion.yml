@@ -2,19 +2,21 @@ card_name: Voldrethar, Dark Blade of Oblivion
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: You pay 5 less to strike with this weapon if you have a card with the same name as this weapon in your graveyard.
+cost: '6'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '6'
+rule:
+  - type: ability
+    text: You pay 5 less to strike with this weapon if you have a card with the same name as this weapon in your graveyard.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Sword

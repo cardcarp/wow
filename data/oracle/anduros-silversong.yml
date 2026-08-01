@@ -2,22 +2,24 @@ card_name: Anduros Silversong
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 5
 
 health: 5
 
-text: This ally can't attack heroes.
-
-cost: '4'
-
 combat: Shadow
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: This ally can't attack heroes.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Priest

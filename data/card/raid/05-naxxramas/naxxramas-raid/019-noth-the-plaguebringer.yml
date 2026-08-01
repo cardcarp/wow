@@ -10,4 +10,5 @@ artist: Derk Venneman
 
 flavor: '"How dare you! Get out of my sight!"'
 
-appearance: []
+variation:
+  - transform

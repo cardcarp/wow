@@ -2,8 +2,10 @@ card_name: Location Black Market Auction House
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,25 +2,27 @@ card_name: Bradford the Frozen
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 4
 
 health: 2
 
-text: 1 , Discard a card with cost X → This ally deals X frost damage to target ally.
+combat: Frost
+
+faction: Horde
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: 1 , Discard a card with cost X → This ally deals X frost damage to target ally.
 
-combat: Frost
+regulation:
 
-faction: Horde
+errata: []
 
 temp: Undead Mage

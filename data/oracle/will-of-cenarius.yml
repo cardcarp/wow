@@ -2,17 +2,19 @@ card_name: Will of Cenarius
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Each player puts the top card of his deck into his resource row face down and exhausted.
+cost: '2'
 
 class:
   - Druid
 
-cost: '2'
+rule:
+  - type: ability
+    text: Each player puts the top card of his deck into his resource row face down and exhausted.
+
+regulation:
+
+errata: []
 
 temp: Restoration

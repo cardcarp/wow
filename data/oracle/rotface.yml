@@ -2,22 +2,24 @@ card_name: Rotface
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 5
 
 health: 10
 
-text: "Protector Slime Spray : At the start of each opponent's turn, Rotface deals 1 nature damage to each hero and ally that player controls."
-
-cost: '4'
-
 combat: Melee
 
-temp: Mutated Abomination
-
 type: Raid
+
+rule:
+  - type: ability
+    text: "Protector Slime Spray : At the start of each opponent's turn, Rotface deals 1 nature damage to each hero and ally that player controls."
+
+regulation:
+
+errata: []
+
+temp: Mutated Abomination

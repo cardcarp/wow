@@ -2,19 +2,21 @@ card_name: Girdle of the Queens Champion
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: This armor enters play exhausted.
+cost: '1'
 
 class:
   - Priest
   - Death Knight
   - Warrior
 
-cost: '1'
+rule:
+  - type: ability
+    text: This armor enters play exhausted.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

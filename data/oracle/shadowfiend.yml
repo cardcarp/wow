@@ -2,23 +2,25 @@ card_name: Shadowfiend
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 1
 
-text: Ferocity When this ally deals combat damage to a hero, ready a resource you control. At the end of your turn, put this ally into its owner's hand.
+combat: Shadow
 
 class:
   - Priest
 
-cost: '2'
+rule:
+  - type: ability
+    text: Ferocity When this ally deals combat damage to a hero, ready a resource you control. At the end of your turn, put this ally into its owner's hand.
 
-combat: Shadow
+regulation:
+
+errata: []
 
 temp: Shadowfiend

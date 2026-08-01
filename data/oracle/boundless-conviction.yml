@@ -2,8 +2,10 @@ card_name: Boundless Conviction
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

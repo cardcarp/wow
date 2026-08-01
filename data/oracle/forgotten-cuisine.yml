@@ -2,8 +2,10 @@ card_name: Forgotten Cuisine
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

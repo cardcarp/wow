@@ -2,17 +2,19 @@ card_name: Zealotry
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Retribution Talent Ongoing : Heroes and weapons you control have Sentinel .'
+cost: '3'
 
 class:
   - Paladin
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Retribution Talent Ongoing : Heroes and weapons you control have Sentinel .'
+
+regulation:
+
+errata: []
 
 temp: Retribution

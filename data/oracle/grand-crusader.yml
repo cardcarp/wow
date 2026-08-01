@@ -2,17 +2,19 @@ card_name: Grand Crusader
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Protection Talent Ongoing : Allies you control with cost 2 or less have +2 / +2.'
+cost: '3'
 
 class:
   - Paladin
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Protection Talent Ongoing : Allies you control with cost 2 or less have +2 / +2.'
+
+regulation:
+
+errata: []
 
 temp: Protection

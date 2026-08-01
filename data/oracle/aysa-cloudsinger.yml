@@ -2,8 +2,10 @@ card_name: Aysa Cloudsinger
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

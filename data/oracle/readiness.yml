@@ -2,17 +2,19 @@ card_name: Readiness
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Survival Hero Required You can play ability cards from your graveyard this turn. If an ability card would enter your graveyard this turn, remove it from the game instead.
+cost: '3'
 
 class:
   - Hunter
 
-cost: '3'
+rule:
+  - type: ability
+    text: Survival Hero Required You can play ability cards from your graveyard this turn. If an ability card would enter your graveyard this turn, remove it from the game instead.
+
+regulation:
+
+errata: []
 
 temp: Survival Talent

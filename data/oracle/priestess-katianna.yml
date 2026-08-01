@@ -2,22 +2,24 @@ card_name: Priestess Katianna
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 3
 
-text: Elusive
-
-cost: '2'
-
 combat: Shadow
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive
+
+regulation:
+
+errata: []
 
 temp: Night Elf Priest

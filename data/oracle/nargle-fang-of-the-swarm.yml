@@ -2,22 +2,24 @@ card_name: Nargle, Fang of the Swarm
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 5
 
 health: 5
 
-text: At the end of an opponent's turn, remove this ally from the game. If you do, destroy all non-Murloc allies, then players put all Murloc allies from their graveyards into play.
-
-cost: '7'
-
 combat: Melee
 
-temp: Murloc Warrior
-
 type: Monster
+
+rule:
+  - type: ability
+    text: At the end of an opponent's turn, remove this ally from the game. If you do, destroy all non-Murloc allies, then players put all Murloc allies from their graveyards into play.
+
+regulation:
+
+errata: []
+
+temp: Murloc Warrior

@@ -2,17 +2,19 @@ card_name: Mage Training
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target friendly ally. Ongoing : Attached ally has " → This ally deals 1 arcane damage to each opposing hero and ally."'
+cost: '1'
 
 class:
   - Mage
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Attach to target friendly ally. Ongoing : Attached ally has " → This ally deals 1 arcane damage to each opposing hero and ally."'
+
+regulation:
+
+errata: []
 
 temp: Arcane

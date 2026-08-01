@@ -2,20 +2,22 @@ card_name: Fel Cannon
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 4
 
-text: When a player plays a card, Fel Cannon deals 2 fire damage to that player's hero.
-
-cost: '3'
-
 combat: Fire
+
+rule:
+  - type: ability
+    text: When a player plays a card, Fel Cannon deals 2 fire damage to that player's hero.
+
+regulation:
+
+errata: []
 
 temp: Mechanical

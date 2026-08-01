@@ -2,17 +2,19 @@ card_name: Psychic Screech
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Put target ally into its owner's hand. Delve
+cost: '2'
 
 class:
   - Priest
 
-cost: '2'
+instant: Put target ally into its owner's hand. Delve
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Shadow

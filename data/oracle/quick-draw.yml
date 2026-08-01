@@ -2,12 +2,14 @@ card_name: Quick Draw
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: "Ongoing : When a player plays an equipment, his hero may deal melee damage to target hero or ally equal to that equipment's cost."
 
-text: "Ongoing : When a player plays an equipment, his hero may deal melee damage to target hero or ally equal to that equipment's cost."
+regulation:
+
+errata: []
 
 temp: ''

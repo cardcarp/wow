@@ -2,14 +2,16 @@ card_name: Cauterize
 
 layout: standard
 
-regulation:
-
 category: Misc
+
+type: Gift
+
+rule:
+  - type: ability
+    text: 'If Deathwing controlled eight or more allies, gain this Gift. Use this Gift: Destroy all Corrupted Blood allies.'
+
+regulation:
 
 errata: []
 
-text: 'If Deathwing controlled eight or more allies, gain this Gift. Use this Gift: Destroy all Corrupted Blood allies.'
-
 temp: ''
-
-type: Gift

@@ -2,12 +2,14 @@ card_name: A Demotion in Rank
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: 'Ongoing : If any type of damage would be dealt, noob damage is dealt instead. If damage would be dealt, prevent all but 1 of it.'
 
-text: 'Ongoing : If any type of damage would be dealt, noob damage is dealt instead. If damage would be dealt, prevent all but 1 of it.'
+regulation:
+
+errata: []
 
 temp: ''

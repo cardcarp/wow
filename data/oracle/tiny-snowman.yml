@@ -2,9 +2,11 @@ card_name: Tiny Snowman
 
 layout: standard
 
-regulation:
-
 category: Token
+
+rule: []
+
+regulation:
 
 errata: []
 

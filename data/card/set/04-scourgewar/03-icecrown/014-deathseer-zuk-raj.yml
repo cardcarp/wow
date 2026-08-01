@@ -10,4 +10,5 @@ artist: Chris Rahn
 
 flavor: (like Balance Hero Required)
 
-appearance: []
+variation:
+  - transform

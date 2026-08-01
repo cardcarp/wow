@@ -2,13 +2,9 @@ card_name: Jin_rohk, The Great Apocalypse
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When a hero is dealt damage with Jin'rohk, destroy up to that many target non-hero cards controlled by that hero's controller.
+cost: '7'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Death Knight
   - Hunter
 
-cost: '7'
+rule:
+  - type: ability
+    text: When a hero is dealt damage with Jin'rohk, destroy up to that many target non-hero cards controlled by that hero's controller.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Sword

@@ -2,17 +2,19 @@ card_name: Divinity
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Protection Talent Your hero heals 5 damage from itself. That amount is doubled for each other card named Divinity in your graveyard. While there are four copies of Divinity in your graveyard, your hero has 100 .
+cost: '3'
 
 class:
   - Paladin
 
-cost: '3'
+rule:
+  - type: ability
+    text: Protection Talent Your hero heals 5 damage from itself. That amount is doubled for each other card named Divinity in your graveyard. While there are four copies of Divinity in your graveyard, your hero has 100 .
+
+regulation:
+
+errata: []
 
 temp: Protection

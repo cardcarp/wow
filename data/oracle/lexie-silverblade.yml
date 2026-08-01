@@ -2,22 +2,24 @@ card_name: Lexie Silverblade
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 2
 
 health: 2
 
-text: Haste 2 When this ally enters play, you may destroy target ally with cost 2 or less.
-
-cost: '5'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Haste 2 When this ally enters play, you may destroy target ally with cost 2 or less.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Rogue

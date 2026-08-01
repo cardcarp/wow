@@ -10,4 +10,5 @@ artist: Greg Capullo
 
 flavor: "\"For the Horde! It does have a nice ring to it, doesn't it?\""
 
-appearance: []
+variation:
+  - transform

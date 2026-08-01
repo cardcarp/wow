@@ -10,4 +10,5 @@ artist: Chippy
 
 flavor: "\"Nothin' gonna stop the Horde from takin' down the Lich King. Not frost wyrms, not vrykul ... NOTHIN'!\""
 
-appearance: []
+variation:
+  - transform

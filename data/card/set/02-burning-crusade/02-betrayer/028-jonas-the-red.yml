@@ -10,4 +10,5 @@ artist: Josh Tallman
 
 flavor: Burning Blade
 
-appearance: []
+variation:
+  - transform

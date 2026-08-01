@@ -2,13 +2,9 @@ card_name: Dark Portal Hearthstone
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → Put target ally you control into its owner's hand.
+cost: '5'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: → Put target ally you control into its owner's hand.
+
+regulation:
+
+errata: []
 
 temp: Item

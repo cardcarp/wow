@@ -2,17 +2,19 @@ card_name: Berserker Stance
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : If your hero would deal damage, it deals that amount of damage plus 1 instead. If your hero would be dealt damage, it is dealt that amount of damage plus 1 instead.'
+cost: '3'
 
 class:
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : If your hero would deal damage, it deals that amount of damage plus 1 instead. If your hero would be dealt damage, it is dealt that amount of damage plus 1 instead.'
+
+regulation:
+
+errata: []
 
 temp: Fury

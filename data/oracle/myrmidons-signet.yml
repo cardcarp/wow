@@ -2,13 +2,9 @@ card_name: Myrmidons Signet
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has +5 health.
+cost: '3'
 
 class:
   - Warrior
@@ -17,6 +13,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: Your hero has +5 health.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

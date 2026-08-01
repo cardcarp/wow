@@ -2,8 +2,10 @@ card_name: Shadow Council Ogre Magi
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

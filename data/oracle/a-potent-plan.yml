@@ -2,14 +2,16 @@ card_name: A Potent Plan
 
 layout: standard
 
-regulation:
-
 category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Dungeon allies have +5 ATK this turn.
+
+regulation:
 
 errata: []
 
-text: Dungeon allies have +5 ATK this turn.
-
 temp: ''
-
-type: Dungeon

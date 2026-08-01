@@ -2,8 +2,10 @@ card_name: Skullwick The Hoodoo Hexer
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,12 +2,14 @@ card_name: Confusion Contagion
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: "Ongoing : When an ally is dealt damage, its controller's hero may deal that much nature damage to target undamaged ally."
 
-text: "Ongoing : When an ally is dealt damage, its controller's hero may deal that much nature damage to target undamaged ally."
+regulation:
+
+errata: []
 
 temp: ''

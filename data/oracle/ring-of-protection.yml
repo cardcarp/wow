@@ -2,13 +2,9 @@ card_name: Ring of Protection
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 , {exhaust} → Target ally has Protector this turn.
+cost: '1'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: 1 , {exhaust} → Target ally has Protector this turn.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

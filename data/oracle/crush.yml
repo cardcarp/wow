@@ -2,14 +2,16 @@ card_name: Crush
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '1'
 
 instant: Destroy target ally.
 
-cost: '1'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

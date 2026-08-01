@@ -2,17 +2,19 @@ card_name: Crushing Death
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target equipment with cost less than or equal to the number of cards in it's controller's graveyard.
+cost: '1'
 
 class:
   - Death Knight
 
-cost: '1'
+rule:
+  - type: ability
+    text: Destroy target equipment with cost less than or equal to the number of cards in it's controller's graveyard.
+
+regulation:
+
+errata: []
 
 temp: Blood

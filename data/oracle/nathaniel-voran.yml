@@ -2,22 +2,24 @@ card_name: Nathaniel Voran
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 3
 
-text: Will of the Forsaken
-
-cost: '2'
-
 combat: Frost
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Will of the Forsaken
+
+regulation:
+
+errata: []
 
 temp: Undead Mage

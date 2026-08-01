@@ -10,4 +10,5 @@ artist: Christopher Moeller
 
 flavor: "\"You're going to have to try harder than that.\""
 
-appearance: []
+variation:
+  - transform

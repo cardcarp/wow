@@ -2,17 +2,19 @@ card_name: Dark Simulacrum
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Play target ability in an opposing graveyard immediately without paying its cost.
+cost: '4'
 
 class:
   - Death Knight
 
-cost: '4'
+rule:
+  - type: ability
+    text: Play target ability in an opposing graveyard immediately without paying its cost.
+
+regulation:
+
+errata: []
 
 temp: Blood

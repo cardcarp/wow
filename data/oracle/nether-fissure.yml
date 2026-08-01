@@ -2,17 +2,19 @@ card_name: Nether Fissure
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Nether Fissure can't be interrupted. Interrupt target card.
+cost: '4'
 
 class:
   - Mage
 
-cost: '4'
+instant: Nether Fissure can't be interrupted. Interrupt target card.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Arcane

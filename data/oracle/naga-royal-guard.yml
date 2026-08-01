@@ -2,22 +2,24 @@ card_name: Naga Royal Guard
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 0
 
 health: 4
 
-text: Monster Hero Required Protector This ally has +3 ATK on opposing turns.
-
-cost: '3'
-
 combat: Melee
 
-temp: Naga Warrior
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Monster Hero Required Protector This ally has +3 ATK on opposing turns.
+
+regulation:
+
+errata: []
+
+temp: Naga Warrior

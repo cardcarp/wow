@@ -2,17 +2,19 @@ card_name: Starfire
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 5 arcane damage to target hero or ally. Draw a card.
+cost: '6'
 
 class:
   - Druid
 
-cost: '6'
+rule:
+  - type: ability
+    text: Your hero deals 5 arcane damage to target hero or ally. Draw a card.
+
+regulation:
+
+errata: []
 
 temp: Balance

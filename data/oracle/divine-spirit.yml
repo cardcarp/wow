@@ -2,17 +2,19 @@ card_name: Divine Spirit
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Discipline Hero Required Ongoing : → Draw a card, or ready up to three of your resources.'
+cost: '5'
 
 class:
   - Priest
 
-cost: '5'
+rule:
+  - type: ability
+    text: 'Discipline Hero Required Ongoing : → Draw a card, or ready up to three of your resources.'
+
+regulation:
+
+errata: []
 
 temp: Discipline Talent

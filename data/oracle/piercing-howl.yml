@@ -2,17 +2,19 @@ card_name: Piercing Howl
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Fury Hero Required Target opponent puts three allies from his party on top of their owners' decks.
+cost: '5'
 
 class:
   - Warrior
 
-cost: '5'
+rule:
+  - type: ability
+    text: Fury Hero Required Target opponent puts three allies from his party on top of their owners' decks.
+
+regulation:
+
+errata: []
 
 temp: Fury Talent

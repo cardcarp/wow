@@ -2,22 +2,24 @@ card_name: Galabak Barrelmark
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 4
 
-text: Allies you control have +1 ATK while attacking heroes.
-
-cost: '3'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Allies you control have +1 ATK while attacking heroes.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Hunter

@@ -2,8 +2,10 @@ card_name: Chandler Golragg
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,22 +2,24 @@ card_name: Vindicator Enkallus
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 4
 
-text: Protector
-
-cost: '4'
-
 combat: Nature
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
 
 temp: Draenei Shaman

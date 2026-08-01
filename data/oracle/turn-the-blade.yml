@@ -2,17 +2,19 @@ card_name: Turn the Blade
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally or weapon. Ongoing : Attached card has -3 ATK.'
+cost: '1'
 
 class:
   - Hunter
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Attach to target ally or weapon. Ongoing : Attached card has -3 ATK.'
+
+regulation:
+
+errata: []
 
 temp: Survival

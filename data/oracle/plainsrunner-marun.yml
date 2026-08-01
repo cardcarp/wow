@@ -2,22 +2,24 @@ card_name: Plainsrunner Marun
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 1
 
 health: 1
 
-text: Ferocity When Marun attacks, you pay 1 less to complete your next quest this turn.
-
-cost: '1'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity When Marun attacks, you pay 1 less to complete your next quest this turn.
+
+regulation:
+
+errata: []
 
 temp: Tauren Druid

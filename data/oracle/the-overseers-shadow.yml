@@ -2,12 +2,14 @@ card_name: The Overseers Shadow
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 4 to complete this quest. Reward : If you control an ability, draw a card. If you control an ally, draw a card. If you control an equipment, draw a card.'
 
-text: 'Pay 4 to complete this quest. Reward : If you control an ability, draw a card. If you control an ally, draw a card. If you control an equipment, draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

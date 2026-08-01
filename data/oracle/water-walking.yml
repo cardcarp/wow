@@ -2,17 +2,19 @@ card_name: Water Walking
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : → Put target location or quest from your graveyard into your hand.'
+cost: '1'
 
 class:
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Ongoing : → Put target location or quest from your graveyard into your hand.'
+
+regulation:
+
+errata: []
 
 temp: Enhancement

@@ -2,16 +2,19 @@ card_name: Ona Skyshot
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 2 , Flip Ona Skyshot → Ready target Ranged weapon.
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Ona Skyshot → Ready target Ranged weapon.
+
+regulation:
+
+errata: []
 
 temp: Tauren Hunter

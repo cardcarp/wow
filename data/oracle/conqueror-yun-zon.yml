@@ -2,25 +2,27 @@ card_name: Conqueror Yun_zon
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 5
 
-text: Opposing Warriors and cards in play lose and can't have powers.
+combat: Fire
+
+faction: Horde
 
 class:
   - Warrior
 
-cost: '5'
+rule:
+  - type: ability
+    text: Opposing Warriors and cards in play lose and can't have powers.
 
-combat: Fire
+regulation:
 
-faction: Horde
+errata: []
 
 temp: Troll Mage

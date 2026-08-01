@@ -2,17 +2,19 @@ card_name: Seal of Wisdom
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : When your hero deals combat damage with a weapon, draw a card. 1 , Destroy Seal of Wisdom → Draw a card.'
+cost: '3'
 
 class:
   - Paladin
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : When your hero deals combat damage with a weapon, draw a card. 1 , Destroy Seal of Wisdom → Draw a card.'
+
+regulation:
+
+errata: []
 
 temp: Holy

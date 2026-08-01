@@ -2,12 +2,14 @@ card_name: Legacy of the Damned
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Destroy an ally you control and pay 4 to complete this quest. Reward : Draw two cards.'
 
-text: 'Destroy an ally you control and pay 4 to complete this quest. Reward : Draw two cards.'
+regulation:
+
+errata: []
 
 temp: ''

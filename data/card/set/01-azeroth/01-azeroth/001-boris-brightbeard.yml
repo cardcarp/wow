@@ -10,4 +10,5 @@ artist: Stuart Immonen
 
 flavor: "\"I'd lay off the short jokes if ye want me to keep ye alive, laddie.\""
 
-appearance: []
+variation:
+  - transform

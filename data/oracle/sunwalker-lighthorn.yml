@@ -2,20 +2,22 @@ card_name: Sunwalker Lighthorn
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 4
 
 health: 8
 
-cost: '6'
-
 combat: Holy
 
 faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Tauren Paladin

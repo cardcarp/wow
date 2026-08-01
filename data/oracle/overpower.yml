@@ -2,17 +2,19 @@ card_name: Overpower
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Ongoing : Opposing cards can't be exhausted on your turn."
+cost: '6'
 
 class:
   - Warrior
 
-cost: '6'
+rule:
+  - type: ability
+    text: "Ongoing : Opposing cards can't be exhausted on your turn."
+
+regulation:
+
+errata: []
 
 temp: Arms

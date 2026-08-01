@@ -2,22 +2,24 @@ card_name: Ya_za the Vandal
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 3
 
-text: When Ya'za enters play, you may destroy target armor or item.
-
-cost: '4'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When Ya'za enters play, you may destroy target armor or item.
+
+regulation:
+
+errata: []
 
 temp: Troll Rogue

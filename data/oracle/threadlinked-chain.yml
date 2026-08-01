@@ -2,13 +2,9 @@ card_name: Threadlinked Chain
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: All allies have Elusive and Protector . At the end of each turn, each ally heals all damage from itself.
+cost: '4'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: All allies have Elusive and Protector . At the end of each turn, each ally heals all damage from itself.
+
+regulation:
+
+errata: []
 
 temp: Item Neck

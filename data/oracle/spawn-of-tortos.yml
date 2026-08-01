@@ -2,8 +2,10 @@ card_name: Spawn of Tortos
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

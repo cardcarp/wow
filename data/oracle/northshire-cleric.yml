@@ -2,22 +2,24 @@ card_name: Northshire Cleric
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 4
 
 health: 2
 
-text: 'Unity : While you control three or more Human allies, damage that would be dealt by heroes and allies you control is unpreventable.'
-
-cost: '3'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Unity : While you control three or more Human allies, damage that would be dealt by heroes and allies you control is unpreventable.'
+
+regulation:
+
+errata: []
 
 temp: Human Priest

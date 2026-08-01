@@ -2,17 +2,19 @@ card_name: Puncture
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target ally or equipment.
+cost: '3'
 
 class:
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: Destroy target ally or equipment.
+
+regulation:
+
+errata: []
 
 temp: Protection

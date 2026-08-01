@@ -2,22 +2,24 @@ card_name: Alex Iskandar
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 3
 
 health: 6
 
-text: 'Unity : While you control three or more Human allies, opposing allies have -1 ATK.'
-
-cost: '5'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Unity : While you control three or more Human allies, opposing allies have -1 ATK.'
+
+regulation:
+
+errata: []
 
 temp: Human Warrior

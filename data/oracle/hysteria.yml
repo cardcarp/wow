@@ -2,17 +2,19 @@ card_name: Hysteria
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Blood Hero Required Ongoing : , Put 1 damage on a hero or ally you control → It has Assault 4 this turn.'
+cost: '4'
 
 class:
   - Death Knight
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Blood Hero Required Ongoing : , Put 1 damage on a hero or ally you control → It has Assault 4 this turn.'
+
+regulation:
+
+errata: []
 
 temp: Blood Talent

@@ -2,17 +2,19 @@ card_name: Sheath of Light
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : → Prevent the next 2 damage that would be dealt to target ally this turn.'
+cost: '3'
 
 class:
   - Paladin
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : → Prevent the next 2 damage that would be dealt to target ally this turn.'
+
+regulation:
+
+errata: []
 
 temp: Protection

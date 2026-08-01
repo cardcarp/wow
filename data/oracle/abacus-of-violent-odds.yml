@@ -2,13 +2,9 @@ card_name: Abacus of Violent Odds
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero attacks, roll a die. If it's even, remove your hero from combat. If it's odd, ready your hero and all of your weapons at the end of this combat.
+cost: '3'
 
 class:
   - Warrior
@@ -18,6 +14,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: When your hero attacks, roll a die. If it's even, remove your hero from combat. If it's odd, ready your hero and all of your weapons at the end of this combat.
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

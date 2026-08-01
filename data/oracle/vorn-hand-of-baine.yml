@@ -2,22 +2,24 @@ card_name: Vorn, Hand of Baine
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 6
 
 health: 8
 
-text: Opposing allies must attack this ally if able. Prevent all damage that this ally would be dealt with abilities.
-
-cost: '7'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Opposing allies must attack this ally if able. Prevent all damage that this ally would be dealt with abilities.
+
+regulation:
+
+errata: []
 
 temp: Tauren Warrior

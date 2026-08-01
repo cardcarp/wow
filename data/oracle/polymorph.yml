@@ -2,17 +2,19 @@ card_name: Polymorph
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target ally. Ongoing : Attached ally can't attack or protect, loses and can't have powers, and is also a Sheep."
+cost: '2'
 
 class:
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: "Attach to target ally. Ongoing : Attached ally can't attack or protect, loses and can't have powers, and is also a Sheep."
+
+regulation:
+
+errata: []
 
 temp: Arcane

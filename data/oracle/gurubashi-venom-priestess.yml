@@ -2,8 +2,10 @@ card_name: Gurubashi Venom Priestess
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

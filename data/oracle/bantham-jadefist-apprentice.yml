@@ -2,22 +2,24 @@ card_name: Bantham, Jadefist Apprentice
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 3
 
-text: Protector This ally has -2 / -2 while attacking.
-
-cost: '2'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector This ally has -2 / -2 while attacking.
+
+regulation:
+
+errata: []
 
 temp: Human Warrior

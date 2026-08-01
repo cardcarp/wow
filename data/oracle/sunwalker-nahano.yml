@@ -2,20 +2,22 @@ card_name: Sunwalker Nahano
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 30
 
-text: 3 → Flip Nahano
-
 faction: Horde
 
-temp: Tauren Paladin
-
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: 3 → Flip Nahano
+  - type: ability
+    position: reverse
     text: Allies you control with Protector have +1 ATK while defending.
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

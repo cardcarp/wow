@@ -2,22 +2,24 @@ card_name: Tharal Wildbreeze
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 1
 
-text: Elusive Harmonize
-
-cost: '2'
-
 combat: Nature
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive Harmonize
+
+regulation:
+
+errata: []
 
 temp: Night Elf Druid

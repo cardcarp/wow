@@ -2,17 +2,19 @@ card_name: Fel Trade
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy any number of allies you control. If you do, search your deck for an ally with cost less than or equal to the combined cost of cards destroyed this way and put it into play.
+cost: '2'
 
 class:
   - Warlock
 
-cost: '2'
+rule:
+  - type: ability
+    text: Destroy any number of allies you control. If you do, search your deck for an ally with cost less than or equal to the combined cost of cards destroyed this way and put it into play.
+
+regulation:
+
+errata: []
 
 temp: Demonology

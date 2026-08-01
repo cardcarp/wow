@@ -10,4 +10,5 @@ artist: Christopher Moeller
 
 flavor: '"We must aid Ysera at the World Tree, or the shrines of the ancients will be lost forever."'
 
-appearance: []
+variation:
+  - transform

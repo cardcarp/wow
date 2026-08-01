@@ -10,4 +10,5 @@ artist: Trent Kaniuga
 
 flavor: '"Taste the bitterness of your own mortality."'
 
-appearance: []
+variation:
+  - transform

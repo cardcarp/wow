@@ -2,8 +2,10 @@ card_name: Thunderlord Giantslayer
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

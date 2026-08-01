@@ -2,17 +2,19 @@ card_name: Chew Toy
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: If you control a Form, destroy target ally.
+cost: '2'
 
 class:
   - Druid
 
-cost: '2'
+instant: If you control a Form, destroy target ally.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Feral Combo

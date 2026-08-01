@@ -2,13 +2,9 @@ card_name: Bottled Spite
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'When this item enters play, your hero deals 1 nature damage to each opposing hero and ally. On your turn: Exhaust a Monster hero or ally you control and destroy this item → Your hero deals 1 nature damage to each opposing hero and ally.'
+cost: '3'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'When this item enters play, your hero deals 1 nature damage to each opposing hero and ally. On your turn: Exhaust a Monster hero or ally you control and destroy this item → Your hero deals 1 nature damage to each opposing hero and ally.'
+
+regulation:
+
+errata: []
 
 temp: Item Potion

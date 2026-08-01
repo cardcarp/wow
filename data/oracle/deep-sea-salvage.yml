@@ -2,12 +2,14 @@ card_name: Deep Sea Salvage
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'During your turn, pay 4 to complete this quest. Reward : Put a card from your graveyard on top of your deck.'
 
-text: 'During your turn, pay 4 to complete this quest. Reward : Put a card from your graveyard on top of your deck.'
+regulation:
+
+errata: []
 
 temp: ''

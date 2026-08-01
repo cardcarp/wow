@@ -10,4 +10,5 @@ artist: Ruan Jia & Yun Ling
 
 flavor: '"Witness the power of pure water!"'
 
-appearance: []
+variation:
+  - transform

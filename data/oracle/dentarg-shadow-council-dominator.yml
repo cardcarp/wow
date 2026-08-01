@@ -2,8 +2,10 @@ card_name: Dentarg Shadow Council Dominator
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

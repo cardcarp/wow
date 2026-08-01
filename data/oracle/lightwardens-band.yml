@@ -2,13 +2,9 @@ card_name: Lightwardens Band
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'Aldor Reputation Your hero has " Inspire: Ability, ally, equipment, hero, or resource ."'
+cost: '2'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Aldor Reputation Your hero has " Inspire: Ability, ally, equipment, hero, or resource ."'
+
+regulation:
+
+errata: []
 
 temp: Item Ring

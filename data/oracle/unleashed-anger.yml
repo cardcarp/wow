@@ -2,8 +2,10 @@ card_name: Unleashed Anger
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

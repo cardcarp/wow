@@ -2,20 +2,22 @@ card_name: Scarlet Monk
 
 layout: standard
 
-regulation:
-
 category: Ally
-
-errata: []
 
 damage: 3
 
 health: 1
 
-text: Untargetable When this ally attacks, he deals 3 melee damage to a random Raiding hero.
-
 combat: Melee
 
-temp: Human Monk
-
 type: Dungeon
+
+rule:
+  - type: ability
+    text: Untargetable When this ally attacks, he deals 3 melee damage to a random Raiding hero.
+
+regulation:
+
+errata: []
+
+temp: Human Monk

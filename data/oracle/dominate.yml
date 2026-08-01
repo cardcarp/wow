@@ -2,17 +2,19 @@ card_name: Dominate
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: As an additional cost to play, destroy an ally in your party. Your hero deals shadow damage equal to that ally's ATK to each opposing hero and ally.
+cost: '4'
 
 class:
   - Warlock
 
-cost: '4'
+rule:
+  - type: ability
+    text: As an additional cost to play, destroy an ally in your party. Your hero deals shadow damage equal to that ally's ATK to each opposing hero and ally.
+
+regulation:
+
+errata: []
 
 temp: Demonology

@@ -2,23 +2,25 @@ card_name: Selora
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: Elusive When this ally enters play, target ally has +1 / -1 this turn.
+combat: Shadow
 
 class:
   - Warlock
 
-cost: '2'
+rule:
+  - type: ability
+    text: Elusive When this ally enters play, target ally has +1 / -1 this turn.
 
-combat: Shadow
+regulation:
+
+errata: []
 
 temp: Succubus Demon

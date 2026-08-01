@@ -2,17 +2,19 @@ card_name: Roar of the Ages
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Rift Ongoing : Allies you control have +3 / +3.'
+cost: '8'
 
 class:
   - Druid
 
-cost: '8'
+rule:
+  - type: ability
+    text: 'Rift Ongoing : Allies you control have +3 / +3.'
+
+regulation:
+
+errata: []
 
 temp: Feral

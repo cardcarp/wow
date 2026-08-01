@@ -2,20 +2,22 @@ card_name: Vindicator Khorin
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 3
 
 health: 4
 
-text: Aldor Reputation If an ally in your party other than Khorin would be dealt damage, it's dealt to Khorin instead.
-
-cost: '5'
-
 combat: Holy
+
+rule:
+  - type: ability
+    text: Aldor Reputation If an ally in your party other than Khorin would be dealt damage, it's dealt to Khorin instead.
+
+regulation:
+
+errata: []
 
 temp: Draenei Paladin

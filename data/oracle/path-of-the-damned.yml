@@ -2,12 +2,14 @@ card_name: Path of the Damned
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 1 to complete this quest. Reward : Target player puts the top three cards of his deck into his graveyard.'
 
-text: 'Pay 1 to complete this quest. Reward : Target player puts the top three cards of his deck into his graveyard.'
+regulation:
+
+errata: []
 
 temp: ''

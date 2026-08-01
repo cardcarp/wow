@@ -2,17 +2,19 @@ card_name: Wyvern Sting
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: "Survival Hero Required Attach to target ally, or target hero or ally if you control a Ranged weapon. Ongoing : Attached character can't attack or exhaust unless its controller pays 2 ."
+cost: '1'
 
 class:
   - Hunter
 
-cost: '1'
+instant: "Survival Hero Required Attach to target ally, or target hero or ally if you control a Ranged weapon. Ongoing : Attached character can't attack or exhaust unless its controller pays 2 ."
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Survival Talent Sting

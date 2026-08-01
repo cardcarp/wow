@@ -10,4 +10,5 @@ artist: Zoltan Boros
 
 flavor: "\"She waxes and wanes, but Mu'sha's power is eternal.\""
 
-appearance: []
+variation:
+  - transform

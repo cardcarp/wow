@@ -2,22 +2,24 @@ card_name: Bhenn Checks-the-Sky
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 1
 
-instant: When this ally enters play, you may exhaust target ally.
-
-cost: '2'
-
 combat: Nature
 
 faction: Horde
+
+instant: When this ally enters play, you may exhaust target ally.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Tauren Druid

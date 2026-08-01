@@ -2,22 +2,24 @@ card_name: Verzuk Bloodfist
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 3
 
 health: 6
 
-text: Assault 3 When this ally deals damage to an exhausted ally, you may destroy target equipment.
-
-cost: '6'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Assault 3 When this ally deals damage to an exhausted ally, you may destroy target equipment.
+
+regulation:
+
+errata: []
 
 temp: Orc Rogue

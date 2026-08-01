@@ -2,23 +2,25 @@ card_name: Nag the Twisted
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 6
 
 health: 4
 
-text: As an additional cost to play this ally, destroy an ability, ally, or equipment you control. When this ally enters play, you may destroy target ally or equipment with cost 4 or more.
+combat: Nature
 
 class:
   - Hunter
 
-cost: '6'
+rule:
+  - type: ability
+    text: As an additional cost to play this ally, destroy an ability, ally, or equipment you control. When this ally enters play, you may destroy target ally or equipment with cost 4 or more.
 
-combat: Nature
+regulation:
+
+errata: []
 
 temp: Snake

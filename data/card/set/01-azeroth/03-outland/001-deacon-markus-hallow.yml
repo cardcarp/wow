@@ -10,4 +10,5 @@ artist: Daren Bader
 
 flavor: The body need not be slain for a priest to exert command over the soul.
 
-appearance: []
+variation:
+  - transform

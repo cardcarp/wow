@@ -2,12 +2,14 @@ card_name: The Divine Trinity
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: "Ongoing : When an attacker enters combat with a defender, their controllers play Rock-Paper-Scissors. The loser's character deals no damage this combat."
 
-text: "Ongoing : When an attacker enters combat with a defender, their controllers play Rock-Paper-Scissors. The loser's character deals no damage this combat."
+regulation:
+
+errata: []
 
 temp: ''

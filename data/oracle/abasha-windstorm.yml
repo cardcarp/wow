@@ -2,22 +2,24 @@ card_name: Abasha Windstorm
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: When this ally attacks for the first time each turn, you may ready her.
-
-cost: '2'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally attacks for the first time each turn, you may ready her.
+
+regulation:
+
+errata: []
 
 temp: Tauren Shaman

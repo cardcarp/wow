@@ -2,17 +2,19 @@ card_name: Power Word_ Resurrection
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target ally. Ongoing : When attached ally attacks, you may put target ally with cost less than attached ally's cost from your graveyard into play."
+cost: '6'
 
 class:
   - Priest
 
-cost: '6'
+rule:
+  - type: ability
+    text: "Attach to target ally. Ongoing : When attached ally attacks, you may put target ally with cost less than attached ally's cost from your graveyard into play."
+
+regulation:
+
+errata: []
 
 temp: Discipline

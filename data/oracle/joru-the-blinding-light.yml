@@ -2,22 +2,24 @@ card_name: Joru the Blinding Light
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 4
 
 health: 3
 
-text: Discard a card → Remove this ally from the game. At end of turn, its owner puts it into play. (It enters play ready and undamaged.)
-
-cost: '3'
-
 combat: Holy
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Discard a card → Remove this ally from the game. At end of turn, its owner puts it into play. (It enters play ready and undamaged.)
+
+regulation:
+
+errata: []
 
 temp: Tauren Priest

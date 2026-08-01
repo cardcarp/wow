@@ -2,8 +2,10 @@ card_name: Worldbreakers Stormscythe
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

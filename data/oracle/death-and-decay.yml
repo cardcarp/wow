@@ -2,17 +2,19 @@ card_name: Death and Decay
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : When your hero enters combat with a hero or ally, it deals 1 shadow damage to that character. Death Rattle : When your hero enters combat with a hero or ally this turn, it deals 1 shadow damage to that character.'
+cost: '4'
 
 class:
   - Death Knight
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Ongoing : When your hero enters combat with a hero or ally, it deals 1 shadow damage to that character. Death Rattle : When your hero enters combat with a hero or ally this turn, it deals 1 shadow damage to that character.'
+
+regulation:
+
+errata: []
 
 temp: Unholy

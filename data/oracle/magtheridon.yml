@@ -2,18 +2,20 @@ card_name: Magtheridon
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 100
 
-text: Magtheridon has +1 ATK while attacking for each Blood in play. When the tenth Blood enters play, flip Magtheridon.
+rule:
+  - type: ability
+    position: front
+    text: Magtheridon has +1 ATK while attacking for each Blood in play. When the tenth Blood enters play, flip Magtheridon.
+  - type: ability
+    position: reverse
+    text: Magtheridon has +2 ATK while attacking for each Blood in play.
+
+regulation:
+
+errata: []
 
 temp: Pit Lord
-
-transform:
-  - id: ability
-    text: Magtheridon has +2 ATK while attacking for each Blood in play.

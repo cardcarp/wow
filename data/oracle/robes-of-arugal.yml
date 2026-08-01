@@ -2,19 +2,21 @@ card_name: Robes of Arugal
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When an ally enters play under your control or a friendly player's control, it may deal 1 arcane damage to target hero.
+cost: '3'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: When an ally enters play under your control or a friendly player's control, it may deal 1 arcane damage to target hero.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

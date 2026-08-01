@@ -10,4 +10,5 @@ artist: James Zhang
 
 flavor: '"Do you dare taste the precious essence of life?"'
 
-appearance: []
+variation:
+  - transform

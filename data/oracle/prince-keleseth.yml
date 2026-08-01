@@ -2,22 +2,24 @@ card_name: Prince Keleseth
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 5
 
-text: "When Prince Keleseth enters play, search your deck and/or hand for a card named Prince Valanar and a second card named Prince Taldaram and put them into play. Invocation of Blood : Opposing equipment lose and can't have powers."
-
-cost: '5'
-
 combat: Shadow
 
-temp: San'layn Blood Prince
-
 type: Raid
+
+rule:
+  - type: ability
+    text: "When Prince Keleseth enters play, search your deck and/or hand for a card named Prince Valanar and a second card named Prince Taldaram and put them into play. Invocation of Blood : Opposing equipment lose and can't have powers."
+
+regulation:
+
+errata: []
+
+temp: San'layn Blood Prince

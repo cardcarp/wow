@@ -2,17 +2,19 @@ card_name: Inquisition
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Target ally deals unpreventable holy damage to itself equal to its ATK.
+cost: '2'
 
 class:
   - Paladin
 
-cost: '2'
+rule:
+  - type: ability
+    text: Target ally deals unpreventable holy damage to itself equal to its ATK.
+
+regulation:
+
+errata: []
 
 temp: Holy

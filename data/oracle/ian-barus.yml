@@ -2,22 +2,24 @@ card_name: Ian Barus
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 2
 
-text: 'Unity : When this ally enters play, if you control three or more Human allies, target opposing ally has -3 ATK this turn.'
-
-cost: '3'
-
 combat: Frost
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Unity : When this ally enters play, if you control three or more Human allies, target opposing ally has -3 ATK this turn.'
+
+regulation:
+
+errata: []
 
 temp: Human Death Knight

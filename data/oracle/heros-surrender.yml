@@ -2,19 +2,21 @@ card_name: Heros Surrender
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Opposing heroes lose and can't have powers. Your hero can protect against opposing heroes.
+cost: '4'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: Opposing heroes lose and can't have powers. Your hero can protect against opposing heroes.
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

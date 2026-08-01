@@ -2,8 +2,10 @@ card_name: Ner'Zhul
 
 layout: standard
 
-regulation:
-
 category: Hero
+
+rule: []
+
+regulation:
 
 errata: []

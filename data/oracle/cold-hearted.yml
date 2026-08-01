@@ -2,12 +2,14 @@ card_name: Cold Hearted
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: "Pay 3 to complete this quest. Reward : Draw a card. Target ally's damage type becomes this turn."
 
-text: "Pay 3 to complete this quest. Reward : Draw a card. Target ally's damage type becomes this turn."
+regulation:
+
+errata: []
 
 temp: ''

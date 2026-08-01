@@ -2,17 +2,19 @@ card_name: Enduring Winter
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Frost Hero Required Attach to target ability or equipment. Ongoing : Attached card can't be destroyed."
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: "Frost Hero Required Attach to target ability or equipment. Ongoing : Attached card can't be destroyed."
+
+regulation:
+
+errata: []
 
 temp: Frost Talent

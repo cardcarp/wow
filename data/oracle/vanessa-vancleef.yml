@@ -2,20 +2,22 @@ card_name: Vanessa VanCleef
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 4
 
 health: 5
 
-text: Stealth , Untargetable When Vanessa enters play, she may deal 4 nature damage to target exhausted hero or ally.
-
-cost: '5'
-
 combat: Nature
+
+rule:
+  - type: ability
+    text: Stealth , Untargetable When Vanessa enters play, she may deal 4 nature damage to target exhausted hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Human Rogue

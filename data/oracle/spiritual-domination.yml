@@ -2,17 +2,19 @@ card_name: Spiritual Domination
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Traitor Hero Required Put target ally card from an opponent's graveyard into play under your control.
+cost: '3'
 
 class:
   - Priest
 
-cost: '3'
+rule:
+  - type: ability
+    text: Traitor Hero Required Put target ally card from an opponent's graveyard into play under your control.
+
+regulation:
+
+errata: []
 
 temp: Traitor

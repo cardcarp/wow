@@ -2,23 +2,25 @@ card_name: McCloud the Fox
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 1
 
-text: Elusive , Ferocity , Stealth
+combat: Melee
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: Elusive , Ferocity , Stealth
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Fox

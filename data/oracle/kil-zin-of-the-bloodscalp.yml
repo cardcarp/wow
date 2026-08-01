@@ -2,16 +2,19 @@ card_name: Kil_zin of the Bloodscalp
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 28
 
-text: 1 , Flip Kil'zin → Kil'zin deals 3 nature damage to target hero or ally in an opponent's party. When damage is dealt this way, that opponent's hero deals 3 nature damage to target hero or ally of his choice. Bloodscalp
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 1 , Flip Kil'zin → Kil'zin deals 3 nature damage to target hero or ally in an opponent's party. When damage is dealt this way, that opponent's hero deals 3 nature damage to target hero or ally of his choice. Bloodscalp
+
+regulation:
+
+errata: []
 
 temp: Troll Shaman

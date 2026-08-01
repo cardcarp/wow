@@ -39,7 +39,7 @@ def combine_data():
     mappings = {
         'card_dict': 'dist/database.json',
         'deck_dict': 'dist/deck.json',
-        'data': 'dist/data.json',
+        'data': 'script/local/data.json',
     }
     
     combined = {}
@@ -82,6 +82,10 @@ def combine_data():
                     img_path = f"{cdn}/" + "/".join(filter(None, segments))
                     
                     record['img'] = img_path
+
+            # If processing data, add sets, a derived compile to object
+            # if key == 'data':
+                    # code goes here
 
             combined[key] = data
             print(f"Loaded {path} into key '{key}'")

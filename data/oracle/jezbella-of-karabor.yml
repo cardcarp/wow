@@ -2,22 +2,24 @@ card_name: Jezbella of Karabor
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 3
 
-text: Long-Range Exhaust an ally in your party → Jezbella has +1 ATK this turn.
-
-cost: '3'
-
 combat: Frost
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Long-Range Exhaust an ally in your party → Jezbella has +1 ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: Draenei Mage

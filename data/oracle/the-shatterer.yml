@@ -2,13 +2,9 @@ card_name: The Shatterer
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals combat damage with The Shatterer to a hero, destroy one of that hero's controller's weapons unless he pays 2 .
+cost: '4'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Shaman
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: When your hero deals combat damage with The Shatterer to a hero, destroy one of that hero's controller's weapons unless he pays 2 .
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

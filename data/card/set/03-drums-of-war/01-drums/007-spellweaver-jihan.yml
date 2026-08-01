@@ -10,4 +10,5 @@ artist: James Ryman
 
 flavor: '"The tapestries of magic are at my fingertips."'
 
-appearance: []
+variation:
+  - transform

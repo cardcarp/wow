@@ -2,20 +2,22 @@ card_name: Kalaan
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 5
 
-cost: '2'
-
 combat: Nature
 
 faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Draenei Hunter

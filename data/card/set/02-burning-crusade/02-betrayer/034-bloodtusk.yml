@@ -10,4 +10,5 @@ artist: Greg Staples
 
 flavor: Hakkari
 
-appearance: []
+variation:
+  - transform

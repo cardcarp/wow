@@ -2,17 +2,19 @@ card_name: Temporary Dissipation
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Remove all allies in your party from the game. At the end of the next turn, put all cards removed this way into your party.
+cost: '2'
 
 class:
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: Remove all allies in your party from the game. At the end of the next turn, put all cards removed this way into your party.
+
+regulation:
+
+errata: []
 
 temp: Arcane

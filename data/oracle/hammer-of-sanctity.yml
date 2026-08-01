@@ -2,17 +2,19 @@ card_name: Hammer of Sanctity
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Exhaust up to two target opposing heroes and/or allies. Characters exhausted this way can't ready during their controller's next ready step.
+cost: '1'
 
 class:
   - Paladin
 
-cost: '1'
+rule:
+  - type: ability
+    text: Exhaust up to two target opposing heroes and/or allies. Characters exhausted this way can't ready during their controller's next ready step.
+
+regulation:
+
+errata: []
 
 temp: Protection

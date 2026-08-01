@@ -2,17 +2,19 @@ card_name: War of Attrition
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put any amount of damage divided as you choose on allies in your party. Each opponent divides that much damage among allies in his party. Players can't put more than fatal damage on an ally this way.
+cost: '3'
 
 class:
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: Put any amount of damage divided as you choose on allies in your party. Each opponent divides that much damage among allies in his party. Players can't put more than fatal damage on an ally this way.
+
+regulation:
+
+errata: []
 
 temp: Fury

@@ -2,17 +2,19 @@ card_name: Feral Prowess
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 2 melee damage to target hero or ally, or 4 if that character is exhausted.
+cost: '2'
 
 class:
   - Druid
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero deals 2 melee damage to target hero or ally, or 4 if that character is exhausted.
+
+regulation:
+
+errata: []
 
 temp: Feral

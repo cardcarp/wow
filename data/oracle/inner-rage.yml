@@ -2,18 +2,20 @@ card_name: Inner Rage
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero has Assault X this turn, where X is the cost of target non-hero Druid or Warrior you control.
+cost: '2'
 
 class:
   - Druid
   - Warrior
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero has Assault X this turn, where X is the cost of target non-hero Druid or Warrior you control.
+
+regulation:
+
+errata: []
 
 temp: Feral Fury

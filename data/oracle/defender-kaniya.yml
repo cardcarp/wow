@@ -2,22 +2,24 @@ card_name: Defender Kaniya
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 3
 
-text: Protector Nature Resistance
-
-cost: '4'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Nature Resistance
+
+regulation:
+
+errata: []
 
 temp: Tauren Warrior

@@ -2,22 +2,24 @@ card_name: Ursol the Wise
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 4
 
 health: 7
 
-text: Ursol can protect allies you control named Ursoc the Mighty. At the end of your turn, if you control Ursol the Wise and Ursoc the Mighty, Ursol heals all damage from both of them.
-
-cost: '5'
-
 combat: Nature
 
-temp: Bear Beast Demigod
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Ursol can protect allies you control named Ursoc the Mighty. At the end of your turn, if you control Ursol the Wise and Ursoc the Mighty, Ursol heals all damage from both of them.
+
+regulation:
+
+errata: []
+
+temp: Bear Beast Demigod

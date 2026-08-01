@@ -2,17 +2,19 @@ card_name: Umbral Assault
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Ongoing : If one or more cards from the top of an opponent's deck would be removed from the game, remove that many +1 instead."
+cost: '2'
 
 class:
   - Priest
 
-cost: '2'
+rule:
+  - type: ability
+    text: "Ongoing : If one or more cards from the top of an opponent's deck would be removed from the game, remove that many +1 instead."
+
+regulation:
+
+errata: []
 
 temp: Shadow

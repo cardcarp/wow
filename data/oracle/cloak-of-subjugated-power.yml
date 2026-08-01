@@ -2,13 +2,9 @@ card_name: Cloak of Subjugated Power
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'On your turn: 1 , , Destroy an ally in your party with cost X → Gain control of target ally with cost less than X.'
+cost: '3'
 
 class:
   - Priest
@@ -18,6 +14,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'On your turn: 1 , , Destroy an ally in your party with cost X → Gain control of target ally with cost less than X.'
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

@@ -2,17 +2,19 @@ card_name: Gift of the Wild
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Ongoing : Allies you control have +2 / +2.'
+cost: '6'
 
 class:
   - Druid
 
-cost: '6'
+instant: 'Ongoing : Allies you control have +2 / +2.'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Restoration

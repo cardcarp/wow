@@ -2,17 +2,19 @@ card_name: Twisted Massacre
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: As an additional cost to play this ability, destroy an ability, ally, or equipment you control. Destroy all exhausted opposing allies.
+cost: '5'
 
 class:
   - Rogue
 
-cost: '5'
+rule:
+  - type: ability
+    text: As an additional cost to play this ability, destroy an ability, ally, or equipment you control. Destroy all exhausted opposing allies.
+
+regulation:
+
+errata: []
 
 temp: Assassination

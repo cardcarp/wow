@@ -2,17 +2,19 @@ card_name: Blind Rage
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally. Ongoing : Attached ally has +3 / +3, attacks opposing hero and allies at random, and must attack each turn if able.'
+cost: '2'
 
 class:
   - Warrior
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Attach to target ally. Ongoing : Attached ally has +3 / +3, attacks opposing hero and allies at random, and must attack each turn if able.'
+
+regulation:
+
+errata: []
 
 temp: Fury Attachment

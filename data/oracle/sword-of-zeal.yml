@@ -2,13 +2,9 @@ card_name: Sword of Zeal
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals combat damage with Sword of Zeal, target player may ready that many of his resources.
+cost: '4'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: When your hero deals combat damage with Sword of Zeal, target player may ready that many of his resources.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

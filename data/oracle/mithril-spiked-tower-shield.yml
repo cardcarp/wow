@@ -2,8 +2,10 @@ card_name: Mithril Spiked Tower Shield
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

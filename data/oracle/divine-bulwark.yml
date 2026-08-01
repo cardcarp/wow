@@ -2,17 +2,19 @@ card_name: Divine Bulwark
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally. Ongoing : Attached ally has +4 / +4. If attached ally would be destroyed, destroy this ability instead. If you do, your hero heals all damage from that ally.'
+cost: '4'
 
 class:
   - Paladin
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Attach to target ally. Ongoing : Attached ally has +4 / +4. If attached ally would be destroyed, destroy this ability instead. If you do, your hero heals all damage from that ally.'
+
+regulation:
+
+errata: []
 
 temp: Protection

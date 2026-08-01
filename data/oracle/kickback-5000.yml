@@ -2,17 +2,19 @@ card_name: Kickback 5000
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Long-Range This weapon enters play with two +1 ATK counters. When your hero deals combat damage with this weapon, remove all +1 ATK counters from this weapon. 4 → Add two +1 ATK counters to this weapon.
+cost: '2'
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: Long-Range This weapon enters play with two +1 ATK counters. When your hero deals combat damage with this weapon, remove all +1 ATK counters from this weapon. 4 → Add two +1 ATK counters to this weapon.
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Gun

@@ -2,8 +2,10 @@ card_name: Gaze of Arrogance
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

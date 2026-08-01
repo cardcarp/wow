@@ -2,19 +2,21 @@ card_name: The Horsemans Horrific Helm
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: If this armor would prevent damage, you may laugh a scary laugh. If you do, this armor prevents all damage instead.
+cost: '4'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '4'
+rule:
+  - type: ability
+    text: If this armor would prevent damage, you may laugh a scary laugh. If you do, this armor prevents all damage instead.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

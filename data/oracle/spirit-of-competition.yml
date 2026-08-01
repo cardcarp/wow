@@ -2,9 +2,11 @@ card_name: Spirit of Competition
 
 layout: standard
 
-regulation:
-
 category: Token
+
+rule: []
+
+regulation:
 
 errata: []
 

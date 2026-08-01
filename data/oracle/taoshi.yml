@@ -2,8 +2,10 @@ card_name: Taoshi
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

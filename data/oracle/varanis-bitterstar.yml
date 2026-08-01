@@ -2,16 +2,19 @@ card_name: Varanis Bitterstar
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 25
 
-text: 4 , Flip Varanis Bitterstar → Varanis deals 2 arcane damage to target hero or ally. Draw a card. Use only on your turn.
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 4 , Flip Varanis Bitterstar → Varanis deals 2 arcane damage to target hero or ally. Draw a card. Use only on your turn.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Mage

@@ -2,17 +2,19 @@ card_name: Mass Redemption
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put all allies from your graveyard into play.
+cost: '10'
 
 class:
   - Paladin
 
-cost: '10'
+rule:
+  - type: ability
+    text: Put all allies from your graveyard into play.
+
+regulation:
+
+errata: []
 
 temp: Holy

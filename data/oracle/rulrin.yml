@@ -2,23 +2,25 @@ card_name: Rulrin
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '0'
 
 damage: 0
 
 health: 1
 
-text: Elusive Untargetable
+combat: Fire
 
 class:
   - Warlock
 
-cost: '0'
+rule:
+  - type: ability
+    text: Elusive Untargetable
 
-combat: Fire
+regulation:
+
+errata: []
 
 temp: Imp Demon

@@ -2,17 +2,19 @@ card_name: Fork Lightning
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 5 nature damage to target hero and 5 nature damage to target ally.
+cost: '5'
 
 class:
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: Your hero deals 5 nature damage to target hero and 5 nature damage to target ally.
+
+regulation:
+
+errata: []
 
 temp: Elemental

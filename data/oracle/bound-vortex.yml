@@ -2,20 +2,22 @@ card_name: Bound Vortex
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 1
 
-text: Untargetable When this ally exhausts, put a 2 / 1 Air Elemental ally token into play.
-
-cost: '3'
-
 combat: Nature
+
+rule:
+  - type: ability
+    text: Untargetable When this ally exhausts, put a 2 / 1 Air Elemental ally token into play.
+
+regulation:
+
+errata: []
 
 temp: Air Elemental

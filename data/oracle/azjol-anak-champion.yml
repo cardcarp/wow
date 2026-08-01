@@ -2,20 +2,22 @@ card_name: Azjol-anak Champion
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 3
 
-text: Nerubian Reputation This ally has +3 / +3 whole an ability, ally, and equipment are in your graveyard.
-
-cost: '3'
-
 combat: Nature
+
+rule:
+  - type: ability
+    text: Nerubian Reputation This ally has +3 / +3 whole an ability, ally, and equipment are in your graveyard.
+
+regulation:
+
+errata: []
 
 temp: Nerubian

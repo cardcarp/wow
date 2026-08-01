@@ -2,19 +2,21 @@ card_name: Ramaladnis Blade of Culling
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Opposing heroes and allies have Protector .
+cost: '4'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '4'
+rule:
+  - type: ability
+    text: Opposing heroes and allies have Protector .
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Axe

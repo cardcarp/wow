@@ -2,14 +2,16 @@ card_name: Elemental Fire
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '1'
 
 instant: When a hero or ally deals damage to Ragnaros this turn, Ragnaros deals that much fire damage to each hero and ally in that character's party.
 
-cost: '1'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Ragnaros

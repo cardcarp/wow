@@ -2,17 +2,19 @@ card_name: Terrifying Visage
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put each of up to two target opposing allies into its owner's hand.
+cost: '3'
 
 class:
   - Warlock
 
-cost: '3'
+rule:
+  - type: ability
+    text: Put each of up to two target opposing allies into its owner's hand.
+
+regulation:
+
+errata: []
 
 temp: Affliction

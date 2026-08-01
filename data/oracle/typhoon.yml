@@ -2,17 +2,19 @@ card_name: Typhoon
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Ongoing : Typhoon enters play with two wind counters. Opposing heroes and allies can't attack or protect. At the start of your turn, remove a wind counter. If none remain, destroy Typhoon."
+cost: '4'
 
 class:
   - Druid
 
-cost: '4'
+rule:
+  - type: ability
+    text: "Ongoing : Typhoon enters play with two wind counters. Opposing heroes and allies can't attack or protect. At the start of your turn, remove a wind counter. If none remain, destroy Typhoon."
+
+regulation:
+
+errata: []
 
 temp: Balance

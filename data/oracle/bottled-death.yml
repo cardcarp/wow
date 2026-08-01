@@ -2,13 +2,9 @@ card_name: Bottled Death
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'When this item enters play, target ally has -2 this turn. On your turn: Exhaust a Death Knight hero or ally you control and destroy this item → Target ally has -2 this turn.'
+cost: '3'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'When this item enters play, target ally has -2 this turn. On your turn: Exhaust a Death Knight hero or ally you control and destroy this item → Target ally has -2 this turn.'
+
+regulation:
+
+errata: []
 
 temp: Item Potion

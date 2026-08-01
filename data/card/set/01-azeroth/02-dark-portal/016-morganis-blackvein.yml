@@ -10,4 +10,5 @@ artist: Alex Horley Orlandelli
 
 flavor: "\"I don't think you've thought things through completely. Allow me to correct that.\""
 
-appearance: []
+variation:
+  - transform

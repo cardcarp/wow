@@ -2,12 +2,14 @@ card_name: Seeds of Their Demise
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 0 to complete this quest. Reward : Delve'
 
-text: 'Pay 0 to complete this quest. Reward : Delve'
+regulation:
+
+errata: []
 
 temp: ''

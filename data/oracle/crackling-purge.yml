@@ -2,17 +2,19 @@ card_name: Crackling Purge
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target ability. If it wasn't attached to a friendly hero or ally, your hero may deal nature damage to its controller's hero equal to its cost.
+cost: '1'
 
 class:
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: Destroy target ability. If it wasn't attached to a friendly hero or ally, your hero may deal nature damage to its controller's hero equal to its cost.
+
+regulation:
+
+errata: []
 
 temp: Elemental

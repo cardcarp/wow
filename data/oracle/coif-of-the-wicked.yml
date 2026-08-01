@@ -2,18 +2,20 @@ card_name: Coif of the Wicked
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: ': When you place a quest, ready your hero and all of your Ranged weapons. : When you place a quest, ready your hero and all of your Melee weapons.'
+cost: '5'
 
 class:
   - Hunter
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: ': When you place a quest, ready your hero and all of your Ranged weapons. : When you place a quest, ready your hero and all of your Melee weapons.'
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

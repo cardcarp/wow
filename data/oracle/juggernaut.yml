@@ -2,17 +2,19 @@ card_name: Juggernaut
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Arms Talent Exhaust all opposing heroes and allies. Your hero has Assault 3 this turn.
+cost: '1'
 
 class:
   - Warrior
 
-cost: '1'
+rule:
+  - type: ability
+    text: Arms Talent Exhaust all opposing heroes and allies. Your hero has Assault 3 this turn.
+
+regulation:
+
+errata: []
 
 temp: Arms

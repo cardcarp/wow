@@ -2,13 +2,9 @@ card_name: Soothing Brimstone Circle
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: ', Exhaust an ally you control → You pay x less to complete target quest this turn, where X is the cost of that exhausted ally.'
+cost: '4'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: ', Exhaust an ally you control → You pay x less to complete target quest this turn, where X is the cost of that exhausted ally.'
+
+regulation:
+
+errata: []
 
 temp: Item Ring

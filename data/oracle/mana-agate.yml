@@ -2,17 +2,19 @@ card_name: Mana Agate
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : 1 , Destroy this ability → Draw two cards.'
+cost: '2'
 
 class:
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : 1 , Destroy this ability → Draw two cards.'
+
+regulation:
+
+errata: []
 
 temp: Arcane

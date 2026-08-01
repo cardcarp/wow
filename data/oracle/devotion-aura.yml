@@ -2,17 +2,19 @@ card_name: Devotion Aura
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : If a hero or ally in your party would be dealt damage, prevent 1 of that damage.'
+cost: '5'
 
 class:
   - Paladin
 
-cost: '5'
+rule:
+  - type: ability
+    text: 'Ongoing : If a hero or ally in your party would be dealt damage, prevent 1 of that damage.'
+
+regulation:
+
+errata: []
 
 temp: Protection

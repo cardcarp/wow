@@ -2,17 +2,19 @@ card_name: Soul Cleave
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: As an additional cost to play this ability, destroy an ally you control. Destroy up to two target allies.
+cost: '3'
 
 class:
   - Warlock
 
-cost: '3'
+rule:
+  - type: ability
+    text: As an additional cost to play this ability, destroy an ally you control. Destroy up to two target allies.
+
+regulation:
+
+errata: []
 
 temp: Destruction

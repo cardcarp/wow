@@ -10,4 +10,5 @@ artist: Ittoku
 
 flavor: '"So far, the Scourge have not impressed me much. They are no safer from my demonic powers than a living soul is."'
 
-appearance: []
+variation:
+  - transform

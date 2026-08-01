@@ -2,13 +2,9 @@ card_name: Iceblade Hacker
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals combat damage to an ally, that ally can't ready during its controller's next ready step.
+cost: '2'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: When your hero deals combat damage to an ally, that ally can't ready during its controller's next ready step.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

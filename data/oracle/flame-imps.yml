@@ -2,16 +2,18 @@ card_name: Flame Imps
 
 layout: standard
 
-regulation:
-
 category: Ally
-
-errata: []
 
 damage: 2
 
 health: 1
 
 combat: Melee
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Elemental Minion

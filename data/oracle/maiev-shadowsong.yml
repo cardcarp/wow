@@ -2,20 +2,22 @@ card_name: Maiev Shadowsong
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '8'
 
 damage: 5
 
 health: 1
 
-text: Loyal Hero Required Elusive , Ferocity , Long-Range , Protector , Stealth , Untargetable
-
-cost: '8'
-
 combat: Ranged
+
+rule:
+  - type: ability
+    text: Loyal Hero Required Elusive , Ferocity , Long-Range , Protector , Stealth , Untargetable
+
+regulation:
+
+errata: []
 
 temp: Night Elf Warden

@@ -2,17 +2,19 @@ card_name: Mana Jade
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : 2 , Destroy Mana Jade → Draw three cards.'
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : 2 , Destroy Mana Jade → Draw three cards.'
+
+regulation:
+
+errata: []
 
 temp: Arcane

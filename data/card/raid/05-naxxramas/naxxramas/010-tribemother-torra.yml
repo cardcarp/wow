@@ -10,4 +10,5 @@ artist: James Zhang
 
 flavor: '"I can hear the agonizing screams of the spirits that are trapped within the walls of Naxxramas. We must ease their suffering and let them rest."'
 
-appearance: []
+variation:
+  - transform

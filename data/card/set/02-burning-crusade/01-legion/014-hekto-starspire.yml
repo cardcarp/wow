@@ -10,4 +10,5 @@ artist: Trent Kaniuga
 
 flavor: '"Revenge for my people consumes my every thought. You cannot hope to stop me from reaching my goals."'
 
-appearance: []
+variation:
+  - transform

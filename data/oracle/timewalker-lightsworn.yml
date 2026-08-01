@@ -2,22 +2,24 @@ card_name: Timewalker Lightsworn
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 4
 
-text: 'Unity : When you control three or more Human allies, this ally has Assault 3 .'
-
-cost: '2'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Unity : When you control three or more Human allies, this ally has Assault 3 .'
+
+regulation:
+
+errata: []
 
 temp: Human Paladin

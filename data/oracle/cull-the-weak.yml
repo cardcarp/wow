@@ -2,17 +2,19 @@ card_name: Cull the Weak
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Each friendly player may destroy an ally in his party. Your hero deals shadow damage to target hero equal to the combined ATK of the destroyed allies.
+cost: '3'
 
 class:
   - Warlock
 
-cost: '3'
+instant: Each friendly player may destroy an ally in his party. Your hero deals shadow damage to target hero equal to the combined ATK of the destroyed allies.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Demonology

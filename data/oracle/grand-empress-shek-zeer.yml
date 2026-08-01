@@ -2,8 +2,10 @@ card_name: Grand Empress Shek_zeer
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

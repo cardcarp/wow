@@ -2,13 +2,9 @@ card_name: Annihilator
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Combat damage that your hero would deal with this weapon is unpreventable.
+cost: '2'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: Combat damage that your hero would deal with this weapon is unpreventable.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

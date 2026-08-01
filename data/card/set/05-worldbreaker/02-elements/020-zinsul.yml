@@ -10,4 +10,5 @@ artist: Alex Horley Orlandelli
 
 flavor: '"I wondered why da gods let me return in undeath, mon, but now I see my purpose and what I must do to help save dis world."'
 
-appearance: []
+variation:
+  - transform

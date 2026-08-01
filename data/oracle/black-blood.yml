@@ -2,17 +2,19 @@ card_name: Black Blood
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 5 shadow damage to target ally. If you control a Disease, your hero also deals 5 shadow damage to target hero.
+cost: '5'
 
 class:
   - Death Knight
 
-cost: '5'
+rule:
+  - type: ability
+    text: Your hero deals 5 shadow damage to target ally. If you control a Disease, your hero also deals 5 shadow damage to target hero.
+
+regulation:
+
+errata: []
 
 temp: Unholy

@@ -2,22 +2,24 @@ card_name: Borlis Brode
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 4
 
-text: Borlis Brode can't ready during your ready step.
-
-cost: '2'
-
 combat: Shadow
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Borlis Brode can't ready during your ready step.
+
+regulation:
+
+errata: []
 
 temp: Undead Priest

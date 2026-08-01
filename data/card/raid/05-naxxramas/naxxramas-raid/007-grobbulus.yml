@@ -10,4 +10,5 @@ artist: Alexander Garner
 
 flavor:
 
-appearance: []
+variation:
+  - transform

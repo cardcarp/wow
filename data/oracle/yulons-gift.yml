@@ -2,8 +2,10 @@ card_name: Yulons Gift
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

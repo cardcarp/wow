@@ -2,13 +2,9 @@ card_name: Deathdealer Breastplate
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your weapons have +2 ATK.
+cost: '5'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: Your weapons have +2 ATK.
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

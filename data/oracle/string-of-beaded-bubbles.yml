@@ -2,13 +2,9 @@ card_name: String of Beaded Bubbles
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'As this item enters play, choose arcane, fire, frost, or nature. On your turn: 2 → Your hero deals 1 damage of the chosen type to target hero or ally.'
+cost: '2'
 
 class:
   - Priest
@@ -17,6 +13,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'As this item enters play, choose arcane, fire, frost, or nature. On your turn: 2 → Your hero deals 1 damage of the chosen type to target hero or ally.'
+
+regulation:
+
+errata: []
 
 temp: Item Neck

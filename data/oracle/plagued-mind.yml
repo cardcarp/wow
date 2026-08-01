@@ -2,17 +2,19 @@ card_name: Plagued Mind
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target hero. Ongoing : When attached hero's controller draws a card, your hero deals 1 shadow damage to attached hero."
+cost: '3'
 
 class:
   - Death Knight
 
-cost: '3'
+rule:
+  - type: ability
+    text: "Attach to target hero. Ongoing : When attached hero's controller draws a card, your hero deals 1 shadow damage to attached hero."
+
+regulation:
+
+errata: []
 
 temp: Unholy Disease

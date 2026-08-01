@@ -2,13 +2,9 @@ card_name: Shard of the Flame
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When a resource enters play under your control, your hero heals 2 damage from itself.
+cost: '4'
 
 class:
   - Priest
@@ -21,6 +17,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: When a resource enters play under your control, your hero heals 2 damage from itself.
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

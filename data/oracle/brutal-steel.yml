@@ -2,17 +2,19 @@ card_name: Brutal Steel
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target weapon. Ongoing : Attached weapon has +10 ATK.'
+cost: '5'
 
 class:
   - Warrior
 
-cost: '5'
+rule:
+  - type: ability
+    text: 'Attach to target weapon. Ongoing : Attached weapon has +10 ATK.'
+
+regulation:
+
+errata: []
 
 temp: Arms Attachment

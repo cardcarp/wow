@@ -2,18 +2,20 @@ card_name: Flickering Shoulders
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'On your turn: → Target ally has Smash this turn.'
+cost: '3'
 
 class:
   - Hunter
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'On your turn: → Target ally has Smash this turn.'
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

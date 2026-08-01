@@ -2,14 +2,16 @@ card_name: Guard Duty
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '2'
 
 instant: 'Attach to target ally. Ongoing : Attached ally has Protector .'
 
-cost: '2'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

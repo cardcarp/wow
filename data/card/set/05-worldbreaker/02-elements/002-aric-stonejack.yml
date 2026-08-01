@@ -10,4 +10,5 @@ artist: Ben Olson
 
 flavor: '"The future of Ironforge lies in the hands of the Council, but we must deal with the elemental lords before that future can come to pass, lad."'
 
-appearance: []
+variation:
+  - transform

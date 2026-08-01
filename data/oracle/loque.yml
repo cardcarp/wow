@@ -2,23 +2,25 @@ card_name: Loque
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 8
 
 health: 8
 
-text: Beast Mastery Talent Elusive , Stealth , Untargetable Damage that this ally would deal is unpreventable.
+combat: Arcane
 
 class:
   - Hunter
 
-cost: '7'
+rule:
+  - type: ability
+    text: Beast Mastery Talent Elusive , Stealth , Untargetable Damage that this ally would deal is unpreventable.
 
-combat: Arcane
+regulation:
+
+errata: []
 
 temp: Spirit Beast

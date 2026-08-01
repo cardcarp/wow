@@ -2,22 +2,24 @@ card_name: Harnum Firebelly
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 4
 
-text: Frost Resistance
-
-cost: '3'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Frost Resistance
+
+regulation:
+
+errata: []
 
 temp: Dwarf Priest

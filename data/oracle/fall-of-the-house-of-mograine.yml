@@ -2,12 +2,14 @@ card_name: Fall of the House of Mograine
 
 layout: standard
 
-regulation:
-
 category: Achievement
 
-errata: []
+rule:
+  - type: ability
+    text: Defeat Mograine without any Raiding heroes being destroyed.
 
-text: Defeat Mograine without any Raiding heroes being destroyed.
+regulation:
+
+errata: []
 
 temp: ''

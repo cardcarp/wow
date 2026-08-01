@@ -2,12 +2,14 @@ card_name: Instant Gratification
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: 'Ongoing : All ability, ally, and equipment cards are instant.'
 
-text: 'Ongoing : All ability, ally, and equipment cards are instant.'
+regulation:
+
+errata: []
 
 temp: ''

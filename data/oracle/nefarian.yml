@@ -2,20 +2,22 @@ card_name: Nefarian
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '8'
 
 damage: 8
 
 health: 8
 
-text: When this ally enters play, put an 8 / 8 Black Dragonkin ally token named Onyxia into play with Onyxia (1).
-
-cost: '8'
-
 combat: Shadow
+
+rule:
+  - type: ability
+    text: When this ally enters play, put an 8 / 8 Black Dragonkin ally token named Onyxia into play with Onyxia (1).
+
+regulation:
+
+errata: []
 
 temp: Black Dragonkin

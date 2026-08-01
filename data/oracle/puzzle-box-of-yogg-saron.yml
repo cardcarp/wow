@@ -2,13 +2,9 @@ card_name: Puzzle Box of Yogg-Saron
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Players play with the top card of their decks revealed. At the start of each player's turn, if the top card of his deck is a master hero, ability, ally, or equipment, he may play it without paying its cost. → Shuffle target player's deck.
+cost: '7'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '7'
+rule:
+  - type: ability
+    text: Players play with the top card of their decks revealed. At the start of each player's turn, if the top card of his deck is a master hero, ability, ally, or equipment, he may play it without paying its cost. → Shuffle target player's deck.
+
+regulation:
+
+errata: []
 
 temp: Item

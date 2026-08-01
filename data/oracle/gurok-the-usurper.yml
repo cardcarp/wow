@@ -2,12 +2,14 @@ card_name: Gurok the Usurper
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: → Choose one of your quests. Gurok the Usurper has that quest's powers this turn.
 
-text: → Choose one of your quests. Gurok the Usurper has that quest's powers this turn.
+regulation:
+
+errata: []
 
 temp: ''

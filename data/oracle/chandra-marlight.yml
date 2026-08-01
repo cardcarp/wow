@@ -2,22 +2,24 @@ card_name: Chandra Marlight
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 3
 
-text: Aberration Mend 2
-
-cost: '2'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Aberration Mend 2
+
+regulation:
+
+errata: []
 
 temp: Worgen Priest

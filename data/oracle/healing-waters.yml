@@ -2,8 +2,10 @@ card_name: Healing Waters
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

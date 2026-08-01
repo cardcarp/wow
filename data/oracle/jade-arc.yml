@@ -2,8 +2,10 @@ card_name: Jade Arc
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

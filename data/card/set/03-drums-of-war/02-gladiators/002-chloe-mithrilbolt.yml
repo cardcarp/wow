@@ -10,4 +10,5 @@ artist: Alex Horley Orlandelli
 
 flavor: '"Underestimate me at your peril, long and tall!"'
 
-appearance: []
+variation:
+  - transform

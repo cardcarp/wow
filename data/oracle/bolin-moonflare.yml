@@ -2,22 +2,24 @@ card_name: Bolin Moonflare
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 3
 
-text: When another Night Elf ally enters play under your control, this ally deals fire damage to target opposing hero equal to that ally's cost.
-
-cost: '2'
-
 combat: Fire
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: When another Night Elf ally enters play under your control, this ally deals fire damage to target opposing hero equal to that ally's cost.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Mage

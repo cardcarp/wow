@@ -2,17 +2,19 @@ card_name: Shadowfury
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destruction Hero Required Your hero deals 2 shadow damage to each opposing ally. Exhaust each ally dealt damage this way, and it can't ready during its controller's next ready step.
+cost: '5'
 
 class:
   - Warlock
 
-cost: '5'
+rule:
+  - type: ability
+    text: Destruction Hero Required Your hero deals 2 shadow damage to each opposing ally. Exhaust each ally dealt damage this way, and it can't ready during its controller's next ready step.
+
+regulation:
+
+errata: []
 
 temp: Destruction Talent

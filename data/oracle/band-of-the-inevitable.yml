@@ -2,19 +2,21 @@ card_name: Band of the Inevitable
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: x , Destroy Band of the Inevitable → Destroy each equipment with cost X or less. Use only on your turn.
+cost: '2'
 
 class:
   - Druid
   - Paladin
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: x , Destroy Band of the Inevitable → Destroy each equipment with cost X or less. Use only on your turn.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

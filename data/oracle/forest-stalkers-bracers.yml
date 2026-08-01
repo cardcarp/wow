@@ -2,18 +2,20 @@ card_name: Forest Stalkers Bracers
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 → Target hero or ally has Stealth this turn.
+cost: '3'
 
 class:
   - Druid
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: 1 → Target hero or ally has Stealth this turn.
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

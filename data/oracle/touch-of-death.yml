@@ -2,8 +2,10 @@ card_name: Touch of Death
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,18 +2,20 @@ card_name: Highlord Tirion Fordring
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 35
 
-text: 'Touch of the Light : Tirion has Mend 1 . On your turn: 6 → Flip Tirion.'
+rule:
+  - type: ability
+    position: front
+    text: 'Touch of the Light : Tirion has Mend 1 . On your turn: 6 → Flip Tirion.'
+  - type: ability
+    position: reverse
+    text: "The Light's Vengeance : When Tirion flips to this side, search your deck and/or graveyard for Ashbringer and put it into play. Then, he deals 2 unpreventable holy damage to target Scourge hero or ally for each friendly Paladin and Priest. The Light's Blessing : Tirion has Mend 2 ."
+
+regulation:
+
+errata: []
 
 temp: Human Paladin
-
-transform:
-  - id: ability
-    text: "The Light's Vengeance : When Tirion flips to this side, search your deck and/or graveyard for Ashbringer and put it into play. Then, he deals 2 unpreventable holy damage to target Scourge hero or ally for each friendly Paladin and Priest. The Light's Blessing : Tirion has Mend 2 ."

@@ -2,17 +2,19 @@ card_name: Deep Earth Mantle
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you play an ability, your hero heals damage from itself equal to that ability's cost.
+cost: '4'
 
 class:
   - Druid
 
-cost: '4'
+rule:
+  - type: ability
+    text: When you play an ability, your hero heals damage from itself equal to that ability's cost.
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

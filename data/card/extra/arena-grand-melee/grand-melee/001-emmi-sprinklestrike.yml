@@ -10,4 +10,5 @@ artist: Ralph Horsley
 
 flavor: '"The best part of being small is that everyone is a bigger target!"'
 
-appearance: []
+variation:
+  - transform

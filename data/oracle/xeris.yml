@@ -2,22 +2,24 @@ card_name: Xeris
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 2
 
-text: 'Protector Stash : Target ally has -1 ATK this turn.'
-
-cost: '3'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Protector Stash : Target ally has -1 ATK this turn.'
+
+regulation:
+
+errata: []
 
 temp: Draenei Death Knight

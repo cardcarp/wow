@@ -10,4 +10,5 @@ artist: Chris Moeller
 
 flavor:
 
-appearance: []
+variation:
+  - transform

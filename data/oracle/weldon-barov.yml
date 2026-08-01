@@ -2,22 +2,24 @@ card_name: Weldon Barov
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 5
 
-text: At the end of your turn, put three Peasant ally tokens into play with 1 ATK / 1 health and Protector . At the end of the next turn, destroy them.
-
-cost: '5'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: At the end of your turn, put three Peasant ally tokens into play with 1 ATK / 1 health and Protector . At the end of the next turn, destroy them.
+
+regulation:
+
+errata: []
 
 temp: Human Warrior

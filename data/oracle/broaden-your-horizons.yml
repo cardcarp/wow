@@ -2,12 +2,14 @@ card_name: Broaden Your Horizons
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: Your hero deals 1 arcane damage to target hero or ally for each different set among cards in play you control.
 
-text: Your hero deals 1 arcane damage to target hero or ally for each different set among cards in play you control.
+regulation:
+
+errata: []
 
 temp: ''

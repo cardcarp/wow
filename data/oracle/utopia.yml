@@ -2,17 +2,19 @@ card_name: Utopia
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy all tokens. Put each other ability, ally, and equipment into its owner's resource row face down, then exhaust them.
+cost: '7'
 
 class:
   - Druid
 
-cost: '7'
+rule:
+  - type: ability
+    text: Destroy all tokens. Put each other ability, ally, and equipment into its owner's resource row face down, then exhaust them.
+
+regulation:
+
+errata: []
 
 temp: Balance

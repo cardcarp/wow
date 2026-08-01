@@ -2,17 +2,19 @@ card_name: Deep Freeze
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target ally, and your hero deals 2 frost damage to it. Ongoing : Attached ally can't attack."
+cost: '2'
 
 class:
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: "Attach to target ally, and your hero deals 2 frost damage to it. Ongoing : Attached ally can't attack."
+
+regulation:
+
+errata: []
 
 temp: Frost

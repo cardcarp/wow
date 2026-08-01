@@ -2,22 +2,24 @@ card_name: Hazlow Mudshuggle
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 4
 
-text: At the start of your turn, you may destroy this ally. If you do, destroy target equipment.
-
-cost: '3'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: At the start of your turn, you may destroy this ally. If you do, destroy target equipment.
+
+regulation:
+
+errata: []
 
 temp: Gnome Rogue

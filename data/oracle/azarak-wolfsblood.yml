@@ -2,16 +2,19 @@ card_name: Azarak Wolfsblood
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 28
 
-text: x , Flip Azarak Wolfsblood → Target hero or ally has -X ATK while in combat with Azarak this turn.
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: x , Flip Azarak Wolfsblood → Target hero or ally has -X ATK while in combat with Azarak this turn.
+
+regulation:
+
+errata: []
 
 temp: Orc Hunter

@@ -2,17 +2,19 @@ card_name: Grim Reach
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Affliction Hero Required Opposing heroes and allies have -1 health this turn for each ongoing ability you control.
+cost: '3'
 
 class:
   - Warlock
 
-cost: '3'
+rule:
+  - type: ability
+    text: Affliction Hero Required Opposing heroes and allies have -1 health this turn for each ongoing ability you control.
+
+regulation:
+
+errata: []
 
 temp: Affliction Talent

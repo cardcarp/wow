@@ -2,20 +2,22 @@ card_name: Neferset Darkcaster
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 3
 
-cost: '2'
-
 combat: Fire
 
-temp: Tol'vir Mage Shaman
-
 type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Tol'vir Mage Shaman

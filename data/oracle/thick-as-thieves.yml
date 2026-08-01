@@ -2,17 +2,19 @@ card_name: Thick as Thieves
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Allies with stealth in your party are Elusive and Untargetable .'
+cost: '5'
 
 class:
   - Rogue
 
-cost: '5'
+rule:
+  - type: ability
+    text: 'Ongoing : Allies with stealth in your party are Elusive and Untargetable .'
+
+regulation:
+
+errata: []
 
 temp: Subtlety

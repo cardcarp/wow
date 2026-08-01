@@ -2,17 +2,19 @@ card_name: Greatsword of the Ebon Blade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When Greatsword of the Ebon Blade enters play, at the start of the next turn, destroy it unless you pay 3 .
+cost: '2'
 
 class:
   - Death Knight
 
-cost: '2'
+rule:
+  - type: ability
+    text: When Greatsword of the Ebon Blade enters play, at the start of the next turn, destroy it unless you pay 3 .
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Sword

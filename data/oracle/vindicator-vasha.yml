@@ -2,20 +2,22 @@ card_name: Vindicator Vasha
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 2
 
 health: 1
 
-text: Aldor Reputation Cards in play with reputation other than Aldor lose and can't have powers.
-
-cost: '1'
-
 combat: Holy
+
+rule:
+  - type: ability
+    text: Aldor Reputation Cards in play with reputation other than Aldor lose and can't have powers.
+
+regulation:
+
+errata: []
 
 temp: Draenei Paladin

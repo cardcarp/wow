@@ -2,8 +2,10 @@ card_name: Tusks Of Mannoroth
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

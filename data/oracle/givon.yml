@@ -2,22 +2,24 @@ card_name: Givon
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 4
 
-text: Protector Opposing allies have -2 ATK while in combat with Givon.
-
-cost: '6'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Opposing allies have -2 ATK while in combat with Givon.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Druid

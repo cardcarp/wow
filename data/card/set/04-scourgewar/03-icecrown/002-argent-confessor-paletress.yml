@@ -10,4 +10,5 @@ artist: Chris Rahn
 
 flavor: '"In the face of despair and hatred, we must continue to stand true to our beliefs and fight on."'
 
-appearance: []
+variation:
+  - transform

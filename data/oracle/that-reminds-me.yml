@@ -2,12 +2,14 @@ card_name: _That Reminds Me ..._
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: Search your deck for a card with reminder text, reveal it, and put it into hand. (This is reminder text.)
 
-text: Search your deck for a card with reminder text, reveal it, and put it into hand. (This is reminder text.)
+regulation:
+
+errata: []
 
 temp: ''

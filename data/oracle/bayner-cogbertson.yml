@@ -2,20 +2,22 @@ card_name: Bayner Cogbertson
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 7
 
 health: 7
 
-cost: '7'
-
 combat: Arcane
 
 faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Gnome Mage

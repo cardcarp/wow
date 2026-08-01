@@ -2,23 +2,25 @@ card_name: Bolton
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 2
 
 health: 1
 
-text: Long-Range
+combat: Nature
 
 class:
   - Hunter
 
-cost: '1'
+rule:
+  - type: ability
+    text: Long-Range
 
-combat: Nature
+regulation:
+
+errata: []
 
 temp: Wind Serpent

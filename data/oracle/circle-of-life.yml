@@ -2,17 +2,19 @@ card_name: Circle of Life
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : When an ally is destroyed, its controller may search his deck for an ally card with the same name and put it into play exhausted.'
+cost: '8'
 
 class:
   - Druid
 
-cost: '8'
+rule:
+  - type: ability
+    text: 'Ongoing : When an ally is destroyed, its controller may search his deck for an ally card with the same name and put it into play exhausted.'
+
+regulation:
+
+errata: []
 
 temp: Restoration

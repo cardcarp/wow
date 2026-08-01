@@ -2,8 +2,10 @@ card_name: Alundra Sin'Dorei Timewalker
 
 layout: standard
 
-regulation:
-
 category: Hero
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,18 +2,20 @@ card_name: Stained Shadowcraft Tunic
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: '→ Target hero or ally has Stealth this turn. Stash : Target hero or ally has Stealth this turn.'
+cost: '2'
 
 class:
   - Druid
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: '→ Target hero or ally has Stealth this turn. Stash : Target hero or ally has Stealth this turn.'
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

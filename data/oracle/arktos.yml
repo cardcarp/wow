@@ -2,16 +2,19 @@ card_name: Arktos
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 27
 
-text: 1 , Flip Arktos → Prevent all damage that would be dealt to Arktos while he is defending in bear form this turn.
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 1 , Flip Arktos → Prevent all damage that would be dealt to Arktos while he is defending in bear form this turn.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Druid

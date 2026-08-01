@@ -2,8 +2,10 @@ card_name: Zandalari Ravasaur
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

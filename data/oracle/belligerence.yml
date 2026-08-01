@@ -2,17 +2,19 @@ card_name: Belligerence
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : You pay 2 less to strike with Melee weapons on your turn. Death Rattle : Reveal the top three cards of your deck. Put a revealed Melee weapon into your hand and the rest on the bottom of your deck.'
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : You pay 2 less to strike with Melee weapons on your turn. Death Rattle : Reveal the top three cards of your deck. Put a revealed Melee weapon into your hand and the rest on the bottom of your deck.'
+
+regulation:
+
+errata: []
 
 temp: Combat

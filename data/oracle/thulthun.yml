@@ -2,23 +2,25 @@ card_name: Thulthun
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 3
 
-text: Opposing allies lose and can't have elusive or stealth.
+combat: Melee
 
 class:
   - Warlock
 
-cost: '2'
+rule:
+  - type: ability
+    text: Opposing allies lose and can't have elusive or stealth.
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Felhunter Demon

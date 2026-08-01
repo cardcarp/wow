@@ -10,4 +10,5 @@ artist: Steve Prescott
 
 flavor: '"Ysera ... Malfurion ... Cenarius ... I hope dat dere assistance is enough to calm da raging elements."'
 
-appearance: []
+variation:
+  - transform

@@ -2,12 +2,14 @@ card_name: Defias Cannon
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+rule:
+  - type: ability
+    text: When this item enters play, the MARKED hero's controller gains control of it. When an ally enters play under your control, it may deal 2 fire damage to target Dungeon ally.
 
-text: When this item enters play, the MARKED hero's controller gains control of it. When an ally enters play under your control, it may deal 2 fire damage to target Dungeon ally.
+regulation:
+
+errata: []
 
 temp: Item

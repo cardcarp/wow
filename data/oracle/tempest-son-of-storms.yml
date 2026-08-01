@@ -2,22 +2,24 @@ card_name: Tempest, Son-of-Storms
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 5
 
 health: 5
 
-instant: When this ally enters play, ready a hero or ally you control.
-
-cost: '7'
-
 combat: Melee
 
 faction: Horde
+
+instant: When this ally enters play, ready a hero or ally you control.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Tauren Shaman

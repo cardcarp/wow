@@ -2,17 +2,19 @@ card_name: Clarity of Thought
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : → Draw a card. Use only if your hero has no damage on it.'
+cost: '4'
 
 class:
   - Priest
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Ongoing : → Draw a card. Use only if your hero has no damage on it.'
+
+regulation:
+
+errata: []
 
 temp: Holy

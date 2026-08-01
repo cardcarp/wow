@@ -2,16 +2,19 @@ card_name: Baeltor of the Undercity
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 'On your turn: 2 , Flip Baeltor → Opposing allies have -1 ATK this turn.'
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 2 , Flip Baeltor → Opposing allies have -1 ATK this turn.'
+
+regulation:
+
+errata: []
 
 temp: Undead Death Knight

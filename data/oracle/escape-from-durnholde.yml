@@ -2,12 +2,14 @@ card_name: Escape from Durnholde
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 1 to complete this quest. Reward : Look at the top three cards of your deck. Put one on top of your deck and the rest on the bottom.'
 
-text: 'Pay 1 to complete this quest. Reward : Look at the top three cards of your deck. Put one on top of your deck and the rest on the bottom.'
+regulation:
+
+errata: []
 
 temp: ''

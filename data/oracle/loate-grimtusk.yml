@@ -2,22 +2,24 @@ card_name: Loate Grimtusk
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 3
 
-text: Long-Range When this ally attacks, put him into his owner's hand at the end of this turn.
-
-cost: '3'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Long-Range When this ally attacks, put him into his owner's hand at the end of this turn.
+
+regulation:
+
+errata: []
 
 temp: Troll Rogue

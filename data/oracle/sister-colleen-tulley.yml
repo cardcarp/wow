@@ -2,20 +2,22 @@ card_name: Sister Colleen Tulley
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 3
 
-text: Argent Crusade Reputation This ally has Mend 1 for each Unique ally you control.
-
-cost: '2'
-
 combat: Holy
+
+rule:
+  - type: ability
+    text: Argent Crusade Reputation This ally has Mend 1 for each Unique ally you control.
+
+regulation:
+
+errata: []
 
 temp: Human Priest

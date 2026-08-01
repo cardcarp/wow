@@ -10,4 +10,5 @@ artist: R.K. Post
 
 flavor: '"I keep them well, and they in turn keep me well."'
 
-appearance: []
+variation:
+  - transform

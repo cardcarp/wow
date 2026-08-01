@@ -2,22 +2,24 @@ card_name: Wazix Blonktop
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 4
 
-text: Untargetable
-
-cost: '5'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Untargetable
+
+regulation:
+
+errata: []
 
 temp: Gnome Priest

@@ -2,8 +2,10 @@ card_name: Tok2 Core Rager
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

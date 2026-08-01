@@ -2,8 +2,10 @@ card_name: Corphelius Graveward
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

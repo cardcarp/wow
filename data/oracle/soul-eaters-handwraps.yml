@@ -2,19 +2,21 @@ card_name: Soul-Eaters Handwraps
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When an ability, ally, equipment, or hero readies, its controller puts the top card of his deck into his graveyard.
+cost: '3'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: When an ability, ally, equipment, or hero readies, its controller puts the top card of his deck into his graveyard.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

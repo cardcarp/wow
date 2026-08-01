@@ -2,14 +2,16 @@ card_name: Zalazane
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
-
-text: 'Troll Hero Required During your turn, pay 3 to complete this quest. Reward : Target player discards a card.'
-
 faction: Horde
+
+rule:
+  - type: ability
+    text: 'Troll Hero Required During your turn, pay 3 to complete this quest. Reward : Target player discards a card.'
+
+regulation:
+
+errata: []
 
 temp: ''

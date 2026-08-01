@@ -2,20 +2,22 @@ card_name: Dar the Beastmaster
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 2
 
 health: 7
 
-cost: '4'
-
 combat: Melee
 
 faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Worgen Hunter

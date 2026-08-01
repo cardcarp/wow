@@ -2,8 +2,10 @@ card_name: Windwalker Yeoh
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

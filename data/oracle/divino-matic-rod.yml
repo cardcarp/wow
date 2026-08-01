@@ -2,12 +2,14 @@ card_name: Divino-matic Rod
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'If an opponent has more resources than you, pay 3 to complete this quest. Reward : Put the top card of your deck into your resource row face down and exhausted.'
 
-text: 'If an opponent has more resources than you, pay 3 to complete this quest. Reward : Put the top card of your deck into your resource row face down and exhausted.'
+regulation:
+
+errata: []
 
 temp: ''

@@ -2,22 +2,24 @@ card_name: Tewa Wildmane
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 0
 
 health: 0
 
-text: Tewa Wildmane has +1 ATK and +1 health for each face-down resource you have.
-
-cost: '6'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Tewa Wildmane has +1 ATK and +1 health for each face-down resource you have.
+
+regulation:
+
+errata: []
 
 temp: Tauren Druid

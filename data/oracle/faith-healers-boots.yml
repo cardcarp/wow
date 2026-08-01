@@ -2,19 +2,21 @@ card_name: Faith Healers Boots
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → Put an ally card from your graveyard into your hand. Use only if your hero healed damage this turn.
+cost: '4'
 
 class:
   - Druid
   - Priest
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: → Put an ally card from your graveyard into your hand. Use only if your hero healed damage this turn.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

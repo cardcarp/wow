@@ -2,12 +2,14 @@ card_name: The Scourge Cauldrons
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 2 to complete this quest. Reward : Reveal the top four cards of your deck. Put a revealed quest card into your hand and the rest on the bottom of your deck.'
 
-text: 'Pay 2 to complete this quest. Reward : Reveal the top four cards of your deck. Put a revealed quest card into your hand and the rest on the bottom of your deck.'
+regulation:
+
+errata: []
 
 temp: ''

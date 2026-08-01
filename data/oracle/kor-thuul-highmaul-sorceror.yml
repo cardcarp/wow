@@ -2,8 +2,10 @@ card_name: Kor Thuul Highmaul Sorceror
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

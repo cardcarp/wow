@@ -10,4 +10,5 @@ artist: Alex Horley Orlandelli
 
 flavor: Bloodscalp
 
-appearance: []
+variation:
+  - transform

@@ -2,8 +2,10 @@ card_name: Red Blossom Leeks You Make The Croc In World Go Down
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

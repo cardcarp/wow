@@ -10,4 +10,5 @@ artist: Jim Nelson
 
 flavor: Southsea Freebooters
 
-appearance: []
+variation:
+  - transform

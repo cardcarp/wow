@@ -2,22 +2,24 @@ card_name: Zaduru
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: This ally has Assault 1 for each ready opposing resource.
-
-cost: '2'
-
 combat: Shadow
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: This ally has Assault 1 for each ready opposing resource.
+
+regulation:
+
+errata: []
 
 temp: Troll Priest

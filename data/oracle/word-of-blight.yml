@@ -2,18 +2,20 @@ card_name: Word of Blight
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals shadow damage to target ally equal to the number of allies in your graveyard.
+cost: '1'
 
 class:
   - Priest
   - Death Knight
 
-cost: '1'
+rule:
+  - type: ability
+    text: Your hero deals shadow damage to target ally equal to the number of allies in your graveyard.
+
+regulation:
+
+errata: []
 
 temp: Unholy Shadow

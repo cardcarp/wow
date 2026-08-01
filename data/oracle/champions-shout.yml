@@ -2,17 +2,19 @@ card_name: Champions Shout
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Allies you control have +1 / +1 for each equipment you control.'
+cost: '6'
 
 class:
   - Warrior
 
-cost: '6'
+rule:
+  - type: ability
+    text: 'Ongoing : Allies you control have +1 / +1 for each equipment you control.'
+
+regulation:
+
+errata: []
 
 temp: Fury Shout

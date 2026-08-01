@@ -2,17 +2,19 @@ card_name: Rogue Training
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target friendly ally. Ongoing : When attached ally deals combat damage to a defending hero, that hero's controller discards a card."
+cost: '1'
 
 class:
   - Rogue
 
-cost: '1'
+rule:
+  - type: ability
+    text: "Attach to target friendly ally. Ongoing : When attached ally deals combat damage to a defending hero, that hero's controller discards a card."
+
+regulation:
+
+errata: []
 
 temp: Subtlety

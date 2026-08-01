@@ -10,4 +10,5 @@ artist: Slawomir Maniak
 
 flavor: '"Your foolish attempts to stand against the might of the Horde will soon be burned to ash."'
 
-appearance: []
+variation:
+  - transform

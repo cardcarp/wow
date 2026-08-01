@@ -2,13 +2,9 @@ card_name: Souldrinker
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When a Monster hero deals combat damage with this weapon, it also heals that much damage from itself, and then add a +1 ATK counter to this weapon.
+cost: '3'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Death Knight
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: When a Monster hero deals combat damage with this weapon, it also heals that much damage from itself, and then add a +1 ATK counter to this weapon.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

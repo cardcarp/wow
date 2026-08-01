@@ -2,24 +2,26 @@ card_name: Gladiator Addisyn
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: As Addisyn enters play, choose arcane, fire, frost, nature, or shadow. Arena allies in your party have the chosen resistance .
-
-cost: '2'
-
 combat: Holy
 
 faction: Horde
 
-temp: Blood Elf Paladin
-
 type: Arena
+
+rule:
+  - type: ability
+    text: As Addisyn enters play, choose arcane, fire, frost, nature, or shadow. Arena allies in your party have the chosen resistance .
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

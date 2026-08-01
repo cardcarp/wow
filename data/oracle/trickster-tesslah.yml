@@ -2,22 +2,24 @@ card_name: Trickster Tesslah
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 3
 
-text: Assault 2
-
-cost: '2'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Assault 2
+
+regulation:
+
+errata: []
 
 temp: Goblin Rogue

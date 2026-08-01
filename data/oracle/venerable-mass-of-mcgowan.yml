@@ -2,13 +2,9 @@ card_name: Venerable Mass of McGowan
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'While your hero is attacking an ally, this equipment has +2 ATK for each heirloom counter on it. Stash : Add an heirloom counter to target equipment you control.'
+cost: '2'
 
 class:
   - Warrior
@@ -16,6 +12,12 @@ class:
   - Shaman
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'While your hero is attacking an ally, this equipment has +2 ATK for each heirloom counter on it. Stash : Add an heirloom counter to target equipment you control.'
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

@@ -2,20 +2,22 @@ card_name: Ignacious
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 6
 
-text: 'When this or another card you control is destroyed, you may turn target resource face down. allies you own everywhere have " Stash : Put a 2 / 1 Fire Elemental ally token into play."'
-
-cost: '6'
-
 combat: Fire
+
+rule:
+  - type: ability
+    text: 'When this or another card you control is destroyed, you may turn target resource face down. allies you own everywhere have " Stash : Put a 2 / 1 Fire Elemental ally token into play."'
+
+regulation:
+
+errata: []
 
 temp: Fire Elemental Ascendant

@@ -2,22 +2,24 @@ card_name: Corruptor Mimi Whippleshade
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 5
 
-text: At the start of your turn, this ally deals 3 shadow damage to each opposing hero for each Disease attached to that hero.
-
-cost: '5'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: At the start of your turn, this ally deals 3 shadow damage to each opposing hero for each Disease attached to that hero.
+
+regulation:
+
+errata: []
 
 temp: Gnome Death Knight

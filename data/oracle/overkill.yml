@@ -2,17 +2,19 @@ card_name: Overkill
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: As an additional cost to play, remove up to five Finishing Move cards in your graveyard from the game. Each opponent destroys that many of his equipment and discards that many cards, and your hero deals that much melee damage to each opposing hero and ally.
+cost: '5'
 
 class:
   - Rogue
 
-cost: '5'
+rule:
+  - type: ability
+    text: As an additional cost to play, remove up to five Finishing Move cards in your graveyard from the game. Each opponent destroys that many of his equipment and discards that many cards, and your hero deals that much melee damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
 
 temp: Assassination Finishing Move

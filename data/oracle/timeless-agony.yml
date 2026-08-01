@@ -2,17 +2,19 @@ card_name: Timeless Agony
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Echo Target opponent removes the top three cards of his deck from the game.
+cost: '2'
 
 class:
   - Priest
 
-cost: '2'
+rule:
+  - type: ability
+    text: Echo Target opponent removes the top three cards of his deck from the game.
+
+regulation:
+
+errata: []
 
 temp: Shadow

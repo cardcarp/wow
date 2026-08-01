@@ -2,18 +2,20 @@ card_name: Super Simian Sphere
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'Hero : Your hero has Pet (1). Hero : Your hero is also a Demon.'
+cost: '1'
 
 class:
   - Warlock
   - Hunter
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Hero : Your hero has Pet (1). Hero : Your hero is also a Demon.'
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

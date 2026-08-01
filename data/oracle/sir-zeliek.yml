@@ -2,24 +2,26 @@ card_name: Sir Zeliek
 
 layout: standard
 
-regulation:
-
 category: Token
-
-errata: []
 
 damage: 3
 
 health: 10
 
-text: Long-Range At the end of your turn, the raid leader chooses a raiding hero. This ally deals 5 unpreventable holy damage to it.
-
 combat: Holy
 
-temp: Human Death Knight Horseman
+type: Ally
 
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: Long-Range At the end of your turn, the raid leader chooses a raiding hero. This ally deals 5 unpreventable holy damage to it.
+  - type: ability
+    position: reverse
     text: Long-Range At the end of your turn, this ally deals 5 unpreventable holy damage to each raiding hero.
 
-type: Ally
+regulation:
+
+errata: []
+
+temp: Human Death Knight Horseman

@@ -2,13 +2,9 @@ card_name: Time-Shifted Dagger
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When this weapon enters play, switch the ATK and of target ally this turn.
+cost: '4'
 
 class:
   - Priest
@@ -17,6 +13,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: When this weapon enters play, switch the ATK and of target ally this turn.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

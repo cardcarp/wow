@@ -2,22 +2,24 @@ card_name: Stonespine Gargoyle
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: Scourge Hero Required While this ally is ready prevent all damage that would be dealt to it.
-
-cost: '2'
-
 combat: Melee
 
-temp: Gargoyle
-
 type: Raid
+
+rule:
+  - type: ability
+    text: Scourge Hero Required While this ally is ready prevent all damage that would be dealt to it.
+
+regulation:
+
+errata: []
+
+temp: Gargoyle

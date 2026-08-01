@@ -2,22 +2,24 @@ card_name: Gnomish Flying Machine
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 0
 
 health: 2
 
-text: Elusive 1 , → Reveal the top card of your deck. If it's an ally, other allies you control have +1 ATK this turn.
-
-cost: '1'
-
 combat: Ranged
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive 1 , → Reveal the top card of your deck. If it's an ally, other allies you control have +1 ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: Mechanical

@@ -2,8 +2,10 @@ card_name: _Big Belly_ Yao
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,20 +2,22 @@ card_name: Night Elf Moon Priestess
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 5
 
 health: 3
 
-cost: '4'
-
 combat: Holy
 
 faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Night Elf Priest

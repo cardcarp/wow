@@ -2,17 +2,19 @@ card_name: Roaring Blaze
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 1 fire damage to each opposing ally for each card in your hand.
+cost: '5'
 
 class:
   - Mage
 
-cost: '5'
+rule:
+  - type: ability
+    text: Your hero deals 1 fire damage to each opposing ally for each card in your hand.
+
+regulation:
+
+errata: []
 
 temp: Fire

@@ -2,17 +2,19 @@ card_name: Chakra
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Holy Talent Ongoing : If your hero or an ally you control would deal damage, it deals that much +1 instead. If your hero or an ally you control would heal damage, it heals that much +1 instead.'
+cost: '3'
 
 class:
   - Priest
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Holy Talent Ongoing : If your hero or an ally you control would deal damage, it deals that much +1 instead. If your hero or an ally you control would heal damage, it heals that much +1 instead.'
+
+regulation:
+
+errata: []
 
 temp: Holy

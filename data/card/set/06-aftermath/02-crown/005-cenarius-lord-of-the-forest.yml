@@ -10,4 +10,5 @@ artist: Alex Horley Orlandelli
 
 flavor: '"You cannot defeat me! I am the heart of the land!"'
 
-appearance: []
+variation:
+  - transform

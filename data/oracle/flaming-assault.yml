@@ -2,14 +2,16 @@ card_name: Flaming Assault
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '3'
 
 instant: Ready Ragnaros.
 
-cost: '3'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Ragnaros

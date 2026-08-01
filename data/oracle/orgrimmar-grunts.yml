@@ -2,22 +2,24 @@ card_name: Orgrimmar Grunts
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 1
 
-text: Orgrimmar Grunts has +1 ATK for each other ally named Orgrimmar Grunts in your party.
-
-cost: '2'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Orgrimmar Grunts has +1 ATK for each other ally named Orgrimmar Grunts in your party.
+
+regulation:
+
+errata: []
 
 temp: Orc Warrior

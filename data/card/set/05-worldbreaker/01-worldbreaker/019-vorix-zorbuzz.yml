@@ -10,4 +10,5 @@ artist: Greg Staples
 
 flavor: '"Like lambs to the slaughter."'
 
-appearance: []
+variation:
+  - transform

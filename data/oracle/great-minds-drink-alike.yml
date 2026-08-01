@@ -2,8 +2,10 @@ card_name: Great Minds Drink Alike
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

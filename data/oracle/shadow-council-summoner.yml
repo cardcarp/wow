@@ -2,8 +2,10 @@ card_name: Shadow Council Summoner
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

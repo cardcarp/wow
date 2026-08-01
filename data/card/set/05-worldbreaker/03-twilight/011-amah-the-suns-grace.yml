@@ -10,4 +10,5 @@ artist: Andrea Uderzo
 
 flavor: '"Even in the darkest of times, the sun will always rise to begin a new day."'
 
-appearance: []
+variation:
+  - transform

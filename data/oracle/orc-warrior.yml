@@ -2,8 +2,10 @@ card_name: Orc Warrior
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

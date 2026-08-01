@@ -2,20 +2,22 @@ card_name: Defias Envoker
 
 layout: standard
 
-regulation:
-
 category: Ally
-
-errata: []
 
 damage: 5
 
 health: 3
 
-text: Long-Range
-
 combat: Fire
 
-temp: Human Mage
-
 type: Dungeon
+
+rule:
+  - type: ability
+    text: Long-Range
+
+regulation:
+
+errata: []
+
+temp: Human Mage

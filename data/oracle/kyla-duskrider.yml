@@ -2,22 +2,24 @@ card_name: Kyla Duskrider
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 3
 
-text: Opponents pay 1 more to play weapons. Opponents pay 1 more to strike with weapons.
-
-cost: '3'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Opponents pay 1 more to play weapons. Opponents pay 1 more to strike with weapons.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Rogue

@@ -2,17 +2,19 @@ card_name: Lesson of the Elements
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: You may exhaust a non-hero Shaman you control rather than pay this ability's cost. Your hero deals 3 nature damage divided as you choose to any number of target heroes and/or allies.
+cost: '3'
 
 class:
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: You may exhaust a non-hero Shaman you control rather than pay this ability's cost. Your hero deals 3 nature damage divided as you choose to any number of target heroes and/or allies.
+
+regulation:
+
+errata: []
 
 temp: Elemental

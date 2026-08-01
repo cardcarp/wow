@@ -2,19 +2,21 @@ card_name: Demonslayer
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you strike with Demonslayer, you may destroy target Demon ally.
+cost: '5'
 
 class:
   - Paladin
   - Warrior
   - Hunter
 
-cost: '5'
+rule:
+  - type: ability
+    text: When you strike with Demonslayer, you may destroy target Demon ally.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Sword

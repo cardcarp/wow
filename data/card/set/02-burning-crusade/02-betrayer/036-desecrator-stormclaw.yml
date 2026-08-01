@@ -10,4 +10,5 @@ artist: Lars Grant-West
 
 flavor: Druids of the Fang
 
-appearance: []
+variation:
+  - transform

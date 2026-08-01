@@ -2,13 +2,9 @@ card_name: Jin_dos Bag of Whammies
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Each player's maximum hand size is reduced by four. At the start of each player's turn, that player draws cards until he reaches his maximum hand size.
+cost: '6'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Warlock
   - Mage
 
-cost: '6'
+rule:
+  - type: ability
+    text: Each player's maximum hand size is reduced by four. At the start of each player's turn, that player draws cards until he reaches his maximum hand size.
+
+regulation:
+
+errata: []
 
 temp: Item Off-Hand

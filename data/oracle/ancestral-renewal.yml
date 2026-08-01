@@ -2,17 +2,19 @@ card_name: Ancestral Renewal
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy all opposing cards attached to cards you own. Shuffle your graveyard into your deck. Draw cards until you reach your maximum hand size. Your hero heals all damage from itself.
+cost: '9'
 
 class:
   - Shaman
 
-cost: '9'
+rule:
+  - type: ability
+    text: Destroy all opposing cards attached to cards you own. Shuffle your graveyard into your deck. Draw cards until you reach your maximum hand size. Your hero heals all damage from itself.
+
+regulation:
+
+errata: []
 
 temp: Restoration

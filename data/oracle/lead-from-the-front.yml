@@ -2,14 +2,16 @@ card_name: Lead from the Front
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Opposing heroes have Protector this turn.
+
+regulation:
 
 errata: []
 
-text: Opposing heroes have Protector this turn.
-
 temp: ''
-
-type: Raid

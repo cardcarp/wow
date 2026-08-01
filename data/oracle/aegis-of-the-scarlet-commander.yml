@@ -2,19 +2,21 @@ card_name: Aegis of the Scarlet Commander
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When this armor prevents damage, your hero deals 2 unpreventable holy damage to target opposing hero.
+cost: '5'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: When this armor prevents damage, your hero deals 2 unpreventable holy damage to target opposing hero.
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

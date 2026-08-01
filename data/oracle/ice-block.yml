@@ -2,17 +2,19 @@ card_name: Ice Block
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: "Frost Hero Required Ongoing : Prevent all damage that would be dealt to your hero. You can't play cards. At the start of your turn, destroy Ice Block."
+cost: '2'
 
 class:
   - Mage
 
-cost: '2'
+instant: "Frost Hero Required Ongoing : Prevent all damage that would be dealt to your hero. You can't play cards. At the start of your turn, destroy Ice Block."
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Frost Talent

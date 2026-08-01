@@ -2,19 +2,21 @@ card_name: Wand of Ruby Claret
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When this equipment enters play, you may put target ability from your graveyard on top of your deck.
+cost: '3'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: When this equipment enters play, you may put target ability from your graveyard on top of your deck.
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Wand

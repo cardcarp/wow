@@ -2,17 +2,19 @@ card_name: Crusade of Kings
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'This ability enters play with X crusade counters. Ongoing : Allies with cost equal to the number of crusade counters on this ability have +1 / +1 for each crusade counter.'
+cost: X
 
 class:
   - Paladin
 
-cost: X
+rule:
+  - type: ability
+    text: 'This ability enters play with X crusade counters. Ongoing : Allies with cost equal to the number of crusade counters on this ability have +1 / +1 for each crusade counter.'
+
+regulation:
+
+errata: []
 
 temp: Protection

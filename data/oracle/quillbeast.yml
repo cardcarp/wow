@@ -2,22 +2,24 @@ card_name: Quillbeast
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 3
 
 health: 3
 
-text: Long-Range
-
-cost: '5'
-
 combat: Melee
 
-temp: Quillbeast Beast
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Long-Range
+
+regulation:
+
+errata: []
+
+temp: Quillbeast Beast

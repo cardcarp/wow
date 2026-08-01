@@ -2,22 +2,24 @@ card_name: Wysko
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 2
 
-text: Weapons you control have +1 ATK while your hero is attacking.
-
-cost: '2'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Weapons you control have +1 ATK while your hero is attacking.
+
+regulation:
+
+errata: []
 
 temp: Troll Warrior

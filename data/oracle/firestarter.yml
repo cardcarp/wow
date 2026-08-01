@@ -2,17 +2,19 @@ card_name: Firestarter
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Fire Talent Your hero deals 1 fire damage to each opposing hero and ally, or 4 if that character was dealt fire damage this turn.
+cost: '2'
 
 class:
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: Fire Talent Your hero deals 1 fire damage to each opposing hero and ally, or 4 if that character was dealt fire damage this turn.
+
+regulation:
+
+errata: []
 
 temp: Fire

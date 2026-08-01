@@ -2,13 +2,9 @@ card_name: Herods Shoulder
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When Herod's Shoulder enters play, you may search your deck for a weapon card and reveal it. If you do, shuffle your deck and put that card on top.
+cost: '3'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: When Herod's Shoulder enters play, you may search your deck for a weapon card and reveal it. If you do, shuffle your deck and put that card on top.
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

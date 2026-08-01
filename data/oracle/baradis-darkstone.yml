@@ -2,20 +2,22 @@ card_name: Baradis Darkstone
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 7
 
 health: 3
 
-cost: '5'
-
 combat: Shadow
 
 faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Dwarf Warlock

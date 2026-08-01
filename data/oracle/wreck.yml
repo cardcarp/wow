@@ -2,17 +2,19 @@ card_name: Wreck
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Interrupt target equipment card.
+cost: '1'
 
 class:
   - Warrior
 
-cost: '1'
+instant: Interrupt target equipment card.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Protection

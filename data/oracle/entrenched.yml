@@ -2,12 +2,14 @@ card_name: Entrenched
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'If you control an ally: Pay 3 to complete this quest. Reward : Draw a card.'
 
-text: 'If you control an ally: Pay 3 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

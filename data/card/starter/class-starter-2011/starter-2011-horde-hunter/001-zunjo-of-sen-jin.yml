@@ -10,4 +10,5 @@ artist: L. D. Austin
 
 flavor:
 
-appearance: []
+variation:
+  - transform

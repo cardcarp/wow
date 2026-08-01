@@ -2,22 +2,24 @@ card_name: Karina of Silvermoon
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 4
 
-text: Arcane Torrent At the start of your turn, you may put Karina into her owner's hand.
-
-cost: '2'
-
 combat: Arcane
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Arcane Torrent At the start of your turn, you may put Karina into her owner's hand.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Mage

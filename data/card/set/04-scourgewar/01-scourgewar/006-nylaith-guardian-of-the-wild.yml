@@ -10,4 +10,5 @@ artist: James Ryman
 
 flavor: "\"We must watch each other's back in Northrend, or it will become our permanent home.\""
 
-appearance: []
+variation:
+  - transform

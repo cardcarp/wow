@@ -2,17 +2,19 @@ card_name: Purloin
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Look at target opponent's hand and choose an ability or equipment card. That opponent discards that card.
+cost: '1'
 
 class:
   - Rogue
 
-cost: '1'
+rule:
+  - type: ability
+    text: Look at target opponent's hand and choose an ability or equipment card. That opponent discards that card.
+
+regulation:
+
+errata: []
 
 temp: Subtlety

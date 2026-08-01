@@ -2,22 +2,24 @@ card_name: Thomas slash_ Robinson
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 4
 
-text: Remove an ally card in your graveyard from the game → Thomas has Ferocity this turn.
-
-cost: '3'
-
 combat: Arcane
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Remove an ally card in your graveyard from the game → Thomas has Ferocity this turn.
+
+regulation:
+
+errata: []
 
 temp: Undead Mage

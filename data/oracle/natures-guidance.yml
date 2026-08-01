@@ -2,19 +2,21 @@ card_name: Natures Guidance
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Preparation Ongoing : You pay 1 less to play Feral abilities, to a minimum of 1 .'
+cost: '3'
 
 class:
   - Druid
 
-cost: '3'
+type: Arena
+
+rule:
+  - type: ability
+    text: 'Preparation Ongoing : You pay 1 less to play Feral abilities, to a minimum of 1 .'
+
+regulation:
+
+errata: []
 
 temp: ''
-
-type: Arena

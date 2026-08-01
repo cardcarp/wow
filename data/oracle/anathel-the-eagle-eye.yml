@@ -2,22 +2,24 @@ card_name: Anathel the Eagle-Eye
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: Elusive When an ally with cost 4 or more enters play under your control, this ally deals 4 ranged damage to target hero.
-
-cost: '2'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive When an ally with cost 4 or more enters play under your control, this ally deals 4 ranged damage to target hero.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Hunter

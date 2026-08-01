@@ -2,22 +2,24 @@ card_name: Scout Kurgo
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 1
 
 health: 1
 
-text: When you play Kurgo, you may search your deck and hand for any number of cards named Scout Kurgo and put them into play.
-
-cost: '5'
-
 combat: Ranged
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When you play Kurgo, you may search your deck and hand for any number of cards named Scout Kurgo and put them into play.
+
+regulation:
+
+errata: []
 
 temp: Orc Hunter

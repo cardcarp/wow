@@ -2,17 +2,19 @@ card_name: Distract
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Exhaust all allies controlled by target player. They can't ready during his next ready step.
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: Exhaust all allies controlled by target player. They can't ready during his next ready step.
+
+regulation:
+
+errata: []
 
 temp: Subtlety

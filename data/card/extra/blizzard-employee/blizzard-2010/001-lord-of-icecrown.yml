@@ -10,4 +10,5 @@ artist: Glenn Rane
 
 flavor: '"Tell them only that the Lich King is dead. And that Bolvar Fordragon ... died with him."'
 
-appearance: []
+variation:
+  - transform

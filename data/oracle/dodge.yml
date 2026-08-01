@@ -2,14 +2,16 @@ card_name: Dodge
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '15'
 
 instant: Prevent the next 1 damage that would be dealt to target hero or ally this turn.
 
-cost: '15'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

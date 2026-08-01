@@ -2,22 +2,24 @@ card_name: Banshee
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 1
 
 health: 5
 
-text: When this ally deals combat damage to a hero, you may destroy this ally. If you do, gain control of target ally that hero's controller controls.
-
-cost: '5'
-
 combat: Shadow
 
-temp: Scourge Banshee
-
 type: Monster
+
+rule:
+  - type: ability
+    text: When this ally deals combat damage to a hero, you may destroy this ally. If you do, gain control of target ally that hero's controller controls.
+
+regulation:
+
+errata: []
+
+temp: Scourge Banshee

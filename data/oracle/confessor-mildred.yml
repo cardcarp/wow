@@ -2,22 +2,24 @@ card_name: Confessor Mildred
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: 2 , Destroy this ally → Destroy target ability.
-
-cost: '2'
-
 combat: Shadow
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: 2 , Destroy this ally → Destroy target ability.
+
+regulation:
+
+errata: []
 
 temp: Undead Priest

@@ -2,22 +2,24 @@ card_name: Guardian Steelhorn
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 3
 
-text: Protector Guardian Steelhorn can't attack.
-
-cost: '2'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Guardian Steelhorn can't attack.
+
+regulation:
+
+errata: []
 
 temp: Tauren Warrior

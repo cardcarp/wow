@@ -2,13 +2,9 @@ card_name: Vengeance Wrap
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When this armor enters play, you may remove an ally in a graveyard from the game. → Your hero deals 1 melee damage to target hero or ally that shares a class or race with that ally.
+cost: '3'
 
 class:
   - Warrior
@@ -19,6 +15,12 @@ class:
   - Death Knight
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: When this armor enters play, you may remove an ally in a graveyard from the game. → Your hero deals 1 melee damage to target hero or ally that shares a class or race with that ally.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

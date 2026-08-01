@@ -2,17 +2,19 @@ card_name: Prayer of Healing
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero heals 3 damage from each hero and ally you control.
+cost: '3'
 
 class:
   - Priest
 
-cost: '3'
+rule:
+  - type: ability
+    text: Your hero heals 3 damage from each hero and ally you control.
+
+regulation:
+
+errata: []
 
 temp: Holy

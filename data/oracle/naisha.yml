@@ -2,22 +2,24 @@ card_name: Naisha
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 4
 
-text: As this ally enters play, name a card. Opponents can't play cards with that name.
-
-cost: '2'
-
 combat: Ranged
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: As this ally enters play, name a card. Opponents can't play cards with that name.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Hunter

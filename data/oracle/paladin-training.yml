@@ -2,17 +2,19 @@ card_name: Paladin Training
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target friendly ally. Ongoing : When attached ally deals combat damage, it also heals that much from target hero or ally.'
+cost: '1'
 
 class:
   - Paladin
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Attach to target friendly ally. Ongoing : When attached ally deals combat damage, it also heals that much from target hero or ally.'
+
+regulation:
+
+errata: []
 
 temp: Holy

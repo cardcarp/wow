@@ -2,12 +2,14 @@ card_name: Completion Machine
 
 layout: standard
 
-regulation:
-
 category: Achievement
 
-errata: []
+rule:
+  - type: ability
+    text: A Raider controls at least eight face-down resources.
 
-text: A Raider controls at least eight face-down resources.
+regulation:
+
+errata: []
 
 temp: ''

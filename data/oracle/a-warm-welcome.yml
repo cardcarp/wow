@@ -2,12 +2,14 @@ card_name: A Warm Welcome
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'If your hero has dealt 5 or more damage this turn, pay 2 to complete this quest. Reward : Draw two cards.'
 
-text: 'If your hero has dealt 5 or more damage this turn, pay 2 to complete this quest. Reward : Draw two cards.'
+regulation:
+
+errata: []
 
 temp: ''

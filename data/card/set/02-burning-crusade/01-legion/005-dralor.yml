@@ -10,4 +10,5 @@ artist: Josh Tallman
 
 flavor: '"Fewer witnesses. I like that."'
 
-appearance: []
+variation:
+  - transform

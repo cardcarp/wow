@@ -2,20 +2,22 @@ card_name: Power
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 2
 
-text: 'Time is Money On your turn: → Your hero and allies you control have Assault 1 this turn for each Biker you control.'
-
-cost: '2'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: 'Time is Money On your turn: → Your hero and allies you control have Assault 1 this turn for each Biker you control.'
+
+regulation:
+
+errata: []
 
 temp: Goblin Warrior Biker

@@ -2,17 +2,19 @@ card_name: Dirks Command
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: This weapon has +2 ATK while your hero is attacking a damaged hero or ally.
+cost: '4'
 
 class:
   - Warrior
 
-cost: '4'
+rule:
+  - type: ability
+    text: This weapon has +2 ATK while your hero is attacking a damaged hero or ally.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

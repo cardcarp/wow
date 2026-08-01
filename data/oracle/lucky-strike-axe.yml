@@ -2,13 +2,9 @@ card_name: Lucky Strike Axe
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Lucky Strike Axe enters play with three +1 ATK counters if an opponent went first this game.
+cost: '4'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: Lucky Strike Axe enters play with three +1 ATK counters if an opponent went first this game.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Axe

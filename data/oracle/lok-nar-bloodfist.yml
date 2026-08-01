@@ -2,8 +2,10 @@ card_name: Lok_nar Bloodfist
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

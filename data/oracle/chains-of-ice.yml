@@ -2,17 +2,19 @@ card_name: Chains of Ice
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target opposing ally. Search your deck for a Disease, reveal it, and put it into your hand. Ongoing : Attached ally can't attack."
+cost: '2'
 
 class:
   - Death Knight
 
-cost: '2'
+rule:
+  - type: ability
+    text: "Attach to target opposing ally. Search your deck for a Disease, reveal it, and put it into your hand. Ongoing : Attached ally can't attack."
+
+regulation:
+
+errata: []
 
 temp: Frost

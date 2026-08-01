@@ -2,14 +2,16 @@ card_name: Down the Gullet
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: You may destroy target ally.
+
+regulation:
 
 errata: []
 
-text: You may destroy target ally.
-
 temp: ''
-
-type: Raid

@@ -2,17 +2,19 @@ card_name: Focused Will
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Discipline Hero Required Ongoing : At the start of your turn, switch all damage on your hero with the damage on target opposing hero.'
+cost: '7'
 
 class:
   - Priest
 
-cost: '7'
+rule:
+  - type: ability
+    text: 'Discipline Hero Required Ongoing : At the start of your turn, switch all damage on your hero with the damage on target opposing hero.'
+
+regulation:
+
+errata: []
 
 temp: Discipline Talent

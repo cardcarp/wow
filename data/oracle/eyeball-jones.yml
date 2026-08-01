@@ -2,22 +2,24 @@ card_name: _Eyeball_ Jones
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 1
 
 health: 2
 
-text: When Eyeball deals combat damage to a hero or ally, exhaust that character, and it can't ready during its controller's next ready step.
-
-cost: '1'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When Eyeball deals combat damage to a hero or ally, exhaust that character, and it can't ready during its controller's next ready step.
+
+regulation:
+
+errata: []
 
 temp: Undead Rogue

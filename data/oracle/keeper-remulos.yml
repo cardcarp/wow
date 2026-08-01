@@ -2,20 +2,22 @@ card_name: Keeper Remulos
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 6
 
 health: 6
 
-text: When a Druid you control deals combat damage to a hero, put two 1 / 1 Treant ally tokens into play.
-
-cost: '6'
-
 combat: Nature
+
+rule:
+  - type: ability
+    text: When a Druid you control deals combat damage to a hero, put two 1 / 1 Treant ally tokens into play.
+
+regulation:
+
+errata: []
 
 temp: Keeper of the Grove Druid

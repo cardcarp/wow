@@ -2,18 +2,20 @@ card_name: Bracers of the Eclipse
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 , Remove Bracers of the Eclipse from the Game → Remove your deck from the game. Shuffle your graveyard face down. It is now your deck.
+cost: '2'
 
 class:
   - Druid
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: 1 , Remove Bracers of the Eclipse from the Game → Remove your deck from the game. Shuffle your graveyard face down. It is now your deck.
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

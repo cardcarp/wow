@@ -10,4 +10,5 @@ artist: Chippy
 
 flavor: '"You will obey."'
 
-appearance: []
+variation:
+  - transform

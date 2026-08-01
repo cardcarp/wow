@@ -2,14 +2,16 @@ card_name: Eye Blast
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Destroy Eye Blast → Destroy target ability, ally, or equipment.'
-
 cost: '1'
+
+rule:
+  - type: ability
+    text: 'Ongoing : Destroy Eye Blast → Destroy target ability, ally, or equipment.'
+
+regulation:
+
+errata: []
 
 temp: Black Temple

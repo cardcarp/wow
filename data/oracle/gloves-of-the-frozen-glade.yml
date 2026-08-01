@@ -2,18 +2,20 @@ card_name: Gloves of the Frozen Glade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: '3 , → Ready your hero and all Melee weapons you control. Death Rattle : Your hero has Stealth this turn.'
+cost: '3'
 
 class:
   - Druid
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: '3 , → Ready your hero and all Melee weapons you control. Death Rattle : Your hero has Stealth this turn.'
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

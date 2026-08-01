@@ -2,8 +2,10 @@ card_name: Confession
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

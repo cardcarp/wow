@@ -2,14 +2,16 @@ card_name: Dark Archangel Form
 
 layout: standard
 
-regulation:
-
 category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: 'Attach this to the Dungeon ally with the highest printed . Ongoing : Attached ally has +10 / +10.'
+
+regulation:
 
 errata: []
 
-text: 'Attach this to the Dungeon ally with the highest printed . Ongoing : Attached ally has +10 / +10.'
-
 temp: ''
-
-type: Dungeon

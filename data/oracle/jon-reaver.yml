@@ -2,22 +2,24 @@ card_name: Jon Reaver
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 2
 
 health: 2
 
-text: When Jon Reaver enters play, you may destroy target weapon.
-
-cost: '4'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When Jon Reaver enters play, you may destroy target weapon.
+
+regulation:
+
+errata: []
 
 temp: Undead Warrior

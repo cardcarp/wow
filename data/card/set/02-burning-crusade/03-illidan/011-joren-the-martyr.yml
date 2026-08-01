@@ -10,4 +10,5 @@ artist: Ralph Horsley
 
 flavor: '"Judge me not by my bones. My soul has a strength you cannot fathom."'
 
-appearance: []
+variation:
+  - transform

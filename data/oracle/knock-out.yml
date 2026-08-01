@@ -2,17 +2,19 @@ card_name: Knock Out
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target quest.
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: Destroy target quest.
+
+regulation:
+
+errata: []
 
 temp: Assassination

@@ -2,18 +2,20 @@ card_name: Kel_Thuzads Reach
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals combat damage with this weapon to a hero, you may destroy this weapon. If you do, put target ally in an opponent's graveyard into play under your control.
+cost: '4'
 
 class:
   - Shaman
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: When your hero deals combat damage with this weapon to a hero, you may destroy this weapon. If you do, put target ally in an opponent's graveyard into play under your control.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Fist

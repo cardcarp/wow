@@ -2,20 +2,22 @@ card_name: Apothecary Hummel
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 1
 
-text: Hummel has Resistance to each opposing ally's damage type.
-
-cost: '3'
-
 combat: Nature
+
+rule:
+  - type: ability
+    text: Hummel has Resistance to each opposing ally's damage type.
+
+regulation:
+
+errata: []
 
 temp: Undead Apothecary

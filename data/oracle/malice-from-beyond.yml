@@ -2,8 +2,10 @@ card_name: Malice from Beyond
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

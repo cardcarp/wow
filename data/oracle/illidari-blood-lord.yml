@@ -2,20 +2,22 @@ card_name: Illidari Blood Lord
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 1
 
-text: Traitor Hero Required When Illidari Blood Lord enters play, each player turns one of his face-up resources face down.
-
-cost: '2'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Traitor Hero Required When Illidari Blood Lord enters play, each player turns one of his face-up resources face down.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Paladin Traitor

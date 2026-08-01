@@ -2,22 +2,24 @@ card_name: Besh_iah
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 4
 
 health: 4
 
-text: Destroy an ally in your party → Destroy target ability.
-
-cost: '6'
-
 combat: Shadow
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Destroy an ally in your party → Destroy target ability.
+
+regulation:
+
+errata: []
 
 temp: Troll Priest

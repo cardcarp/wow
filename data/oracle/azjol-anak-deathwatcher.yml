@@ -2,20 +2,22 @@ card_name: Azjol-anak Deathwatcher
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 4
 
-text: Nerubian Reputation When this ally enters play, you may search your deck for a card and put it into your graveyard.
-
-cost: '4'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Nerubian Reputation When this ally enters play, you may search your deck for a card and put it into your graveyard.
+
+regulation:
+
+errata: []
 
 temp: Nerubian

@@ -2,17 +2,19 @@ card_name: Mystical Refreshment
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Draw a card for each ally you control.
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: Draw a card for each ally you control.
+
+regulation:
+
+errata: []
 
 temp: Arcane

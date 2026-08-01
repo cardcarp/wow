@@ -2,25 +2,28 @@ card_name: Metamorphosis
 
 layout: transform
 
-regulation:
-
 category: Hero
 
-errata: []
+cost: '7'
 
 damage: 1
 
 health: 35
 
-text: Demonology Hero Required At the start of your turn, put your starting hero back into play unless you destroy an ally you control. If you destroyed an ally this way, your hero deals shadow damage equal to that ally's cost to target hero or ally.
+combat: Fire
 
 class:
   - Warlock
 
-cost: '7'
+type: Master
 
-combat: Fire
+rule:
+  - type: ability
+    position: front
+    text: Demonology Hero Required At the start of your turn, put your starting hero back into play unless you destroy an ally you control. If you destroyed an ally this way, your hero deals shadow damage equal to that ally's cost to target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Demon Warlock Demonology Talent
-
-type: Master

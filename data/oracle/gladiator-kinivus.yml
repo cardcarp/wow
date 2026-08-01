@@ -2,24 +2,26 @@ card_name: Gladiator Kinivus
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 1
 
 health: 2
 
-text: When an opposing card or effect causes you to discard an Arena ally card, you may put it from your graveyard into hand.
-
-cost: '1'
-
 combat: Nature
 
 faction: Alliance
 
-temp: Draenei Shaman
-
 type: Arena
+
+rule:
+  - type: ability
+    text: When an opposing card or effect causes you to discard an Arena ally card, you may put it from your graveyard into hand.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

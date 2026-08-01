@@ -2,17 +2,19 @@ card_name: Presence of the Divine
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : When an attacking ally deals damage to an ally you control, you may destroy that attacker.'
+cost: '4'
 
 class:
   - Paladin
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Ongoing : When an attacking ally deals damage to an ally you control, you may destroy that attacker.'
+
+regulation:
+
+errata: []
 
 temp: Retribution

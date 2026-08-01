@@ -2,17 +2,19 @@ card_name: Fire Power
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Fire Talent Ongoing : When you play a Fire ability or card, your hero may deal 1 fire damage to target hero or ally.'
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Fire Talent Ongoing : When you play a Fire ability or card, your hero may deal 1 fire damage to target hero or ally.'
+
+regulation:
+
+errata: []
 
 temp: Fire

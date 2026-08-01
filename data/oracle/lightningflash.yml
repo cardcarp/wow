@@ -2,17 +2,19 @@ card_name: Lightningflash
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Long-Range Ranged Dual Wield
+cost: '4'
 
 class:
   - Hunter
 
-cost: '4'
+rule:
+  - type: ability
+    text: Long-Range Ranged Dual Wield
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Gun

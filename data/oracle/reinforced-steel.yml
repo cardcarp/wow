@@ -2,17 +2,19 @@ card_name: Reinforced Steel
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Friendly armor have +1 for each friendly weapon. Friendly weapons have +1 for each friendly armor.'
+cost: '2'
 
 class:
   - Warrior
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : Friendly armor have +1 for each friendly weapon. Friendly weapons have +1 for each friendly armor.'
+
+regulation:
+
+errata: []
 
 temp: Arms

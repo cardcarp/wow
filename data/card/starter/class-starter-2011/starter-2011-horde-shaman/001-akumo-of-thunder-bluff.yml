@@ -10,4 +10,5 @@ artist: Steve Prescott
 
 flavor:
 
-appearance: []
+variation:
+  - transform

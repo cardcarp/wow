@@ -2,22 +2,24 @@ card_name: Kulvo Jadefist
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 4
 
 health: 4
 
-text: Protector When Kulvo Jadefist attacks, he has -2 ATK and -2 health this turn.
-
-cost: '3'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When Kulvo Jadefist attacks, he has -2 ATK and -2 health this turn.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Warrior

@@ -2,17 +2,19 @@ card_name: Millennium Blade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Dual Wield While you control another weapon, this weapon has +1 ATK, and you pay 1 less to strike with it.
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: Dual Wield While you control another weapon, this weapon has +1 ATK, and you pay 1 less to strike with it.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

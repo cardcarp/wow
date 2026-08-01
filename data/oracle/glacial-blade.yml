@@ -2,20 +2,22 @@ card_name: Glacial Blade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '2'
 
-text: Destroy Glacial Blade → Your hero deals 1 frost damage to target hero or ally. If a hero is dealt damage this way, its controller skips drawing his next card this turn.
+faction: Horde
 
 class:
   - Shaman
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: Destroy Glacial Blade → Your hero deals 1 frost damage to target hero or ally. If a hero is dealt damage this way, its controller skips drawing his next card this turn.
 
-faction: Horde
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

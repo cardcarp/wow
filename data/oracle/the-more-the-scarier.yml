@@ -2,17 +2,19 @@ card_name: The More, the Scarier
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals X fire damage to each of X target allies.
+cost: X
 
 class:
   - Mage
 
-cost: X
+rule:
+  - type: ability
+    text: Your hero deals X fire damage to each of X target allies.
+
+regulation:
+
+errata: []
 
 temp: Fire

@@ -2,8 +2,10 @@ card_name: Sparkmancer Vu
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

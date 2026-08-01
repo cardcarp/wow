@@ -2,12 +2,14 @@ card_name: Peace Offering
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: Each player puts a card from his hand into the hand of the player who will celebrate his birthday soonest.
 
-text: Each player puts a card from his hand into the hand of the player who will celebrate his birthday soonest.
+regulation:
+
+errata: []
 
 temp: ''

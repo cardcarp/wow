@@ -2,22 +2,24 @@ card_name: Keeper Sharus
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 0
 
 health: 2
 
-text: Elusive While you control another Monster hero or ally, this ally has Harmonize .
-
-cost: '1'
-
 combat: Nature
 
-temp: Keeper of the Grove Druid
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Elusive While you control another Monster hero or ally, this ally has Harmonize .
+
+regulation:
+
+errata: []
+
+temp: Keeper of the Grove Druid

@@ -10,4 +10,5 @@ artist: Ralph Horsley
 
 flavor: '"The Great Bear Spirit speaks to me, and it is my duty to share what it teaches."'
 
-appearance: []
+variation:
+  - transform

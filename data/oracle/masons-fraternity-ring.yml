@@ -2,13 +2,9 @@ card_name: Masons Fraternity Ring
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has +1 ATK while attacking.
+cost: '3'
 
 class:
   - Warrior
@@ -18,6 +14,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: Your hero has +1 ATK while attacking.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

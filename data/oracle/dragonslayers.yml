@@ -2,14 +2,16 @@ card_name: Dragonslayers
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Opposing allies have Ferocity until your next turn.
+
+regulation:
 
 errata: []
 
-text: Opposing allies have Ferocity until your next turn.
-
 temp: ''
-
-type: Raid

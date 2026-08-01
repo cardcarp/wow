@@ -2,19 +2,21 @@ card_name: Gloves of Token Respect
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'On your turn: 2 → Put a 1 / 1 Spider ally token into play. , Destroy this armor → Put a copy of target ally token into play.'
+cost: '3'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'On your turn: 2 → Put a 1 / 1 Spider ally token into play. , Destroy this armor → Put a copy of target ally token into play.'
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

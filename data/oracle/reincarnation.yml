@@ -2,17 +2,19 @@ card_name: Reincarnation
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : If your hero would be destroyed, remove Reincarnation from the game and remove all but 14 damage from your hero instead.'
+cost: '4'
 
 class:
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Ongoing : If your hero would be destroyed, remove Reincarnation from the game and remove all but 14 damage from your hero instead.'
+
+regulation:
+
+errata: []
 
 temp: Restoration

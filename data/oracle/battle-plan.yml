@@ -2,14 +2,16 @@ card_name: Battle Plan
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Each opponent draws a card.
+
+regulation:
 
 errata: []
 
-text: Each opponent draws a card.
-
 temp: ''
-
-type: Raid

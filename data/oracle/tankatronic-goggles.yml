@@ -2,18 +2,20 @@ card_name: Tankatronic Goggles
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Engineering Hero Required When Tankatronic Goggles enters play, look at target player's hand. Your hero is a Protector . Opposing allies lose and can't have Elusive , Stealth , and Untargetable .
+cost: '2'
 
 class:
   - Paladin
   - Warrior
 
-cost: '2'
+rule:
+  - type: ability
+    text: Engineering Hero Required When Tankatronic Goggles enters play, look at target player's hand. Your hero is a Protector . Opposing allies lose and can't have Elusive , Stealth , and Untargetable .
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

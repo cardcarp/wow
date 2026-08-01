@@ -2,22 +2,24 @@ card_name: Northshire Guardian
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 0
 
 health: 3
 
-text: Protector When an attacker deals combat damage to this ally, that attacking character can't ready during it's controller's next ready step.
-
-cost: '1'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When an attacker deals combat damage to this ally, that attacking character can't ready during it's controller's next ready step.
+
+regulation:
+
+errata: []
 
 temp: Human Paladin

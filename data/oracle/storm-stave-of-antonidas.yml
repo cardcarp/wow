@@ -2,8 +2,10 @@ card_name: Storm-Stave of Antonidas
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

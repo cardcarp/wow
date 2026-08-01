@@ -2,22 +2,24 @@ card_name: Masten Everspirit
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 4
 
 health: 2
 
-text: When Masten Everspirit is destroyed, you may put him from your graveyard into your hand.
-
-cost: '5'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When Masten Everspirit is destroyed, you may put him from your graveyard into your hand.
+
+regulation:
+
+errata: []
 
 temp: Tauren Shaman

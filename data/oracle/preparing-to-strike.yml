@@ -2,8 +2,10 @@ card_name: Preparing to Strike
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

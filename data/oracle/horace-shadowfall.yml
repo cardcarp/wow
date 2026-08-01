@@ -2,22 +2,24 @@ card_name: Horace Shadowfall
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 6
 
 health: 5
 
-text: Opposing heroes and allies can attack only Demons in your party if able.
-
-cost: '6'
-
 combat: Shadow
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Opposing heroes and allies can attack only Demons in your party if able.
+
+regulation:
+
+errata: []
 
 temp: Human Warlock

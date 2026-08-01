@@ -2,19 +2,21 @@ card_name: Betrayer of Humanity
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: As an additional cost to play this weapon, destroy a Human or Orc ally you control.
+cost: '6'
 
 class:
   - Warrior
   - Death Knight
   - Shaman
 
-cost: '6'
+rule:
+  - type: ability
+    text: As an additional cost to play this weapon, destroy a Human or Orc ally you control.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Axe

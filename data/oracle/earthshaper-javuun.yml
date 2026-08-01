@@ -2,22 +2,24 @@ card_name: Earthshaper Javuun
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 2
 
 health: 6
 
-text: Shadow Resistance Mend 2
-
-cost: '4'
-
 combat: Nature
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Shadow Resistance Mend 2
+
+regulation:
+
+errata: []
 
 temp: Draenei Shaman

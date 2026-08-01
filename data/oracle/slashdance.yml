@@ -2,14 +2,16 @@ card_name: Slashdance
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '1'
 
 instant: Each player may dance the way he imagines his hero would dance. If he does, he may turn his hero face up.
 
-cost: '1'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

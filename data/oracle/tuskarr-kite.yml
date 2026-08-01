@@ -2,14 +2,16 @@ card_name: Tuskarr Kite
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : , Exhaust an ally you control → Put the card tenth from the top of your deck into your hand.'
-
 cost: '3'
+
+rule:
+  - type: ability
+    text: 'Ongoing : , Exhaust an ally you control → Put the card tenth from the top of your deck into your hand.'
+
+regulation:
+
+errata: []
 
 temp: ''

@@ -2,12 +2,14 @@ card_name: Toxic Horrors
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : Choose up to two players. Each of them draws a card.'
 
-text: 'Pay 3 to complete this quest. Reward : Choose up to two players. Each of them draws a card.'
+regulation:
+
+errata: []
 
 temp: ''

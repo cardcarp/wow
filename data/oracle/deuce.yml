@@ -2,23 +2,25 @@ card_name: Deuce
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 4
 
 health: 3
 
-text: Beast Mastery Talent While this ally is in your graveyard, you can control an additional Pet.
+combat: Nature
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: Beast Mastery Talent While this ally is in your graveyard, you can control an additional Pet.
 
-combat: Nature
+regulation:
+
+errata: []
 
 temp: Chimaera

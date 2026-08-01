@@ -2,22 +2,24 @@ card_name: Loriam Argos
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 2
 
-text: Aberration Stealth
-
-cost: '2'
-
 combat: Nature
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Aberration Stealth
+
+regulation:
+
+errata: []
 
 temp: Worgen Rogue

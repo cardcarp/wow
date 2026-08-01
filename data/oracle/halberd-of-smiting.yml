@@ -2,19 +2,21 @@ card_name: Halberd of Smiting
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When Halberd of Smiting enters play, you may destroy target ally with damage on it.
+cost: '4'
 
 class:
   - Paladin
   - Warrior
   - Hunter
 
-cost: '4'
+rule:
+  - type: ability
+    text: When Halberd of Smiting enters play, you may destroy target ally with damage on it.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Polearm

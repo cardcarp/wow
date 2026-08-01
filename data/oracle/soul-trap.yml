@@ -2,17 +2,19 @@ card_name: Soul Trap
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: As an additional cost to play, put 5 damage on your hero. Remove target ally from the game.
+cost: '2'
 
 class:
   - Warlock
 
-cost: '2'
+rule:
+  - type: ability
+    text: As an additional cost to play, put 5 damage on your hero. Remove target ally from the game.
+
+regulation:
+
+errata: []
 
 temp: Destruction

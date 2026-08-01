@@ -2,22 +2,24 @@ card_name: Elwynn Burglar
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 4
 
-text: "Unity : When this ally deals combat damage to a hero, if you control three or more Human allies, that hero's controller chooses and discards a card."
-
-cost: '3'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: "Unity : When this ally deals combat damage to a hero, if you control three or more Human allies, that hero's controller chooses and discards a card."
+
+regulation:
+
+errata: []
 
 temp: Human Rogue

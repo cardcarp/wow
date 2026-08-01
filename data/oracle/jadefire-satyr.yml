@@ -2,22 +2,24 @@ card_name: Jadefire Satyr
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 3
 
-text: While an opposing hero has 15 or more damage on it, this ally has Assault 2 .
-
-cost: '2'
-
 combat: Shadow
 
-temp: Satyr Demon Warrior
-
 type: Monster
+
+rule:
+  - type: ability
+    text: While an opposing hero has 15 or more damage on it, this ally has Assault 2 .
+
+regulation:
+
+errata: []
+
+temp: Satyr Demon Warrior

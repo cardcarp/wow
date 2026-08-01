@@ -2,17 +2,19 @@ card_name: Kill Command
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Target Pet you control deals melee damage equal to its ATK to target ally.
+cost: '2'
 
 class:
   - Hunter
 
-cost: '2'
+instant: Target Pet you control deals melee damage equal to its ATK to target ally.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Beast Mastery

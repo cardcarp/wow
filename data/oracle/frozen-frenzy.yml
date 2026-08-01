@@ -2,18 +2,20 @@ card_name: Frozen Frenzy
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Allies you control have Assault 6 this turn.
+cost: '6'
 
 class:
   - Death Knight
   - Shaman
 
-cost: '6'
+rule:
+  - type: ability
+    text: Allies you control have Assault 6 this turn.
+
+regulation:
+
+errata: []
 
 temp: Frost Enhancement

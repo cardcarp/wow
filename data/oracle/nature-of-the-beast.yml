@@ -2,17 +2,19 @@ card_name: Nature of the Beast
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Your hero has +1 ATK while attacking in bear or cat form.'
+cost: '1'
 
 class:
   - Druid
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Ongoing : Your hero has +1 ATK while attacking in bear or cat form.'
+
+regulation:
+
+errata: []
 
 temp: Feral

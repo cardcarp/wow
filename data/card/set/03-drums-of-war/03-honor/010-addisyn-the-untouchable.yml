@@ -10,4 +10,5 @@ artist: James Ryman
 
 flavor: '"Was that supposed to hurt?"'
 
-appearance: []
+variation:
+  - transform

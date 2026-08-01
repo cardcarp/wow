@@ -2,13 +2,9 @@ card_name: Glyph of Omniscience
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → Reveal the top card of your deck. You may draw that card. If you do, destroy this item.
+cost: '1'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: → Reveal the top card of your deck. You may draw that card. If you do, destroy this item.
+
+regulation:
+
+errata: []
 
 temp: Item

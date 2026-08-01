@@ -2,18 +2,20 @@ card_name: Frigid Winds
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Target hero or ally can't attack this turn. Draw a card.
+cost: '2'
 
 class:
   - Druid
   - Mage
 
-cost: '2'
+instant: Target hero or ally can't attack this turn. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Balance Frost

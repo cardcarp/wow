@@ -2,22 +2,24 @@ card_name: Wyneth Harridan
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 2
 
 health: 4
 
-text: Protector 3 , → Destroy target Undead ally.
-
-cost: '4'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector 3 , → Destroy target Undead ally.
+
+regulation:
+
+errata: []
 
 temp: Human Paladin

@@ -2,18 +2,20 @@ card_name: Maimgors Bite
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Dual Wield Double the ATK of this and other weapons you control.
+cost: '4'
 
 class:
   - Shaman
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: Dual Wield Double the ATK of this and other weapons you control.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

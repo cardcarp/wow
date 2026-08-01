@@ -2,18 +2,20 @@ card_name: Treads of Fleeting Joy
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: If your hero would deal 5 or more combat damage while attacking, it deals that much +5 instead.
+cost: '2'
 
 class:
   - Druid
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: If your hero would deal 5 or more combat damage while attacking, it deals that much +5 instead.
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

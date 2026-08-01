@@ -2,8 +2,10 @@ card_name: Ancient Amani Longbow
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

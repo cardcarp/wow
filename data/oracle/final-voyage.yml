@@ -2,17 +2,19 @@ card_name: Final Voyage
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you strike with this weapon, your hero has Long-Range this combat. This weapon has Assault 1 for each card in opposing hands.
+cost: '2'
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: When you strike with this weapon, your hero has Long-Range this combat. This weapon has Assault 1 for each card in opposing hands.
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Crossbow

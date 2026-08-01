@@ -2,8 +2,10 @@ card_name: Trouble Brewing
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

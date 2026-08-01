@@ -2,20 +2,22 @@ card_name: Adyen the Lightwarden
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 3
 
-text: Aldor Reputation Cards can't leave opposing graveyards.
-
-cost: '3'
-
 combat: Holy
+
+rule:
+  - type: ability
+    text: Aldor Reputation Cards can't leave opposing graveyards.
+
+regulation:
+
+errata: []
 
 temp: Draenei Paladin

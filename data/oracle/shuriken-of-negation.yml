@@ -2,18 +2,20 @@ card_name: Shuriken of Negation
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-instant: When Shuriken of Negation enters play, you may interrupt target ability card. Thrown
+cost: '4'
 
 class:
   - Warrior
   - Rogue
 
-cost: '4'
+instant: When Shuriken of Negation enters play, you may interrupt target ability card. Thrown
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Shuriken

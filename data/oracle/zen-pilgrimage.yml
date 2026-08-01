@@ -2,8 +2,10 @@ card_name: Zen Pilgrimage
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

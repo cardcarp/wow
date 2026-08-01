@@ -10,4 +10,5 @@ artist: Lars Grant-West
 
 flavor: '"The Earth Mother provides all we need."'
 
-appearance: []
+variation:
+  - transform

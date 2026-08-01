@@ -2,23 +2,25 @@ card_name: Shelly
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 3
 
-text: If Shelly would be dealt combat damage, prevent 1 of that damage.
+combat: Melee
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: If Shelly would be dealt combat damage, prevent 1 of that damage.
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Turtle

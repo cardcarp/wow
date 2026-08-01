@@ -2,17 +2,19 @@ card_name: Outbreak
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Opposing allies have -X / -X this turn, where X is the cost of a Disease you control.
+cost: '4'
 
 class:
   - Death Knight
 
-cost: '4'
+rule:
+  - type: ability
+    text: Opposing allies have -X / -X this turn, where X is the cost of a Disease you control.
+
+regulation:
+
+errata: []
 
 temp: Unholy

@@ -2,22 +2,24 @@ card_name: Voidshrieker
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 1
 
 health: 2
 
-text: Protector
-
-cost: '1'
-
 combat: Shadow
 
-temp: Voidwalker Demon
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Voidwalker Demon

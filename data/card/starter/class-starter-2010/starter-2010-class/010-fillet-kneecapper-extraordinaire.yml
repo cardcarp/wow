@@ -10,4 +10,5 @@ artist: Warren Mahy
 
 flavor: '"My size is a disadvantage, eh? Do you think the enemy stands on their arms or something?"'
 
-appearance: []
+variation:
+  - transform

@@ -2,18 +2,20 @@ card_name: Hauberk of Desolation
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you strike with a weapon, you may ready an ally in your party.
+cost: '5'
 
 class:
   - Hunter
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: When you strike with a weapon, you may ready an ally in your party.
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

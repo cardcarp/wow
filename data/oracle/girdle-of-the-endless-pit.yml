@@ -2,18 +2,20 @@ card_name: Girdle of the Endless Pit
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the start of your turn, put 1 damage on your hero.
+cost: '1'
 
 class:
   - Paladin
   - Warrior
 
-cost: '1'
+rule:
+  - type: ability
+    text: At the start of your turn, put 1 damage on your hero.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

@@ -2,17 +2,19 @@ card_name: Frost Wave
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Up to two target allies can't attack or exhaust this turn. Draw a card.
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+instant: Up to two target allies can't attack or exhaust this turn. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Frost

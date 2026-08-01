@@ -2,17 +2,19 @@ card_name: Psychic Shriek
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put each ally into its owner's hand.
+cost: '4'
 
 class:
   - Priest
 
-cost: '4'
+rule:
+  - type: ability
+    text: Put each ally into its owner's hand.
+
+regulation:
+
+errata: []
 
 temp: Shadow

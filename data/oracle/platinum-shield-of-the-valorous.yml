@@ -2,19 +2,21 @@ card_name: Platinum Shield of the Valorous
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: This armor has +1 for each face-down resource you control.
+cost: '3'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: This armor has +1 for each face-down resource you control.
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

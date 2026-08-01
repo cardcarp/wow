@@ -10,4 +10,5 @@ artist: Zoltan Boros & Gabor Szikszai
 
 flavor:
 
-appearance: []
+variation:
+  - transform

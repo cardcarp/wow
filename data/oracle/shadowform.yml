@@ -2,17 +2,19 @@ card_name: Shadowform
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Shadow Hero Required Ongoing : If your hero would deal shadow damage, it deals that amount of damage plus 1 instead. When you play a Holy ability, destroy Shadowform.'
+cost: '3'
 
 class:
   - Priest
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Shadow Hero Required Ongoing : If your hero would deal shadow damage, it deals that amount of damage plus 1 instead. When you play a Holy ability, destroy Shadowform.'
+
+regulation:
+
+errata: []
 
 temp: Shadow Talent

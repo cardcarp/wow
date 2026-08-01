@@ -2,20 +2,22 @@ card_name: Soridormi
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 6
 
-text: 1 → Target ally you control has Protector , Elusive , Stealth , or Untargetable this turn.
-
-cost: '6'
-
 combat: Ranged
+
+rule:
+  - type: ability
+    text: 1 → Target ally you control has Protector , Elusive , Stealth , or Untargetable this turn.
+
+regulation:
+
+errata: []
 
 temp: Bronze Dragonkin Consort

@@ -2,24 +2,26 @@ card_name: Lady Blaumeux
 
 layout: standard
 
-regulation:
-
 category: Token
-
-errata: []
 
 damage: 3
 
 health: 10
 
-text: Long-Range At the end of your turn, the raid leader chooses a raiding ability or equipment. Remove it from the game.
-
 combat: Shadow
 
-temp: Human Death Knight Horseman
+type: Ally
 
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: Long-Range At the end of your turn, the raid leader chooses a raiding ability or equipment. Remove it from the game.
+  - type: ability
+    position: reverse
     text: Long-Range At the end of your turn, remove all raiding abilities and equipment from the game.
 
-type: Ally
+regulation:
+
+errata: []
+
+temp: Human Death Knight Horseman

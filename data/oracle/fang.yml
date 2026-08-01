@@ -2,23 +2,25 @@ card_name: Fang
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: Protector Allies you control have Assault 1 .
+combat: Melee
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: Protector Allies you control have Assault 1 .
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Wolf

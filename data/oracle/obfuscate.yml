@@ -2,17 +2,19 @@ card_name: Obfuscate
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Target hero or ally has +2 ATK while attacking and has Stealth this turn.
+cost: '1'
 
 class:
   - Rogue
 
-cost: '1'
+rule:
+  - type: ability
+    text: Target hero or ally has +2 ATK while attacking and has Stealth this turn.
+
+regulation:
+
+errata: []
 
 temp: Subtlety Combo

@@ -2,16 +2,19 @@ card_name: Chloe Mithrilbolt
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 30
 
-text: 1 , Flip Chloe → When Chloe protects this turn, ready her.
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 1 , Flip Chloe → When Chloe protects this turn, ready her.
+
+regulation:
+
+errata: []
 
 temp: Gnome Warrior

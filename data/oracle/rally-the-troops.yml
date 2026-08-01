@@ -2,14 +2,16 @@ card_name: Rally the Troops
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '3'
 
 instant: Allies in your party have +1 ATK this turn.
 
-cost: '3'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

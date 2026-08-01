@@ -2,18 +2,20 @@ card_name: Antonidass Aegis of Rapt Concentration
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-instant: Your ability cards can't be interrupted. Your abilities are Untargetable .
+cost: '3'
 
 class:
   - Paladin
   - Shaman
 
-cost: '3'
+instant: Your ability cards can't be interrupted. Your abilities are Untargetable .
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

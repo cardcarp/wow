@@ -2,12 +2,14 @@ card_name: Practice Makes Perfect
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: 'Ongoing : At the end of each turn, turn all quests completed this turn face up.'
 
-text: 'Ongoing : At the end of each turn, turn all quests completed this turn face up.'
+regulation:
+
+errata: []
 
 temp: ''

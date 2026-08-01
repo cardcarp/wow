@@ -2,18 +2,20 @@ card_name: Bloodstained Ravager Gauntlets
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → Double target weapon's ATK this turn.
+cost: '7'
 
 class:
   - Hunter
   - Shaman
 
-cost: '7'
+rule:
+  - type: ability
+    text: → Double target weapon's ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

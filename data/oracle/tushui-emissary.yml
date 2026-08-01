@@ -2,8 +2,10 @@ card_name: Tushui Emissary
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

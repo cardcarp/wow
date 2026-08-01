@@ -2,8 +2,10 @@ card_name: What Had To Be Done
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

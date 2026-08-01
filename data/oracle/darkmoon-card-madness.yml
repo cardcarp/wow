@@ -2,13 +2,9 @@ card_name: Darkmoon Card_ Madness
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: "On your turn: 2 , → Remove the top card of target opponent's deck from the game. If it's an ability, ally, or equipment card, he destroys a card of that kind he controls."
+cost: '4'
 
 class:
   - Priest
@@ -21,6 +17,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: "On your turn: 2 , → Remove the top card of target opponent's deck from the game. If it's an ability, ally, or equipment card, he destroys a card of that kind he controls."
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

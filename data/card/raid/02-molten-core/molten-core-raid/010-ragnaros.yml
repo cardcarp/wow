@@ -10,4 +10,5 @@ artist: Peter Lee (front), Greg Staples (back)
 
 flavor:
 
-appearance: []
+variation:
+  - transform

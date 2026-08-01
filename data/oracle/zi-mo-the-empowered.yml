@@ -2,16 +2,19 @@ card_name: Zi_mo the Empowered
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 25
 
-text: 1 , Flip Zi'mo → Zi'mo has +2 ATK while damaged this turn.
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 1 , Flip Zi'mo → Zi'mo has +2 ATK while damaged this turn.
+
+regulation:
+
+errata: []
 
 temp: Troll Mage

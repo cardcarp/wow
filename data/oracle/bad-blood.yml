@@ -2,8 +2,10 @@ card_name: Bad Blood
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,20 +2,22 @@ card_name: Azjol-anak Broodguard
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 4
 
-text: Nerubian Reputation This ally has +1 / +1 while an ally is in your graveyard.
-
-cost: '4'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Nerubian Reputation This ally has +1 / +1 while an ally is in your graveyard.
+
+regulation:
+
+errata: []
 
 temp: Nerubian

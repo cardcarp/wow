@@ -2,20 +2,22 @@ card_name: Sunstalker Maelan
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 6
 
 health: 5
 
-cost: '6'
-
 combat: Melee
 
 faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Rogue

@@ -2,18 +2,20 @@ card_name: Don Alejandros Money Belt
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → You may reveal an equipment card from your hand. If you do, put it into your resource row face down and exhausted.
+cost: '3'
 
 class:
   - Druid
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: → You may reveal an equipment card from your hand. If you do, put it into your resource row face down and exhausted.
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

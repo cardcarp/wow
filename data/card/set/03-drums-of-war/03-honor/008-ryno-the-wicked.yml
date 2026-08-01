@@ -10,4 +10,5 @@ artist: Dan Scott
 
 flavor: "\"Don't come back without their bones.\""
 
-appearance: []
+variation:
+  - transform

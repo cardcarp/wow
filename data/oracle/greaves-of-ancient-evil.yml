@@ -2,19 +2,21 @@ card_name: Greaves of Ancient Evil
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'When damage is prevented with this armor, Hero : Ready a weapon you control. Hero : Ready another armor you control. Hero : Ready your hero.'
+cost: '3'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'When damage is prevented with this armor, Hero : Ready a weapon you control. Hero : Ready another armor you control. Hero : Ready your hero.'
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

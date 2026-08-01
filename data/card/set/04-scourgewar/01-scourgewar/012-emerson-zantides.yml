@@ -10,4 +10,5 @@ artist: Dave Kendall
 
 flavor: '"Those who wish to fight against the Scourge must be willing to sacrifice life and limb."'
 
-appearance: []
+variation:
+  - transform

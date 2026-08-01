@@ -2,17 +2,19 @@ card_name: Divine Cleansing
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy any number of abilities attached to friendly cards.
+cost: '2'
 
 class:
   - Paladin
 
-cost: '2'
+rule:
+  - type: ability
+    text: Destroy any number of abilities attached to friendly cards.
+
+regulation:
+
+errata: []
 
 temp: Holy

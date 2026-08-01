@@ -2,22 +2,24 @@ card_name: Ashnaar, Frost Herald
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: Your hero has Assault X , where X is this ally's ATK.
-
-cost: '2'
-
 combat: Frost
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Your hero has Assault X , where X is this ally's ATK.
+
+regulation:
+
+errata: []
 
 temp: Draenei Mage

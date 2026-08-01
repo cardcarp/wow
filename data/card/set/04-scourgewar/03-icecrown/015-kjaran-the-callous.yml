@@ -10,4 +10,5 @@ artist: Mark Gibbons
 
 flavor: (like Beast Mastery Hero Required)
 
-appearance: []
+variation:
+  - transform

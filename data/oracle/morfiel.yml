@@ -2,23 +2,25 @@ card_name: Morfiel
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 4
 
-text: Opponents pay 1 more to play abilities.
+combat: Melee
 
 class:
   - Warlock
 
-cost: '4'
+rule:
+  - type: ability
+    text: Opponents pay 1 more to play abilities.
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Felhunter Demon

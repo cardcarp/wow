@@ -10,4 +10,5 @@ artist: James Ryman
 
 flavor: "\"Most goblins will choose the path that they think offers the greatest advantage. I guess I've found a way to harness the advantages of both the Light and the shadows.\""
 
-appearance: []
+variation:
+  - transform

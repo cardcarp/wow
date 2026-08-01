@@ -2,17 +2,19 @@ card_name: Infusion of Light
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero heals 3 damage from target hero or ally. Draw a card.
+cost: '2'
 
 class:
   - Paladin
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero heals 3 damage from target hero or ally. Draw a card.
+
+regulation:
+
+errata: []
 
 temp: Holy

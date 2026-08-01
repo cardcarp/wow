@@ -2,17 +2,19 @@ card_name: The Lights Largess
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Ongoing : Destroy The Light's Largess → Your hero heals 6 damage from target hero or ally."
+cost: '2'
 
 class:
   - Paladin
 
-cost: '2'
+rule:
+  - type: ability
+    text: "Ongoing : Destroy The Light's Largess → Your hero heals 6 damage from target hero or ally."
+
+regulation:
+
+errata: []
 
 temp: Holy

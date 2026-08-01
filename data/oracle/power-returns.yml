@@ -2,14 +2,16 @@ card_name: Power Returns
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '4'
 
 instant: Draw a card for each Blood in play. Destroy a Blood → Put Power Returns into your hand. Use only if Power Returns is in your graveyard.
 
-cost: '4'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

@@ -2,17 +2,19 @@ card_name: Lightning Storm
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals X nature damage divided as you choose to any number of target allies.
+cost: 2+X
 
 class:
   - Shaman
 
-cost: 2+X
+rule:
+  - type: ability
+    text: Your hero deals X nature damage divided as you choose to any number of target allies.
+
+regulation:
+
+errata: []
 
 temp: Elemental

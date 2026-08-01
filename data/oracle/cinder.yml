@@ -2,23 +2,25 @@ card_name: Cinder
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 4
 
 health: 2
 
-text: At the start of your turn, this ally may deal 1 fire damage to target hero or ally.
+combat: Fire
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: At the start of your turn, this ally may deal 1 fire damage to target hero or ally.
 
-combat: Fire
+regulation:
+
+errata: []
 
 temp: Dragonhawk

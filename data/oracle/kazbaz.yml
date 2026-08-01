@@ -2,22 +2,24 @@ card_name: Kazbaz
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: Protector Elusive
-
-cost: '2'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Elusive
+
+regulation:
+
+errata: []
 
 temp: Goblin Warrior

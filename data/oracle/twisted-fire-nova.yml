@@ -2,17 +2,19 @@ card_name: Twisted Fire Nova
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: As an additional cost to play this ability, destroy an ability, ally, or equipment you control. Your hero deals 7 fire damage divided as you choose to any number of target heroes and/or allies.
+cost: '5'
 
 class:
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: As an additional cost to play this ability, destroy an ability, ally, or equipment you control. Your hero deals 7 fire damage divided as you choose to any number of target heroes and/or allies.
+
+regulation:
+
+errata: []
 
 temp: Elemental

@@ -2,16 +2,19 @@ card_name: Ghoulmaster Kalisa
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 'On your turn: 2 , Discard an ally, flip Kalisa → Put a 3 / 3 Ghoul ally token into play.'
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 2 , Discard an ally, flip Kalisa → Put a 3 / 3 Ghoul ally token into play.'
+
+regulation:
+
+errata: []
 
 temp: Undead Death Knight

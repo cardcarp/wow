@@ -2,12 +2,14 @@ card_name: Spirits of Auchindoun
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Turn one of your other face-up resources face down to complete this quest. Reward : Draw a card.'
 
-text: 'Turn one of your other face-up resources face down to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

@@ -2,20 +2,22 @@ card_name: Darkwater Crocolisk
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 4
 
-cost: '4'
-
 combat: Melee
 
-temp: Crocolisk Beast
-
 type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Crocolisk Beast

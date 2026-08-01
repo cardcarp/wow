@@ -2,16 +2,18 @@ card_name: Ice-Cold Refreshment
 
 layout: standard
 
-regulation:
-
 category: Event
-
-errata: []
-
-text: Draw three cards.
-
-temp: ''
 
 type: Raid
 
 stage: 11
+
+rule:
+  - type: ability
+    text: Draw three cards.
+
+regulation:
+
+errata: []
+
+temp: ''

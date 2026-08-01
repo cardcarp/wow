@@ -2,19 +2,21 @@ card_name: Colossal Skull-Clad Cleaver
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When an opposing ally is destroyed, add a skull counter to this weapon. This weapon has Assault 1 for each skull counter on it.
+cost: '5'
 
 class:
   - Warrior
   - Death Knight
   - Shaman
 
-cost: '5'
+rule:
+  - type: ability
+    text: When an opposing ally is destroyed, add a skull counter to this weapon. This weapon has Assault 1 for each skull counter on it.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Axe

@@ -10,4 +10,5 @@ artist: Wei Wang
 
 flavor: '"The Lich King and his wretched minions will soon regret their decision to defile what was once my honorable death."'
 
-appearance: []
+variation:
+  - transform

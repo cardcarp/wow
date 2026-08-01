@@ -2,12 +2,14 @@ card_name: Soup for the Soul
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Soup for the Soul enters play exhausted. Pay 4 to complete this quest. Reward : Draw a card.'
 
-text: 'Soup for the Soul enters play exhausted. Pay 4 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

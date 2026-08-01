@@ -2,14 +2,16 @@ card_name: Will of the Legion
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '2'
 
 instant: Interrupt target ability, ally, or equipment card. If Magtheridon is Unleashed, gain a Blood.
 
-cost: '2'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

@@ -2,20 +2,22 @@ card_name: Void Terror
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 5
 
-cost: '5'
-
 combat: Melee
 
-temp: Void Terror Demon
-
 type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Void Terror Demon

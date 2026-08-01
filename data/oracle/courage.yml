@@ -2,14 +2,16 @@ card_name: Courage
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally. Ongoing : Attached ally has +2 .'
-
 cost: '1'
+
+rule:
+  - type: ability
+    text: 'Attach to target ally. Ongoing : Attached ally has +2 .'
+
+regulation:
+
+errata: []
 
 temp: ''

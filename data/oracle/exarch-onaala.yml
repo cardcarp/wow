@@ -2,20 +2,22 @@ card_name: Exarch Onaala
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '8'
 
 damage: 4
 
 health: 8
 
-text: Aldor Reputation 5 → Onaala deals 4 unpreventable holy damage to target hero or ally. Use only on your turn. 4 → Onaala heals 14 damage from target hero or ally. Use only on your turn.
-
-cost: '8'
-
 combat: Holy
+
+rule:
+  - type: ability
+    text: Aldor Reputation 5 → Onaala deals 4 unpreventable holy damage to target hero or ally. Use only on your turn. 4 → Onaala heals 14 damage from target hero or ally. Use only on your turn.
+
+regulation:
+
+errata: []
 
 temp: Draenai Priest

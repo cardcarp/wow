@@ -2,17 +2,19 @@ card_name: Fearless Strike
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Weapons you control have +4 ATK this turn.
+cost: '2'
 
 class:
   - Warrior
 
-cost: '2'
+rule:
+  - type: ability
+    text: Weapons you control have +4 ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: Arms

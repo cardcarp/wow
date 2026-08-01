@@ -2,25 +2,27 @@ card_name: Tidal Totem
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '2'
 
 damage: 0
 
 health: 3
 
-instant: "Ongoing : When this Totem enters play, it heals 3 damage from target hero or ally. Mend 3 (Totems can't attack.)"
+combat: Frost
 
 class:
   - Shaman
 
-cost: '2'
-
-combat: Frost
-
-temp: Restoration
+instant: "Ongoing : When this Totem enters play, it heals 3 damage from target hero or ally. Mend 3 (Totems can't attack.)"
 
 type: Ally
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

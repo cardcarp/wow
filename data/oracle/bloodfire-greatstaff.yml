@@ -2,13 +2,9 @@ card_name: Bloodfire Greatstaff
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 3 , → Exhaust target ally.
+cost: '3'
 
 class:
   - Priest
@@ -17,6 +13,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: 3 , → Exhaust target ally.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

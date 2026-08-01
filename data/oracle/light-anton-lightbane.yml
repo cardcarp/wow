@@ -2,8 +2,10 @@ card_name: Light Anton Lightbane
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

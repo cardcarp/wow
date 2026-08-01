@@ -2,20 +2,22 @@ card_name: Benethor Draigo
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 4
 
 health: 2
 
-cost: '3'
-
 combat: Fire
 
 faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Undead Mage

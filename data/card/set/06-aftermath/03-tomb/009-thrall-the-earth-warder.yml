@@ -10,4 +10,5 @@ artist: Ruan Jia
 
 flavor: '"Taretha ... Cairne ... Aggra ... I will not fail you. I will not fail this world!"'
 
-appearance: []
+variation:
+  - transform

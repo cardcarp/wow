@@ -10,4 +10,5 @@ artist: Alex Horley Orlandelli
 
 flavor: Cult of the Dark Strand
 
-appearance: []
+variation:
+  - transform

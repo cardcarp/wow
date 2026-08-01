@@ -2,19 +2,21 @@ card_name: Sword of a Thousand Truths
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals combat damage with Sword of a Thousand Truths to a hero, that hero's controller discards his hand.
+cost: '8'
 
 class:
   - Paladin
   - Warrior
   - Rogue
 
-cost: '8'
+rule:
+  - type: ability
+    text: When your hero deals combat damage with Sword of a Thousand Truths to a hero, that hero's controller discards his hand.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

@@ -2,17 +2,19 @@ card_name: Swirling Flames
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: This turn, your hero has " 1 → Your hero deals 1 fire damage to target hero or ally."
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: This turn, your hero has " 1 → Your hero deals 1 fire damage to target hero or ally."
+
+regulation:
+
+errata: []
 
 temp: Fire

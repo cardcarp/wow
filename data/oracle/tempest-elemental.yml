@@ -2,25 +2,27 @@ card_name: Tempest Elemental
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 5
 
 health: 5
 
-text: At the start of your turn, put an ally you control into its owner's hand.
+combat: Nature
 
 class:
   - Shaman
 
-cost: '4'
+type: Monster
 
-combat: Nature
+rule:
+  - type: ability
+    text: At the start of your turn, put an ally you control into its owner's hand.
+
+regulation:
+
+errata: []
 
 temp: Air Elemental
-
-type: Monster

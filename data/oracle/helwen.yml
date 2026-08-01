@@ -2,23 +2,25 @@ card_name: Helwen
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 2
 
 health: 2
 
-text: You may choose not to ready Helwen during your ready step. → While Helwen remains exhausted, you control target ally.
+combat: Shadow
 
 class:
   - Warlock
 
-cost: '4'
+rule:
+  - type: ability
+    text: You may choose not to ready Helwen during your ready step. → While Helwen remains exhausted, you control target ally.
 
-combat: Shadow
+regulation:
+
+errata: []
 
 temp: Succubus Demon

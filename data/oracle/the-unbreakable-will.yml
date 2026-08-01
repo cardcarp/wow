@@ -2,13 +2,9 @@ card_name: The Unbreakable Will
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: This weapon enters play with a +1 ATK counter for each face-up resource you control.
+cost: '4'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Death Knight
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: This weapon enters play with a +1 ATK counter for each face-up resource you control.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

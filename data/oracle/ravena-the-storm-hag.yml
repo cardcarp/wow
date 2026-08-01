@@ -2,8 +2,10 @@ card_name: Ravena The Storm Hag
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

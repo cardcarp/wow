@@ -2,14 +2,16 @@ card_name: Explosive Heat
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Deathwing deals 10 fire damage to the Raiding heroes divided as the Raiders choose.
+
+regulation:
 
 errata: []
 
-text: Deathwing deals 10 fire damage to the Raiding heroes divided as the Raiders choose.
-
 temp: ''
-
-type: Boss

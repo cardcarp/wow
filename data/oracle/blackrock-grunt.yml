@@ -2,8 +2,10 @@ card_name: Blackrock Grunt
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

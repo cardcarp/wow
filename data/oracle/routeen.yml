@@ -2,22 +2,24 @@ card_name: Routeen
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 2
 
 health: 1
 
-text: → This ally deals 1 fire damage to target hero or ally that was dealt damage this turn.
-
-cost: '1'
-
 combat: Fire
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: → This ally deals 1 fire damage to target hero or ally that was dealt damage this turn.
+
+regulation:
+
+errata: []
 
 temp: Draenei Mage

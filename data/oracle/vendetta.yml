@@ -2,17 +2,19 @@ card_name: Vendetta
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Assassination Talent Destroy target exhausted ally, or gain control of it if you have no cards in your hand.
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: Assassination Talent Destroy target exhausted ally, or gain control of it if you have no cards in your hand.
+
+regulation:
+
+errata: []
 
 temp: Assassination

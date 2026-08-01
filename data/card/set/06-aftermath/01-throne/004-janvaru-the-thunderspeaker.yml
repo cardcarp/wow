@@ -10,4 +10,5 @@ artist: Steve Tappin
 
 flavor: '"Be one with the storm. It can be gentle and provide healing rains, or it can bring destruction and chaos."'
 
-appearance: []
+variation:
+  - transform

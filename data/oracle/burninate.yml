@@ -2,14 +2,16 @@ card_name: Burninate
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy all opposing abilities, allies, and equipment.
-
 cost: '8'
+
+rule:
+  - type: ability
+    text: Destroy all opposing abilities, allies, and equipment.
+
+regulation:
+
+errata: []
 
 temp: ''

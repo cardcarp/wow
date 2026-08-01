@@ -2,22 +2,24 @@ card_name: Rahn Grimstaff
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 3
 
-text: → Target hero or ally has -1 health this turn.
-
-cost: '2'
-
 combat: Shadow
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: → Target hero or ally has -1 health this turn.
+
+regulation:
+
+errata: []
 
 temp: Human Warlock

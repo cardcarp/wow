@@ -2,22 +2,24 @@ card_name: Tal_zin
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 3
 
-text: Protector When you strike with a weapon, you may ready Tal'zin.
-
-cost: '4'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When you strike with a weapon, you may ready Tal'zin.
+
+regulation:
+
+errata: []
 
 temp: Troll Death Knight

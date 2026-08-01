@@ -2,25 +2,27 @@ card_name: Gakuri
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 4
 
-text: ', Destroy another Monster or Demon ally you control → This ally deals 4 fire damage to target hero or ally.'
+combat: Fire
 
 class:
   - Warlock
 
-cost: '3'
+type: Monster
 
-combat: Fire
+rule:
+  - type: ability
+    text: ', Destroy another Monster or Demon ally you control → This ally deals 4 fire damage to target hero or ally.'
+
+regulation:
+
+errata: []
 
 temp: Imp Demon
-
-type: Monster

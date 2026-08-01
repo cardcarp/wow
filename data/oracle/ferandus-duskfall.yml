@@ -2,22 +2,24 @@ card_name: Ferandus Duskfall
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 4
 
-text: Protector When this ally defends, you may ready target weapon.
-
-cost: '4'
-
 combat: Shadow
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When this ally defends, you may ready target weapon.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Death Knight

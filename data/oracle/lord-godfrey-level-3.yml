@@ -2,20 +2,23 @@ card_name: Lord Godfrey - Level 3
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 damage: 0
 
 health: 50
 
-text: 'Level Up: Dead Flip 2 Assault 10 , Long-Range'
-
 combat: Shadow
 
-temp: Undead Lord
-
 type: Dungeon
+
+rule:
+  - type: ability
+    position: front
+    text: 'Level Up: Dead Flip 2 Assault 10 , Long-Range'
+
+regulation:
+
+errata: []
+
+temp: Undead Lord

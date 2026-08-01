@@ -2,19 +2,21 @@ card_name: Wand of the Seer
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals damage with an ability to a hero, it also deals that much nature damage divided as you choose to any number of target allies.
+cost: '4'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '4'
+rule:
+  - type: ability
+    text: When your hero deals damage with an ability to a hero, it also deals that much nature damage divided as you choose to any number of target allies.
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Wand

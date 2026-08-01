@@ -10,4 +10,5 @@ artist: Mike Sass
 
 flavor: '"The Light has chosen me to aid those in need."'
 
-appearance: []
+variation:
+  - transform

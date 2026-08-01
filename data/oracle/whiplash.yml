@@ -2,14 +2,16 @@ card_name: Whiplash
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '1'
 
 instant: Exhaust an opposing ally for each card above seven in your hand. If Magtheridon is Unleashed, gain a Blood.
 
-cost: '1'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

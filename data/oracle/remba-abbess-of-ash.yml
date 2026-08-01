@@ -2,16 +2,19 @@ card_name: Remba, Abbess of Ash
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 26
 
-text: 4 , Flip Remba → Gain control of target ally with an attachment. Use only on your turn. Shadowforge
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 4 , Flip Remba → Gain control of target ally with an attachment. Use only on your turn. Shadowforge
+
+regulation:
+
+errata: []
 
 temp: Dwarf Priest

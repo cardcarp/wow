@@ -10,4 +10,5 @@ artist: Alex Horley Orlandelli
 
 flavor: "\"It's not me, it's the spirits, mon. Dey be angry wit choo.\""
 
-appearance: []
+variation:
+  - transform

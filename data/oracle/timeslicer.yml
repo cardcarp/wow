@@ -2,13 +2,9 @@ card_name: Timeslicer
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has Dual Wield .
+cost: '3'
 
 class:
   - Warrior
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: Your hero has Dual Wield .
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

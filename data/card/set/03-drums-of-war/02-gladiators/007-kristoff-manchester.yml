@@ -10,4 +10,5 @@ artist: Phroilan Gardner
 
 flavor: "\"Feeling weak? Well, I've never felt better!\""
 
-appearance: []
+variation:
+  - transform

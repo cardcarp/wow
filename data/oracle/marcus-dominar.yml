@@ -2,22 +2,24 @@ card_name: Marcus Dominar
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 4
 
-text: Protector Aberration
-
-cost: '5'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Aberration
+
+regulation:
+
+errata: []
 
 temp: Worgen Warrior

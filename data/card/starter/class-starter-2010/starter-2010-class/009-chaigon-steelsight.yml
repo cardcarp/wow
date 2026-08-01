@@ -10,4 +10,5 @@ artist: Brandon Kitkouski
 
 flavor: The wilds of Outland were a far cry from Dun Morogh, but Chaigon always liked a challenge.
 
-appearance: []
+variation:
+  - transform

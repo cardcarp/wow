@@ -10,4 +10,5 @@ artist: R.K. Post
 
 flavor: '"Speak your mind, Alliance fool. I would hear your last words."'
 
-appearance: []
+variation:
+  - transform

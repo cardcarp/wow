@@ -2,17 +2,19 @@ card_name: Stormstrike
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Enhancement Hero Required Ready your hero and one of your Melee weapons. The next time your hero would deal nature damage this turn, it deals that much damage +2 instead.
+cost: '1'
 
 class:
   - Shaman
 
-cost: '1'
+instant: Enhancement Hero Required Ready your hero and one of your Melee weapons. The next time your hero would deal nature damage this turn, it deals that much damage +2 instead.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Enhancement Talent

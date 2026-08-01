@@ -2,12 +2,14 @@ card_name: Fire the Cannon
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : Reveal the top five cards of your deck. Put a revealed card in your hand and the rest on the bottom of your deck. (A card is a card with in its lower-left corner.)'
 
-text: 'Pay 3 to complete this quest. Reward : Reveal the top five cards of your deck. Put a revealed card in your hand and the rest on the bottom of your deck. (A card is a card with in its lower-left corner.)'
+regulation:
+
+errata: []
 
 temp: ''

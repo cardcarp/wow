@@ -2,18 +2,20 @@ card_name: Masquerade Gown
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → Target ally in your party becomes a copy of a second target ally in your party this turn.
+cost: '6'
 
 class:
   - Druid
   - Priest
 
-cost: '6'
+rule:
+  - type: ability
+    text: → Target ally in your party becomes a copy of a second target ally in your party this turn.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

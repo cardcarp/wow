@@ -2,13 +2,9 @@ card_name: Bottled Elements
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'When this item enters play, ready target hero or ally. On your turn: Exhaust a Shaman hero or ally you control and destroy this item → Ready target hero or ally.'
+cost: '3'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'When this item enters play, ready target hero or ally. On your turn: Exhaust a Shaman hero or ally you control and destroy this item → Ready target hero or ally.'
+
+regulation:
+
+errata: []
 
 temp: Item Potion

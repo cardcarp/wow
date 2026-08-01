@@ -2,14 +2,16 @@ card_name: Lava Spit
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '1'
 
 instant: Your hero deals 2 fire damage to target opposing ally. If your hero is Magmadar, he also deals 2 fire damage to each other hero and ally in that ally's party.
 
-cost: '1'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Molten Core

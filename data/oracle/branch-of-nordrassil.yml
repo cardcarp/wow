@@ -2,13 +2,9 @@ card_name: Branch of Nordrassil
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you draw a card, you may put a 1 / 1 Treant ally token into play.
+cost: '6'
 
 class:
   - Priest
@@ -17,6 +13,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '6'
+rule:
+  - type: ability
+    text: When you draw a card, you may put a 1 / 1 Treant ally token into play.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

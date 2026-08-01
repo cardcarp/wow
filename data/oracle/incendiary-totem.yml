@@ -2,17 +2,19 @@ card_name: Incendiary Totem
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : At the start of your turn, this ability deals 3 fire damage to target hero or ally. Death Rattle : Your hero deals 3 fire damage to target hero or ally.'
+cost: '3'
 
 class:
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, this ability deals 3 fire damage to target hero or ally. Death Rattle : Your hero deals 3 fire damage to target hero or ally.'
+
+regulation:
+
+errata: []
 
 temp: Elemental 1

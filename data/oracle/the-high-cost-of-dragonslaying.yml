@@ -2,14 +2,16 @@ card_name: The High Cost of Dragonslaying
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: You may destroy target equipment.
+
+regulation:
 
 errata: []
 
-text: You may destroy target equipment.
-
 temp: ''
-
-type: Raid

@@ -2,23 +2,25 @@ card_name: Jhuunash
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 0
 
 health: 0
 
-text: Demonology Hero Required Protector This ally has +1 / +1 for each resource you control.
+combat: Melee
 
 class:
   - Warlock
 
-cost: '3'
+rule:
+  - type: ability
+    text: Demonology Hero Required Protector This ally has +1 / +1 for each resource you control.
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Felguard Demon Demonology Talent

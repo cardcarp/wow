@@ -2,18 +2,20 @@ card_name: Tempest of Chaos
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the start of your turn, target a random opposing hero or ally. Put a chaos counter on Tempest of Chaos, and then your hero deals 1 fire damage to that character for each chaos counter.
+cost: '3'
 
 class:
   - Warlock
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: At the start of your turn, target a random opposing hero or ally. Put a chaos counter on Tempest of Chaos, and then your hero deals 1 fire damage to that character for each chaos counter.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

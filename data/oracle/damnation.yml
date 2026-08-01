@@ -2,19 +2,21 @@ card_name: Damnation
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'Opposing cards everywhere have " Death Rattle : Your hero deals 1 shadow damage to itself."'
+cost: '4'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Opposing cards everywhere have " Death Rattle : Your hero deals 1 shadow damage to itself."'
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

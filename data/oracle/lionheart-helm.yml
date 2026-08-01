@@ -2,18 +2,20 @@ card_name: Lionheart Helm
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Damage dealt by your hero can't be prevented.
+cost: '4'
 
 class:
   - Paladin
   - Warrior
 
-cost: '4'
+rule:
+  - type: ability
+    text: Damage dealt by your hero can't be prevented.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

@@ -2,22 +2,24 @@ card_name: Lena Naville
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 1
 
 health: 2
 
-text: 'Mend 2 Stash : Your hero heals 2 damage from target ally.'
-
-cost: '1'
-
 combat: Holy
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: 'Mend 2 Stash : Your hero heals 2 damage from target ally.'
+
+regulation:
+
+errata: []
 
 temp: Undead Priest

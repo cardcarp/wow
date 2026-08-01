@@ -2,18 +2,20 @@ card_name: Last Laugh
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When this weapon enters play, target opponent gains control of it until the start of your next turn.
+cost: '5'
 
 class:
   - Warrior
   - Death Knight
 
-cost: '5'
+rule:
+  - type: ability
+    text: When this weapon enters play, target opponent gains control of it until the start of your next turn.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

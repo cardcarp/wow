@@ -2,13 +2,11 @@ card_name: Talisman of the Alliance
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '3'
 
-text: ', Destroy this item → Destroy all abilities and equipment that have or share the lowest cost among abilities and equipment in play.'
+faction: Alliance
 
 class:
   - Priest
@@ -21,8 +19,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: ', Destroy this item → Destroy all abilities and equipment that have or share the lowest cost among abilities and equipment in play.'
 
-faction: Alliance
+regulation:
+
+errata: []
 
 temp: Item Trinket

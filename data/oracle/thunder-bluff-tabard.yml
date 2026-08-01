@@ -2,13 +2,11 @@ card_name: Thunder Bluff Tabard
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '2'
 
-text: 3 , → Your hero heals 3 damage from itself. You pay 1 less to use this power for each Tauren ally you control.
+faction: Horde
 
 class:
   - Priest
@@ -22,8 +20,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: 3 , → Your hero heals 3 damage from itself. You pay 1 less to use this power for each Tauren ally you control.
 
-faction: Horde
+regulation:
+
+errata: []
 
 temp: Item Tabard

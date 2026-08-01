@@ -10,4 +10,5 @@ artist: Glenn Rane
 
 flavor: '"For so long, we knew only the ways of the Light. How wondrous is it to discover that nature itself can speak!"'
 
-appearance: []
+variation:
+  - transform

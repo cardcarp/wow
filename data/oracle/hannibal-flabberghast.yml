@@ -2,8 +2,10 @@ card_name: Hannibal Flabberghast
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

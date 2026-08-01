@@ -2,17 +2,19 @@ card_name: Demonic Pact
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'This ability enters play with X pact counters on it. Ongoing : At the start of your turn, put 1 damage on your hero, draw a card, and remove a pact counter from this ability. Then, if none remain, destroy this ability.'
+cost: X
 
 class:
   - Warlock
 
-cost: X
+rule:
+  - type: ability
+    text: 'This ability enters play with X pact counters on it. Ongoing : At the start of your turn, put 1 damage on your hero, draw a card, and remove a pact counter from this ability. Then, if none remain, destroy this ability.'
+
+regulation:
+
+errata: []
 
 temp: Demonology

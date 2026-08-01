@@ -10,4 +10,5 @@ artist: Mike Nicholson
 
 flavor: '"Patchwerk want to play!"'
 
-appearance: []
+variation:
+  - transform

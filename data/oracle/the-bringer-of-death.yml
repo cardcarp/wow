@@ -2,19 +2,21 @@ card_name: The Bringer of Death
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 3 , , Destroy The Bringer of Death → Destroy all abilities, allies, and equipment. Use only on your turn.
+cost: '5'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '5'
+rule:
+  - type: ability
+    text: 3 , , Destroy The Bringer of Death → Destroy all abilities, allies, and equipment. Use only on your turn.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Staff

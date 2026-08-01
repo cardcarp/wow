@@ -2,23 +2,25 @@ card_name: Venomstrike
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 1
 
 health: 5
 
-text: At the end of each turn, Venomstrike deals 4 nature damage to each hero and ally it dealt damage to this turn.
+combat: Melee
 
 class:
   - Hunter
 
-cost: '4'
+rule:
+  - type: ability
+    text: At the end of each turn, Venomstrike deals 4 nature damage to each hero and ally it dealt damage to this turn.
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Scorpid

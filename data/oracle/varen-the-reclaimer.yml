@@ -2,20 +2,22 @@ card_name: Varen the Reclaimer
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '8'
 
 damage: 6
 
 health: 8
 
-text: 'Scryer Reputation Sabotage: Game When Varen sabotages a game, the winner of this game also wins the next game.'
-
-cost: '8'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: 'Scryer Reputation Sabotage: Game When Varen sabotages a game, the winner of this game also wins the next game.'
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Mage

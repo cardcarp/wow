@@ -2,13 +2,9 @@ card_name: Wisp Amulet
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When a non-token ally in your party is destroyed, put a 0 / 1 Wisp ally token into play. Wisps you control have Harmonize .
+cost: '4'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: When a non-token ally in your party is destroyed, put a 0 / 1 Wisp ally token into play. Wisps you control have Harmonize .
+
+regulation:
+
+errata: []
 
 temp: Item

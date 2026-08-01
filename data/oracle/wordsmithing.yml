@@ -2,12 +2,14 @@ card_name: Wordsmithing
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: 'Ongoing : Players may read their cards that say "or" as if they said "and."'
 
-text: 'Ongoing : Players may read their cards that say "or" as if they said "and."'
+regulation:
+
+errata: []
 
 temp: ''

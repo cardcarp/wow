@@ -2,12 +2,14 @@ card_name: Return to the Aldor
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Aldor Reputation If you have another Aldor card in play, pay 2 to complete this quest. Reward : Draw a card.'
 
-text: 'Aldor Reputation If you have another Aldor card in play, pay 2 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

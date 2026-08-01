@@ -2,14 +2,16 @@ card_name: Moonstrike
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: The Caverns hero deals 10 arcane damage to the Raiding heroes divided as the Raiders choose. If Tyrande is the Caverns hero, she deals 30 arcane damage to the Raiding heroes divided as the Raiders choose instead.
+
+regulation:
 
 errata: []
 
-text: The Caverns hero deals 10 arcane damage to the Raiding heroes divided as the Raiders choose. If Tyrande is the Caverns hero, she deals 30 arcane damage to the Raiding heroes divided as the Raiders choose instead.
-
 temp: Echo of Tyrande
-
-type: Boss

@@ -2,20 +2,22 @@ card_name: Al_Akir the Windlord
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 7
 
 health: 5
 
-text: Air Elementals you control have Untargetable . At the start of your turn, put a 2 / 1 Air Elemental ally token into play. Exhaust an Air Elemental you control → Exhaust target ally.
-
-cost: '7'
-
 combat: Nature
+
+rule:
+  - type: ability
+    text: Air Elementals you control have Untargetable . At the start of your turn, put a 2 / 1 Air Elemental ally token into play. Exhaust an Air Elemental you control → Exhaust target ally.
+
+regulation:
+
+errata: []
 
 temp: Air Elemental Lord

@@ -2,18 +2,20 @@ card_name: The Hands of Fate
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: The Hands of Fate enters play with three +1 DEF counters if an opponent went first this game.
+cost: '2'
 
 class:
   - Paladin
   - Warrior
 
-cost: '2'
+rule:
+  - type: ability
+    text: The Hands of Fate enters play with three +1 DEF counters if an opponent went first this game.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

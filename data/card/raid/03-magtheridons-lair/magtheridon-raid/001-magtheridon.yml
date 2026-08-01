@@ -10,4 +10,5 @@ artist: Glenn Rane
 
 flavor:
 
-appearance: []
+variation:
+  - transform

@@ -2,16 +2,19 @@ card_name: Keegana Silvershield
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 5 , Flip Keegana → Exhaust all opposing heroes and allies. Keegana deals 1 holy damage to each of them. Use only on your turn.
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 5 , Flip Keegana → Exhaust all opposing heroes and allies. Keegana deals 1 holy damage to each of them. Use only on your turn.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Paladin

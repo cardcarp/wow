@@ -2,22 +2,24 @@ card_name: Archbishop Benedictus
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 0
 
 health: 1
 
-text: Heroes and allies can't attack.
-
-cost: '4'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Heroes and allies can't attack.
+
+regulation:
+
+errata: []
 
 temp: Human Priest

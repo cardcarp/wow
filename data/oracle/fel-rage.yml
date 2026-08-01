@@ -2,14 +2,16 @@ card_name: Fel Rage
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '2'
 
 instant: 'Choose one: Draw three cards; or discard your hand and draw five cards.'
 
-cost: '2'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Black Temple

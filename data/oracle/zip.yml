@@ -2,23 +2,25 @@ card_name: Zip
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 3
 
-text: Ferocity
+combat: Melee
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: Ferocity
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Tallstrider

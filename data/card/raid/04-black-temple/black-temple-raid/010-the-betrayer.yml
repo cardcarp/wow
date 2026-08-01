@@ -10,4 +10,5 @@ artist: Glenn Rane (front), Matt Cavotta (back)
 
 flavor:
 
-appearance: []
+variation:
+  - transform

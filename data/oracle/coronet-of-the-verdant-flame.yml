@@ -2,8 +2,10 @@ card_name: Coronet Of The Verdant Flame
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,20 +2,22 @@ card_name: Retainer Ryn
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 3
 
-text: "Scryer Reputation Sabotage: Player When Ryn sabotages a player, that player chooses an ability, ally, equipment, or resource he controls and puts it on top of its owner's deck."
-
-cost: '4'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: "Scryer Reputation Sabotage: Player When Ryn sabotages a player, that player chooses an ability, ally, equipment, or resource he controls and puts it on top of its owner's deck."
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Rogue

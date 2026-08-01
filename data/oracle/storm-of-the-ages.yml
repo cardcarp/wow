@@ -2,17 +2,19 @@ card_name: Storm of the Ages
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Rift Your hero deals X nature damage divided as you choose to any number of target heroes and/or allies.
+cost: 2+X
 
 class:
   - Shaman
 
-cost: 2+X
+rule:
+  - type: ability
+    text: Rift Your hero deals X nature damage divided as you choose to any number of target heroes and/or allies.
+
+regulation:
+
+errata: []
 
 temp: Elemental

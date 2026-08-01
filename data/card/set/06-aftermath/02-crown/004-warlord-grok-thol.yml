@@ -10,4 +10,5 @@ artist: Benjamin Zhang
 
 flavor: '"While the Forest Lord directs all of his attention towards Ragnaros, the Guardians of Hyjal will quickly fall before our surprise assault!" - Grok "Kill them we will!" - Thol'
 
-appearance: []
+variation:
+  - transform

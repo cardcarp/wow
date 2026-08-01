@@ -2,14 +2,16 @@ card_name: Wing Buffet
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Exhaust all opposing allies. They can't ready during their controllers' next ready step.
-
 cost: '2'
+
+rule:
+  - type: ability
+    text: Exhaust all opposing allies. They can't ready during their controllers' next ready step.
+
+regulation:
+
+errata: []
 
 temp: ''

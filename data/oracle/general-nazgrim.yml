@@ -2,8 +2,10 @@ card_name: General Nazgrim
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

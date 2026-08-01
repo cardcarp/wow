@@ -2,18 +2,20 @@ card_name: Tarnished Raging Berserkers Helm
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'If this armor has three or more heirloom counters: → Ready up to three other target cards you control. Stash : Add an heirloom counter to target equipment you control.'
+cost: '3'
 
 class:
   - Hunter
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'If this armor has three or more heirloom counters: → Ready up to three other target cards you control. Stash : Add an heirloom counter to target equipment you control.'
+
+regulation:
+
+errata: []
 
 temp: Armor Mail

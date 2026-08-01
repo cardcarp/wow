@@ -2,17 +2,19 @@ card_name: Bristleblitz Striker
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Long-Range When you play an ability, this weapon has +1 ATK this turn.
+cost: '4'
 
 class:
   - Hunter
 
-cost: '4'
+rule:
+  - type: ability
+    text: Long-Range When you play an ability, this weapon has +1 ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Bow

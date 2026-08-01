@@ -2,13 +2,9 @@ card_name: Bladefists Breadth
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you play a weapon, ready your hero.
+cost: '3'
 
 class:
   - Warrior
@@ -18,6 +14,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: When you play a weapon, ready your hero.
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

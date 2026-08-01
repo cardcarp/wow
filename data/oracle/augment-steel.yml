@@ -2,17 +2,19 @@ card_name: Augment Steel
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Put target equipment from your graveyard into play if its cost is less than or equal to the number of resources you control. It enters play with three +1 ATK counters if it's a weapon, or three +1 counters if it's an armor.
+cost: '5'
 
 class:
   - Warrior
 
-cost: '5'
+rule:
+  - type: ability
+    text: Put target equipment from your graveyard into play if its cost is less than or equal to the number of resources you control. It enters play with three +1 ATK counters if it's a weapon, or three +1 counters if it's an armor.
+
+regulation:
+
+errata: []
 
 temp: Arms

@@ -10,4 +10,5 @@ artist: Jason Chan
 
 flavor: '"I beseech the wind and sky - heed me now and hear my cry!"'
 
-appearance: []
+variation:
+  - transform

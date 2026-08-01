@@ -2,20 +2,22 @@ card_name: Lord Godfrey
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 2
 
 health: 6
 
-text: At the start of your turn, put two 3 / 3 Ghoul ally tokens into play. At the end of your turn, Godfrey deals 1 shadow damage to target opposing hero or ally for each Ghoul you control.
-
-cost: '6'
-
 combat: Shadow
+
+rule:
+  - type: ability
+    text: At the start of your turn, put two 3 / 3 Ghoul ally tokens into play. At the end of your turn, Godfrey deals 1 shadow damage to target opposing hero or ally for each Ghoul you control.
+
+regulation:
+
+errata: []
 
 temp: Undead Lord

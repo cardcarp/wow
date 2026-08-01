@@ -2,17 +2,19 @@ card_name: Assassins Grace
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : → Target ally has Stealth this turn. → Target ally with Stealth has Assault 2 this turn.'
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : → Target ally has Stealth this turn. → Target ally with Stealth has Assault 2 this turn.'
+
+regulation:
+
+errata: []
 
 temp: Subtlety

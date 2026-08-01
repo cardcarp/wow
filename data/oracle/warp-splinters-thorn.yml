@@ -2,13 +2,9 @@ card_name: Warp Splinters Thorn
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has Dual Wield . 1 , Destroy one of your Daggers → Your hero deals 2 ranged damage to target ally.
+cost: '2'
 
 class:
   - Warrior
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero has Dual Wield . 1 , Destroy one of your Daggers → Your hero deals 2 ranged damage to target ally.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

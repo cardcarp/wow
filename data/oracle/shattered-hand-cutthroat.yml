@@ -2,22 +2,24 @@ card_name: Shattered Hand Cutthroat
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 2
 
-text: When this ally attacks, you may exhaust target armor.
-
-cost: '2'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally attacks, you may exhaust target armor.
+
+regulation:
+
+errata: []
 
 temp: Orc Rogue

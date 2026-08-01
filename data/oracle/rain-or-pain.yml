@@ -2,17 +2,19 @@ card_name: Rain or Pain
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Choose one: At the end of this turn, your hero deals 1 fire damage to each opposing ally; or attach to target ally. Ongoing : At the start of your turn, your hero deals 3 shadow damage to attached ally.'
+cost: '3'
 
 class:
   - Warlock
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Choose one: At the end of this turn, your hero deals 1 fire damage to each opposing ally; or attach to target ally. Ongoing : At the start of your turn, your hero deals 3 shadow damage to attached ally.'
+
+regulation:
+
+errata: []
 
 temp: Destruction Affliction

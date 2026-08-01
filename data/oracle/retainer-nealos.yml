@@ -2,20 +2,22 @@ card_name: Retainer Nealos
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 3
 
-text: "Scryer Reputation Sabotage: Weapon When Nealos sabotages a weapon, exhaust it. It can't ready during its controller's next ready step."
-
-cost: '2'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: "Scryer Reputation Sabotage: Weapon When Nealos sabotages a weapon, exhaust it. It can't ready during its controller's next ready step."
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Rogue

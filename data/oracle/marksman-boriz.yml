@@ -2,20 +2,22 @@ card_name: Marksman Boriz
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 3
 
 health: 5
 
-text: Aldor Reputation Long-Range Opposing heroes and allies lose and can't have long-range.
-
-cost: '6'
-
 combat: Ranged
+
+rule:
+  - type: ability
+    text: Aldor Reputation Long-Range Opposing heroes and allies lose and can't have long-range.
+
+regulation:
+
+errata: []
 
 temp: Draenei Hunter

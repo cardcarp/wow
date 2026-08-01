@@ -2,22 +2,24 @@ card_name: Skaduzzle
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 6
 
 health: 3
 
-text: Escape Artist
-
-cost: '5'
-
 combat: Fire
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Escape Artist
+
+regulation:
+
+errata: []
 
 temp: Gnome Mage

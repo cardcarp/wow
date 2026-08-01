@@ -2,19 +2,21 @@ card_name: Illidari-Bane Mageblade
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: If your hero would deal damage to a Demon, it deals double that much instead.
+cost: '2'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: If your hero would deal damage to a Demon, it deals double that much instead.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

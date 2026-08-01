@@ -2,17 +2,19 @@ card_name: Bash
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Exhaust target hero or ally. Ongoing : Your hero is in Bear Form .'
+cost: '2'
 
 class:
   - Druid
 
-cost: '2'
+instant: 'Exhaust target hero or ally. Ongoing : Your hero is in Bear Form .'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Feral

@@ -10,4 +10,5 @@ artist: Ben Thompson
 
 flavor: 'Front: "Come then, champions! Feed me your rage!" Back: "Apocalypse!"'
 
-appearance: []
+variation:
+  - transform

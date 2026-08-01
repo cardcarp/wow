@@ -2,8 +2,10 @@ card_name: Bozzle Spellwind
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

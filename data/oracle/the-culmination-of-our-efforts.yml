@@ -2,12 +2,14 @@ card_name: The Culmination of Our Efforts
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 4 to complete this quest. Reward : Choose "ability," "ally," "equipment," or "quest" and reveal the top five cards of your deck. Put a revealed card of the chosen type into your hand and the rest on the bottom of your deck.'
 
-text: 'Pay 4 to complete this quest. Reward : Choose "ability," "ally," "equipment," or "quest" and reveal the top five cards of your deck. Put a revealed card of the chosen type into your hand and the rest on the bottom of your deck.'
+regulation:
+
+errata: []
 
 temp: ''

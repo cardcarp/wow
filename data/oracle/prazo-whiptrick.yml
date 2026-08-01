@@ -2,22 +2,24 @@ card_name: Prazo Whiptrick
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 2
 
-text: You pay 3 less to play this ally if you played an equipment this turn.
-
-cost: '3'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: You pay 3 less to play this ally if you played an equipment this turn.
+
+regulation:
+
+errata: []
 
 temp: Goblin Rogue

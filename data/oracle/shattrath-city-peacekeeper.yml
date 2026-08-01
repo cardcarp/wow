@@ -2,20 +2,22 @@ card_name: Shattrath City Peacekeeper
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 1
 
 health: 1
 
-text: Protector Allies not named Shattrath City Peacekeeper have -1 ATK.
-
-cost: '3'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Protector Allies not named Shattrath City Peacekeeper have -1 ATK.
+
+regulation:
+
+errata: []
 
 temp: Draenei Warrior

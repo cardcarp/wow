@@ -2,22 +2,24 @@ card_name: Nordrassil Scout
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 3
 
 health: 2
 
-text: When this ally enters play, you pay 3 less to complete your next quest this turn.
-
-cost: '3'
-
 combat: Ranged
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, you pay 3 less to complete your next quest this turn.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Hunter

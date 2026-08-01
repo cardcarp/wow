@@ -2,17 +2,19 @@ card_name: Rhok_delar, Longbow of the Ancient Keepers
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you strike with Rokh'delar, your hero has Long-Range this combat.
+cost: '7'
 
 class:
   - Hunter
 
-cost: '7'
+rule:
+  - type: ability
+    text: When you strike with Rokh'delar, your hero has Long-Range this combat.
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Bow

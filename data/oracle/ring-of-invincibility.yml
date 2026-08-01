@@ -2,13 +2,9 @@ card_name: Ring of Invincibility
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 , → Target ally has Invincible this turn.
+cost: '3'
 
 class:
   - Warrior
@@ -18,6 +14,12 @@ class:
   - Death Knight
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: 1 , → Target ally has Invincible this turn.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

@@ -2,22 +2,24 @@ card_name: Traxel Emberklik
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 1
 
 health: 7
 
-text: Time is Money → This ally deals 1 fire damage to target hero or ally.
-
-cost: '5'
-
 combat: Fire
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Time is Money → This ally deals 1 fire damage to target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Goblin Warlock

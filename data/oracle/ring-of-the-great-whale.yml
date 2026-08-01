@@ -2,13 +2,9 @@ card_name: Ring of the Great Whale
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: If damage would be healed from a hero or ally you control, that much +2 is healed instead.
+cost: '1'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: If damage would be healed from a hero or ally you control, that much +2 is healed instead.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

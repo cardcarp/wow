@@ -2,17 +2,19 @@ card_name: Scorch
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 1 fire damage to target hero or ally.
+cost: '0'
 
 class:
   - Mage
 
-cost: '0'
+rule:
+  - type: ability
+    text: Your hero deals 1 fire damage to target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Fire

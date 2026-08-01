@@ -10,4 +10,5 @@ artist: James Ryman
 
 flavor: '"None shall harm those beneath my shield!"'
 
-appearance: []
+variation:
+  - transform

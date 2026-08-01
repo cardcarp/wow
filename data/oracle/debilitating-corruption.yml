@@ -2,14 +2,16 @@ card_name: Debilitating Corruption
 
 layout: standard
 
-regulation:
-
 category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Put a Corrupted Blood ally token into play. If Deathwing deals combat damage to a Raiding hero this turn, allies Deathwing controls have +1 ATK this turn.
+
+regulation:
 
 errata: []
 
-text: Put a Corrupted Blood ally token into play. If Deathwing deals combat damage to a Raiding hero this turn, allies Deathwing controls have +1 ATK this turn.
-
 temp: ''
-
-type: Boss

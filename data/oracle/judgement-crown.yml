@@ -2,17 +2,19 @@ card_name: Judgement Crown
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 , → Prevent the next 1 damage that would be dealt to target ally this turn. When you play a ability, ready Judgement Crown.
+cost: '4'
 
 class:
   - Paladin
 
-cost: '4'
+rule:
+  - type: ability
+    text: 1 , → Prevent the next 1 damage that would be dealt to target ally this turn. When you play a ability, ready Judgement Crown.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

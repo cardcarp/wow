@@ -2,8 +2,10 @@ card_name: Shin_ka, Execution of Dominion
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

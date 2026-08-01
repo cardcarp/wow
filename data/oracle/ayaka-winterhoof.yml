@@ -2,20 +2,22 @@ card_name: Ayaka Winterhoof
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 30
 
-text: 4 → Flip Ayaka
-
 faction: Horde
 
-temp: Tauren Death Knight
-
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: 4 → Flip Ayaka
+  - type: ability
+    position: reverse
     text: When Ayaka deals 1 or more damage, she heals 1 damage from herself.
+
+regulation:
+
+errata: []
+
+temp: Tauren Death Knight

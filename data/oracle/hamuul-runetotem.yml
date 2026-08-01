@@ -2,22 +2,24 @@ card_name: Hamuul Runetotem
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '9'
 
 damage: 5
 
 health: 10
 
-text: Assault 5 , Ferocity , Protector At the end of your turn, ready Hamuul.
-
-cost: '9'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Assault 5 , Ferocity , Protector At the end of your turn, ready Hamuul.
+
+regulation:
+
+errata: []
 
 temp: Tauren Druid

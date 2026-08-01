@@ -2,22 +2,24 @@ card_name: Eye of the Legion
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 4
 
-text: 1 → Look at a random card in target opponent's hand.
-
-cost: '4'
-
 combat: Fire
 
-temp: Demon
-
 type: Monster
+
+rule:
+  - type: ability
+    text: 1 → Look at a random card in target opponent's hand.
+
+regulation:
+
+errata: []
+
+temp: Demon

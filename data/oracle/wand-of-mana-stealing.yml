@@ -2,19 +2,21 @@ card_name: Wand of Mana Stealing
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero deals combat damage with this weapon to a hero, that hero's controller chooses and discards a card and you draw a card.
+cost: '4'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '4'
+rule:
+  - type: ability
+    text: When your hero deals combat damage with this weapon to a hero, that hero's controller chooses and discards a card and you draw a card.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Wand

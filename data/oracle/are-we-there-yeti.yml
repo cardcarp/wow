@@ -2,12 +2,14 @@ card_name: Are We There, Yeti_
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 6 to complete this quest. Reward : Put three Mechanical Yeti ally tokens with 1 ATK and 1 health into play.'
 
-text: 'Pay 6 to complete this quest. Reward : Put three Mechanical Yeti ally tokens with 1 ATK and 1 health into play.'
+regulation:
+
+errata: []
 
 temp: ''

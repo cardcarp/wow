@@ -2,12 +2,14 @@ card_name: Pro Move
 
 layout: standard
 
-regulation:
-
 category: Achievement
 
-errata: []
+rule:
+  - type: ability
+    text: A Raiding hero has 1 remaining during a Dungeon turn but isn't destroyed.
 
-text: A Raiding hero has 1 remaining during a Dungeon turn but isn't destroyed.
+regulation:
+
+errata: []
 
 temp: ''

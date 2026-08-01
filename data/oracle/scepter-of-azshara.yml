@@ -2,13 +2,9 @@ card_name: Scepter of Azshara
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the start of your turn, you may choose a or race and destroy this weapon. If you do, destroy all allies not of that race.
+cost: '7'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '7'
+rule:
+  - type: ability
+    text: At the start of your turn, you may choose a or race and destroy this weapon. If you do, destroy all allies not of that race.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

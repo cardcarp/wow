@@ -10,4 +10,5 @@ artist: Michael Sutfin
 
 flavor:
 
-appearance: []
+variation:
+  - transform

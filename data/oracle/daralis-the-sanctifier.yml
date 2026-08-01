@@ -2,25 +2,27 @@ card_name: Daralis the Sanctifier
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 5
 
-text: When you play an Ongoing ability, this ally may deal 3 unpreventable holy damage to target hero or ally.
+combat: Holy
+
+faction: Horde
 
 class:
   - Priest
 
-cost: '4'
+rule:
+  - type: ability
+    text: When you play an Ongoing ability, this ally may deal 3 unpreventable holy damage to target hero or ally.
 
-combat: Holy
+regulation:
 
-faction: Horde
+errata: []
 
 temp: Undead Priest

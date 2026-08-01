@@ -2,14 +2,16 @@ card_name: Brood of Onyxia
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Stage 2 Only Put ten Whelps into play.
-
 cost: '4'
+
+rule:
+  - type: ability
+    text: Stage 2 Only Put ten Whelps into play.
+
+regulation:
+
+errata: []
 
 temp: ''

@@ -2,22 +2,24 @@ card_name: Alrak Stonecrack
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 3
 
-text: When this ally is destroyed, put target opposing ally into its owner's hand.
-
-cost: '4'
-
 combat: Fire
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally is destroyed, put target opposing ally into its owner's hand.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Warlock

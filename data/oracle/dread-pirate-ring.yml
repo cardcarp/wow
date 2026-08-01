@@ -2,13 +2,9 @@ card_name: Dread Pirate Ring
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: "On your turn: 2 , Put this equipment into its owner's hand → Put a 1 / 1 Dread Pirate ally token named Bob into play. Stash : Add an heirloom counter to target equipment you control."
+cost: '1'
 
 class:
   - Priest
@@ -22,6 +18,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: "On your turn: 2 , Put this equipment into its owner's hand → Put a 1 / 1 Dread Pirate ally token named Bob into play. Stash : Add an heirloom counter to target equipment you control."
+
+regulation:
+
+errata: []
 
 temp: Item Ring

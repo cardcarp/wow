@@ -2,13 +2,9 @@ card_name: Obsidium Cleaver
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: You pay 3 less to strike with this weapon while you control an ally with an ability attached to it.
+cost: '2'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Shaman
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: You pay 3 less to strike with this weapon while you control an ally with an ability attached to it.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Axe

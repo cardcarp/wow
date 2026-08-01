@@ -10,4 +10,5 @@ artist: Jonboy Meyers
 
 flavor: "\"Couldn't resist, could you?\""
 
-appearance: []
+variation:
+  - transform

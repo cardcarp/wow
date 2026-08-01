@@ -2,22 +2,24 @@ card_name: Geoffrey Kimble
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 5
 
-text: Protector 3 , Discard a card → Destroy target ability or equipment.
-
-cost: '6'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector 3 , Discard a card → Destroy target ability or equipment.
+
+regulation:
+
+errata: []
 
 temp: Undead Warrior

@@ -2,8 +2,10 @@ card_name: Mogu Mentality
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

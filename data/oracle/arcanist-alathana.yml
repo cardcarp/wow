@@ -2,20 +2,22 @@ card_name: Arcanist Alathana
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 2
 
 health: 1
 
-text: "Scryer Reputation Sabotage: Ability When Alathana sabotages an ability, put a depletion counter on it. Abilities with depletion counters lose and can't have powers."
-
-cost: '1'
-
 combat: Fire
+
+rule:
+  - type: ability
+    text: "Scryer Reputation Sabotage: Ability When Alathana sabotages an ability, put a depletion counter on it. Abilities with depletion counters lose and can't have powers."
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Mage

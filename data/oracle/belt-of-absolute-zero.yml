@@ -2,19 +2,21 @@ card_name: Belt of Absolute Zero
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Weapons you control have +1 ATK.
+cost: '3'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '3'
+rule:
+  - type: ability
+    text: Weapons you control have +1 ATK.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

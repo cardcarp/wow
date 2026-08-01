@@ -2,22 +2,24 @@ card_name: Katu Lions-Claw
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 4
 
 health: 5
 
-text: 'Tribe : When this or another Tauren ally enters play under your control, target ally has +2 ATK and Stealth this turn.'
-
-cost: '5'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: 'Tribe : When this or another Tauren ally enters play under your control, target ally has +2 ATK and Stealth this turn.'
+
+regulation:
+
+errata: []
 
 temp: Tauren Druid

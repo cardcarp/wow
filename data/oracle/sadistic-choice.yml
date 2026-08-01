@@ -2,14 +2,16 @@ card_name: Sadistic Choice
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
+cost: '1'
 
 instant: Reveal the top two cards of your deck. Target raiding player chooses whether you put them into your hand or graveyard. If he chooses the graveyard, draw two cards.
 
-cost: '1'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

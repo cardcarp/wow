@@ -10,4 +10,5 @@ artist: Clint Langley
 
 flavor: '"Da elements whisper in my ears, and dey remind me dat dere is more than one way to destroy da Scourge."'
 
-appearance: []
+variation:
+  - transform

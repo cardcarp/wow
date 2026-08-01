@@ -2,20 +2,22 @@ card_name: Sky Captain Swayze
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 1
 
-text: Elusive → Ready another target card. 5 → Swayze deals 5 ranged damage to target opposing hero.
-
-cost: '2'
-
 combat: Ranged
+
+rule:
+  - type: ability
+    text: Elusive → Ready another target card. 5 → Swayze deals 5 ranged damage to target opposing hero.
+
+regulation:
+
+errata: []
 
 temp: Human Sky Captain

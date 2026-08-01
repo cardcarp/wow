@@ -2,14 +2,16 @@ card_name: Hammer of Ragnaros
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target ability, ally, or equipment. Its controller destroys another one of his abilities, allies, or equipment.
-
 cost: '1'
+
+rule:
+  - type: ability
+    text: Destroy target ability, ally, or equipment. Its controller destroys another one of his abilities, allies, or equipment.
+
+regulation:
+
+errata: []
 
 temp: Ragnaros

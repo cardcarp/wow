@@ -2,17 +2,19 @@ card_name: Grace of Air Totem
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Totem Ongoing : Opposing allies can't attack your heroes, allies, or Totems unless their controller pays 1 for each attacker."
+cost: '2'
 
 class:
   - Shaman
 
-cost: '2'
+rule:
+  - type: ability
+    text: "Totem Ongoing : Opposing allies can't attack your heroes, allies, or Totems unless their controller pays 1 for each attacker."
+
+regulation:
+
+errata: []
 
 temp: Enhancement 1

@@ -2,14 +2,17 @@ card_name: Jasani, Shrine Keeper
 
 layout: transform
 
-regulation:
-
 category: Hero
+
+type: Monster
+
+rule:
+  - type: ability
+    position: front
+    text: "Deckbuilding: You can't put , , or Talent cards in your deck."
+
+regulation:
 
 errata: []
 
-text: "Deckbuilding: You can't put , , or Talent cards in your deck."
-
 temp: Dryad Druid Hunter 25
-
-type: Monster

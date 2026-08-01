@@ -2,19 +2,21 @@ card_name: Abyss Walkers Boots
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: → Remove target card in a graveyard from the game.
+cost: '2'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: → Remove target card in a graveyard from the game.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

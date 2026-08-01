@@ -2,17 +2,19 @@ card_name: Fel Pact
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target Demon ally. Ongoing : Attached ally can't be destroyed."
+cost: '6'
 
 class:
   - Warlock
 
-cost: '6'
+rule:
+  - type: ability
+    text: "Attach to target Demon ally. Ongoing : Attached ally can't be destroyed."
+
+regulation:
+
+errata: []
 
 temp: Demonology

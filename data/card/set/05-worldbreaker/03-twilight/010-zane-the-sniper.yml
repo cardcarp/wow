@@ -10,4 +10,5 @@ artist: Phroilan Gardner
 
 flavor: "\"Once you're in my sights, you're as good as dead.\""
 
-appearance: []
+variation:
+  - transform

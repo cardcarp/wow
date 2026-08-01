@@ -2,22 +2,24 @@ card_name: Tinker Casey Springlock
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 4
 
 health: 4
 
-text: This ally has Protector while she's undamaged.
-
-cost: '4'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: This ally has Protector while she's undamaged.
+
+regulation:
+
+errata: []
 
 temp: Gnome Warrior

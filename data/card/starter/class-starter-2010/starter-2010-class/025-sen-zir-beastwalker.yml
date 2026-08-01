@@ -10,4 +10,5 @@ artist: Dan Brereton
 
 flavor: Vicious and cunning; like hunter, like pet.
 
-appearance: []
+variation:
+  - transform

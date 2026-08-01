@@ -2,17 +2,19 @@ card_name: Disperse Magic
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Destroy Disperse Magic → Destroy target ability.'
+cost: '1'
 
 class:
   - Priest
 
-cost: '1'
+rule:
+  - type: ability
+    text: 'Ongoing : Destroy Disperse Magic → Destroy target ability.'
+
+regulation:
+
+errata: []
 
 temp: Discipline

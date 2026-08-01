@@ -2,23 +2,25 @@ card_name: Haaroon
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 6
 
 health: 6
 
-text: Demonology Talent Protector
+combat: Melee
 
 class:
   - Warlock
 
-cost: '5'
+rule:
+  - type: ability
+    text: Demonology Talent Protector
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Felguard Demon

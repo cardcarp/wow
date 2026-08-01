@@ -2,17 +2,19 @@ card_name: Frost Fever
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 1 frost damage to attached hero. Allies in attached hero's party lose and can't have Assault and Mend ."
+cost: '2'
 
 class:
   - Death Knight
 
-cost: '2'
+rule:
+  - type: ability
+    text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 1 frost damage to attached hero. Allies in attached hero's party lose and can't have Assault and Mend ."
+
+regulation:
+
+errata: []
 
 temp: Frost Disease

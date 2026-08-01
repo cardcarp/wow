@@ -2,17 +2,19 @@ card_name: Mana Tide Totem
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Restoration Hero Required Totem Ongoing : At the start of your turn, draw a card for each hero and ally in your party.'
+cost: '4'
 
 class:
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: 'Restoration Hero Required Totem Ongoing : At the start of your turn, draw a card for each hero and ally in your party.'
+
+regulation:
+
+errata: []
 
 temp: Restoration Talent 1

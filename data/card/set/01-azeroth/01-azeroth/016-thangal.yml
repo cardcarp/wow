@@ -10,4 +10,5 @@ artist: Greg Hildebrandt
 
 flavor: The most powerful druids know their greatest strength lies in versatility.
 
-appearance: []
+variation:
+  - transform

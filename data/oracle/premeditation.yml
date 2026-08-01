@@ -2,17 +2,19 @@ card_name: Premeditation
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Subtlety Hero Required Search your deck for up to two Combo cards, reveal them, and put them into your hand.
+cost: '4'
 
 class:
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: Subtlety Hero Required Search your deck for up to two Combo cards, reveal them, and put them into your hand.
+
+regulation:
+
+errata: []
 
 temp: Subtlety Talent

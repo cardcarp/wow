@@ -2,13 +2,9 @@ card_name: Time-Bending Gem
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you place a resource face up into your resource row, your hero has Assault 1 this turn.
+cost: '1'
 
 class:
   - Warrior
@@ -19,6 +15,12 @@ class:
   - Death Knight
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: When you place a resource face up into your resource row, your hero has Assault 1 this turn.
+
+regulation:
+
+errata: []
 
 temp: Item Ring

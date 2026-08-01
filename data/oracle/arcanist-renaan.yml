@@ -2,20 +2,22 @@ card_name: Arcanist Renaan
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 1
 
 health: 2
 
-text: Scryer Reputation If you would draw a card, you may draw it from the bottom of your deck instead.
-
-cost: '1'
-
 combat: Arcane
+
+rule:
+  - type: ability
+    text: Scryer Reputation If you would draw a card, you may draw it from the bottom of your deck instead.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Mage

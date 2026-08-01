@@ -2,22 +2,24 @@ card_name: Treespeaker Onaha
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 3
 
 health: 7
 
-text: When damage is healed from this ally, put that many 1 / 1 Treant ally tokens into play.
-
-cost: '5'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: When damage is healed from this ally, put that many 1 / 1 Treant ally tokens into play.
+
+regulation:
+
+errata: []
 
 temp: Tauren Druid

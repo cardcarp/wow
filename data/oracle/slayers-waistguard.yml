@@ -2,18 +2,20 @@ card_name: Slayers Waistguard
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: You pay 3 less to strike with weapons while your hero is defending.
+cost: '3'
 
 class:
   - Paladin
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: You pay 3 less to strike with weapons while your hero is defending.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

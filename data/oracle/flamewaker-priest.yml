@@ -2,20 +2,22 @@ card_name: Flamewaker Priest
 
 layout: standard
 
-regulation:
-
 category: Token
-
-errata: []
 
 damage: 1
 
 health: 5
 
-text: → Flamewaker Priest heals 4 damage from target hero or ally. Use only on your turn.
-
 combat: Melee
 
-temp: Flamewaker
-
 type: Ally
+
+rule:
+  - type: ability
+    text: → Flamewaker Priest heals 4 damage from target hero or ally. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Flamewaker

@@ -2,17 +2,19 @@ card_name: Totemic Vigor
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Enhancement Talent Ongoing : Totems you control have +2 . Your hero has Assault 1 for each Totem you control.'
+cost: '3'
 
 class:
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Enhancement Talent Ongoing : Totems you control have +2 . Your hero has Assault 1 for each Totem you control.'
+
+regulation:
+
+errata: []
 
 temp: Enhancement

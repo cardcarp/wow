@@ -2,17 +2,19 @@ card_name: Lava Burst
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: You may destroy an ability you control. Your hero deals 2 fire damage to target ally, or 6 if you destroyed an ability this way.
+cost: '1'
 
 class:
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: You may destroy an ability you control. Your hero deals 2 fire damage to target ally, or 6 if you destroyed an ability this way.
+
+regulation:
+
+errata: []
 
 temp: Elemental

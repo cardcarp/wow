@@ -2,12 +2,14 @@ card_name: Devoured
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'If all quests you control are named Devoured: Pay 3 to complete this quest. Reward : Draw a card.'
 
-text: 'If all quests you control are named Devoured: Pay 3 to complete this quest. Reward : Draw a card.'
+regulation:
+
+errata: []
 
 temp: ''

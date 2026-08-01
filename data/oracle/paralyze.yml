@@ -2,17 +2,19 @@ card_name: Paralyze
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Choose "ability," "ally," or "equipment." Target player can't play cards of that kind during his next turn.
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: Choose "ability," "ally," or "equipment." Target player can't play cards of that kind during his next turn.
+
+regulation:
+
+errata: []
 
 temp: Subtlety

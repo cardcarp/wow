@@ -10,4 +10,5 @@ artist: Ittoku
 
 flavor: '"Postpone the funeral."'
 
-appearance: []
+variation:
+  - transform

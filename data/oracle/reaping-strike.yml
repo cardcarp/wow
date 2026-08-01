@@ -2,8 +2,10 @@ card_name: Reaping Strike
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

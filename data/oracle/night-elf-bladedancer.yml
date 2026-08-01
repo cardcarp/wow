@@ -2,22 +2,24 @@ card_name: Night Elf Bladedancer
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 5
 
 health: 1
 
-text: Haste 2 Elusive
-
-cost: '5'
-
 combat: Melee
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Haste 2 Elusive
+
+regulation:
+
+errata: []
 
 temp: Night Elf Warrior

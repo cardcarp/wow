@@ -10,4 +10,5 @@ artist: Dermot Power
 
 flavor: '"We will lose everything unless we fight together!"'
 
-appearance: []
+variation:
+  - transform

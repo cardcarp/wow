@@ -2,20 +2,22 @@ card_name: Drugush the Crusher
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 8
 
 health: 4
 
-cost: '6'
-
 combat: Melee
 
-temp: Ogre Warrior
-
 type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ogre Warrior

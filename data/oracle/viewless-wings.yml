@@ -2,13 +2,9 @@ card_name: Viewless Wings
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Allies you control have Assault 1 for each ally you control.
+cost: '5'
 
 class:
   - Druid
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Rogue
 
-cost: '5'
+rule:
+  - type: ability
+    text: Allies you control have Assault 1 for each ally you control.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

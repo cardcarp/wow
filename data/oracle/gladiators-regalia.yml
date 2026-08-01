@@ -2,17 +2,19 @@ card_name: Gladiators Regalia
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Opposing allies lose and can't have powers. → Your hero deals 2 fire damage to target hero or ally.
+cost: '8'
 
 class:
   - Mage
 
-cost: '8'
+rule:
+  - type: ability
+    text: Opposing allies lose and can't have powers. → Your hero deals 2 fire damage to target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: Arena Armor Set Cloth

@@ -2,13 +2,9 @@ card_name: Hope Ender
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: At the end of your turn, if Hope Ender is ready, put two +1 ATK counters on it.
+cost: '4'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Hunter
   - Rogue
 
-cost: '4'
+rule:
+  - type: ability
+    text: At the end of your turn, if Hope Ender is ready, put two +1 ATK counters on it.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

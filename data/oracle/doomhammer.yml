@@ -2,13 +2,9 @@ card_name: Doomhammer
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Allies you control with restriction tags have +3 / +3. (Examples of restriction tags on allies include Pet (1), Thrall (1), Totem (1) and Unique.)
+cost: '4'
 
 class:
   - Priest
@@ -17,6 +13,12 @@ class:
   - Paladin
   - Shaman
 
-cost: '4'
+rule:
+  - type: ability
+    text: Allies you control with restriction tags have +3 / +3. (Examples of restriction tags on allies include Pet (1), Thrall (1), Totem (1) and Unique.)
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

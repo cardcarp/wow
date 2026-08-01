@@ -2,20 +2,22 @@ card_name: Twilight Corruptor
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 2
 
 health: 1
 
-text: When this ally enters play, if an ability, ally, or equipment was destroyed this turn, this ally may deal 2 shadow damage to each opposing hero and ally.
-
-cost: '5'
-
 combat: Shadow
+
+rule:
+  - type: ability
+    text: When this ally enters play, if an ability, ally, or equipment was destroyed this turn, this ally may deal 2 shadow damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
 
 temp: Twilight Dragonkin

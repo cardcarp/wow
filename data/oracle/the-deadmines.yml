@@ -2,12 +2,14 @@ card_name: The Deadmines
 
 layout: standard
 
-regulation:
-
 category: Location
 
-errata: []
+rule:
+  - type: ability
+    text: 'If an ally you controlled was destroyed this turn: → Draw a card, then discard a card.'
 
-text: 'If an ally you controlled was destroyed this turn: → Draw a card, then discard a card.'
+regulation:
+
+errata: []
 
 temp: ''

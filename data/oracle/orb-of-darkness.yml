@@ -2,19 +2,21 @@ card_name: Orb of Darkness
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 , {exhaust} → Target opponent puts the top three cards of his deck into his graveyard unless he chooses and discards a card.
+cost: '4'
 
 class:
   - Priest
   - Death Knight
   - Warlock
 
-cost: '4'
+rule:
+  - type: ability
+    text: 1 , {exhaust} → Target opponent puts the top three cards of his deck into his graveyard unless he chooses and discards a card.
+
+regulation:
+
+errata: []
 
 temp: Item

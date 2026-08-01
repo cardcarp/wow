@@ -2,20 +2,22 @@ card_name: White Camel
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 0
 
 health: 3
 
-text: Elusive When you play a resource face up into your resource row, this ally has +3 ATK and Sentinel this turn.
-
-cost: '3'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Elusive When you play a resource face up into your resource row, this ally has +3 ATK and Sentinel this turn.
+
+regulation:
+
+errata: []
 
 temp: Camel

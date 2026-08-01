@@ -2,8 +2,10 @@ card_name: Strike From Beyond
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

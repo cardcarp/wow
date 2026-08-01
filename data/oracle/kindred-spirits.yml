@@ -2,17 +2,19 @@ card_name: Kindred Spirits
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Ongoing : Your hero can't be destroyed while another friendly hero or ally is in play."
+cost: '7'
 
 class:
   - Priest
 
-cost: '7'
+rule:
+  - type: ability
+    text: "Ongoing : Your hero can't be destroyed while another friendly hero or ally is in play."
+
+regulation:
+
+errata: []
 
 temp: Holy

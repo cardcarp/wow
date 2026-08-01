@@ -2,16 +2,19 @@ card_name: Valterus
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 29
 
-text: 3 , Flip Valterus → Target friendly hero or ally is Untargetable this turn.
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Valterus → Target friendly hero or ally is Untargetable this turn.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Paladin

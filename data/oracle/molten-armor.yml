@@ -2,17 +2,19 @@ card_name: Molten Armor
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : 1 , Remove an ability card in your graveyard from the game → If your hero is defending, it deals 1 fire damage to target attacker.'
+cost: '2'
 
 class:
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : 1 , Remove an ability card in your graveyard from the game → If your hero is defending, it deals 1 fire damage to target attacker.'
+
+regulation:
+
+errata: []
 
 temp: Fire

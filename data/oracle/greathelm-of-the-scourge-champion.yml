@@ -2,17 +2,19 @@ card_name: Greathelm of the Scourge Champion
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When Greathelm of the Scourge Champion is destroyed, you may put it from its owner's graveyard into his hand at the start of the next turn.
+cost: '2'
 
 class:
   - Death Knight
 
-cost: '2'
+rule:
+  - type: ability
+    text: When Greathelm of the Scourge Champion is destroyed, you may put it from its owner's graveyard into his hand at the start of the next turn.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

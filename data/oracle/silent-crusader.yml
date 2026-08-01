@@ -2,13 +2,9 @@ card_name: Silent Crusader
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When an opponent's hero is dealt combat damage with this weapon, exhaust all cards he controls.
+cost: '3'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Death Knight
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: When an opponent's hero is dealt combat damage with this weapon, exhaust all cards he controls.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

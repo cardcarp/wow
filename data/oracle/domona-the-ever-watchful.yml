@@ -2,22 +2,24 @@ card_name: Domona the Ever-Watchful
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 5
 
 health: 4
 
-text: → Domona deals 2 frost damage to target hero or ally. When an opposing hero or ally attacks, ready Domona.
-
-cost: '6'
-
 combat: Frost
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: → Domona deals 2 frost damage to target hero or ally. When an opposing hero or ally attacks, ready Domona.
+
+regulation:
+
+errata: []
 
 temp: Draenei Shaman

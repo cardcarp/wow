@@ -2,22 +2,24 @@ card_name: Myriam Starcaller
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 3
 
 health: 4
 
-text: Untargetable → Myriam deals 5 arcane damage to target hero.
-
-cost: '4'
-
 combat: Arcane
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Untargetable → Myriam deals 5 arcane damage to target hero.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Druid

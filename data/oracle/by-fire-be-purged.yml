@@ -2,14 +2,16 @@ card_name: _BY FIRE BE PURGED_
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Choose two: Destroy all opposing abilities; destroy all opposing allies; or destroy all opposing equipment.'
-
 cost: '7'
+
+rule:
+  - type: ability
+    text: 'Choose two: Destroy all opposing abilities; destroy all opposing allies; or destroy all opposing equipment.'
+
+regulation:
+
+errata: []
 
 temp: Ragnaros

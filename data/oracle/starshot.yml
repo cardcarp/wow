@@ -2,17 +2,19 @@ card_name: Starshot
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero deals 3 arcane damage to target ally. Draw a card.
+cost: '2'
 
 class:
   - Druid
 
-cost: '2'
+rule:
+  - type: ability
+    text: Your hero deals 3 arcane damage to target ally. Draw a card.
+
+regulation:
+
+errata: []
 
 temp: Balance

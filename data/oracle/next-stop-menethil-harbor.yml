@@ -2,16 +2,18 @@ card_name: Next Stop, Menethil Harbor!
 
 layout: standard
 
-regulation:
-
 category: Ability
-
-errata: []
-
-instant: Each player puts an ally he controls into its owner's hand.
 
 cost: '1'
 
 faction: Alliance
+
+instant: Each player puts an ally he controls into its owner's hand.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: ''

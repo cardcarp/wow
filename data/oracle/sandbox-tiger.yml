@@ -2,20 +2,22 @@ card_name: Sandbox Tiger
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 1
 
-text: Sandbox Tiger has +1 ATK / +1 health for each Loot card in play you control.
-
-cost: '2'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Sandbox Tiger has +1 ATK / +1 health for each Loot card in play you control.
+
+regulation:
+
+errata: []
 
 temp: Tiger

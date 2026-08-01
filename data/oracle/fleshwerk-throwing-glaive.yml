@@ -2,18 +2,20 @@ card_name: Fleshwerk Throwing Glaive
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 'Thrown Hero : This weapon has +1 ATK. Hero : You pay 1 less to strike with this weapon.'
+cost: '2'
 
 class:
   - Warrior
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Thrown Hero : This weapon has +1 ATK. Hero : You pay 1 less to strike with this weapon.'
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Shuriken

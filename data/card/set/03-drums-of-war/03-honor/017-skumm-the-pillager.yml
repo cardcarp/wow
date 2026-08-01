@@ -10,4 +10,5 @@ artist: Ken Kai
 
 flavor: '"Dis be too easy, bruddah."'
 
-appearance: []
+variation:
+  - transform

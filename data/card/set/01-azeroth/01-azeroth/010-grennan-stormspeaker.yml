@@ -10,4 +10,5 @@ artist: Samwise
 
 flavor: The sky itself trembles at his call.
 
-appearance: []
+variation:
+  - transform

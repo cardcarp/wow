@@ -2,17 +2,19 @@ card_name: Flash of Brilliance
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : At the start of your turn, you may destroy this ability. If you do, search your collection for an Ongoing ability, reveal it, and put it into your hand.'
+cost: '3'
 
 class:
   - Mage
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, you may destroy this ability. If you do, search your collection for an Ongoing ability, reveal it, and put it into your hand.'
+
+regulation:
+
+errata: []
 
 temp: Arcane

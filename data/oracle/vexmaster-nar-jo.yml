@@ -2,22 +2,24 @@ card_name: Vexmaster Nar_jo
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 3
 
-text: Ferocity Nar'jo has +2 ATK while attacking a ready ally.
-
-cost: '2'
-
 combat: Frost
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity Nar'jo has +2 ATK while attacking a ready ally.
+
+regulation:
+
+errata: []
 
 temp: Troll Mage

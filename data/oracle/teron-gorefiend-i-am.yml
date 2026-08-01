@@ -2,8 +2,10 @@ card_name: Teron Gorefiend, I Am
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

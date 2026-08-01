@@ -2,22 +2,24 @@ card_name: Warden Maiev
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '10'
 
 damage: 5
 
 health: 1
 
-text: Elusive , Ferocity , Long-Range , Protector , Spellshield , Stealth Haste X , where X is the highest cost among allies you controlled that dealt damage to an opposing hero this turn.
-
-cost: '10'
-
 combat: Ranged
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive , Ferocity , Long-Range , Protector , Spellshield , Stealth Haste X , where X is the highest cost among allies you controlled that dealt damage to an opposing hero this turn.
+
+regulation:
+
+errata: []
 
 temp: Night Elf Rogue

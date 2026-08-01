@@ -10,4 +10,5 @@ artist: Chris Rahn
 
 flavor:
 
-appearance: []
+variation:
+  - transform

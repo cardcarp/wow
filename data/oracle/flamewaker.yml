@@ -2,20 +2,22 @@ card_name: Flamewaker
 
 layout: standard
 
-regulation:
-
 category: Token
-
-errata: []
 
 damage: 3
 
 health: 2
 
-text: 1 , Destroy Flamewaker → Destroy target equipment.
-
 combat: Melee
 
-temp: Flamewaker
-
 type: Ally
+
+rule:
+  - type: ability
+    text: 1 , Destroy Flamewaker → Destroy target equipment.
+
+regulation:
+
+errata: []
+
+temp: Flamewaker

@@ -2,17 +2,19 @@ card_name: Blast Wave
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Fire Hero Required Your hero deals 2 fire damage to each opposing hero and ally. A character dealt damage this way can't protect this turn.
+cost: '2'
 
 class:
   - Mage
 
-cost: '2'
+rule:
+  - type: ability
+    text: Fire Hero Required Your hero deals 2 fire damage to each opposing hero and ally. A character dealt damage this way can't protect this turn.
+
+regulation:
+
+errata: []
 
 temp: Fire Talent

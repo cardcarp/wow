@@ -2,14 +2,16 @@ card_name: Shattering Scales
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy all opposing abilities and equipment.
-
 cost: '4'
+
+rule:
+  - type: ability
+    text: Destroy all opposing abilities and equipment.
+
+regulation:
+
+errata: []
 
 temp: ''

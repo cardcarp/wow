@@ -2,22 +2,24 @@ card_name: Kristina Soulcinder
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 0
 
 health: 3
 
-text: At the start of your turn, target ally has +2 ATK / -2 health this turn.
-
-cost: '3'
-
 combat: Shadow
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: At the start of your turn, target ally has +2 ATK / -2 health this turn.
+
+regulation:
+
+errata: []
 
 temp: Human Warlock

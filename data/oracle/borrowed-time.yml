@@ -2,17 +2,19 @@ card_name: Borrowed Time
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Discipline Talent Ongoing : At the start of your turn, you may add a clock counter to this ability. On your turn: Remove five clock counters from this ability and destroy it → Take an additional turn after this one.'
+cost: '2'
 
 class:
   - Priest
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Discipline Talent Ongoing : At the start of your turn, you may add a clock counter to this ability. On your turn: Remove five clock counters from this ability and destroy it → Take an additional turn after this one.'
+
+regulation:
+
+errata: []
 
 temp: Discipline

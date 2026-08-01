@@ -2,16 +2,19 @@ card_name: Emek the Equalizer
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 26
 
-text: 'On your turn: Flip Emek → You and target opponent each discard a card.'
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: Flip Emek → You and target opponent each discard a card.'
+
+regulation:
+
+errata: []
 
 temp: Undead Priest

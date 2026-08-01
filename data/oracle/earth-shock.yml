@@ -2,17 +2,19 @@ card_name: Earth Shock
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Your hero deals 4 nature damage to target hero or ally. If you targeted a hero, you may interrupt an ability played by its controller.
+cost: '4'
 
 class:
   - Shaman
 
-cost: '4'
+instant: Your hero deals 4 nature damage to target hero or ally. If you targeted a hero, you may interrupt an ability played by its controller.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Elemental

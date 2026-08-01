@@ -10,4 +10,5 @@ artist: LD Austin
 
 flavor: '"There is no better time than now to trust in the Light."'
 
-appearance: []
+variation:
+  - transform

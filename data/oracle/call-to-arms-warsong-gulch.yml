@@ -2,8 +2,10 @@ card_name: Call To Arms Warsong Gulch
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

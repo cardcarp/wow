@@ -2,12 +2,14 @@ card_name: The Twisting Nether
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: Turn target player's deck over.
 
-text: Turn target player's deck over.
+regulation:
+
+errata: []
 
 temp: ''

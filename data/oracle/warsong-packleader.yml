@@ -2,8 +2,10 @@ card_name: Warsong Packleader
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

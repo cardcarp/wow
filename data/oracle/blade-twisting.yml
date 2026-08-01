@@ -2,17 +2,19 @@ card_name: Blade Twisting
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Combat Hero Required Ongoing : When your hero deals combat damage to an ally, destroy it, and its controller discards a card.'
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Combat Hero Required Ongoing : When your hero deals combat damage to an ally, destroy it, and its controller discards a card.'
+
+regulation:
+
+errata: []
 
 temp: Combat Talent

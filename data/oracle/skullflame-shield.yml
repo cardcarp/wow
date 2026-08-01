@@ -2,19 +2,21 @@ card_name: Skullflame Shield
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero defends, it deals 1 fire damage to each opposing hero and ally.
+cost: '6'
 
 class:
   - Paladin
   - Warrior
   - Shaman
 
-cost: '6'
+rule:
+  - type: ability
+    text: When your hero defends, it deals 1 fire damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

@@ -10,4 +10,5 @@ artist: Zoltan Boros & Gabor Szikszai
 
 flavor: '"Aye ... I am wondrous, fabulous, and marvelous all rolled into one! Huzzah!"'
 
-appearance: []
+variation:
+  - transform

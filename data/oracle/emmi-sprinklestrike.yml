@@ -2,20 +2,22 @@ card_name: Emmi Sprinklestrike
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 30
 
-text: 5 → You may flip Emmi.
-
 faction: Alliance
 
-temp: Gnome Warrior
-
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: 5 → You may flip Emmi.
+  - type: ability
+    position: reverse
     text: Emmi has 1 ATK.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warrior

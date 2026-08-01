@@ -2,19 +2,21 @@ card_name: Floating Web
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When this armor enters or leaves play, add a +1 counter to this and each other armor you control.
+cost: '5'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '5'
+rule:
+  - type: ability
+    text: When this armor enters or leaves play, add a +1 counter to this and each other armor you control.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

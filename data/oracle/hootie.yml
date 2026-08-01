@@ -2,23 +2,25 @@ card_name: Hootie
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: Opposing heroes and allies have -1 ATK.
+combat: Melee
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: Opposing heroes and allies have -1 ATK.
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Owl

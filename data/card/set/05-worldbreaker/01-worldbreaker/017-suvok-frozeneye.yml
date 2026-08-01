@@ -10,4 +10,5 @@ artist: Paul Warzecha
 
 flavor: '"Cower before the might of the Horde and the new Warchief, Garrosh Hellscream!"'
 
-appearance: []
+variation:
+  - transform

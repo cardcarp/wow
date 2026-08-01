@@ -2,17 +2,19 @@ card_name: Interfering Shot
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target ally. Ongoing : Attached ally can't attack your hero."
+cost: '1'
 
 class:
   - Hunter
 
-cost: '1'
+rule:
+  - type: ability
+    text: "Attach to target ally. Ongoing : Attached ally can't attack your hero."
+
+regulation:
+
+errata: []
 
 temp: Survival

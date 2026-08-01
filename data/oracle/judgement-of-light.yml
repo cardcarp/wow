@@ -2,17 +2,19 @@ card_name: Judgement of Light
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target opposing hero or ally. Ongoing : When a friendly hero or ally deals combat damage to attached character, that friendly character heals 2 damage from itself.'
+cost: '2'
 
 class:
   - Paladin
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Attach to target opposing hero or ally. Ongoing : When a friendly hero or ally deals combat damage to attached character, that friendly character heals 2 damage from itself.'
+
+regulation:
+
+errata: []
 
 temp: Holy

@@ -2,22 +2,24 @@ card_name: Grunt Baranka
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 2
 
 health: 2
 
-text: Protector When Grunt Baranka defends against an ally, destroy her. If you do, destroy all attacking allies.
-
-cost: '2'
-
 combat: Melee
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When Grunt Baranka defends against an ally, destroy her. If you do, destroy all attacking allies.
+
+regulation:
+
+errata: []
 
 temp: Orc Warrior

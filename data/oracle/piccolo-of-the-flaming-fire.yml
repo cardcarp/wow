@@ -2,13 +2,9 @@ card_name: Piccolo of the Flaming Fire
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 1 , → Exhaust all heroes and allies. Use only on your turn.
+cost: '3'
 
 class:
   - Priest
@@ -21,6 +17,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: 1 , → Exhaust all heroes and allies. Use only on your turn.
+
+regulation:
+
+errata: []
 
 temp: Item Trinket

@@ -2,20 +2,22 @@ card_name: Anchorite Ceyla
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 6
 
 health: 7
 
-text: Aldor Reputation When another ally in your party is destroyed, its owner may put it from his graveyard into hand at the start of the next turn.
-
-cost: '7'
-
 combat: Holy
+
+rule:
+  - type: ability
+    text: Aldor Reputation When another ally in your party is destroyed, its owner may put it from his graveyard into hand at the start of the next turn.
+
+regulation:
+
+errata: []
 
 temp: Draenei Priest

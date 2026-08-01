@@ -2,17 +2,19 @@ card_name: Elemental Precision
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Elemental Talent Ongoing : If a hero or ally you control would deal nature ( ) damage, it deals double that much instead.'
+cost: '7'
 
 class:
   - Shaman
 
-cost: '7'
+rule:
+  - type: ability
+    text: 'Elemental Talent Ongoing : If a hero or ally you control would deal nature ( ) damage, it deals double that much instead.'
+
+regulation:
+
+errata: []
 
 temp: Elemental

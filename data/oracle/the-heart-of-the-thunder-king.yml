@@ -2,8 +2,10 @@ card_name: The Heart of the Thunder King
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,20 +2,22 @@ card_name: Bloodmage Kael_thas
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 6
 
 health: 8
 
-text: 1 → You can play cards from your resource row this turn. (Pay costs as normal.)
-
-cost: '7'
-
 combat: Fire
+
+rule:
+  - type: ability
+    text: 1 → You can play cards from your resource row this turn. (Pay costs as normal.)
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Mage

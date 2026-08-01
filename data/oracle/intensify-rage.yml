@@ -2,17 +2,19 @@ card_name: Intensify Rage
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally. Ongoing : Attached ally has +3 ATK / +3 health. At the start of your turn, put 2 damage on attached ally.'
+cost: '2'
 
 class:
   - Warrior
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Attach to target ally. Ongoing : Attached ally has +3 ATK / +3 health. At the start of your turn, put 2 damage on attached ally.'
+
+regulation:
+
+errata: []
 
 temp: Fury

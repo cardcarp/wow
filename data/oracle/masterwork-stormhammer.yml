@@ -2,13 +2,9 @@ card_name: Masterwork Stormhammer
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 5 , → Your hero deals 1 nature damage to each of up to three target heroes and/or allies.
+cost: '3'
 
 class:
   - Paladin
@@ -16,6 +12,12 @@ class:
   - Shaman
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: 5 , → Your hero deals 1 nature damage to each of up to three target heroes and/or allies.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

@@ -2,17 +2,19 @@ card_name: Unholy Power
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Demonology Hero Required Demons in your party have +3 ATK / +3 health.
+cost: '4'
 
 class:
   - Warlock
 
-cost: '4'
+rule:
+  - type: ability
+    text: Demonology Hero Required Demons in your party have +3 ATK / +3 health.
+
+regulation:
+
+errata: []
 
 temp: Demonology Talent

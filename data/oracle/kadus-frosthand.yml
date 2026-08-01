@@ -2,20 +2,22 @@ card_name: Kadus Frosthand
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 25
 
-text: 6 → Flip Kadus
-
 faction: Alliance
 
-temp: Dwarf Mage
-
-transform:
-  - id: ability
+rule:
+  - type: ability
+    position: front
+    text: 6 → Flip Kadus
+  - type: ability
+    position: reverse
     text: → Target ally can't attack this turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Mage

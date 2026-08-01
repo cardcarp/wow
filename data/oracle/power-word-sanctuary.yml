@@ -2,17 +2,19 @@ card_name: Power Word_ Sanctuary
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Attach to target ally you control. Ongoing : Prevent all damage that would be dealt to attached ally. Death Rattle : Prevent all damage that would be dealt to target ally you control this turn.'
+cost: '5'
 
 class:
   - Priest
 
-cost: '5'
+rule:
+  - type: ability
+    text: 'Attach to target ally you control. Ongoing : Prevent all damage that would be dealt to attached ally. Death Rattle : Prevent all damage that would be dealt to target ally you control this turn.'
+
+regulation:
+
+errata: []
 
 temp: Discipline

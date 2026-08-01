@@ -2,13 +2,9 @@ card_name: Deathchill Cloak
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When this armor prevents damage that would be dealt by an attacking ally, that ally can't ready while this armor remains under your control.
+cost: '3'
 
 class:
   - Priest
@@ -17,6 +13,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: When this armor prevents damage that would be dealt by an attacking ally, that ally can't ready while this armor remains under your control.
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

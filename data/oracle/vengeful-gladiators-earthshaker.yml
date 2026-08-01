@@ -2,17 +2,19 @@ card_name: Vengeful Gladiators Earthshaker
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When combat damage is dealt with one or more of your weapons, ready all of your weapons. → Your hero deals 2 frost damage to target hero or ally. A character dealt damage this way can't attack or protect this turn.
+cost: '7'
 
 class:
   - Shaman
 
-cost: '7'
+rule:
+  - type: ability
+    text: When combat damage is dealt with one or more of your weapons, ready all of your weapons. → Your hero deals 2 frost damage to target hero or ally. A character dealt damage this way can't attack or protect this turn.
+
+regulation:
+
+errata: []
 
 temp: Arena Armor Set Mail

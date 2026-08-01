@@ -2,17 +2,19 @@ card_name: Raging Shout
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Allies you control have Assault 1 . Stash : Your hero has Assault 1 this turn.'
+cost: '3'
 
 class:
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : Allies you control have Assault 1 . Stash : Your hero has Assault 1 this turn.'
+
+regulation:
+
+errata: []
 
 temp: Fury Shout

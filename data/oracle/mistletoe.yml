@@ -2,13 +2,9 @@ card_name: Mistletoe
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: You and another friendly player each exhaust their heroes → You and that player each draw a card.
+cost: '3'
 
 class:
   - Priest
@@ -21,6 +17,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '3'
+rule:
+  - type: ability
+    text: You and another friendly player each exhaust their heroes → You and that player each draw a card.
+
+regulation:
+
+errata: []
 
 temp: Item

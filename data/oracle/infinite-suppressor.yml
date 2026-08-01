@@ -2,20 +2,22 @@ card_name: Infinite Suppressor
 
 layout: standard
 
-regulation:
-
 category: Ally
-
-errata: []
 
 damage: 1
 
 health: 5
 
-text: Raiding allies lose and can't have powers.
-
 combat: Arcane
 
-temp: Infinite Dragonkin
-
 type: Boss
+
+rule:
+  - type: ability
+    text: Raiding allies lose and can't have powers.
+
+regulation:
+
+errata: []
+
+temp: Infinite Dragonkin

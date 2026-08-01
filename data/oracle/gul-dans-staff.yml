@@ -2,8 +2,10 @@ card_name: Gul Dans Staff
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

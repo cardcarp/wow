@@ -2,20 +2,22 @@ card_name: Twilight Assassin
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 2
 
-text: When this ally enters play, draw a card for each other player unless that player chooses and discards a card.
-
-cost: '3'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: When this ally enters play, draw a card for each other player unless that player chooses and discards a card.
+
+regulation:
+
+errata: []
 
 temp: Blood Elf Rogue

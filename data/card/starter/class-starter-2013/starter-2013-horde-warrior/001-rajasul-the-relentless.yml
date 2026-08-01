@@ -10,4 +10,5 @@ artist: Filip Acovic
 
 flavor: '"YA IN FOR IT NOW, MON!"'
 
-appearance: []
+variation:
+  - transform

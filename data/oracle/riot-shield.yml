@@ -2,18 +2,20 @@ card_name: Riot Shield
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When your hero is dealt combat damage, you may add a +1 counter.
+cost: '3'
 
 class:
   - Paladin
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: When your hero is dealt combat damage, you may add a +1 counter.
+
+regulation:
+
+errata: []
 
 temp: Armor Shield

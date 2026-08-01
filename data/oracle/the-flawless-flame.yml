@@ -2,12 +2,14 @@ card_name: The Flawless Flame
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: "Pay 2 to complete this quest. Reward : Target ally can't protect this turn."
 
-text: "Pay 2 to complete this quest. Reward : Target ally can't protect this turn."
+regulation:
+
+errata: []
 
 temp: ''

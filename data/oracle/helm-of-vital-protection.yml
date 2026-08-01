@@ -2,19 +2,21 @@ card_name: Helm of Vital Protection
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Weapons you control have +1 ATK. Other armor you control have +1 .
+cost: '3'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '3'
+rule:
+  - type: ability
+    text: Weapons you control have +1 ATK. Other armor you control have +1 .
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

@@ -2,22 +2,24 @@ card_name: Naz_jar Sorceress
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 3
 
-text: → Target ally can't attack this turn.
-
-cost: '2'
-
 combat: Frost
 
-temp: Naga Mage
-
 type: Monster
+
+rule:
+  - type: ability
+    text: → Target ally can't attack this turn.
+
+regulation:
+
+errata: []
+
+temp: Naga Mage

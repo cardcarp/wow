@@ -2,17 +2,19 @@ card_name: Bully
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target ally or equipment with cost 4 or less.
+cost: '3'
 
 class:
   - Rogue
 
-cost: '3'
+rule:
+  - type: ability
+    text: Destroy target ally or equipment with cost 4 or less.
+
+regulation:
+
+errata: []
 
 temp: Assassination

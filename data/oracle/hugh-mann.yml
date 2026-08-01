@@ -2,22 +2,24 @@ card_name: Hugh Mann
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 2
 
 health: 5
 
-text: Other Human allies you control have +1 / +1.
-
-cost: '4'
-
 combat: Holy
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: Other Human allies you control have +1 / +1.
+
+regulation:
+
+errata: []
 
 temp: Human Paladin

@@ -2,17 +2,19 @@ card_name: Gushing Wound
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 3 melee damage to attached hero. Attached hero's controller may draw a card."
+cost: '3'
 
 class:
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 3 melee damage to attached hero. Attached hero's controller may draw a card."
+
+regulation:
+
+errata: []
 
 temp: Arms

@@ -2,17 +2,19 @@ card_name: Shelter the Flock
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Your hero heals 11 damage from each friendly hero.
+cost: '4'
 
 class:
   - Priest
 
-cost: '4'
+rule:
+  - type: ability
+    text: Your hero heals 11 damage from each friendly hero.
+
+regulation:
+
+errata: []
 
 temp: Holy

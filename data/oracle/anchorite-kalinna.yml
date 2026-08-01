@@ -2,16 +2,19 @@ card_name: Anchorite Kalinna
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 26
 
-text: x , Flip Anchorite Kalinna → Destroy target ability with cost X.
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: x , Flip Anchorite Kalinna → Destroy target ability with cost X.
+
+regulation:
+
+errata: []
 
 temp: Draenei Priest

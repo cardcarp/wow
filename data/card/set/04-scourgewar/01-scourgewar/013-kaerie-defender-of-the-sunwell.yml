@@ -10,4 +10,5 @@ artist: Gonzalo Ordonez
 
 flavor: '"Retribution is more than just an idea, it is a state of being."'
 
-appearance: []
+variation:
+  - transform

@@ -2,25 +2,27 @@ card_name: Karuzak
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '6'
 
 damage: 6
 
 health: 6
 
-text: 'At the start of your turn, each opponent chooses one: This ally deals 6 shadow damage to his hero; or you draw two cards.'
+combat: Shadow
 
 class:
   - Warlock
 
-cost: '6'
+type: Monster
 
-combat: Shadow
+rule:
+  - type: ability
+    text: 'At the start of your turn, each opponent chooses one: This ally deals 6 shadow damage to his hero; or you draw two cards.'
+
+regulation:
+
+errata: []
 
 temp: Doomguard Demon
-
-type: Monster

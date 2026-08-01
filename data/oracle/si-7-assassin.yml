@@ -2,20 +2,22 @@ card_name: SI_7 Assassin
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 4
 
 health: 1
 
-cost: '2'
-
 combat: Melee
 
 faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Human Rogue

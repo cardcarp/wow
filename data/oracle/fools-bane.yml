@@ -2,18 +2,20 @@ card_name: Fools Bane
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: You pay 1 more to play this weapon for each card in opposing hands.
+cost: '0'
 
 class:
   - Shaman
   - Rogue
 
-cost: '0'
+rule:
+  - type: ability
+    text: You pay 1 more to play this weapon for each card in opposing hands.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Mace

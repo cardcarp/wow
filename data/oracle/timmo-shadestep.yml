@@ -2,16 +2,19 @@ card_name: Timmo Shadestep
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 27
 
-text: 'On your turn: 5 , Flip Timmo → Destroy target exhausted ally.'
-
 faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 5 , Flip Timmo → Destroy target exhausted ally.'
+
+regulation:
+
+errata: []
 
 temp: Gnome Rogue

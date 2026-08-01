@@ -10,4 +10,5 @@ artist: Hideaki Takamura
 
 flavor: Wretched
 
-appearance: []
+variation:
+  - transform

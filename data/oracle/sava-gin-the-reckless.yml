@@ -2,22 +2,24 @@ card_name: Sava_gin the Reckless
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 8
 
 health: 1
 
-text: 'This ally attacks opposing heroes and allies at random. Stash : Your hero deals 2 nature damage to target random opposing hero or ally.'
-
-cost: '3'
-
 combat: Nature
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: 'This ally attacks opposing heroes and allies at random. Stash : Your hero deals 2 nature damage to target random opposing hero or ally.'
+
+regulation:
+
+errata: []
 
 temp: Troll Druid

@@ -2,20 +2,22 @@ card_name: Crawling Claw
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 5
 
 health: 1
 
-text: Artifact When this ally attacks, you and target opponent play "Rock, Parchment, Sickle." If you lose, it can't deal damage this combat.
-
-cost: '3'
-
 combat: Melee
+
+rule:
+  - type: ability
+    text: Artifact When this ally attacks, you and target opponent play "Rock, Parchment, Sickle." If you lose, it can't deal damage this combat.
+
+regulation:
+
+errata: []
 
 temp: Crawling Claw

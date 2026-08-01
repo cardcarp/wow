@@ -2,11 +2,7 @@ card_name: Ghoul
 
 layout: standard
 
-regulation:
-
 category: Token
-
-errata: []
 
 damage: 3
 
@@ -14,6 +10,12 @@ health: 3
 
 combat: Melee
 
-temp: Ghoul
-
 type: Ally
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ghoul

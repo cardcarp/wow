@@ -2,18 +2,20 @@ card_name: Bestial Rage
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : Your hero has Assault 1 for each Hunter and Warrior you control.'
+cost: '3'
 
 class:
   - Warrior
   - Hunter
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : Your hero has Assault 1 for each Hunter and Warrior you control.'
+
+regulation:
+
+errata: []
 
 temp: Beast Mastery Fury

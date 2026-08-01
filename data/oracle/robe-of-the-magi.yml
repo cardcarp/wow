@@ -2,19 +2,21 @@ card_name: Robe of the Magi
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When this armor enters play, choose "Demon", a race, or an race. When you play a non-Ongoing ability, if you control two or more allies of the chosen race, you may copy that ability. (You may choose new targets for the copy.)
+cost: '6'
 
 class:
   - Priest
   - Warlock
   - Mage
 
-cost: '6'
+rule:
+  - type: ability
+    text: When this armor enters play, choose "Demon", a race, or an race. When you play a non-Ongoing ability, if you control two or more allies of the chosen race, you may copy that ability. (You may choose new targets for the copy.)
+
+regulation:
+
+errata: []
 
 temp: Armor Cloth

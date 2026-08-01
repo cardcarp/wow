@@ -2,8 +2,10 @@ card_name: Tweets Lightsprocket
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

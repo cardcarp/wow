@@ -2,17 +2,19 @@ card_name: The Depth of Shadows
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: Your hero deals 1 melee damage to target hero or ally. Its controller destroys one of his resources for each damage dealt this way.
+cost: '6'
 
 class:
   - Rogue
 
-cost: '6'
+instant: Your hero deals 1 melee damage to target hero or ally. Its controller destroys one of his resources for each damage dealt this way.
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Assassination Combo

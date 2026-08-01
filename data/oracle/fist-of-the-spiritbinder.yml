@@ -2,8 +2,10 @@ card_name: Fist Of The Spiritbinder
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

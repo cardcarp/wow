@@ -10,4 +10,5 @@ artist: Greg Staples
 
 flavor: '"I will shred your body, and then Sardok will shred your soul."'
 
-appearance: []
+variation:
+  - transform

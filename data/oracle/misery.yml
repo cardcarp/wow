@@ -2,17 +2,19 @@ card_name: Misery
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Shadow Hero Required Ongoing : x , → Target player puts the top X cards of his deck into his graveyard.'
+cost: '2'
 
 class:
   - Priest
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Shadow Hero Required Ongoing : x , → Target player puts the top X cards of his deck into his graveyard.'
+
+regulation:
+
+errata: []
 
 temp: Shadow Talent

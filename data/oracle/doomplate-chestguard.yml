@@ -2,18 +2,20 @@ card_name: Doomplate Chestguard
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Your hero has Protector while you have five or more equipment.
+cost: '1'
 
 class:
   - Paladin
   - Warrior
 
-cost: '1'
+rule:
+  - type: ability
+    text: Your hero has Protector while you have five or more equipment.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

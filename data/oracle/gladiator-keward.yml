@@ -2,24 +2,26 @@ card_name: Gladiator Keward
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 3
 
-text: Arena allies in your party are Protector s.
-
-cost: '3'
-
 combat: Melee
 
 faction: Alliance
 
-temp: Dwarf Warrior
-
 type: Arena
+
+rule:
+  - type: ability
+    text: Arena allies in your party are Protector s.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior

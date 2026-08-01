@@ -2,17 +2,19 @@ card_name: Natural Purification
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: Destroy target ability or equipment with cost less than or equal to the number of token allies you control.
+cost: '1'
 
 class:
   - Druid
 
-cost: '1'
+rule:
+  - type: ability
+    text: Destroy target ability or equipment with cost less than or equal to the number of token allies you control.
+
+regulation:
+
+errata: []
 
 temp: Restoration

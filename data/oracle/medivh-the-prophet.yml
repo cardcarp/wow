@@ -2,20 +2,23 @@ card_name: Medivh the Prophet
 
 layout: transform
 
-regulation:
-
 category: Hero
 
-errata: []
+cost: '5'
 
 damage: 1
 
 health: 30
 
-text: 8 → Search your deck and/or hand for a master hero that does not have the same name as a card you control. Put that hero into play as an ally. (It is no longer a hero.)
+type: Master
 
-cost: '5'
+rule:
+  - type: ability
+    position: front
+    text: 8 → Search your deck and/or hand for a master hero that does not have the same name as a card you control. Put that hero into play as an ally. (It is no longer a hero.)
+
+regulation:
+
+errata: []
 
 temp: Human Prophet
-
-type: Master

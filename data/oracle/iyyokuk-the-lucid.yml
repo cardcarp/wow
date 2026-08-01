@@ -2,8 +2,10 @@ card_name: Iyyokuk The Lucid
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

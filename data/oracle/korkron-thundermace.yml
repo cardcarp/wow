@@ -2,8 +2,10 @@ card_name: Korkron Thundermace
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,12 +2,14 @@ card_name: A Rare Bean
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: 'Pay 2 to complete this quest. Reward : Choose a rarity, then reveal the top three cards of your deck. Put a revealed card with that rarity into hand and the rest on the bottom of your deck.'
 
-text: 'Pay 2 to complete this quest. Reward : Choose a rarity, then reveal the top three cards of your deck. Put a revealed card with that rarity into hand and the rest on the bottom of your deck.'
+regulation:
+
+errata: []
 
 temp: ''

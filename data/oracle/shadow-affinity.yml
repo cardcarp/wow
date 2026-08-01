@@ -2,8 +2,10 @@ card_name: Shadow Affinity
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

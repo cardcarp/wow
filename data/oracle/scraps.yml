@@ -2,23 +2,25 @@ card_name: Scraps
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 4
 
 health: 3
 
-text: At the start of your turn, destroy Scraps unless you remove an ally card in any graveyard from the game.
+combat: Melee
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: At the start of your turn, destroy Scraps unless you remove an ally card in any graveyard from the game.
 
-combat: Melee
+regulation:
+
+errata: []
 
 temp: Carrion Bird

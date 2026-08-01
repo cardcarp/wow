@@ -2,17 +2,19 @@ card_name: Ardent Defender
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Protection Hero Required Ongoing : Prevent all damage that would be dealt to your hero while it has 25 or more damage.'
+cost: '6'
 
 class:
   - Paladin
 
-cost: '6'
+rule:
+  - type: ability
+    text: 'Protection Hero Required Ongoing : Prevent all damage that would be dealt to your hero while it has 25 or more damage.'
+
+regulation:
+
+errata: []
 
 temp: Protection Talent

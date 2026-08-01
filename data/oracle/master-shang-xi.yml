@@ -2,8 +2,10 @@ card_name: Master Shang Xi
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

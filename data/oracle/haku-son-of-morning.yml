@@ -2,16 +2,19 @@ card_name: Haku, Son of Morning
 
 layout: transform
 
-regulation:
-
 category: Hero
-
-errata: []
 
 health: 30
 
-text: 7 , Flip Haku → Haku deals unpreventable holy damage to target hero or ally equal to the cost of an ally you control.
-
 faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 7 , Flip Haku → Haku deals unpreventable holy damage to target hero or ally equal to the cost of an ally you control.
+
+regulation:
+
+errata: []
 
 temp: Tauren Paladin

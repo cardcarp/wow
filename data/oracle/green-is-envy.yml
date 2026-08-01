@@ -2,12 +2,14 @@ card_name: Green Is Envy
 
 layout: standard
 
-regulation:
-
 category: Event
 
-errata: []
+rule:
+  - type: ability
+    text: Destroy all opposing rare or epic cards.
 
-text: Destroy all opposing rare or epic cards.
+regulation:
+
+errata: []
 
 temp: ''

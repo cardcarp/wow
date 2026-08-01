@@ -2,17 +2,19 @@ card_name: Blood Parasite
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Blood Talent Put three 1 / 1 Bloodworm Monster ally tokens into play. Ongoing : When a token ally you control is destroyed, it heals 2 damage from your hero.'
+cost: '3'
 
 class:
   - Death Knight
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Blood Talent Put three 1 / 1 Bloodworm Monster ally tokens into play. Ongoing : When a token ally you control is destroyed, it heals 2 damage from your hero.'
+
+regulation:
+
+errata: []
 
 temp: Blood

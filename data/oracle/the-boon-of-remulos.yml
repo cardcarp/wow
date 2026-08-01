@@ -2,12 +2,14 @@ card_name: The Boon of Remulos
 
 layout: standard
 
-regulation:
-
 category: Quest
 
-errata: []
+rule:
+  - type: ability
+    text: "On an opponent's turn: Pay 2 to complete this quest. Reward: Draw a card."
 
-text: "On an opponent's turn: Pay 2 to complete this quest. Reward: Draw a card."
+regulation:
+
+errata: []
 
 temp: ''

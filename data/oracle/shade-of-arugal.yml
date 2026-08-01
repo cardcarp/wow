@@ -2,22 +2,24 @@ card_name: Shade of Arugal
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 5
 
 health: 3
 
-text: 'Scourge Hero Required Death Rattle : You may destroy an Unlimited Scourge ally you control. If you do, put this ally from your graveyard into play.'
-
-cost: '4'
-
 combat: Shadow
 
-temp: Shade
-
 type: Raid
+
+rule:
+  - type: ability
+    text: 'Scourge Hero Required Death Rattle : You may destroy an Unlimited Scourge ally you control. If you do, put this ally from your graveyard into play.'
+
+regulation:
+
+errata: []
+
+temp: Shade

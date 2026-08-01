@@ -2,22 +2,24 @@ card_name: Jadefire Scout
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '1'
 
 damage: 3
 
 health: 2
 
-text: This ally can attack only heroes.
-
-cost: '1'
-
 combat: Shadow
 
-temp: Satyr Demon Hunter
-
 type: Monster
+
+rule:
+  - type: ability
+    text: This ally can attack only heroes.
+
+regulation:
+
+errata: []
+
+temp: Satyr Demon Hunter

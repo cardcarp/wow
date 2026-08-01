@@ -10,4 +10,5 @@ artist: Dave Kendall
 
 flavor: (See ghost rules.)
 
-appearance: []
+variation:
+  - transform

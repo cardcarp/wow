@@ -2,22 +2,24 @@ card_name: High Oracle Naseem
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '3'
 
 damage: 2
 
 health: 5
 
-text: Protector This ally has all standard classes in all zones.
-
-cost: '3'
-
 combat: Holy
 
-temp: Tol'vir
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Protector This ally has all standard classes in all zones.
+
+regulation:
+
+errata: []
+
+temp: Tol'vir

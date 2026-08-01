@@ -2,14 +2,16 @@ card_name: Pit Lords Glaive
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Play only if Magtheridon is Unleashed. When Magtheridon deals combat damage to a hero or ally, he also deals that much melee damage to a second target hero or ally.
-
 cost: '4'
+
+rule:
+  - type: ability
+    text: Play only if Magtheridon is Unleashed. When Magtheridon deals combat damage to a hero or ally, he also deals that much melee damage to a second target hero or ally.
+
+regulation:
+
+errata: []
 
 temp: 2H Weapon Polearm

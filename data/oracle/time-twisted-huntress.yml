@@ -2,20 +2,22 @@ card_name: Time-Twisted Huntress
 
 layout: standard
 
-regulation:
-
 category: Ally
-
-errata: []
 
 damage: 3
 
 health: 2
 
-text: Prevent all damage that would be dealt to this ally by Raiding allies with an even cost.
-
 combat: Ranged
 
-temp: Night Elf Echo
-
 type: Boss
+
+rule:
+  - type: ability
+    text: Prevent all damage that would be dealt to this ally by Raiding allies with an even cost.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Echo

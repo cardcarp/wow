@@ -10,4 +10,5 @@ artist: Michael Kormarck
 
 flavor: '"The Light rewards faith, not form."'
 
-appearance: []
+variation:
+  - transform

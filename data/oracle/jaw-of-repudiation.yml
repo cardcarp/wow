@@ -2,19 +2,21 @@ card_name: Jaw of Repudiation
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: 8 → Your hero deals 8 melee damage to target hero.
+cost: '2'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '2'
+rule:
+  - type: ability
+    text: 8 → Your hero deals 8 melee damage to target hero.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

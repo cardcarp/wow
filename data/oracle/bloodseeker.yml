@@ -2,17 +2,19 @@ card_name: Bloodseeker
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you strike with Bloodseeker, your hero has Long-Range this combat. At the end of your turn, if no damage was dealt with Bloodseeker this turn, put 3 damage on your hero.
+cost: '2'
 
 class:
   - Hunter
 
-cost: '2'
+rule:
+  - type: ability
+    text: When you strike with Bloodseeker, your hero has Long-Range this combat. At the end of your turn, if no damage was dealt with Bloodseeker this turn, put 3 damage on your hero.
+
+regulation:
+
+errata: []
 
 temp: Ranged Weapon Crossbow

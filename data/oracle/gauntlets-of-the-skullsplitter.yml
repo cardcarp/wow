@@ -2,18 +2,20 @@ card_name: Gauntlets of the Skullsplitter
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When an ally in your party attacks, you may exhaust target armor.
+cost: '3'
 
 class:
   - Paladin
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: When an ally in your party attacks, you may exhaust target armor.
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

@@ -2,22 +2,24 @@ card_name: Magnus Longbarrel
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 3
 
 health: 2
 
-text: 1 , Destroy Marcus → Turn target resource face down.
-
-cost: '2'
-
 combat: Ranged
 
 faction: Alliance
+
+rule:
+  - type: ability
+    text: 1 , Destroy Marcus → Turn target resource face down.
+
+regulation:
+
+errata: []
 
 temp: Dwarf Hunter

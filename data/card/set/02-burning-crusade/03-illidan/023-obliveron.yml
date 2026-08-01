@@ -10,4 +10,5 @@ artist: Alex Horley Orlandelli
 
 flavor: (like Fire Hero Required)
 
-appearance: []
+variation:
+  - transform

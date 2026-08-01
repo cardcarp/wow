@@ -10,4 +10,5 @@ artist: Thomas Denmark
 
 flavor: How you die can say a lot about how you lived.
 
-appearance: []
+variation:
+  - transform

@@ -2,22 +2,24 @@ card_name: Sanva
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '7'
 
 damage: 6
 
 health: 6
 
-text: War Stomp
-
-cost: '7'
-
 combat: Frost
 
 faction: Horde
+
+rule:
+  - type: ability
+    text: War Stomp
+
+regulation:
+
+errata: []
 
 temp: Tauren Shaman

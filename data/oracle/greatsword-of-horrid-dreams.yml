@@ -2,19 +2,21 @@ card_name: Greatsword of Horrid Dreams
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: As an ally enters play under an opponent's control, it loses and can't have powers until the start of that opponent's next turn.
+cost: '4'
 
 class:
   - Paladin
   - Warlock
   - Mage
 
-cost: '4'
+rule:
+  - type: ability
+    text: As an ally enters play under an opponent's control, it loses and can't have powers until the start of that opponent's next turn.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Sword

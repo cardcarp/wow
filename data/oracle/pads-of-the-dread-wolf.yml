@@ -2,16 +2,18 @@ card_name: Pads of the Dread Wolf
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
+cost: '1'
 
 class:
   - Druid
   - Rogue
 
-cost: '1'
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Armor Leather

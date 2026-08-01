@@ -2,17 +2,19 @@ card_name: Meteor Shard
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When you strike with this weapon, you may reveal the top card of target opponent's deck. If it's an ability, ally, or equipment with cost 4 or less, this weapon has +3 ATK this turn.
+cost: '2'
 
 class:
   - Rogue
 
-cost: '2'
+rule:
+  - type: ability
+    text: When you strike with this weapon, you may reveal the top card of target opponent's deck. If it's an ability, ally, or equipment with cost 4 or less, this weapon has +3 ATK this turn.
+
+regulation:
+
+errata: []
 
 temp: 1H Weapon Dagger

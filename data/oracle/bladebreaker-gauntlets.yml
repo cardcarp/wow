@@ -2,19 +2,21 @@ card_name: Bladebreaker Gauntlets
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: When this armor enters play, you may destroy target armor or weapon. Opposing weapons have -1 ATK. Opposing armor have -1 .
+cost: '6'
 
 class:
   - Paladin
   - Warrior
   - Death Knight
 
-cost: '6'
+rule:
+  - type: ability
+    text: When this armor enters play, you may destroy target armor or weapon. Opposing weapons have -1 ATK. Opposing armor have -1 .
+
+regulation:
+
+errata: []
 
 temp: Armor Plate

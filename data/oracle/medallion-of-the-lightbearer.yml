@@ -2,13 +2,9 @@ card_name: Medallion of the Lightbearer
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: Aldor Reputation Heroes and allies in your party with inspire are also Protector s.
+cost: '1'
 
 class:
   - Priest
@@ -21,6 +17,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: Aldor Reputation Heroes and allies in your party with inspire are also Protector s.
+
+regulation:
+
+errata: []
 
 temp: Item Neck

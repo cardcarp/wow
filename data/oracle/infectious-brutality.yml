@@ -2,17 +2,19 @@ card_name: Infectious Brutality
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : On your turn: → Target ally has +2 ATK this turn.'
+cost: '3'
 
 class:
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Ongoing : On your turn: → Target ally has +2 ATK this turn.'
+
+regulation:
+
+errata: []
 
 temp: Fury

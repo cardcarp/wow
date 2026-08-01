@@ -2,17 +2,19 @@ card_name: Unholy Presence
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Ongoing : You pay 1 less to play and strike with weapons.'
+cost: '2'
 
 class:
   - Death Knight
 
-cost: '2'
+rule:
+  - type: ability
+    text: 'Ongoing : You pay 1 less to play and strike with weapons.'
+
+regulation:
+
+errata: []
 
 temp: Unholy

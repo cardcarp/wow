@@ -2,8 +2,10 @@ card_name: Relic Of Chi Ji
 
 layout: standard
 
-regulation:
-
 category:
+
+rule: []
+
+regulation:
 
 errata: []

@@ -2,22 +2,24 @@ card_name: Neferset Flamecaller
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '2'
 
 damage: 1
 
 health: 3
 
-text: Sentinel
-
-cost: '2'
-
 combat: Fire
 
-temp: Tol'vir Mage Shaman
-
 type: Monster
+
+rule:
+  - type: ability
+    text: Sentinel
+
+regulation:
+
+errata: []
+
+temp: Tol'vir Mage Shaman

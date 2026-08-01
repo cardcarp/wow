@@ -2,17 +2,19 @@ card_name: Anger Management
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-text: 'Arms Hero Required Ongoing : When your hero deals combat damage with a weapon to a hero, put the top card of your deck into your resource row face down and exhausted.'
+cost: '3'
 
 class:
   - Warrior
 
-cost: '3'
+rule:
+  - type: ability
+    text: 'Arms Hero Required Ongoing : When your hero deals combat damage with a weapon to a hero, put the top card of your deck into your resource row face down and exhausted.'
+
+regulation:
+
+errata: []
 
 temp: Arms Talent

@@ -10,4 +10,5 @@ artist: Alex Garner
 
 flavor: '"Our family has always had a disturbing penchant for irony."'
 
-appearance: []
+variation:
+  - transform

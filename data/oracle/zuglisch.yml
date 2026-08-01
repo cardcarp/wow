@@ -2,20 +2,22 @@ card_name: Zuglisch
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '4'
 
 damage: 6
 
 health: 2
 
-cost: '4'
-
 combat: Melee
 
-temp: Ogre Warrior
-
 type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ogre Warrior

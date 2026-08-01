@@ -2,25 +2,27 @@ card_name: Dakota
 
 layout: standard
 
-regulation:
-
 category: Ally
 
-errata: []
+cost: '5'
 
 damage: 4
 
 health: 8
 
-text: Your hero can't be destroyed.
+combat: Melee
 
 class:
   - Hunter
 
-cost: '5'
+type: Monster
 
-combat: Melee
+rule:
+  - type: ability
+    text: Your hero can't be destroyed.
+
+regulation:
+
+errata: []
 
 temp: Wolf Beast
-
-type: Monster

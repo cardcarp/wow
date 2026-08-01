@@ -2,13 +2,9 @@ card_name: Veterans Pendant
 
 layout: standard
 
-regulation:
-
 category: Equipment
 
-errata: []
-
-text: If you win this game, you decide who goes first next game.
+cost: '1'
 
 class:
   - Priest
@@ -21,6 +17,12 @@ class:
   - Warlock
   - Shaman
 
-cost: '1'
+rule:
+  - type: ability
+    text: If you win this game, you decide who goes first next game.
+
+regulation:
+
+errata: []
 
 temp: Item Neck

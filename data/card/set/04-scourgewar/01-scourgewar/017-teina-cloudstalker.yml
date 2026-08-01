@@ -10,4 +10,5 @@ artist: James Ryman
 
 flavor: '"The Earth Mother weeps at the devastation caused by the Scourge. I have no choice but to punish your transgressions."'
 
-appearance: []
+variation:
+  - transform

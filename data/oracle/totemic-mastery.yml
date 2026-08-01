@@ -2,17 +2,19 @@ card_name: Totemic Mastery
 
 layout: standard
 
-regulation:
-
 category: Ability
 
-errata: []
-
-instant: 'Restoration Hero Required Ongoing : Your Totems have +3 health.'
+cost: '1'
 
 class:
   - Shaman
 
-cost: '1'
+instant: 'Restoration Hero Required Ongoing : Your Totems have +3 health.'
+
+rule: []
+
+regulation:
+
+errata: []
 
 temp: Restoration Talent
