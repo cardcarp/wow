@@ -2,9 +2,10 @@ import json
 import os
 import re
 
-from part.util import to_kebab_case, get_env
+from part.util import to_kebab_case
 
-cdn = get_env("CDN_URL", "")
+# Derived set hierarchy built by script/sets.py, attached under data.set_list
+SETS_PATH = 'dist/sets.json'
 
 # Whitelist properties to keep lists lightweight and queryable-friendly
 CARD_LIST_PROPERTIES = [
@@ -18,7 +19,7 @@ CARD_LIST_PROPERTIES = [
     "legal",
     "rarity",
     "artist",
-    "img"
+    "dir"
 ]
 
 DECK_LIST_PROPERTIES = [
@@ -72,20 +73,24 @@ def combine_data():
                     filename = f"{card_lex}-{card_name}" if card_lex else card_name
 
                     segments = [
-                        "card",
                         to_kebab_case(collection_type),
                         to_kebab_case(collection_folder),
                         to_kebab_case(set_folder),
                         to_kebab_case(filename)
                     ]
 
-                    img_path = f"{cdn}/" + "/".join(filter(None, segments))
+                    dir_path = f"/".join(filter(None, segments))
                     
-                    record['img'] = img_path
+                    record['dir'] = dir_path
 
             # If processing data, add sets, a derived compile to object
-            # if key == 'data':
-                    # code goes here
+            if key == 'data':
+                if os.path.exists(SETS_PATH):
+                    with open(SETS_PATH, 'r', encoding='utf-8') as sf:
+                        data['set_list'] = json.load(sf)
+                    print(f"Attached {SETS_PATH} to '{key}.set_list'")
+                else:
+                    print(f"Warning: {SETS_PATH} not found, '{key}.set_list' omitted.")
 
             combined[key] = data
             print(f"Loaded {path} into key '{key}'")
