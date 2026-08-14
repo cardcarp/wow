@@ -1,13 +1,13 @@
-oracle: feline-grace
-
-lex: '035'
-
-set: scourgewar
+index: '035'
 
 rarity: Common
 
 artist: Massive Black
 
+variation: []
+
 flavor: "\"You're lucky if you realize what's going on before you're nothing more than a chew toy.\" - Gyro of the Ring"
 
-variation: []
+oracle: feline-grace-scourgewar-035
+
+set: Scourgewar

@@ -1,0 +1,27 @@
+name: Jaedan Sunshot
+
+origin: march-of-the-legion-191
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When you play an ability, Jaedan has Long-Range this turn.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Hunter

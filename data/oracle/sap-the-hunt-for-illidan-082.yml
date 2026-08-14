@@ -1,0 +1,22 @@
+name: Sap
+
+origin: the-hunt-for-illidan-082
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: "Attach to target hero or ally and exhaust it. Ongoing : Attached character can't ready during its controller's ready step. When attached character is dealt damage, destroy this ability."
+
+regulation:
+
+errata: []
+
+temp: Subtlety

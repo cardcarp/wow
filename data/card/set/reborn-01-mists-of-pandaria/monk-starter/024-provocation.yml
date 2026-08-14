@@ -1,13 +1,13 @@
-oracle: provocation
-
-lex: '024'
-
-set: monk-starter
+index: '024'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: provocation-monk-starter-024
+
+set: Monk Starter

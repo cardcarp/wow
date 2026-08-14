@@ -1,14 +1,14 @@
-oracle: esonea
-
-lex: '004'
-
-set: wrathgate
+index: '004'
 
 rarity: Uncommon
 
 artist: Ron Lemen
 
-flavor: '"These who have been brought back by the curse of undeath must be freed so that their souls may rest."'
-
 variation:
   - transform
+
+flavor: '"These who have been brought back by the curse of undeath must be freed so that their souls may rest."'
+
+oracle: esonea-wrathgate-004
+
+set: Wrathgate

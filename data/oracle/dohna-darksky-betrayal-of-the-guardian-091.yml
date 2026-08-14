@@ -1,0 +1,27 @@
+name: Dohna Darksky
+
+origin: betrayal-of-the-guardian-091
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Other Tauren allies you control have +2 .
+
+regulation:
+
+errata: []
+
+temp: Tauren Priest

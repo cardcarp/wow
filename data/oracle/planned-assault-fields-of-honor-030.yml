@@ -1,0 +1,22 @@
+name: Planned Assault
+
+origin: fields-of-honor-030
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+instant: You can play target ability card from your graveyard this turn if able. If an ability card would enter your graveyard this turn, remove it from the game instead.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

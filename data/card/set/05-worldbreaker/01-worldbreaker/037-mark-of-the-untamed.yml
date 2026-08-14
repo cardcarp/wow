@@ -1,13 +1,13 @@
-oracle: mark-of-the-untamed
-
-lex: '037'
-
-set: worldbreaker
+index: '037'
 
 rarity: Uncommon
 
 artist: Luke Mancini
 
+variation: []
+
 flavor: "\"Become one with nature, mon.\" - Jumo'zin"
 
-variation: []
+oracle: mark-of-the-untamed-worldbreaker-037
+
+set: Worldbreaker

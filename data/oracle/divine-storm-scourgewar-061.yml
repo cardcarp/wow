@@ -1,0 +1,22 @@
+name: Divine Storm
+
+origin: scourgewar-061
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: Retribution Hero Required Your hero deals X unpreventable holy damage to each opposing hero and ally that dealt damage this turn, where X is the ATK of a weapon you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution Talent

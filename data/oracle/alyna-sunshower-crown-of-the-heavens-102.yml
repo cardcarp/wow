@@ -1,0 +1,27 @@
+name: Alyna Sunshower
+
+origin: crown-of-the-heavens-102
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Elusive Mend 1
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Priest

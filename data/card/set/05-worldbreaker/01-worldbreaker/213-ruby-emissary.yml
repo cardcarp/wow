@@ -1,13 +1,13 @@
-oracle: ruby-emissary
-
-lex: '213'
-
-set: worldbreaker
+index: '213'
 
 rarity: Uncommon
 
 artist: E.M. Gist
 
+variation: []
+
 flavor: Alexstrasza and her dragonflight will do whatever it takes to rid Azeroth of Deathwing once and for all.
 
-variation: []
+oracle: ruby-emissary-worldbreaker-213
+
+set: Worldbreaker

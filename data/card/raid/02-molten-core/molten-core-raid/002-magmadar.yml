@@ -1,14 +1,14 @@
-oracle: magmadar
-
-lex: '002'
-
-set: molten-core-raid
+index: '002'
 
 rarity: Rare
 
 artist: Clint Langley
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: magmadar-molten-core-raid-002
+
+set: Molten Core Raid

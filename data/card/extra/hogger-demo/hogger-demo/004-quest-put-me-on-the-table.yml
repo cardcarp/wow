@@ -1,13 +1,13 @@
-oracle: quest-put-me-on-the-table
-
-lex: '004'
-
-set: hogger-demo
+index: '004'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: quest-put-me-on-the-table-hogger-demo-004
+
+set: Hogger Demo

@@ -1,0 +1,24 @@
+name: Crimson Felt Hat
+
+origin: through-the-dark-portal-251
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: When you play an ability, you may exhaust target armor.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

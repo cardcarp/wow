@@ -1,0 +1,22 @@
+name: Arcane Essence
+
+origin: icecrown-040
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Exhaust all resources you control. Draw two cards.
+
+regulation:
+
+errata: []
+
+temp: Arcane

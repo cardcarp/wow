@@ -1,0 +1,25 @@
+name: Vaerik Proudhoof
+
+origin: heroes-of-azeroth-262
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 5
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

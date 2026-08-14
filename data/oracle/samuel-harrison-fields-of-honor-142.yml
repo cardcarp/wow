@@ -1,0 +1,27 @@
+name: Samuel Harrison
+
+origin: fields-of-honor-142
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 6
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Will of the Forsaken
+
+regulation:
+
+errata: []
+
+temp: Undead Warrior

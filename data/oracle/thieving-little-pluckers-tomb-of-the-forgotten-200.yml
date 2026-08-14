@@ -1,0 +1,17 @@
+name: Thieving Little Pluckers
+
+origin: tomb-of-the-forgotten-200
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'If you control two or more equipment: Pay 2 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

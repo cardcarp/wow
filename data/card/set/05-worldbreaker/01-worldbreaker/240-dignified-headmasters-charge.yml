@@ -1,13 +1,13 @@
-oracle: dignified-headmasters-charge
-
-lex: '240'
-
-set: worldbreaker
+index: '240'
 
 rarity: Rare
 
 artist: Raven Mimura
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: dignified-headmasters-charge-worldbreaker-240
+
+set: Worldbreaker

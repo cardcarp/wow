@@ -1,13 +1,13 @@
-oracle: king-varian-wrynn
-
-lex: '144'
-
-set: scourgewar
+index: '144'
 
 rarity: Epic
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor: "\"The time has come to bring retribution for the countless souls lost in Lordaeron's fall!\""
 
-variation: []
+oracle: king-varian-wrynn-scourgewar-144
+
+set: Scourgewar

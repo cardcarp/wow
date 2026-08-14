@@ -1,13 +1,13 @@
-oracle: vylar-whitepaw
-
-lex: '121'
-
-set: icecrown
+index: '121'
 
 rarity: Common
 
 artist: Carl Critchlow
 
+variation: []
+
 flavor: '"Sometimes the best defense is still a good defense."'
 
-variation: []
+oracle: vylar-whitepaw-icecrown-121
+
+set: Icecrown

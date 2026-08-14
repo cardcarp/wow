@@ -1,13 +1,13 @@
-oracle: thunderstrike-weapon
-
-lex: '102'
-
-set: worldbreaker
+index: '102'
 
 rarity: Uncommon
 
 artist: Sean O'Daniels
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: thunderstrike-weapon-worldbreaker-102
+
+set: Worldbreaker

@@ -1,0 +1,22 @@
+name: Pack Tactics
+
+origin: fields-of-honor-023
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+instant: 'Ongoing : Allies in your party have +1 ATK / +1 health. Your hero is in Cat Form .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral Combo

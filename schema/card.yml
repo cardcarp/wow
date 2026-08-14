@@ -1,4 +1,4 @@
-lex:
+index:
   type: string
   required: true
   coerce: str

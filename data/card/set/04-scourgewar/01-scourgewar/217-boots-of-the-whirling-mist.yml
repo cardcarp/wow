@@ -1,13 +1,13 @@
-oracle: boots-of-the-whirling-mist
-
-lex: '217'
-
-set: scourgewar
+index: '217'
 
 rarity: Rare
 
 artist: James Zhang
 
+variation: []
+
 flavor: "\"Feet, don't fail me now!\""
 
-variation: []
+oracle: boots-of-the-whirling-mist-scourgewar-217
+
+set: Scourgewar

@@ -1,0 +1,27 @@
+name: Professor Putricide
+
+origin: assault-on-icecrown-citadel-raid-015
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 10
+
+health: 15
+
+combat: Melee
+
+type: Raid
+
+rule:
+  - type: ability
+    text: 'Protector Unstable Experiment : At the end of your turn, roll a die. When you roll a die this way, Professor Putricide deals that much nature damage to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Mad Scientist

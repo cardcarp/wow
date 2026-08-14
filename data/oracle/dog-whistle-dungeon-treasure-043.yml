@@ -1,0 +1,31 @@
+name: Dog Whistle
+
+origin: dungeon-treasure-043
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'When this item enters play, put a 2 / 2 Hound ally token into play with Protector . On your turn: 4 , → Put a 2 / 2 Hound ally token into play with Protector .'
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

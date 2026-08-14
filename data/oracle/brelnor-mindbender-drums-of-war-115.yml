@@ -1,0 +1,27 @@
+name: Brelnor Mindbender
+
+origin: drums-of-war-115
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 3
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When Brelnor enters play, gain control of target ally while Brelnor remains in your party.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Priest

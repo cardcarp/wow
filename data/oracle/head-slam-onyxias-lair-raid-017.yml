@@ -1,0 +1,19 @@
+name: Head Slam
+
+origin: onyxias-lair-raid-017
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: As an additional cost to play Head Slam, put up to 5 damage on Onyxia. Onyxia deals that amount of melee damage to each opposing ally.
+
+regulation:
+
+errata: []
+
+temp: ''

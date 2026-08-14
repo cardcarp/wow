@@ -1,0 +1,25 @@
+name: Marksman Boriz
+
+origin: march-of-the-legion-218
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 3
+
+health: 5
+
+combat: Ranged
+
+rule:
+  - type: ability
+    text: Aldor Reputation Long-Range Opposing heroes and allies lose and can't have long-range.
+
+regulation:
+
+errata: []
+
+temp: Draenei Hunter

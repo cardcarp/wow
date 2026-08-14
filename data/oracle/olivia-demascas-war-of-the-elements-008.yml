@@ -1,0 +1,25 @@
+name: Olivia Demascas
+
+origin: war-of-the-elements-008
+
+layout: transform
+
+category: Hero
+
+health: 26
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 4 → Flip Olivia
+  - type: ability
+    position: reverse
+    text: When a hero or ally you control deals shadow ( ) damage to an opposing hero, you may put the top two cards of that hero's controller's deck into his graveyard.
+
+regulation:
+
+errata: []
+
+temp: Worgen Priest

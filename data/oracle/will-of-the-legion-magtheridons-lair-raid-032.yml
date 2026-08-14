@@ -1,0 +1,19 @@
+name: Will of the Legion
+
+origin: magtheridons-lair-raid-032
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+instant: Interrupt target ability, ally, or equipment card. If Magtheridon is Unleashed, gain a Blood.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

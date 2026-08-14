@@ -1,14 +1,14 @@
-oracle: loatheb
-
-lex: '021'
-
-set: naxxramas-raid
+index: '021'
 
 rarity: Rare
 
 artist: Justin Sweet
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: loatheb-naxxramas-raid-021
+
+set: Naxxramas Raid

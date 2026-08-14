@@ -1,0 +1,25 @@
+name: Haunting Spirit
+
+origin: shadowfang-keep-011
+
+layout: standard
+
+category: Ally
+
+damage: 6
+
+health: 6
+
+combat: Shadow
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: "Elusive Level 3+ : When this ally enters play, each Raider chooses two allies he controls and puts them into their owners' hand."
+
+regulation:
+
+errata: []
+
+temp: Spirit

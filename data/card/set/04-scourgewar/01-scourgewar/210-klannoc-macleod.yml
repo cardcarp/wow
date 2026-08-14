@@ -1,13 +1,13 @@
-oracle: klannoc-macleod
-
-lex: '210'
-
-set: scourgewar
+index: '210'
 
 rarity: Epic
 
 artist: Dany Orizio
 
+variation: []
+
 flavor: '"In the end, there can be only one."'
 
-variation: []
+oracle: klannoc-macleod-scourgewar-210
+
+set: Scourgewar

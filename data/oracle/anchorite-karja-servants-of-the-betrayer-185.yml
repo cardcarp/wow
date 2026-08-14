@@ -1,0 +1,25 @@
+name: Anchorite Karja
+
+origin: servants-of-the-betrayer-185
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 6
+
+health: 6
+
+combat: Holy
+
+rule:
+  - type: ability
+    text: Aldor Reputation Ready allies in your party have +3 ATK / +3 health.
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

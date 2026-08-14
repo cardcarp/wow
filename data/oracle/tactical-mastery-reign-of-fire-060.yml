@@ -1,0 +1,22 @@
+name: Tactical Mastery
+
+origin: reign-of-fire-060
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: Opposing heroes and allies must attack this turn if able. When an opponent proposes a combat this turn, you may change the proposed defender. (It must be a legal choice for the attacker.)
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

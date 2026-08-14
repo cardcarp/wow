@@ -1,0 +1,30 @@
+name: Noggenfogger Elixir
+
+origin: heroes-of-azeroth-309
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: "Destroy Noggenfogger Elixir → Choose an ally in your party and roll a die. 1-2: That ally can't be destroyed this turn. 3-4: Ready that ally. 5-6: That ally can't be attacked this turn."
+
+regulation:
+
+errata: []
+
+temp: Item Potion

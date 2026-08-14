@@ -1,0 +1,25 @@
+name: Son of Flame
+
+origin: molten-core-token-001
+
+layout: standard
+
+category: Token
+
+damage: 2
+
+health: 2
+
+combat: Fire
+
+type: Ally
+
+rule:
+  - type: ability
+    text: Ferocity Son of Flame can't be dealt fire ( ) damage. When the last Son of Flame leaves play, if Ragnaros is submerged, flip Ragnaros.
+
+regulation:
+
+errata: []
+
+temp: Elemental

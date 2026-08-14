@@ -1,0 +1,27 @@
+name: Bubula del Kissel
+
+origin: through-the-dark-portal-158
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Stealth → Target hero or ally has Stealth this turn.
+
+regulation:
+
+errata: []
+
+temp: Gnome Rogue

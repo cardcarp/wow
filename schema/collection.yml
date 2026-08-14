@@ -7,7 +7,7 @@ type:
   required: true
   allowed: ['set', 'raid', 'promo', 'starter', 'token', 'extra']
 
-lex:
+index:
   type: string
   nullable: true
   coerce: str

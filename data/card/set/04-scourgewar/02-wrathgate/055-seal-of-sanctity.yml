@@ -1,13 +1,13 @@
-oracle: seal-of-sanctity
-
-lex: '055'
-
-set: wrathgate
+index: '055'
 
 rarity: Uncommon
 
 artist: Vance Kovacs
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: seal-of-sanctity-wrathgate-055
+
+set: Wrathgate

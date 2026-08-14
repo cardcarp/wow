@@ -1,0 +1,22 @@
+name: Soul Trap
+
+origin: war-of-the-ancients-063
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: As an additional cost to play, put 5 damage on your hero. Remove target ally from the game.
+
+regulation:
+
+errata: []
+
+temp: Destruction

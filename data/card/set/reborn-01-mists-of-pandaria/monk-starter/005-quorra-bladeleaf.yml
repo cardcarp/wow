@@ -1,13 +1,14 @@
-oracle: quorra-bladeleaf
-
-lex: '005'
-
-set: monk-starter
+index: '005'
 
 rarity: Common
 
 artist: ''
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: quorra-bladeleaf-monk-starter-005
+
+set: Monk Starter

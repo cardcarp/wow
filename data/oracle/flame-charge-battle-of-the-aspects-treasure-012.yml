@@ -1,0 +1,22 @@
+name: Flame Charge
+
+origin: battle-of-the-aspects-treasure-012
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+instant: As an additional cost to play, reveal another ability from your hand. Your hero deals fire damage to target ally equal to the cost of that revealed ability.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fire

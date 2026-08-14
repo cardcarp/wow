@@ -1,13 +1,14 @@
-oracle: windwalker-yeoh
-
-lex: '012'
-
-set: monk-starter
+index: '012'
 
 rarity: Common
 
 artist: ''
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: windwalker-yeoh-monk-starter-012
+
+set: Monk Starter

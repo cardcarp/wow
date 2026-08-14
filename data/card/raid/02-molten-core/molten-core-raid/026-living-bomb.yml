@@ -1,13 +1,13 @@
-oracle: living-bomb
-
-lex: '026'
-
-set: molten-core-raid
+index: '026'
 
 rarity: Rare
 
 artist: Phill Gonzales
 
+variation: []
+
 flavor: '"RUN!"'
 
-variation: []
+oracle: living-bomb-molten-core-raid-026
+
+set: Molten Core Raid

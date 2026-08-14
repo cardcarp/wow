@@ -1,0 +1,22 @@
+name: Tears of Aessina
+
+origin: horde-druid-2011-011
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+instant: Your hero heals 2 damage from each of up to two target heroes and/or allies.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

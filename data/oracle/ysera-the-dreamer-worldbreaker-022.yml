@@ -1,0 +1,28 @@
+name: Ysera the Dreamer
+
+origin: worldbreaker-022
+
+layout: transform
+
+category: Hero
+
+cost: '20'
+
+damage: 3
+
+health: 40
+
+combat: Nature
+
+type: Master
+
+rule:
+  - type: ability
+    position: front
+    text: You pay 1 less to play Ysera for each face-down resource you control. Mend 3 At the start of your turn, you may draw a card.
+
+regulation:
+
+errata: []
+
+temp: Green Dragonkin Aspect

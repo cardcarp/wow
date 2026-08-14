@@ -1,0 +1,22 @@
+name: Boum the Bloodseeker
+
+origin: fields-of-honor-011
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Boum → Target ally has Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: Orc Hunter

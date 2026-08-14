@@ -1,0 +1,27 @@
+name: Ripley Spellfizzle
+
+origin: the-hunt-for-illidan-138
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Arcane Resistance
+
+regulation:
+
+errata: []
+
+temp: Gnome Rogue

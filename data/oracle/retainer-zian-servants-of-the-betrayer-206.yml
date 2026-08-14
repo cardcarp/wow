@@ -1,0 +1,25 @@
+name: Retainer Zian
+
+origin: servants-of-the-betrayer-206
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Scryer Reputation Stealth Zian has -1 ATK / -1 health for each Protector in play.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

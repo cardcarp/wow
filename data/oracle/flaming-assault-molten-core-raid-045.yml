@@ -1,0 +1,19 @@
+name: Flaming Assault
+
+origin: molten-core-raid-045
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+instant: Ready Ragnaros.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ragnaros

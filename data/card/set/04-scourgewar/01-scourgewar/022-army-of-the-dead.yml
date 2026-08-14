@@ -1,13 +1,13 @@
-oracle: army-of-the-dead
-
-lex: '022'
-
-set: scourgewar
+index: '022'
 
 rarity: Rare
 
 artist: Tom Baxa
 
+variation: []
+
 flavor: "\"You're no use to me alive.\" - Saeryn Dusksorrow"
 
-variation: []
+oracle: army-of-the-dead-scourgewar-022
+
+set: Scourgewar

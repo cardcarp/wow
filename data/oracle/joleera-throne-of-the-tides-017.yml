@@ -1,0 +1,22 @@
+name: Joleera
+
+origin: throne-of-the-tides-017
+
+layout: transform
+
+category: Hero
+
+health: 27
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 2 , Flip Joleera → Joleera has +2 ATK this turn.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

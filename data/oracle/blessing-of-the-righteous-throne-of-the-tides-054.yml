@@ -1,0 +1,22 @@
+name: Blessing of the Righteous
+
+origin: throne-of-the-tides-054
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+instant: 'Attach to target ally you control. Ongoing : Attached ally has +3 / +3 and Protector . When attached ally is destroyed, it heals 6 damage from your hero.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Blessing

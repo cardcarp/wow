@@ -1,0 +1,22 @@
+name: Wild Fervor
+
+origin: war-of-the-elements-046
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Target ally has Assault 2 , Ferocity , and Long-Range this turn.
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery

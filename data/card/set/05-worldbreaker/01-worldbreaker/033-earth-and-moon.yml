@@ -1,13 +1,13 @@
-oracle: earth-and-moon
-
-lex: '033'
-
-set: worldbreaker
+index: '033'
 
 rarity: Rare
 
 artist: Efrem Palacios
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: earth-and-moon-worldbreaker-033
+
+set: Worldbreaker

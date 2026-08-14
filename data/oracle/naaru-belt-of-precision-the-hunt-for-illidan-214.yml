@@ -1,0 +1,23 @@
+name: Naaru Belt of Precision
+
+origin: the-hunt-for-illidan-214
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: Naaru Belt of Precision has +X DEF, where X is your hero's ATK.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

@@ -1,0 +1,23 @@
+name: Torn Web Wrapping
+
+origin: naxxramas-treasure-019
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: 1 , → Reveal a random face-down resource you control. If it's a location or quest, turn it face up. Otherwise, put it into it's owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

@@ -1,0 +1,25 @@
+name: Lumbering Ogre Axe
+
+origin: crown-of-the-heavens-184
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+  - Shaman
+
+rule:
+  - type: ability
+    text: Your hero has Smash .
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Axe

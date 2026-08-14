@@ -1,0 +1,22 @@
+name: Serpent Sting
+
+origin: march-of-the-legion-040
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals 1 nature damage to attached character, or 2 if you control a Ranged weapon.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship Sting

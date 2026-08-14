@@ -1,13 +1,13 @@
-oracle: predatory-sense
-
-lex: '029'
-
-set: icecrown
+index: '029'
 
 rarity: Common
 
 artist: Puly
 
+variation: []
+
 flavor: '"Once a Druid catches wind of your scent, you may as well start digging your own grave, lad." - Chaigon Steelsight'
 
-variation: []
+oracle: predatory-sense-icecrown-029
+
+set: Icecrown

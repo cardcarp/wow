@@ -1,13 +1,13 @@
-oracle: firesworn
-
-lex: '009'
-
-set: molten-core-token
+index: '009'
 
 rarity: Common
 
 artist: Aleksi Briclot
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: firesworn-molten-core-token-009
+
+set: Molten Core Token

@@ -1,0 +1,17 @@
+name: Return to the Aldor
+
+origin: the-hunt-for-illidan-233
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation If you have another Aldor card in play, pay 2 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

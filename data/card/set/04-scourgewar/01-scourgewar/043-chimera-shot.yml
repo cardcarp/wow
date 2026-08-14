@@ -1,13 +1,13 @@
-oracle: chimera-shot
-
-lex: '043'
-
-set: scourgewar
+index: '043'
 
 rarity: Rare
 
 artist: Luca Zontini
 
+variation: []
+
 flavor: '"And now, to add that special finishing touch ..." - Levander of the Sanguine Shot'
 
-variation: []
+oracle: chimera-shot-scourgewar-043
+
+set: Scourgewar

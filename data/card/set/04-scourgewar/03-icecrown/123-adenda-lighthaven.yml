@@ -1,13 +1,13 @@
-oracle: adenda-lighthaven
-
-lex: '123'
-
-set: icecrown
+index: '123'
 
 rarity: Common
 
 artist: James Zhang
 
+variation: []
+
 flavor: '"We must be prepared to ask of ourselves what we demand from others."'
 
-variation: []
+oracle: adenda-lighthaven-icecrown-123
+
+set: Icecrown

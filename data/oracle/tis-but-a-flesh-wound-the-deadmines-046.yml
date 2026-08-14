@@ -1,0 +1,17 @@
+name: "'Tis But a Flesh Wound"
+
+origin: the-deadmines-046
+
+layout: standard
+
+category: Achievement
+
+rule:
+  - type: ability
+    text: Defeat the Dungeon hero while each Raiding hero has 10 or less damage on it.
+
+regulation:
+
+errata: []
+
+temp: ''

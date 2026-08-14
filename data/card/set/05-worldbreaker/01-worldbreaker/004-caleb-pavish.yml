@@ -1,14 +1,14 @@
-oracle: caleb-pavish
-
-lex: '004'
-
-set: worldbreaker
+index: '004'
 
 rarity: Uncommon
 
 artist: Alex Horley Orlandelli
 
-flavor: '"Sylvanas and her putrid Forsaken will pay for their arrogance, I promise you that."'
-
 variation:
   - transform
+
+flavor: '"Sylvanas and her putrid Forsaken will pay for their arrogance, I promise you that."'
+
+oracle: caleb-pavish-worldbreaker-004
+
+set: Worldbreaker

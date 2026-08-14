@@ -1,14 +1,14 @@
-oracle: garr
-
-lex: '004'
-
-set: molten-core-raid
+index: '004'
 
 rarity: Rare
 
 artist: Ben Wooten
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: garr-molten-core-raid-004
+
+set: Molten Core Raid

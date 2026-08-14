@@ -1,13 +1,13 @@
-oracle: tales-of-destruction
-
-lex: '261'
-
-set: scourgewar
+index: '261'
 
 rarity: Common
 
 artist: James Ryman
 
+variation: []
+
 flavor: "\"He's missing out on a gloriously messy battle!\" - Nalice"
 
-variation: []
+oracle: tales-of-destruction-scourgewar-261
+
+set: Scourgewar

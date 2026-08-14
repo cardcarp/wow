@@ -1,0 +1,22 @@
+name: Cruelty
+
+origin: through-the-dark-portal-119
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Fury Hero Required Ongoing : Your hero has +1 ATK while you have a weapon.'
+
+regulation:
+
+errata: []
+
+temp: Fury Talent

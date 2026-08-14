@@ -1,0 +1,22 @@
+name: Fel Flame
+
+origin: war-of-the-elements-090
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Ongoing : When this ability enters play, your hero deals 2 unpreventable shadowfire damage to target hero or ally. 2 → and cards you control have +1 ATK this turn.'
+
+regulation:
+
+errata: []
+
+temp: Destruction

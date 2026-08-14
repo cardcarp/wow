@@ -1,0 +1,24 @@
+name: Fading Glow
+
+origin: wrathgate-188
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: When combat damage is dealt with this weapon, your hero heals 2 damage from itself.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Wand

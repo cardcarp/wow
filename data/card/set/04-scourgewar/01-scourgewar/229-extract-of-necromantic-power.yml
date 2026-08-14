@@ -1,13 +1,13 @@
-oracle: extract-of-necromantic-power
-
-lex: '229'
-
-set: scourgewar
+index: '229'
 
 rarity: Rare
 
 artist: Alan Pollack
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: extract-of-necromantic-power-scourgewar-229
+
+set: Scourgewar

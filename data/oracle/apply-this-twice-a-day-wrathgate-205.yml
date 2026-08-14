@@ -1,0 +1,17 @@
+name: Apply This Twice a Day
+
+origin: wrathgate-205
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : Draw a card. If a hero or ally you controlled healed damage this turn, draw another card,'
+
+regulation:
+
+errata: []
+
+temp: ''

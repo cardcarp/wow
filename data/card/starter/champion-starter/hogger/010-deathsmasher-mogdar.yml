@@ -1,13 +1,13 @@
-oracle: deathsmasher-mogdar
-
-lex: '010'
-
-set: hogger
+index: '010'
 
 rarity: Common
 
 artist: Dave Rapoza
 
+variation: []
+
 flavor: "\"I follow Kor'ush, even to another death.\""
 
-variation: []
+oracle: deathsmasher-mogdar-crown-of-the-heavens-130
+
+set: Hogger

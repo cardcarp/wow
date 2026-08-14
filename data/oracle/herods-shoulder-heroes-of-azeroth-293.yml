@@ -1,0 +1,25 @@
+name: Herods Shoulder
+
+origin: heroes-of-azeroth-293
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: When Herod's Shoulder enters play, you may search your deck for a weapon card and reveal it. If you do, shuffle your deck and put that card on top.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

@@ -1,13 +1,13 @@
-oracle: echo-totem
-
-lex: '004'
-
-set: totem
+index: '004'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: echo-totem-blood-of-gladiators-062
+
+set: Totem

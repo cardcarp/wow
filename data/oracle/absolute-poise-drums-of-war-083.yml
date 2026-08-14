@@ -1,0 +1,22 @@
+name: Absolute Poise
+
+origin: drums-of-war-083
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+instant: Interrupt target ability or equipment.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

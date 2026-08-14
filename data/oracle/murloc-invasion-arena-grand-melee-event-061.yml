@@ -1,0 +1,17 @@
+name: Murloc Invasion
+
+origin: arena-grand-melee-event-061
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: Each player puts the top card of his deck into his graveyard. Then, he puts X Murloc ally tokens into play with 1 ATK / 1 health, where X is that card's cost.
+
+regulation:
+
+errata: []
+
+temp: ''

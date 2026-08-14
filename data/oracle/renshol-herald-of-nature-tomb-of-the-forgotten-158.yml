@@ -1,0 +1,27 @@
+name: Renshol, Herald of Nature
+
+origin: tomb-of-the-forgotten-158
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 4
+
+combat: Nature
+
+type: Monster
+
+rule:
+  - type: ability
+    text: 'Empower Druid : When this ally enters play, if you control another Druid hero or ally, this ally heals 3 damage from target friendly hero or ally. Then put a 1 / 1 Treant ally token into play for each damage healed this way.'
+
+regulation:
+
+errata: []
+
+temp: Keeper of the Grove Druid

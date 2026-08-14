@@ -1,0 +1,25 @@
+name: Plasu
+
+origin: scourgewar-152
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Shadow Resistance This ally has Assault 2 while an opponent controls a card.
+
+regulation:
+
+errata: []
+
+temp: Draenei Hunter

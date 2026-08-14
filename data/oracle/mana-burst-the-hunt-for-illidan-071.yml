@@ -1,0 +1,22 @@
+name: Mana Burst
+
+origin: the-hunt-for-illidan-071
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Ready all of target opponent's exhausted resources. Your hero deals 1 shadow damage to his hero for each resource readied this way.
+
+regulation:
+
+errata: []
+
+temp: Discipline

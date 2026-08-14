@@ -1,0 +1,19 @@
+name: Assault Aspects
+
+origin: battle-of-the-aspects-raid-018
+
+layout: standard
+
+category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Put two Corrupted Blood ally tokens into play. Allies Deathwing controls have +1 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: ''

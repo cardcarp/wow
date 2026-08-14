@@ -1,13 +1,13 @@
-oracle: ruby-blazewing
-
-lex: '212'
-
-set: worldbreaker
+index: '212'
 
 rarity: Uncommon
 
 artist: Brian Despain
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: ruby-blazewing-worldbreaker-212
+
+set: Worldbreaker

@@ -1,0 +1,27 @@
+name: Guruvan
+
+origin: fires-of-outland-119
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 2
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Long-Range
+
+regulation:
+
+errata: []
+
+temp: Draenei Hunter

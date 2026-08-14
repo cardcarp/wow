@@ -1,0 +1,28 @@
+name: Maazhum
+
+origin: war-of-the-elements-093
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Shadow
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: When this ally enters play, he deals 3 shadow damage to target hero and heals 3 damage from your hero.
+
+regulation:
+
+errata: []
+
+temp: Felhunter Demon

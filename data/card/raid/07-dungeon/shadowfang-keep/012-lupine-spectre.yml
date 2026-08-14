@@ -1,13 +1,13 @@
-oracle: lupine-spectre
-
-lex: '012'
-
-set: shadowfang-keep
+index: '012'
 
 rarity: Common
 
 artist: Slawomir Maniak
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: lupine-spectre-shadowfang-keep-012
+
+set: Shadowfang Keep

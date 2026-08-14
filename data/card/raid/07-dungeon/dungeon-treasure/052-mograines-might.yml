@@ -1,13 +1,13 @@
-oracle: mograines-might
-
-lex: '052'
-
-set: dungeon-treasure
+index: '052'
 
 rarity: Common
 
 artist: Zoltan Boros
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: mograines-might-dungeon-treasure-052
+
+set: Dungeon Treasure

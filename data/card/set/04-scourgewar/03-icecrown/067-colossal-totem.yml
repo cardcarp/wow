@@ -1,13 +1,13 @@
-oracle: colossal-totem
-
-lex: '067'
-
-set: icecrown
+index: '067'
 
 rarity: Uncommon
 
 artist: Dany Orizio
 
+variation: []
+
 flavor: (Totems can be attacked or targeted like allies.)
 
-variation: []
+oracle: colossal-totem-icecrown-067
+
+set: Icecrown

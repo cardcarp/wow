@@ -1,0 +1,28 @@
+name: Shadowy Apparition
+
+origin: tomb-of-the-forgotten-041
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 1
+
+combat: Shadow
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Shadow Talent Ferocity This ally has +1 ATK while attacking heroes for each opposing card removed from the game. If this ally would deal damage to a hero, remove that many cards from the top of that hero's controller's deck from the game instead. At the end of your turn, put this ally into it's owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Apparition

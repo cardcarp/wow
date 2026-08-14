@@ -1,0 +1,22 @@
+name: Holy Shock
+
+origin: the-hunt-for-illidan-061
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+instant: Holy Talent Prevent the next 4 damage that target friendly hero or ally would be dealt this turn. Your hero deals 4 unpreventable holy damage to target opposing hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

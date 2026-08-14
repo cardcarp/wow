@@ -1,0 +1,17 @@
+name: Legendary Leathers, Dalaran
+
+origin: scourgewar-268
+
+layout: standard
+
+category: Location
+
+rule:
+  - type: ability
+    text: → You pay 2 less to play your next Leather or Mail armor this turn for each Leatherworking hero and ally you control.
+
+regulation:
+
+errata: []
+
+temp: ''

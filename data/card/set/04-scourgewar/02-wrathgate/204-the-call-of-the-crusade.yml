@@ -1,13 +1,13 @@
-oracle: the-call-of-the-crusade
-
-lex: '204'
-
-set: wrathgate
+index: '204'
 
 rarity: Common
 
 artist: Jim Pavelec
 
+variation: []
+
 flavor: '"Will you take up the cause?" - Tilda Darathan'
 
-variation: []
+oracle: the-call-of-the-crusade-wrathgate-204
+
+set: Wrathgate

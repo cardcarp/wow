@@ -1,0 +1,27 @@
+name: Nathaniel Voran
+
+origin: fields-of-honor-137
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Will of the Forsaken
+
+regulation:
+
+errata: []
+
+temp: Undead Mage

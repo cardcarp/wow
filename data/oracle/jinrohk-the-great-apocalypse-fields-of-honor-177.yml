@@ -1,0 +1,25 @@
+name: Jin'rohk, The Great Apocalypse
+
+origin: fields-of-honor-177
+
+layout: standard
+
+category: Equipment
+
+cost: '7'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+  - Hunter
+
+rule:
+  - type: ability
+    text: When a hero is dealt damage with Jin'rohk, destroy up to that many target non-hero cards controlled by that hero's controller.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Sword

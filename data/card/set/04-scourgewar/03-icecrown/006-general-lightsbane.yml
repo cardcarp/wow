@@ -1,14 +1,14 @@
-oracle: general-lightsbane
-
-lex: '006'
-
-set: icecrown
+index: '006'
 
 rarity: Uncommon
 
 artist: Chris Rahn
 
-flavor: '"The time has come to put an end to the disruption you have caused to the Scourge."'
-
 variation:
   - transform
+
+flavor: '"The time has come to put an end to the disruption you have caused to the Scourge."'
+
+oracle: general-lightsbane-icecrown-006
+
+set: Icecrown

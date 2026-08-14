@@ -1,0 +1,22 @@
+name: Roar of the Beast
+
+origin: throne-of-the-tides-044
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+instant: Target Monster ally has +3 ATK this turn. Target non-Monster ally has -3 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

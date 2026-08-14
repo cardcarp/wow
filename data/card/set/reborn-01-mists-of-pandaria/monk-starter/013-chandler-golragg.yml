@@ -1,13 +1,14 @@
-oracle: chandler-golragg
-
-lex: '013'
-
-set: monk-starter
+index: '013'
 
 rarity: Common
 
 artist: ''
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: chandler-golragg-monk-starter-013
+
+set: Monk Starter

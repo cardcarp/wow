@@ -1,0 +1,22 @@
+name: Thunder Clap
+
+origin: through-the-dark-portal-125
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warrior
+
+instant: Your hero deals 1 melee damage to each opposing hero and ally. A character dealt damage this way has -1 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arms

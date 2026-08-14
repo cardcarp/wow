@@ -1,0 +1,22 @@
+name: Frostfire Bolt
+
+origin: worldbreaker-057
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+instant: Your hero deals 2 unpreventable frostfire damage to target ally. This turn, an ally dealt damage this way can't attack or exhaust, and loses and can't have powers. (Frostfire damage counts as both frost and fire.)
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost

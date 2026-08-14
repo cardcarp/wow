@@ -1,13 +1,13 @@
-oracle: gale-winds
-
-lex: '026'
-
-set: icecrown
+index: '026'
 
 rarity: Rare
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor: "\"The frozen earth adds a surprising twist to the storms we conjure.\" - Yanna Dai'shalan"
 
-variation: []
+oracle: gale-winds-icecrown-026
+
+set: Icecrown

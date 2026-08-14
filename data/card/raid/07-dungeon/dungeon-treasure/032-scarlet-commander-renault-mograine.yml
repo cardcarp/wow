@@ -1,13 +1,13 @@
-oracle: scarlet-commander-renault-mograine
-
-lex: '032'
-
-set: dungeon-treasure
+index: '032'
 
 rarity: Epic
 
 artist: Chris Rahn
 
+variation: []
+
 flavor: '"Infidels. They must be purified."'
 
-variation: []
+oracle: scarlet-commander-renault-mograine-dungeon-treasure-032
+
+set: Dungeon Treasure

@@ -1,0 +1,17 @@
+name: The Witchs Bane
+
+origin: worldbreaker-268
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : Draw a card for each five opposing face-down resources.'
+
+regulation:
+
+errata: []
+
+temp: ''

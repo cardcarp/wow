@@ -1,0 +1,22 @@
+name: Timeless Winds
+
+origin: betrayal-of-the-guardian-047
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: Echo Target ally or weapon has +2 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement

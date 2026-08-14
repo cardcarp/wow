@@ -1,13 +1,13 @@
-oracle: fel-acid-breath
-
-lex: '017'
-
-set: black-temple-raid
+index: '017'
 
 rarity: Uncommon
 
 artist: Tom Baxa
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: fel-acid-breath-black-temple-raid-017
+
+set: Black Temple Raid

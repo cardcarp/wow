@@ -1,0 +1,27 @@
+name: Zugna, Windseer Apprentice
+
+origin: wrathgate-155
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Assault 1 When this ally exhausts for the first time each turn, you may pay 1 . If you do, ready her.
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

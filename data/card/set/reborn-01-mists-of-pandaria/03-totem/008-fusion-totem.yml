@@ -1,13 +1,13 @@
-oracle: fusion-totem
-
-lex: '008'
-
-set: totem
+index: '008'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: fusion-totem-wrathgate-074
+
+set: Totem

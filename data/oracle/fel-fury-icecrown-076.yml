@@ -1,0 +1,22 @@
+name: Fel Fury
+
+origin: icecrown-076
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, your hero deals 1 fire damage to each non-Demon hero and ally. Then destroy this ability if you control no Demons.'
+
+regulation:
+
+errata: []
+
+temp: Destruction

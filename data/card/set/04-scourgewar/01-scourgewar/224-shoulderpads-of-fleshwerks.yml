@@ -1,13 +1,13 @@
-oracle: shoulderpads-of-fleshwerks
-
-lex: '224'
-
-set: scourgewar
+index: '224'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: shoulderpads-of-fleshwerks-scourgewar-224
+
+set: Scourgewar

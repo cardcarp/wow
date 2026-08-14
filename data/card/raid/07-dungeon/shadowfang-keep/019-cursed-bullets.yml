@@ -1,13 +1,13 @@
-oracle: cursed-bullets
-
-lex: '019'
-
-set: shadowfang-keep
+index: '019'
 
 rarity: Common
 
 artist: Gabor Szikszai
 
+variation: []
+
 flavor: '"This is the quality of assassin sent to kill me? Laughable." - Lord Godfrey'
 
-variation: []
+oracle: cursed-bullets-shadowfang-keep-019
+
+set: Shadowfang Keep

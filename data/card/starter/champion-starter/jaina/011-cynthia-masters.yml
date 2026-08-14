@@ -1,13 +1,13 @@
-oracle: cynthia-masters
-
-lex: '011'
-
-set: jaina
+index: '011'
 
 rarity: Common
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor: '"Some fear the bitter cold, while I choose to embrace it."'
 
-variation: []
+oracle: cynthia-masters-icecrown-101
+
+set: Jaina

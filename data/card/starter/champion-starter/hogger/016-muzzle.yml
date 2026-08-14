@@ -1,13 +1,13 @@
-oracle: muzzle
-
-lex: '016'
-
-set: hogger
+index: '016'
 
 rarity: Common
 
 artist: Skan Srisuwan
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: muzzle-hogger-016
+
+set: Hogger

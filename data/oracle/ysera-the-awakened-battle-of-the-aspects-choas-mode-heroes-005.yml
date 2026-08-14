@@ -1,0 +1,27 @@
+name: Ysera the Awakened
+
+origin: battle-of-the-aspects-choas-mode-heroes-005
+
+layout: transform
+
+category: Hero
+
+class:
+  - Druid
+  - Hunter
+
+type: Monster
+
+rule:
+  - type: ability
+    position: front
+    text: (Allies you control can protect this hero.) 5 , Flip Ysera face down → Ysera heals 5 damage from herself and each ally you control.
+  - type: ability
+    position: reverse
+    text: "When a hero or ally you control is healed, you may draw a card. Deckbuilding : You may include either or cards, and , , and Neutral cards. You can't include more than one of each card."
+
+regulation:
+
+errata: []
+
+temp: Green Dragonkin Aspect 40

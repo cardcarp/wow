@@ -1,13 +1,13 @@
-oracle: flourish
-
-lex: '036'
-
-set: worldbreaker
+index: '036'
 
 rarity: Uncommon
 
 artist: Efrem Palacios
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: flourish-worldbreaker-036
+
+set: Worldbreaker

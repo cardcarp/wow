@@ -1,0 +1,28 @@
+name: Fang
+
+origin: scourgewar-045
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Protector Allies you control have Assault 1 .
+
+regulation:
+
+errata: []
+
+temp: Wolf

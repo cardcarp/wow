@@ -1,0 +1,22 @@
+name: Claw
+
+origin: through-the-dark-portal-020
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Druid
+
+instant: 'Your hero deals 3 melee damage to target hero or ally. Ongoing : Your hero is in Cat Form .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral Combo

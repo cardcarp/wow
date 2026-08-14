@@ -1,0 +1,27 @@
+name: Hulking Helboar
+
+origin: war-of-the-ancients-182
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 5
+
+health: 1
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: When this ally enters play, target ally you control has Smash this turn.
+
+regulation:
+
+errata: []
+
+temp: Boar Beast Demon

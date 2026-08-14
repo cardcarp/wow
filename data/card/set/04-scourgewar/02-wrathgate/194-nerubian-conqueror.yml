@@ -1,13 +1,13 @@
-oracle: nerubian-conqueror
-
-lex: '194'
-
-set: wrathgate
+index: '194'
 
 rarity: Rare
 
 artist: Josh Tallman
 
+variation: []
+
 flavor: '"Even the ancient kings of the nerubian empire will tremble before it." - Ona Skyshot'
 
-variation: []
+oracle: nerubian-conqueror-wrathgate-194
+
+set: Wrathgate

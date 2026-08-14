@@ -1,0 +1,17 @@
+name: The Defense of Nahom
+
+origin: tomb-of-the-forgotten-196
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'If there are two or more classes among allies you control: Pay 5 to complete this quest. Reward : Draw two cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

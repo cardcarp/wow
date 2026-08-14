@@ -1,13 +1,13 @@
-oracle: oracle-talisman-of-ablution
-
-lex: '227'
-
-set: scourgewar
+index: '227'
 
 rarity: Uncommon
 
 artist: Randy Gallegos
 
+variation: []
+
 flavor: Held by one, shared by all.
 
-variation: []
+oracle: oracle-talisman-of-ablution-scourgewar-227
+
+set: Scourgewar

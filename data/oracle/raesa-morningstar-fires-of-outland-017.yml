@@ -1,0 +1,22 @@
+name: Raesa Morningstar
+
+origin: fires-of-outland-017
+
+layout: transform
+
+category: Hero
+
+health: 26
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Raesa Morningstar → Put target ability into its owner's hand. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Priest

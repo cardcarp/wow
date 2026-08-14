@@ -1,13 +1,13 @@
-oracle: grim-campfire
-
-lex: '231'
-
-set: worldbreaker
+index: '231'
 
 rarity: Rare
 
 artist: Eric Deschamps
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: grim-campfire-worldbreaker-231
+
+set: Worldbreaker

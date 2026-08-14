@@ -1,13 +1,13 @@
-oracle: coilskar-general
-
-lex: '034'
-
-set: black-temple-raid
+index: '034'
 
 rarity: Common
 
 artist: Michael Kormarck
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: coilskar-general-black-temple-raid-034
+
+set: Black Temple Raid

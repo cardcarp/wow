@@ -1,0 +1,27 @@
+name: Dagax the Butcher
+
+origin: twilight-of-the-dragons-134
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 5
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity , Stealth This ally can attack only heroes. At the end of your turn, destroy this ally.
+
+regulation:
+
+errata: []
+
+temp: Goblin Rogue

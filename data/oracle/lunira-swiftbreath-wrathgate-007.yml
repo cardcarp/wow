@@ -1,0 +1,22 @@
+name: Lunira Swiftbreath
+
+origin: wrathgate-007
+
+layout: transform
+
+category: Hero
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: Flip Lunira, discard a Druid → You pay 1 less to play your next ally this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

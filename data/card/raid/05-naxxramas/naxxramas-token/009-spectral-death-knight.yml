@@ -1,13 +1,13 @@
-oracle: spectral-death-knight
-
-lex: '009'
-
-set: naxxramas-token
+index: '009'
 
 rarity: Common
 
 artist: Jim Nelson
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: spectral-death-knight-naxxramas-token-009
+
+set: Naxxramas Token

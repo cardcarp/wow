@@ -1,0 +1,27 @@
+name: Elementalist Arax
+
+origin: tomb-of-the-forgotten-081
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 5
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: This ally has Assault 1 and Mend 1 for each equipment you control.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

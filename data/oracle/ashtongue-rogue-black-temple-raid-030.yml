@@ -1,0 +1,25 @@
+name: Ashtongue Rogue
+
+origin: black-temple-raid-030
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 1
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: 'Traitor Hero : Elusive , Ferocity Loyal Hero : Long-Range , Stealth'
+
+regulation:
+
+errata: []
+
+temp: Broken Rogue

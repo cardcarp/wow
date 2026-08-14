@@ -1,0 +1,23 @@
+name: Pauldrons of Desolation
+
+origin: the-hunt-for-illidan-216
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: When you strike with a weapon, target ally in your party has Long-Range this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

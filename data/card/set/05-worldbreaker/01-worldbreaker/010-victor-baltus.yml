@@ -1,14 +1,14 @@
-oracle: victor-baltus
-
-lex: '010'
-
-set: worldbreaker
+index: '010'
 
 rarity: Uncommon
 
 artist: Greg Staples
 
-flavor: '"I will shred your body, and then Sardok will shred your soul."'
-
 variation:
   - transform
+
+flavor: '"I will shred your body, and then Sardok will shred your soul."'
+
+oracle: victor-baltus-worldbreaker-010
+
+set: Worldbreaker

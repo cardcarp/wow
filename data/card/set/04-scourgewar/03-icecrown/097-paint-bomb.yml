@@ -1,13 +1,13 @@
-oracle: paint-bomb
-
-lex: '097'
-
-set: icecrown
+index: '097'
 
 rarity: Uncommon
 
 artist: Eric Browning
 
+variation: []
+
 flavor: "\"It's the only kind of bomb they let me use.\" - Pugg"
 
-variation: []
+oracle: paint-bomb-icecrown-097
+
+set: Icecrown

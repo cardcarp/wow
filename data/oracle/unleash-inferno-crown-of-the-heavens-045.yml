@@ -1,0 +1,22 @@
+name: Unleash Inferno
+
+origin: crown-of-the-heavens-045
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Attach to target ally or weapon you control. Ongoing : 1 → Attached card has +2 ATK this turn.'
+
+regulation:
+
+errata: []
+
+temp: Enhancement Attachment

@@ -1,0 +1,24 @@
+name: Demonfang Ritual Helm
+
+origin: march-of-the-legion-258
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: When an ally in your party is destroyed, each other player destroys an ally in his party.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

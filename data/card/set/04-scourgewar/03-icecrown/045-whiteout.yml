@@ -1,13 +1,13 @@
-oracle: whiteout
-
-lex: '045'
-
-set: icecrown
+index: '045'
 
 rarity: Uncommon
 
 artist: Chris Seaman
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: whiteout-icecrown-045
+
+set: Icecrown

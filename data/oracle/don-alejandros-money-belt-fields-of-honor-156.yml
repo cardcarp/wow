@@ -1,0 +1,23 @@
+name: Don Alejandros Money Belt
+
+origin: fields-of-honor-156
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: → You may reveal an equipment card from your hand. If you do, put it into your resource row face down and exhausted.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

@@ -1,0 +1,24 @@
+name: Pendant of Quiet Breath
+
+origin: worldbreaker-badges-of-justice-003
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: At the end of your turn, if your hero didn't attack this turn, add a tactics counter to this item. Your hero has Assault 1 for each tactics counter.
+
+regulation:
+
+errata: []
+
+temp: Item Neck

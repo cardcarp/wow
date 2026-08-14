@@ -1,13 +1,13 @@
-oracle: terrifying-visage
-
-lex: '103'
-
-set: scourgewar
+index: '103'
 
 rarity: Common
 
 artist: Raymond Swanland
 
+variation: []
+
 flavor: '"Why waste energy on causing death when terror is just as effective?" - Andarius the Damned'
 
-variation: []
+oracle: terrifying-visage-scourgewar-103
+
+set: Scourgewar

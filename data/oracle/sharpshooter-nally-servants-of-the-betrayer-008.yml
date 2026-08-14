@@ -1,0 +1,22 @@
+name: Sharpshooter Nally
+
+origin: servants-of-the-betrayer-008
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Nally → Target hero or ally has Long-Range this turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

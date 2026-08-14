@@ -1,0 +1,22 @@
+name: Jeremiah Karvok
+
+origin: wrathgate-013
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: Flip Jeremiah, discard a Warlock → When you next play an ability this turn, exhaust all opposing heroes and allies.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

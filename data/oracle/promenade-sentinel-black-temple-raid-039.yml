@@ -1,0 +1,25 @@
+name: Promenade Sentinel
+
+origin: black-temple-raid-039
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 5
+
+health: 3
+
+combat: Arcane
+
+rule:
+  - type: ability
+    text: Traitor Hero Required When Promenade Sentinel enters play, it deals 2 arcane damage to each of up to three target heroes and/or allies.
+
+regulation:
+
+errata: []
+
+temp: Mechanical Traitor

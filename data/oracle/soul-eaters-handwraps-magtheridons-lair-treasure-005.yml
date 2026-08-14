@@ -1,0 +1,24 @@
+name: Soul-Eaters Handwraps
+
+origin: magtheridons-lair-treasure-005
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: When an ability, ally, equipment, or hero readies, its controller puts the top card of his deck into his graveyard.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

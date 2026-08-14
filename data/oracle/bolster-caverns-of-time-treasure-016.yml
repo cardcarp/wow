@@ -1,0 +1,22 @@
+name: Bolster
+
+origin: caverns-of-time-treasure-016
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: Add two +1 counters to target armor.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

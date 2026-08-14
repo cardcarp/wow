@@ -1,0 +1,28 @@
+name: Dundee
+
+origin: fields-of-honor-027
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: As each turn starts, prevent the next damage that Dundee would be dealt this turn.
+
+regulation:
+
+errata: []
+
+temp: Crocolisk

@@ -1,13 +1,13 @@
-oracle: icebolt
-
-lex: '039'
-
-set: naxxramas-raid
+index: '039'
 
 rarity: Uncommon
 
 artist: Patrick McEvoy
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: icebolt-naxxramas-raid-039
+
+set: Naxxramas Raid

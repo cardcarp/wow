@@ -1,13 +1,13 @@
-oracle: gutfin
-
-lex: '013'
-
-set: hogger
+index: '013'
 
 rarity: Common
 
 artist: Ittoku
 
+variation: []
+
 flavor: '"Mrmmmmrm Lgmlmm Lmmmlrmrrr Mrrrgl."'
 
-variation: []
+oracle: gutfin-crown-of-the-heavens-151
+
+set: Hogger

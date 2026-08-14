@@ -1,13 +1,13 @@
-oracle: abracadaver
-
-lex: '234'
-
-set: worldbreaker
+index: '234'
 
 rarity: Rare
 
 artist: Dave Allsop
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: abracadaver-worldbreaker-234
+
+set: Worldbreaker

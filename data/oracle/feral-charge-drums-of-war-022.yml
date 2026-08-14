@@ -1,0 +1,22 @@
+name: Feral Charge
+
+origin: drums-of-war-022
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: Feral Hero Required Play only if your hero is in Bear Form . Interrupt target card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral Talent

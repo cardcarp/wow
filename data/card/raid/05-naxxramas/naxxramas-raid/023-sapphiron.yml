@@ -1,14 +1,14 @@
-oracle: sapphiron
-
-lex: '023'
-
-set: naxxramas-raid
+index: '023'
 
 rarity: Rare
 
 artist: James Ryman
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: sapphiron-naxxramas-raid-023
+
+set: Naxxramas Raid

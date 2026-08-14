@@ -1,0 +1,22 @@
+name: Augment Steel
+
+origin: throne-of-the-tides-083
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: Put target equipment from your graveyard into play if its cost is less than or equal to the number of resources you control. It enters play with three +1 ATK counters if it's a weapon, or three +1 counters if it's an armor.
+
+regulation:
+
+errata: []
+
+temp: Arms

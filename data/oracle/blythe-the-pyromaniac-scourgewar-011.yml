@@ -1,0 +1,22 @@
+name: Blythe the Pyromaniac
+
+origin: scourgewar-011
+
+layout: transform
+
+category: Hero
+
+health: 25
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'If you control another Mage: Flip Blythe → Blythe deals 3 fire damage to target hero or ally that was dealt damage this turn.'
+
+regulation:
+
+errata: []
+
+temp: Undead Mage

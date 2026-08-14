@@ -1,0 +1,24 @@
+name: Observers Shield
+
+origin: through-the-dark-portal-257
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+rule:
+  - type: ability
+    text: Observer's Shield enters play exhausted.
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

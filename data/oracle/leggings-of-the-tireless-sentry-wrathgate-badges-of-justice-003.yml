@@ -1,0 +1,23 @@
+name: Leggings of the Tireless Sentry
+
+origin: wrathgate-badges-of-justice-003
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: Opposing heroes and allies enter play exhausted. At the end of each opponent's turn, exhaust all heroes and allies he controls.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

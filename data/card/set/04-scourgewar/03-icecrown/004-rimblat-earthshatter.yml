@@ -1,14 +1,14 @@
-oracle: rimblat-earthshatter
-
-lex: '004'
-
-set: icecrown
+index: '004'
 
 rarity: Uncommon
 
 artist: John Polidora
 
-flavor: '"The Earthen Ring is here to assist Highlord Fordring and the Argent Crusade with whatever they may need."'
-
 variation:
   - transform
+
+flavor: '"The Earthen Ring is here to assist Highlord Fordring and the Argent Crusade with whatever they may need."'
+
+oracle: rimblat-earthshatter-icecrown-004
+
+set: Icecrown

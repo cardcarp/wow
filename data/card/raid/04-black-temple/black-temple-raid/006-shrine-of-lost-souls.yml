@@ -1,14 +1,14 @@
-oracle: shrine-of-lost-souls
-
-lex: '006'
-
-set: black-temple-raid
+index: '006'
 
 rarity: Common
 
 artist: ''
 
-flavor: ''
-
 variation:
   - transform
+
+flavor: ''
+
+oracle: shrine-of-lost-souls-black-temple-raid-006
+
+set: Black Temple Raid

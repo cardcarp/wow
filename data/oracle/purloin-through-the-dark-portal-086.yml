@@ -1,0 +1,22 @@
+name: Purloin
+
+origin: through-the-dark-portal-086
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Look at target opponent's hand and choose an ability or equipment card. That opponent discards that card.
+
+regulation:
+
+errata: []
+
+temp: Subtlety

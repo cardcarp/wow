@@ -1,0 +1,22 @@
+name: Weakening Poison
+
+origin: wrathgate-071
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: 'Attach to target hero or ally that was dealt combat damage by your hero this turn. Ongoing : Attached character has -4 ATK.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Poison

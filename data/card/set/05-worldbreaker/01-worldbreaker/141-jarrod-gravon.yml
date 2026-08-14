@@ -1,13 +1,13 @@
-oracle: jarrod-gravon
-
-lex: '141'
-
-set: worldbreaker
+index: '141'
 
 rarity: Uncommon
 
 artist: Gino Whitehall
 
+variation: []
+
 flavor: '"Gilneas has need of us, now more than ever."'
 
-variation: []
+oracle: jarrod-gravon-worldbreaker-141
+
+set: Worldbreaker

@@ -1,13 +1,13 @@
-oracle: aura-of-suffering
-
-lex: '021'
-
-set: black-temple-raid
+index: '021'
 
 rarity: Uncommon
 
 artist: Massive Black
 
+variation: []
+
 flavor: '"Pain and suffering are all that await you." - Essence of Suffering'
 
-variation: []
+oracle: aura-of-suffering-black-temple-raid-021
+
+set: Black Temple Raid

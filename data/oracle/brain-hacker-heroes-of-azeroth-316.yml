@@ -1,0 +1,24 @@
+name: Brain Hacker
+
+origin: heroes-of-azeroth-316
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+
+rule:
+  - type: ability
+    text: When your hero deals combat damage with Brain Hacker to a hero, that hero's controller discards a card.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Axe

@@ -1,0 +1,27 @@
+name: Druid of the Talon
+
+origin: reign-of-fire-075
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 0
+
+health: 1
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive → If target hero or ally would be dealt damage this turn, it's dealt that much +1 instead.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

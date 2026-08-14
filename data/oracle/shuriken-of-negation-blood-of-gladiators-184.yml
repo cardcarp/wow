@@ -1,0 +1,23 @@
+name: Shuriken of Negation
+
+origin: blood-of-gladiators-184
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Warrior
+  - Rogue
+
+instant: When Shuriken of Negation enters play, you may interrupt target ability card. Thrown
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Shuriken

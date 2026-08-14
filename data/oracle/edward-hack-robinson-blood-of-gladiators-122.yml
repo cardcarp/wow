@@ -1,0 +1,27 @@
+name: Edward "Hack" Robinson
+
+origin: blood-of-gladiators-122
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Remove an ally card in your graveyard from the game → Edward is a Protector this turn.
+
+regulation:
+
+errata: []
+
+temp: Undead Warrior

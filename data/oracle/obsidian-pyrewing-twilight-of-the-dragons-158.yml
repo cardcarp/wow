@@ -1,0 +1,25 @@
+name: Obsidian Pyrewing
+
+origin: twilight-of-the-dragons-158
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 4
+
+combat: Fire
+
+rule:
+  - type: ability
+    text: When this or another Black or Twilight Dragonkin ally you control is destroyed, you may destroy target face-up resource.
+
+regulation:
+
+errata: []
+
+temp: Black Dragonkin

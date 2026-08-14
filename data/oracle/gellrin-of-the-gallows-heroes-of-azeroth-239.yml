@@ -1,0 +1,27 @@
+name: Gellrin of the Gallows
+
+origin: heroes-of-azeroth-239
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Remove Gellrin from the game → Target player turns one of his quests face down.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

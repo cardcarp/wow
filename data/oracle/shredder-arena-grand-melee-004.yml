@@ -1,0 +1,30 @@
+name: Shredder
+
+origin: arena-grand-melee-004
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+class:
+  - Hunter
+
+type: Arena
+
+rule:
+  - type: ability
+    text: Preparation
+
+regulation:
+
+errata: []
+
+temp: Ravager

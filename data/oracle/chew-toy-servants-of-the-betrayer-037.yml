@@ -1,0 +1,22 @@
+name: Chew Toy
+
+origin: servants-of-the-betrayer-037
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: If you control a Form, destroy target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral Combo

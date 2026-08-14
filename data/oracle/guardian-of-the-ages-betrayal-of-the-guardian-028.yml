@@ -1,0 +1,28 @@
+name: Guardian of the Ages
+
+origin: betrayal-of-the-guardian-028
+
+layout: standard
+
+category: Ally
+
+cost: '8'
+
+damage: 8
+
+health: 8
+
+combat: Holy
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: Rift Protector
+
+regulation:
+
+errata: []
+
+temp: Spirit Guardian

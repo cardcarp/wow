@@ -1,13 +1,13 @@
-oracle: summoning-portal
-
-lex: '112'
-
-set: worldbreaker
+index: '112'
 
 rarity: Rare
 
 artist: Tyler Walpole
 
+variation: []
+
 flavor: '"Now is not the time to be shy." - Victor Baltus'
 
-variation: []
+oracle: summoning-portal-worldbreaker-112
+
+set: Worldbreaker

@@ -1,0 +1,22 @@
+name: Eagle Eye
+
+origin: heroes-of-azeroth-037
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: Look at the top four cards of your deck. Put one into your hand and the rest on the bottom of your deck.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery

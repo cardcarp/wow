@@ -1,0 +1,25 @@
+name: Vala Carville
+
+origin: worldbreaker-197
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Arcane
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Undead Mage

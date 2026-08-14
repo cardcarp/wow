@@ -1,0 +1,22 @@
+name: Faces from the Past
+
+origin: the-hunt-for-illidan-068
+
+layout: standard
+
+category: Ability
+
+cost: '7'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Put any number of target ally cards from your graveyard into play if their combined cost is less than or equal to the number of resources you have.
+
+regulation:
+
+errata: []
+
+temp: Holy

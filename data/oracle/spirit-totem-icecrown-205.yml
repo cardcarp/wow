@@ -1,0 +1,22 @@
+name: Spirit Totem
+
+origin: icecrown-205
+
+layout: standard
+
+category: Quest
+
+class:
+  - Shaman
+
+type: Class Restriction
+
+rule:
+  - type: ability
+    text: 'Pay 2 to complete this quest. Reward : Ready target ally or weapon you control.'
+
+regulation:
+
+errata: []
+
+temp: ''

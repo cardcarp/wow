@@ -1,0 +1,27 @@
+name: Andiss Butcherson
+
+origin: fires-of-outland-110
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: You pay 1 less to strike with each weapon you control.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

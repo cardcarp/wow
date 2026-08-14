@@ -1,0 +1,27 @@
+name: Zores, Herald of War
+
+origin: tomb-of-the-forgotten-141
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 5
+
+health: 3
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: 'Empower Warrior : When this ally enters play, if you control another Warrior hero or ally, target weapon you control has +2 ATK and you pay 2 less to strike with it this turn.'
+
+regulation:
+
+errata: []
+
+temp: Ogre Warrior

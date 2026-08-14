@@ -1,13 +1,13 @@
-oracle: incendiary-totem
-
-lex: '014'
-
-set: totem
+index: '014'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: incendiary-totem-scourgewar-087
+
+set: Totem

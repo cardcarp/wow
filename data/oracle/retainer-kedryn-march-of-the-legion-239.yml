@@ -1,0 +1,25 @@
+name: Retainer Kedryn
+
+origin: march-of-the-legion-239
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Scryer Reputation Stealth When Kedryn deals combat damage to an ally, destroy that ally.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

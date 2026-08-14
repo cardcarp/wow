@@ -1,13 +1,13 @@
-oracle: jaroth-lightguard
-
-lex: '182'
-
-set: scourgewar
+index: '182'
 
 rarity: Common
 
 artist: Eric Deschamps
 
+variation: []
+
 flavor: '"War is attrition, and they are ill-prepared for what is to come."'
 
-variation: []
+oracle: jaroth-lightguard-scourgewar-182
+
+set: Scourgewar

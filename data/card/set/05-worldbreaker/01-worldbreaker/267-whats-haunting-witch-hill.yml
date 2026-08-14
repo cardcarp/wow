@@ -1,13 +1,13 @@
-oracle: whats-haunting-witch-hill
-
-lex: '267'
-
-set: worldbreaker
+index: '267'
 
 rarity: Common
 
 artist: Chris Rahn
 
+variation: []
+
 flavor: '"Have you seen the ghosts and corpses shambling about Witch Hill?" - Mordant Grimsby'
 
-variation: []
+oracle: whats-haunting-witch-hill-worldbreaker-267
+
+set: Worldbreaker

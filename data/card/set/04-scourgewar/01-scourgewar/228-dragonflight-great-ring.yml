@@ -1,13 +1,13 @@
-oracle: dragonflight-great-ring
-
-lex: '228'
-
-set: scourgewar
+index: '228'
 
 rarity: Epic
 
 artist: Jim Pavelec
 
+variation: []
+
 flavor: '"It was locked away in the cache of Ley-Guardian Eregos for a reason." - Telrander'
 
-variation: []
+oracle: dragonflight-great-ring-scourgewar-228
+
+set: Scourgewar

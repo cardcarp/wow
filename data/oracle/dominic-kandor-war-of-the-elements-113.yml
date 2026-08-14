@@ -1,0 +1,27 @@
+name: Dominic Kandor
+
+origin: war-of-the-elements-113
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, target ally has -2 ATK this turn. Protector
+
+regulation:
+
+errata: []
+
+temp: Worgen Death Knight

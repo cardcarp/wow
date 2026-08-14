@@ -1,0 +1,27 @@
+name: Cerrik Blooddawn
+
+origin: servants-of-the-betrayer-159
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When you play an ability, ready Cerrik.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

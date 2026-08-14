@@ -1,0 +1,22 @@
+name: Mojo Mender Ja'nah
+
+origin: through-the-dark-portal-015
+
+layout: transform
+
+category: Hero
+
+health: 26
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Mojo Mender Ja'nah → Ja'nah heals all damage from target ally.
+
+regulation:
+
+errata: []
+
+temp: Troll Priest

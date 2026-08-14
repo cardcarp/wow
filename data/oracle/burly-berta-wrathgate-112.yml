@@ -1,0 +1,27 @@
+name: Burly Berta
+
+origin: wrathgate-112
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 0
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Assault 2 When this ally deals damage to a hero, you may draw a card. Death Rattle : Target ally you control has Assault 2 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior

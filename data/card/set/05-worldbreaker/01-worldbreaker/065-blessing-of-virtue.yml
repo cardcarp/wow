@@ -1,13 +1,13 @@
-oracle: blessing-of-virtue
-
-lex: '065'
-
-set: worldbreaker
+index: '065'
 
 rarity: Uncommon
 
 artist: Luke Mancini
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: blessing-of-virtue-worldbreaker-065
+
+set: Worldbreaker

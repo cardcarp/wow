@@ -1,13 +1,13 @@
-oracle: alarien-fish-fu-master
-
-lex: '057'
-
-set: monk-starter
+index: '057'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: alarien-fish-fu-master-monk-starter-057
+
+set: Monk Starter

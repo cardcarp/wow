@@ -1,0 +1,19 @@
+name: Sudden Reversal
+
+origin: heroes-of-azeroth-170
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+instant: Target ally has +4 ATK while defending this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

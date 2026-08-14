@@ -1,13 +1,13 @@
-oracle: alister-cooper
-
-lex: '130'
-
-set: worldbreaker
+index: '130'
 
 rarity: Common
 
 artist: Michael Kormarck
 
+variation: []
+
 flavor: '"The Banshee Queen and her Forsaken will be burned to dust and ash!"'
 
-variation: []
+oracle: alister-cooper-worldbreaker-130
+
+set: Worldbreaker

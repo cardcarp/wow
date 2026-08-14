@@ -1,13 +1,14 @@
-oracle: barador-wildhammer-timewalker
-
-lex: '003'
-
-set: timewalkers
+index: '003'
 
 rarity: Rare
 
 artist: Unknown
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: barador-wildhammer-timewalker-timewalkers-003
+
+set: Timewalkers

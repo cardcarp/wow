@@ -1,0 +1,27 @@
+name: Tauren Lightcaller
+
+origin: betrayal-of-the-guardian-107
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 5
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Absorb
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

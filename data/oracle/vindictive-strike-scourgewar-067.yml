@@ -1,0 +1,22 @@
+name: Vindictive Strike
+
+origin: scourgewar-067
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: Your hero deals 2 unpreventable holy damage to target ally, or 6 if that ally dealt damage this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution

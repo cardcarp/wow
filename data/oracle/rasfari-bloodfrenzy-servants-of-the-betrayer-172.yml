@@ -1,0 +1,27 @@
+name: Ras'fari Bloodfrenzy
+
+origin: servants-of-the-betrayer-172
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 6
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity When Ras'fari attacks for the first time each turn, ready him if he has damage.
+
+regulation:
+
+errata: []
+
+temp: Troll Warrior

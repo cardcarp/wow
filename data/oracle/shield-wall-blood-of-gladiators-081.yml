@@ -1,0 +1,22 @@
+name: Shield Wall
+
+origin: blood-of-gladiators-081
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: Put three Wall armor tokens into play with 1 DEF.
+
+regulation:
+
+errata: []
+
+temp: Protection

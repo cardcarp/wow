@@ -1,0 +1,23 @@
+name: Predatory Gloves
+
+origin: fires-of-outland-203
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: When Predatory Gloves enters play, target opponent discards a card and you draw a card.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

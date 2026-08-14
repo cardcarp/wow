@@ -1,0 +1,27 @@
+name: Throk the Conqueror
+
+origin: crown-of-the-heavens-138
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 6
+
+health: 6
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: This ally can't attack unless you control another ally with 6 or more ATK.
+
+regulation:
+
+errata: []
+
+temp: Ogre Lord Warrior

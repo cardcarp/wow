@@ -1,0 +1,22 @@
+name: Wipe or Snipe
+
+origin: the-hunt-for-illidan-044
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+instant: 'Choose one: Your hero deals 1 ranged damage to each of up to three target heroes and/or allies; or attach to target ally. Ongoing : Attached ally has Long-Range .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

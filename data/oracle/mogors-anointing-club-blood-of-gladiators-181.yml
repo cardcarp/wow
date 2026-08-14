@@ -1,0 +1,25 @@
+name: Mogors Anointing Club
+
+origin: blood-of-gladiators-181
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'On your turn: , Destroy an ally in your party → Put an ally card with lower cost than that ally from your graveyard into play.'
+
+regulation:
+
+errata: []
+
+temp: 1H Arena Weapon Mace

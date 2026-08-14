@@ -1,0 +1,22 @@
+name: Zophos the Vengeful
+
+origin: fields-of-honor-009
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Zophos → Zophos deals 3 unpreventable holy damage to target attacker.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

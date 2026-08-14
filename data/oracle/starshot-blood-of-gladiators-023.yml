@@ -1,0 +1,22 @@
+name: Starshot
+
+origin: blood-of-gladiators-023
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: Your hero deals 3 arcane damage to target ally. Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Balance

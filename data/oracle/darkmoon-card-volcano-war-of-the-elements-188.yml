@@ -1,0 +1,26 @@
+name: 'Darkmoon Card: Volcano'
+
+origin: war-of-the-elements-188
+
+layout: standard
+
+category: Equipment
+
+cost: '7'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'At the start of your turn, you win the game if there are no cards in your deck. Stash : Target player puts the top two cards of his deck into his graveyard.'
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

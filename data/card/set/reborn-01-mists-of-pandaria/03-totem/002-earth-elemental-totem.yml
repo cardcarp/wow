@@ -1,13 +1,13 @@
-oracle: earth-elemental-totem
-
-lex: '002'
-
-set: totem
+index: '002'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: earth-elemental-totem-through-the-dark-portal-092
+
+set: Totem

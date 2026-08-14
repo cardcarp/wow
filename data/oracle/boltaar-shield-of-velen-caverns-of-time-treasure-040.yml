@@ -1,0 +1,27 @@
+name: Boltaar, Shield of Velen
+
+origin: caverns-of-time-treasure-040
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Equipment and Ongoing abilities you control have Spellshield .
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

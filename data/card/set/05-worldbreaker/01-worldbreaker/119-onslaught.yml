@@ -1,13 +1,13 @@
-oracle: onslaught
-
-lex: '119'
-
-set: worldbreaker
+index: '119'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: onslaught-worldbreaker-119
+
+set: Worldbreaker

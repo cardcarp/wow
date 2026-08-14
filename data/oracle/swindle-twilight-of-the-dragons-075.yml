@@ -1,0 +1,22 @@
+name: Swindle
+
+origin: twilight-of-the-dragons-075
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Ready and gain control of target opposing equipment until end of turn.
+
+regulation:
+
+errata: []
+
+temp: Subtlety

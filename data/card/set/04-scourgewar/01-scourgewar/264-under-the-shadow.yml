@@ -1,13 +1,13 @@
-oracle: under-the-shadow
-
-lex: '264'
-
-set: scourgewar
+index: '264'
 
 rarity: Common
 
 artist: Nick Percival
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: under-the-shadow-scourgewar-264
+
+set: Scourgewar

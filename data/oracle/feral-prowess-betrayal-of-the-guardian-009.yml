@@ -1,0 +1,22 @@
+name: Feral Prowess
+
+origin: betrayal-of-the-guardian-009
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: Your hero deals 2 melee damage to target hero or ally, or 4 if that character is exhausted.
+
+regulation:
+
+errata: []
+
+temp: Feral

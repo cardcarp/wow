@@ -1,13 +1,13 @@
-oracle: sudden-attack
-
-lex: '033'
-
-set: shadowfang-keep
+index: '033'
 
 rarity: Common
 
 artist: Gabor Szikszai
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: sudden-attack-shadowfang-keep-033
+
+set: Shadowfang Keep

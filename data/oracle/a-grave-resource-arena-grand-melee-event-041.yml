@@ -1,0 +1,17 @@
+name: A Grave Resource
+
+origin: arena-grand-melee-event-041
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: "Ongoing : Each player can't play cards from his hand. Each player can play cards from his graveyard (any time he could normally play them) ."
+
+regulation:
+
+errata: []
+
+temp: ''

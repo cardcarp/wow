@@ -1,13 +1,13 @@
-oracle: king-ymiron
-
-lex: '151'
-
-set: icecrown
+index: '151'
 
 rarity: Rare
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor: '"There is a reason I am king!"'
 
-variation: []
+oracle: king-ymiron-icecrown-151
+
+set: Icecrown

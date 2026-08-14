@@ -1,0 +1,27 @@
+name: Jaina, Lady of Theramore
+
+origin: icecrown-104
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Frost Resistance Each opponent pays 1 more to play cards that share a card type with a card in his graveyard. You pay 1 less to play cards that share a card type with a card in your graveyard, to a minimum of 1.
+
+regulation:
+
+errata: []
+
+temp: Human Mage

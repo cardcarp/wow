@@ -1,0 +1,27 @@
+name: Shem Reznict
+
+origin: march-of-the-legion-165
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 2
+
+health: 6
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: → Target up to three heroes and/or allies. Shem deals 3, 2, and 1 nature damage to them, respectively.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

@@ -1,13 +1,13 @@
-oracle: rune-of-blaz
-
-lex: '013'
-
-set: molten-core-raid
+index: '013'
 
 rarity: Uncommon
 
 artist: John Avon
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: rune-of-blaz-molten-core-raid-013
+
+set: Molten Core Raid

@@ -1,0 +1,22 @@
+name: 'Power Word: Restore'
+
+origin: blood-of-gladiators-052
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: 'Attach to target hero, and you may turn it face up. Ongoing : At the start of your turn, your hero heals 1 damage from attached hero.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

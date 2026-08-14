@@ -1,0 +1,21 @@
+name: Wentletrap Vest
+
+origin: throne-of-the-tides-226
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Hunter
+  - Shaman
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

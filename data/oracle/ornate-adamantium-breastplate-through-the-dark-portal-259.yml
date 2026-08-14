@@ -1,0 +1,21 @@
+name: Ornate Adamantium Breastplate
+
+origin: through-the-dark-portal-259
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

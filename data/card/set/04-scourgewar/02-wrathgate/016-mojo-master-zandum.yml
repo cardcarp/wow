@@ -1,14 +1,14 @@
-oracle: mojo-master-zandum
-
-lex: '016'
-
-set: wrathgate
+index: '016'
 
 rarity: Uncommon
 
 artist: Greg Staples
 
-flavor: "\"If ya need me, dere be no harm in callin' for help, bruddah. We must all work together if we gonna stop da Scourge.\""
-
 variation:
   - transform
+
+flavor: "\"If ya need me, dere be no harm in callin' for help, bruddah. We must all work together if we gonna stop da Scourge.\""
+
+oracle: mojo-master-zandum-wrathgate-016
+
+set: Wrathgate

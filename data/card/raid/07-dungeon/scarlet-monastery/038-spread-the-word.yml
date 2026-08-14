@@ -1,13 +1,13 @@
-oracle: spread-the-word
-
-lex: '038'
-
-set: scarlet-monastery
+index: '038'
 
 rarity: Uncommon
 
 artist: Samwise
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: spread-the-word-onyxias-lair-treasure-006
+
+set: Scarlet Monastery

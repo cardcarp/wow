@@ -1,0 +1,22 @@
+name: Call the Void
+
+origin: war-of-the-ancients-057
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Put target Demon ally from your graveyard into your hand.
+
+regulation:
+
+errata: []
+
+temp: Demonology

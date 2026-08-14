@@ -1,0 +1,26 @@
+name: Seers Signet
+
+origin: the-hunt-for-illidan-222
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Scryer Reputation Your hero has " Sabotage: Ability or equipment ." When your hero sabotages a card, destroy it.'
+
+regulation:
+
+errata: []
+
+temp: Item Ring

@@ -1,0 +1,27 @@
+name: Nerra Lifeboon
+
+origin: heroes-of-azeroth-210
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Other allies in your party have +1 health.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

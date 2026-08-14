@@ -1,0 +1,19 @@
+name: The Footsteps of Illidan
+
+origin: the-hunt-for-illidan-116
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: 'Attach to target hero or ally. Ongoing : Attached character is also a Demon.'
+
+regulation:
+
+errata: []
+
+temp: ''

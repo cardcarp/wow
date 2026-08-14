@@ -1,0 +1,17 @@
+name: A Second Chance
+
+origin: arena-grand-melee-event-088
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: Turn all heroes face up. If able this turn, each player may use his hero's flip power without paying its resource cost.
+
+regulation:
+
+errata: []
+
+temp: ''

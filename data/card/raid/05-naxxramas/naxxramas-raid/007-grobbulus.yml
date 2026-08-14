@@ -1,14 +1,14 @@
-oracle: grobbulus
-
-lex: '007'
-
-set: naxxramas-raid
+index: '007'
 
 rarity: Rare
 
 artist: Alexander Garner
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: grobbulus-naxxramas-raid-007
+
+set: Naxxramas Raid

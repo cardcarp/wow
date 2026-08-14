@@ -1,0 +1,27 @@
+name: Archbishop Benedictus
+
+origin: march-of-the-legion-135
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 0
+
+health: 1
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Heroes and allies can't attack.
+
+regulation:
+
+errata: []
+
+temp: Human Priest

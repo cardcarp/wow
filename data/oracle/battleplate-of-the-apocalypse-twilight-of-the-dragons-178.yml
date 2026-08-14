@@ -1,0 +1,24 @@
+name: Battleplate of the Apocalypse
+
+origin: twilight-of-the-dragons-178
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 'On your turn: → When target ally you control deals damage to an opposing ally this turn, destroy both allies.'
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

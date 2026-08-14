@@ -1,0 +1,31 @@
+name: Hellfire-Encased Pendant
+
+origin: caverns-of-time-treasure-061
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: → Your hero deals 1 fire damage to target hero for each ally you control. → Your hero heals 1 damage from itself for each ally you control.
+
+regulation:
+
+errata: []
+
+temp: Item Neck

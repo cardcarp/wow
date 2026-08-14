@@ -1,0 +1,19 @@
+name: Flames of Sulfuron
+
+origin: molten-core-raid-044
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+instant: Ragnaros deals 1 fire damage to target hero or ally for each rune you have.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ragnaros

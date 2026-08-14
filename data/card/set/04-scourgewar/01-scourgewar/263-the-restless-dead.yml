@@ -1,13 +1,13 @@
-oracle: the-restless-dead
-
-lex: '263'
-
-set: scourgewar
+index: '263'
 
 rarity: Common
 
 artist: E.M. Gist
 
+variation: []
+
 flavor: '"For those damned souls, there is no eternal peace. We must provide their souls rest." - Father Gustav'
 
-variation: []
+oracle: the-restless-dead-scourgewar-263
+
+set: Scourgewar

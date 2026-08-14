@@ -1,0 +1,22 @@
+name: Stormfire
+
+origin: the-hunt-for-illidan-033
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: Your hero deals 3 arcane damage to target hero or ally. Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Balance

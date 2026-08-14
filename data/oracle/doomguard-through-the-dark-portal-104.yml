@@ -1,0 +1,23 @@
+name: Doomguard
+
+origin: through-the-dark-portal-104
+
+layout: standard
+
+category: Token
+
+damage: 5
+
+health: 5
+
+combat: Shadow
+
+type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Doomguard Demon

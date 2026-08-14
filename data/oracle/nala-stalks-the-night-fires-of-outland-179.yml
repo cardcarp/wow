@@ -1,0 +1,27 @@
+name: Nala Stalks-the-Night
+
+origin: fires-of-outland-179
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity Stealth
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

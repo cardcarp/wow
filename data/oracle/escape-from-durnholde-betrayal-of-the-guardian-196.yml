@@ -1,0 +1,17 @@
+name: Escape from Durnholde
+
+origin: betrayal-of-the-guardian-196
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 1 to complete this quest. Reward : Look at the top three cards of your deck. Put one on top of your deck and the rest on the bottom.'
+
+regulation:
+
+errata: []
+
+temp: ''

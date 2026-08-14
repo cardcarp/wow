@@ -2,7 +2,7 @@ name: Murkdeep
 
 type: starter
 
-lex:
+index:
 
 subtotal: 27
 
@@ -10,4 +10,4 @@ total: 27
 
 date_release: 2012-03
 
-collection: champion-starter
+collection: Champion Starter

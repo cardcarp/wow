@@ -1,13 +1,13 @@
-oracle: corruptor-mimi-whippleshade
-
-lex: '128'
-
-set: scourgewar
+index: '128'
 
 rarity: Uncommon
 
 artist: John Polidora
 
+variation: []
+
 flavor: "\"It's good to be back, and I'd like to keep it that way.\""
 
-variation: []
+oracle: corruptor-mimi-whippleshade-scourgewar-128
+
+set: Scourgewar

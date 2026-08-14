@@ -1,0 +1,25 @@
+name: Lady Katrana Prestor
+
+origin: servants-of-the-betrayer-209
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Fire
+
+rule:
+  - type: ability
+    text: Traitor Hero Required 15 → Remove all of your cards in all zones from the game and start an Onyxia Raid.
+
+regulation:
+
+errata: []
+
+temp: Black Dragon Traitor

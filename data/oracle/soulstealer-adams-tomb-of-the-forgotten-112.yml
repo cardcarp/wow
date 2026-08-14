@@ -1,0 +1,27 @@
+name: Soulstealer Adams
+
+origin: tomb-of-the-forgotten-112
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 2
+
+health: 7
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally deals fatal combat damage while attacking, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

@@ -1,0 +1,27 @@
+name: Grismare
+
+origin: blood-of-gladiators-133
+
+layout: standard
+
+category: Ally
+
+cost: '8'
+
+damage: 6
+
+health: 6
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 1 , Destroy an ally token in your party → Grismare deals nature damage equal to that token's ATK to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

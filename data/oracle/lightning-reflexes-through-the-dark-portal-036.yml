@@ -1,0 +1,22 @@
+name: Lightning Reflexes
+
+origin: through-the-dark-portal-036
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+instant: 'Survival Hero Required Ongoing : Opposing heroes and allies have -1 ATK while in combat with your hero.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival Talent

@@ -1,0 +1,27 @@
+name: Kavai the Wanderer
+
+origin: through-the-dark-portal-173
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 6
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 1 , Destroy Kavai → Destroy target ability or equipment.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

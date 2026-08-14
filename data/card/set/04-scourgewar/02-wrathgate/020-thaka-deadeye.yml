@@ -1,14 +1,14 @@
-oracle: thaka-deadeye
-
-lex: '020'
-
-set: wrathgate
+index: '020'
 
 rarity: Uncommon
 
 artist: Fred Fields
 
-flavor: '"Patience is key for a successful shot, but you must be quick to take it when the chance presents itself."'
-
 variation:
   - transform
+
+flavor: '"Patience is key for a successful shot, but you must be quick to take it when the chance presents itself."'
+
+oracle: thaka-deadeye-wrathgate-020
+
+set: Wrathgate

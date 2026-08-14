@@ -1,0 +1,29 @@
+name: Gladiator Zophos
+
+origin: blood-of-gladiators-108
+
+layout: standard
+
+category: Ally
+
+cost: '8'
+
+damage: 8
+
+health: 6
+
+combat: Holy
+
+faction: Alliance
+
+type: Arena
+
+rule:
+  - type: ability
+    text: When an Arena ally in your party is dealt damage, it deals 3 unpreventable holy damage to its source.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

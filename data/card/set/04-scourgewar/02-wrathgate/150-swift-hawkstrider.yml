@@ -1,13 +1,13 @@
-oracle: swift-hawkstrider
-
-lex: '150'
-
-set: wrathgate
+index: '150'
 
 rarity: Rare
 
 artist: Tyler Walpole
 
+variation: []
+
 flavor: (Mounts can't attack or be attacked.)
 
-variation: []
+oracle: swift-hawkstrider-wrathgate-150
+
+set: Wrathgate

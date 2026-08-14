@@ -1,13 +1,13 @@
-oracle: fading-glow
-
-lex: '188'
-
-set: wrathgate
+index: '188'
 
 rarity: Common
 
 artist: Eric Deschamps
 
+variation: []
+
 flavor: '"You are a fool if you think that I can be defeated so easily!" - Andarius the Damned'
 
-variation: []
+oracle: fading-glow-wrathgate-188
+
+set: Wrathgate

@@ -1,0 +1,27 @@
+name: Elwynn Huntsman
+
+origin: reign-of-fire-077
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 5
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Unity : While you control three or more Human allies, this ally has Assault 2 and Sentinel .'
+
+regulation:
+
+errata: []
+
+temp: Human Hunter

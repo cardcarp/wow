@@ -1,0 +1,22 @@
+name: Sustain or Reclaim
+
+origin: march-of-the-legion-029
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: 'Choose one: Your hero heals all damage from target ally; or put target ally card from your graveyard into your hand.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

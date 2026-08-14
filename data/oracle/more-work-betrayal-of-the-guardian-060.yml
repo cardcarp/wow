@@ -1,0 +1,19 @@
+name: More Work?
+
+origin: betrayal-of-the-guardian-060
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: Exhaust target hero or ally. It can't ready during its controller's next ready step.
+
+regulation:
+
+errata: []
+
+temp: ''

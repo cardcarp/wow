@@ -1,13 +1,13 @@
-oracle: kingsbane
-
-lex: '196'
-
-set: icecrown
+index: '196'
 
 rarity: Rare
 
 artist: Ben Thompson
 
+variation: []
+
 flavor: This blade carries within it a sense of deep sorrow.
 
-variation: []
+oracle: kingsbane-icecrown-196
+
+set: Icecrown

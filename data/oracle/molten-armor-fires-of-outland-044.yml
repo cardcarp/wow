@@ -1,0 +1,22 @@
+name: Molten Armor
+
+origin: fires-of-outland-044
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Ongoing : 1 , Remove an ability card in your graveyard from the game → If your hero is defending, it deals 1 fire damage to target attacker.'
+
+regulation:
+
+errata: []
+
+temp: Fire

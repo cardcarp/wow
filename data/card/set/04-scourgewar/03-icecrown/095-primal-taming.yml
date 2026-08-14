@@ -1,13 +1,13 @@
-oracle: primal-taming
-
-lex: '095'
-
-set: icecrown
+index: '095'
 
 rarity: Uncommon
 
 artist: Lucas Graciano
 
+variation: []
+
 flavor: '"There are times when weakening an enemy serves more purpose than destroying him." - Morn Walks-the-Path'
 
-variation: []
+oracle: primal-taming-icecrown-095
+
+set: Icecrown

@@ -1,0 +1,22 @@
+name: Akumo of Thunder Bluff
+
+origin: horde-shaman-2011-001
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 3 , Flip Akumo → Ready target ally.'
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

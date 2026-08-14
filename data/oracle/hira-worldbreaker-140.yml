@@ -1,0 +1,25 @@
+name: Hira
+
+origin: worldbreaker-140
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Fire
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

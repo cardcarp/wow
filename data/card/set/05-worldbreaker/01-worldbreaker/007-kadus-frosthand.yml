@@ -1,14 +1,14 @@
-oracle: kadus-frosthand
-
-lex: '007'
-
-set: worldbreaker
+index: '007'
 
 rarity: Uncommon
 
 artist: Chris Seaman
 
-flavor: '"Watch me closely, lad. With one hand I can freeze our enemies in their tracks, and with the other, I can keep my mug of ale frosty."'
-
 variation:
   - transform
+
+flavor: '"Watch me closely, lad. With one hand I can freeze our enemies in their tracks, and with the other, I can keep my mug of ale frosty."'
+
+oracle: kadus-frosthand-worldbreaker-007
+
+set: Worldbreaker

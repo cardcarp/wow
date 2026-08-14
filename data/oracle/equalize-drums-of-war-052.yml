@@ -1,0 +1,22 @@
+name: Equalize
+
+origin: drums-of-war-052
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Each player with more cards in play than you destroys cards in play he controls until he has the same number as you.
+
+regulation:
+
+errata: []
+
+temp: Discipline

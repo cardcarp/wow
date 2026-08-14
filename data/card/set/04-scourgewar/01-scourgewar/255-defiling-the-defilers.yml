@@ -1,13 +1,13 @@
-oracle: defiling-the-defilers
-
-lex: '255'
-
-set: scourgewar
+index: '255'
 
 rarity: Common
 
 artist: Chris Dien
 
+variation: []
+
 flavor: "\"Destroy the runes ... stamp them out and ensure that the Cult will not have access to whatever power they've accumulated there.\" - Serinar"
 
-variation: []
+oracle: defiling-the-defilers-scourgewar-255
+
+set: Scourgewar

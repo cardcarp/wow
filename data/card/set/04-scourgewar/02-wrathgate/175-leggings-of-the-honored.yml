@@ -1,13 +1,13 @@
-oracle: leggings-of-the-honored
-
-lex: '175'
-
-set: wrathgate
+index: '175'
 
 rarity: Uncommon
 
 artist: Adrian Lee
 
+variation: []
+
 flavor: '"In time, you shall be remembered for your past deeds." - Lanthus the Restorer'
 
-variation: []
+oracle: leggings-of-the-honored-wrathgate-175
+
+set: Wrathgate

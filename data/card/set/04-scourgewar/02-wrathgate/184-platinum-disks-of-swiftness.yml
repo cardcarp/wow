@@ -1,13 +1,13 @@
-oracle: platinum-disks-of-swiftness
-
-lex: '184'
-
-set: wrathgate
+index: '184'
 
 rarity: Rare
 
 artist: Patrick McEvoy
 
+variation: []
+
 flavor: Created by the Makers, the technology has yet to be reproduced successfully.
 
-variation: []
+oracle: platinum-disks-of-swiftness-wrathgate-184
+
+set: Wrathgate

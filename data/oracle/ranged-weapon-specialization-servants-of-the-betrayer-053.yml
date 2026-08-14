@@ -1,0 +1,22 @@
+name: Ranged Weapon Specialization
+
+origin: servants-of-the-betrayer-053
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'Marksmanship Hero Required Ongoing : Your Ranged weapons have +2 ATK and you pay 1 less to strike with them.'
+
+regulation:
+
+errata: []
+
+temp: Marksmanship Talent

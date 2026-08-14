@@ -1,0 +1,22 @@
+name: Numbing Cold
+
+origin: reign-of-fire-005
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Death Knight
+
+instant: Interrupt target card if it has the same name as a card in its controller's graveyard.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost

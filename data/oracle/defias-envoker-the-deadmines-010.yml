@@ -1,0 +1,25 @@
+name: Defias Envoker
+
+origin: the-deadmines-010
+
+layout: standard
+
+category: Ally
+
+damage: 5
+
+health: 3
+
+combat: Fire
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Long-Range
+
+regulation:
+
+errata: []
+
+temp: Human Mage

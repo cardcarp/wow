@@ -1,13 +1,13 @@
-oracle: nether-inversion
-
-lex: '109'
-
-set: worldbreaker
+index: '109'
 
 rarity: Common
 
 artist: Matt Cavotta
 
+variation: []
+
 flavor: '"There is always a price to pay." - Grizlik Sparkhex'
 
-variation: []
+oracle: nether-inversion-worldbreaker-109
+
+set: Worldbreaker

@@ -1,13 +1,13 @@
-oracle: frostbolt-volley
-
-lex: '029'
-
-set: naxxramas-raid
+index: '029'
 
 rarity: Uncommon
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor: "\"Enough! I grow tired of these distractions!\" - Kel'Thuzad"
 
-variation: []
+oracle: frostbolt-volley-naxxramas-raid-029
+
+set: Naxxramas Raid

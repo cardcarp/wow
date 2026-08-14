@@ -1,0 +1,19 @@
+name: Squish Together
+
+origin: magtheridons-lair-raid-025
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+rule:
+  - type: ability
+    text: Exhaust two target opposing allies. Each deals melee damage equal to its ATK to the other ally.
+
+regulation:
+
+errata: []
+
+temp: ''

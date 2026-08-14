@@ -1,0 +1,22 @@
+name: Spiritual Awakening
+
+origin: icecrown-072
+
+layout: standard
+
+category: Ability
+
+cost: '7'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, remove all but 14 damage from your hero.'
+
+regulation:
+
+errata: []
+
+temp: Restoration

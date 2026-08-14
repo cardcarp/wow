@@ -1,0 +1,22 @@
+name: Hand of Devotion
+
+origin: tomb-of-the-forgotten-033
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: Play only on an opponent's turn. Your hero has Protector this turn. Your hero has Sentinel this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

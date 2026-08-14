@@ -1,13 +1,13 @@
-oracle: curse-of-doom
-
-lex: '079'
-
-set: wrathgate
+index: '079'
 
 rarity: Uncommon
 
 artist: Lucas Graciano
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: curse-of-doom-wrathgate-079
+
+set: Wrathgate

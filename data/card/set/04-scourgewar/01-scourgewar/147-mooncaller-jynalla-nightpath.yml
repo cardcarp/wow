@@ -1,13 +1,13 @@
-oracle: mooncaller-jynalla-nightpath
-
-lex: '147'
-
-set: scourgewar
+index: '147'
 
 rarity: Uncommon
 
 artist: Eric Browning
 
+variation: []
+
 flavor: '"When the time comes, Elune will bless me with her power. All I must do is call her name."'
 
-variation: []
+oracle: mooncaller-jynalla-nightpath-scourgewar-147
+
+set: Scourgewar

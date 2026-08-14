@@ -1,0 +1,27 @@
+name: Trixie Boltclunker
+
+origin: scourgewar-158
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Gnome Warrior

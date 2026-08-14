@@ -1,0 +1,17 @@
+name: Super Hot Stew
+
+origin: drums-of-war-256
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Super Hot Stew enters play exhausted. Pay 6 to complete this quest. Reward : Draw three cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

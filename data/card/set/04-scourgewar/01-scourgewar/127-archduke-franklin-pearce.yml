@@ -1,13 +1,13 @@
-oracle: archduke-franklin-pearce
-
-lex: '127'
-
-set: scourgewar
+index: '127'
 
 rarity: Common
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: "\"Our plan for success is in motion. Now, let's see what develops.\""
 
-variation: []
+oracle: archduke-franklin-pearce-scourgewar-127
+
+set: Scourgewar

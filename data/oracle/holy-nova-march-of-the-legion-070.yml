@@ -1,0 +1,22 @@
+name: Holy Nova
+
+origin: march-of-the-legion-070
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: Holy Hero Required Your hero deals 1 unpreventable holy damage to each opposing hero and ally and heals 1 damage from each friendly hero and ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy Talent

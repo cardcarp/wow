@@ -1,0 +1,22 @@
+name: Belligerence
+
+origin: scourgewar-078
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Ongoing : You pay 2 less to strike with Melee weapons on your turn. Death Rattle : Reveal the top three cards of your deck. Put a revealed Melee weapon into your hand and the rest on the bottom of your deck.'
+
+regulation:
+
+errata: []
+
+temp: Combat

@@ -1,13 +1,13 @@
-oracle: nimble-brew
-
-lex: '048'
-
-set: monk-starter
+index: '048'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: nimble-brew-monk-starter-048
+
+set: Monk Starter

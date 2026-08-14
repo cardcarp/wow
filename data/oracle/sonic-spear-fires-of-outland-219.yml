@@ -1,0 +1,24 @@
+name: Sonic Spear
+
+origin: fires-of-outland-219
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+
+rule:
+  - type: ability
+    text: When your hero deals combat damage with Sonic Spear to a hero, that hero's controller destroys one of his equipment.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Polearm

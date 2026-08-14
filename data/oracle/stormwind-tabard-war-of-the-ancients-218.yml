@@ -1,0 +1,33 @@
+name: Stormwind Tabard
+
+origin: war-of-the-ancients-218
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+faction: Alliance
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 3 , → Put a 1 / 1 Human Warrior ally token into play with Protector . You pay 1 less to use this power for each Human ally you control.
+
+regulation:
+
+errata: []
+
+temp: Item Tabard

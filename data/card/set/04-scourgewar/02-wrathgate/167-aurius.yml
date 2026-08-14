@@ -1,13 +1,13 @@
-oracle: aurius
-
-lex: '167'
-
-set: wrathgate
+index: '167'
 
 rarity: Epic
 
 artist: Mike Hayes
 
+variation: []
+
 flavor: '"Before I submit to this impending death, there is one last thing I must do."'
 
-variation: []
+oracle: aurius-wrathgate-167
+
+set: Wrathgate

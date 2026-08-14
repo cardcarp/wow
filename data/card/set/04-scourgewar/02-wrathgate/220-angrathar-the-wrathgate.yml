@@ -1,13 +1,13 @@
-oracle: angrathar-the-wrathgate
-
-lex: '220'
-
-set: wrathgate
+index: '220'
 
 rarity: Epic
 
 artist: Peter Lee
 
+variation: []
+
 flavor: Crafted to look like the Helm of Domination, worn by the Lich King himself.
 
-variation: []
+oracle: angrathar-the-wrathgate-wrathgate-220
+
+set: Wrathgate

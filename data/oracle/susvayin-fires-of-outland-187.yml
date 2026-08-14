@@ -1,0 +1,27 @@
+name: Sus'vayin
+
+origin: fires-of-outland-187
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Arcane
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Sus'vayin has Ferocity and Long-Range while more allies are in an opponent's party than in yours.
+
+regulation:
+
+errata: []
+
+temp: Troll Mage

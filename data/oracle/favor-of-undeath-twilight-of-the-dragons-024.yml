@@ -1,0 +1,22 @@
+name: Favor of Undeath
+
+origin: twilight-of-the-dragons-024
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, target opposing ally has -1 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Blood

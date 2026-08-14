@@ -1,0 +1,25 @@
+name: Vindicator Lorin
+
+origin: the-hunt-for-illidan-182
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Armor and item'
+
+regulation:
+
+errata: []
+
+temp: Draenai Priest

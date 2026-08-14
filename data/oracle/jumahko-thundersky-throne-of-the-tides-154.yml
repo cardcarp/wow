@@ -1,0 +1,27 @@
+name: Jumahko Thundersky
+
+origin: throne-of-the-tides-154
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 1
+
+health: 9
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

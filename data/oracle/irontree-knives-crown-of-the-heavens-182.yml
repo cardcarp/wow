@@ -1,0 +1,23 @@
+name: Irontree Knives
+
+origin: crown-of-the-heavens-182
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Warrior
+  - Rogue
+
+rule:
+  - type: ability
+    text: This weapon enters play exhausted. Thrown
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Shuriken

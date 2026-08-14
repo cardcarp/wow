@@ -1,13 +1,13 @@
-oracle: malar-silverfrost
-
-lex: '017'
-
-set: jaina
+index: '017'
 
 rarity: Common
 
 artist: Benjamin Zhang
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: malar-silverfrost-throne-of-the-tides-121
+
+set: Jaina

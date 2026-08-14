@@ -1,13 +1,13 @@
-oracle: bella-wilder
-
-lex: '135'
-
-set: worldbreaker
+index: '135'
 
 rarity: Common
 
 artist: Jesper Ejsing
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: bella-wilder-worldbreaker-135
+
+set: Worldbreaker

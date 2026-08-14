@@ -1,0 +1,25 @@
+name: Retainer Jitaen
+
+origin: march-of-the-legion-238
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: 'Scryer Reputation Sabotage: Quest When Jitaen sabotages a quest, turn it face down.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

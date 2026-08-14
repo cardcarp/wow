@@ -1,0 +1,23 @@
+name: Lava Annihilator
+
+origin: molten-core-raid-036
+
+layout: standard
+
+category: Ally
+
+damage: 1
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: When Lava Annihilator enters play, you may destroy target ally.
+
+regulation:
+
+errata: []
+
+temp: Elemental Minion

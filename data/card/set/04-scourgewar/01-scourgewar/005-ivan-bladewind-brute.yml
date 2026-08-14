@@ -1,14 +1,14 @@
-oracle: ivan-bladewind-brute
-
-lex: '005'
-
-set: scourgewar
+index: '005'
 
 rarity: Uncommon
 
 artist: James Zhang
 
-flavor: His unbridled rage continued for what seemed like an eternity, as corpse upon corpse fell before the mighty Ivan's blades.
-
 variation:
   - transform
+
+flavor: His unbridled rage continued for what seemed like an eternity, as corpse upon corpse fell before the mighty Ivan's blades.
+
+oracle: ivan-bladewind-brute-scourgewar-005
+
+set: Scourgewar

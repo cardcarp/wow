@@ -1,0 +1,22 @@
+name: Stab in the Dark
+
+origin: blood-of-gladiators-058
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Look at target opponent's hand and choose an ally card. He discards that card.
+
+regulation:
+
+errata: []
+
+temp: Subtlety

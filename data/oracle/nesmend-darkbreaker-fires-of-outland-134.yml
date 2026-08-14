@@ -1,0 +1,27 @@
+name: Nesmend Darkbreaker
+
+origin: fires-of-outland-134
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 5 , Destroy Nesmend Darkbreaker → Target ally is Elusive and Untargetable this turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

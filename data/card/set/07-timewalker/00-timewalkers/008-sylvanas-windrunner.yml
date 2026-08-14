@@ -1,13 +1,14 @@
-oracle: sylvanas-windrunner
-
-lex: '008'
-
-set: timewalkers
+index: '008'
 
 rarity: Rare
 
 artist: Unknown
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: sylvanas-windrunner-timewalkers-008
+
+set: Timewalkers

@@ -1,0 +1,27 @@
+name: Thunder Bluff Sunwalker
+
+origin: war-of-the-ancients-151
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 5
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

@@ -1,5 +1,4 @@
 set_allow:
-  - '*'
 
 regulation_allow:
   - '5'
@@ -9,18 +8,18 @@ regulation_allow:
   - '9'
 
 oracle_ban:
-  - ashenvale
-  - bottled-light
-  - etched-dragonbone-girdle
-  - grglmrgl
-  - leader-of-the-pack
-  - legacy-of-the-horde
-  - lord-kurtalos-ravencrest
-  - mazukon
-  - savagin-the-reckless
-  - the-last-relic-of-argus
-  - viewless-wings
-  - winter-veil-disguise-kit
+  - ashenvale-reign-of-fire-196
+  - bottled-light-throne-of-the-tides-234
+  - etched-dragonbone-girdle-worldbreaker-221
+  - grglmrgl-throne-of-the-tides-022
+  - leader-of-the-pack-worldbreaker-251
+  - legacy-of-the-horde-reign-of-fire-065
+  - lord-kurtalos-ravencrest-war-of-the-ancients-101
+  - mazukon-throne-of-the-tides-162
+  - savagin-the-reckless-worldbreaker-190
+  - the-last-relic-of-argus-timewalkers-crafting-006
+  - viewless-wings-aftermath-badges-of-justice-008
+  - winter-veil-disguise-kit-aftermath-holiday-promotional-001
 
 oracle_restrict:
 

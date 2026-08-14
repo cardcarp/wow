@@ -1,0 +1,22 @@
+name: Permafrost
+
+origin: reign-of-fire-024
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Frost Talent Ongoing : At the start of your turn, your hero deals 1 frost damage to each opposing hero for each ready non-hero card that its controller controls.'
+
+regulation:
+
+errata: []
+
+temp: Frost

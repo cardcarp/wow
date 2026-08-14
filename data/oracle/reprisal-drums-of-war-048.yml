@@ -1,0 +1,22 @@
+name: Reprisal
+
+origin: drums-of-war-048
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: If damage was dealt with target ability or equipment this turn, destroy it.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution

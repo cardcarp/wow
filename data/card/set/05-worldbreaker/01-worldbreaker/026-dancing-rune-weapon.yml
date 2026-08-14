@@ -1,13 +1,13 @@
-oracle: dancing-rune-weapon
-
-lex: '026'
-
-set: worldbreaker
+index: '026'
 
 rarity: Rare
 
 artist: Dan Scott
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: dancing-rune-weapon-worldbreaker-026
+
+set: Worldbreaker

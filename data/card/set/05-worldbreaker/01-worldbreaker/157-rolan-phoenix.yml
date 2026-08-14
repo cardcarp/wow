@@ -1,13 +1,13 @@
-oracle: rolan-phoenix
-
-lex: '157'
-
-set: worldbreaker
+index: '157'
 
 rarity: Rare
 
 artist: J.P. Targete
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: rolan-phoenix-worldbreaker-157
+
+set: Worldbreaker

@@ -1,0 +1,27 @@
+name: Mollie Brightheart
+
+origin: drums-of-war-138
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Diplomacy: Draenei → Mollie deals 1 fire damage to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Human Mage

@@ -1,0 +1,17 @@
+name: Seeds of the Lashers
+
+origin: wrathgate-215
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Exhaust seven cards you control to complete this quest. Reward : Draw two cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

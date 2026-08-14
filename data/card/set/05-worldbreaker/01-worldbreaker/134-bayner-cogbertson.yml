@@ -1,13 +1,13 @@
-oracle: bayner-cogbertson
-
-lex: '134'
-
-set: worldbreaker
+index: '134'
 
 rarity: Common
 
 artist: Paul Kidby
 
+variation: []
+
 flavor: '"The focus of the Alliance has been divided as of late, but we must keep a watchful eye on the Horde and their new Warchief."'
 
-variation: []
+oracle: bayner-cogbertson-worldbreaker-134
+
+set: Worldbreaker

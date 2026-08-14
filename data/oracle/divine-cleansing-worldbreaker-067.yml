@@ -1,0 +1,22 @@
+name: Divine Cleansing
+
+origin: worldbreaker-067
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: Destroy any number of abilities attached to friendly cards.
+
+regulation:
+
+errata: []
+
+temp: Holy

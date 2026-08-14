@@ -1,13 +1,13 @@
-oracle: return-to-angrathar
-
-lex: '214'
-
-set: wrathgate
+index: '214'
 
 rarity: Common
 
 artist: Eric Chiang
 
+variation: []
+
 flavor: "\"The time to end this war is at hand. The Lich King's tyranny ends today!\" - Saurfang the Younger"
 
-variation: []
+oracle: return-to-angrathar-wrathgate-214
+
+set: Wrathgate

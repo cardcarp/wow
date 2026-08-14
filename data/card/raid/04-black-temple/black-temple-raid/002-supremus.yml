@@ -1,14 +1,14 @@
-oracle: supremus
-
-lex: '002'
-
-set: black-temple-raid
+index: '002'
 
 rarity: Rare
 
 artist: Alex Horley Orlandelli
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: supremus-black-temple-raid-002
+
+set: Black Temple Raid

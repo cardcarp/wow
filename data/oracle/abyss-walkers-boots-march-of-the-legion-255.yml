@@ -1,0 +1,24 @@
+name: Abyss Walkers Boots
+
+origin: march-of-the-legion-255
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: → Remove target card in a graveyard from the game.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

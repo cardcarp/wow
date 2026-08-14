@@ -1,0 +1,24 @@
+name: Betrayer of Humanity
+
+origin: naxxramas-treasure-029
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Warrior
+  - Death Knight
+  - Shaman
+
+rule:
+  - type: ability
+    text: As an additional cost to play this weapon, destroy a Human or Orc ally you control.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Axe

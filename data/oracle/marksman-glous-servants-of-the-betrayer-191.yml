@@ -1,0 +1,25 @@
+name: Marksman Glous
+
+origin: servants-of-the-betrayer-191
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Ranged
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Quest When a quest is inspired this way, you pay 1 less to complete it this turn.'
+
+regulation:
+
+errata: []
+
+temp: Draenei Hunter

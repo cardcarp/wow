@@ -1,0 +1,27 @@
+name: Thunder Bluff Spiritwalker
+
+origin: war-of-the-ancients-149
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 3
+
+health: 6
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'Tribe : When this or another Tauren ally enters play under your control, your hero has Assault 2 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

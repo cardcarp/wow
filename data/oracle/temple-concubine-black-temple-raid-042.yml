@@ -1,0 +1,25 @@
+name: Temple Concubine
+
+origin: black-temple-raid-042
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Traitor Hero Required If Temple Concubine would be dealt 3 or more damage, prevent it.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Traitor

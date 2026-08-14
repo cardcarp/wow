@@ -1,13 +1,13 @@
-oracle: justicar-ularu
-
-lex: '120'
-
-set: wrathgate
+index: '120'
 
 rarity: Uncommon
 
 artist: Paolo Parente
 
+variation: []
+
 flavor: '"Enough of your mind games!"'
 
-variation: []
+oracle: justicar-ularu-wrathgate-120
+
+set: Wrathgate

@@ -1,0 +1,27 @@
+name: Nurgle Tinkfrost
+
+origin: wrathgate-126
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Opposing heroes and allies can't attack unless their controller pays 1 for each attacker.
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

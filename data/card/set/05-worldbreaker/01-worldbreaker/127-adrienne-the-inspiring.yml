@@ -1,13 +1,13 @@
-oracle: adrienne-the-inspiring
-
-lex: '127'
-
-set: worldbreaker
+index: '127'
 
 rarity: Uncommon
 
 artist: Christopher Moeller
 
+variation: []
+
 flavor: Her indomitable spirit and selflessness rally everyone around her.
 
-variation: []
+oracle: adrienne-the-inspiring-worldbreaker-127
+
+set: Worldbreaker

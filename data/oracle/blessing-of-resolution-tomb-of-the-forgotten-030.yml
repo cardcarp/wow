@@ -1,0 +1,22 @@
+name: Blessing of Resolution
+
+origin: tomb-of-the-forgotten-030
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Attach to target Monster ally you control. Ongoing : Attached ally has +2 / +2 for this and each other ability attached to it.'
+
+regulation:
+
+errata: []
+
+temp: Protection Blessing

@@ -1,0 +1,22 @@
+name: Sacred Circle
+
+origin: wrathgate-063
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Put target ally from your graveyard into play if its cost is less than or equal to the number of resources you control.
+
+regulation:
+
+errata: []
+
+temp: Holy

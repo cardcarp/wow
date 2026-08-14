@@ -1,0 +1,22 @@
+name: Swiftshift
+
+origin: through-the-dark-portal-027
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Druid
+
+instant: Search your deck and/or graveyard for a Form card, reveal it, and put it into your hand.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

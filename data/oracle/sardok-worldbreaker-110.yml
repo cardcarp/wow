@@ -1,0 +1,28 @@
+name: Sardok
+
+origin: worldbreaker-110
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Protector Physical Resistance
+
+regulation:
+
+errata: []
+
+temp: Voidwalker Demon

@@ -1,13 +1,13 @@
-oracle: grak-foulblade
-
-lex: '013'
-
-set: sylvanas
+index: '013'
 
 rarity: Common
 
 artist: Dave Rapoza
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: grak-foulblade-crown-of-the-heavens-106
+
+set: Sylvanas

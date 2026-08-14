@@ -1,13 +1,13 @@
-oracle: ixiya-the-attuned
-
-lex: '117'
-
-set: wrathgate
+index: '117'
 
 rarity: Common
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: '"Through me, the elements will achieve balance."'
 
-variation: []
+oracle: ixiya-the-attuned-wrathgate-117
+
+set: Wrathgate

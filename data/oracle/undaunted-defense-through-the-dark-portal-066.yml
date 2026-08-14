@@ -1,0 +1,22 @@
+name: Undaunted Defense
+
+origin: through-the-dark-portal-066
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Paladin
+
+instant: 'Ongoing : Your hero has Protector . Prevent all combat damage that would be dealt to your hero while protecting.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

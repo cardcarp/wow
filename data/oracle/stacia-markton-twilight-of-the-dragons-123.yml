@@ -1,0 +1,27 @@
+name: Stacia Markton
+
+origin: twilight-of-the-dragons-123
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 1
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, target hero or ally you control has Long-Range this turn.
+
+regulation:
+
+errata: []
+
+temp: Human Hunter

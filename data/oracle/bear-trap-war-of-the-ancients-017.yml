@@ -1,0 +1,22 @@
+name: Bear Trap
+
+origin: war-of-the-ancients-017
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+instant: Trap Remove target opposing attacking ally from combat. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

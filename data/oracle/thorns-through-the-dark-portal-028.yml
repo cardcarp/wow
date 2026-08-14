@@ -1,0 +1,22 @@
+name: Thorns
+
+origin: through-the-dark-portal-028
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Druid
+
+instant: 'Attach to target hero or ally. Ongoing : When attached character is dealt combat damage, it deals 1 nature damage to the source of that combat damage.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Balance

@@ -1,0 +1,27 @@
+name: Ultramarine Qiraji Battle Tank
+
+origin: aftermath-crafting-007
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 0
+
+health: 5
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: "On your turn: , Remove an ally in your graveyard from the game → Put a 2 / 2 Qiraji Monster ally token into play. (Mounts can't attack or be attacked.)"
+
+regulation:
+
+errata: []
+
+temp: Qiraji

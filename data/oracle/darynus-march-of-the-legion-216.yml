@@ -1,0 +1,25 @@
+name: Darynus
+
+origin: march-of-the-legion-216
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 4
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Protector Inspire: Ally'
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

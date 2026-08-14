@@ -1,13 +1,13 @@
-oracle: paint-it-red
-
-lex: '045'
-
-set: scarlet-monastery
+index: '045'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: paint-it-red-scarlet-monastery-045
+
+set: Scarlet Monastery

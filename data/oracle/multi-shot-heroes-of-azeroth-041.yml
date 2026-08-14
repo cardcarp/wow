@@ -1,0 +1,22 @@
+name: Multi-Shot
+
+origin: heroes-of-azeroth-041
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Hunter
+
+instant: Your hero deals 2 ranged damage to each of up to three target heroes and/or allies.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

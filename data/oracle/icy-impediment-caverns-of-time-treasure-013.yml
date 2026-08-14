@@ -1,0 +1,22 @@
+name: Icy Impediment
+
+origin: caverns-of-time-treasure-013
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: "Ongoing : Each opposing equipment can't exhaust unless its controller pays 1 ."
+
+regulation:
+
+errata: []
+
+temp: Frost

@@ -1,0 +1,27 @@
+name: Bimble Blackout
+
+origin: the-hunt-for-illidan-119
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 4
+
+health: 2
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When Bimble is removed from the game from anywhere, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

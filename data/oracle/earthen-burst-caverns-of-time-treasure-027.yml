@@ -1,0 +1,22 @@
+name: Earthen Burst
+
+origin: caverns-of-time-treasure-027
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: Your hero deals 2 nature damage to target ally. Target ally has +2 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental

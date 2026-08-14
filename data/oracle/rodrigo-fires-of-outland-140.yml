@@ -1,0 +1,25 @@
+name: Rodrigo
+
+origin: fires-of-outland-140
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

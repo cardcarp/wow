@@ -1,13 +1,13 @@
-oracle: robes-of-arugal
-
-lex: '041'
-
-set: dungeon-treasure
+index: '041'
 
 rarity: Uncommon
 
 artist: Zoltan Boros
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: robes-of-arugal-dungeon-treasure-041
+
+set: Dungeon Treasure

@@ -2,7 +2,7 @@ name: Black Temple Raid
 
 type: raid
 
-lex:
+index:
 
 subtotal: 70
 
@@ -10,4 +10,4 @@ total: 70
 
 date_release: 2008-09
 
-collection: black-temple
+collection: Black Temple

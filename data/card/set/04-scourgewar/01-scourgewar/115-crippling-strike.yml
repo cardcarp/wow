@@ -1,13 +1,13 @@
-oracle: crippling-strike
-
-lex: '115'
-
-set: scourgewar
+index: '115'
 
 rarity: Uncommon
 
 artist: Massive Black
 
+variation: []
+
 flavor: '"You are nothing short of useless." - Boum Headshot'
 
-variation: []
+oracle: crippling-strike-scourgewar-115
+
+set: Scourgewar

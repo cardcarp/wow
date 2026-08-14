@@ -1,13 +1,13 @@
-oracle: power-word-vigor
-
-lex: '074'
-
-set: scourgewar
+index: '074'
 
 rarity: Common
 
 artist: Roman Kenney
 
+variation: []
+
 flavor: '"Maybe this will help keep you from dying so easily." - Xerandaal, Shade Servitor'
 
-variation: []
+oracle: power-word-vigor-scourgewar-074
+
+set: Scourgewar

@@ -1,0 +1,22 @@
+name: Telescopic Sharprifle
+
+origin: fires-of-outland-224
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: 1 → When you strike with Telescopic Sharprifle this turn, your hero has Long-Range this turn.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Gun

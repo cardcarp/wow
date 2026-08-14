@@ -1,0 +1,17 @@
+name: Scarlet Monastery
+
+origin: dungeon-treasure-059
+
+layout: standard
+
+category: Location
+
+rule:
+  - type: ability
+    text: 1 → Target hero or ally that was healed this turn has Assault 2 this turn.
+
+regulation:
+
+errata: []
+
+temp: ''

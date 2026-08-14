@@ -1,0 +1,22 @@
+name: Snake Trap
+
+origin: servants-of-the-betrayer-055
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Hunter
+
+instant: Trap Put X Snake ally tokens with 1 ATK / 1 health into play, where X is target opposing attacker's cost.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

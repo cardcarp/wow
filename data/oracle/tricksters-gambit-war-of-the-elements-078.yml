@@ -1,0 +1,22 @@
+name: Tricksters Gambit
+
+origin: war-of-the-elements-078
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+instant: The next time damage would be dealt to your hero this turn, it's dealt to another target hero or ally instead.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Subtlety

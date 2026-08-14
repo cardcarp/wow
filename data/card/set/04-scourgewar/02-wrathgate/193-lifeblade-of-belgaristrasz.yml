@@ -1,13 +1,13 @@
-oracle: lifeblade-of-belgaristrasz
-
-lex: '193'
-
-set: wrathgate
+index: '193'
 
 rarity: Rare
 
 artist: Luca Zontini
 
+variation: []
+
 flavor: '"The red dragonflight will do whatever it can to help end this conflict with Malygos." - Belgaristrasz'
 
-variation: []
+oracle: lifeblade-of-belgaristrasz-wrathgate-193
+
+set: Wrathgate

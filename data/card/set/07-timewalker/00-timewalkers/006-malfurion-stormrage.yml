@@ -1,13 +1,14 @@
-oracle: malfurion-stormrage
-
-lex: '006'
-
-set: timewalkers
+index: '006'
 
 rarity: Rare
 
 artist: Unknown
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: malfurion-stormrage-war-of-the-elements-177
+
+set: Timewalkers

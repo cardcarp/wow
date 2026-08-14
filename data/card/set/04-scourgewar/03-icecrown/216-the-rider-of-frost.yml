@@ -1,13 +1,13 @@
-oracle: the-rider-of-frost
-
-lex: '216'
-
-set: icecrown
+index: '216'
 
 rarity: Common
 
 artist: Paolo Parente
 
+variation: []
+
 flavor: "\"I have no fear that you'll be able to best Saph, but do not grow overconfident.\" - Vereth the Cunning"
 
-variation: []
+oracle: the-rider-of-frost-icecrown-216
+
+set: Icecrown

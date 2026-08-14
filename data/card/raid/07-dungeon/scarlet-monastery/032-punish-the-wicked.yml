@@ -1,13 +1,13 @@
-oracle: punish-the-wicked
-
-lex: '032'
-
-set: scarlet-monastery
+index: '032'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: punish-the-wicked-scarlet-monastery-032
+
+set: Scarlet Monastery

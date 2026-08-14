@@ -1,0 +1,28 @@
+name: Apocanon
+
+origin: servants-of-the-betrayer-107
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 4
+
+health: 4
+
+combat: Fire
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Traitor Hero Required Ally cards in all zones are also Demon cards.
+
+regulation:
+
+errata: []
+
+temp: Abyssal Demon Traitor

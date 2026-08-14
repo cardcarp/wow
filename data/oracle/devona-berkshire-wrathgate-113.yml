@@ -1,0 +1,27 @@
+name: Devona Berkshire
+
+origin: wrathgate-113
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 4
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: While you control a Death Knight or Warrior, this ally has Protector . While you control a Hunter or Shaman, this ally has Assault 2 . While you control a Priest or Druid, this ally has Mend 2 .
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

@@ -1,0 +1,22 @@
+name: Erondra Frostmoon
+
+origin: scourgewar-003
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'If you control another Death Knight: Flip Erondra → Target ally has -2 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Night Elf Death Knight

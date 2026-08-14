@@ -1,13 +1,13 @@
-oracle: excessive-force
-
-lex: '088'
-
-set: worldbreaker
+index: '088'
 
 rarity: Common
 
 artist: Clint Langley
 
+variation: []
+
 flavor: "\"There's dead, and then there's"
 
-variation: []
+oracle: excessive-force-worldbreaker-088
+
+set: Worldbreaker

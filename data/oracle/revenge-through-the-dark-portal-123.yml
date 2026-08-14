@@ -1,0 +1,22 @@
+name: Revenge
+
+origin: through-the-dark-portal-123
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: You can't play Revenge during combat. Destroy target ally that attacked your hero this turn but dealt no combat damage to your hero this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

@@ -1,0 +1,24 @@
+name: Widows Fury
+
+origin: naxxramas-treasure-040
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Warrior
+  - Death Knight
+  - Rogue
+
+rule:
+  - type: ability
+    text: This weapon has +3 ATK if an ally you controlled was destroyed this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

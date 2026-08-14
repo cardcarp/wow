@@ -1,0 +1,27 @@
+name: Broll Bearmantle
+
+origin: blood-of-gladiators-147
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 0
+
+health: 0
+
+combat: Nature
+
+type: Arena
+
+rule:
+  - type: ability
+    text: Broll has +1 ATK / +1 health for each Arena card in play you control.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

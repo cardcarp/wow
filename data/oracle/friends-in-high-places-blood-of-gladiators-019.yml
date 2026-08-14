@@ -1,0 +1,22 @@
+name: Friends in High Places
+
+origin: blood-of-gladiators-019
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+instant: Put two 1 / 1 Treant ally tokens into play.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Balance

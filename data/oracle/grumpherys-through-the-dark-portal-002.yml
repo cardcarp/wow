@@ -1,0 +1,22 @@
+name: Grumpherys
+
+origin: through-the-dark-portal-002
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Grumpherys → Your Pets are Elusive and Untargetable this turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

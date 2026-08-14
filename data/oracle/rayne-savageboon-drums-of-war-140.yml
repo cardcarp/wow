@@ -1,0 +1,27 @@
+name: Rayne Savageboon
+
+origin: drums-of-war-140
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Nature Resistance
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

@@ -1,0 +1,19 @@
+name: Lord of the Pit
+
+origin: caverns-of-time-raid-034
+
+layout: standard
+
+category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: The first time the Caverns hero attacks this turn, ready him. If Mannoroth is the Caverns hero, when he deals combat damage to an opposing hero this turn, put a 5 / 5 Doomguard Demon Monster ally token into play.
+
+regulation:
+
+errata: []
+
+temp: Mannoroth

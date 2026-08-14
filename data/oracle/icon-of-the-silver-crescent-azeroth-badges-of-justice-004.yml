@@ -1,0 +1,25 @@
+name: Icon of the Silver Crescent
+
+origin: azeroth-badges-of-justice-004
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: If a non-token ally in your party would be destroyed, attach it to a hero instead. That ally loses all powers and becomes an ability with "At the start of your turn, your hero deals 1 fire damage to attached hero."
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

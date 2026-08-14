@@ -1,13 +1,13 @@
-oracle: hazlow-mudshuggle
-
-lex: '103'
-
-set: icecrown
+index: '103'
 
 rarity: Common
 
 artist: Matt Cavotta
 
+variation: []
+
 flavor: "\"Pickpocket? Nothing so trifling. I'll snatch your sword from your very hands!\""
 
-variation: []
+oracle: hazlow-mudshuggle-icecrown-103
+
+set: Icecrown

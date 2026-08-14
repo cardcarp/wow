@@ -1,0 +1,22 @@
+name: Trophy Kill
+
+origin: through-the-dark-portal-040
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+instant: Destroy target ally with cost 4 or more.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

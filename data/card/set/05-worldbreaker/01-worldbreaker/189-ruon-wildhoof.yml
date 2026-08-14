@@ -1,13 +1,13 @@
-oracle: ruon-wildhoof
-
-lex: '189'
-
-set: worldbreaker
+index: '189'
 
 rarity: Common
 
 artist: Carl Critchlow
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: ruon-wildhoof-worldbreaker-189
+
+set: Worldbreaker

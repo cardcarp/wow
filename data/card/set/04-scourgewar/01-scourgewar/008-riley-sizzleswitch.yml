@@ -1,14 +1,14 @@
-oracle: riley-sizzleswitch
-
-lex: '008'
-
-set: scourgewar
+index: '008'
 
 rarity: Uncommon
 
 artist: Dan Scott
 
-flavor: "\"All of the undeath and ice is making me depressed. Can't we just burn it all down?\""
-
 variation:
   - transform
+
+flavor: "\"All of the undeath and ice is making me depressed. Can't we just burn it all down?\""
+
+oracle: riley-sizzleswitch-scourgewar-008
+
+set: Scourgewar

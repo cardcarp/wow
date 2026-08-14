@@ -1,0 +1,24 @@
+name: Boggspine Knuckles
+
+origin: blood-of-gladiators-173
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Warrior
+  - Shaman
+  - Rogue
+
+instant: Your hero has Dual Wield . Boggspine Knuckles has +3 ATK while your hero has more damage than an opposing hero.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Fist

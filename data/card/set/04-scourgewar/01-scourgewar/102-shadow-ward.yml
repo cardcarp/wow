@@ -1,13 +1,13 @@
-oracle: shadow-ward
-
-lex: '102'
-
-set: scourgewar
+index: '102'
 
 rarity: Common
 
 artist: Nick Percival
 
+variation: []
+
 flavor: "\"How's it taste?\" - Marlowe Christophers"
 
-variation: []
+oracle: shadow-ward-scourgewar-102
+
+set: Scourgewar

@@ -1,0 +1,22 @@
+name: Boon of Light
+
+origin: scourgewar-060
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: Your hero heals 12 damage from target hero or ally. Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Holy

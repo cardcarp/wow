@@ -1,0 +1,24 @@
+name: Azure-Shield of Coldarra
+
+origin: servants-of-the-betrayer-219
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+rule:
+  - type: ability
+    text: If your hero would be dealt damage, prevent all but 3 of it.
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

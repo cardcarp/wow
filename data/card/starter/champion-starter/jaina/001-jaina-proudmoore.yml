@@ -1,14 +1,14 @@
-oracle: jaina-proudmoore
-
-lex: '001'
-
-set: jaina
+index: '001'
 
 rarity: Uncommon
 
 artist: Jesper Ejsing
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: jaina-proudmoore-jaina-001
+
+set: Jaina

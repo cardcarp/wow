@@ -1,0 +1,23 @@
+name: Lose Control
+
+origin: drums-of-war-100
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+  - Rogue
+
+rule:
+  - type: ability
+    text: Target player discards a random card.
+
+regulation:
+
+errata: []
+
+temp: Shadow Subtlety

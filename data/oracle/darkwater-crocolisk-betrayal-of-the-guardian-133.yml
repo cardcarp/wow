@@ -1,0 +1,25 @@
+name: Darkwater Crocolisk
+
+origin: betrayal-of-the-guardian-133
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Crocolisk Beast

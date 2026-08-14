@@ -1,0 +1,28 @@
+name: Kalecgos
+
+origin: war-of-the-elements-021
+
+layout: transform
+
+category: Hero
+
+cost: '21'
+
+damage: 1
+
+health: 38
+
+combat: Ranged
+
+type: Master
+
+rule:
+  - type: ability
+    position: front
+    text: You pay 3 less to play Kalecgos for each ability you played this turn. When you play a non-Ongoing ability, copy it. (You may choose new targets for the copy.)
+
+regulation:
+
+errata: []
+
+temp: Blue Dragonkin Aspect

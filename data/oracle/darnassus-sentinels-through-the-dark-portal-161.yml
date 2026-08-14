@@ -1,0 +1,27 @@
+name: Darnassus Sentinels
+
+origin: through-the-dark-portal-161
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When Darnassus Sentinels enters play, you may pay 1 . If you do, put a card named Darnassus Sentinels from your graveyard into your hand.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

@@ -1,0 +1,23 @@
+name: Immobilize
+
+origin: drums-of-war-099
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: "Attach to target ability, ally, equipment, or resource and exhaust it. Ongoing : Attached card can't ready during its controller's ready step."
+
+regulation:
+
+errata: []
+
+temp: Balance Subtlety

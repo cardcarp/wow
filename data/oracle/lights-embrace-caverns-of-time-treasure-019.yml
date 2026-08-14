@@ -1,0 +1,22 @@
+name: Lights Embrace
+
+origin: caverns-of-time-treasure-019
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: Put target ally from your graveyard into your hand. Your hero heals damage from itself equal to that ally's cost.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

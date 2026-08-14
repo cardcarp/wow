@@ -1,0 +1,22 @@
+name: Kill Command
+
+origin: fires-of-outland-030
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: Target Pet you control deals melee damage equal to its ATK to target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery

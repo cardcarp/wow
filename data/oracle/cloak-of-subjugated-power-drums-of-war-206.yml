@@ -1,0 +1,27 @@
+name: Cloak of Subjugated Power
+
+origin: drums-of-war-206
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'On your turn: 1 , , Destroy an ally in your party with cost X → Gain control of target ally with cost less than X.'
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

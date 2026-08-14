@@ -1,13 +1,13 @@
-oracle: hit-and-run
-
-lex: '096'
-
-set: wrathgate
+index: '096'
 
 rarity: Uncommon
 
 artist: Yang Jialun (Massive Black)
 
+variation: []
+
 flavor: "\"The lumbering brutes of the Scourge don't stand a chance against our speed and quickness.\" - Zorak'tul"
 
-variation: []
+oracle: hit-and-run-wrathgate-096
+
+set: Wrathgate

@@ -1,0 +1,27 @@
+name: Morik
+
+origin: through-the-dark-portal-224
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity When Morik attacks, each player draws a card.
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

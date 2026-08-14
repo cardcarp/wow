@@ -1,13 +1,13 @@
-oracle: pierce
-
-lex: '086'
-
-set: icecrown
+index: '086'
 
 rarity: Common
 
 artist: Alan Pollack
 
+variation: []
+
 flavor: '"Consider it a memento!" - Blaine Roberts'
 
-variation: []
+oracle: pierce-icecrown-086
+
+set: Icecrown

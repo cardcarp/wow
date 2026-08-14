@@ -1,0 +1,22 @@
+name: Levander of the Sanguine Shot
+
+origin: scourgewar-014
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'If you control another Hunter: Flip Levander → Ready target Ranged weapon.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Hunter

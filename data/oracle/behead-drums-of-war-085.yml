@@ -1,0 +1,22 @@
+name: Behead
+
+origin: drums-of-war-085
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: If target ally is damaged, destroy it. Otherwise, your hero deals 1 melee damage to it.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury

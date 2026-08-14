@@ -1,0 +1,27 @@
+name: Parvink
+
+origin: heroes-of-azeroth-212
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When this ally enters play, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warrior

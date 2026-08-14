@@ -1,0 +1,19 @@
+name: Sen'jin Village
+
+origin: drums-of-war-260
+
+layout: standard
+
+category: Location
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Troll Hero Required At the start of your turn, choose a Troll in your party, and it may heal 1 damage from itself.
+
+regulation:
+
+errata: []
+
+temp: City

@@ -11,7 +11,7 @@ facet:
 
 collection: '2013'
 
-highlight: starter-2013-alliance-rogue-001
+highlight: alliance-rogue-2013-001
 
 description: 2013 Alliance Rogue Preconstructed
 
@@ -23,29 +23,29 @@ total: 61
 
 list:
   hero:
-    starter-2013-alliance-rogue-001: 1  # Taerinar, Fang of Goldrinn
+    alliance-rogue-2013-001: 1  # Taerinar, Fang of Goldrinn
   main:
-    starter-2013-alliance-rogue-002: 3  # Annihilate
-    starter-2013-alliance-rogue-003: 1 # Boundless Agony
-    starter-2013-alliance-rogue-004: 2 # Devious Dismantle
-    starter-2013-alliance-rogue-005: 3 # Sinister Strike
-    starter-2013-alliance-rogue-006: 1 # Fan of Knives
-    starter-2013-alliance-rogue-007: 3 # Gouge
-    starter-2013-alliance-rogue-008: 3 # Infiltrate
-    starter-2013-alliance-rogue-009: 3 # Prey on the Weak
-    starter-2013-alliance-rogue-010: 2 # Andiss Butcherson
-    starter-2013-alliance-rogue-011: 3 # Bizzazz
-    starter-2013-alliance-rogue-012: 1 # Bromor the Shadowblade
-    starter-2013-alliance-rogue-013: 3 # Bubula del Kissel
-    starter-2013-alliance-rogue-014: 2 # Wastewalker Shoulderpads
-    starter-2013-alliance-rogue-015: 2 # Kaelyn Vineminder
-    starter-2013-alliance-rogue-016: 3 # Tommi Spazzratchet
-    starter-2013-alliance-rogue-017: 3 # Wuzlo Grindergear
-    starter-2013-alliance-rogue-018: 2 # Barman Shanker
-    starter-2013-alliance-rogue-019: 2 # Scarlet Kris
-    starter-2013-alliance-rogue-020: 3 # Throat Slasher
-    starter-2013-alliance-rogue-021: 3 # Archival Purposes
-    starter-2013-alliance-rogue-022: 3 # Entrenched
-    starter-2013-alliance-rogue-023: 3 # Escape from Durnholde
-    starter-2013-alliance-rogue-024: 3 # The Essence of Enmity
-    starter-2013-alliance-rogue-025: 3 # The Path to the Dragon Soul
+    alliance-rogue-2013-002: 3  # Annihilate
+    alliance-rogue-2013-003: 1 # Boundless Agony
+    alliance-rogue-2013-004: 2 # Devious Dismantle
+    alliance-rogue-2013-005: 3 # Sinister Strike
+    alliance-rogue-2013-006: 1 # Fan of Knives
+    alliance-rogue-2013-007: 3 # Gouge
+    alliance-rogue-2013-008: 3 # Infiltrate
+    alliance-rogue-2013-009: 3 # Prey on the Weak
+    alliance-rogue-2013-010: 2 # Andiss Butcherson
+    alliance-rogue-2013-011: 3 # Bizzazz
+    alliance-rogue-2013-012: 1 # Bromor the Shadowblade
+    alliance-rogue-2013-013: 3 # Bubula del Kissel
+    alliance-rogue-2013-014: 2 # Wastewalker Shoulderpads
+    alliance-rogue-2013-015: 2 # Kaelyn Vineminder
+    alliance-rogue-2013-016: 3 # Tommi Spazzratchet
+    alliance-rogue-2013-017: 3 # Wuzlo Grindergear
+    alliance-rogue-2013-018: 2 # Barman Shanker
+    alliance-rogue-2013-019: 2 # Scarlet Kris
+    alliance-rogue-2013-020: 3 # Throat Slasher
+    alliance-rogue-2013-021: 3 # Archival Purposes
+    alliance-rogue-2013-022: 3 # Entrenched
+    alliance-rogue-2013-023: 3 # Escape from Durnholde
+    alliance-rogue-2013-024: 3 # The Essence of Enmity
+    alliance-rogue-2013-025: 3 # The Path to the Dragon Soul

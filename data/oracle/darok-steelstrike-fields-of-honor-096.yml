@@ -1,0 +1,27 @@
+name: Darok Steelstrike
+
+origin: fields-of-honor-096
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 4
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Find Treasure
+
+regulation:
+
+errata: []
+
+temp: Dwarf Rogue

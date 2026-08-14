@@ -1,13 +1,13 @@
-oracle: kaale
-
-lex: '143'
-
-set: scourgewar
+index: '143'
 
 rarity: Common
 
 artist: Daren Bader
 
+variation: []
+
 flavor: '"This is a dangerous operation, but the rewards of success are too hard to ignore."'
 
-variation: []
+oracle: kaale-scourgewar-143
+
+set: Scourgewar

@@ -1,0 +1,27 @@
+name: Night Elf Ranger
+
+origin: betrayal-of-the-guardian-084
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Assault 2
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

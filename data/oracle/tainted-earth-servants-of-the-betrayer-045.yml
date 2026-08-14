@@ -1,0 +1,22 @@
+name: Tainted Earth
+
+origin: servants-of-the-betrayer-045
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: 'Traitor Hero Required Ongoing : When an opponent completes a quest, your hero deals 3 nature damage to target hero in his party.'
+
+regulation:
+
+errata: []
+
+temp: Traitor

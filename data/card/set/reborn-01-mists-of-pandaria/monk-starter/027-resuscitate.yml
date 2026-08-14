@@ -1,13 +1,13 @@
-oracle: resuscitate
-
-lex: '027'
-
-set: monk-starter
+index: '027'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: resuscitate-monk-starter-027
+
+set: Monk Starter

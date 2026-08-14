@@ -1,0 +1,22 @@
+name: Mana Spring Totem
+
+origin: march-of-the-legion-096
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+instant: 'Ongoing : At the start of your turn, draw a card. (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration 1

@@ -1,13 +1,13 @@
-oracle: bloodthirsty-ghoul
-
-lex: '010'
-
-set: shadowfang-keep
+index: '010'
 
 rarity: Common
 
 artist: Seamus Gallagher
 
+variation: []
+
 flavor: '"Murder never gets old." - Lord Godfrey'
 
-variation: []
+oracle: bloodthirsty-ghoul-shadowfang-keep-010
+
+set: Shadowfang Keep

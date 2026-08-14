@@ -1,0 +1,23 @@
+name: Plasma Rats Hyper-Scythe
+
+origin: servants-of-the-betrayer-237
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: Exhaust one of your armor or weapons → Ready one of your resources.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Polearm

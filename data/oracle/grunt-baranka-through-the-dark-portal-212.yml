@@ -1,0 +1,27 @@
+name: Grunt Baranka
+
+origin: through-the-dark-portal-212
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When Grunt Baranka defends against an ally, destroy her. If you do, destroy all attacking allies.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

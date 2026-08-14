@@ -1,0 +1,22 @@
+name: Ritual of the Ages
+
+origin: betrayal-of-the-guardian-051
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Rift Search your deck for an ally, reveal it, and put it into your hand.
+
+regulation:
+
+errata: []
+
+temp: Demonology

@@ -1,13 +1,13 @@
-oracle: indauma-bloodfire
-
-lex: '133'
-
-set: icecrown
+index: '133'
 
 rarity: Common
 
 artist: Luca Zontini
 
+variation: []
+
 flavor: '"Precision is a luxury we can no longer afford."'
 
-variation: []
+oracle: indauma-bloodfire-icecrown-133
+
+set: Icecrown

@@ -1,13 +1,13 @@
-oracle: chaotic-rush
-
-lex: '113'
-
-set: worldbreaker
+index: '113'
 
 rarity: Uncommon
 
 artist: Luke Mancini
 
+variation: []
+
 flavor: '"You are clearly unprepared for what lies ahead." - Jai Dawnsteel'
 
-variation: []
+oracle: chaotic-rush-worldbreaker-113
+
+set: Worldbreaker

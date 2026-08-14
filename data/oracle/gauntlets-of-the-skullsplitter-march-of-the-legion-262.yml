@@ -1,0 +1,23 @@
+name: Gauntlets of the Skullsplitter
+
+origin: march-of-the-legion-262
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: When an ally in your party attacks, you may exhaust target armor.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

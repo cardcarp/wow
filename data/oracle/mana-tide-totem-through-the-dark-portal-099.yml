@@ -1,0 +1,22 @@
+name: Mana Tide Totem
+
+origin: through-the-dark-portal-099
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Restoration Hero Required Totem Ongoing : At the start of your turn, draw a card for each hero and ally in your party.'
+
+regulation:
+
+errata: []
+
+temp: Restoration Talent 1

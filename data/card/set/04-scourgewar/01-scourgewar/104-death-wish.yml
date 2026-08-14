@@ -1,13 +1,13 @@
-oracle: death-wish
-
-lex: '104'
-
-set: scourgewar
+index: '104'
 
 rarity: Rare
 
 artist: James Zhang
 
+variation: []
+
 flavor: "\"I'd rather fight and die than spend the rest of my days stowing in my cowardice.\" - Boarguts the Impaler"
 
-variation: []
+oracle: death-wish-scourgewar-104
+
+set: Scourgewar

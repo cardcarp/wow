@@ -1,0 +1,22 @@
+name: Fit of Rage
+
+origin: icecrown-083
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: "Ongoing : 2 , , Destroy an equipment you control → Your hero deals melee damage to target hero or ally equal to that equipment's cost."
+
+regulation:
+
+errata: []
+
+temp: Fury

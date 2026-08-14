@@ -1,0 +1,27 @@
+name: High Commander Halford Wyrmbane
+
+origin: wrathgate-115
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector This ally has Assault 1 and Mend 1 for each other ally you control.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

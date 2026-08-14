@@ -1,0 +1,25 @@
+name: Grayson Steelworth
+
+origin: war-of-the-elements-004
+
+layout: transform
+
+category: Hero
+
+health: 30
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 3 → Flip Grayson
+  - type: ability
+    position: reverse
+    text: Dual Wield
+
+regulation:
+
+errata: []
+
+temp: Worgen Warrior

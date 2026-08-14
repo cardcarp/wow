@@ -1,0 +1,20 @@
+name: Morn Salts-the-Land
+
+origin: servants-of-the-betrayer-032
+
+layout: transform
+
+category: Hero
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Morn → You can play target ability from an opponent's graveyard this turn. Grimtotem
+
+regulation:
+
+errata: []
+
+temp: Tauren Hunter

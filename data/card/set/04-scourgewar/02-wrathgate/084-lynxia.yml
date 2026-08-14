@@ -1,13 +1,13 @@
-oracle: lynxia
-
-lex: '084'
-
-set: wrathgate
+index: '084'
 
 rarity: Uncommon
 
 artist: Carl Critchlow
 
+variation: []
+
 flavor: '"As the master wishes."'
 
-variation: []
+oracle: lynxia-wrathgate-084
+
+set: Wrathgate

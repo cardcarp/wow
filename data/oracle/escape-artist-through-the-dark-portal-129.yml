@@ -1,0 +1,21 @@
+name: Escape Artist
+
+origin: through-the-dark-portal-129
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+faction: Alliance
+
+instant: "Gnome Hero Required Choose one: Interrupt target ability card that's targeting your hero; or if your hero is defending, remove all attackers from combat."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

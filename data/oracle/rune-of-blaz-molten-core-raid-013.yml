@@ -1,0 +1,19 @@
+name: Rune of Blaz
+
+origin: molten-core-raid-013
+
+layout: standard
+
+category: Misc
+
+type: Raid
+
+rule:
+  - type: ability
+    text: At the end of your turn, destroy all opposing abilities.
+
+regulation:
+
+errata: []
+
+temp: Garr Boss 4

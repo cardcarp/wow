@@ -1,0 +1,33 @@
+name: Thunder Bluff Tabard
+
+origin: war-of-the-ancients-220
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+faction: Horde
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 3 , → Your hero heals 3 damage from itself. You pay 1 less to use this power for each Tauren ally you control.
+
+regulation:
+
+errata: []
+
+temp: Item Tabard

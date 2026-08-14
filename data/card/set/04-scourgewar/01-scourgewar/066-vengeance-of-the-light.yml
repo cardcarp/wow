@@ -1,13 +1,13 @@
-oracle: vengeance-of-the-light
-
-lex: '066'
-
-set: scourgewar
+index: '066'
 
 rarity: Uncommon
 
 artist: Eric Deschamps
 
+variation: []
+
 flavor: '"I will undo the mistake that was made when the Lich King brought you back." - Savin Lightguard'
 
-variation: []
+oracle: vengeance-of-the-light-scourgewar-066
+
+set: Scourgewar

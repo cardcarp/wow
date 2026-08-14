@@ -1,0 +1,27 @@
+name: Mannoroth the Flayer
+
+origin: caverns-of-time-treasure-054
+
+layout: standard
+
+category: Ally
+
+cost: '8'
+
+damage: 6
+
+health: 9
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Protector Other allies you control have Assault 2 . Non- allies opponents control have -2 ATK.
+
+regulation:
+
+errata: []
+
+temp: Pit Lord Demon Warrior

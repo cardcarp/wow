@@ -1,0 +1,27 @@
+name: Marilyn of the Sacred Vows
+
+origin: fires-of-outland-129
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 3
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: → Prevent all damage that would be dealt to target ally this turn.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

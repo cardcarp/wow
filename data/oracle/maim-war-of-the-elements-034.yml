@@ -1,0 +1,22 @@
+name: Maim
+
+origin: war-of-the-elements-034
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+instant: Exhaust target hero or ally. If you control a Form, your hero deals 3 melee damage to that character.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

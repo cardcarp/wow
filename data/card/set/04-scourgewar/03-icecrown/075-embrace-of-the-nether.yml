@@ -1,13 +1,13 @@
-oracle: embrace-of-the-nether
-
-lex: '075'
-
-set: icecrown
+index: '075'
 
 rarity: Common
 
 artist: E.M. Gist
 
+variation: []
+
 flavor: '"A gift to the Nether and a punishment for you. Fair deal." - Rinni Gloomtrick'
 
-variation: []
+oracle: embrace-of-the-nether-icecrown-075
+
+set: Icecrown

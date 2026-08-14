@@ -1,0 +1,22 @@
+name: Intervening Shot
+
+origin: betrayal-of-the-guardian-016
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: Put target defending ally you control into its owner's hand. Your hero deals 5 ranged damage to target attacker.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

@@ -1,0 +1,22 @@
+name: Bastion of Defense
+
+origin: betrayal-of-the-guardian-054
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Protection Talent Attach to target ally. Ongoing : Attached ally has +4 / +4, Protector , and "At the end of your turn, you may ready this ally."'
+
+regulation:
+
+errata: []
+
+temp: Protection Attachment

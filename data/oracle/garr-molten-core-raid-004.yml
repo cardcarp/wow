@@ -1,0 +1,23 @@
+name: Garr
+
+origin: molten-core-raid-004
+
+layout: transform
+
+category: Hero
+
+health: 14
+
+rule:
+  - type: ability
+    position: front
+    text: Garr has +3 ATK while attacking and can attack only heroes. At the end of each turn, if you have four or fewer Firesworn, flip Garr.
+  - type: ability
+    position: reverse
+    text: Garr has +6 ATK while attacking and can attack only heroes. 1 → Destroy one of your Firesworn. If you do, it deals 2 fire damage to each hero and ally in target opponent's party.
+
+regulation:
+
+errata: []
+
+temp: Elemental

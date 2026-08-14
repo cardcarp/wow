@@ -1,0 +1,19 @@
+name: Searing Flames
+
+origin: onyxias-lair-event-025
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: You may destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: ''

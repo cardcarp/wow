@@ -1,0 +1,22 @@
+name: Blaze
+
+origin: servants-of-the-betrayer-058
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Your hero deals 1 fire damage to target ally for each card in your hand.
+
+regulation:
+
+errata: []
+
+temp: Fire

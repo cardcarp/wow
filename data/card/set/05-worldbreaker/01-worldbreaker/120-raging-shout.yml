@@ -1,13 +1,13 @@
-oracle: raging-shout
-
-lex: '120'
-
-set: worldbreaker
+index: '120'
 
 rarity: Uncommon
 
 artist: Eric Deschamps
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: raging-shout-worldbreaker-120
+
+set: Worldbreaker

@@ -1,0 +1,27 @@
+name: Vazu'jin
+
+origin: crown-of-the-heavens-124
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Elusive
+
+regulation:
+
+errata: []
+
+temp: Troll Rogue

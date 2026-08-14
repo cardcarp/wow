@@ -1,0 +1,30 @@
+name: Conqueror Yun'zon
+
+origin: scourgewar-170
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Fire
+
+faction: Horde
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: Opposing Warriors and cards in play lose and can't have powers.
+
+regulation:
+
+errata: []
+
+temp: Troll Mage

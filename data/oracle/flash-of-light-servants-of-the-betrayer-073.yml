@@ -1,0 +1,22 @@
+name: Flash of Light
+
+origin: servants-of-the-betrayer-073
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: Your hero heals all damage from target ally. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

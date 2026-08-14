@@ -1,0 +1,25 @@
+name: Baby Murloc
+
+origin: crown-of-the-heavens-149
+
+layout: standard
+
+category: Ally
+
+cost: '0'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Murloc Baby

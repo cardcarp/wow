@@ -1,13 +1,14 @@
-oracle: nahari-farstride
-
-lex: '009'
-
-set: monk-starter
+index: '009'
 
 rarity: Common
 
 artist: ''
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: nahari-farstride-monk-starter-009
+
+set: Monk Starter

@@ -1,13 +1,13 @@
-oracle: scarlet-vigor
-
-lex: '037'
-
-set: scarlet-monastery
+index: '037'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: scarlet-vigor-scarlet-monastery-037
+
+set: Scarlet Monastery

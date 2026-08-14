@@ -1,0 +1,22 @@
+name: Berserker Stance
+
+origin: heroes-of-azeroth-136
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Ongoing : If your hero would deal damage, it deals that amount of damage plus 1 instead. If your hero would be dealt damage, it is dealt that amount of damage plus 1 instead.'
+
+regulation:
+
+errata: []
+
+temp: Fury

@@ -1,0 +1,27 @@
+name: Rukdara Dreadhand
+
+origin: scourgewar-188
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 1 , Discard a card → This turn, opposing allies have "This ally has -1 ATK for each damage on it."
+
+regulation:
+
+errata: []
+
+temp: Orc Death Knight

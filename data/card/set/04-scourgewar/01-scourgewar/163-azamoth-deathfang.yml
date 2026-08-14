@@ -1,13 +1,13 @@
-oracle: azamoth-deathfang
-
-lex: '163'
-
-set: scourgewar
+index: '163'
 
 rarity: Common
 
 artist: Kerem Beyit
 
+variation: []
+
 flavor: '"You are worthless! All I need to do is point, and your life will be forfeit."'
 
-variation: []
+oracle: azamoth-deathfang-scourgewar-163
+
+set: Scourgewar

@@ -1,14 +1,14 @@
-oracle: suvok-frozeneye
-
-lex: '017'
-
-set: worldbreaker
+index: '017'
 
 rarity: Uncommon
 
 artist: Paul Warzecha
 
-flavor: '"Cower before the might of the Horde and the new Warchief, Garrosh Hellscream!"'
-
 variation:
   - transform
+
+flavor: '"Cower before the might of the Horde and the new Warchief, Garrosh Hellscream!"'
+
+oracle: suvok-frozeneye-worldbreaker-017
+
+set: Worldbreaker

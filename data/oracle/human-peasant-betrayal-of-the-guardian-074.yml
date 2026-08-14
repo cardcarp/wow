@@ -1,0 +1,27 @@
+name: Human Peasant
+
+origin: betrayal-of-the-guardian-074
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, you may turn a face up resource you control face down. If you do, this ally deals 1 melee damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Human Peasant

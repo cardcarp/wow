@@ -1,0 +1,27 @@
+name: Snurky
+
+origin: throne-of-the-tides-191
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: This and other Murloc allies you control have Stealth .
+
+regulation:
+
+errata: []
+
+temp: Murloc Rogue

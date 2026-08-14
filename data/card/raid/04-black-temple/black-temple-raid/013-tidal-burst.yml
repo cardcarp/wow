@@ -1,13 +1,13 @@
-oracle: tidal-burst
-
-lex: '013'
-
-set: black-temple-raid
+index: '013'
 
 rarity: Uncommon
 
 artist: Dave Kendall
 
+variation: []
+
 flavor: '"Feel the wrath of the deep!"'
 
-variation: []
+oracle: tidal-burst-black-temple-raid-013
+
+set: Black Temple Raid

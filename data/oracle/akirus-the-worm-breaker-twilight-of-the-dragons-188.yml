@@ -1,0 +1,24 @@
+name: Akirus the Worm-Breaker
+
+origin: twilight-of-the-dragons-188
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: When a Dragonkin ally is destroyed, you may put X +1 ATK counters on this weapon, where X was the ATK of that Dragonkin.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Mace

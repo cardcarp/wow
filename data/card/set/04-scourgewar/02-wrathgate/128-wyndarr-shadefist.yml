@@ -1,13 +1,13 @@
-oracle: wyndarr-shadefist
-
-lex: '128'
-
-set: wrathgate
+index: '128'
 
 rarity: Common
 
 artist: Jim Pavelec
 
+variation: []
+
 flavor: '"Stand back and watch me work."'
 
-variation: []
+oracle: wyndarr-shadefist-wrathgate-128
+
+set: Wrathgate

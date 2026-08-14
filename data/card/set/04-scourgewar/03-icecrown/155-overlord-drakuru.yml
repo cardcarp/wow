@@ -1,13 +1,13 @@
-oracle: overlord-drakuru
-
-lex: '155'
-
-set: icecrown
+index: '155'
 
 rarity: Rare
 
 artist: Paul Warzecha
 
+variation: []
+
 flavor: "\"Behold, mon! We be creatin' da greatest Scourge army ever seen!\""
 
-variation: []
+oracle: overlord-drakuru-icecrown-155
+
+set: Icecrown

@@ -1,0 +1,22 @@
+name: Dark Deliverance
+
+origin: betrayal-of-the-guardian-032
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Your hero deals 3 shadow damage to target ally. If an ally is dealt fatal damage this way, your hero heals 3 damage from itself.
+
+regulation:
+
+errata: []
+
+temp: Shadow

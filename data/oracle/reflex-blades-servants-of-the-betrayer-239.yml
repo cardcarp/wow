@@ -1,0 +1,24 @@
+name: Reflex Blades
+
+origin: servants-of-the-betrayer-239
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Druid
+  - Shaman
+  - Rogue
+
+rule:
+  - type: ability
+    text: When you play an armor or weapon, ready Reflex Blades and your hero.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Fist

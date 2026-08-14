@@ -1,0 +1,22 @@
+name: Volley
+
+origin: blood-of-gladiators-032
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'Ongoing : At the end of your turn, your hero deals 1 arcane damage to each of up to three target heroes and/or allies. When your hero is dealt damage, destroy Volley.'
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

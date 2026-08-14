@@ -1,0 +1,19 @@
+name: Dragon Hide
+
+origin: onyxias-lair-raid-013
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+rule:
+  - type: ability
+    text: 'Ongoing : → Prevent the next 2 damage that would be dealt to Onyxia this turn.'
+
+regulation:
+
+errata: []
+
+temp: ''

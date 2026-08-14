@@ -1,14 +1,14 @@
-oracle: elderlimb
-
-lex: '001'
-
-set: elderlimb
+index: '001'
 
 rarity: Uncommon
 
 artist: Steve Prescott
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: elderlimb-elderlimb-001
+
+set: Elderlimb

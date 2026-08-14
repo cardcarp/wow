@@ -1,0 +1,24 @@
+name: Melodious Slippers
+
+origin: aftermath-badges-of-justice-001
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: At the end of each turn, if you played two or more abilities this turn, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

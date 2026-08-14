@@ -1,0 +1,17 @@
+name: Battle for the Scarlet Monastery
+
+origin: dungeon-treasure-055
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 6 to complete this quest. Reward : Draw a card for each other card you control with Scarlet in its name.'
+
+regulation:
+
+errata: []
+
+temp: ''

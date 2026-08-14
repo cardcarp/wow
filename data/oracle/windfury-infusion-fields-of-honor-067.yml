@@ -1,0 +1,22 @@
+name: Windfury Infusion
+
+origin: fields-of-honor-067
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Attach to target ally or weapon. Ongoing : Attached card has +3 ATK. When attached card becomes exhausted for the first time each turn, you may ready it.'
+
+regulation:
+
+errata: []
+
+temp: Enhancement

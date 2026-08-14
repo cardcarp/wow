@@ -1,0 +1,22 @@
+name: Grace of the Lightbringer
+
+origin: assault-on-icecrown-citadel-treasure-005
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Ongoing : If a friendly hero would deal holy ( ) or melee ( ) damage, it deals that much +1 instead.'
+
+regulation:
+
+errata: []
+
+temp: Holy

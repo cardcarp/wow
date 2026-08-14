@@ -1,0 +1,27 @@
+name: Watchman Visi
+
+origin: worldbreaker-162
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: This ally has Assault 2 while an opposing hero is face down.
+
+regulation:
+
+errata: []
+
+temp: Human Hunter

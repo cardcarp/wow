@@ -1,0 +1,27 @@
+name: Hagtrix the Mindsifter
+
+origin: throne-of-the-tides-148
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 5
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: At the start of your turn, each opponent discards a card. When an opponent discards a card, this ally heals damage from your hero equal to that card's cost.
+
+regulation:
+
+errata: []
+
+temp: Goblin Priest

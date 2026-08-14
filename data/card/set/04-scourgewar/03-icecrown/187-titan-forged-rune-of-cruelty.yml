@@ -1,13 +1,13 @@
-oracle: titan-forged-rune-of-cruelty
-
-lex: '187'
-
-set: icecrown
+index: '187'
 
 rarity: Rare
 
 artist: Patrick McEvoy
 
+variation: []
+
 flavor: '"The craftsmanship of the Titans is truly remarkable." - Alard Schmied'
 
-variation: []
+oracle: titan-forged-rune-of-cruelty-icecrown-187
+
+set: Icecrown

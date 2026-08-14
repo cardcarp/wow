@@ -1,0 +1,27 @@
+name: Vexmaster Nar'jo
+
+origin: servants-of-the-betrayer-183
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity Nar'jo has +2 ATK while attacking a ready ally.
+
+regulation:
+
+errata: []
+
+temp: Troll Mage

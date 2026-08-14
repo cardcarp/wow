@@ -1,0 +1,19 @@
+name: Call of the Legion
+
+origin: caverns-of-time-raid-030
+
+layout: standard
+
+category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Each Raider chooses and discards two cards. If Archimonde is the Caverns hero, flip two additional Caverns cards.
+
+regulation:
+
+errata: []
+
+temp: Archimonde

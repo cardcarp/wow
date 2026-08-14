@@ -1,0 +1,29 @@
+name: Phase Hound
+
+origin: blood-of-gladiators-087
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+class:
+  - Warlock
+  - Hunter
+
+rule:
+  - type: ability
+    text: Stealth
+
+regulation:
+
+errata: []
+
+temp: Beast Demon

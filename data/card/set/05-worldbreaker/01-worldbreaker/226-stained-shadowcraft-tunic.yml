@@ -1,13 +1,13 @@
-oracle: stained-shadowcraft-tunic
-
-lex: '226'
-
-set: worldbreaker
+index: '226'
 
 rarity: Rare
 
 artist: Popo Wei (Concept Art House)
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: stained-shadowcraft-tunic-worldbreaker-226
+
+set: Worldbreaker

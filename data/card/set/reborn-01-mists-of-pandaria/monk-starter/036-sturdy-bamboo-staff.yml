@@ -1,13 +1,13 @@
-oracle: sturdy-bamboo-staff
-
-lex: '036'
-
-set: monk-starter
+index: '036'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: sturdy-bamboo-staff-monk-starter-036
+
+set: Monk Starter

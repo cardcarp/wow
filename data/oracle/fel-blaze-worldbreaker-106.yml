@@ -1,0 +1,22 @@
+name: Fel Blaze
+
+origin: worldbreaker-106
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Your hero deals 2 fire damage to each non-Demon hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Destruction

@@ -1,0 +1,27 @@
+name: Wanda Darkfizz
+
+origin: death-knight-starter-016
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Wanda is Elusive and Untargetable while you have a weapon.
+
+regulation:
+
+errata: []
+
+temp: Gnome Death Knight

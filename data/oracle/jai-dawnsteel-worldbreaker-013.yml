@@ -1,0 +1,25 @@
+name: Jai Dawnsteel
+
+origin: worldbreaker-013
+
+layout: transform
+
+category: Hero
+
+health: 30
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 3 → Flip Jai
+  - type: ability
+    position: reverse
+    text: Weapons you control have +1 ATK.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Warrior

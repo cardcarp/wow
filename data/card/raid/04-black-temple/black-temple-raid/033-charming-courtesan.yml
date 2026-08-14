@@ -1,13 +1,13 @@
-oracle: charming-courtesan
-
-lex: '033'
-
-set: black-temple-raid
+index: '033'
 
 rarity: Common
 
 artist: Jonboy Meyers
 
+variation: []
+
 flavor: '"That which you desire lies this way, hero."'
 
-variation: []
+oracle: charming-courtesan-black-temple-raid-033
+
+set: Black Temple Raid

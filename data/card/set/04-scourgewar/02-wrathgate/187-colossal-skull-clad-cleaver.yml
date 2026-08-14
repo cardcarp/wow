@@ -1,13 +1,13 @@
-oracle: colossal-skull-clad-cleaver
-
-lex: '187'
-
-set: wrathgate
+index: '187'
 
 rarity: Uncommon
 
 artist: Brian Despain
 
+variation: []
+
 flavor: '"Its gruesome appearance is matched only by its insatiable hunger for victims." - Triton the Sacrilegous'
 
-variation: []
+oracle: colossal-skull-clad-cleaver-wrathgate-187
+
+set: Wrathgate

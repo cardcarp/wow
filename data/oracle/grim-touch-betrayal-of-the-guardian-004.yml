@@ -1,0 +1,22 @@
+name: Grim Touch
+
+origin: betrayal-of-the-guardian-004
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 'Attach to target ally you control. Ongoing : Attached ally has Assault 1 for each card in opposing graveyards. When attached ally attacks, target opponent puts the top three cards of his deck into his graveyard.'
+
+regulation:
+
+errata: []
+
+temp: Frost Attachment

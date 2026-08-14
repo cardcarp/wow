@@ -1,0 +1,22 @@
+name: Savage Cat Form
+
+origin: war-of-the-elements-037
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+instant: 'Ongoing : Your hero has Assault 1 and Stealth .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral Cat Form

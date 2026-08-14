@@ -1,0 +1,23 @@
+name: Spaulders of the Scarred Lady
+
+origin: crown-of-the-heavens-174
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: Your hero has Assault 2 for each ally you control with 6 or more ATK.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

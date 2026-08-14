@@ -1,13 +1,13 @@
-oracle: rune-of-theri
-
-lex: '017'
-
-set: molten-core-raid
+index: '017'
 
 rarity: Uncommon
 
 artist: Mike Miller
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: rune-of-theri-molten-core-raid-017
+
+set: Molten Core Raid

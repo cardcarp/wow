@@ -1,0 +1,19 @@
+name: Report to Goldshire
+
+origin: class-starter-2010-008
+
+layout: standard
+
+category: Quest
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'If you control more allies than an opponent: Pay 1 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

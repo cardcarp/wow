@@ -1,0 +1,19 @@
+name: Power Returns
+
+origin: magtheridons-lair-raid-019
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+instant: Draw a card for each Blood in play. Destroy a Blood → Put Power Returns into your hand. Use only if Power Returns is in your graveyard.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

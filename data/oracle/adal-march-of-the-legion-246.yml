@@ -1,0 +1,25 @@
+name: A'dal
+
+origin: march-of-the-legion-246
+
+layout: standard
+
+category: Ally
+
+cost: '10'
+
+damage: 0
+
+health: 10
+
+combat: Holy
+
+rule:
+  - type: ability
+    text: Prevent all damage that would be dealt.
+
+regulation:
+
+errata: []
+
+temp: Naaru

@@ -1,0 +1,27 @@
+name: Takara, Timewalker Warlord
+
+origin: war-of-the-ancients-148
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity This ally can attack only heroes. When this ally attacks, the defending player reveals the top card of his deck. If it's an ally, he puts it into his hand.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

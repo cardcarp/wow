@@ -1,13 +1,13 @@
-oracle: spiritual-return
-
-lex: '101'
-
-set: worldbreaker
+index: '101'
 
 rarity: Rare
 
 artist: Paul Kidby
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: spiritual-return-worldbreaker-101
+
+set: Worldbreaker

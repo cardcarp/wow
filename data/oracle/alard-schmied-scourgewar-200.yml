@@ -1,0 +1,25 @@
+name: Alard Schmied
+
+origin: scourgewar-200
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 5
+
+health: 3
+
+combat: Fire
+
+rule:
+  - type: ability
+    text: This ally has +X , where X is the combined of Plate armor you control.
+
+regulation:
+
+errata: []
+
+temp: Human Blacksmithing Master

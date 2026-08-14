@@ -1,0 +1,19 @@
+name: Down the Gullet
+
+origin: onyxias-lair-event-009
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: You may destroy target ally.
+
+regulation:
+
+errata: []
+
+temp: ''

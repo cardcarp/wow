@@ -1,13 +1,13 @@
-oracle: divert
-
-lex: '062'
-
-set: icecrown
+index: '062'
 
 rarity: Common
 
 artist: Christopher Moeller
 
+variation: []
+
 flavor: "\"I guess you shouldn't have gotten us in over our heads.\" - Sinthiya Flabberghast"
 
-variation: []
+oracle: divert-icecrown-062
+
+set: Icecrown

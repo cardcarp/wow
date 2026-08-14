@@ -1,0 +1,25 @@
+name: Arcane Guardian
+
+origin: march-of-the-legion-229
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 0
+
+health: 0
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Scryer Reputation Protector Arcane Guardian has +1 ATK / +1 health for each card in your hand.
+
+regulation:
+
+errata: []
+
+temp: Mechanical

@@ -1,13 +1,13 @@
-oracle: bantham-jadefist-apprentice
-
-lex: '108'
-
-set: wrathgate
+index: '108'
 
 rarity: Common
 
 artist: Zhang Jia Min (Massive Black)
 
+variation: []
+
 flavor: '"Sooner or later, all of Azeroth will come to appreciate just how masterful Kulvo truly was."'
 
-variation: []
+oracle: bantham-jadefist-apprentice-wrathgate-108
+
+set: Wrathgate

@@ -1,0 +1,22 @@
+name: Arcane Power
+
+origin: through-the-dark-portal-044
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Arcane Hero Required Ongoing : When you play an ability, you may pay 1 . If you do and your hero would deal damage with that ability this turn, it deals that much damage +1 instead.'
+
+regulation:
+
+errata: []
+
+temp: Arcane Talent

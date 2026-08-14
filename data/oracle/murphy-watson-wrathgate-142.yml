@@ -1,0 +1,27 @@
+name: Murphy Watson
+
+origin: wrathgate-142
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: This ally has Assault 3 while an ally is in your graveyard.
+
+regulation:
+
+errata: []
+
+temp: Undead Mage

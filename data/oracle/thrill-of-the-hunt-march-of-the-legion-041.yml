@@ -1,0 +1,22 @@
+name: Thrill of the Hunt
+
+origin: march-of-the-legion-041
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Hunter
+
+instant: Survival Hero Required Destroy target ally. If you do, ready up to X of your resources, where X is that ally's cost.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival Talent

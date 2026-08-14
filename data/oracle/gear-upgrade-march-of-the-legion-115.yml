@@ -1,0 +1,22 @@
+name: Gear Upgrade
+
+origin: march-of-the-legion-115
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: As an additional cost to play Gear Upgrade, destroy one of your equipment. Search your deck for an equipment card, reveal it, and put it into your hand.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arms

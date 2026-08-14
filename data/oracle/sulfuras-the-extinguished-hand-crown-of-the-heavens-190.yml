@@ -1,0 +1,25 @@
+name: Sulfuras, The Extinguished Hand
+
+origin: crown-of-the-heavens-190
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+  - Shaman
+
+rule:
+  - type: ability
+    text: When an ally you control deals damage on your turn, you may add a +1 ATK counter to this weapon for each damage dealt.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Mace

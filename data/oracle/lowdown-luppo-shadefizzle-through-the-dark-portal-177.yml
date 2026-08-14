@@ -1,0 +1,27 @@
+name: '"Lowdown" Luppo Shadefizzle'
+
+origin: through-the-dark-portal-177
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Gnome Hero Required Elusive , Stealth , Untargetable
+
+regulation:
+
+errata: []
+
+temp: Gnome Rogue

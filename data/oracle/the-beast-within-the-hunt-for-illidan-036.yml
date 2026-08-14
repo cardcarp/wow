@@ -1,0 +1,22 @@
+name: The Beast Within
+
+origin: the-hunt-for-illidan-036
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+instant: Beast Mastery Hero Required While you have a Pet this turn, prevent all damage that your hero would be dealt, and your hero has +3 ATK.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery Talent

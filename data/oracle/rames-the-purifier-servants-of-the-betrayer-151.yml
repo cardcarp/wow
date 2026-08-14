@@ -1,0 +1,27 @@
+name: Rames the Purifier
+
+origin: servants-of-the-betrayer-151
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: At the end of your turn, you may destroy an ability attached to a hero or ally in your party.
+
+regulation:
+
+errata: []
+
+temp: Human Priest

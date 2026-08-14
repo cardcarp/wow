@@ -1,0 +1,27 @@
+name: Swift Mechanostrider
+
+origin: wrathgate-127
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 0
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Gnome Hero Required You pay 1 less to complete quests. When you place a resource face up, you may ready an equipment you control. (Mounts can't attack or be attacked.)
+
+regulation:
+
+errata: []
+
+temp: Mechanostrider

@@ -1,0 +1,27 @@
+name: Ellen Burroughs
+
+origin: war-of-the-ancients-130
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 3
+
+combat: Arcane
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally enters play, opposing allies and lose Elusive and Spellshield this turn.
+
+regulation:
+
+errata: []
+
+temp: Undead Mage

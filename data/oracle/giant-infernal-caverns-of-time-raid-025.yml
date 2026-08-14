@@ -1,0 +1,25 @@
+name: Giant Infernal
+
+origin: caverns-of-time-raid-025
+
+layout: standard
+
+category: Ally
+
+damage: 4
+
+health: 1
+
+combat: Fire
+
+type: Boss
+
+rule:
+  - type: ability
+    text: At the start of the Caverns hero's turn, this ally deals 10 fire damage to the MARKED hero.
+
+regulation:
+
+errata: []
+
+temp: Infernal Demon

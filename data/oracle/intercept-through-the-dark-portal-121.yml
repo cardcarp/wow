@@ -1,0 +1,22 @@
+name: Intercept
+
+origin: through-the-dark-portal-121
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: Exhaust target hero or ally, and your hero deals 1 melee damage to it.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury

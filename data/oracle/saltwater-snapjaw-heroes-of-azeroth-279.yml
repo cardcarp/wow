@@ -1,0 +1,27 @@
+name: Saltwater Snapjaw
+
+origin: heroes-of-azeroth-279
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 3 → Prevent all damage that would be dealt to Saltwater Snapjaw this turn.
+
+regulation:
+
+errata: []
+
+temp: Turtle

@@ -1,13 +1,13 @@
-oracle: fixate
-
-lex: '024'
-
-set: black-temple-raid
+index: '024'
 
 rarity: Uncommon
 
 artist: Warren Mahy
 
+variation: []
+
 flavor: Misery loves company.
 
-variation: []
+oracle: fixate-black-temple-raid-024
+
+set: Black Temple Raid

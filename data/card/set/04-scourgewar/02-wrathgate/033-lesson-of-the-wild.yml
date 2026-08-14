@@ -1,13 +1,13 @@
-oracle: lesson-of-the-wild
-
-lex: '033'
-
-set: wrathgate
+index: '033'
 
 rarity: Common
 
 artist: William O'Connor
 
+variation: []
+
 flavor: Even the most threatening beasts look peaceful in their slumber.
 
-variation: []
+oracle: lesson-of-the-wild-wrathgate-033
+
+set: Wrathgate

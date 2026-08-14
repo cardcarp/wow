@@ -1,0 +1,27 @@
+name: Child of Ursol
+
+origin: war-of-the-ancients-171
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Nature
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Mend 1
+
+regulation:
+
+errata: []
+
+temp: Bear Beast

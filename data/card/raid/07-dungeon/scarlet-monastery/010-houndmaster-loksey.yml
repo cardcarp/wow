@@ -1,13 +1,13 @@
-oracle: houndmaster-loksey
-
-lex: '010'
-
-set: scarlet-monastery
+index: '010'
 
 rarity: Common
 
 artist: Dan Brereton
 
+variation: []
+
 flavor: '"Release the hounds!"'
 
-variation: []
+oracle: houndmaster-loksey-scarlet-monastery-010
+
+set: Scarlet Monastery

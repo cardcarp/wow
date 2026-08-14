@@ -1,0 +1,27 @@
+name: Deatheater Stroud
+
+origin: throne-of-the-tides-145
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 5
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When damage is healed from an opposing ally, this ally deals that much shadow damage to that ally's controller's hero.
+
+regulation:
+
+errata: []
+
+temp: Undead Death Knight

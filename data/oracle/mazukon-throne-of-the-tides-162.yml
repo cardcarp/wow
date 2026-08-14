@@ -1,0 +1,27 @@
+name: Mazu'kon
+
+origin: throne-of-the-tides-162
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 6
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity When this ally is destroyed, put a 6 / 6 Troll Shaman ally token named Mazu'kon into play with Ferocity .
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

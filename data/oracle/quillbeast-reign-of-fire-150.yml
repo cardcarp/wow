@@ -1,0 +1,27 @@
+name: Quillbeast
+
+origin: reign-of-fire-150
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Long-Range
+
+regulation:
+
+errata: []
+
+temp: Quillbeast Beast

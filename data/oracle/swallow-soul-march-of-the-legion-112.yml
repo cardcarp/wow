@@ -1,0 +1,22 @@
+name: Swallow Soul
+
+origin: march-of-the-legion-112
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warlock
+
+instant: Interrupt target ally card. If you do, remove it from the game.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Destruction

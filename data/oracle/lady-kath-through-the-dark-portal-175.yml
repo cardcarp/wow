@@ -1,0 +1,27 @@
+name: Lady Kath
+
+origin: through-the-dark-portal-175
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: At the end of each turn, Lady Kath heals all damage from all allies.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

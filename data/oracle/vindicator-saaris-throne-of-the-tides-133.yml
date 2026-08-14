@@ -1,0 +1,27 @@
+name: Vindicator Saaris
+
+origin: throne-of-the-tides-133
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, each opponent destroys equipment he controls until he controls only one.
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

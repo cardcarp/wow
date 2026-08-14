@@ -1,0 +1,22 @@
+name: Soul Link
+
+origin: heroes-of-azeroth-133
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Demonology Hero Required Ongoing : Put 1 damage on an ally in your party → Prevent the next 1 damage that would be dealt to your hero this turn.'
+
+regulation:
+
+errata: []
+
+temp: Demonology Talent

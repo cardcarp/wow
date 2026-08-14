@@ -1,0 +1,27 @@
+name: Tharal Wildbreeze
+
+origin: crown-of-the-heavens-095
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 1
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive Harmonize
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

@@ -1,13 +1,13 @@
-oracle: magma-shackles
-
-lex: '028'
-
-set: molten-core-raid
+index: '028'
 
 rarity: Uncommon
 
 artist: Ralph Horsley
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: magma-shackles-molten-core-raid-028
+
+set: Molten Core Raid

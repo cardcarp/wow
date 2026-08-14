@@ -1,13 +1,13 @@
-oracle: deathstalker-commander-belmont
-
-lex: '017'
-
-set: dungeon-treasure
+index: '017'
 
 rarity: Uncommon
 
 artist: Chris Rahn
 
+variation: []
+
 flavor: "\"I've sent my men forward on the rooftops to secure the area around Lord Walden.\""
 
-variation: []
+oracle: deathstalker-commander-belmont-dungeon-treasure-017
+
+set: Dungeon Treasure

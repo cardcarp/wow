@@ -1,0 +1,22 @@
+name: Ferociousness
+
+origin: the-hunt-for-illidan-028
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+instant: 'Ongoing : When your hero protects, draw a card. Your hero is in Bear Form .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

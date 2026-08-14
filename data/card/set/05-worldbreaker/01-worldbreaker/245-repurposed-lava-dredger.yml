@@ -1,13 +1,13 @@
-oracle: repurposed-lava-dredger
-
-lex: '245'
-
-set: worldbreaker
+index: '245'
 
 rarity: Rare
 
 artist: Paul Kidby
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: repurposed-lava-dredger-worldbreaker-245
+
+set: Worldbreaker

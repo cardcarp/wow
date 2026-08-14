@@ -1,13 +1,13 @@
-oracle: life-binders-locket
-
-lex: '183'
-
-set: wrathgate
+index: '183'
 
 rarity: Rare
 
 artist: Patrick McEvoy
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: life-binders-locket-wrathgate-183
+
+set: Wrathgate

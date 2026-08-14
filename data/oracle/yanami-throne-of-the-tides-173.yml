@@ -1,0 +1,27 @@
+name: Yana'mi
+
+origin: throne-of-the-tides-173
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 5
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When you attach an ability to a hero or ally, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Troll Druid

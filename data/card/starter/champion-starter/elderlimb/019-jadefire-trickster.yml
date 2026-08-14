@@ -1,13 +1,13 @@
-oracle: jadefire-trickster
-
-lex: '019'
-
-set: elderlimb
+index: '019'
 
 rarity: Common
 
 artist: Chris Seaman
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: jadefire-trickster-crown-of-the-heavens-146
+
+set: Elderlimb

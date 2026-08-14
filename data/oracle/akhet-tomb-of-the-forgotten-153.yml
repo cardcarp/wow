@@ -1,0 +1,27 @@
+name: Akhet
+
+origin: tomb-of-the-forgotten-153
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Protector While Akhet is the only ally in play, double his ATK and and he has Sentinel .
+
+regulation:
+
+errata: []
+
+temp: Lion

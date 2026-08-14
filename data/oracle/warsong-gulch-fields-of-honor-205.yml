@@ -1,0 +1,17 @@
+name: Warsong Gulch
+
+origin: fields-of-honor-205
+
+layout: standard
+
+category: Location
+
+rule:
+  - type: ability
+    text: When you play a card, add an honor counter. , Remove two honor counters → Target ally is a Protector this turn.
+
+regulation:
+
+errata: []
+
+temp: Battleground

@@ -1,0 +1,19 @@
+name: Jagged Knife
+
+origin: naxxramas-raid-031
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+instant: Target two raiding abilities, two raiding allies, or two raiding equipment. Exhaust the first. If you do, it can't ready during its controller's next ready step, and destroy the second.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Naxxramas

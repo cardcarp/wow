@@ -1,0 +1,31 @@
+name: Winter Garb
+
+origin: timewalkers-holiday-promotional-001
+
+layout: standard
+
+category: Equipment
+
+cost: '7'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 2 , → Put a 0 / 1 Present ally token into play with "This ally can't attack." When a Present you control is destroyed, reveal the top card of your deck and put it into your hand.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

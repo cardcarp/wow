@@ -1,13 +1,13 @@
-oracle: death-knight-understudy
-
-lex: '006'
-
-set: naxxramas-token
+index: '006'
 
 rarity: Common
 
 artist: Paul Mafayon
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: death-knight-understudy-naxxramas-token-006
+
+set: Naxxramas Token

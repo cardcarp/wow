@@ -1,0 +1,21 @@
+name: Elven Chain Boots
+
+origin: through-the-dark-portal-253
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Hunter
+  - Shaman
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

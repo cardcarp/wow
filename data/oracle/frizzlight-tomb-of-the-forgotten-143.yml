@@ -1,0 +1,27 @@
+name: Frizzlight
+
+origin: tomb-of-the-forgotten-143
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Holy
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Damage that this and other Murloc allies you control would deal is unpreventable.
+
+regulation:
+
+errata: []
+
+temp: Murloc Priest

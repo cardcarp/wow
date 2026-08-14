@@ -1,0 +1,22 @@
+name: Dampen Magic
+
+origin: through-the-dark-portal-048
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+instant: 'Attach to target friendly hero or ally. Ongoing : If attached character would be dealt damage with an ability, prevent 1 of that damage.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

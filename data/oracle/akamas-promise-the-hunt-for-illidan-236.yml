@@ -1,0 +1,17 @@
+name: Akamas Promise
+
+origin: the-hunt-for-illidan-236
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Loyal Hero Required Pay 1 for each card in your hand to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

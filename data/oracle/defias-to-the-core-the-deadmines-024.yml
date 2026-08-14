@@ -1,0 +1,19 @@
+name: Defias to the Core
+
+origin: the-deadmines-024
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Dungeon allies have +2 ATK and Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: ''

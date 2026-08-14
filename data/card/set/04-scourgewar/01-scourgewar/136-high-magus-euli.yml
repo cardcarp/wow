@@ -1,13 +1,13 @@
-oracle: high-magus-euli
-
-lex: '136'
-
-set: scourgewar
+index: '136'
 
 rarity: Common
 
 artist: Matt Dixon
 
+variation: []
+
 flavor: '"Trickery is a resource of those devoid of power."'
 
-variation: []
+oracle: high-magus-euli-scourgewar-136
+
+set: Scourgewar

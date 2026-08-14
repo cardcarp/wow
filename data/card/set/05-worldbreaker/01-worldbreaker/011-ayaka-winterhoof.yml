@@ -1,14 +1,14 @@
-oracle: ayaka-winterhoof
-
-lex: '011'
-
-set: worldbreaker
+index: '011'
 
 rarity: Uncommon
 
 artist: Oliver Chipping
 
-flavor: '"I have already glimpsed the afterlife, and now you shall see it for yourself."'
-
 variation:
   - transform
+
+flavor: '"I have already glimpsed the afterlife, and now you shall see it for yourself."'
+
+oracle: ayaka-winterhoof-worldbreaker-011
+
+set: Worldbreaker

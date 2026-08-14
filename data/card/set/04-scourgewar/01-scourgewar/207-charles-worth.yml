@@ -1,13 +1,13 @@
-oracle: charles-worth
-
-lex: '207'
-
-set: scourgewar
+index: '207'
 
 rarity: Rare
 
 artist: Derk Venneman
 
+variation: []
+
 flavor: '"The right clothes make all the difference."'
 
-variation: []
+oracle: charles-worth-scourgewar-207
+
+set: Scourgewar

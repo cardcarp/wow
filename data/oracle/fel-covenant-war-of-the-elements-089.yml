@@ -1,0 +1,22 @@
+name: Fel Covenant
+
+origin: war-of-the-elements-089
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warlock
+
+instant: Remove target ally from the game. If you do, your hero deals fire damage to itself equal to that ally's cost.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Destruction

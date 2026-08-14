@@ -1,0 +1,23 @@
+name: Imp Lord Pinprik
+
+origin: the-hunt-for-illidan-021
+
+layout: transform
+
+category: Hero
+
+health: 8
+
+rule:
+  - type: ability
+    position: front
+    text: Elusive
+  - type: ability
+    position: reverse
+    text: "Elusive Deckbuilding: You can include only neutral quests, any abilities that deal fire damage, and any allies. You can't include cards with reputations or text restrictions (like Fire Hero Required ) ."
+
+regulation:
+
+errata: []
+
+temp: Imp Demon

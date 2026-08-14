@@ -1,0 +1,22 @@
+name: Ice Barbs
+
+origin: fields-of-honor-035
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: "Ongoing : Each opponent can't draw cards unless he pays 1 for each card."
+
+regulation:
+
+errata: []
+
+temp: Frost

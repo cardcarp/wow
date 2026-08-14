@@ -1,0 +1,27 @@
+name: Eredar Deathbringer
+
+origin: betrayal-of-the-guardian-138
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 6
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: ability
+    text: When another ally you control is destroyed, this ally heals 4 damage from your hero.
+
+regulation:
+
+errata: []
+
+temp: Eredar Demon Warlock

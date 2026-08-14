@@ -1,0 +1,27 @@
+name: Zanrix Steelboot
+
+origin: tomb-of-the-forgotten-119
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 3 , Exhaust an equipment you control → Exhaust target ally.
+
+regulation:
+
+errata: []
+
+temp: Goblin Warrior

@@ -1,0 +1,27 @@
+name: Rakasa Mournewind
+
+origin: fields-of-honor-141
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 3
+
+health: 6
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When Rakasa deals damage, target opposing hero or ally can't attack or protect this turn.
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

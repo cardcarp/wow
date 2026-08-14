@@ -1,0 +1,19 @@
+name: Monstrous Heal
+
+origin: tomb-of-the-forgotten-068
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+instant: Your hero heals 3 damage from each Monster hero and ally you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

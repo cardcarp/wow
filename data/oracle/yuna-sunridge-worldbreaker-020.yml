@@ -1,0 +1,25 @@
+name: Yuna Sunridge
+
+origin: worldbreaker-020
+
+layout: transform
+
+category: Hero
+
+health: 27
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 3 → Flip Yuna
+  - type: ability
+    position: reverse
+    text: Mend 1
+
+regulation:
+
+errata: []
+
+temp: Tauren Priest

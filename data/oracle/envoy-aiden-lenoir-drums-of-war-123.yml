@@ -1,0 +1,27 @@
+name: Envoy Aiden LeNoir
+
+origin: drums-of-war-123
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Diplomacy: Gnomes 1 , → Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Human Rogue

@@ -1,0 +1,27 @@
+name: Rahn Grimstaff
+
+origin: march-of-the-legion-162
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: → Target hero or ally has -1 health this turn.
+
+regulation:
+
+errata: []
+
+temp: Human Warlock

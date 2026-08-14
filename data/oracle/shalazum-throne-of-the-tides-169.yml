@@ -1,0 +1,27 @@
+name: Shala'zum
+
+origin: throne-of-the-tides-169
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 4
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Troll Warrior

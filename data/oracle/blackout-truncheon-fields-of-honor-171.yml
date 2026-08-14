@@ -1,0 +1,26 @@
+name: Blackout Truncheon
+
+origin: fields-of-honor-171
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Shaman
+
+instant: When this weapon enters play, exhaust target hero or ally. That character can't ready during its controller's next ready step.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

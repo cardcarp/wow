@@ -1,0 +1,22 @@
+name: Shiv
+
+origin: through-the-dark-portal-087
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Your hero deals 1 melee damage to target hero or ally. That damage counts as combat damage.
+
+regulation:
+
+errata: []
+
+temp: Combat Combo

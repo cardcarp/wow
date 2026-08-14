@@ -1,0 +1,17 @@
+name: You Are Rakh'likh, Demon
+
+origin: march-of-the-legion-319
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 4 to complete this quest. Reward : Draw a card, or two cards if a Demon is in your party.'
+
+regulation:
+
+errata: []
+
+temp: ''

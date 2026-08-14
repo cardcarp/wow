@@ -1,13 +1,13 @@
-oracle: ashes-to-ashes
-
-lex: '018'
-
-set: molten-core-raid
+index: '018'
 
 rarity: Uncommon
 
 artist: Jonboy Meyers
 
+variation: []
+
 flavor: "\"You think you've won already? Perhaps you'll need another lesson in pain!\""
 
-variation: []
+oracle: ashes-to-ashes-molten-core-raid-018
+
+set: Molten Core Raid

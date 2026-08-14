@@ -1,0 +1,22 @@
+name: Battle Shout
+
+origin: heroes-of-azeroth-135
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+instant: 'Ongoing : Allies you control have +1 ATK.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury Shout

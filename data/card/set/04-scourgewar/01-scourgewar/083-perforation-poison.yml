@@ -1,13 +1,13 @@
-oracle: perforation-poison
-
-lex: '083'
-
-set: scourgewar
+index: '083'
 
 rarity: Common
 
 artist: Tom Baxa
 
+variation: []
+
 flavor: '"Nothing soothes me better than the smell of burning flesh." - Savitir Skullsmasher'
 
-variation: []
+oracle: perforation-poison-scourgewar-083
+
+set: Scourgewar

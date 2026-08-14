@@ -1,13 +1,13 @@
-oracle: deadly-sin
-
-lex: '024'
-
-set: scarlet-monastery
+index: '024'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: deadly-sin-scarlet-monastery-024
+
+set: Scarlet Monastery

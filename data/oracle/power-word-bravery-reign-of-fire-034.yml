@@ -1,0 +1,22 @@
+name: 'Power Word: Bravery'
+
+origin: reign-of-fire-034
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: 'Ongoing : Double the of all friendly allies.'
+
+regulation:
+
+errata: []
+
+temp: Discipline

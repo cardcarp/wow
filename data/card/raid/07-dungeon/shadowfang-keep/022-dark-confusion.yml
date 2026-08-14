@@ -1,13 +1,13 @@
-oracle: dark-confusion
-
-lex: '022'
-
-set: shadowfang-keep
+index: '022'
 
 rarity: Common
 
 artist: Gabor Szikszai
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: dark-confusion-shadowfang-keep-022
+
+set: Shadowfang Keep

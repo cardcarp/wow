@@ -1,0 +1,23 @@
+name: Singing Crystal Axe
+
+origin: march-of-the-legion-289
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: Singing Crystal Axe enters play with four slow counters. You pay 1 more to strike with Singing Crystal Axe for each slow counter. When you strike with Singing Crystal Axe, remove a slow counter.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Axe

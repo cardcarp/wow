@@ -1,13 +1,13 @@
-oracle: guardian-of-icecrown
-
-lex: '017'
-
-set: naxxramas-token
+index: '017'
 
 rarity: Common
 
 artist: Jeff Remmer
 
+variation: []
+
 flavor: '"I command you to fight, kill, and die for your master. Let none survive ..." - The Lich King'
 
-variation: []
+oracle: guardian-of-icecrown-naxxramas-token-017
+
+set: Naxxramas Token

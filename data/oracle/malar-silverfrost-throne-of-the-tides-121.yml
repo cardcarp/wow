@@ -1,0 +1,27 @@
+name: Malar Silverfrost
+
+origin: throne-of-the-tides-121
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When this ally enters play, opposing allies have -1 this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Death Knight

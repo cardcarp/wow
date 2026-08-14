@@ -1,0 +1,22 @@
+name: Hunters Mark
+
+origin: drums-of-war-029
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+instant: "Attach to target hero. Ongoing : If attached hero would be dealt ranged or damage, it's dealt that much +1 instead."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

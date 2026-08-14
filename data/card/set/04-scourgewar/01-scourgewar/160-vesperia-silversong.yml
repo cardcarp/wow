@@ -1,13 +1,13 @@
-oracle: vesperia-silversong
-
-lex: '160'
-
-set: scourgewar
+index: '160'
 
 rarity: Common
 
 artist: Steve Prescott
 
+variation: []
+
 flavor: '"Weaken the outliers first, and the others will cluster."'
 
-variation: []
+oracle: vesperia-silversong-scourgewar-160
+
+set: Scourgewar

@@ -1,0 +1,27 @@
+name: Jaal
+
+origin: war-of-the-ancients-096
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 5
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: → Target ally you control has Assault 3 this turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

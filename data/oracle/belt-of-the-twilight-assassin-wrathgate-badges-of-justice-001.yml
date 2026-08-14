@@ -1,0 +1,23 @@
+name: Belt of the Twilight Assassin
+
+origin: wrathgate-badges-of-justice-001
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: 1 , Discard an equipment → Add a murder counter. Your hero has Assault 1 for each murder counter.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

@@ -1,0 +1,19 @@
+name: Gnomeregan
+
+origin: fields-of-honor-206
+
+layout: standard
+
+category: Location
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Gnome Hero Required Gnomes in your party are irradiated . (When this character deals combat damage to an ally that's not irradiated, it becomes irradiated.) → Destroy target irradiated ally.
+
+regulation:
+
+errata: []
+
+temp: City

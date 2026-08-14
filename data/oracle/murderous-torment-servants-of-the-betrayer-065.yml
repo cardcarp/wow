@@ -1,0 +1,22 @@
+name: Murderous Torment
+
+origin: servants-of-the-betrayer-065
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Traitor Hero Required Ongoing : When an opponent draws a card, your hero deals 1 arcane damage to his hero.'
+
+regulation:
+
+errata: []
+
+temp: Traitor

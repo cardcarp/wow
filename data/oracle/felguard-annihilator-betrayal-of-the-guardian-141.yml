@@ -1,0 +1,27 @@
+name: Felguard Annihilator
+
+origin: betrayal-of-the-guardian-141
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: When this ally is destroyed, it deals 1 melee damage to target opposing hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Felguard Demon

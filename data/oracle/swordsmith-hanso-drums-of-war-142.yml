@@ -1,0 +1,27 @@
+name: Swordsmith Hanso
+
+origin: drums-of-war-142
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Your weapons have +3 ATK. Opposing weapons have -3 ATK.
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

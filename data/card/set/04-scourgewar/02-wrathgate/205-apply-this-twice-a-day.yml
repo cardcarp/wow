@@ -1,13 +1,13 @@
-oracle: apply-this-twice-a-day
-
-lex: '205'
-
-set: wrathgate
+index: '205'
 
 rarity: Common
 
 artist: Bill Ruan
 
+variation: []
+
 flavor: "\"This elixir should protect against their spit. Offer it to Ko'char for me, will you?\" - Zort"
 
-variation: []
+oracle: apply-this-twice-a-day-wrathgate-205
+
+set: Wrathgate

@@ -1,0 +1,22 @@
+name: Diversion
+
+origin: servants-of-the-betrayer-090
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Ongoing : , Exhaust an ally in your party → Your hero has +2 ATK and Stealth this turn.'
+
+regulation:
+
+errata: []
+
+temp: Subtlety

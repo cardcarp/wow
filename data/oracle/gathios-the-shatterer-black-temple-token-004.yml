@@ -1,0 +1,25 @@
+name: Gathios the Shatterer
+
+origin: black-temple-token-004
+
+layout: standard
+
+category: Token
+
+damage: 5
+
+health: 3
+
+combat: Holy
+
+type: Ally
+
+rule:
+  - type: ability
+    text: Protector If Gathios would be dealt damage, prevent all but 1 of it.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

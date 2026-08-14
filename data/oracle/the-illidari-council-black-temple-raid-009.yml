@@ -1,0 +1,25 @@
+name: The Illidari Council
+
+origin: black-temple-raid-009
+
+layout: transform
+
+category: Hero
+
+type: Boss
+
+stage: 8
+
+rule:
+  - type: ability
+    position: front
+    text: Immune Council Member's can't leave your party. When the last Council Member is dealt fatal damage, flip The Illidari Council and remove all four Council Members from the game. 4 → Destroy all opposing abilities.
+  - type: ability
+    position: reverse
+    text: When The Ilidari Council flips to this side, destroy it and say, "YOU ARE NOT PREPARED!"
+
+regulation:
+
+errata: []
+
+temp: Council Traitor

@@ -1,0 +1,25 @@
+name: Anika Berlyn
+
+origin: heroes-of-azeroth-175
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 6
+
+combat: Melee
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

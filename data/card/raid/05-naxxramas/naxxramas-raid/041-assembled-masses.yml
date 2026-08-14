@@ -1,13 +1,13 @@
-oracle: assembled-masses
-
-lex: '041'
-
-set: naxxramas-raid
+index: '041'
 
 rarity: Uncommon
 
 artist: Howard Lyon
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: assembled-masses-naxxramas-raid-041
+
+set: Naxxramas Raid

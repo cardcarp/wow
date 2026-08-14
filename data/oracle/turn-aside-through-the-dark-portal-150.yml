@@ -1,0 +1,19 @@
+name: Turn Aside
+
+origin: through-the-dark-portal-150
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+instant: Prevent all combat damage that would be dealt by target ally this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

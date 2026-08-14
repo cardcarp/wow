@@ -1,0 +1,22 @@
+name: Phadalus the Enlightened
+
+origin: through-the-dark-portal-004
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Phadalus → Put a Totem card from your graveyard into your hand. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

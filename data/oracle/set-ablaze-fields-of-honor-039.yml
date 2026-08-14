@@ -1,0 +1,22 @@
+name: Set Ablaze
+
+origin: fields-of-honor-039
+
+layout: standard
+
+category: Ability
+
+cost: X
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Ongoing : Set Ablaze enters play with X burn counters. At the start of your turn, destroy each opposing ally and weapon with cost equal to the number of burn counters, then remove a burn counter. If none remain, destroy Set Ablaze.'
+
+regulation:
+
+errata: []
+
+temp: Fire

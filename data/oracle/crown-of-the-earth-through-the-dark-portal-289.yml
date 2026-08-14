@@ -1,0 +1,19 @@
+name: Crown of the Earth
+
+origin: through-the-dark-portal-289
+
+layout: standard
+
+category: Quest
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : Choose one: Put your hand on the bottom of your deck, then draw that many cards; or draw a card. If your hero is a Night Elf, you may choose both.'
+
+regulation:
+
+errata: []
+
+temp: ''

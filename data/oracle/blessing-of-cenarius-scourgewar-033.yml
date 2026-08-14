@@ -1,0 +1,22 @@
+name: Blessing of Cenarius
+
+origin: scourgewar-033
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +1 / +1. When attached ally is destroyed, you may draw a card.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration Attachment

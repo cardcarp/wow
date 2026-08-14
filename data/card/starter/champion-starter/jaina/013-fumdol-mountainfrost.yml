@@ -1,13 +1,13 @@
-oracle: fumdol-mountainfrost
-
-lex: '013'
-
-set: jaina
+index: '013'
 
 rarity: Common
 
 artist: Jim Nelson
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: fumdol-mountainfrost-throne-of-the-tides-109
+
+set: Jaina

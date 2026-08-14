@@ -1,0 +1,25 @@
+name: The Essence Focuser
+
+origin: march-of-the-legion-282
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: If a hero or ally in your party would heal damage, it heals that much +1 instead.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

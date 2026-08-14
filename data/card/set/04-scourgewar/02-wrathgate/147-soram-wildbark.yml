@@ -1,13 +1,13 @@
-oracle: soram-wildbark
-
-lex: '147'
-
-set: wrathgate
+index: '147'
 
 rarity: Common
 
 artist: Leo Che
 
+variation: []
+
 flavor: '"Relish this moment, for the Earthmother has given you her blessing."'
 
-variation: []
+oracle: soram-wildbark-wrathgate-147
+
+set: Wrathgate

@@ -1,0 +1,22 @@
+name: Trophy Gatherer
+
+origin: scourgewar-247
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: You pay 3 less to strike with this weapon while your hero is in combat with an ally with cost 4 or more. When you strike with this weapon, your hero has Long-Range this combat.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Bow

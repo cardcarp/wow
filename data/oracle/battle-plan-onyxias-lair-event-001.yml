@@ -1,0 +1,19 @@
+name: Battle Plan
+
+origin: onyxias-lair-event-001
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Each opponent draws a card.
+
+regulation:
+
+errata: []
+
+temp: ''

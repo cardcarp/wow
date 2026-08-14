@@ -1,0 +1,25 @@
+name: Arcanist Lyronia
+
+origin: servants-of-the-betrayer-199
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Arcane
+
+rule:
+  - type: ability
+    text: Scryer Reputation When Lyronia enters play, look at the top card of target opponent's deck. You may put it on the bottom.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

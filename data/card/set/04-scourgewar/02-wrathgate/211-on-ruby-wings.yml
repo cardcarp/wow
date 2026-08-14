@@ -1,13 +1,13 @@
-oracle: on-ruby-wings
-
-lex: '211'
-
-set: wrathgate
+index: '211'
 
 rarity: Rare
 
 artist: Daren Bader
 
+variation: []
+
 flavor: "\"Climb upon its back and fly north to Galakrond's Rest.\" - Tarastrasza"
 
-variation: []
+oracle: on-ruby-wings-wrathgate-211
+
+set: Wrathgate

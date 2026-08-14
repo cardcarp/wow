@@ -1,0 +1,23 @@
+name: To Arms!
+
+origin: war-of-the-elements-103
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Warrior
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Ongoing : Your hero has Dual Wield . Melee weapons you control have +5 ATK. You pay 5 less to strike with Melee weapons.'
+
+regulation:
+
+errata: []
+
+temp: Arms Combat

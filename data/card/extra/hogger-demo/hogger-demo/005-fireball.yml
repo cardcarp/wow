@@ -1,13 +1,13 @@
-oracle: fireball
-
-lex: '005'
-
-set: hogger-demo
+index: '005'
 
 rarity: Uncommon
 
 artist: Vance Kovacs
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: fireball-heroes-of-azeroth-053
+
+set: Hogger Demo

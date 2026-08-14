@@ -1,0 +1,27 @@
+name: Alethar the Blightspreader
+
+origin: reign-of-fire-069
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 2
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Haste 3 If an ally you controlled dealt damage to an opposing hero this turn, you can play this ally from your graveyard.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Death Knight

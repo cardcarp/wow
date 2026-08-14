@@ -1,0 +1,22 @@
+name: Unyielding Faith
+
+origin: wrathgate-057
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: Holy Talent Prevent all damage that would be dealt this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

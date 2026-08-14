@@ -1,0 +1,27 @@
+name: Cairne Bloodhoof
+
+origin: drums-of-war-159
+
+layout: standard
+
+category: Ally
+
+cost: '9'
+
+damage: 7
+
+health: 20
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Other Tauren in your party have +10 health.
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

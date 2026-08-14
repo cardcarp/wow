@@ -1,0 +1,22 @@
+name: Strangulate
+
+origin: worldbreaker-030
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Death Knight
+
+instant: "Interrupt target ability. Stash : Opponents can't play abilities this turn."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Blood

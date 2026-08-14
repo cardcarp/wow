@@ -1,0 +1,22 @@
+name: Concentration Aura
+
+origin: fields-of-honor-042
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: "Ongoing : Your ability cards are instant and can't be interrupted."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

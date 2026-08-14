@@ -1,0 +1,22 @@
+name: Wind Shear
+
+origin: scourgewar-094
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: 'Choose one or both: Interrupt target ability; or exhaust target hero or ally.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental

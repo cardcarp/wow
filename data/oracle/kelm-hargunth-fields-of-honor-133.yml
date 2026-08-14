@@ -1,0 +1,27 @@
+name: Kelm Hargunth
+
+origin: fields-of-honor-133
+
+layout: standard
+
+category: Ally
+
+cost: '8'
+
+damage: 9
+
+health: 9
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Kelm attacks, each opponent destroys an card he controls.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

@@ -1,0 +1,22 @@
+name: Ice Trap
+
+origin: the-hunt-for-illidan-037
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Hunter
+
+instant: Trap Your hero deals 3 frost damage to target attacker. Remove a character dealt damage this way from combat.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

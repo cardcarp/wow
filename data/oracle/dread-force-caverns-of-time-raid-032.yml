@@ -1,0 +1,19 @@
+name: Dread Force
+
+origin: caverns-of-time-raid-032
+
+layout: standard
+
+category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Exhaust all Raiding heroes and allies. If Mal'Ganis is the Caverns hero, double his ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Mal'Ganis

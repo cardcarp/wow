@@ -1,0 +1,27 @@
+name: Targus Roughblade
+
+origin: crown-of-the-heavens-093
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 6
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Stealth
+
+regulation:
+
+errata: []
+
+temp: Dwarf Rogue

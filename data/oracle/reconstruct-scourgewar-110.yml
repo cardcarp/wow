@@ -1,0 +1,22 @@
+name: Reconstruct
+
+origin: scourgewar-110
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: Put target equipment from your graveyard into play if its cost is less than or equal to the number of resources you control.
+
+regulation:
+
+errata: []
+
+temp: Arms

@@ -1,0 +1,22 @@
+name: Snipe
+
+origin: drums-of-war-031
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: When the next ability, ally, or equipment enters play this turn, destroy it.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

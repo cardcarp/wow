@@ -1,13 +1,13 @@
-oracle: crime-scene-alarm-o-bot
-
-lex: '012'
-
-set: dungeon-treasure
+index: '012'
 
 rarity: Common
 
 artist: Sean O'Daniels
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: crime-scene-alarm-o-bot-dungeon-treasure-012
+
+set: Dungeon Treasure

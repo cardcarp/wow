@@ -1,0 +1,27 @@
+name: Lafiel
+
+origin: heroes-of-azeroth-196
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 5
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 2 , → Destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

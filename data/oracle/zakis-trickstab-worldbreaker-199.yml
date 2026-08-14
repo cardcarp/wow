@@ -1,0 +1,27 @@
+name: Zakis Trickstab
+
+origin: worldbreaker-199
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 1
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Elusive Stealth
+
+regulation:
+
+errata: []
+
+temp: Goblin Rogue

@@ -1,0 +1,22 @@
+name: Spirit Weapons
+
+origin: the-hunt-for-illidan-093
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Enhancement Hero Required Ongoing : → Target hero or ally has -X ATK this turn, where X is the combined ATK of your Melee weapons.'
+
+regulation:
+
+errata: []
+
+temp: Enhancement Talent

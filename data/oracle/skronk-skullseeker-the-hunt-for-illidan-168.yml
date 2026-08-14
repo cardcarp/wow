@@ -1,0 +1,27 @@
+name: Skronk Skullseeker
+
+origin: the-hunt-for-illidan-168
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: This ally has +3 ATK while attacking an exhausted hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Orc Rogue

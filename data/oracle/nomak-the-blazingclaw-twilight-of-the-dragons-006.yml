@@ -1,0 +1,25 @@
+name: Nomak the Blazingclaw
+
+origin: twilight-of-the-dragons-006
+
+layout: transform
+
+category: Hero
+
+health: 25
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 4 → Flip Nomak face down.
+  - type: ability
+    position: reverse
+    text: When Nomak deals fire ( ) damage for the first time on each of your turns, allies you control have Assault 1 this turn. This power triggers only once per turn.
+
+regulation:
+
+errata: []
+
+temp: Worgen Mage

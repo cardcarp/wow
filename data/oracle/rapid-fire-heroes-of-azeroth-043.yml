@@ -1,0 +1,22 @@
+name: Rapid Fire
+
+origin: heroes-of-azeroth-043
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Whenever you strike with a Ranged weapon this turn, you may pay 1 . If you do, ready that weapon and your hero.
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

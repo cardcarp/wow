@@ -1,0 +1,23 @@
+name: The Construct Quarter
+
+origin: naxxramas-raid-005
+
+layout: transform
+
+category: Misc
+
+type: Raid
+
+rule:
+  - type: ability
+    position: front
+    text: 'At the end of your turn, if the Boss is face up and not Immune , add a rage counter. Then, if there are three or more, flip the Boss. On your turn: → Put a Mortal Would from your graveyard into your hand. When a Boss is destroyed, remove all rage counters and destroy all Naxxramas tokens. When Thaddius is destroyed, flip this card. Patchwerk - Grobbulus Gluth - Thaddius'
+  - type: ability
+    position: reverse
+    text: "When this card flips to this side, say \"Fools, you think yourselves triumphant? You have only taken one step closer to the abyss!\" At the end of the raid leader's turn, add a rage counter if there are less than three. Any raider: Remove three rage counters → Turn all raiding heroes face up."
+
+regulation:
+
+errata: []
+
+temp: ''

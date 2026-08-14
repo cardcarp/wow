@@ -1,13 +1,13 @@
-oracle: hansi-wildcoat
-
-lex: '132'
-
-set: icecrown
+index: '132'
 
 rarity: Common
 
 artist: Lucio Parrillo
 
+variation: []
+
 flavor: '"The Earthmother grants not just your strength, but the wisdom to apply it."'
 
-variation: []
+oracle: hansi-wildcoat-icecrown-132
+
+set: Icecrown

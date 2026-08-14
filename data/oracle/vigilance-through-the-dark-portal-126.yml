@@ -1,0 +1,22 @@
+name: Vigilance
+
+origin: through-the-dark-portal-126
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: "Ongoing : Your hero has Protector . → Ready your hero. Use only on an opponent's turn."
+
+regulation:
+
+errata: []
+
+temp: Protection

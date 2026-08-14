@@ -1,0 +1,27 @@
+name: Ja'zaron
+
+origin: through-the-dark-portal-215
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector At the start of your turn, Ja'zaron heals 1 damage from himself.
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

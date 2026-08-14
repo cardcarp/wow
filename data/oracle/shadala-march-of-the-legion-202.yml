@@ -1,0 +1,27 @@
+name: Shadala
+
+origin: march-of-the-legion-202
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When you play an ability, you may destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Priest

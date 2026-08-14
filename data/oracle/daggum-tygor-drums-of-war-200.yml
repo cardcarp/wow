@@ -1,0 +1,25 @@
+name: Dagg'um Ty'gor
+
+origin: drums-of-war-200
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 6
+
+health: 6
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Conspicuous
+
+regulation:
+
+errata: []
+
+temp: Two-Headed Ogre Ninja

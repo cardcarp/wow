@@ -1,0 +1,22 @@
+name: Baron Blackwood
+
+origin: horde-mage-2013-001
+
+layout: transform
+
+category: Hero
+
+health: 25
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 5 , Flip Blackwood → Blackwood deals 4 fire damage to each opposing hero, and 1 fire damage to each opposing ally.
+
+regulation:
+
+errata: []
+
+temp: Undead Mage

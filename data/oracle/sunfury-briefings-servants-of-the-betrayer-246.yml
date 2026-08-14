@@ -1,0 +1,17 @@
+name: Sunfury Briefings
+
+origin: servants-of-the-betrayer-246
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Pay 5 to complete this quest. Reward : Ready an ally in your party.'
+
+regulation:
+
+errata: []
+
+temp: ''

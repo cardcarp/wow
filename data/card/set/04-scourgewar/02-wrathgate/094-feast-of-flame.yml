@@ -1,13 +1,13 @@
-oracle: feast-of-flame
-
-lex: '094'
-
-set: wrathgate
+index: '094'
 
 rarity: Uncommon
 
 artist: Tom Baxa
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: feast-of-flame-wrathgate-094
+
+set: Wrathgate

@@ -1,13 +1,13 @@
-oracle: sympathy
-
-lex: '178'
-
-set: wrathgate
+index: '178'
 
 rarity: Uncommon
 
 artist: Martina Pilcerova
 
+variation: []
+
 flavor: '"I feel your pain." - Katianna the Shrouded'
 
-variation: []
+oracle: sympathy-wrathgate-178
+
+set: Wrathgate

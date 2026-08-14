@@ -1,13 +1,13 @@
-oracle: avalanche
-
-lex: '189'
-
-set: icecrown
+index: '189'
 
 rarity: Rare
 
 artist: J.P. Targete
 
+variation: []
+
 flavor: '"Never in my life have I seen an arrow strike with such force, such raw power ..." - Lelora Sunlancer'
 
-variation: []
+oracle: avalanche-icecrown-189
+
+set: Icecrown

@@ -1,0 +1,22 @@
+name: Crusader Strike
+
+origin: drums-of-war-045
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Paladin
+
+instant: Retribution Hero Required Your hero deals melee damage to target hero or ally equal to 3 plus the ATK of one of your Melee weapons. You may put an ongoing Judgement or Seal card from your graveyard into play.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution Talent

@@ -1,0 +1,22 @@
+name: Surge of Life
+
+origin: through-the-dark-portal-102
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: Your hero heals 5 damage from target hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

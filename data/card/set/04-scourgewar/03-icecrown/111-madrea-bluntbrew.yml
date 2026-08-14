@@ -1,13 +1,13 @@
-oracle: madrea-bluntbrew
-
-lex: '111'
-
-set: icecrown
+index: '111'
 
 rarity: Common
 
 artist: Matt Dixon
 
+variation: []
+
 flavor: "\"I can see that you really aren't that much of a threat.\""
 
-variation: []
+oracle: madrea-bluntbrew-icecrown-111
+
+set: Icecrown

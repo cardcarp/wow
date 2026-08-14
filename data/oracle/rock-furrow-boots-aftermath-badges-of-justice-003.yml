@@ -1,0 +1,24 @@
+name: Rock Furrow Boots
+
+origin: aftermath-badges-of-justice-003
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: When an armor you control prevents damage, you may add a +1 ATK counter to target weapon.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

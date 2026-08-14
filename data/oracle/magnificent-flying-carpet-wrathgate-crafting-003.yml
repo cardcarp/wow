@@ -1,0 +1,31 @@
+name: Magnificent Flying Carpet
+
+origin: wrathgate-crafting-003
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: Tailoring Hero Required You can control any number of locations. When you place a resource face up, you may ready all locations you control.
+
+regulation:
+
+errata: []
+
+temp: Item Mount

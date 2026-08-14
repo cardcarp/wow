@@ -1,0 +1,22 @@
+name: Levitate
+
+origin: the-hunt-for-illidan-070
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: "Ongoing : At the start of each opponent's turn, that opponent chooses an ally in his party. That ally can't attack this turn."
+
+regulation:
+
+errata: []
+
+temp: Discipline

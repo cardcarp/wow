@@ -1,13 +1,13 @@
-oracle: bonechewer-shield-disciple
-
-lex: '032'
-
-set: black-temple-raid
+index: '032'
 
 rarity: Common
 
 artist: Dave Allsop
 
+variation: []
+
 flavor: '"Glory to the Fel Horde!"'
 
-variation: []
+oracle: bonechewer-shield-disciple-black-temple-raid-032
+
+set: Black Temple Raid

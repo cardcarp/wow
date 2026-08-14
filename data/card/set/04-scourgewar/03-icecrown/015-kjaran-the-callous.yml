@@ -1,14 +1,14 @@
-oracle: kjaran-the-callous
-
-lex: '015'
-
-set: icecrown
+index: '015'
 
 rarity: Uncommon
 
 artist: Mark Gibbons
 
-flavor: (like Beast Mastery Hero Required)
-
 variation:
   - transform
+
+flavor: (like Beast Mastery Hero Required)
+
+oracle: kjaran-the-callous-icecrown-015
+
+set: Icecrown

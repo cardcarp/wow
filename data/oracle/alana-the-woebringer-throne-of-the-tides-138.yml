@@ -1,0 +1,27 @@
+name: Alana the Woebringer
+
+origin: throne-of-the-tides-138
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 2
+
+health: 8
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: At the start of your turn, remove the top half of target opponent's deck from the game, rounded up.
+
+regulation:
+
+errata: []
+
+temp: Undead Priest

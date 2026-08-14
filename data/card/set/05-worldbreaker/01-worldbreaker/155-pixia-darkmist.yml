@@ -1,13 +1,13 @@
-oracle: pixia-darkmist
-
-lex: '155'
-
-set: worldbreaker
+index: '155'
 
 rarity: Common
 
 artist: Ittoku
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: pixia-darkmist-worldbreaker-155
+
+set: Worldbreaker

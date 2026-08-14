@@ -1,0 +1,27 @@
+name: Neferset Champion
+
+origin: tomb-of-the-forgotten-125
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Holy
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Protector , Sentinel
+
+regulation:
+
+errata: []
+
+temp: Tol'vir Paladin Warrior

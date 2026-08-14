@@ -1,13 +1,13 @@
-oracle: commander-falstaav
-
-lex: '158'
-
-set: wrathgate
+index: '158'
 
 rarity: Common
 
 artist: Eric Deschamps
 
+variation: []
+
 flavor: '"Dispatch the Scourge with all the zeal you can muster!"'
 
-variation: []
+oracle: commander-falstaav-wrathgate-158
+
+set: Wrathgate

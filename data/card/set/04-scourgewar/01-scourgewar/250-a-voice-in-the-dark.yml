@@ -1,13 +1,13 @@
-oracle: a-voice-in-the-dark
-
-lex: '250'
-
-set: scourgewar
+index: '250'
 
 rarity: Common
 
 artist: Ron Lemen
 
+variation: []
+
 flavor: "\"You really shouldn't have done that.\" - Matthias Lehner"
 
-variation: []
+oracle: a-voice-in-the-dark-scourgewar-250
+
+set: Scourgewar

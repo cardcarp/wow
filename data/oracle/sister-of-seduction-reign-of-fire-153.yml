@@ -1,0 +1,27 @@
+name: Sister of Seduction
+
+origin: reign-of-fire-153
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: ability
+    text: When this ally is destroyed, Portal .
+
+regulation:
+
+errata: []
+
+temp: Succubus Demon

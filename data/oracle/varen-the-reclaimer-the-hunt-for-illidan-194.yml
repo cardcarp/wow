@@ -1,0 +1,25 @@
+name: Varen the Reclaimer
+
+origin: the-hunt-for-illidan-194
+
+layout: standard
+
+category: Ally
+
+cost: '8'
+
+damage: 6
+
+health: 8
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: 'Scryer Reputation Sabotage: Game When Varen sabotages a game, the winner of this game also wins the next game.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

@@ -1,0 +1,27 @@
+name: Deathstalker Leanna
+
+origin: fields-of-honor-126
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Will of the Forsaken Leanna has +3 ATK while attacking an exhausted hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Undead Rogue

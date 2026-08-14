@@ -1,13 +1,13 @@
-oracle: high-inquisitor-fairbanks
-
-lex: '008'
-
-set: scarlet-monastery
+index: '008'
 
 rarity: Common
 
 artist: E.M. Gist
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: high-inquisitor-fairbanks-scarlet-monastery-008
+
+set: Scarlet Monastery

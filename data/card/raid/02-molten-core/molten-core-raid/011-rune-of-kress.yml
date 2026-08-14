@@ -1,13 +1,13 @@
-oracle: rune-of-kress
-
-lex: '011'
-
-set: molten-core-raid
+index: '011'
 
 rarity: Uncommon
 
 artist: Glenn Rane
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: rune-of-kress-molten-core-raid-011
+
+set: Molten Core Raid

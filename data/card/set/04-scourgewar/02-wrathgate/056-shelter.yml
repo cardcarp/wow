@@ -1,13 +1,13 @@
-oracle: shelter
-
-lex: '056'
-
-set: wrathgate
+index: '056'
 
 rarity: Common
 
 artist: E.M. Gist
 
+variation: []
+
 flavor: '"I will ensure your safety." - Keegana Silvershield'
 
-variation: []
+oracle: shelter-wrathgate-056
+
+set: Wrathgate

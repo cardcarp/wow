@@ -1,0 +1,22 @@
+name: Ardent Defender
+
+origin: march-of-the-legion-055
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Protection Hero Required Ongoing : Prevent all damage that would be dealt to your hero while it has 25 or more damage.'
+
+regulation:
+
+errata: []
+
+temp: Protection Talent

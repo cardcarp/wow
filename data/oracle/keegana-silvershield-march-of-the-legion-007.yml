@@ -1,0 +1,22 @@
+name: Keegana Silvershield
+
+origin: march-of-the-legion-007
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 5 , Flip Keegana → Exhaust all opposing heroes and allies. Keegana deals 1 holy damage to each of them. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

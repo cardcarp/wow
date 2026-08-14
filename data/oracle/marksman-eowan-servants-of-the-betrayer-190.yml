@@ -1,0 +1,23 @@
+name: Marksman Eowan
+
+origin: servants-of-the-betrayer-190
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 2
+
+rule:
+  - type: ability
+    text: Aldor Reputation Long-Range When an opposing ally is dealt non-ranged damage, Eowan deals 1 ranged ( ) damage to it.
+
+regulation:
+
+errata: []
+
+temp: Draenei Hunter

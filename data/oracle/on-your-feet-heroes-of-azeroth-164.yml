@@ -1,0 +1,19 @@
+name: On Your Feet
+
+origin: heroes-of-azeroth-164
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+instant: Play On Your Feet only on an opponent's turn. Ready target ally in your party. It has Protector this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

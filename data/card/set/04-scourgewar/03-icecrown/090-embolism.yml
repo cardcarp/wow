@@ -1,13 +1,13 @@
-oracle: embolism
-
-lex: '090'
-
-set: icecrown
+index: '090'
 
 rarity: Uncommon
 
 artist: Lucas Graciano
 
+variation: []
+
 flavor: "\"One cannot make magic if one's mind is unmade.\" -"
 
-variation: []
+oracle: embolism-icecrown-090
+
+set: Icecrown

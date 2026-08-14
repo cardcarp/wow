@@ -1,0 +1,25 @@
+name: Peter Hottelet
+
+origin: worldbreaker-008
+
+layout: transform
+
+category: Hero
+
+health: 30
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 4 → Flip Peter
+  - type: ability
+    position: reverse
+    text: When you strike with a Melee weapon, you may add a +1 ATK counter to it.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

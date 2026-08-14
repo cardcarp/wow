@@ -1,13 +1,13 @@
-oracle: disabling-strike
-
-lex: '018'
-
-set: monk-starter
+index: '018'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: disabling-strike-monk-starter-018
+
+set: Monk Starter

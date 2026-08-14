@@ -9,7 +9,7 @@ facet:
 
 collection: raid
 
-highlight: caverns-raid-001
+highlight: caverns-of-time-raid-001
 
 description: Co-op Raid Experience
 
@@ -27,43 +27,43 @@ total: 70
 
 list:
   hero:
-    caverns-raid-001: 1  # Aeonus
-    caverns-raid-002: 1 # Archimonde the Defiler
-    caverns-raid-003: 1 # Echo of Sylvanas
-    caverns-raid-004: 1 # Echo of Tyrande
-    caverns-raid-005: 1 # Mal_Ganis
-    caverns-raid-006: 1 # Mannoroth the Destructor
-    caverns-raid-007: 1 # Murozond
-    caverns-raid-008: 1 # Queen Azshara
+    caverns-of-time-raid-001: 1  # Aeonus
+    caverns-of-time-raid-002: 1 # Archimonde the Defiler
+    caverns-of-time-raid-003: 1 # Echo of Sylvanas
+    caverns-of-time-raid-004: 1 # Echo of Tyrande
+    caverns-of-time-raid-005: 1 # Mal'Ganis
+    caverns-of-time-raid-006: 1 # Mannoroth the Destructor
+    caverns-of-time-raid-007: 1 # Murozond
+    caverns-of-time-raid-008: 1 # Queen Azshara
   main:
-    caverns-raid-009: 2  # Carrion Swarm
-    caverns-raid-010: 2 # Distortion Bomb
-    caverns-raid-011: 2 # Doom
-    caverns-raid-012: 2 # Doomfire
-    caverns-raid-013: 2 # Felblade
-    caverns-raid-014: 2 # Howl of Azgalor
-    caverns-raid-015: 2 # Mark of Kaz_rogal
-    caverns-raid-016: 1 # Anetheron
-    caverns-raid-017: 1 # Epoch Hunter
-    caverns-raid-018: 1 # Kaz_rogal
-    caverns-raid-019: 1 # Meathook
-    caverns-raid-020: 1 # Peroth_arn
-    caverns-raid-021: 1 # Salramm the Fleshcrafter
-    caverns-raid-022: 3 # Doomguard Devastator
-    caverns-raid-023: 4 # Fel Stalker
-    caverns-raid-024: 5 # Felguard
-    caverns-raid-025: 3 # Giant Infernal
-    caverns-raid-026: 2 # Infinite Suppressor
-    caverns-raid-027: 5 # Infinite Warden
-    caverns-raid-028: 4 # Time-Twisted Footman
-    caverns-raid-029: 4 # Time-Twisted Huntress
-    caverns-raid-030: 1 # Call of the Legion
-    caverns-raid-031: 1 # Devourer of Time
-    caverns-raid-032: 1 # Dread Force
-    caverns-raid-033: 1 # Echo of Death
-    caverns-raid-034: 1 # Lord of the Pit
-    caverns-raid-035: 1 # Moonstrike
-    caverns-raid-036: 1 # Queen of Madness
-    caverns-raid-037: 1 # Raid Warning_ Annihilation
-    caverns-raid-038: 1 # Raid Warning_ Dark Summoning
-    caverns-raid-039: 1 # Time Fracture
+    caverns-of-time-raid-009: 2  # Carrion Swarm
+    caverns-of-time-raid-010: 2 # Distortion Bomb
+    caverns-of-time-raid-011: 2 # Doom
+    caverns-of-time-raid-012: 2 # Doomfire
+    caverns-of-time-raid-013: 2 # Felblade
+    caverns-of-time-raid-014: 2 # Howl of Azgalor
+    caverns-of-time-raid-015: 2 # Mark of Kaz'rogal
+    caverns-of-time-raid-016: 1 # Anetheron
+    caverns-of-time-raid-017: 1 # Epoch Hunter
+    caverns-of-time-raid-018: 1 # Kaz'rogal
+    caverns-of-time-raid-019: 1 # Meathook
+    caverns-of-time-raid-020: 1 # Peroth'arn
+    caverns-of-time-raid-021: 1 # Salramm the Fleshcrafter
+    caverns-of-time-raid-022: 3 # Doomguard Devastator
+    caverns-of-time-raid-023: 4 # Fel Stalker
+    caverns-of-time-raid-024: 5 # Felguard
+    caverns-of-time-raid-025: 3 # Giant Infernal
+    caverns-of-time-raid-026: 2 # Infinite Suppressor
+    caverns-of-time-raid-027: 5 # Infinite Warden
+    caverns-of-time-raid-028: 4 # Time-Twisted Footman
+    caverns-of-time-raid-029: 4 # Time-Twisted Huntress
+    caverns-of-time-raid-030: 1 # Call of the Legion
+    caverns-of-time-raid-031: 1 # Devourer of Time
+    caverns-of-time-raid-032: 1 # Dread Force
+    caverns-of-time-raid-033: 1 # Echo of Death
+    caverns-of-time-raid-034: 1 # Lord of the Pit
+    caverns-of-time-raid-035: 1 # Moonstrike
+    caverns-of-time-raid-036: 1 # Queen of Madness
+    caverns-of-time-raid-037: 1 # Raid Warning: Annihilation
+    caverns-of-time-raid-038: 1 # Raid Warning: Dark Summoning
+    caverns-of-time-raid-039: 1 # Time Fracture

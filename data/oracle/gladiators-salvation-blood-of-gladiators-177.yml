@@ -1,0 +1,25 @@
+name: Gladiators Salvation
+
+origin: blood-of-gladiators-177
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: x , Exhaust your hero → Prevent the next X damage that would be dealt to target hero or ally this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Arena Weapon Mace

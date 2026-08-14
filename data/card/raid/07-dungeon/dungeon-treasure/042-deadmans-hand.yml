@@ -1,13 +1,13 @@
-oracle: deadmans-hand
-
-lex: '042'
-
-set: dungeon-treasure
+index: '042'
 
 rarity: Common
 
 artist: Chris Seaman
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: deadmans-hand-dungeon-treasure-042
+
+set: Dungeon Treasure

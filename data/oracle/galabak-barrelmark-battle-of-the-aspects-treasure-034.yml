@@ -1,0 +1,27 @@
+name: Galabak Barrelmark
+
+origin: battle-of-the-aspects-treasure-034
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Allies you control have +1 ATK while attacking heroes.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

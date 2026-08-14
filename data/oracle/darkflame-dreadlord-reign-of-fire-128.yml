@@ -1,0 +1,27 @@
+name: Darkflame Dreadlord
+
+origin: reign-of-fire-128
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 4
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: ability
+    text: When another ally you control is destroyed, this ally may deal 2 shadow damage to target hero.
+
+regulation:
+
+errata: []
+
+temp: Dreadlord Demon

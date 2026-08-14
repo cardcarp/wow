@@ -1,0 +1,22 @@
+name: Pummel
+
+origin: the-hunt-for-illidan-109
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+instant: You may exhaust one of your Melee weapons rather than pay Pummel's cost. Interrupt target ability card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury

@@ -1,0 +1,27 @@
+name: High Prophet Barim
+
+origin: crown-of-the-heavens-160
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 1
+
+combat: Holy
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Other allies you control have +ATK equal to Barim's ATK and + equal to Barim's .
+
+regulation:
+
+errata: []
+
+temp: Tol'vir Paladin Priest

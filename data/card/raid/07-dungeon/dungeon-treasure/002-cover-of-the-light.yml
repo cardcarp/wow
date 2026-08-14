@@ -1,13 +1,13 @@
-oracle: cover-of-the-light
-
-lex: '002'
-
-set: dungeon-treasure
+index: '002'
 
 rarity: Common
 
 artist: Michael Kormarck
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: cover-of-the-light-dungeon-treasure-002
+
+set: Dungeon Treasure

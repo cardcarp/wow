@@ -1,0 +1,27 @@
+name: Soulseeker Huulo
+
+origin: scourgewar-154
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: This ally has Assault 1 while you control another hero or ally with Assault , and Mend 1 while you control another hero or ally with Mend .
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

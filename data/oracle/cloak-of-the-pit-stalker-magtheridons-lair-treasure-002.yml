@@ -1,0 +1,26 @@
+name: Cloak of the Pit Stalker
+
+origin: magtheridons-lair-treasure-002
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Shaman
+
+rule:
+  - type: ability
+    text: → Target attacker has -1 health this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

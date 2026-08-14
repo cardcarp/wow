@@ -1,0 +1,23 @@
+name: Fanblade Pauldrons
+
+origin: servants-of-the-betrayer-222
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: Exhaust your hero → Fanblade Pauldrons has +4 DEF this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

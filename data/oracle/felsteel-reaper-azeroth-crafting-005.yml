@@ -1,0 +1,23 @@
+name: Felsteel Reaper
+
+origin: azeroth-crafting-005
+
+layout: standard
+
+category: Equipment
+
+cost: '8'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: Felsteel Reaper has +1 ATK for each resource you have.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Axe

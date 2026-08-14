@@ -1,0 +1,26 @@
+name: Lord Godfrey - Level 4
+
+origin: shadowfang-keep-004
+
+layout: transform
+
+category: Hero
+
+damage: 0
+
+health: 50
+
+combat: Shadow
+
+type: Dungeon
+
+rule:
+  - type: ability
+    position: front
+    text: Flip 3 Assault 10 , Long-Range
+
+regulation:
+
+errata: []
+
+temp: Undead Lord

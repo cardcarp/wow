@@ -1,0 +1,28 @@
+name: Morfiel
+
+origin: through-the-dark-portal-109
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Opponents pay 1 more to play abilities.
+
+regulation:
+
+errata: []
+
+temp: Felhunter Demon

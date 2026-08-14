@@ -1,0 +1,22 @@
+name: A Final Sacrifice
+
+origin: blood-of-gladiators-078
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: Target hero or ally in your party has +3 ATK / +3 health this turn. At the start of the next turn, destroy it.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury

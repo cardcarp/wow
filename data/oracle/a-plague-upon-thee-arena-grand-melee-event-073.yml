@@ -1,0 +1,17 @@
+name: '"A Plague upon Thee!"'
+
+origin: arena-grand-melee-event-073
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: 'Ongoing : Each hero is in rabid rabbit form . (For each damage on it, it has +1 ATK while attacking an ally.)'
+
+regulation:
+
+errata: []
+
+temp: ''

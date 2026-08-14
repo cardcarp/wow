@@ -1,0 +1,27 @@
+name: Trytha Darksun
+
+origin: march-of-the-legion-205
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 1
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: At the start of each player's turn, he exhausts one of his resources.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Priest

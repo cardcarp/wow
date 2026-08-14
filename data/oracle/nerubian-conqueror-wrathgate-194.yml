@@ -1,0 +1,22 @@
+name: Nerubian Conqueror
+
+origin: wrathgate-194
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: When you strike with this weapon, your hero has Long-Range this combat. If a card would enter an opposing graveyard, remove it from the game instead.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Gun

@@ -1,0 +1,27 @@
+name: Garell Strout
+
+origin: fires-of-outland-161
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally attacks, he deals 2 fire damage to target opposing hero.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

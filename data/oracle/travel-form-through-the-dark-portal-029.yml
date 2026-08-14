@@ -1,0 +1,22 @@
+name: Travel Form
+
+origin: through-the-dark-portal-029
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: 'Ongoing : Exhaust your hero → You pay 1 less to complete your next quest this turn.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

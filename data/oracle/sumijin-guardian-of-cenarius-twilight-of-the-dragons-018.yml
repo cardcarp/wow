@@ -1,0 +1,25 @@
+name: Sumi'jin, Guardian of Cenarius
+
+origin: twilight-of-the-dragons-018
+
+layout: transform
+
+category: Hero
+
+health: 27
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 3 → Flip Sumi'jin face down.
+  - type: ability
+    position: reverse
+    text: When an ally enters play under your control, Sumi'jin may heal 1 damage from herself.
+
+regulation:
+
+errata: []
+
+temp: Troll Druid

@@ -1,13 +1,13 @@
-oracle: silent-crusader
-
-lex: '195'
-
-set: wrathgate
+index: '195'
 
 rarity: Rare
 
 artist: Matt Dixon
 
+variation: []
+
 flavor: '"Shhh ..." - Rordag the Sly'
 
-variation: []
+oracle: silent-crusader-wrathgate-195
+
+set: Wrathgate

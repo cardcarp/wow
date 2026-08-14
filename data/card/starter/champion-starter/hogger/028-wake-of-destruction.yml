@@ -1,13 +1,13 @@
-oracle: wake-of-destruction
-
-lex: '028'
-
-set: hogger
+index: '028'
 
 rarity: Uncommon
 
 artist: Matt Dixon
 
+variation: []
+
 flavor: '"Use this orb to subdue them, then direct them against our enemy." - Erunak Stonespeaker'
 
-variation: []
+oracle: wake-of-destruction-throne-of-the-tides-260
+
+set: Hogger

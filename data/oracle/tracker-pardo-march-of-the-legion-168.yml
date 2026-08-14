@@ -1,0 +1,27 @@
+name: Tracker Pardo
+
+origin: march-of-the-legion-168
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 1
+
+health: 3
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Long-Range Pardo has +1 ATK for each other ally in your party.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

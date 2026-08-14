@@ -1,0 +1,27 @@
+name: Sha'lin Nightwind
+
+origin: heroes-of-azeroth-217
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 4
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

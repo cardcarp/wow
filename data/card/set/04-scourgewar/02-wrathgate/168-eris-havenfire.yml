@@ -1,13 +1,13 @@
-oracle: eris-havenfire
-
-lex: '168'
-
-set: wrathgate
+index: '168'
 
 rarity: Epic
 
 artist: Yang Jialun (Massive Black)
 
+variation: []
+
 flavor: '"I failed once before, but perhaps you ...?"'
 
-variation: []
+oracle: eris-havenfire-wrathgate-168
+
+set: Wrathgate

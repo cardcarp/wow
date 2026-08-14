@@ -1,0 +1,17 @@
+name: '"For the Light!"'
+
+origin: arena-grand-melee-event-038
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: 'Ongoing : When a player plays an ability, he may act it out. If he does, he draws a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

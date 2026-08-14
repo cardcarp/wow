@@ -1,0 +1,27 @@
+name: Rula Blackfist
+
+origin: drums-of-war-191
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 4
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Rula enters play, remove target ally from the game if its controller has more allies than you.
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

@@ -1,0 +1,27 @@
+name: Lyshala Ravenshot
+
+origin: wrathgate-123
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: This ally has Long-Range while an opponent controls an ally with cost 4 or more.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

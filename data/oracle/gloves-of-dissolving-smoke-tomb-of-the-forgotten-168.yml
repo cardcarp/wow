@@ -1,0 +1,23 @@
+name: Gloves of Dissolving Smoke
+
+origin: tomb-of-the-forgotten-168
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: When an ally you control attacks, your hero has +1 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

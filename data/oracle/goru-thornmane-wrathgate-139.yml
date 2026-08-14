@@ -1,0 +1,27 @@
+name: Goru Thornmane
+
+origin: wrathgate-139
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 2
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Assault 2 When this ally deals damage while attacking, you may destroy target equipment.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

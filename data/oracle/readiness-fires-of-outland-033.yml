@@ -1,0 +1,22 @@
+name: Readiness
+
+origin: fires-of-outland-033
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Survival Hero Required You can play ability cards from your graveyard this turn. If an ability card would enter your graveyard this turn, remove it from the game instead.
+
+regulation:
+
+errata: []
+
+temp: Survival Talent

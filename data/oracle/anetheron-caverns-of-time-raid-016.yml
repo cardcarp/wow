@@ -1,0 +1,25 @@
+name: Anetheron
+
+origin: caverns-of-time-raid-016
+
+layout: standard
+
+category: Ally
+
+damage: 1
+
+health: 10
+
+combat: Melee
+
+type: Boss
+
+rule:
+  - type: ability
+    text: 'Boss Absorb Caverns Hero 2+ : Anetheron has Assault 1 for each Caverns hero that has been defeated.'
+
+regulation:
+
+errata: []
+
+temp: Dreadlord Demon

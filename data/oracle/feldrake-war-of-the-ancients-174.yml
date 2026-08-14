@@ -1,0 +1,27 @@
+name: Feldrake
+
+origin: war-of-the-ancients-174
+
+layout: standard
+
+category: Ally
+
+cost: '0'
+
+damage: 0
+
+health: 1
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: ability
+    text: When you place a resource face up into your resource row, this ally may deal 2 shadow damage to target hero. (Mounts can't attack or be attacked.)
+
+regulation:
+
+errata: []
+
+temp: Dragonkin Demon

@@ -1,13 +1,13 @@
-oracle: the-essence-of-enmity
-
-lex: '258'
-
-set: worldbreaker
+index: '258'
 
 rarity: Common
 
 artist: William O'Connor
 
+variation: []
+
 flavor: '"The creatures you seek swarm over the Den of Flame to the northwest and the Stonemaul Ruins to the north." - Brogg'
 
-variation: []
+oracle: the-essence-of-enmity-worldbreaker-258
+
+set: Worldbreaker

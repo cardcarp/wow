@@ -1,0 +1,22 @@
+name: Misery
+
+origin: drums-of-war-054
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: 'Shadow Hero Required Ongoing : x , → Target player puts the top X cards of his deck into his graveyard.'
+
+regulation:
+
+errata: []
+
+temp: Shadow Talent

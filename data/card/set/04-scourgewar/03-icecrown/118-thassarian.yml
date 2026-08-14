@@ -1,13 +1,13 @@
-oracle: thassarian
-
-lex: '118'
-
-set: icecrown
+index: '118'
 
 rarity: Rare
 
 artist: James Ryman
 
+variation: []
+
 flavor: '"We will have our revenge!"'
 
-variation: []
+oracle: thassarian-icecrown-118
+
+set: Icecrown

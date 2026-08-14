@@ -1,0 +1,22 @@
+name: 'Shadow Word: Despair'
+
+origin: crown-of-the-heavens-033
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+instant: Your hero deals 2 shadow damage to target ally. Remove the top two cards of that ally's controller's deck from the game.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Shadow

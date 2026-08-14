@@ -1,0 +1,22 @@
+name: 'Shadow Word: Chaos'
+
+origin: scourgewar-076
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Your hero deals 4 shadow damage to a random opposing hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Shadow

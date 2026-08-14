@@ -1,0 +1,23 @@
+name: Necessary Sacrifice
+
+origin: icecrown-094
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+  - Warlock
+
+instant: Destroy target Demon, Ghoul, or Scourge ally with cost X or less, where X is the cost of a non-hero Paladin or Warlock you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Demonology

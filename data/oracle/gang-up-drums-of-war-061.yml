@@ -1,0 +1,22 @@
+name: Gang Up
+
+origin: drums-of-war-061
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+instant: As an additional cost to play, exhaust two heroes and/or allies in your party. Destroy target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Subtlety Combo

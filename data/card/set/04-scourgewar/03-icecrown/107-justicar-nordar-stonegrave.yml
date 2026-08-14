@@ -1,13 +1,13 @@
-oracle: justicar-nordar-stonegrave
-
-lex: '107'
-
-set: icecrown
+index: '107'
 
 rarity: Uncommon
 
 artist: Daarken
 
+variation: []
+
 flavor: '"Only a fool would treat his pet as an equal and not a lesser being fit only to serve."'
 
-variation: []
+oracle: justicar-nordar-stonegrave-icecrown-107
+
+set: Icecrown

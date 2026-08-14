@@ -1,0 +1,27 @@
+name: Raso'jin
+
+origin: tomb-of-the-forgotten-109
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 0
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When this ally enters play, put two 1 / 1 Treant ally tokens into play. This ally has +1 ATK for each token ally you control.
+
+regulation:
+
+errata: []
+
+temp: Troll Druid

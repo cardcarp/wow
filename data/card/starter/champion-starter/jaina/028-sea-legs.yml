@@ -1,13 +1,13 @@
-oracle: sea-legs
-
-lex: '028'
-
-set: jaina
+index: '028'
 
 rarity: Uncommon
 
 artist: Sean O'Daniels
 
+variation: []
+
 flavor: '"With this, you should find maneuvering in the sea to be nearly effortless." - Erunak Stonespeaker'
 
-variation: []
+oracle: sea-legs-war-of-the-elements-215
+
+set: Jaina

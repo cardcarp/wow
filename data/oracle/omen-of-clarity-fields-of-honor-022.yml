@@ -1,0 +1,22 @@
+name: Omen of Clarity
+
+origin: fields-of-honor-022
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: 'Restoration Hero Required Ongoing : At the start of your turn, you may reveal the top card of your deck. If you do, you pay 2 less the next time you play or complete a card with that name this turn.'
+
+regulation:
+
+errata: []
+
+temp: Restoration Talent

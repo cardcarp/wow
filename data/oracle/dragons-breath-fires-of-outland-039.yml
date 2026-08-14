@@ -1,0 +1,22 @@
+name: Dragons Breath
+
+origin: fires-of-outland-039
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: Fire Hero Required Your hero deals 3 fire damage divided as you choose to any number of target heroes and/or allies. A character dealt damage this way loses all powers this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fire Talent

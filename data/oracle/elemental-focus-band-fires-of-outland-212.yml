@@ -1,0 +1,26 @@
+name: Elemental Focus Band
+
+origin: fires-of-outland-212
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 1 , , Discard an ability card → Your hero deals 2 fire damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

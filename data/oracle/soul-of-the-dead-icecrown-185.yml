@@ -1,0 +1,23 @@
+name: Soul of the Dead
+
+origin: icecrown-185
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 'Your hero has +1 for each soul counter. Hero : Opposing allies everywhere have " Death Rattle : Add a soul counter to this item." Hero : Opposing abilities everywhere have " Death Rattle : Add a soul counter to this item."'
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

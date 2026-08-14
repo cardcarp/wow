@@ -1,0 +1,22 @@
+name: Life Drain
+
+origin: reign-of-fire-052
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Your hero deals 6 shadow damage to target ally and heals 6 damage from itself.
+
+regulation:
+
+errata: []
+
+temp: Affliction

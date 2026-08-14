@@ -1,13 +1,13 @@
-oracle: dark-horizon
-
-lex: '253'
-
-set: scourgewar
+index: '253'
 
 rarity: Common
 
 artist: Matt Dixon
 
+variation: []
+
 flavor: "\"Freshly scourged, eh? Ya still be reekin' of da living!\" - Overlord Drakuru"
 
-variation: []
+oracle: dark-horizon-scourgewar-253
+
+set: Scourgewar

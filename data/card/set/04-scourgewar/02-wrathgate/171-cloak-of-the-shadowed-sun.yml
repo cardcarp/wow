@@ -1,13 +1,13 @@
-oracle: cloak-of-the-shadowed-sun
-
-lex: '171'
-
-set: wrathgate
+index: '171'
 
 rarity: Rare
 
 artist: Lim Hur
 
+variation: []
+
 flavor: Imbued with the energy of both the light and the darkness.
 
-variation: []
+oracle: cloak-of-the-shadowed-sun-wrathgate-171
+
+set: Wrathgate

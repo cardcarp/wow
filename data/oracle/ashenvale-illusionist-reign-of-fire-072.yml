@@ -1,0 +1,27 @@
+name: Ashenvale Illusionist
+
+origin: reign-of-fire-072
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive Spellshield
+
+regulation:
+
+errata: []
+
+temp: Night Elf Mage

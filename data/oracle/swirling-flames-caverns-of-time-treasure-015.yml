@@ -1,0 +1,22 @@
+name: Swirling Flames
+
+origin: caverns-of-time-treasure-015
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: This turn, your hero has " 1 → Your hero deals 1 fire damage to target hero or ally."
+
+regulation:
+
+errata: []
+
+temp: Fire

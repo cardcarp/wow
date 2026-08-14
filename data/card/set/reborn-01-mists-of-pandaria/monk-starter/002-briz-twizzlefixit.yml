@@ -1,13 +1,14 @@
-oracle: briz-twizzlefixit
-
-lex: '002'
-
-set: monk-starter
+index: '002'
 
 rarity: Common
 
 artist: ''
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: briz-twizzlefixit-monk-starter-002
+
+set: Monk Starter

@@ -1,0 +1,20 @@
+name: High Guardian Malosun
+
+origin: tomb-of-the-forgotten-005
+
+layout: transform
+
+category: Hero
+
+type: Monster
+
+rule:
+  - type: ability
+    position: front
+    text: "Deckbuilding: You can't put , , or Talent cards in your deck."
+
+regulation:
+
+errata: []
+
+temp: Tol'vir Paladin Priest 25

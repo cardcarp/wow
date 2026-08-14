@@ -1,0 +1,25 @@
+name: Twilight Wyrmkiller
+
+origin: twilight-of-the-dragons-165
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: When this ally enters play, if an ability, ally, or equipment was destroyed this turn, this ally has Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: Twilight Dragonkin

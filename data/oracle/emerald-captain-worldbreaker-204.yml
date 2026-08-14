@@ -1,0 +1,25 @@
+name: Emerald Captain
+
+origin: worldbreaker-204
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Nature
+
+rule:
+  - type: ability
+    text: When a resource you control is turned face down, this ally deals 1 nature damage to target hero.
+
+regulation:
+
+errata: []
+
+temp: Green Dragonkin

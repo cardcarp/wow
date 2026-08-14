@@ -1,0 +1,25 @@
+name: Torrid Abyssal
+
+origin: reign-of-fire-158
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 6
+
+health: 2
+
+combat: Fire
+
+type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Abyssal Demon

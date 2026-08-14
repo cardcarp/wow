@@ -1,0 +1,22 @@
+name: Moonshard
+
+origin: war-of-the-elements-035
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: Your hero deals 4 arcane damage to target ally.
+
+regulation:
+
+errata: []
+
+temp: Balance

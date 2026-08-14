@@ -1,0 +1,22 @@
+name: Cull the Weak
+
+origin: onyxias-lair-treasure-003
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warlock
+
+instant: Each friendly player may destroy an ally in his party. Your hero deals shadow damage to target hero equal to the combined ATK of the destroyed allies.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Demonology

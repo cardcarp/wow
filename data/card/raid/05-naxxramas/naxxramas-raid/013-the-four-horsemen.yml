@@ -1,14 +1,14 @@
-oracle: the-four-horsemen
-
-lex: '013'
-
-set: naxxramas-raid
+index: '013'
 
 rarity: Rare
 
 artist: Zoltan Boros & Gabor Szikszai
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: the-four-horsemen-naxxramas-raid-013
+
+set: Naxxramas Raid

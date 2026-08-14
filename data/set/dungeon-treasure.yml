@@ -2,7 +2,7 @@ name: Dungeon Treasure
 
 type: dungeon
 
-lex:
+index:
 
 subtotal: 60
 
@@ -10,4 +10,4 @@ total: 60
 
 date_release: 2011-11
 
-collection: dungeon
+collection: Dungeon

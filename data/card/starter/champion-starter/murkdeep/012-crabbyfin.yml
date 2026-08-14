@@ -1,13 +1,13 @@
-oracle: crabbyfin
-
-lex: '012'
-
-set: murkdeep
+index: '012'
 
 rarity: Uncommon
 
 artist: Jesper Ejsing
 
+variation: []
+
 flavor: '"Rr mgg Rlrrglmg gmmr lgmlmm Lrmmm."'
 
-variation: []
+oracle: crabbyfin-throne-of-the-tides-186
+
+set: Murkdeep

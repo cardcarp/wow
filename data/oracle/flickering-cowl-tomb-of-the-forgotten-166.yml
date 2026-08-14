@@ -1,0 +1,24 @@
+name: Flickering Cowl
+
+origin: tomb-of-the-forgotten-166
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: 'On your turn: 1 , → Target ally has +1 / -1 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

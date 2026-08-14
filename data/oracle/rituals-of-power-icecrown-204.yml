@@ -1,0 +1,22 @@
+name: Rituals of Power
+
+origin: icecrown-204
+
+layout: standard
+
+category: Quest
+
+class:
+  - Mage
+
+type: Class Restriction
+
+rule:
+  - type: ability
+    text: "Pay 1 to complete this quest. Reward : Target opposing card loses and can't have powers this turn."
+
+regulation:
+
+errata: []
+
+temp: ''

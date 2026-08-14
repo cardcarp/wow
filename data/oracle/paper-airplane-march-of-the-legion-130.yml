@@ -1,0 +1,19 @@
+name: Paper Airplane
+
+origin: march-of-the-legion-130
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+rule:
+  - type: ability
+    text: Put Paper Airplane on top of target player's deck. (He owns it for the rest of the game.)
+
+regulation:
+
+errata: []
+
+temp: ''

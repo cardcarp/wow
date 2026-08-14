@@ -1,0 +1,22 @@
+name: Shock of the Elements
+
+origin: throne-of-the-tides-073
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: As an additional cost to play this ability, you may exhaust two allies you control. Your hero deals 2 nature damage to target hero or ally, or 6 if you paid the additional cost.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental

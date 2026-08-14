@@ -1,0 +1,25 @@
+name: Felguard Marauder
+
+origin: war-of-the-ancients-175
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Felguard Demon

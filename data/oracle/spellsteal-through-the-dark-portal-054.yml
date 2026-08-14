@@ -1,0 +1,22 @@
+name: Spellsteal
+
+origin: through-the-dark-portal-054
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Gain control of target ability. If it's attached to a hero or ally, you may attach it to another hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Arcane

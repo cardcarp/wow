@@ -1,0 +1,27 @@
+name: Forager Hoofbeat
+
+origin: the-hunt-for-illidan-156
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When Hoofbeat readies, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

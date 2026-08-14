@@ -1,0 +1,17 @@
+name: In Nightmares
+
+origin: fields-of-honor-194
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'On your turn, pay 8 to complete this quest. Reward : Target opponent discards three cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

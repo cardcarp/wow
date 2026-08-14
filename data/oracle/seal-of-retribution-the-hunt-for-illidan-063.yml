@@ -1,0 +1,22 @@
+name: Seal of Retribution
+
+origin: the-hunt-for-illidan-063
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+instant: 'Ongoing : When your hero deals combat damage with a weapon, you may destroy target ally that attacked this turn. 1 , Destroy Seal of Retribution → Destroy target ally that attacked this turn.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution

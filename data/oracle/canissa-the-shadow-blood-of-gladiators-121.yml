@@ -1,0 +1,27 @@
+name: Canissa the Shadow
+
+origin: blood-of-gladiators-121
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+instant: Arcane Torrent
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

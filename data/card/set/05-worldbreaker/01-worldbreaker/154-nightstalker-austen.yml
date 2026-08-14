@@ -1,13 +1,13 @@
-oracle: nightstalker-austen
-
-lex: '154'
-
-set: worldbreaker
+index: '154'
 
 rarity: Common
 
 artist: Bob Watts
 
+variation: []
+
 flavor: '"Adapt or perish - the first law of the wild."'
 
-variation: []
+oracle: nightstalker-austen-worldbreaker-154
+
+set: Worldbreaker

@@ -1,0 +1,27 @@
+name: Kallipssa
+
+origin: through-the-dark-portal-172
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 2
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Long-Range When this ally deals combat damage to a defending ally, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Draenei Mage

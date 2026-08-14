@@ -1,0 +1,22 @@
+name: Totemic Focus
+
+origin: march-of-the-legion-102
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Restoration Hero Required Ongoing : You pay 1 less to play Totems.'
+
+regulation:
+
+errata: []
+
+temp: Restoration Talent

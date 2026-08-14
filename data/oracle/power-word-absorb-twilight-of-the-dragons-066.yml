@@ -1,0 +1,22 @@
+name: 'Power Word: Absorb'
+
+origin: twilight-of-the-dragons-066
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+instant: The next time damage would be dealt to target hero or ally this turn, prevent it. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Discipline

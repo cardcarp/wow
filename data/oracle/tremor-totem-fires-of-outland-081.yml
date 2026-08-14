@@ -1,0 +1,22 @@
+name: Tremor Totem
+
+origin: fires-of-outland-081
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: 'Ongoing : At the start of each turn, destroy any number of abilities attached to heroes and allies in your party. (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration 1

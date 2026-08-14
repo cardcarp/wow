@@ -1,0 +1,25 @@
+name: Dawnhoof Brightcaller
+
+origin: war-of-the-ancients-126
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Holy
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

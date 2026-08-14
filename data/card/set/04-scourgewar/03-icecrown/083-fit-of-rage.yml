@@ -1,13 +1,13 @@
-oracle: fit-of-rage
-
-lex: '083'
-
-set: icecrown
+index: '083'
 
 rarity: Rare
 
 artist: Adrian Smith
 
+variation: []
+
 flavor: '"My fury is my greatest weapon - well, that and my bracers, my greaves, my spaulders ..." - Fillet, Kneecapper Extraordinaire'
 
-variation: []
+oracle: fit-of-rage-icecrown-083
+
+set: Icecrown

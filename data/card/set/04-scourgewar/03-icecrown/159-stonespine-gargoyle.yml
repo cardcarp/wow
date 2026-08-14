@@ -1,13 +1,13 @@
-oracle: stonespine-gargoyle
-
-lex: '159'
-
-set: icecrown
+index: '159'
 
 rarity: Common
 
 artist: Matt Smith
 
+variation: []
+
 flavor: '"Out of nowhere, he was grabbed by stony talons and whisked away into the night sky ..." - Commander Falstaav'
 
-variation: []
+oracle: stonespine-gargoyle-icecrown-159
+
+set: Icecrown

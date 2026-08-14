@@ -1,13 +1,13 @@
-oracle: earthen-embrace
-
-lex: '096'
-
-set: worldbreaker
+index: '096'
 
 rarity: Common
 
 artist: Andrea Uderzo
 
+variation: []
+
 flavor: '"It is a blessing to be able to stand in the presence of Therazane." - Malaxia Wizwhirl'
 
-variation: []
+oracle: earthen-embrace-worldbreaker-096
+
+set: Worldbreaker

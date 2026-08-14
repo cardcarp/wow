@@ -1,0 +1,30 @@
+name: Heavy Netherweave Bandage
+
+origin: magtheridons-lair-treasure-011
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 1 , Put Heavy Netherweave Bandage on the bottom of its owner's deck → Your hero heals 6 damage from target hero or ally. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Item Bandage

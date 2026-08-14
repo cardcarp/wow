@@ -1,0 +1,19 @@
+name: Lie in Wait
+
+origin: heroes-of-azeroth-163
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+instant: Target ally has +1 ATK this turn. Target ally has -1 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

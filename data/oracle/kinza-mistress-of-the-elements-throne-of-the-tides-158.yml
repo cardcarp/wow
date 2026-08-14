@@ -1,0 +1,27 @@
+name: Kinza, Mistress of the Elements
+
+origin: throne-of-the-tides-158
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 2
+
+health: 7
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When you play a non-Ongoing ability, you may pay 2 . If you do, copy that ability. (You may choose new targets for the copy.)
+
+regulation:
+
+errata: []
+
+temp: Goblin Shaman

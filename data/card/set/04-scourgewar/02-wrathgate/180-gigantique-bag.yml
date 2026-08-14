@@ -1,13 +1,13 @@
-oracle: gigantique-bag
-
-lex: '180'
-
-set: wrathgate
+index: '180'
 
 rarity: Rare
 
 artist: Adam Byrne
 
+variation: []
+
 flavor: "\"Is your sack 'Gigantique'?!\" - Haris Pilton"
 
-variation: []
+oracle: gigantique-bag-wrathgate-180
+
+set: Wrathgate

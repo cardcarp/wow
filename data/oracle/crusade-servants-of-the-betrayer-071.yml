@@ -1,0 +1,22 @@
+name: Crusade
+
+origin: servants-of-the-betrayer-071
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Retribution Hero Required Ongoing : Your hero has +2 ATK while attacking. When your hero deals combat damage to a Demon ally, destroy it.'
+
+regulation:
+
+errata: []
+
+temp: Retribution Talent

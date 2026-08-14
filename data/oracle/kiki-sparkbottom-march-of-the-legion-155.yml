@@ -1,0 +1,27 @@
+name: Kiki Sparkbottom
+
+origin: march-of-the-legion-155
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 3
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive Long-Range
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

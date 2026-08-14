@@ -1,14 +1,14 @@
-oracle: queen-azshara
-
-lex: 027a
-
-set: timewalkers
+index: 027a
 
 rarity: Rare
 
 artist: Unknown
 
-flavor: ''
-
 variation:
   - transform
+
+flavor: ''
+
+oracle: queen-azshara-timewalkers-027
+
+set: Timewalkers

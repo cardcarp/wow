@@ -1,13 +1,13 @@
-oracle: eranikus
-
-lex: '210'
-
-set: worldbreaker
+index: '210'
 
 rarity: Rare
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor: '"I must return to her ... to protect her ..."'
 
-variation: []
+oracle: eranikus-worldbreaker-210
+
+set: Worldbreaker

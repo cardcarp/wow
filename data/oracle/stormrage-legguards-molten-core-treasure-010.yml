@@ -1,0 +1,22 @@
+name: Stormrage Legguards
+
+origin: molten-core-treasure-010
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: When you play a ability, you may pay 1 . If you do, target ally has +1 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

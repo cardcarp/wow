@@ -1,0 +1,22 @@
+name: Prey on the Weak
+
+origin: through-the-dark-portal-085
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+instant: Destroy target ally with cost 4 or less.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Assassination

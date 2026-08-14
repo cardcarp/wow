@@ -1,13 +1,13 @@
-oracle: drizzie-steelslam
-
-lex: '170'
-
-set: worldbreaker
+index: '170'
 
 rarity: Common
 
 artist: William O'Connor
 
+variation: []
+
 flavor: '"Such shoddy craftsmanship! Clearly gnomish in nature."'
 
-variation: []
+oracle: drizzie-steelslam-worldbreaker-170
+
+set: Worldbreaker

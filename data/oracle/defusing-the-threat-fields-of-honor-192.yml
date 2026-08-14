@@ -1,0 +1,17 @@
+name: Defusing the Threat
+
+origin: fields-of-honor-192
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'If an opponent completed a quest this turn, pay 1 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

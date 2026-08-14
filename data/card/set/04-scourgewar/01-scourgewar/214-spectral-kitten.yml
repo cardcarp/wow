@@ -1,13 +1,13 @@
-oracle: spectral-kitten
-
-lex: '214'
-
-set: scourgewar
+index: '214'
 
 rarity: Rare
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor: '"To see it with my own eyes ... marvelous!" - Ruby Gemsparkle'
 
-variation: []
+oracle: spectral-kitten-scourgewar-214
+
+set: Scourgewar

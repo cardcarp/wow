@@ -1,0 +1,27 @@
+name: Child of Ursoc
+
+origin: war-of-the-ancients-170
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 4
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Assault 3
+
+regulation:
+
+errata: []
+
+temp: Bear Beast

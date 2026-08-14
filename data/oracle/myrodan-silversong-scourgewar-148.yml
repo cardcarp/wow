@@ -1,0 +1,27 @@
+name: Myrodan Silversong
+
+origin: scourgewar-148
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 8
+
+health: 8
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: This ally can't attack heroes.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Rogue

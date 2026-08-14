@@ -1,13 +1,13 @@
-oracle: stifling-decree
-
-lex: '065'
-
-set: scourgewar
+index: '065'
 
 rarity: Common
 
 artist: James Zhang
 
+variation: []
+
 flavor: '"The Light does far more than just heal ..." - Aleyah Dawnborn'
 
-variation: []
+oracle: stifling-decree-scourgewar-065
+
+set: Scourgewar

@@ -1,0 +1,25 @@
+name: Ashtongue Battlelord
+
+origin: black-temple-raid-029
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: 'Traitor Hero : When Ashtongue Battlelord enters play, destroy target undamaged opposing ally. Loyal Hero : When Ashtongue Battlelord enters play, destroy all damaged opposing allies.'
+
+regulation:
+
+errata: []
+
+temp: Broken Warrior

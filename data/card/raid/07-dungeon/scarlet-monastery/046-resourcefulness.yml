@@ -1,13 +1,13 @@
-oracle: resourcefulness
-
-lex: '046'
-
-set: scarlet-monastery
+index: '046'
 
 rarity: Common
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: resourcefulness-drums-of-war-030
+
+set: Scarlet Monastery

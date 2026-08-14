@@ -1,0 +1,27 @@
+name: Woodsie Leafsong
+
+origin: drums-of-war-152
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Shadowmeld When Woodsie deals combat damage to an opponent's defending hero, you may destroy target ability or equipment he controls.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

@@ -1,13 +1,14 @@
-oracle: olgra-barrelfist
-
-lex: '010'
-
-set: monk-starter
+index: '010'
 
 rarity: Common
 
 artist: ''
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: olgra-barrelfist-monk-starter-010
+
+set: Monk Starter

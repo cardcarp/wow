@@ -1,0 +1,17 @@
+name: An Ancient Awakens
+
+origin: crown-of-the-heavens-191
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'You pay 1 less to complete this quest for each Monster hero and/or ally you control. Pay 6 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

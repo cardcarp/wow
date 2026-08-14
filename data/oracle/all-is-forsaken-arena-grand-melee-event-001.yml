@@ -1,0 +1,17 @@
+name: All Is Forsaken
+
+origin: arena-grand-melee-event-001
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: Remove all allies from the game. Each player puts all ally cards from his graveyard into play.
+
+regulation:
+
+errata: []
+
+temp: ''

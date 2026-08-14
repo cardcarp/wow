@@ -1,0 +1,17 @@
+name: All Things in Good Time
+
+origin: icecrown-207
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Nerubian Reputation Pay 8 or discard an ability, ally, and equipment to complete this quest. Reward : Draw three cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

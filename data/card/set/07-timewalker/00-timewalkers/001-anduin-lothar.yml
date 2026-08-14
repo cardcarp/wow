@@ -1,13 +1,14 @@
-oracle: anduin-lothar
-
-lex: '001'
-
-set: timewalkers
+index: '001'
 
 rarity: Rare
 
 artist: Unknown
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: anduin-lothar-timewalkers-001
+
+set: Timewalkers

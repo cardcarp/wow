@@ -1,13 +1,13 @@
-oracle: weakening-poison
-
-lex: '071'
-
-set: wrathgate
+index: '071'
 
 rarity: Uncommon
 
 artist: Zhang Lu (Massive Black)
 
+variation: []
+
 flavor: '"How easily you let your guard down." - Savitir Skullsmasher'
 
-variation: []
+oracle: weakening-poison-wrathgate-071
+
+set: Wrathgate

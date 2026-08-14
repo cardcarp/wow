@@ -1,0 +1,22 @@
+name: Master Instinct
+
+origin: drums-of-war-025
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: 'Ongoing : Your hero is in Bear Form . → This turn, your hero loses Bear Form and is in Cat Form while you control Master Instinct.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

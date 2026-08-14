@@ -1,0 +1,27 @@
+name: Wuzlo Grindergear
+
+origin: throne-of-the-tides-134
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Weapons you control have Assault 2 .
+
+regulation:
+
+errata: []
+
+temp: Gnome Warrior

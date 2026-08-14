@@ -1,13 +1,13 @@
-oracle: kelena-ashford
-
-lex: '015'
-
-set: sylvanas
+index: '015'
 
 rarity: Common
 
 artist: Guangjian Huang
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: kelena-ashford-throne-of-the-tides-157
+
+set: Sylvanas

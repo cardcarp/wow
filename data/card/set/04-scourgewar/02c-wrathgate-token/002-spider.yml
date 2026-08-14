@@ -1,13 +1,13 @@
-oracle: spider
-
-lex: '002'
-
-set: wrathgate-token
+index: '002'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: spider-wrathgate-token-002
+
+set: Wrathgate Token

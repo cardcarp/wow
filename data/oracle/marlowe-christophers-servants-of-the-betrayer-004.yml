@@ -1,0 +1,22 @@
+name: Marlowe Christophers
+
+origin: servants-of-the-betrayer-004
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 6 , Flip Marlowe → Target hero or ally has -5 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Human Warlock

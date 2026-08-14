@@ -1,0 +1,24 @@
+name: Gavel of Peroth'arn
+
+origin: war-of-the-ancients-225
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: When you play an ally with cost equal to the number of resources you control, you pay 3 less to strike with this weapon this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

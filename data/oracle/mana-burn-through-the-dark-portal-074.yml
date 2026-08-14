@@ -1,0 +1,22 @@
+name: Mana Burn
+
+origin: through-the-dark-portal-074
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Exhaust all of target player's ready resources. Your hero deals 1 shadow damage to that player's hero for each resource exhausted this way.
+
+regulation:
+
+errata: []
+
+temp: Discipline

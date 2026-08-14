@@ -1,0 +1,22 @@
+name: Ancient Moonkin Form
+
+origin: betrayal-of-the-guardian-008
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: 'Ongoing : If your hero would deal or heal damage, it deals or heals that much +1 instead. While you control five or more Ongoing abilities: → Draw a card.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Balance Moonkin Form

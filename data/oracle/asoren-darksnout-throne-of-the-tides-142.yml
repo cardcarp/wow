@@ -1,0 +1,27 @@
+name: Asoren Darksnout
+
+origin: throne-of-the-tides-142
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Tauren Death Knight

@@ -1,13 +1,13 @@
-oracle: temple-concubine
-
-lex: '042'
-
-set: black-temple-raid
+index: '042'
 
 rarity: Common
 
 artist: Jonboy Meyers
 
+variation: []
+
 flavor: '"Business ... or pleasure?"'
 
-variation: []
+oracle: temple-concubine-black-temple-raid-042
+
+set: Black Temple Raid

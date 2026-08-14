@@ -1,13 +1,13 @@
-oracle: corin-stallnorth
-
-lex: '010'
-
-set: jaina
+index: '010'
 
 rarity: Common
 
 artist: Dave Wilkins
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: corin-stallnorth-throne-of-the-tides-101
+
+set: Jaina

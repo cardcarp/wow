@@ -1,0 +1,27 @@
+name: Felwood Grovestalker
+
+origin: reign-of-fire-079
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive Stealth
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

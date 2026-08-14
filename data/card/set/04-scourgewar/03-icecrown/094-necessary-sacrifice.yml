@@ -1,13 +1,13 @@
-oracle: necessary-sacrifice
-
-lex: '094'
-
-set: icecrown
+index: '094'
 
 rarity: Uncommon
 
 artist: Michael Kormarck
 
+variation: []
+
 flavor: In the twilight, you will find all manner of contradiction.
 
-variation: []
+oracle: necessary-sacrifice-icecrown-094
+
+set: Icecrown

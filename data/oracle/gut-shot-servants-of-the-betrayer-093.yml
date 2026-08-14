@@ -1,0 +1,22 @@
+name: Gut Shot
+
+origin: servants-of-the-betrayer-093
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+instant: Traitor Hero Required As an additional cost to play, remove up to five ally cards in your graveyard from the game. Your hero deals melee damage to target hero or ally equal to 2 plus the number of cards removed this way.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Finishing Move Traitor

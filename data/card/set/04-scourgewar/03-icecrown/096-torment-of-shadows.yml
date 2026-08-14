@@ -1,13 +1,13 @@
-oracle: torment-of-shadows
-
-lex: '096'
-
-set: icecrown
+index: '096'
 
 rarity: Uncommon
 
 artist: Nils Hamm
 
+variation: []
+
 flavor: '"You dare approach me? The shadows will tear your flesh from your bones!" - Kaal Soulreaper'
 
-variation: []
+oracle: torment-of-shadows-icecrown-096
+
+set: Icecrown

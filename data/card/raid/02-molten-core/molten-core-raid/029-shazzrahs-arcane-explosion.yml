@@ -1,13 +1,13 @@
-oracle: shazzrahs-arcane-explosion
-
-lex: '029'
-
-set: molten-core-raid
+index: '029'
 
 rarity: Uncommon
 
 artist: Mike Miller
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: shazzrahs-arcane-explosion-molten-core-raid-029
+
+set: Molten Core Raid

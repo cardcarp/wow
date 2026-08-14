@@ -1,0 +1,17 @@
+name: The Root of All Evil
+
+origin: march-of-the-legion-313
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'During your turn, pay 1 to complete this quest. Reward : Turn target quest face down.'
+
+regulation:
+
+errata: []
+
+temp: ''

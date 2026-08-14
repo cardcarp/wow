@@ -1,0 +1,22 @@
+name: Redeeming Dispel
+
+origin: war-of-the-ancients-040
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: 'Choose one: Destroy target ability; or put target ally from your graveyard into your hand.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Discipline

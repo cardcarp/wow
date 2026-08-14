@@ -1,0 +1,17 @@
+name: Uldum
+
+origin: tomb-of-the-forgotten-202
+
+layout: standard
+
+category: Location
+
+rule:
+  - type: ability
+    text: '2 , → Choose one: Target weapon has +3 ATK this turn; or target armor has +3 this turn.'
+
+regulation:
+
+errata: []
+
+temp: ''

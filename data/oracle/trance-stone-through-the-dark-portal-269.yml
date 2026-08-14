@@ -1,0 +1,25 @@
+name: Trance Stone
+
+origin: through-the-dark-portal-269
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: At the end of your turn, if you didn't place a resource this turn, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Item Off-Hand

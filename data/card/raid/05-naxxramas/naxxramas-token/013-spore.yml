@@ -1,13 +1,13 @@
-oracle: spore
-
-lex: '013'
-
-set: naxxramas-token
+index: '013'
 
 rarity: Common
 
 artist: Gonzalo Ordonez
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: spore-naxxramas-token-013
+
+set: Naxxramas Token

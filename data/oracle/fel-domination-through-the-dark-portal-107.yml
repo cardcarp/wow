@@ -1,0 +1,22 @@
+name: Fel Domination
+
+origin: through-the-dark-portal-107
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Demonology Hero Required Ongoing : At the start of your turn, put a dominate counter on Fel Domination. Destroy Fel Domination → You may put a Pet card from your hand into play if its cost is less than or equal to the number of dominate counters on Fel Domination.'
+
+regulation:
+
+errata: []
+
+temp: Demonology Talent

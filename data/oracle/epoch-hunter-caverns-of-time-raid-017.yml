@@ -1,0 +1,25 @@
+name: Epoch Hunter
+
+origin: caverns-of-time-raid-017
+
+layout: standard
+
+category: Ally
+
+damage: 1
+
+health: 12
+
+combat: Melee
+
+type: Boss
+
+rule:
+  - type: ability
+    text: "Boss When Epoch Hunter enters play, the Caverns hero has +3 ATK this turn. Caverns Hero 2+ : Each Raid ability attached to a Raiding hero triggers an additional time at the start of the Caverns hero's turn."
+
+regulation:
+
+errata: []
+
+temp: Infinite Dragonkin

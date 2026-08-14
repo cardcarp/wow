@@ -1,13 +1,13 @@
-oracle: astani-dawngrace
-
-lex: '130'
-
-set: wrathgate
+index: '130'
 
 rarity: Common
 
 artist: Daren Bader
 
+variation: []
+
 flavor: '"Allow me to introduce you to the Light."'
 
-variation: []
+oracle: astani-dawngrace-wrathgate-130
+
+set: Wrathgate

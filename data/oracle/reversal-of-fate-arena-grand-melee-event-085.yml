@@ -1,0 +1,17 @@
+name: Reversal of Fate
+
+origin: arena-grand-melee-event-085
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: Players can't concede this turn. If a player would lose the game this turn, he wins instead.
+
+regulation:
+
+errata: []
+
+temp: ''

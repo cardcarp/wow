@@ -1,0 +1,27 @@
+name: Angelista
+
+origin: servants-of-the-betrayer-129
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Stealth At the end of your turn, you may put target equipment into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Human Rogue

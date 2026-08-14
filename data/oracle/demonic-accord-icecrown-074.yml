@@ -1,0 +1,22 @@
+name: Demonic Accord
+
+origin: icecrown-074
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Ongoing : On your turn: 1 , → Target ally has +1 / -1 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Affliction

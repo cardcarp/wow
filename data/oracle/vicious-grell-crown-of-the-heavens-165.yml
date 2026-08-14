@@ -1,0 +1,27 @@
+name: Vicious Grell
+
+origin: crown-of-the-heavens-165
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Fire
+
+type: Monster
+
+rule:
+  - type: ability
+    text: If this ally would be destroyed on an opponent's turn, you may pay 1 . If you do, return him to his owner's hand instead.
+
+regulation:
+
+errata: []
+
+temp: Grell

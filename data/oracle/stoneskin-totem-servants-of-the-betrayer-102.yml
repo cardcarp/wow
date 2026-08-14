@@ -1,0 +1,22 @@
+name: Stoneskin Totem
+
+origin: servants-of-the-betrayer-102
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Shaman
+
+instant: 'Ongoing : Opposing allies have -1 ATK. (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement 1

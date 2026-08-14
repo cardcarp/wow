@@ -1,0 +1,22 @@
+name: Tribemother Torra
+
+origin: blood-of-gladiators-017
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Torra → Target up to three heroes and/or allies. Torra heals 3, 2, and 1 damage from them, respectively.
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

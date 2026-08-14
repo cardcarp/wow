@@ -1,0 +1,22 @@
+name: Barkskin
+
+origin: march-of-the-legion-019
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+instant: "Ongoing : Your ability, ally, and equipment cards can't be interrupted."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Balance

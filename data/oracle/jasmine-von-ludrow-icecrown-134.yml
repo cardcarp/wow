@@ -1,0 +1,27 @@
+name: Jasmine von Ludrow
+
+origin: icecrown-134
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Frost Resistance
+
+regulation:
+
+errata: []
+
+temp: Undead Mage

@@ -1,0 +1,22 @@
+name: Precognition
+
+origin: drums-of-war-055
+
+layout: standard
+
+category: Ability
+
+cost: X
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Target opponent reveals his hand and chooses an ally card in it with cost X or less. Put that card into your party.
+
+regulation:
+
+errata: []
+
+temp: Shadow

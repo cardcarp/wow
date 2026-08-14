@@ -1,13 +1,13 @@
-oracle: azjol-anak-acidspewer
-
-lex: '202'
-
-set: scourgewar
+index: '202'
 
 rarity: Common
 
 artist: Daren Bader
 
+variation: []
+
 flavor: They prefer when their prey tries to flee.
 
-variation: []
+oracle: azjol-anak-acidspewer-scourgewar-202
+
+set: Scourgewar

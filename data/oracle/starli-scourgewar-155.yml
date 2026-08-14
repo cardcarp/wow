@@ -1,0 +1,27 @@
+name: Starli
+
+origin: scourgewar-155
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally deals damage to an ally, you may remove target weapon from the game.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

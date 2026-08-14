@@ -1,0 +1,22 @@
+name: Mutilate
+
+origin: fires-of-outland-070
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+instant: Assassination Hero Required Your hero deals melee damage to target hero or ally equal to 1 plus the combined ATK of your Daggers.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Assassination Talent Combo

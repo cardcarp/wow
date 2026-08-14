@@ -1,0 +1,19 @@
+name: Fiery Pits
+
+origin: magtheridons-lair-raid-014
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: Raiding players put 15 damage divided as they choose on any number of heroes and/or allies in their parties, putting no more than fatal damage on each character.
+
+regulation:
+
+errata: []
+
+temp: ''

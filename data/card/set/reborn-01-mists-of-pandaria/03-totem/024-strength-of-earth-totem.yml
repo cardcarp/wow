@@ -1,13 +1,13 @@
-oracle: strength-of-earth-totem
-
-lex: '024'
-
-set: totem
+index: '024'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: strength-of-earth-totem-blood-of-gladiators-065
+
+set: Totem

@@ -1,0 +1,27 @@
+name: Valthak Spiritdrinker
+
+origin: heroes-of-azeroth-263
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Your hero can't be destroyed.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

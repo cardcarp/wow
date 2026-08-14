@@ -1,0 +1,27 @@
+name: Syluri
+
+origin: march-of-the-legion-166
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 0
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector , Destroy Syluri → Destroy target equipment.
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

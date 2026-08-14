@@ -1,0 +1,22 @@
+name: Sacrificial Poison
+
+origin: servants-of-the-betrayer-095
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: "Traitor Hero Required Attach to target hero that your hero dealt combat damage to this turn. Ongoing : At the start of attached hero's controller's turn, he destroys an ally in his party."
+
+regulation:
+
+errata: []
+
+temp: Poison Traitor

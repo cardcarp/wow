@@ -1,0 +1,22 @@
+name: Natural Genesis
+
+origin: march-of-the-legion-026
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: 'Ongoing : Each player may place an additional resource during his turn.'
+
+regulation:
+
+errata: []
+
+temp: Restoration

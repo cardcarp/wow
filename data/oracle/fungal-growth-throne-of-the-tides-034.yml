@@ -1,0 +1,22 @@
+name: Fungal Growth
+
+origin: throne-of-the-tides-034
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: 'Balance Talent Ongoing : At the end of your turn, you may put a 5 / 5 Fungal Behemoth ally token into play if you control five or more allies. Otherwise, you may put a 1 / 1 Treant ally token into play.'
+
+regulation:
+
+errata: []
+
+temp: Balance

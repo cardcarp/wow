@@ -1,0 +1,25 @@
+name: Azaloth
+
+origin: the-hunt-for-illidan-197
+
+layout: standard
+
+category: Ally
+
+cost: '12'
+
+damage: 50
+
+health: 50
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: When Azaloth enters play, choose an opponent. That opponent puts five Warlock ally tokens with 0 ATK / 5 health into play. Azaloth can't attack while any of those tokens are in play.
+
+regulation:
+
+errata: []
+
+temp: Pit Lord Demon

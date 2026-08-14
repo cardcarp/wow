@@ -1,0 +1,27 @@
+name: Caretaker Mooncrier
+
+origin: march-of-the-legion-142
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Ready allies in your party have +2 ATK.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

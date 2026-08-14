@@ -1,13 +1,13 @@
-oracle: astral-denial
-
-lex: '052'
-
-set: scourgewar
+index: '052'
 
 rarity: Uncommon
 
 artist: Massive Black
 
+variation: []
+
 flavor: '"Let me give you a life lesson: never put all your eggs in one basket." - Spellweaver Jihan'
 
-variation: []
+oracle: astral-denial-scourgewar-052
+
+set: Scourgewar

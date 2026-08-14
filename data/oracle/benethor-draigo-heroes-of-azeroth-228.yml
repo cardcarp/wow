@@ -1,0 +1,25 @@
+name: Benethor Draigo
+
+origin: heroes-of-azeroth-228
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 4
+
+health: 2
+
+combat: Fire
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Undead Mage

@@ -1,0 +1,22 @@
+name: Telrander
+
+origin: through-the-dark-portal-007
+
+layout: transform
+
+category: Hero
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Telrander → Ready Telrander. Use only while he's in cat form.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

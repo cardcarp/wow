@@ -1,0 +1,22 @@
+name: Eye of Kilrogg
+
+origin: through-the-dark-portal-105
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Look at target opponent's hand and choose a card. Remove that card from the game.
+
+regulation:
+
+errata: []
+
+temp: Demonology

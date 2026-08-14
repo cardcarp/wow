@@ -1,13 +1,13 @@
-oracle: emberstone-staff
-
-lex: '049'
-
-set: dungeon-treasure
+index: '049'
 
 rarity: Uncommon
 
 artist: Matt Steward
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: emberstone-staff-dungeon-treasure-049
+
+set: Dungeon Treasure

@@ -1,0 +1,27 @@
+name: Anduros Silversong
+
+origin: scourgewar-126
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 5
+
+health: 5
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: This ally can't attack heroes.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

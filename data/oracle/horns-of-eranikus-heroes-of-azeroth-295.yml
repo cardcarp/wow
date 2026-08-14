@@ -1,0 +1,23 @@
+name: Horns of Eranikus
+
+origin: heroes-of-azeroth-295
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: At the start of your turn, you may pay 1 . If you do, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

@@ -1,0 +1,27 @@
+name: Catarina Clark
+
+origin: drums-of-war-116
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 1
+
+health: 6
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector → Catarina heals 4 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

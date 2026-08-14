@@ -1,0 +1,22 @@
+name: Hibernate
+
+origin: drums-of-war-023
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: Put target non-token ally into its owner's resource row face down, then exhaust it.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Balance

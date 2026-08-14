@@ -1,0 +1,22 @@
+name: Fire and Brimstone
+
+origin: crown-of-the-heavens-047
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Destruction Talent Destroy target ability, ally, or equipment.
+
+regulation:
+
+errata: []
+
+temp: Destruction

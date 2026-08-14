@@ -1,0 +1,22 @@
+name: Whirlwind Weapon
+
+origin: scourgewar-266
+
+layout: standard
+
+category: Quest
+
+class:
+  - Warrior
+
+type: Class Restriction
+
+rule:
+  - type: ability
+    text: 'On your turn: Pay 5 to complete this quest. Reward : Your hero deals X melee damage to each opposing ally, where X is the ATK of a Melee weapon you control.'
+
+regulation:
+
+errata: []
+
+temp: ''

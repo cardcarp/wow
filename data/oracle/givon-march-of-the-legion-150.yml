@@ -1,0 +1,27 @@
+name: Givon
+
+origin: march-of-the-legion-150
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Opposing allies have -2 ATK while in combat with Givon.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

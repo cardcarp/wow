@@ -1,0 +1,22 @@
+name: Shadowform
+
+origin: heroes-of-azeroth-088
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: 'Shadow Hero Required Ongoing : If your hero would deal shadow damage, it deals that amount of damage plus 1 instead. When you play a Holy ability, destroy Shadowform.'
+
+regulation:
+
+errata: []
+
+temp: Shadow Talent

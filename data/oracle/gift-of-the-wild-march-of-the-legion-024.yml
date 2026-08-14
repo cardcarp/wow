@@ -1,0 +1,22 @@
+name: Gift of the Wild
+
+origin: march-of-the-legion-024
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Druid
+
+instant: 'Ongoing : Allies you control have +2 / +2.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

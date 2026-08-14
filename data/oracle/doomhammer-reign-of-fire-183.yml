@@ -1,0 +1,26 @@
+name: Doomhammer
+
+origin: reign-of-fire-183
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Priest
+  - Warrior
+  - Druid
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: Allies you control with restriction tags have +3 / +3. (Examples of restriction tags on allies include Pet (1), Thrall (1), Totem (1) and Unique.)
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

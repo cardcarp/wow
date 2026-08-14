@@ -1,0 +1,23 @@
+name: Shield of Distortion
+
+origin: scourgewar-120
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Death Knight
+  - Mage
+
+instant: Prevent all non-melee (non- ) damage that would be dealt to target hero or ally this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Unholy Arcane

@@ -1,0 +1,22 @@
+name: Healing Stream Totem
+
+origin: heroes-of-azeroth-111
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Shaman
+
+instant: 'Totem Ongoing : At the start of each turn, Healing Stream Totem heals 1 damage from each hero and ally in your party.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration 1

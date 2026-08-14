@@ -1,13 +1,13 @@
-oracle: steady-shot
-
-lex: '048'
-
-set: worldbreaker
+index: '048'
 
 rarity: Uncommon
 
 artist: Steve Prescott
 
+variation: []
+
 flavor: '"Draw ... inhale ... exhale ... release." - Amaria Kelsur'
 
-variation: []
+oracle: steady-shot-worldbreaker-048
+
+set: Worldbreaker

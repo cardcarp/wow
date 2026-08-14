@@ -1,0 +1,25 @@
+name: Emerald Acidspewer
+
+origin: worldbreaker-203
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Nature
+
+rule:
+  - type: ability
+    text: When a resource you control is turned face down, you may have target player shuffle his graveyard into his deck.
+
+regulation:
+
+errata: []
+
+temp: Green Dragonkin

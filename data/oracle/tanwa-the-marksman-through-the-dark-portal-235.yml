@@ -1,0 +1,27 @@
+name: Tanwa the Marksman
+
+origin: through-the-dark-portal-235
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 3
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Long-Range
+
+regulation:
+
+errata: []
+
+temp: Tauren Hunter

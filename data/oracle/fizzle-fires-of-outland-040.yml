@@ -1,0 +1,22 @@
+name: Fizzle
+
+origin: fires-of-outland-040
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Mage
+
+instant: Interrupt target ability card with cost 3 or less.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

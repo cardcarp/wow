@@ -1,0 +1,25 @@
+name: Meathook
+
+origin: caverns-of-time-raid-019
+
+layout: standard
+
+category: Ally
+
+damage: 2
+
+health: 11
+
+combat: Melee
+
+type: Boss
+
+rule:
+  - type: ability
+    text: 'Boss When Meathook enters play, exhaust all Raiding heroes and allies. Caverns Hero 2+ : Raiding allies that can attack must attack Meathook if able.'
+
+regulation:
+
+errata: []
+
+temp: Abomination

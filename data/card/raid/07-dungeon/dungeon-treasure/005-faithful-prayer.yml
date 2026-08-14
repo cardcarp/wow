@@ -1,13 +1,13 @@
-oracle: faithful-prayer
-
-lex: '005'
-
-set: dungeon-treasure
+index: '005'
 
 rarity: Common
 
 artist: Gonzalo Ordonez
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: faithful-prayer-dungeon-treasure-005
+
+set: Dungeon Treasure

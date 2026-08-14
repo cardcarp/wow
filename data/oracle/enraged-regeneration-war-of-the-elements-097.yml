@@ -1,0 +1,22 @@
+name: Enraged Regeneration
+
+origin: war-of-the-elements-097
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Ongoing : When your hero deals combat damage with a weapon while attacking, it heals 3 damage from itself.'
+
+regulation:
+
+errata: []
+
+temp: Fury

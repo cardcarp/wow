@@ -1,0 +1,25 @@
+name: Metzen the Reindeer
+
+origin: feast-of-winter-veil-2007-006
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 0
+
+health: 2
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Elusive When Metzen enters play, target opponent puts three Pirate ally tokens with 1 ATK / 1 health into play. → Ready target hero or ally. Use only if no Pirates are in play.
+
+regulation:
+
+errata: []
+
+temp: Reindeer

@@ -1,13 +1,13 @@
-oracle: raze
-
-lex: '070'
-
-set: wrathgate
+index: '070'
 
 rarity: Rare
 
 artist: Mike Hayes
 
+variation: []
+
 flavor: '"Safety in numbers is just an illusion." - Daspien Bladedancer'
 
-variation: []
+oracle: raze-wrathgate-070
+
+set: Wrathgate

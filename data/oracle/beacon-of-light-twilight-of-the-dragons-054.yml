@@ -1,0 +1,22 @@
+name: Beacon of Light
+
+origin: twilight-of-the-dragons-054
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: 'Holy Talent Attach to target ally. Ongoing : When damage is healed from a hero or ally you control, add that many light counters to this ability. Attached ally has +1 / +1 for each light counter on this ability.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

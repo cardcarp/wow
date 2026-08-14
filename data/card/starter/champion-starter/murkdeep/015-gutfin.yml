@@ -1,13 +1,13 @@
-oracle: gutfin
-
-lex: '015'
-
-set: murkdeep
+index: '015'
 
 rarity: Common
 
 artist: Ittoku
 
+variation: []
+
 flavor: '"Mrmmmmrm Lgmlmm Lmmmlrmrrr Mrrrgl."'
 
-variation: []
+oracle: gutfin-crown-of-the-heavens-151
+
+set: Murkdeep

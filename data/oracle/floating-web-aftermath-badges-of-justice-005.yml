@@ -1,0 +1,24 @@
+name: Floating Web
+
+origin: aftermath-badges-of-justice-005
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: When this armor enters or leaves play, add a +1 counter to this and each other armor you control.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

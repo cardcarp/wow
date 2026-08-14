@@ -1,13 +1,13 @@
-oracle: bloodied-arcanite-reaper
-
-lex: '236'
-
-set: worldbreaker
+index: '236'
 
 rarity: Rare
 
 artist: Efrem Palacios
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: bloodied-arcanite-reaper-worldbreaker-236
+
+set: Worldbreaker

@@ -1,0 +1,28 @@
+name: Jek'kresh
+
+origin: scourgewar-098
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 5
+
+combat: Melee
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Protector , Shadow Resistance Death Rattle : Target ally you control has Shadow Resistance this turn.'
+
+regulation:
+
+errata: []
+
+temp: Voidwalker Demon

@@ -1,0 +1,24 @@
+name: Axe of the Legion
+
+origin: march-of-the-legion-274
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Warrior
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: Your other Axes have +2 ATK. Your hero has Dual Wield .
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

@@ -1,0 +1,31 @@
+name: Bottled Light
+
+origin: throne-of-the-tides-234
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'When this item enters play, put target ally with cost 2 or less from your graveyard into play. On your turn: Exhaust a Paladin hero or ally you control and destroy this item → Put target ally with cost 2 or less from your graveyard into play.'
+
+regulation:
+
+errata: []
+
+temp: Item Potion

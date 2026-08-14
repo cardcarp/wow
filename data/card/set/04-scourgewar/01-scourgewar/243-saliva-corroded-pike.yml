@@ -1,13 +1,13 @@
-oracle: saliva-corroded-pike
-
-lex: '243'
-
-set: scourgewar
+index: '243'
 
 rarity: Uncommon
 
 artist: Volkan Baga
 
+variation: []
+
 flavor: The awful smell is just the beginning.
 
-variation: []
+oracle: saliva-corroded-pike-scourgewar-243
+
+set: Scourgewar

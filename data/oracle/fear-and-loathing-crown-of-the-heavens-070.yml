@@ -1,0 +1,19 @@
+name: Fear and Loathing
+
+origin: crown-of-the-heavens-070
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+instant: "Empower Hunter : If you control a Hunter hero or ally, destroy target opposing ally that entered play this turn. Empower Warlock : If you control a Warlock hero or ally, put target opposing ally into its owner's hand."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

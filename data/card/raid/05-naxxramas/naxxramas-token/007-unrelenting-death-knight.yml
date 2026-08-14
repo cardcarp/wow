@@ -1,13 +1,13 @@
-oracle: unrelenting-death-knight
-
-lex: '007'
-
-set: naxxramas-token
+index: '007'
 
 rarity: Common
 
 artist: Alexander Garner
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: unrelenting-death-knight-naxxramas-token-007
+
+set: Naxxramas Token

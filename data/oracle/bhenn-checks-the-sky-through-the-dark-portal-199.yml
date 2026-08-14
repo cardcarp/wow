@@ -1,0 +1,27 @@
+name: Bhenn Checks-the-Sky
+
+origin: through-the-dark-portal-199
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 1
+
+combat: Nature
+
+faction: Horde
+
+instant: When this ally enters play, you may exhaust target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

@@ -1,0 +1,22 @@
+name: Conjure Elementals
+
+origin: war-of-the-ancients-024
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, you may pay 2 . If you do, put a 2 / 2 Water Elemental ally token into play. Otherwise, destroy this ability.'
+
+regulation:
+
+errata: []
+
+temp: Frost

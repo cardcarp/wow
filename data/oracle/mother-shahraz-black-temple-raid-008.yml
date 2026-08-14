@@ -1,0 +1,25 @@
+name: Mother Shahraz
+
+origin: black-temple-raid-008
+
+layout: transform
+
+category: Hero
+
+type: Boss
+
+stage: 7
+
+rule:
+  - type: ability
+    position: front
+    text: Shahraz has +4 ATK while attacking. When Shahraz deals combat damage to a hero or ally, she also deals that much melee damage to each of up to two other target heroes and/or allies. When Shahraz is dealt damage, flip her if she has 15 or more damage.
+  - type: ability
+    position: reverse
+    text: Shahraz has +7 ATK while attacking. 1 → Shahraz deals 1 shadow damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Shivan Demon Traitor 20

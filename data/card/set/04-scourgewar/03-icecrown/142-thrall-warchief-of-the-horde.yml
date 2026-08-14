@@ -1,13 +1,13 @@
-oracle: thrall-warchief-of-the-horde
-
-lex: '142'
-
-set: icecrown
+index: '142'
 
 rarity: Epic
 
 artist: Greg Capullo
 
+variation: []
+
 flavor: '"Be bathed in my power! Drink in my might! Battle for the glory of the Horde!"'
 
-variation: []
+oracle: thrall-warchief-of-the-horde-icecrown-142
+
+set: Icecrown

@@ -1,13 +1,13 @@
-oracle: bubblegil
-
-lex: '010'
-
-set: murkdeep
+index: '010'
 
 rarity: Uncommon
 
 artist: Arthur Gimaldinov
 
+variation: []
+
 flavor: '"Lmmmlgml Mmgrrrmrm Lmrrlrmm Mrlmgmgg lgmlmm Lgrrlmm."'
 
-variation: []
+oracle: bubblegil-throne-of-the-tides-184
+
+set: Murkdeep

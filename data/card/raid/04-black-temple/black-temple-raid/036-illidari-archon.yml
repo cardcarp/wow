@@ -1,13 +1,13 @@
-oracle: illidari-archon
-
-lex: '036'
-
-set: black-temple-raid
+index: '036'
 
 rarity: Common
 
 artist: Andrea Uderzo
 
+variation: []
+
 flavor: Their souls are committed to the darkest of purposes.
 
-variation: []
+oracle: illidari-archon-black-temple-raid-036
+
+set: Black Temple Raid

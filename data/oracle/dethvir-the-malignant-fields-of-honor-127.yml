@@ -1,0 +1,27 @@
+name: Dethvir the Malignant
+
+origin: fields-of-honor-127
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 5
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Undead Hero Required Will of the Forsaken If another hero or ally in your party would be dealt damage, you may have it be dealt to Dethvir instead.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

@@ -1,0 +1,27 @@
+name: Weeble
+
+origin: march-of-the-legion-170
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When Weeble enters play, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warrior

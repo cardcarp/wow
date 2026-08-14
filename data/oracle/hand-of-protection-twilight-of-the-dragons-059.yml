@@ -1,0 +1,22 @@
+name: Hand of Protection
+
+origin: twilight-of-the-dragons-059
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: The next time target ally would be dealt damage this turn, prevent it.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

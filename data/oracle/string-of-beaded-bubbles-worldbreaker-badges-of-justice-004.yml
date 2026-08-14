@@ -1,0 +1,26 @@
+name: String of Beaded Bubbles
+
+origin: worldbreaker-badges-of-justice-004
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'As this item enters play, choose arcane, fire, frost, or nature. On your turn: 2 → Your hero deals 1 damage of the chosen type to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Item Neck

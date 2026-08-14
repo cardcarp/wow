@@ -1,0 +1,27 @@
+name: Spelunker Maddocks
+
+origin: fields-of-honor-117
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 0
+
+health: 0
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Dwarf Hero Required Find Treasure Maddocks has +1 ATK / +1 health for each card in your graveyard.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Rogue

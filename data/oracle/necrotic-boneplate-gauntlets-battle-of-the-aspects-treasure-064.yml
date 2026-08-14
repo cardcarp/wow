@@ -1,0 +1,22 @@
+name: Necrotic Boneplate Gauntlets
+
+origin: battle-of-the-aspects-treasure-064
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: When an ally is destroyeed, you may add a +1 counter to this armor.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

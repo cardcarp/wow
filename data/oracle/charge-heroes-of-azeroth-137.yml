@@ -1,0 +1,22 @@
+name: Charge
+
+origin: heroes-of-azeroth-137
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: Exhaust target hero or ally. Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Arms

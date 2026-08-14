@@ -1,0 +1,27 @@
+name: Elder Tomas
+
+origin: blood-of-gladiators-097
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Inspiring Presence → Ready another target ally.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

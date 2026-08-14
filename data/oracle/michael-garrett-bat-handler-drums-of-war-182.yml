@@ -1,0 +1,27 @@
+name: Michael Garrett, Bat Handler
+
+origin: drums-of-war-182
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Michael enters play, reveal the top four cards of your deck. Put a revealed location card into hand and the rest on the bottom of your deck. Michael has +1 ATK / +1 health while you have a location.
+
+regulation:
+
+errata: []
+
+temp: Undead Flight Master

@@ -1,13 +1,13 @@
-oracle: anathel-the-eagle-eye
-
-lex: '009'
-
-set: jaina
+index: '009'
 
 rarity: Rare
 
 artist: Maria Trepalina
 
+variation: []
+
 flavor: One target ... one shot ... one corpse.
 
-variation: []
+oracle: anathel-the-eagle-eye-crown-of-the-heavens-075
+
+set: Jaina

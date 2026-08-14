@@ -1,0 +1,27 @@
+name: Vorden the Shadowbringer
+
+origin: fires-of-outland-191
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 3
+
+health: 3
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Vorden enters play, destroy any number of allies in your party, then destroy an opposing ally for each ally destroyed this way.
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

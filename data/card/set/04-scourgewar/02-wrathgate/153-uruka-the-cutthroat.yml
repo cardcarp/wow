@@ -1,13 +1,13 @@
-oracle: uruka-the-cutthroat
-
-lex: '153'
-
-set: wrathgate
+index: '153'
 
 rarity: Rare
 
 artist: Raymond Swanland
 
+variation: []
+
 flavor: '"The secret is out, mon."'
 
-variation: []
+oracle: uruka-the-cutthroat-wrathgate-153
+
+set: Wrathgate

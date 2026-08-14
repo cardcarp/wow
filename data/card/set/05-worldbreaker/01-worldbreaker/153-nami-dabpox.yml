@@ -1,13 +1,13 @@
-oracle: nami-dabpox
-
-lex: '153'
-
-set: worldbreaker
+index: '153'
 
 rarity: Common
 
 artist: Matt Dixon
 
+variation: []
+
 flavor: "\"It's easy to underestimate what you can't see.\""
 
-variation: []
+oracle: nami-dabpox-worldbreaker-153
+
+set: Worldbreaker

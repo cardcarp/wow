@@ -1,0 +1,22 @@
+name: Touch of Ice
+
+origin: march-of-the-legion-052
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Mage
+
+instant: Your hero deals 1 frost damage to target hero or ally. If a hero is dealt damage this way, the next time its controller would draw a card this turn, he skips drawing that card instead.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost

@@ -1,13 +1,13 @@
-oracle: arcane-tactics
-
-lex: '051'
-
-set: scourgewar
+index: '051'
 
 rarity: Common
 
 artist: Alan Pollack
 
+variation: []
+
 flavor: Arcane magic is the quintessential combination of spell power and efficiency.
 
-variation: []
+oracle: arcane-tactics-scourgewar-051
+
+set: Scourgewar

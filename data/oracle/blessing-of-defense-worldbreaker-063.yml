@@ -1,0 +1,22 @@
+name: Blessing of Defense
+
+origin: worldbreaker-063
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +5 ATK while defending.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Blessing

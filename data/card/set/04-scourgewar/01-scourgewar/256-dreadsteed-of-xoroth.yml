@@ -1,13 +1,13 @@
-oracle: dreadsteed-of-xoroth
-
-lex: '256'
-
-set: scourgewar
+index: '256'
 
 rarity: Uncommon
 
 artist: Massive Black
 
+variation: []
+
 flavor: "\"This quest will be perilous, but a warlock of your stature does not shy from danger!\" - Mor'zul Bloodbringer"
 
-variation: []
+oracle: dreadsteed-of-xoroth-scourgewar-256
+
+set: Scourgewar

@@ -1,0 +1,27 @@
+name: Sand Scarab
+
+origin: tomb-of-the-forgotten-160
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: If an opposing ally would be destroyed, you may remove it from the game instead.
+
+regulation:
+
+errata: []
+
+temp: Scarab

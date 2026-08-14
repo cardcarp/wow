@@ -1,0 +1,17 @@
+name: The Masters Touch
+
+origin: betrayal-of-the-guardian-197
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 4 to complete this quest. Reward : Reveal the top two cards of your deck. Put one into your hand and the other into your graveyard.'
+
+regulation:
+
+errata: []
+
+temp: ''

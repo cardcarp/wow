@@ -1,14 +1,14 @@
-oracle: the-lich-king
-
-lex: '016'
-
-set: icecrown
+index: '016'
 
 rarity: Rare
 
 artist: Ben Thompson
 
-flavor: 'Front: "Come then, champions! Feed me your rage!" Back: "Apocalypse!"'
-
 variation:
   - transform
+
+flavor: 'Front: "Come then, champions! Feed me your rage!" Back: "Apocalypse!"'
+
+oracle: the-lich-king-icecrown-016
+
+set: Icecrown

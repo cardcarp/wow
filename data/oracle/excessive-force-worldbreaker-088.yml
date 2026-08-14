@@ -1,0 +1,22 @@
+name: Excessive Force
+
+origin: worldbreaker-088
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Target ally has +3 ATK this turn. Target ally has -3 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Combat

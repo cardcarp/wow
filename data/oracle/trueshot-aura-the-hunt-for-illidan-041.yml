@@ -1,0 +1,22 @@
+name: Trueshot Aura
+
+origin: the-hunt-for-illidan-041
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'Marksmanship Hero Required Ongoing : allies in your party have +2 ATK while attacking. Your Ranged weapons have +2 ATK while your hero is attacking. If your hero would deal ranged damage with an ability, it deals that much +2 instead.'
+
+regulation:
+
+errata: []
+
+temp: Marksmanship Talent

@@ -1,13 +1,13 @@
-oracle: frostbolt
-
-lex: '004'
-
-set: jaina
+index: '004'
 
 rarity: Uncommon
 
 artist: Steve Ellis
 
+variation: []
+
 flavor: '"Wearing heavy plate is taxing enough without having to lug around another eighty pounds of ice." - Warrax'
 
-variation: []
+oracle: frostbolt-heroes-of-azeroth-056
+
+set: Jaina

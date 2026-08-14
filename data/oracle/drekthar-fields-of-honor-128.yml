@@ -1,0 +1,27 @@
+name: Drek'Thar
+
+origin: fields-of-honor-128
+
+layout: standard
+
+category: Ally
+
+cost: '14'
+
+damage: 7
+
+health: 9
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector You pay 1 less to play Drek'Thar for each honor counter on cards you control. 1 , Remove an honor counter from a card you control → Put a Wolf ally token into play with 1 ATK / 1 health and Ferocity .
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

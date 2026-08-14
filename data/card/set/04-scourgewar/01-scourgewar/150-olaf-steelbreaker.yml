@@ -1,13 +1,13 @@
-oracle: olaf-steelbreaker
-
-lex: '150'
-
-set: scourgewar
+index: '150'
 
 rarity: Common
 
 artist: Steve Ellis
 
+variation: []
+
 flavor: '"Without preparation and planning, there can be no victory!"'
 
-variation: []
+oracle: olaf-steelbreaker-scourgewar-150
+
+set: Scourgewar

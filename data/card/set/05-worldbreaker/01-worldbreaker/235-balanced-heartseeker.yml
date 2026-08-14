@@ -1,13 +1,13 @@
-oracle: balanced-heartseeker
-
-lex: '235'
-
-set: worldbreaker
+index: '235'
 
 rarity: Rare
 
 artist: Doug Alexander
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: balanced-heartseeker-worldbreaker-235
+
+set: Worldbreaker

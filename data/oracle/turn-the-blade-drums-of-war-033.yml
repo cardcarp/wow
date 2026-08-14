@@ -1,0 +1,22 @@
+name: Turn the Blade
+
+origin: drums-of-war-033
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'Attach to target ally or weapon. Ongoing : Attached card has -3 ATK.'
+
+regulation:
+
+errata: []
+
+temp: Survival

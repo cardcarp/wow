@@ -1,13 +1,13 @@
-oracle: wrath-of-ragnaros
-
-lex: '053'
-
-set: molten-core-raid
+index: '053'
 
 rarity: Uncommon
 
 artist: Michael Kormarck
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: wrath-of-ragnaros-molten-core-raid-053
+
+set: Molten Core Raid

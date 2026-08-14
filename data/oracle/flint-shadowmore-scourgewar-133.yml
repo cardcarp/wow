@@ -1,0 +1,27 @@
+name: Flint Shadowmore
+
+origin: scourgewar-133
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 5
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: If this ally would deal combat damage, he may deal that much divided as you choose among any number of opposing heroes and/or allies instead.
+
+regulation:
+
+errata: []
+
+temp: Human Rogue

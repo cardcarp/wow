@@ -1,0 +1,27 @@
+name: Spirit of Stormrage
+
+origin: the-hunt-for-illidan-140
+
+layout: standard
+
+category: Ally
+
+cost: '9'
+
+damage: 0
+
+health: 12
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Untargetable → Search your deck for a card and put it into hand.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid Spirit

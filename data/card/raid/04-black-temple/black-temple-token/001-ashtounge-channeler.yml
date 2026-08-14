@@ -1,13 +1,13 @@
-oracle: ashtounge-channeler
-
-lex: '001'
-
-set: black-temple-token
+index: '001'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: ashtounge-channeler-black-temple-token-001
+
+set: Black Temple Token

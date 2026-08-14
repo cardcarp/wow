@@ -1,0 +1,27 @@
+name: Jinie Swizzleshade
+
+origin: worldbreaker-142
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 4
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive
+
+regulation:
+
+errata: []
+
+temp: Gnome Priest

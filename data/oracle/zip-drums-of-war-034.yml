@@ -1,0 +1,28 @@
+name: Zip
+
+origin: drums-of-war-034
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Ferocity
+
+regulation:
+
+errata: []
+
+temp: Tallstrider

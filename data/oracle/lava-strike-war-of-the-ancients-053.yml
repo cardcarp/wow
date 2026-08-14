@@ -1,0 +1,22 @@
+name: Lava Strike
+
+origin: war-of-the-ancients-053
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: Target up to two heroes and/or allies. Your hero deals 2 melee damage to the first and 1 fire damage to the second.
+
+regulation:
+
+errata: []
+
+temp: Enhancement

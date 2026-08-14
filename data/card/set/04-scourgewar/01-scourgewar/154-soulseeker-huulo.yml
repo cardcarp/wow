@@ -1,13 +1,13 @@
-oracle: soulseeker-huulo
-
-lex: '154'
-
-set: scourgewar
+index: '154'
 
 rarity: Common
 
 artist: James Zhang
 
+variation: []
+
 flavor: '"Although I prefer the shadows, I have not turned my back on the Light."'
 
-variation: []
+oracle: soulseeker-huulo-scourgewar-154
+
+set: Scourgewar

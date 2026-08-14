@@ -1,0 +1,27 @@
+name: Leafbeard, Ancient of Lore
+
+origin: war-of-the-ancients-187
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 6
+
+combat: Nature
+
+type: Monster
+
+rule:
+  - type: ability
+    text: When this ally enters play, if your hero is a Monster, you may exhaust target ally. It can't ready during its controller's next ready step.
+
+regulation:
+
+errata: []
+
+temp: Ancient Druid

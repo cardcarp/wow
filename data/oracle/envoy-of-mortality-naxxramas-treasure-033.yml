@@ -1,0 +1,22 @@
+name: Envoy of Mortality
+
+origin: naxxramas-treasure-033
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: When you strike with this weapon, your hero has Long-Range this combat. When your hero deals damage with this weapon, it also deals that much ranged damage to target friendly hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Gun

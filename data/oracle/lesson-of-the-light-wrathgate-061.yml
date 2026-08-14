@@ -1,0 +1,22 @@
+name: Lesson of the Light
+
+origin: wrathgate-061
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+instant: You may exhaust a non-hero Priest you control rather than pay this ability's cost. Your hero deals 2 unpreventable holy damage to target hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

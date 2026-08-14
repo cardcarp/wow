@@ -1,0 +1,27 @@
+name: Onyxia Tooth Pendant
+
+origin: onyxias-lair-treasure-025
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: Friendly allies have +2 ATK while attacking.
+
+regulation:
+
+errata: []
+
+temp: Item Neck

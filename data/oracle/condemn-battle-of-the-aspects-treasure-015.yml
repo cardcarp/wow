@@ -1,0 +1,22 @@
+name: Condemn
+
+origin: battle-of-the-aspects-treasure-015
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: Destroy target ally that's attacking an ally you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution

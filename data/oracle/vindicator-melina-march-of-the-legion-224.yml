@@ -1,0 +1,25 @@
+name: Vindicator Melina
+
+origin: march-of-the-legion-224
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 5
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Equipment'
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

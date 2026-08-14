@@ -1,13 +1,13 @@
-oracle: mirror-image
-
-lex: '056'
-
-set: scourgewar
+index: '056'
 
 rarity: Rare
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: '"How do you know which one is real?!" - Dizdemona'
 
-variation: []
+oracle: mirror-image-scourgewar-056
+
+set: Scourgewar

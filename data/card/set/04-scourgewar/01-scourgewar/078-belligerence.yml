@@ -1,13 +1,13 @@
-oracle: belligerence
-
-lex: '078'
-
-set: scourgewar
+index: '078'
 
 rarity: Uncommon
 
 artist: Christopher Moeller
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: belligerence-scourgewar-078
+
+set: Scourgewar

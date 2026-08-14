@@ -1,13 +1,13 @@
-oracle: brutal-strike
-
-lex: '002'
-
-set: hogger
+index: '002'
 
 rarity: Common
 
 artist: Slawomir Maniak
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: brutal-strike-crown-of-the-heavens-054
+
+set: Hogger

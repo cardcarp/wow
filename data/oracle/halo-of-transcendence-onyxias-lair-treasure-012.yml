@@ -1,0 +1,22 @@
+name: Halo of Transcendence
+
+origin: onyxias-lair-treasure-012
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: → Your hero heals 1 damage from target ally. When you play a ability, ready Halo of Transcendence.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

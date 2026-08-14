@@ -1,0 +1,21 @@
+name: Majordomo Executus
+
+origin: molten-core-raid-009
+
+layout: transform
+
+category: Hero
+
+rule:
+  - type: ability
+    position: front
+    text: At the start of your turn, flip a coin. If it's heads, prevent all damage that would be dealt by opposing allies until your next turn. If it's tails, destroy all abilities attached to your allies and prevent all damage that would be dealt with opposing abilities until your next turn. At the end of each turn, if you have no allies, flip Majordomo Executus.
+  - type: ability
+    position: reverse
+    text: When Majordomo Executus flips to this side, say "Behold Ragnaros - the Firelord! He who was ancient when this world was young! Bow before him, mortals! Bow before your ending!" Ragnaros awakens.
+
+regulation:
+
+errata: []
+
+temp: Flamewaker

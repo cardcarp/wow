@@ -1,14 +1,14 @@
-oracle: tilly-fiddlelight
-
-lex: '009'
-
-set: worldbreaker
+index: '009'
 
 rarity: Uncommon
 
 artist: Mike Sass
 
-flavor: '"The Light has chosen me to aid those in need."'
-
 variation:
   - transform
+
+flavor: '"The Light has chosen me to aid those in need."'
+
+oracle: tilly-fiddlelight-worldbreaker-009
+
+set: Worldbreaker

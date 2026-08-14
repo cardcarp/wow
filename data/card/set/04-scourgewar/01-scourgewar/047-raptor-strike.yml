@@ -1,13 +1,13 @@
-oracle: raptor-strike
-
-lex: '047'
-
-set: scourgewar
+index: '047'
 
 rarity: Common
 
 artist: Mauro Cascioli
 
+variation: []
+
 flavor: A good hunter isn't afraid to put down her bow.
 
-variation: []
+oracle: raptor-strike-scourgewar-047
+
+set: Scourgewar

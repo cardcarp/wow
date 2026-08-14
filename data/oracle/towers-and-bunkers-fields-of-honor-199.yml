@@ -1,0 +1,17 @@
+name: Towers and Bunkers
+
+origin: fields-of-honor-199
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : If you control a location, draw a card. If you control a quest, draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

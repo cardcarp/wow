@@ -1,0 +1,22 @@
+name: Merciless Gladiators Battlegear
+
+origin: drums-of-war-211
+
+layout: standard
+
+category: Equipment
+
+cost: '8'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: If your hero would deal damage with a weapon, it deals double that much instead. → Exhaust target hero or ally, and your hero deals 1 melee damage to it.
+
+regulation:
+
+errata: []
+
+temp: Arena Armor Set Plate

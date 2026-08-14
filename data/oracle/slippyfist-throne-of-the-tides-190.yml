@@ -1,0 +1,27 @@
+name: Slippyfist
+
+origin: throne-of-the-tides-190
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Frost
+
+type: Monster
+
+rule:
+  - type: ability
+    text: This and other Murloc allies you control have Elusive while ready.
+
+regulation:
+
+errata: []
+
+temp: Murloc Rogue

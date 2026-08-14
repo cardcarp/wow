@@ -1,13 +1,14 @@
-oracle: tyrande-whisperwind
-
-lex: '009'
-
-set: timewalkers
+index: '009'
 
 rarity: Rare
 
 artist: Unknown
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: tyrande-whisperwind-timewalkers-009
+
+set: Timewalkers

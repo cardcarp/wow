@@ -1,13 +1,13 @@
-oracle: all-things-in-good-time
-
-lex: '207'
-
-set: icecrown
+index: '207'
 
 rarity: Uncommon
 
 artist: Carl Critchlow
 
+variation: []
+
 flavor: '"The scent of their burnt remains will linger in the air, reminding our enemy of their weakness." - Kilix the Unraveler'
 
-variation: []
+oracle: all-things-in-good-time-icecrown-207
+
+set: Icecrown

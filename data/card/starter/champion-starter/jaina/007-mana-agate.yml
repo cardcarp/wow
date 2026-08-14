@@ -1,13 +1,13 @@
-oracle: mana-agate
-
-lex: '007'
-
-set: jaina
+index: '007'
 
 rarity: Uncommon
 
 artist: Khang Le
 
+variation: []
+
 flavor: Magi are unique in their ability to store mana for future use without alchemical aid.
 
-variation: []
+oracle: mana-agate-heroes-of-azeroth-057
+
+set: Jaina

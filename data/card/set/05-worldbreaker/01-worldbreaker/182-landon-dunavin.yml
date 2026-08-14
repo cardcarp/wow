@@ -1,13 +1,13 @@
-oracle: landon-dunavin
-
-lex: '182'
-
-set: worldbreaker
+index: '182'
 
 rarity: Common
 
 artist: Tom Baxa
 
+variation: []
+
 flavor: '"Lady Sylvanas has chosen me to take the most important of shots against our enemies."'
 
-variation: []
+oracle: landon-dunavin-worldbreaker-182
+
+set: Worldbreaker

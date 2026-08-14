@@ -1,0 +1,22 @@
+name: Blinding Word
+
+origin: reign-of-fire-029
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: Exhaust target hero. Its controller can't play cards this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

@@ -1,0 +1,22 @@
+name: Force of Nature
+
+origin: fires-of-outland-022
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: Balance Hero Required Put three Treant ally tokens with 1 ATK, 1 health, and Ferocity into play.
+
+regulation:
+
+errata: []
+
+temp: Balance Talent

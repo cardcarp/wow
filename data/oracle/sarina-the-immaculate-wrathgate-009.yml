@@ -1,0 +1,22 @@
+name: Sarina the Immaculate
+
+origin: wrathgate-009
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: Flip Sarina, discard a Paladin → Sarina heals 5 damage from target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

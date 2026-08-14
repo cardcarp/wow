@@ -1,13 +1,13 @@
-oracle: dementia
-
-lex: '058'
-
-set: wrathgate
+index: '058'
 
 rarity: Uncommon
 
 artist: Puddnhead
 
+variation: []
+
 flavor: '"Maintain your composure against the Scourge, or you will quickly descend into madness." - Deacon Markus Hallow'
 
-variation: []
+oracle: dementia-wrathgate-058
+
+set: Wrathgate

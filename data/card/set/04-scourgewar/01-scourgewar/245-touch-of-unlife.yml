@@ -1,13 +1,13 @@
-oracle: touch-of-unlife
-
-lex: '245'
-
-set: scourgewar
+index: '245'
 
 rarity: Uncommon
 
 artist: Peter Lee
 
+variation: []
+
 flavor: These is no rest for the wicked until all are disposed of.
 
-variation: []
+oracle: touch-of-unlife-scourgewar-245
+
+set: Scourgewar

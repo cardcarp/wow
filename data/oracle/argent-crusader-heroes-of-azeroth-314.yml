@@ -1,0 +1,26 @@
+name: Argent Crusader
+
+origin: heroes-of-azeroth-314
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: At the start of your turn, you and target opponent each draw a card.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

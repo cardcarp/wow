@@ -1,0 +1,25 @@
+name: Supremus
+
+origin: black-temple-raid-002
+
+layout: transform
+
+category: Hero
+
+type: Boss
+
+stage: 2
+
+rule:
+  - type: ability
+    position: front
+    text: Supremus has +2 ATK while attacking. When Supremus deals combat damage to a hero or ally, he may also deal that much melee damage to another target hero or ally. At the end of your turn, flip Supremus.
+  - type: ability
+    position: reverse
+    text: At the start of your turn, choose a random opponent, and Supremus deals 2 fire damage to each hero and ally in his party. At the end of your turn, flip Supremus.
+
+regulation:
+
+errata: []
+
+temp: Abyssal Demon Traitor 6

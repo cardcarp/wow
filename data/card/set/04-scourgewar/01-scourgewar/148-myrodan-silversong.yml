@@ -1,13 +1,13 @@
-oracle: myrodan-silversong
-
-lex: '148'
-
-set: scourgewar
+index: '148'
 
 rarity: Common
 
 artist: Tyler Walpole
 
+variation: []
+
 flavor: '"Shift your focus to a weaker target, and you will surely find your efficiency increase."'
 
-variation: []
+oracle: myrodan-silversong-scourgewar-148
+
+set: Scourgewar

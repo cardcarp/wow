@@ -1,13 +1,13 @@
-oracle: kerzok-plixboom
-
-lex: '179'
-
-set: worldbreaker
+index: '179'
 
 rarity: Uncommon
 
 artist: Matt Cavotta
 
+variation: []
+
 flavor: "\"You don't survive the Lost Isles by getting yourself into trouble.\""
 
-variation: []
+oracle: kerzok-plixboom-worldbreaker-179
+
+set: Worldbreaker

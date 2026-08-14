@@ -1,13 +1,13 @@
-oracle: tomb-raiders-girdle
-
-lex: '038'
-
-set: monk-starter
+index: '038'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: tomb-raiders-girdle-monk-starter-038
+
+set: Monk Starter

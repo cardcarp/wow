@@ -1,13 +1,13 @@
-oracle: impede
-
-lex: '088'
-
-set: wrathgate
+index: '088'
 
 rarity: Uncommon
 
 artist: Dave Kendall
 
+variation: []
+
 flavor: '"You are truly weak if you put all your stake in a flimsy staff." - Halavar'
 
-variation: []
+oracle: impede-wrathgate-088
+
+set: Wrathgate

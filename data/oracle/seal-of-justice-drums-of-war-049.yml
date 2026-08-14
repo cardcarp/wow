@@ -1,0 +1,22 @@
+name: Seal of Justice
+
+origin: drums-of-war-049
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: "Ongoing : When your hero deals combat damage with a weapon, exhaust target hero or ally. It can't ready during its controller's next ready step. 1 , Destroy Seal of Justice → Exhaust target hero or ally. It can't ready during its controller's next ready step."
+
+regulation:
+
+errata: []
+
+temp: Protection

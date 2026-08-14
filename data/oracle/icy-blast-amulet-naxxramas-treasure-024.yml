@@ -1,0 +1,27 @@
+name: Icy Blast Amulet
+
+origin: naxxramas-treasure-024
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Shaman
+
+rule:
+  - type: ability
+    text: When your hero is dealth damage on an opponent's turn, you may pay 1 . If you do, it deals 1 frost damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Item Neck

@@ -1,13 +1,13 @@
-oracle: debacle
-
-lex: '045'
-
-set: naxxramas-raid
+index: '045'
 
 rarity: Uncommon
 
 artist: Howard Lyon
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: debacle-naxxramas-raid-045
+
+set: Naxxramas Raid

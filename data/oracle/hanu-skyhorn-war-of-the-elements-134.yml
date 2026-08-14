@@ -1,0 +1,27 @@
+name: Hanu Skyhorn
+
+origin: war-of-the-elements-134
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Arcane
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 3 → Target ally has Arcane Resistance this turn.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

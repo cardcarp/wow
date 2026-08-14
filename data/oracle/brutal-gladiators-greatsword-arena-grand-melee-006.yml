@@ -1,0 +1,22 @@
+name: Brutal Gladiators Greatsword
+
+origin: arena-grand-melee-006
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: Preparation
+
+regulation:
+
+errata: []
+
+temp: 2H Arena Weapon Sword

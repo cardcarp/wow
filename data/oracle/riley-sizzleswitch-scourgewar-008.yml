@@ -1,0 +1,22 @@
+name: Riley Sizzleswitch
+
+origin: scourgewar-008
+
+layout: transform
+
+category: Hero
+
+health: 25
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'If you control another Mage: Flip Riley → Riley deals 2 fire damage to target ally.'
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

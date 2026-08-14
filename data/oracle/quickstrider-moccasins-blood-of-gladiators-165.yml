@@ -1,0 +1,23 @@
+name: Quickstrider Moccasins
+
+origin: blood-of-gladiators-165
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: → Ready another target card in play.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

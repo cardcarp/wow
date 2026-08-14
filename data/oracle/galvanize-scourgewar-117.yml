@@ -1,0 +1,23 @@
+name: Galvanize
+
+origin: scourgewar-117
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 'Ongoing : → Choose one: Ally tokens you control have +1 ATK this turn; or target ally token you control has +3 ATK this turn.'
+
+regulation:
+
+errata: []
+
+temp: Unholy Balance

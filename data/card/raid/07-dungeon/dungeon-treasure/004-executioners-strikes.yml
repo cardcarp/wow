@@ -1,13 +1,13 @@
-oracle: executioners-strikes
-
-lex: '004'
-
-set: dungeon-treasure
+index: '004'
 
 rarity: Common
 
 artist: JonBoy Meyers & Mark Taduran
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: executioners-strikes-dungeon-treasure-004
+
+set: Dungeon Treasure

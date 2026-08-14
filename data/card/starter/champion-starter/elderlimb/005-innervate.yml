@@ -1,13 +1,13 @@
-oracle: innervate
-
-lex: '005'
-
-set: elderlimb
+index: '005'
 
 rarity: Rare
 
 artist: Doug Alexander
 
+variation: []
+
 flavor: Energy surged through her body like a raging river.
 
-variation: []
+oracle: innervate-heroes-of-azeroth-023
+
+set: Elderlimb

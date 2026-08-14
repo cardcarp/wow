@@ -1,0 +1,27 @@
+name: Crypt Fiend
+
+origin: icecrown-149
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 3
+
+combat: Shadow
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Scourge Hero Required Prevent all damage that and allies would deal to this ally.
+
+regulation:
+
+errata: []
+
+temp: Crypt Fiend

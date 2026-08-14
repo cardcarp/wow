@@ -1,0 +1,22 @@
+name: Martyrs Mending
+
+origin: march-of-the-legion-061
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+instant: Your hero heals any amount of damage from other friendly heroes and allies. Put that much damage on your hero.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

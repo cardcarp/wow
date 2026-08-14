@@ -1,0 +1,28 @@
+name: Cenarius, Lord of the Forest
+
+origin: crown-of-the-heavens-005
+
+layout: transform
+
+category: Hero
+
+cost: '12'
+
+damage: 2
+
+health: 35
+
+combat: Nature
+
+type: Master
+
+rule:
+  - type: ability
+    position: front
+    text: You pay 4 less to play Cenarius if you control at least two allies each with cost 4 or more. When your hero becomes Cenarius, reveal the top ten cards of your deck. Put all revealed allies into play and the rest on the bottom of your deck.
+
+regulation:
+
+errata: []
+
+temp: Druid Demigod

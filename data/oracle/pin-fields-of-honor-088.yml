@@ -1,0 +1,23 @@
+name: Pin
+
+origin: fields-of-honor-088
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+  - Rogue
+
+instant: Target player can't play allies this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship Subtlety Combo

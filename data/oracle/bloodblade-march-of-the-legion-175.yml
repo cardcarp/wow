@@ -1,0 +1,27 @@
+name: Bloodblade
+
+origin: march-of-the-legion-175
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: This ally can attack only heroes.
+
+regulation:
+
+errata: []
+
+temp: Orc Rogue

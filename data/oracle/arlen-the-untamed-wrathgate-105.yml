@@ -1,0 +1,27 @@
+name: Arlen the Untamed
+
+origin: wrathgate-105
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Allies you control have Assault 1 while you control a Form.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

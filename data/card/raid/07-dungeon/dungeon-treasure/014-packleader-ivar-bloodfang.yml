@@ -1,13 +1,13 @@
-oracle: packleader-ivar-bloodfang
-
-lex: '014'
-
-set: dungeon-treasure
+index: '014'
 
 rarity: Uncommon
 
 artist: Matt Dixon
 
+variation: []
+
 flavor: '"My men should be tearing Godfrey to pieces even as we speak."'
 
-variation: []
+oracle: packleader-ivar-bloodfang-dungeon-treasure-014
+
+set: Dungeon Treasure

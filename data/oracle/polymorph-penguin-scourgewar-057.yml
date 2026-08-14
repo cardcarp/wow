@@ -1,0 +1,22 @@
+name: 'Polymorph: Penguin'
+
+origin: scourgewar-057
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: "Attach to target ally. Ongoing : Attached ally can't attack or protect, loses and can't have powers, and is also a Penguin."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

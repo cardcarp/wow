@@ -1,0 +1,27 @@
+name: Rysa the Earthcaller
+
+origin: servants-of-the-betrayer-154
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 4
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector At the start of your turn, put a Totem card from your graveyard into hand.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

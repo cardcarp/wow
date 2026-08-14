@@ -1,0 +1,22 @@
+name: Impaling Shot
+
+origin: battle-of-the-aspects-treasure-008
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Your hero deals ranged damage to target ally equal to that ally's cost.
+
+regulation:
+
+errata: []
+
+temp: Survival

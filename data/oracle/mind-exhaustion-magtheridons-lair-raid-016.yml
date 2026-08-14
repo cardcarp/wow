@@ -1,0 +1,19 @@
+name: Mind Exhaustion
+
+origin: magtheridons-lair-raid-016
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+rule:
+  - type: ability
+    text: "Attach to target hero or ally, and Magtheridon deals 4 fire damage to it. Ongoing : Attached character can't exhaust to attach a Cube."
+
+regulation:
+
+errata: []
+
+temp: ''

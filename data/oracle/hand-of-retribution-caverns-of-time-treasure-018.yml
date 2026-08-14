@@ -1,0 +1,22 @@
+name: Hand of Retribution
+
+origin: caverns-of-time-treasure-018
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: 'Attach to target friendly ally. Ongoing : When damage is dealt to attached ally, it deals unpreventable holy damage equal to its ATK to the source of that damage.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution Attachment

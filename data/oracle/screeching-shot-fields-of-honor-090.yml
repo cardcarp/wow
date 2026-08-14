@@ -1,0 +1,23 @@
+name: Screeching Shot
+
+origin: fields-of-honor-090
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'Ongoing : Opposing heroes and allies have -1 ATK while attacking.'
+
+regulation:
+
+errata: []
+
+temp: Survival Fury Shout

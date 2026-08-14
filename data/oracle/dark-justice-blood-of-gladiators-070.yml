@@ -1,0 +1,22 @@
+name: Dark Justice
+
+origin: blood-of-gladiators-070
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+instant: Remove target ally from the game and put damage on your hero equal to that ally's ATK.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Affliction

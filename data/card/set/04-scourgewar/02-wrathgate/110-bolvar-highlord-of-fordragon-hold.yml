@@ -1,13 +1,13 @@
-oracle: bolvar-highlord-of-fordragon-hold
-
-lex: '110'
-
-set: wrathgate
+index: '110'
 
 rarity: Epic
 
 artist: Daarken
 
+variation: []
+
 flavor: '"Arthas! The blood of your father ... of your people ... demands justice!"'
 
-variation: []
+oracle: bolvar-highlord-of-fordragon-hold-wrathgate-110
+
+set: Wrathgate

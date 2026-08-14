@@ -1,0 +1,19 @@
+name: Fiery Corruption
+
+origin: battle-of-the-aspects-raid-027
+
+layout: standard
+
+category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Deathwing deals 5 fire damage to each Raiding hero. Each Raider draws a card.
+
+regulation:
+
+errata: []
+
+temp: ''

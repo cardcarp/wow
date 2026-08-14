@@ -1,13 +1,13 @@
-oracle: greaves-of-ancient-evil
-
-lex: '220'
-
-set: scourgewar
+index: '220'
 
 rarity: Rare
 
 artist: Mike Nicholson
 
+variation: []
+
 flavor: '"What better way to kick some arse than with these?" - Triton the Sacrilegous'
 
-variation: []
+oracle: greaves-of-ancient-evil-scourgewar-220
+
+set: Scourgewar

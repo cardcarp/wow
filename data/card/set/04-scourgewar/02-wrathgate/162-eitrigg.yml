@@ -1,13 +1,13 @@
-oracle: eitrigg
-
-lex: '162'
-
-set: wrathgate
+index: '162'
 
 rarity: Epic
 
 artist: James Ryman
 
+variation: []
+
 flavor: '"We are bound by blood and honor, brother. I will not forget you."'
 
-variation: []
+oracle: eitrigg-wrathgate-162
+
+set: Wrathgate

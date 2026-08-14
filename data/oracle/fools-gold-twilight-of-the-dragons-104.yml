@@ -1,0 +1,19 @@
+name: Fools Gold
+
+origin: twilight-of-the-dragons-104
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+rule:
+  - type: ability
+    text: 'Ongoing : At the end of your turn, each opponent draws a card. On your turn: Destroy another ability, ally, or equipment you control → Target player gains control of this ability.'
+
+regulation:
+
+errata: []
+
+temp: ''

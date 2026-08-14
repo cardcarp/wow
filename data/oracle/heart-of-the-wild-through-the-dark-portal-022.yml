@@ -1,0 +1,22 @@
+name: Heart of the Wild
+
+origin: through-the-dark-portal-022
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: 'Feral Hero Required Ongoing : Your hero has +10 health while in bear form. Your hero has +2 ATK while attacking in cat form.'
+
+regulation:
+
+errata: []
+
+temp: Feral Talent

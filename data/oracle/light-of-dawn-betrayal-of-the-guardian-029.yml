@@ -1,0 +1,22 @@
+name: Light of Dawn
+
+origin: betrayal-of-the-guardian-029
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: 'Holy Talent Attach to target ally, and your hero heals all damage from it. Add a holy counter to this ability for each damage healed this way. Ongoing : Attached ally has +1 / +1 for each holy counter on this ability. Attached ally has Absorb .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy Attachment

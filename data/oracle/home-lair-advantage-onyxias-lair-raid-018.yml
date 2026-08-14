@@ -1,0 +1,19 @@
+name: Home Lair Advantage
+
+origin: onyxias-lair-raid-018
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+instant: This turn, Onyxia can't be targeted by opponents, and your cards can't be interrupted.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

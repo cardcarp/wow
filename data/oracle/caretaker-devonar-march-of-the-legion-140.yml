@@ -1,0 +1,27 @@
+name: Caretaker Devonar
+
+origin: march-of-the-legion-140
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 5
+
+health: 3
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Devonar is Elusive while ready.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

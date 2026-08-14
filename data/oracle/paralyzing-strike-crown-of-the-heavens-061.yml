@@ -1,0 +1,23 @@
+name: Paralyzing Strike
+
+origin: crown-of-the-heavens-061
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+  - Rogue
+
+rule:
+  - type: ability
+    text: Exhaust target hero, ally, or equipment. It can't ready during its controller's next ready step.
+
+regulation:
+
+errata: []
+
+temp: Combat Arms

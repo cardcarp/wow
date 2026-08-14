@@ -1,0 +1,20 @@
+name: Jasani, Shrine Keeper
+
+origin: tomb-of-the-forgotten-006
+
+layout: transform
+
+category: Hero
+
+type: Monster
+
+rule:
+  - type: ability
+    position: front
+    text: "Deckbuilding: You can't put , , or Talent cards in your deck."
+
+regulation:
+
+errata: []
+
+temp: Dryad Druid Hunter 25

@@ -1,0 +1,31 @@
+name: Druid and Priest Statue Set
+
+origin: timewalkers-crafting-001
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: x , , Destroy this item → Put an X / X Spirit ally token into play with Mend X and Protector .
+
+regulation:
+
+errata: []
+
+temp: Item

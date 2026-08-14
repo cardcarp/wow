@@ -1,14 +1,14 @@
-oracle: noth-the-plaguebringer
-
-lex: '019'
-
-set: naxxramas-raid
+index: '019'
 
 rarity: Rare
 
 artist: Derk Venneman
 
-flavor: '"How dare you! Get out of my sight!"'
-
 variation:
   - transform
+
+flavor: '"How dare you! Get out of my sight!"'
+
+oracle: noth-the-plaguebringer-naxxramas-raid-019
+
+set: Naxxramas Raid

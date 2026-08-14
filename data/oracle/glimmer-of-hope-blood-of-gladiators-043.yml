@@ -1,0 +1,22 @@
+name: Glimmer of Hope
+
+origin: blood-of-gladiators-043
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: Interrupt target ability card that's targeting a card in play you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

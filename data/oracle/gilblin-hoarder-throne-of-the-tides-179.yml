@@ -1,0 +1,27 @@
+name: Gilblin Hoarder
+
+origin: throne-of-the-tides-179
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Nature
+
+type: Monster
+
+rule:
+  - type: ability
+    text: → Put target equipment you control into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Goblin Rogue

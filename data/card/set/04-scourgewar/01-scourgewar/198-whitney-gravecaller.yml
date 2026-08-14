@@ -1,13 +1,13 @@
-oracle: whitney-gravecaller
-
-lex: '198'
-
-set: scourgewar
+index: '198'
 
 rarity: Common
 
 artist: Chippy
 
+variation: []
+
 flavor: '"Come forth and quench your lust for battle once more!"'
 
-variation: []
+oracle: whitney-gravecaller-scourgewar-198
+
+set: Scourgewar

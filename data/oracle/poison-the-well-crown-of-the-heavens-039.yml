@@ -1,0 +1,22 @@
+name: Poison the Well
+
+origin: crown-of-the-heavens-039
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+instant: Destroy all allies with cost 2 or less. (Token allies have a cost of 0.)
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Assassination

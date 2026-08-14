@@ -1,0 +1,25 @@
+name: Magistrix Dianas
+
+origin: servants-of-the-betrayer-200
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Arcane
+
+rule:
+  - type: ability
+    text: Scryer Reputation When Dianas enters play, look at the top card of your deck. Either draw it or put it on the bottom. If you draw it, put Dianas from play into her owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

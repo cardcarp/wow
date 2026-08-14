@@ -1,13 +1,13 @@
-oracle: junkboxes-needed
-
-lex: '257'
-
-set: scourgewar
+index: '257'
 
 rarity: Uncommon
 
 artist: Scott Altmann
 
+variation: []
+
 flavor: '"My rogues need to hone their lockpicking skills, and I need locks of adequate difficulty ..." - Fahrad'
 
-variation: []
+oracle: junkboxes-needed-scourgewar-257
+
+set: Scourgewar

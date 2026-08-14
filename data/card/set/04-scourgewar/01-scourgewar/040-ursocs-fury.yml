@@ -1,13 +1,13 @@
-oracle: ursocs-fury
-
-lex: '040'
-
-set: scourgewar
+index: '040'
 
 rarity: Common
 
 artist: Matt Gaser
 
+variation: []
+
 flavor: '"The bear, once riled, is a force to be reckoned with." - Thangal'
 
-variation: []
+oracle: ursocs-fury-scourgewar-040
+
+set: Scourgewar

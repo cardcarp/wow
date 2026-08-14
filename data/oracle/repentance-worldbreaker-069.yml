@@ -1,0 +1,22 @@
+name: Repentance
+
+origin: worldbreaker-069
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: Retribution Talent Destroy target ability, ally, or equipment that damage was dealt with or dealt by this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution

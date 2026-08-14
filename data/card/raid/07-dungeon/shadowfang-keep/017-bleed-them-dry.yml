@@ -1,13 +1,13 @@
-oracle: bleed-them-dry
-
-lex: '017'
-
-set: shadowfang-keep
+index: '017'
 
 rarity: Common
 
 artist: Gabor Szikszai
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: bleed-them-dry-shadowfang-keep-017
+
+set: Shadowfang Keep

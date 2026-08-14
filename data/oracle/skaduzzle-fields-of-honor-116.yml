@@ -1,0 +1,27 @@
+name: Skaduzzle
+
+origin: fields-of-honor-116
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 6
+
+health: 3
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Escape Artist
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

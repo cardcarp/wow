@@ -1,0 +1,27 @@
+name: Meekway Humzinger
+
+origin: through-the-dark-portal-182
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 2
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive 1 , , Put Meekway Humzinger into her owner's hand → Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

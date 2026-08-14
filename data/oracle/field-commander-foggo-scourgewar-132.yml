@@ -1,0 +1,27 @@
+name: Field Commander Foggo
+
+origin: scourgewar-132
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 5
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 1 , Discard a card → This turn, friendly heroes and allies can protect this ally.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

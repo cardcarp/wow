@@ -1,13 +1,13 @@
-oracle: delusions-of-grandeur
-
-lex: '069'
-
-set: scourgewar
+index: '069'
 
 rarity: Common
 
 artist: James Zhang
 
+variation: []
+
 flavor: '"Let me readjust your perception of reality." - Emerson Zantides'
 
-variation: []
+oracle: delusions-of-grandeur-scourgewar-069
+
+set: Scourgewar

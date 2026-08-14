@@ -1,0 +1,22 @@
+name: Blessing of Salvation
+
+origin: the-hunt-for-illidan-055
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: 'Ongoing : When Blessing of Salvation enters play, choose a friendly player. That player is Untargetable .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Blessing

@@ -1,0 +1,22 @@
+name: Holy Fury
+
+origin: wrathgate-052
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: Your hero deals 3 unpreventable holy damage to target ally. If that ally has fatal damage, destroy any number of abilities attached to a card you control.
+
+regulation:
+
+errata: []
+
+temp: Holy

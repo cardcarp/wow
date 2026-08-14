@@ -1,0 +1,19 @@
+name: Raenes Cleansing
+
+origin: through-the-dark-portal-294
+
+layout: standard
+
+category: Quest
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: "If you've completed a quest this turn, pay 2 to complete this quest. Reward : Draw a card."
+
+regulation:
+
+errata: []
+
+temp: ''

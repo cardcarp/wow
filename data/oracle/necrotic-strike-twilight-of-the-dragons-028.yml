@@ -1,0 +1,22 @@
+name: Necrotic Strike
+
+origin: twilight-of-the-dragons-028
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Death Knight
+
+instant: You pay 3 less to play this ability if an opposing hero or ally was healed this turn. Your hero deals 3 shadow damage to target hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Unholy

@@ -1,13 +1,13 @@
-oracle: magni-the-mountain-king
-
-lex: '150'
-
-set: worldbreaker
+index: '150'
 
 rarity: Epic
 
 artist: James Ryman
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: magni-the-mountain-king-worldbreaker-150
+
+set: Worldbreaker

@@ -1,13 +1,14 @@
-oracle: garona-halforcen
-
-lex: '014'
-
-set: timewalkers
+index: '014'
 
 rarity: Rare
 
 artist: Unknown
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: garona-halforcen-timewalkers-014
+
+set: Timewalkers

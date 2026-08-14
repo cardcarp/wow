@@ -1,0 +1,22 @@
+name: Holy Light
+
+origin: heroes-of-azeroth-069
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: Your hero heals 5 damage from target hero or ally. Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Holy

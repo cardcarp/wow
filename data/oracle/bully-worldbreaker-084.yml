@@ -1,0 +1,22 @@
+name: Bully
+
+origin: worldbreaker-084
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Destroy target ally or equipment with cost 4 or less.
+
+regulation:
+
+errata: []
+
+temp: Assassination

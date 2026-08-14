@@ -1,0 +1,22 @@
+name: Censure
+
+origin: worldbreaker-066
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: Put target opposing attacking ally into its owner's hand.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution

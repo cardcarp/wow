@@ -1,0 +1,22 @@
+name: Shamanistic Dual Wield
+
+origin: servants-of-the-betrayer-101
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Shaman
+
+instant: 'Enhancement Hero Required Ongoing : You pay 1 less to strike with weapons. Your hero has Dual Wield .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement Talent

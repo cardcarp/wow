@@ -1,0 +1,22 @@
+name: Curse of Agony
+
+origin: heroes-of-azeroth-121
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Warlock
+
+instant: 'Attach to target hero or ally. Ongoing : At the start of your turn, add an agony counter, and then your hero deals 1 shadow damage to attached character for each agony counter.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Affliction Curse

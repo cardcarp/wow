@@ -1,0 +1,17 @@
+name: Into the Maw of Madness
+
+origin: heroes-of-azeroth-353
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Destroy Into the Maw of Madness to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

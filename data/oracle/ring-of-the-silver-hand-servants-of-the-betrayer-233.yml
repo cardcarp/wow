@@ -1,0 +1,24 @@
+name: Ring of the Silver Hand
+
+origin: servants-of-the-betrayer-233
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: → Prevent all combat damage that target attacking ally would deal to your hero this combat.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

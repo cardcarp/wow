@@ -1,0 +1,27 @@
+name: Greatfather Winter
+
+origin: feast-of-winter-veil-2007-003
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 0 → Put a card from your hand into target player's hand. Use only once per turn. (He owns that card for the rest of the game.)
+
+regulation:
+
+errata: []
+
+temp: Dwarf

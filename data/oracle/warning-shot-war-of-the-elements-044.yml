@@ -1,0 +1,22 @@
+name: Warning Shot
+
+origin: war-of-the-elements-044
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+instant: Target ally with cost 4 or more has -5 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

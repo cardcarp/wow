@@ -1,0 +1,21 @@
+name: Pain and Suffering
+
+origin: assault-on-icecrown-citadel-raid-029
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+instant: 'Ongoing : Opposing heroes and allies have -2 ATK while attacking. At the start of your turn, destroy this ability. If you do, the Lich King deals 4 shadow damage to each opposing hero.'
+
+type: Boss
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

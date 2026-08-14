@@ -1,0 +1,22 @@
+name: Natural Reclamation
+
+origin: icecrown-028
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: 'Ongoing : When you complete a quest, you may put a 1 / 1 Treant ally token into play.'
+
+regulation:
+
+errata: []
+
+temp: Balance

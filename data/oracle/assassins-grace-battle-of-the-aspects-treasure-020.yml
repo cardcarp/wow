@@ -1,0 +1,22 @@
+name: Assassins Grace
+
+origin: battle-of-the-aspects-treasure-020
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Ongoing : → Target ally has Stealth this turn. → Target ally with Stealth has Assault 2 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Subtlety

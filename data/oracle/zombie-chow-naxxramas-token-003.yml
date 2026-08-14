@@ -1,0 +1,25 @@
+name: Zombie Chow
+
+origin: naxxramas-token-003
+
+layout: standard
+
+category: Token
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+type: Ally
+
+rule:
+  - type: ability
+    text: 'Any raider: Exhaust a Death Knight, Hunter, Paladin, Shaman, or Warrior you control → Exhaust this ally.'
+
+regulation:
+
+errata: []
+
+temp: Zombie

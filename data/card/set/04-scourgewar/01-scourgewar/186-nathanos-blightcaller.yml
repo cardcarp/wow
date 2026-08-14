@@ -1,13 +1,13 @@
-oracle: nathanos-blightcaller
-
-lex: '186'
-
-set: scourgewar
+index: '186'
 
 rarity: Epic
 
 artist: Nick Percival
 
+variation: []
+
 flavor: '"Amidst our ranks, there are few with more dedication or vigor." - Lady Sylvanas Windrunner'
 
-variation: []
+oracle: nathanos-blightcaller-scourgewar-186
+
+set: Scourgewar

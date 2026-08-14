@@ -1,0 +1,19 @@
+name: Ashbringer
+
+origin: assault-on-icecrown-citadel-raid-008
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+rule:
+  - type: ability
+    text: Invincible
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Sword

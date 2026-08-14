@@ -1,0 +1,27 @@
+name: Hovin the Shield
+
+origin: drums-of-war-starter-002
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 0
+
+health: 9
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector 3 → Ready Hovin.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior

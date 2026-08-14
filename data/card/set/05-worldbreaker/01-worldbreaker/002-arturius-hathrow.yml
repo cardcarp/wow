@@ -1,14 +1,14 @@
-oracle: arturius-hathrow
-
-lex: '002'
-
-set: worldbreaker
+index: '002'
 
 rarity: Uncommon
 
 artist: Dan Scott
 
-flavor: '"The night elves have shown me just how empowering Cenarius can be."'
-
 variation:
   - transform
+
+flavor: '"The night elves have shown me just how empowering Cenarius can be."'
+
+oracle: arturius-hathrow-worldbreaker-002
+
+set: Worldbreaker

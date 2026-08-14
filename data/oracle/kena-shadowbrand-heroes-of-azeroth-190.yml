@@ -1,0 +1,27 @@
+name: Kena Shadowbrand
+
+origin: heroes-of-azeroth-190
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 3
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: ', Put 1 damage on Kena Shadowbrand → Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

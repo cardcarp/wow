@@ -1,0 +1,22 @@
+name: Camouflage
+
+origin: twilight-of-the-dragons-038
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: "Ongoing : On your turn: 2 , → Remove target ally you control from the game. If you do, put it into play under your control at the end of the next opponent's turn."
+
+regulation:
+
+errata: []
+
+temp: Survival

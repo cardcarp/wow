@@ -1,13 +1,13 @@
-oracle: molten-destroyer
-
-lex: '039'
-
-set: molten-core-raid
+index: '039'
 
 rarity: Uncommon
 
 artist: Dave Kendall
 
+variation: []
+
 flavor: Molten destroyers are the stronger, tougher brethren of the molten giants. They stand guard deeper in the Molten Core.
 
-variation: []
+oracle: molten-destroyer-molten-core-raid-039
+
+set: Molten Core Raid

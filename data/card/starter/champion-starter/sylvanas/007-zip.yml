@@ -1,13 +1,13 @@
-oracle: zip
-
-lex: '007'
-
-set: sylvanas
+index: '007'
 
 rarity: Uncommon
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: The cries of laughter upon seeing the tallstrider quickly turn to cries of pain.
 
-variation: []
+oracle: zip-drums-of-war-034
+
+set: Sylvanas

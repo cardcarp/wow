@@ -1,13 +1,13 @@
-oracle: viciousness
-
-lex: '125'
-
-set: worldbreaker
+index: '125'
 
 rarity: Uncommon
 
 artist: Jesper Ejsing
 
+variation: []
+
 flavor: '"There will be nothing left but scraps for the dogs." - Victor Baltus'
 
-variation: []
+oracle: viciousness-worldbreaker-125
+
+set: Worldbreaker

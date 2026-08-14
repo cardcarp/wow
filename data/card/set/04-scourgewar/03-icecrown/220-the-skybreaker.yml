@@ -1,13 +1,13 @@
-oracle: the-skybreaker
-
-lex: '220'
-
-set: icecrown
+index: '220'
 
 rarity: Rare
 
 artist: Peter Lee
 
+variation: []
+
 flavor: '"Our base, the Skybreaker, flies high above Icecrown." - Marshal Ivalus'
 
-variation: []
+oracle: the-skybreaker-icecrown-220
+
+set: Icecrown

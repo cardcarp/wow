@@ -1,0 +1,22 @@
+name: Mind Spike
+
+origin: heroes-of-azeroth-082
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Your hero deals 1 shadow damage to target hero or ally. Its controller discards a card for each damage dealt this way.
+
+regulation:
+
+errata: []
+
+temp: Shadow

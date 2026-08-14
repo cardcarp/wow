@@ -1,0 +1,21 @@
+name: Ice-Cold Refreshment
+
+origin: naxxramas-raid-051
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+stage: 11
+
+rule:
+  - type: ability
+    text: Draw three cards.
+
+regulation:
+
+errata: []
+
+temp: ''

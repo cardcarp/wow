@@ -1,0 +1,19 @@
+name: Burninate
+
+origin: onyxias-lair-raid-007
+
+layout: standard
+
+category: Ability
+
+cost: '8'
+
+rule:
+  - type: ability
+    text: Destroy all opposing abilities, allies, and equipment.
+
+regulation:
+
+errata: []
+
+temp: ''

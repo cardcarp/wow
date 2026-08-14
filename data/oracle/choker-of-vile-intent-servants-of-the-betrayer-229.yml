@@ -1,0 +1,27 @@
+name: Choker of Vile Intent
+
+origin: servants-of-the-betrayer-229
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: At the start of your turn, you may destroy an ability, ally, or equipment you control. If you do, each opponent destroys a card of that kind he controls.
+
+regulation:
+
+errata: []
+
+temp: Item Neck

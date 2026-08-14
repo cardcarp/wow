@@ -1,0 +1,22 @@
+name: Raise the Dead
+
+origin: tomb-of-the-forgotten-013
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: Put a 3 / 3 Ghoul ally token into play.
+
+regulation:
+
+errata: []
+
+temp: Unholy

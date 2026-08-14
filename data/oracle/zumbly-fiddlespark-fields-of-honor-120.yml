@@ -1,0 +1,27 @@
+name: Zumbly Fiddlespark
+
+origin: fields-of-honor-120
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Escape Artist When Zumbly leaves play, target ally is a Protector this turn.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warrior

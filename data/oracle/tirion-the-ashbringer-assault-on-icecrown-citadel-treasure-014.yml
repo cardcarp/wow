@@ -1,0 +1,25 @@
+name: Tirion, the Ashbringer
+
+origin: assault-on-icecrown-citadel-treasure-014
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 6
+
+combat: Holy
+
+rule:
+  - type: ability
+    text: Protector Other allies you control have +X / +X, where X is their cost. Prevent all damage that would be dealt to this ally by Scourge heroes and allies.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

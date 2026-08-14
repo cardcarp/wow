@@ -1,0 +1,27 @@
+name: Kylanda the Harmonious
+
+origin: icecrown-108
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 5
+
+health: 3
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Totems you control have +3 .
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

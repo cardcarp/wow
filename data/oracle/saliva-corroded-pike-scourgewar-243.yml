@@ -1,0 +1,23 @@
+name: Saliva Corroded Pike
+
+origin: scourgewar-243
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Hunter
+
+rule:
+  - type: ability
+    text: When damage is dealt with this weapon on an opponent's turn, you may ready it.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Polearm

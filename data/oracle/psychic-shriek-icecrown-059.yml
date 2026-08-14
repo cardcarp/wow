@@ -1,0 +1,22 @@
+name: Psychic Shriek
+
+origin: icecrown-059
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Put each ally into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Shadow

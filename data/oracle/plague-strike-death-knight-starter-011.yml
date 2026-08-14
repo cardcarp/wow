@@ -1,0 +1,22 @@
+name: Plague Strike
+
+origin: death-knight-starter-011
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 1 shadow damage to attached hero. When damage is dealt this way, target ally in attached hero's party has -1 health this turn."
+
+regulation:
+
+errata: []
+
+temp: Unholy Disease

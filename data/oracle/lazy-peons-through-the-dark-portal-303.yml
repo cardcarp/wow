@@ -1,0 +1,19 @@
+name: Lazy Peons
+
+origin: through-the-dark-portal-303
+
+layout: standard
+
+category: Quest
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'Orc Hero Required Lazy Peons enters play exhausted. Exhaust Lazy Peons to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

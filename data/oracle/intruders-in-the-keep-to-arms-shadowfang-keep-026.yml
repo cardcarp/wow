@@ -1,0 +1,19 @@
+name: '"Intruders in the Keep! To Arms!"'
+
+origin: shadowfang-keep-026
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Reveal the top two cards of the Dungeon deck. Put each revealed ally into play and the rest on the bottom of the Dungeon deck.
+
+regulation:
+
+errata: []
+
+temp: ''

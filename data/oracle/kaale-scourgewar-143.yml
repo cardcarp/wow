@@ -1,0 +1,27 @@
+name: Kaale
+
+origin: scourgewar-143
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 2 , Discard a card → Target ally has +2 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

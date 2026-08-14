@@ -1,13 +1,13 @@
-oracle: mithran-the-sniper
-
-lex: '124'
-
-set: wrathgate
+index: '124'
 
 rarity: Common
 
 artist: Scott Altmann
 
+variation: []
+
 flavor: "\"I've got an itchy trigger finger, so don't tempt me.\""
 
-variation: []
+oracle: mithran-the-sniper-wrathgate-124
+
+set: Wrathgate

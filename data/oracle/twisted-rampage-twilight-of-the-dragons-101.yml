@@ -1,0 +1,22 @@
+name: Twisted Rampage
+
+origin: twilight-of-the-dragons-101
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: As an additional cost to play this ability, destroy an ability, ally, or equipment you control. Ready your hero and all Melee weapons you control. Melee weapons you control have +2 ATK, and you pay 2 less to strike with them this turn.
+
+regulation:
+
+errata: []
+
+temp: Fury

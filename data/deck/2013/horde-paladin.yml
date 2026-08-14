@@ -11,7 +11,7 @@ facet:
 
 collection: '2013'
 
-highlight: starter-2013-horde-paladin-001
+highlight: horde-paladin-2013-001
 
 description: 2013 Horde Paladin Preconstructed
 
@@ -23,29 +23,29 @@ total: 61
 
 list:
   hero:
-    starter-2013-horde-paladin-001: 1  # Haku, Son of Morning
+    horde-paladin-2013-001: 1  # Haku, Son of Morning
   main:
-    starter-2013-horde-paladin-002: 2  # Blessing of Might
-    starter-2013-horde-paladin-003: 1 # Blessing of Wisdom
-    starter-2013-horde-paladin-004: 3 # Hammer of Justice
-    starter-2013-horde-paladin-005: 3 # Holy Light
-    starter-2013-horde-paladin-006: 2 # Light of the Naaru
-    starter-2013-horde-paladin-007: 2 # Sacred Purification
-    starter-2013-horde-paladin-008: 3 # Shield of Light
-    starter-2013-horde-paladin-009: 1 # Unyielding Faith
-    starter-2013-horde-paladin-010: 2 # "Acid Hands" McGillicutty
-    starter-2013-horde-paladin-011: 2 # Bhenn Checks-the-Sky
-    starter-2013-horde-paladin-012: 3 # Dhoros Ravestrike
-    starter-2013-horde-paladin-013: 2 # Elderguard Brennan
-    starter-2013-horde-paladin-014: 3 # Forager Cloudbloom
-    starter-2013-horde-paladin-015: 3 # Jex_ali
-    starter-2013-horde-paladin-016: 3 # Jumahko Thundersky
-    starter-2013-horde-paladin-017: 3 # Kaelzin
-    starter-2013-horde-paladin-018: 3 # Ka_tali Stonetusk
-    starter-2013-horde-paladin-019: 1 # Tempest, Son-of-Storms
-    starter-2013-horde-paladin-020: 3 # Wrex
-    starter-2013-horde-paladin-021: 3 # Archival Purposes
-    starter-2013-horde-paladin-022: 3 # The Black Morass
-    starter-2013-horde-paladin-023: 3 # Entrenched
-    starter-2013-horde-paladin-024: 3 # Escape from Durnholde
-    starter-2013-horde-paladin-025: 3 # The Essence of Enmity
+    horde-paladin-2013-002: 2  # Blessing of Might
+    horde-paladin-2013-003: 1 # Blessing of Wisdom
+    horde-paladin-2013-004: 3 # Hammer of Justice
+    horde-paladin-2013-005: 3 # Holy Light
+    horde-paladin-2013-006: 2 # Light of the Naaru
+    horde-paladin-2013-007: 2 # Sacred Purification
+    horde-paladin-2013-008: 3 # Shield of Light
+    horde-paladin-2013-009: 1 # Unyielding Faith
+    horde-paladin-2013-010: 2 # "Acid Hands" McGillicutty
+    horde-paladin-2013-011: 2 # Bhenn Checks-the-Sky
+    horde-paladin-2013-012: 3 # Dhoros Ravestrike
+    horde-paladin-2013-013: 2 # Elderguard Brennan
+    horde-paladin-2013-014: 3 # Forager Cloudbloom
+    horde-paladin-2013-015: 3 # Jex'ali
+    horde-paladin-2013-016: 3 # Jumahko Thundersky
+    horde-paladin-2013-017: 3 # Kaelzin
+    horde-paladin-2013-018: 3 # Ka'tali Stonetusk
+    horde-paladin-2013-019: 1 # Tempest, Son-of-Storms
+    horde-paladin-2013-020: 3 # Wrex
+    horde-paladin-2013-021: 3 # Archival Purposes
+    horde-paladin-2013-022: 3 # The Black Morass
+    horde-paladin-2013-023: 3 # Entrenched
+    horde-paladin-2013-024: 3 # Escape from Durnholde
+    horde-paladin-2013-025: 3 # The Essence of Enmity

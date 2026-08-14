@@ -1,0 +1,22 @@
+name: Arc Heal
+
+origin: tomb-of-the-forgotten-049
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Shaman
+
+instant: Your hero heals 4 damage divided as you choose from any number of target friendly heroes and/or allies.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

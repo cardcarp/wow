@@ -1,0 +1,24 @@
+name: Ebonweave Robe
+
+origin: scourgewar-crafting-002
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: Allies you control have Shadow Resistance . If an opposing ally would deal any type of damage, it deals shadow damage instead.
+
+regulation:
+
+errata: []
+
+temp: Armor

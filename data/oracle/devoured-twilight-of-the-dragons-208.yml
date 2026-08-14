@@ -1,0 +1,17 @@
+name: Devoured
+
+origin: twilight-of-the-dragons-208
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'If all quests you control are named Devoured: Pay 3 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

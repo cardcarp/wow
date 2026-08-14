@@ -1,0 +1,22 @@
+name: Spoils of the Hunt
+
+origin: scourgewar-049
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Destroy all opposing allies that have or share the highest cost among opposing allies.
+
+regulation:
+
+errata: []
+
+temp: Survival

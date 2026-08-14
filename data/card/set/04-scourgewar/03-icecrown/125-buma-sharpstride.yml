@@ -1,13 +1,13 @@
-oracle: buma-sharpstride
-
-lex: '125'
-
-set: icecrown
+index: '125'
 
 rarity: Common
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor: "\"The true measure of a hunter's talents lies in adapting to new surroundings, no matter their nature.\""
 
-variation: []
+oracle: buma-sharpstride-icecrown-125
+
+set: Icecrown

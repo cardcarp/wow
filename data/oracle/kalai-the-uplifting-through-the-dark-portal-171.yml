@@ -1,0 +1,27 @@
+name: Kal'ai the Uplifting
+
+origin: through-the-dark-portal-171
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Draenei Hero Required Other allies in your party have +1 ATK and +1 health.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

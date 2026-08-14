@@ -1,13 +1,13 @@
-oracle: mark-of-undeath
-
-lex: '023'
-
-set: icecrown
+index: '023'
 
 rarity: Uncommon
 
 artist: Mike Nicholson
 
+variation: []
+
 flavor: '"A ghoulish future awaits you." - Triton the Sacrilegous'
 
-variation: []
+oracle: mark-of-undeath-icecrown-023
+
+set: Icecrown

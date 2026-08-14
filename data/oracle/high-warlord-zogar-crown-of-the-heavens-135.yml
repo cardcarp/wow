@@ -1,0 +1,27 @@
+name: High Warlord Zogar
+
+origin: crown-of-the-heavens-135
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 10
+
+health: 10
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Play this ally only if you control an Ogre hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Ogre Lord Warrior

@@ -1,0 +1,19 @@
+name: Withdraw
+
+origin: heroes-of-azeroth-172
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+instant: Put target ally into its owner's hand.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

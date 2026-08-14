@@ -1,0 +1,22 @@
+name: Frost Resistance Totem
+
+origin: icecrown-069
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Shaman
+
+instant: 'Ongoing : Friendly heroes and allies have Frost Resistance . (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement 1

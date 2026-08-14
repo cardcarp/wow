@@ -1,0 +1,25 @@
+name: Auralyn the Light of Dawn
+
+origin: twilight-of-the-dragons-001
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 4 → Flip Auralyn face down.
+  - type: ability
+    position: reverse
+    text: Mend 2
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

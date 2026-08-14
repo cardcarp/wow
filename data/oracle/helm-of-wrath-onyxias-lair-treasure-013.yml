@@ -1,0 +1,22 @@
+name: Helm of Wrath
+
+origin: onyxias-lair-treasure-013
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 2 , → While target ally can attack your hero this turn, it can attack only your hero. When you play a ability, ready Helm of Wrath.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

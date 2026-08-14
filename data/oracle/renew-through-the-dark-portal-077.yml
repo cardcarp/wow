@@ -1,0 +1,22 @@
+name: Renew
+
+origin: through-the-dark-portal-077
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+instant: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero heals 1 damage from attached character.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

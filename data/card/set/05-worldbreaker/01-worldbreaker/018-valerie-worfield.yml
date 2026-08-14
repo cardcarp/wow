@@ -1,14 +1,14 @@
-oracle: valerie-worfield
-
-lex: '018'
-
-set: worldbreaker
+index: '018'
 
 rarity: Uncommon
 
 artist: Alex Horley Orlandelli
 
-flavor: '"Death has numbed me to the outside world, but my fingers still long to touch cold steel once more."'
-
 variation:
   - transform
+
+flavor: '"Death has numbed me to the outside world, but my fingers still long to touch cold steel once more."'
+
+oracle: valerie-worfield-worldbreaker-018
+
+set: Worldbreaker

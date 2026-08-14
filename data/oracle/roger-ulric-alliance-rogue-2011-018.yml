@@ -1,0 +1,25 @@
+name: Roger Ulric
+
+origin: alliance-rogue-2011-018
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 6
+
+health: 4
+
+combat: Ranged
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Worgen Hunter

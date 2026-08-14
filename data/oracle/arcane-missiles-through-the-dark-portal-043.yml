@@ -1,0 +1,22 @@
+name: Arcane Missiles
+
+origin: through-the-dark-portal-043
+
+layout: standard
+
+category: Ability
+
+cost: X
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Your hero deals X arcane damage to target hero or ally. X can't be more than 5.
+
+regulation:
+
+errata: []
+
+temp: Arcane

@@ -1,0 +1,25 @@
+name: Sironas
+
+origin: march-of-the-legion-253
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: At the start of your turn, the player with the most resources destroys one of them. If two or more players are tied, you choose which one destroys a resource.
+
+regulation:
+
+errata: []
+
+temp: Demon

@@ -1,0 +1,27 @@
+name: spider Legs' McGillicutty
+
+origin: march-of-the-legion-204
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When Spider Legs is destroyed, you may exhaust target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Undead Warrior

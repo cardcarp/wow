@@ -1,0 +1,23 @@
+name: Champions Deathdealer Breastplate
+
+origin: war-of-the-elements-179
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Weapons you control have +1 ATK and an additional +1 ATK for each heirloom counter on this armor. Stash : Add an heirloom counter to target equipment.'
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

@@ -1,0 +1,22 @@
+name: Feral Rage
+
+origin: heroes-of-azeroth-021
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: 'Ongoing : When your hero is dealt combat damage while in bear form, you may pay 1 . If you do, draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Feral

@@ -1,0 +1,27 @@
+name: Greefer
+
+origin: through-the-dark-portal-211
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Opponents can't complete quests.
+
+regulation:
+
+errata: []
+
+temp: Troll Rogue

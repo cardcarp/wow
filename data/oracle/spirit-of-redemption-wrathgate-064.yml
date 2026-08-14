@@ -1,0 +1,24 @@
+name: Spirit of Redemption
+
+origin: wrathgate-064
+
+layout: transform
+
+category: Hero
+
+cost: '25'
+
+class:
+  - Priest
+
+instant: Holy Hero Required You pay 1 less to play Spirit of Redemption for each damage on your hero. Spirit of Redemption can't be destroyed while you control an ally.
+
+type: Master
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Spirit Holy Talent

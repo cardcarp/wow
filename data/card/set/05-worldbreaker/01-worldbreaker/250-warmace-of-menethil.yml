@@ -1,13 +1,13 @@
-oracle: warmace-of-menethil
-
-lex: '250'
-
-set: worldbreaker
+index: '250'
 
 rarity: Rare
 
 artist: Nils Hamm
 
+variation: []
+
 flavor: '"Remember, our line has always ruled with wisdom and strength." - Terenas Menethil II'
 
-variation: []
+oracle: warmace-of-menethil-worldbreaker-250
+
+set: Worldbreaker

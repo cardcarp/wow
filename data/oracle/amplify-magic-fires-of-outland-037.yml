@@ -1,0 +1,22 @@
+name: Amplify Magic
+
+origin: fires-of-outland-037
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Mage
+
+instant: 'Attach to target friendly hero or ally. Ongoing : If damage would be healed from attached character, that much damage +2 is healed instead.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

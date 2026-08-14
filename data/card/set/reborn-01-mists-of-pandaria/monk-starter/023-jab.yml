@@ -1,13 +1,13 @@
-oracle: jab
-
-lex: '023'
-
-set: monk-starter
+index: '023'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: jab-monk-starter-023
+
+set: Monk Starter

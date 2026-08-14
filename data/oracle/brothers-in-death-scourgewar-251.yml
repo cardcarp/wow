@@ -1,0 +1,22 @@
+name: Brothers in Death
+
+origin: scourgewar-251
+
+layout: standard
+
+category: Quest
+
+class:
+  - Death Knight
+
+type: Class Restriction
+
+rule:
+  - type: ability
+    text: 'On your turn: Pay 3 to complete this quest. Reward : Remove target ally in a graveyard from the game. If you do, put a 3 / 3 Ghoul ally token into play.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,22 @@
+name: Favor of Steel
+
+origin: twilight-of-the-dragons-097
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, you may destroy target equipment.'
+
+regulation:
+
+errata: []
+
+temp: Protection

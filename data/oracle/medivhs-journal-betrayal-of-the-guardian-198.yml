@@ -1,0 +1,17 @@
+name: Medivhs Journal
+
+origin: betrayal-of-the-guardian-198
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: "Pay 1 to complete this quest. Reward : Look at target player's hand."
+
+regulation:
+
+errata: []
+
+temp: ''

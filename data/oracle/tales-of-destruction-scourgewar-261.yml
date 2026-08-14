@@ -1,0 +1,17 @@
+name: Tales of Destruction
+
+origin: scourgewar-261
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Choose "ability," "ally," or "equipment," remove a card of that kind in your graveyard from the game, and pay 2 to complete this quest. Reward : Reveal the top three cards of your deck. Put a revealed card of that kind into your hand and the rest on the bottom of your deck.'
+
+regulation:
+
+errata: []
+
+temp: ''

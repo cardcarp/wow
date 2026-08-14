@@ -1,0 +1,17 @@
+name: Pile High Club
+
+origin: the-deadmines-045
+
+layout: standard
+
+category: Achievement
+
+rule:
+  - type: ability
+    text: There are twenty or more cards in the Dungeon graveyard.
+
+regulation:
+
+errata: []
+
+temp: ''

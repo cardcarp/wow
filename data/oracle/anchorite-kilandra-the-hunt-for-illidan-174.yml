@@ -1,0 +1,25 @@
+name: Anchorite Kilandra
+
+origin: the-hunt-for-illidan-174
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 2
+
+combat: Holy
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation When Kilandra enters play, name a card in play you control. Inspire: Card with that name'
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

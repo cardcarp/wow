@@ -1,0 +1,27 @@
+name: Kedan Burstbeard
+
+origin: tomb-of-the-forgotten-087
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, if you control an equipment, this ally may deal 1 arcane damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Mage

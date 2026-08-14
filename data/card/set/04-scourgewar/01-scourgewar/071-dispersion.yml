@@ -1,13 +1,13 @@
-oracle: dispersion
-
-lex: '071'
-
-set: scourgewar
+index: '071'
 
 rarity: Rare
 
 artist: Raymond Swanland
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: dispersion-scourgewar-071
+
+set: Scourgewar

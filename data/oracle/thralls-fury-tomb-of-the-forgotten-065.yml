@@ -1,0 +1,19 @@
+name: Thralls Fury
+
+origin: tomb-of-the-forgotten-065
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: 'Ongoing : On your turn: Exhaust an Aspect of Thrall ability you control → Your hero deals 1 fire damage to target opposing hero.'
+
+regulation:
+
+errata: []
+
+temp: Aspect of Thrall

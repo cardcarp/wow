@@ -1,0 +1,25 @@
+name: Royal Scepter of Terenas II
+
+origin: assault-on-icecrown-citadel-treasure-024
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: When a card enters your resource row, your hero may deal 2 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

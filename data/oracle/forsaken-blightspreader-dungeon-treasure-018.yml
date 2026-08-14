@@ -1,0 +1,27 @@
+name: Forsaken Blightspreader
+
+origin: dungeon-treasure-018
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 1
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally deals damage to an opposing ally, destroy that ally.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

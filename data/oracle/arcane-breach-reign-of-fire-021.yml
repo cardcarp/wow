@@ -1,0 +1,22 @@
+name: Arcane Breach
+
+origin: reign-of-fire-021
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Mage
+
+instant: Interrupt target ability, ally, or equipment. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

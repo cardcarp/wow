@@ -1,0 +1,22 @@
+name: Vampiric Touch
+
+origin: fires-of-outland-063
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: 'Shadow Hero Required Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals 1 shadow damage to attached character. When you play a Shadow ability, ready one of your resources.'
+
+regulation:
+
+errata: []
+
+temp: Shadow Talent

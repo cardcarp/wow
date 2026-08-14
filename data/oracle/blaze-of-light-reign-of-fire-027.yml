@@ -1,0 +1,22 @@
+name: Blaze of Light
+
+origin: reign-of-fire-027
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: Your hero heals 2 unpreventable holy damage to target ally. If that ally is a Demon, remove it from the game instead.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

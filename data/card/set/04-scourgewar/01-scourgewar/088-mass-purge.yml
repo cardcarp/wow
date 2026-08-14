@@ -1,13 +1,13 @@
-oracle: mass-purge
-
-lex: '088'
-
-set: scourgewar
+index: '088'
 
 rarity: Common
 
 artist: Brandon Kitkouski
 
+variation: []
+
 flavor: "\"Their power is nothin' but an easily scattered illusion, bruddah.\" - Kil'zin of the Darkspear"
 
-variation: []
+oracle: mass-purge-scourgewar-088
+
+set: Scourgewar

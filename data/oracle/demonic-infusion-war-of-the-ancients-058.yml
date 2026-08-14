@@ -1,0 +1,22 @@
+name: Demonic Infusion
+
+origin: war-of-the-ancients-058
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Attach to target ally. Ongoing : Attached ally has +3 / -1, loses all races, and becomes a Monster Demon.'
+
+regulation:
+
+errata: []
+
+temp: Demonology Attachment

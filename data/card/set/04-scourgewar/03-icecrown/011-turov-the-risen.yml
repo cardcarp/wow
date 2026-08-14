@@ -1,14 +1,14 @@
-oracle: turov-the-risen
-
-lex: '011'
-
-set: icecrown
+index: '011'
 
 rarity: Uncommon
 
 artist: Alex Horley Orlandelli
 
-flavor: (like Frost Hero Required)
-
 variation:
   - transform
+
+flavor: (like Frost Hero Required)
+
+oracle: turov-the-risen-icecrown-011
+
+set: Icecrown

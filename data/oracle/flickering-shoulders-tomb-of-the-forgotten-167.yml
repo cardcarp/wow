@@ -1,0 +1,23 @@
+name: Flickering Shoulders
+
+origin: tomb-of-the-forgotten-167
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'On your turn: → Target ally has Smash this turn.'
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

@@ -2,7 +2,7 @@ name: Worldbreaker
 
 type: set
 
-lex: '01'
+index: '01'
 
 subtotal: 270
 
@@ -10,4 +10,4 @@ total: 270
 
 date_release: 2010-12
 
-collection: worldbreaker
+collection: Worldbreaker

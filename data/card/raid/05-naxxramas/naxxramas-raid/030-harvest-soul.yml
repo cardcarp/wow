@@ -1,13 +1,13 @@
-oracle: harvest-soul
-
-lex: '030'
-
-set: naxxramas-raid
+index: '030'
 
 rarity: Uncommon
 
 artist: Lars Grant-West
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: harvest-soul-naxxramas-raid-030
+
+set: Naxxramas Raid

@@ -1,0 +1,22 @@
+name: Grennan Stormspeaker
+
+origin: heroes-of-azeroth-010
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 5 , Flip Grennan → Grennan deals 3 nature damage to target hero or ally and heals 3 damage from a second target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

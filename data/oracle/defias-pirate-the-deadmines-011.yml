@@ -1,0 +1,25 @@
+name: Defias Pirate
+
+origin: the-deadmines-011
+
+layout: standard
+
+category: Ally
+
+damage: 4
+
+health: 1
+
+combat: Melee
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Ferocity
+
+regulation:
+
+errata: []
+
+temp: Human Pirate

@@ -1,0 +1,27 @@
+name: Wormwood
+
+origin: heroes-of-azeroth-272
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 1
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 1 , Put 1 damage on Wormwood → Put target ally into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

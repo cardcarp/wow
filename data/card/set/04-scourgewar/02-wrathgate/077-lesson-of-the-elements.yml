@@ -1,13 +1,13 @@
-oracle: lesson-of-the-elements
-
-lex: '077'
-
-set: wrathgate
+index: '077'
 
 rarity: Common
 
 artist: Lucio Parrillo
 
+variation: []
+
 flavor: "\"Living or dead, flesh and bone are equally conducive to the element's fury.\" - Urrth"
 
-variation: []
+oracle: lesson-of-the-elements-wrathgate-077
+
+set: Wrathgate

@@ -1,13 +1,13 @@
-oracle: legplates-of-the-endless-void
-
-lex: '176'
-
-set: icecrown
+index: '176'
 
 rarity: Rare
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: '"There are more similarities between the Nether and death than I had originally thought." - Randolphe Mortimer'
 
-variation: []
+oracle: legplates-of-the-endless-void-icecrown-176
+
+set: Icecrown

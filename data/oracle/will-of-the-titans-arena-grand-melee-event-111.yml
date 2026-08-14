@@ -1,0 +1,17 @@
+name: Will of the Titans
+
+origin: arena-grand-melee-event-111
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: If an ongoing Arena Grand Melee card is in play, it stays in play for the rest of the game. (Other ongoing Arena Grand Melee cards continue to enter and leave play as usual.)
+
+regulation:
+
+errata: []
+
+temp: ''

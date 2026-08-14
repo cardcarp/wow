@@ -1,0 +1,27 @@
+name: Eskhandars Collar
+
+origin: onyxias-lair-treasure-022
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: Your hero has +1 ATK while in combat with an opposing hero. Opposing heroes have -1 ATK while in combat with your hero.
+
+regulation:
+
+errata: []
+
+temp: Item Neck

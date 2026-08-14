@@ -1,0 +1,19 @@
+name: Echo of Death
+
+origin: caverns-of-time-raid-033
+
+layout: standard
+
+category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Put two 3 / 3 Ghoul ally tokens into play. If Sylvanas is the Caverns hero, put four into play instead.
+
+regulation:
+
+errata: []
+
+temp: Echo of Sylvanas

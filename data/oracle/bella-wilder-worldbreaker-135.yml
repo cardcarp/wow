@@ -1,0 +1,27 @@
+name: Bella Wilder
+
+origin: worldbreaker-135
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: This ally has Ferocity while you control another card.
+
+regulation:
+
+errata: []
+
+temp: Worgen Druid

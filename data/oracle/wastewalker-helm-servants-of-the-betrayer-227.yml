@@ -1,0 +1,23 @@
+name: Wastewalker Helm
+
+origin: servants-of-the-betrayer-227
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: When your hero deals damage to an exhausted ally, destroy it.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

@@ -1,13 +1,13 @@
-oracle: wooly-white-rhino
-
-lex: '169'
-
-set: icecrown
+index: '169'
 
 rarity: Rare
 
 artist: Lars Grant-West
 
+variation: []
+
 flavor: (Mounts can't attack or be attacked.)
 
-variation: []
+oracle: wooly-white-rhino-icecrown-169
+
+set: Icecrown

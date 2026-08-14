@@ -1,0 +1,25 @@
+name: Warmaul Ogre
+
+origin: war-of-the-ancients-205
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 5
+
+combat: Melee
+
+type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ogre Warrior

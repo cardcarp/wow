@@ -1,0 +1,27 @@
+name: Jarod Shadowsong
+
+origin: war-of-the-ancients-097
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 6
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive , Spellshield , Stealth
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

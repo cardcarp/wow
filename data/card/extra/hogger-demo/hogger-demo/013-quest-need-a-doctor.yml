@@ -1,13 +1,13 @@
-oracle: quest-need-a-doctor
-
-lex: '013'
-
-set: hogger-demo
+index: '013'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: quest-need-a-doctor-hogger-demo-013
+
+set: Hogger Demo

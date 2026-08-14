@@ -1,13 +1,13 @@
-oracle: deep-freeze
-
-lex: '002'
-
-set: jaina
+index: '002'
 
 rarity: Common
 
 artist: Chris Arneson
 
+variation: []
+
 flavor: When you're cold, you spend a lot of time shivering.
 
-variation: []
+oracle: deep-freeze-through-the-dark-portal-049
+
+set: Jaina

@@ -1,0 +1,27 @@
+name: Geoffrey Kimble
+
+origin: drums-of-war-169
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector 3 , Discard a card → Destroy target ability or equipment.
+
+regulation:
+
+errata: []
+
+temp: Undead Warrior

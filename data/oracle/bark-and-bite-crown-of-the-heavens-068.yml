@@ -1,0 +1,19 @@
+name: Bark and Bite
+
+origin: crown-of-the-heavens-068
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+rule:
+  - type: ability
+    text: 'Empower Death Knight : If you control a Death Knight hero or ally, put a 3 / 3 Ghoul ally token into play. Empower Druid : If you control a Druid hero or ally, put a 1 / 1 Treant ally token into play.'
+
+regulation:
+
+errata: []
+
+temp: ''

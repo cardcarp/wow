@@ -1,0 +1,22 @@
+name: Heroic Bulwark
+
+origin: reign-of-fire-030
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: Armor you control have +3 this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

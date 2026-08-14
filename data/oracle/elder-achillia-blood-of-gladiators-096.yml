@@ -1,0 +1,27 @@
+name: Elder Achillia
+
+origin: blood-of-gladiators-096
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Inspiring Presence
+
+regulation:
+
+errata: []
+
+temp: Draenei Mage

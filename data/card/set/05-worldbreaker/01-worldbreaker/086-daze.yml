@@ -1,13 +1,13 @@
-oracle: daze
-
-lex: '086'
-
-set: worldbreaker
+index: '086'
 
 rarity: Uncommon
 
 artist: Ralph Horsley
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: daze-worldbreaker-086
+
+set: Worldbreaker

@@ -1,0 +1,22 @@
+name: Primal Totem
+
+origin: drums-of-war-072
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Shaman
+
+instant: 'Ongoing : When one of your Totems is destroyed, it deals 1 nature damage to each opposing hero and ally. (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental 1

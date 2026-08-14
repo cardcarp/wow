@@ -1,0 +1,27 @@
+name: Neferset Shieldguard
+
+origin: tomb-of-the-forgotten-133
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 5
+
+combat: Holy
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Mend 1 , Protector , Sentinel
+
+regulation:
+
+errata: []
+
+temp: Tol'vir Paladin Priest

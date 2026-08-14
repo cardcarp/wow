@@ -1,0 +1,22 @@
+name: Heartrazor
+
+origin: fields-of-honor-175
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 1 , Destroy Heartrazor → Target hero can't deal damage this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

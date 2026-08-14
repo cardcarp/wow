@@ -1,13 +1,13 @@
-oracle: shadow-fissure
-
-lex: '035'
-
-set: naxxramas-raid
+index: '035'
 
 rarity: Uncommon
 
 artist: Tyler Walpole
 
+variation: []
+
 flavor: "\"The dark void awaits you!\" - Kel'Thuzad"
 
-variation: []
+oracle: shadow-fissure-naxxramas-raid-035
+
+set: Naxxramas Raid

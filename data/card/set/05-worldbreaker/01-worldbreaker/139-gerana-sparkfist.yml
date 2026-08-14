@@ -1,13 +1,13 @@
-oracle: gerana-sparkfist
-
-lex: '139'
-
-set: worldbreaker
+index: '139'
 
 rarity: Common
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: "\"I'll be needing a little breathing room, if ye don't mind.\""
 
-variation: []
+oracle: gerana-sparkfist-worldbreaker-139
+
+set: Worldbreaker

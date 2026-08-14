@@ -1,0 +1,27 @@
+name: Miner Stonedeep
+
+origin: march-of-the-legion-160
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 5
+
+health: 7
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: At the start of your turn, target player puts the top five cards of his deck into his graveyard.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

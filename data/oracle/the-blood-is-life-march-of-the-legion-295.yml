@@ -1,0 +1,17 @@
+name: The Blood is Life
+
+origin: march-of-the-legion-295
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: "During your turn, destroy an ally in your party and pay 1 to complete this quest. Reward : Your hero heals damage from itself equal to that ally's health."
+
+regulation:
+
+errata: []
+
+temp: ''

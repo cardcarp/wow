@@ -1,0 +1,22 @@
+name: Davron of Stormwind
+
+origin: alliance-death-knight-2011-001
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: "On your turn: 1 , Flip Davron → Target hero or ally can't protect this turn."
+
+regulation:
+
+errata: []
+
+temp: Human Death Knight

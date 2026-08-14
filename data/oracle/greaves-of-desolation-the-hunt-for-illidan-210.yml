@@ -1,0 +1,23 @@
+name: Greaves of Desolation
+
+origin: the-hunt-for-illidan-210
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: When you strike with a weapon, your hero heals all damage from target ally in your party.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

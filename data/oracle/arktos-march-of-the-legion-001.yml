@@ -1,0 +1,22 @@
+name: Arktos
+
+origin: march-of-the-legion-001
+
+layout: transform
+
+category: Hero
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 1 , Flip Arktos → Prevent all damage that would be dealt to Arktos while he is defending in bear form this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

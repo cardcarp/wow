@@ -1,13 +1,13 @@
-oracle: bestial-resurgence
-
-lex: '032'
-
-set: icecrown
+index: '032'
 
 rarity: Uncommon
 
 artist: Mauro Cascioli
 
+variation: []
+
 flavor: '"If ya become one wit da beasts, then not even death can separate joo, bruddah." - The Longeye'
 
-variation: []
+oracle: bestial-resurgence-icecrown-032
+
+set: Icecrown

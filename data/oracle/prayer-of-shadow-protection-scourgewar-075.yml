@@ -1,0 +1,22 @@
+name: Prayer of Shadow Protection
+
+origin: scourgewar-075
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+instant: Friendly heroes and allies have Shadow Resistance this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Shadow

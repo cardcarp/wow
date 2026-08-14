@@ -1,0 +1,22 @@
+name: Salvo
+
+origin: caverns-of-time-treasure-011
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Your hero deals 4 ranged damage to each of up to three target heroes and/or allies.
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

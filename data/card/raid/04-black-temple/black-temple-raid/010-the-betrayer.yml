@@ -1,14 +1,14 @@
-oracle: the-betrayer
-
-lex: '010'
-
-set: black-temple-raid
+index: '010'
 
 rarity: Rare
 
 artist: Glenn Rane (front), Matt Cavotta (back)
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: the-betrayer-black-temple-raid-010
+
+set: Black Temple Raid

@@ -1,13 +1,13 @@
-oracle: staunch-reprisal
-
-lex: '121'
-
-set: scourgewar
+index: '121'
 
 rarity: Uncommon
 
 artist: Dan Scott
 
+variation: []
+
 flavor: "\"Let them come a bit closer. I've got quite the surprise waiting.\" - Triton the Sacrilegous"
 
-variation: []
+oracle: staunch-reprisal-scourgewar-121
+
+set: Scourgewar

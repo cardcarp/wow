@@ -1,0 +1,27 @@
+name: Bluffwatchers
+
+origin: through-the-dark-portal-200
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Bluffwatchers has +1 ATK and +1 health for each other ally named Bluffwatchers in your party.
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

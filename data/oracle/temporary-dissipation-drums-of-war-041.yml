@@ -1,0 +1,22 @@
+name: Temporary Dissipation
+
+origin: drums-of-war-041
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Remove all allies in your party from the game. At the end of the next turn, put all cards removed this way into your party.
+
+regulation:
+
+errata: []
+
+temp: Arcane

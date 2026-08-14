@@ -1,13 +1,13 @@
-oracle: censure
-
-lex: '066'
-
-set: worldbreaker
+index: '066'
 
 rarity: Common
 
 artist: Vance Kovacs
 
+variation: []
+
 flavor: '"Anyone so easily dismissed is unworthy of defeat at my hands." - Rekwa Proudhorn'
 
-variation: []
+oracle: censure-worldbreaker-066
+
+set: Worldbreaker

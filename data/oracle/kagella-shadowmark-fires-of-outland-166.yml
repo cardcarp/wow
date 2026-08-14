@@ -1,0 +1,27 @@
+name: Kagella Shadowmark
+
+origin: fires-of-outland-166
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Kagella Shadowmark has +1 ATK for each exhausted ally in your party.
+
+regulation:
+
+errata: []
+
+temp: Orc Rogue

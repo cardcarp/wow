@@ -1,0 +1,22 @@
+name: Waylay
+
+origin: heroes-of-azeroth-105
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+instant: Exhaust target ally. If your hero is stealthed, it deals damage to that ally equal to that ally's health.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Assassination Combo

@@ -1,0 +1,27 @@
+name: Hailey Goodchilde
+
+origin: fires-of-outland-120
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: → This ally heals all damage from target ally.
+
+regulation:
+
+errata: []
+
+temp: Human Priest

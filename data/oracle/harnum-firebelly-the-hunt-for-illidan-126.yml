@@ -1,0 +1,27 @@
+name: Harnum Firebelly
+
+origin: the-hunt-for-illidan-126
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Frost Resistance
+
+regulation:
+
+errata: []
+
+temp: Dwarf Priest

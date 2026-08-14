@@ -1,0 +1,27 @@
+name: Silea Dawnwalker
+
+origin: march-of-the-legion-203
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When you play an ability, you may destroy target equipment.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

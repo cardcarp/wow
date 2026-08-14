@@ -1,0 +1,27 @@
+name: Kurao Stormheart
+
+origin: scourgewar-183
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally readies, he may deal 1 melee damage to target ally.
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

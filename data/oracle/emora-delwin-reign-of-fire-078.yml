@@ -1,0 +1,27 @@
+name: Emora Delwin
+
+origin: reign-of-fire-078
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 2
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: → This turn, target ally can't attack or protect, loses and can't have powers, and is also a Sheep.
+
+regulation:
+
+errata: []
+
+temp: Human Mage

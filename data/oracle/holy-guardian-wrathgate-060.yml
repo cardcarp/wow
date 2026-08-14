@@ -1,0 +1,28 @@
+name: Holy Guardian
+
+origin: wrathgate-060
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 3
+
+combat: Holy
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Protector Damage that this ally would deal is unpreventable. Opposing heroes can't deal holy ( ) damage.
+
+regulation:
+
+errata: []
+
+temp: Guardian

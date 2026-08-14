@@ -1,0 +1,22 @@
+name: Wild Swipes
+
+origin: caverns-of-time-treasure-008
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: 'Ongoing : Your hero has Assault 2 while you control a form.'
+
+regulation:
+
+errata: []
+
+temp: Feral

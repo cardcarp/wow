@@ -1,0 +1,25 @@
+name: Azure Captain
+
+origin: war-of-the-elements-154
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 6
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: When you play an ability, target hero or ally has Protector this turn.
+
+regulation:
+
+errata: []
+
+temp: Blue Dragonkin

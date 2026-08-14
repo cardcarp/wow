@@ -1,0 +1,19 @@
+name: Contagious Blood
+
+origin: battle-of-the-aspects-raid-020
+
+layout: standard
+
+category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Each Raider puts the top card of his deck into his graveyard. Then Deathwing puts a Corrupted Blood ally token into play for each ally in all Raiders' graveyards.
+
+regulation:
+
+errata: []
+
+temp: ''

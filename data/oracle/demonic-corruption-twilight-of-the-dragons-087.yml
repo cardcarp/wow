@@ -1,0 +1,22 @@
+name: Demonic Corruption
+
+origin: twilight-of-the-dragons-087
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warlock
+
+instant: When the next opposing ally enters play this turn, put a token copy of that ally into play under your control. That copy is also a Demon.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Demonology

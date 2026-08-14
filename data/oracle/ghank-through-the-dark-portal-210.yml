@@ -1,0 +1,27 @@
+name: Ghank
+
+origin: through-the-dark-portal-210
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Stealth When Ghank enters play, you may destroy target exhausted ally with damage on it.
+
+regulation:
+
+errata: []
+
+temp: Orc Rogue

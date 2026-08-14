@@ -1,0 +1,22 @@
+name: Eruption Trap
+
+origin: caverns-of-time-treasure-009
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Hunter
+
+instant: Trap Remove your defending hero from combat. If you do, your hero deals 4 fire damage to target hero.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

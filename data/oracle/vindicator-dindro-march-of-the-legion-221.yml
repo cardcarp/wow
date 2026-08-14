@@ -1,0 +1,25 @@
+name: Vindicator Dindro
+
+origin: march-of-the-legion-221
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Weapon'
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

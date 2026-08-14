@@ -1,0 +1,23 @@
+name: Gluth
+
+origin: naxxramas-raid-008
+
+layout: transform
+
+category: Hero
+
+type: Boss
+
+rule:
+  - type: ability
+    position: front
+    text: "Conspicuous , Assault 6 At the start of each raider's turn, put a Zombie Chow into play. On your turn: Destroy a Zombie Chow → Gluth heals 3 damage from himself."
+  - type: ability
+    position: reverse
+    text: Conspicuous , Assault 6 When Gluth flips to this side, put damage on each raiding hero until it has damage equal to its -6. When Gluth is destroyed, remove 15 damage from each raiding hero.
+
+regulation:
+
+errata: []
+
+temp: Plague-dog 18

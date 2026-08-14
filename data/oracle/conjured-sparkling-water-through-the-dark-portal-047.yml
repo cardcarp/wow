@@ -1,0 +1,22 @@
+name: Conjured Sparkling Water
+
+origin: through-the-dark-portal-047
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Ongoing : 4 , Destroy Conjured Sparkling Water → Ready all of your resources. 1 → Target player gains control of Conjured Sparkling Water. Use only on your turn.'
+
+regulation:
+
+errata: []
+
+temp: Arcane

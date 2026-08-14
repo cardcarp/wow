@@ -1,0 +1,19 @@
+name: Earthen Guidance
+
+origin: dungeon-treasure-003
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+rule:
+  - type: ability
+    text: "Ongoing : When a Shaman ally enters play under your control or a friendly player's control, it deals 2 nature damage to target opposing ally."
+
+regulation:
+
+errata: []
+
+temp: ''

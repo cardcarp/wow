@@ -1,0 +1,22 @@
+name: Unholy Ground
+
+origin: worldbreaker-031
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 'Ongoing : When a non-token ally you control is destroyed, put a 3 / 3 Ghoul ally token into play.'
+
+regulation:
+
+errata: []
+
+temp: Unholy

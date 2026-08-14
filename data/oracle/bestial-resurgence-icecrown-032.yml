@@ -1,0 +1,22 @@
+name: Bestial Resurgence
+
+origin: icecrown-032
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Put up to three target Pets with different names from your graveyard into your hand.
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery

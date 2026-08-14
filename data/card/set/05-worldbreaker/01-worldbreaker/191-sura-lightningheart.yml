@@ -1,13 +1,13 @@
-oracle: sura-lightningheart
-
-lex: '191'
-
-set: worldbreaker
+index: '191'
 
 rarity: Common
 
 artist: Alex Garner
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: sura-lightningheart-worldbreaker-191
+
+set: Worldbreaker

@@ -1,0 +1,27 @@
+name: Korlix Grimvik
+
+origin: war-of-the-elements-137
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Goblin Death Knight

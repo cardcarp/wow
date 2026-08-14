@@ -1,13 +1,13 @@
-oracle: fordragon-hold
-
-lex: '218'
-
-set: wrathgate
+index: '218'
 
 rarity: Rare
 
 artist: Peter Lee
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: fordragon-hold-wrathgate-218
+
+set: Wrathgate

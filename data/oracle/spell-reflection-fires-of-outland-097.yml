@@ -1,0 +1,22 @@
+name: Spell Reflection
+
+origin: fires-of-outland-097
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+instant: You may exhaust one of your Shields rather than pay Spell Reflection's cost. If an ability card is targeting only your hero, change its target to its controller's hero.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

@@ -1,0 +1,27 @@
+name: Kaelos Sunscream
+
+origin: the-hunt-for-illidan-158
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 1 , Destroy another ally in your party → Destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Priest

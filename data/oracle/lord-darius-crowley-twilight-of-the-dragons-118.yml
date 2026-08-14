@@ -1,0 +1,27 @@
+name: Lord Darius Crowley
+
+origin: twilight-of-the-dragons-118
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 7
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Aberration When this ally enters play, you may howl. If you do, put three 1 / 1 Worgen ally tokens into play with Ferocity .
+
+regulation:
+
+errata: []
+
+temp: Worgen Warrior

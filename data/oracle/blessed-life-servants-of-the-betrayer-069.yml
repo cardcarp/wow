@@ -1,0 +1,22 @@
+name: Blessed Life
+
+origin: servants-of-the-betrayer-069
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: "Holy Hero Required Ongoing : If your hero would be dealt damage, you may put Blessed Life from play into its owner's hand. If you do, prevent that damage."
+
+regulation:
+
+errata: []
+
+temp: Holy Talent

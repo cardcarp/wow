@@ -1,13 +1,14 @@
-oracle: hakkar-the-houndmaster
-
-lex: '022'
-
-set: timewalkers
+index: '022'
 
 rarity: Rare
 
 artist: Unknown
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: hakkar-the-houndmaster-timewalkers-022
+
+set: Timewalkers

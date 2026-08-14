@@ -2,7 +2,7 @@ name: Naxxramas Raid
 
 type: raid
 
-lex:
+index:
 
 subtotal: 66
 
@@ -10,4 +10,4 @@ total: 66
 
 date_release: 2009-12
 
-collection: naxxramas
+collection: Naxxramas

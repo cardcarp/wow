@@ -1,0 +1,22 @@
+name: Distraction Technique
+
+origin: throne-of-the-tides-066
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Ongoing : When an ally or equipment enters play under your control, your hero has Assault 1 this turn, and you may exhaust target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Combat

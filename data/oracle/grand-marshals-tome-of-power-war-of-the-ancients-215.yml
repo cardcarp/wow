@@ -1,0 +1,29 @@
+name: Grand Marshals Tome of Power
+
+origin: war-of-the-ancients-215
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+faction: Alliance
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 2 , → Allies you control have Assault 1 while in combat with heroes this turn, or Assault 2 if in combat with heroes.
+
+regulation:
+
+errata: []
+
+temp: Item Off-Hand

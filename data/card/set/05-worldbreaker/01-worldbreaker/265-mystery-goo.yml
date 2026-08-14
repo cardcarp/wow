@@ -1,13 +1,13 @@
-oracle: mystery-goo
-
-lex: '265'
-
-set: worldbreaker
+index: '265'
 
 rarity: Common
 
 artist: Tyler Walpole
 
+variation: []
+
 flavor: The greenish substance inside the cauldron appears to be similar to what you found in the flask.
 
-variation: []
+oracle: mystery-goo-worldbreaker-265
+
+set: Worldbreaker

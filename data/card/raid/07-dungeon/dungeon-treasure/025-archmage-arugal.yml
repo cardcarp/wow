@@ -1,13 +1,13 @@
-oracle: archmage-arugal
-
-lex: '025'
-
-set: dungeon-treasure
+index: '025'
 
 rarity: Epic
 
 artist: Eric Deschamps
 
+variation: []
+
 flavor: '"You, too, shall serve!"'
 
-variation: []
+oracle: archmage-arugal-dungeon-treasure-025
+
+set: Dungeon Treasure

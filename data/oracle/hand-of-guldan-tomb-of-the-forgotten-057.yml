@@ -1,0 +1,22 @@
+name: Hand of Gul'dan
+
+origin: tomb-of-the-forgotten-057
+
+layout: standard
+
+category: Ability
+
+cost: '7'
+
+class:
+  - Warlock
+
+instant: Demonology Talent Your hero deals 6 shadow damage to target hero or ally. If an ally is dealt fatal damage this way, put a token copy of that ally into play under your control. That copy is also a Demon.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Demonology

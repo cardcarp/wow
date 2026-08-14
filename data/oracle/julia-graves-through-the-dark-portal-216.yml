@@ -1,0 +1,27 @@
+name: Julia Graves
+
+origin: through-the-dark-portal-216
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: You may remove two ally cards in your graveyard from the game rather than pay Julia Graves's cost.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

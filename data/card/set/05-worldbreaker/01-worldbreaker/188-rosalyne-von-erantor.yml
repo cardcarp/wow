@@ -1,13 +1,13 @@
-oracle: rosalyne-von-erantor
-
-lex: '188'
-
-set: worldbreaker
+index: '188'
 
 rarity: Uncommon
 
 artist: Alan Pollack
 
+variation: []
+
 flavor: "\"I'll help, but it'll cost you.\""
 
-variation: []
+oracle: rosalyne-von-erantor-worldbreaker-188
+
+set: Worldbreaker

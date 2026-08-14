@@ -1,0 +1,23 @@
+name: Anub'Rekhan
+
+origin: naxxramas-raid-002
+
+layout: transform
+
+category: Hero
+
+type: Boss
+
+rule:
+  - type: ability
+    position: front
+    text: "Assault 2 At the start of your turn, Anub'Rekhan deals 2 melee damage to a random raiding hero. On your turn: 3 → Flip Anub'Rekhan face down."
+  - type: ability
+    position: reverse
+    text: When Abub'Rekhan flips to this side, put a Crypt Guard into play. Anub'Rekhan can't attack. When a hero or ally deals combat damage to Anub'Rekhan, he deals 2 nature damage to that character. At the start of your turn, flip Anub'Rekhan.
+
+regulation:
+
+errata: []
+
+temp: Crypt Lord 6

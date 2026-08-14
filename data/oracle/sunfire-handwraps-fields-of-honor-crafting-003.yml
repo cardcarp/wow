@@ -1,0 +1,24 @@
+name: Sunfire Handwraps
+
+origin: fields-of-honor-crafting-003
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: Sunfire Handwraps enters play with a +1 DEF counter for each friendly hero and ally. , Remove a +1 DEF counter → Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

@@ -1,0 +1,26 @@
+name: Crystalfire Staff
+
+origin: march-of-the-legion-279
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: Exhaust your hero → Target player draws a card.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

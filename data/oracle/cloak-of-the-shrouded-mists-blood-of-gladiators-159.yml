@@ -1,0 +1,25 @@
+name: Cloak of the Shrouded Mists
+
+origin: blood-of-gladiators-159
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Warrior
+  - Hunter
+  - Rogue
+
+rule:
+  - type: ability
+    text: → The next time your hero would be dealt non-combat damage this turn, prevent it.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

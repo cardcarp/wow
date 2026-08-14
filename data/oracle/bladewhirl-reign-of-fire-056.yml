@@ -1,0 +1,22 @@
+name: Bladewhirl
+
+origin: reign-of-fire-056
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: You pay 1 less to play this ability for each armor you control. Your hero deals melee damage to each opposing ally equal to the ATK of a Melee weapon you control.
+
+regulation:
+
+errata: []
+
+temp: Arms

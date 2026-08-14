@@ -1,13 +1,13 @@
-oracle: xhun-li-lei
-
-lex: '055'
-
-set: monk-starter
+index: '055'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: xhun-li-lei-monk-starter-055
+
+set: Monk Starter

@@ -1,0 +1,31 @@
+name: Crown of the Ogre King
+
+origin: crown-of-the-heavens-171
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: Heroes and allies you control with Smash have Assault 3 .
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

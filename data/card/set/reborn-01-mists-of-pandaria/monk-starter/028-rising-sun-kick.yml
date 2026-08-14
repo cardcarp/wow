@@ -1,13 +1,13 @@
-oracle: rising-sun-kick
-
-lex: '028'
-
-set: monk-starter
+index: '028'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: rising-sun-kick-monk-starter-028
+
+set: Monk Starter

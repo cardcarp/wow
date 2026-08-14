@@ -1,13 +1,13 @@
-oracle: word-of-shame
-
-lex: '035'
-
-set: shadowfang-keep
+index: '035'
 
 rarity: Common
 
 artist: Gabor Szikszai
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: word-of-shame-shadowfang-keep-035
+
+set: Shadowfang Keep

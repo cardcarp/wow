@@ -1,0 +1,22 @@
+name: Wild Growth
+
+origin: twilight-of-the-dragons-036
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+instant: 'Restoration Talent Your hero heals all damage from each ally you control. Then, this ability enters play with a growth counter for each ally healed this way. Ongoing : Your hero has Mend 1 for each growth counter on this ability.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

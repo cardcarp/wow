@@ -1,0 +1,27 @@
+name: Fugu
+
+origin: fires-of-outland-118
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 5
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: → Gain control of target ally until end of turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

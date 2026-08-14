@@ -1,0 +1,24 @@
+name: Faith Healers Boots
+
+origin: fires-of-outland-197
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+  - Priest
+  - Shaman
+
+rule:
+  - type: ability
+    text: → Put an ally card from your graveyard into your hand. Use only if your hero healed damage this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

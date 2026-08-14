@@ -1,0 +1,22 @@
+name: Halavar
+
+origin: march-of-the-legion-006
+
+layout: transform
+
+category: Hero
+
+health: 30
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: Flip Halavar → You pay 1 less to play your next Two-Handed weapon this turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

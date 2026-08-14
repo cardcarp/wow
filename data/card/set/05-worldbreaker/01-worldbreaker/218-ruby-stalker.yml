@@ -1,13 +1,13 @@
-oracle: ruby-stalker
-
-lex: '218'
-
-set: worldbreaker
+index: '218'
 
 rarity: Common
 
 artist: Carl Critchlow
 
+variation: []
+
 flavor: The origin of dragonspawn is unknown, but they serve their Aspects with absolute loyalty.
 
-variation: []
+oracle: ruby-stalker-worldbreaker-218
+
+set: Worldbreaker

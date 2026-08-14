@@ -1,13 +1,13 @@
-oracle: bestial-instinct
-
-lex: '001'
-
-set: dungeon-treasure
+index: '001'
 
 rarity: Common
 
 artist: Jaemin Kim
 
+variation: []
+
 flavor: "\"Nice kitty ... good kitty ...\" - Zunjo of Sen'jin"
 
-variation: []
+oracle: bestial-instinct-dungeon-treasure-001
+
+set: Dungeon Treasure

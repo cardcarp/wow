@@ -1,0 +1,25 @@
+name: Death Knight Understudy
+
+origin: naxxramas-token-006
+
+layout: standard
+
+category: Token
+
+damage: 1
+
+health: 15
+
+combat: Melee
+
+type: Ally
+
+rule:
+  - type: ability
+    text: 'Any raider: Exhaust a non-token ally you control → Gain control of this ally.'
+
+regulation:
+
+errata: []
+
+temp: Human Death Knight

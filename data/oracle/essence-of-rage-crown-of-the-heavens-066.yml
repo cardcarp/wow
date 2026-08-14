@@ -1,0 +1,19 @@
+name: Essence of Rage
+
+origin: crown-of-the-heavens-066
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+rule:
+  - type: ability
+    text: 'You pay 1 less to play this ability for each Monster hero or ally you control. Attach to target ally. Ongoing : Attached ally has +2 / +2 and Smash .'
+
+regulation:
+
+errata: []
+
+temp: ''

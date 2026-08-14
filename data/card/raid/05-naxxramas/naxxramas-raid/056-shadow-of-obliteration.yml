@@ -1,13 +1,13 @@
-oracle: shadow-of-obliteration
-
-lex: '056'
-
-set: naxxramas-raid
+index: '056'
 
 rarity: Uncommon
 
 artist: Howard Lyon
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: shadow-of-obliteration-naxxramas-raid-056
+
+set: Naxxramas Raid

@@ -1,0 +1,22 @@
+name: Form of the Serpent
+
+origin: servants-of-the-betrayer-039
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+instant: 'Traitor Hero Required Ongoing : When your hero attacks, put a poison counter on Form of the Serpent. Your hero has +1 ATK this combat for each poison counter. Remove all poison counters → Your hero deals 1 nature damage to target ally for each counter removed this way.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Traitor

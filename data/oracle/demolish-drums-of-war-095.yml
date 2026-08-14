@@ -1,0 +1,23 @@
+name: Demolish
+
+origin: drums-of-war-095
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+  - Rogue
+
+rule:
+  - type: ability
+    text: Destroy target equipment.
+
+regulation:
+
+errata: []
+
+temp: Combat Protection

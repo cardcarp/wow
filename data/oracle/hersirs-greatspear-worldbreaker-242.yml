@@ -1,0 +1,23 @@
+name: Hersirs Greatspear
+
+origin: worldbreaker-242
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Druid
+  - Hunter
+
+rule:
+  - type: ability
+    text: When an ally enters play under your control, your hero may deal 1 nature damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Polearm

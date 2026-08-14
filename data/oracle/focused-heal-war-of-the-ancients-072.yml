@@ -1,0 +1,24 @@
+name: Focused Heal
+
+origin: war-of-the-ancients-072
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+  - Priest
+  - Shaman
+
+instant: Your hero heals 5 damage from target hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

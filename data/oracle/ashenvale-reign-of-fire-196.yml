@@ -1,0 +1,19 @@
+name: Ashenvale
+
+origin: reign-of-fire-196
+
+layout: standard
+
+category: Location
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Night Elf allies in your hand have Haste 1 .
+
+regulation:
+
+errata: []
+
+temp: ''

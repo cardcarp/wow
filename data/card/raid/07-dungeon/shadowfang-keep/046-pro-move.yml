@@ -1,13 +1,13 @@
-oracle: pro-move
-
-lex: '046'
-
-set: shadowfang-keep
+index: '046'
 
 rarity: Common
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: pro-move-shadowfang-keep-046
+
+set: Shadowfang Keep

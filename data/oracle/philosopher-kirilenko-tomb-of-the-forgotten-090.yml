@@ -1,0 +1,27 @@
+name: Philosopher Kirilenko
+
+origin: tomb-of-the-forgotten-090
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 4
+
+health: 7
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When this ally enters play, if your hero has 15 or more damage on it, this ally heals 7 damage from your hero.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

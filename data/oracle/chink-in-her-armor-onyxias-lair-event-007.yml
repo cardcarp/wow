@@ -1,0 +1,19 @@
+name: Chink in Her Armor
+
+origin: onyxias-lair-event-007
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Opponents may destroy target ability of their choice.
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,13 +1,13 @@
-oracle: branch-of-nordrassil
-
-lex: '024'
-
-set: elderlimb
+index: '024'
 
 rarity: Rare
 
 artist: Patrick McEvoy
 
+variation: []
+
 flavor: '"A bough from Nordrassil has been ripped from the tree and taken deep into the Firelands." - Kalecgos'
 
-variation: []
+oracle: branch-of-nordrassil-crown-of-the-heavens-179
+
+set: Elderlimb

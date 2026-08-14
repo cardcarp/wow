@@ -1,13 +1,13 @@
-oracle: oppress
-
-lex: '077'
-
-set: worldbreaker
+index: '077'
 
 rarity: Common
 
 artist: Efrem Palacios
 
+variation: []
+
 flavor: '"You rely far too much on your tricks." - Yuna Sunridge'
 
-variation: []
+oracle: oppress-worldbreaker-077
+
+set: Worldbreaker

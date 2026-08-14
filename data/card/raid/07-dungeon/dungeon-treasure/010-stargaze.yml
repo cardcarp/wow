@@ -1,13 +1,13 @@
-oracle: stargaze
-
-lex: '010'
-
-set: dungeon-treasure
+index: '010'
 
 rarity: Common
 
 artist: Michael Ivan
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: stargaze-dungeon-treasure-010
+
+set: Dungeon Treasure

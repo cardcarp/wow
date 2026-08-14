@@ -1,0 +1,27 @@
+name: Echo of Jaina
+
+origin: battle-of-the-aspects-treasure-045
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 1
+
+combat: Frost
+
+type: Monster
+
+rule:
+  - type: ability
+    text: 'Elusive If there is an Echo of Jaina in your graveyard: → You pay 2 less to play your next ability, ally, or equipment this turn.'
+
+regulation:
+
+errata: []
+
+temp: Human Echo

@@ -1,0 +1,19 @@
+name: Blackrock Spire
+
+origin: betrayal-of-the-guardian-202
+
+layout: standard
+
+category: Location
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'Bloodrush : While an opposing hero has more damage on it than your hero: 2 , → Put a 2 / 2 Orc Warrior ally token into play with Ferocity and "This ally can attack only heroes."'
+
+regulation:
+
+errata: []
+
+temp: ''

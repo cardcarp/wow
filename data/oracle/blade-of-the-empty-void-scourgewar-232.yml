@@ -1,0 +1,24 @@
+name: Blade of the Empty Void
+
+origin: scourgewar-232
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: While this weapon is in your graveyard, your hero has Protector .
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

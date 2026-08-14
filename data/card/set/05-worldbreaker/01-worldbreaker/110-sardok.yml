@@ -1,13 +1,13 @@
-oracle: sardok
-
-lex: '110'
-
-set: worldbreaker
+index: '110'
 
 rarity: Common
 
 artist: Peter Lee
 
+variation: []
+
 flavor: Born of the Twisting Nether, Sardok's corporeal form is nearly impervious to pain.
 
-variation: []
+oracle: sardok-worldbreaker-110
+
+set: Worldbreaker

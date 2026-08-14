@@ -1,13 +1,13 @@
-oracle: petreus-roffe
-
-lex: '151'
-
-set: scourgewar
+index: '151'
 
 rarity: Common
 
 artist: Derk Venneman
 
+variation: []
+
 flavor: '"May the Light guide me, so that I may free Azeroth from the clutch of death!"'
 
-variation: []
+oracle: petreus-roffe-scourgewar-151
+
+set: Scourgewar

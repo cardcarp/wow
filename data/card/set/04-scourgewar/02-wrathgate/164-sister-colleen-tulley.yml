@@ -1,13 +1,13 @@
-oracle: sister-colleen-tulley
-
-lex: '164'
-
-set: wrathgate
+index: '164'
 
 rarity: Common
 
 artist: Ben Wooten
 
+variation: []
+
 flavor: '"The strength of the Argent Crusade lies in our unwavering faith in the Light and in each other."'
 
-variation: []
+oracle: sister-colleen-tulley-wrathgate-164
+
+set: Wrathgate

@@ -1,13 +1,13 @@
-oracle: blessing-of-cenarius
-
-lex: '033'
-
-set: scourgewar
+index: '033'
 
 rarity: Common
 
 artist: Massive Black
 
+variation: []
+
 flavor: "\"Cenarius's blessings offer more than the simple mending of flesh and bone.\" - Arktos"
 
-variation: []
+oracle: blessing-of-cenarius-scourgewar-033
+
+set: Scourgewar

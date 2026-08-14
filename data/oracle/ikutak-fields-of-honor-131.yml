@@ -1,0 +1,27 @@
+name: Iku'tak
+
+origin: fields-of-honor-131
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 7
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Fire Resistance Shadow Resistance
+
+regulation:
+
+errata: []
+
+temp: Troll Rogue

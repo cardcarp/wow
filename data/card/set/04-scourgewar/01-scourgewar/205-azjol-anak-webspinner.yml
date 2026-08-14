@@ -1,13 +1,13 @@
-oracle: azjol-anak-webspinner
-
-lex: '205'
-
-set: scourgewar
+index: '205'
 
 rarity: Common
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: Ironically, if you don't close the distance quickly, you may soon find yourself unable to escape.
 
-variation: []
+oracle: azjol-anak-webspinner-scourgewar-205
+
+set: Scourgewar

@@ -1,13 +1,13 @@
-oracle: deliberate-vengeance
-
-lex: '048'
-
-set: icecrown
+index: '048'
 
 rarity: Common
 
 artist: Android
 
+variation: []
+
 flavor: "\"Rushing headlong into battle isn't always the best policy.\" - Graccus"
 
-variation: []
+oracle: deliberate-vengeance-icecrown-048
+
+set: Icecrown

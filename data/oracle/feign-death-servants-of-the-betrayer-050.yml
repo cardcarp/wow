@@ -1,0 +1,22 @@
+name: Feign Death
+
+origin: servants-of-the-betrayer-050
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+instant: Play only if your hero is defending or the target of an opposing card or effect. Interrupt all cards and effects, then end the turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

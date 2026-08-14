@@ -1,0 +1,25 @@
+name: Nehru, Timewalker Hunter
+
+origin: betrayal-of-the-guardian-121
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 2
+
+health: 6
+
+combat: Ranged
+
+rule:
+  - type: ability
+    text: 'While you control two or more allies that share a or race: 2 → This ally has Assault 2 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Tauren Hunter

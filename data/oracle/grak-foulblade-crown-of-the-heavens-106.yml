@@ -1,0 +1,25 @@
+name: Grak Foulblade
+
+origin: crown-of-the-heavens-106
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 6
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Orc Death Knight

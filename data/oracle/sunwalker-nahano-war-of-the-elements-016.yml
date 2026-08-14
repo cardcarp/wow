@@ -1,0 +1,25 @@
+name: Sunwalker Nahano
+
+origin: war-of-the-elements-016
+
+layout: transform
+
+category: Hero
+
+health: 30
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 3 → Flip Nahano
+  - type: ability
+    position: reverse
+    text: Allies you control with Protector have +1 ATK while defending.
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

@@ -1,0 +1,22 @@
+name: Vengeful Crusader Strike
+
+origin: war-of-the-elements-062
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: Your hero deals 4 melee damage to target attacker.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution

@@ -1,0 +1,28 @@
+name: Rayder
+
+origin: heroes-of-azeroth-045
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: → Allies in your party have +2 ATK while attacking this turn.
+
+regulation:
+
+errata: []
+
+temp: Wolf

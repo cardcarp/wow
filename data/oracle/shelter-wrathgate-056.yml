@@ -1,0 +1,22 @@
+name: Shelter
+
+origin: wrathgate-056
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: This turn, target card can't be destroyed, and if it's an ally, prevent all damage that would be dealt to it.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

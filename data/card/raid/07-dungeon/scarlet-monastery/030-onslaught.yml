@@ -1,13 +1,13 @@
-oracle: onslaught
-
-lex: '030'
-
-set: scarlet-monastery
+index: '030'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: onslaught-worldbreaker-119
+
+set: Scarlet Monastery

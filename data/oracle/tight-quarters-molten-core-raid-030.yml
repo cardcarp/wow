@@ -1,0 +1,19 @@
+name: Tight Quarters
+
+origin: molten-core-raid-030
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+instant: Destroy target equipment.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Molten Core

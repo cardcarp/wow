@@ -1,13 +1,13 @@
-oracle: oruk-starstorm
-
-lex: '187'
-
-set: worldbreaker
+index: '187'
 
 rarity: Common
 
 artist: Michael Kormarck
 
+variation: []
+
 flavor: '"The moon is always within my call."'
 
-variation: []
+oracle: oruk-starstorm-worldbreaker-187
+
+set: Worldbreaker

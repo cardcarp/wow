@@ -1,0 +1,23 @@
+name: Terror Pit Girdle
+
+origin: magtheridons-lair-treasure-006
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: Your hero is untargetable while an ally is in your party.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

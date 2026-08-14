@@ -1,0 +1,22 @@
+name: Arrowstorm
+
+origin: war-of-the-ancients-016
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+instant: Your hero deals 4 ranged damage to target opposing ally with cost 4 or more.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

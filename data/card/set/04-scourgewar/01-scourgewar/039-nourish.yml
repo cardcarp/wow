@@ -1,13 +1,13 @@
-oracle: nourish
-
-lex: '039'
-
-set: scourgewar
+index: '039'
 
 rarity: Rare
 
 artist: Massive Black
 
+variation: []
+
 flavor: '"Time for the harvest." - Dorn the Tranquil'
 
-variation: []
+oracle: nourish-scourgewar-039
+
+set: Scourgewar

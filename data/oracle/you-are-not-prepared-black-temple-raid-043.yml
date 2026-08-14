@@ -1,0 +1,19 @@
+name: You Are Not Prepared!
+
+origin: black-temple-raid-043
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: 'Ongoing : Destroy this event → Put the top card of the Minion deck into your resource row face down and ready.'
+
+regulation:
+
+errata: []
+
+temp: ''

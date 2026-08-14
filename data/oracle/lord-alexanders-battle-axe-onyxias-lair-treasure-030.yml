@@ -1,0 +1,22 @@
+name: Lord Alexanders Battle Axe
+
+origin: onyxias-lair-treasure-030
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Axe

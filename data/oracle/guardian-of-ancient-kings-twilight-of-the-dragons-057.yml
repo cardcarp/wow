@@ -1,0 +1,28 @@
+name: Guardian of Ancient Kings
+
+origin: twilight-of-the-dragons-057
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 4
+
+combat: Holy
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: While you control a Holy ability, this ally has Mend 2 . While you control a Protection ability, this ally has Protector . While you control a Retribution ability, this ally has Assault 2 .
+
+regulation:
+
+errata: []
+
+temp: Spirit Guardian

@@ -1,0 +1,27 @@
+name: Grandma Deadsie
+
+origin: march-of-the-legion-185
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 1
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Prevent all damage that would be dealt to this ally.
+
+regulation:
+
+errata: []
+
+temp: Undead Priest

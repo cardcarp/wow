@@ -1,13 +1,13 @@
-oracle: frost-nova
-
-lex: '003'
-
-set: jaina
+index: '003'
 
 rarity: Rare
 
 artist: Stabbity
 
+variation: []
+
 flavor: Litori's pursuers found themselves quite literally frozen in their tracks.
 
-variation: []
+oracle: frost-nova-heroes-of-azeroth-055
+
+set: Jaina

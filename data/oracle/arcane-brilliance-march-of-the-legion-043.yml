@@ -1,0 +1,22 @@
+name: Arcane Brilliance
+
+origin: march-of-the-legion-043
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Mage
+
+instant: "Each friendly player draws a card. Ongoing : Each friendly player's maximum hand size is increased by three."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

@@ -1,13 +1,13 @@
-oracle: lockjaw
-
-lex: '243'
-
-set: worldbreaker
+index: '243'
 
 rarity: Uncommon
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: lockjaw-worldbreaker-243
+
+set: Worldbreaker

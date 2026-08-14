@@ -1,0 +1,25 @@
+name: Retainer Eteron
+
+origin: servants-of-the-betrayer-204
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 4
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: "Scryer Reputation Sabotage: Hand When Eteron sabotages an opponent's hand, look at it and choose up to two cards. That opponent puts those cards into his resource row face down and exhausted."
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

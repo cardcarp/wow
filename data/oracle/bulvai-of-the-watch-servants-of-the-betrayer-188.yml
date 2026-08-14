@@ -1,0 +1,25 @@
+name: Bulvai of the Watch
+
+origin: servants-of-the-betrayer-188
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Aldor Reputation Protector If damage would be dealt to your hero, it's dealt to Bulvai instead.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

@@ -1,0 +1,22 @@
+name: Zorak'tul
+
+origin: scourgewar-020
+
+layout: transform
+
+category: Hero
+
+health: 27
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: "If you control another Rogue: Flip Zorak'tul → Exhaust target hero or ally."
+
+regulation:
+
+errata: []
+
+temp: Troll Rogue

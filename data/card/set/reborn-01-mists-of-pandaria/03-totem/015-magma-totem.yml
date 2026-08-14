@@ -1,13 +1,13 @@
-oracle: magma-totem
-
-lex: '015'
-
-set: totem
+index: '015'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: magma-totem-the-hunt-for-illidan-090
+
+set: Totem

@@ -1,0 +1,25 @@
+name: Dryads Wrist Bindings
+
+origin: fields-of-honor-157
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: ', Destroy one of your resources → Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

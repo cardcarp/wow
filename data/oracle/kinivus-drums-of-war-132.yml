@@ -1,0 +1,27 @@
+name: Kinivus
+
+origin: drums-of-war-132
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Shadow Resistance
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

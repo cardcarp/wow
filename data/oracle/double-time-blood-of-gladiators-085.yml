@@ -1,0 +1,23 @@
+name: Double Time
+
+origin: blood-of-gladiators-085
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+  - Shaman
+
+instant: Ready target equipment.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement Arms

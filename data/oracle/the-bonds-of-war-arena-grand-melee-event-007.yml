@@ -1,0 +1,17 @@
+name: The Bonds of War
+
+origin: arena-grand-melee-event-007
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: "Ongoing : Players pay 1 less to play cards and use powers of cards that share one or more printed words on their type line with your hero's type line. (Examples include Arcane, Dwarf, and Rogue.)"
+
+regulation:
+
+errata: []
+
+temp: ''

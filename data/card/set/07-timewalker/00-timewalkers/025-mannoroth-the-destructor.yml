@@ -1,14 +1,14 @@
-oracle: mannoroth-the-destructor
-
-lex: '025'
-
-set: timewalkers
+index: '025'
 
 rarity: Rare
 
 artist: Unknown
 
-flavor: ''
-
 variation:
   - transform
+
+flavor: ''
+
+oracle: mannoroth-the-destructor-timewalkers-025
+
+set: Timewalkers

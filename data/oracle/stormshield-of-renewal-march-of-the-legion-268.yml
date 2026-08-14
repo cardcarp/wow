@@ -1,0 +1,23 @@
+name: Stormshield of Renewal
+
+origin: march-of-the-legion-268
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: When your hero heals damage from a friendly ally, it also heals that much from itself.
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

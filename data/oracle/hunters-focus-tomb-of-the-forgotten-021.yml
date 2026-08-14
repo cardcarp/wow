@@ -1,0 +1,22 @@
+name: Hunters Focus
+
+origin: tomb-of-the-forgotten-021
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Target ally has +2 ATK and Long-Range this turn.
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

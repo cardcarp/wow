@@ -1,0 +1,27 @@
+name: Rokhan
+
+origin: reign-of-fire-109
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: As Rokhan enters play, name a card. Opposing cards in play with that name lose and can't have powers.
+
+regulation:
+
+errata: []
+
+temp: Troll Hunter

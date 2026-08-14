@@ -1,0 +1,25 @@
+name: Atiesh, Greatstaff of the Guardian
+
+origin: betrayal-of-the-guardian-177
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: At the start of your turn, remove the top card of your deck from the game. → For each ally removed this way, put a 1 / 1 Raven Spirit ally token into play. For each ability removed this way, your hero heals 1 damage from target hero or ally. For each equipment removed this way, your hero deals 1 arcane damage to each opposing hero. 12 , Destroy Atiesh → You may play any number of cards removed this way without paying their costs.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

@@ -1,13 +1,13 @@
-oracle: arcane-binding
-
-lex: '039'
-
-set: icecrown
+index: '039'
 
 rarity: Rare
 
 artist: William O'Connor
 
+variation: []
+
 flavor: "\"I've had just about enough of that!\" - Cerripha Sunstreak"
 
-variation: []
+oracle: arcane-binding-icecrown-039
+
+set: Icecrown

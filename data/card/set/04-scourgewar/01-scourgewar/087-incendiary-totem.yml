@@ -1,13 +1,13 @@
-oracle: incendiary-totem
-
-lex: '087'
-
-set: scourgewar
+index: '087'
 
 rarity: Uncommon
 
 artist: Alex Garner
 
+variation: []
+
 flavor: "\"What be da quickest way to make da Scourge afraid? Light dem on fire, mon.\" - Kil'zin of the Darkspear"
 
-variation: []
+oracle: incendiary-totem-scourgewar-087
+
+set: Scourgewar

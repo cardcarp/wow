@@ -1,0 +1,27 @@
+name: Wildweaver Masa'zun
+
+origin: twilight-of-the-dragons-150
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 6
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally enters play, she heals 3 damage from each hero and ally you control.
+
+regulation:
+
+errata: []
+
+temp: Troll Druid

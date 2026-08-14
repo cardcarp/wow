@@ -1,0 +1,22 @@
+name: Deep Earth Mantle
+
+origin: battle-of-the-aspects-treasure-063
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: When you play an ability, your hero heals damage from itself equal to that ability's cost.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

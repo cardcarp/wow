@@ -1,0 +1,19 @@
+name: Malfunction
+
+origin: through-the-dark-portal-147
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+instant: Target player destroys one of his equipment.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,13 +1,13 @@
-oracle: veline-bladestar
-
-lex: '198'
-
-set: worldbreaker
+index: '198'
 
 rarity: Common
 
 artist: Jae-Hwan Kim
 
+variation: []
+
 flavor: '"Lower your weapons immediately. I will not warn you again."'
 
-variation: []
+oracle: veline-bladestar-worldbreaker-198
+
+set: Worldbreaker

@@ -1,0 +1,19 @@
+name: Knock Away
+
+origin: onyxias-lair-raid-020
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+instant: Prevent all damage that would be dealt to Onyxia this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

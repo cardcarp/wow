@@ -1,0 +1,25 @@
+name: Instructor Giralo
+
+origin: the-hunt-for-illidan-176
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Holy
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Ally When Giralo inspires an ally, that ally is a Protector this turn.'
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

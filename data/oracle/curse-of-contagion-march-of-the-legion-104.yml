@@ -1,0 +1,22 @@
+name: Curse of Contagion
+
+origin: march-of-the-legion-104
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+instant: "Attach to target ally. Ongoing : At the start of your turn, your hero deals 1 shadow damage to attached ally. When attached ally is destroyed, you may put Curse of Contagion from its owner's graveyard into play attached to target ally."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Affliction Curse

@@ -1,0 +1,17 @@
+name: Defiling the Defilers
+
+origin: scourgewar-255
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'If allies you controlled dealt 5 or more damage this turn, pay 4 to complete this quest. Reward : Draw three cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,25 @@
+name: Gordash Firetooth
+
+origin: twilight-of-the-dragons-140
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 9
+
+health: 1
+
+combat: Fire
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Orc Mage

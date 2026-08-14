@@ -1,0 +1,25 @@
+name: Emerald Lifewarden
+
+origin: worldbreaker-206
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Nature
+
+rule:
+  - type: ability
+    text: "You can place an additional resource on each of your turns. Stash : Reveal the top card of your deck. If it's a quest, put it into your hand."
+
+regulation:
+
+errata: []
+
+temp: Green Dragonkin

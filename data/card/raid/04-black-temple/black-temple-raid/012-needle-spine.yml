@@ -1,13 +1,13 @@
-oracle: needle-spine
-
-lex: '012'
-
-set: black-temple-raid
+index: '012'
 
 rarity: Uncommon
 
 artist: Steve Ellis
 
+variation: []
+
 flavor: '"My patience has run out! Die! Die!"'
 
-variation: []
+oracle: needle-spine-black-temple-raid-012
+
+set: Black Temple Raid

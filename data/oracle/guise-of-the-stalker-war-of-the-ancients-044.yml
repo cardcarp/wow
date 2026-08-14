@@ -1,0 +1,22 @@
+name: Guise of the Stalker
+
+origin: war-of-the-ancients-044
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Attach to target ally. Ongoing : Attached ally has +3 ATK, Stealth , and Spellshield .'
+
+regulation:
+
+errata: []
+
+temp: Subtlety Attachment

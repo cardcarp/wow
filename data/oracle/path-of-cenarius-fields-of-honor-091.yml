@@ -1,0 +1,19 @@
+name: Path of Cenarius
+
+origin: fields-of-honor-091
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: 'Attach to target ally. Ongoing : Attached ally has " 1 , → Ready another target ally."'
+
+regulation:
+
+errata: []
+
+temp: ''

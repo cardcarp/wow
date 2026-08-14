@@ -1,0 +1,26 @@
+name: Discerning Eye of the Beast
+
+origin: worldbreaker-229
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: "2 , Put this equipment into its owner's hand → Draw a card. Stash : Add an heirloom counter to target equipment you control."
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

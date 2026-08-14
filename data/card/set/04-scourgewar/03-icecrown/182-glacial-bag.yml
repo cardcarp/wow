@@ -1,13 +1,13 @@
-oracle: glacial-bag
-
-lex: '182'
-
-set: icecrown
+index: '182'
 
 rarity: Rare
 
 artist: Jim Pavelec
 
+variation: []
+
 flavor: '"The cloth is surprisingly flexible considering its temperature." - Riley Sizzleswitch'
 
-variation: []
+oracle: glacial-bag-icecrown-182
+
+set: Icecrown

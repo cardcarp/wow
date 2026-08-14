@@ -1,13 +1,13 @@
-oracle: sinful-beam
-
-lex: '027'
-
-set: black-temple-raid
+index: '027'
 
 rarity: Uncommon
 
 artist: Daarken
 
+variation: []
+
 flavor: '"You play, you pay."'
 
-variation: []
+oracle: sinful-beam-black-temple-raid-027
+
+set: Black Temple Raid

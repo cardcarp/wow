@@ -1,0 +1,27 @@
+name: Galway Steamwhistle
+
+origin: heroes-of-azeroth-185
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: → Ready your hero and one of your weapons.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warrior

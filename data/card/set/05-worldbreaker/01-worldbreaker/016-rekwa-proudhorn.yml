@@ -1,14 +1,14 @@
-oracle: rekwa-proudhorn
-
-lex: '016'
-
-set: worldbreaker
+index: '016'
 
 rarity: Uncommon
 
 artist: Mark Zug
 
-flavor: '"The Destroyer has returned, and I have turned to the Sun for guidance."'
-
 variation:
   - transform
+
+flavor: '"The Destroyer has returned, and I have turned to the Sun for guidance."'
+
+oracle: rekwa-proudhorn-worldbreaker-016
+
+set: Worldbreaker

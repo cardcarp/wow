@@ -1,0 +1,22 @@
+name: Needle Spine
+
+origin: black-temple-raid-012
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+instant: Traitor Hero Required When target hero or ally deals combat damage to your defending hero this turn, your hero also deals that much ranged damage to it.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Traitor

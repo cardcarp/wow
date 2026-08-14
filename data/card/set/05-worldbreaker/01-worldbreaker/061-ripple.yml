@@ -1,13 +1,13 @@
-oracle: ripple
-
-lex: '061'
-
-set: worldbreaker
+index: '061'
 
 rarity: Uncommon
 
 artist: Chris Seaman
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: ripple-worldbreaker-061
+
+set: Worldbreaker

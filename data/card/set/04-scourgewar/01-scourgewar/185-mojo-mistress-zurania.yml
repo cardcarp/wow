@@ -1,13 +1,13 @@
-oracle: mojo-mistress-zurania
-
-lex: '185'
-
-set: scourgewar
+index: '185'
 
 rarity: Common
 
 artist: James Zhang
 
+variation: []
+
 flavor: '"Da mojo can manifest itself in many ways, mon."'
 
-variation: []
+oracle: mojo-mistress-zurania-scourgewar-185
+
+set: Scourgewar

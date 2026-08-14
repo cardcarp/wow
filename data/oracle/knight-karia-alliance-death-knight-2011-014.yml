@@ -1,0 +1,27 @@
+name: Knight Karia
+
+origin: alliance-death-knight-2011-014
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 4
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

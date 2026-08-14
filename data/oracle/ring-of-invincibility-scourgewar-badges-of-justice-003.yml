@@ -1,0 +1,27 @@
+name: Ring of Invincibility
+
+origin: scourgewar-badges-of-justice-003
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Shaman
+
+rule:
+  - type: ability
+    text: 1 , → Target ally has Invincible this turn.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

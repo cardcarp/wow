@@ -1,0 +1,27 @@
+name: Tyrennius Scatheblade
+
+origin: march-of-the-legion-206
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

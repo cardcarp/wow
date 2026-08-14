@@ -1,0 +1,27 @@
+name: Ossus the Ancient
+
+origin: blood-of-gladiators-114
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Draenei Hero Required Inspiring Presence Prevent all combat damage that would be dealt.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

@@ -1,0 +1,22 @@
+name: Soul Warding
+
+origin: reign-of-fire-036
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: "Discipline Talent Attach to target ally. Ongoing : Attached ally can't be destroyed."
+
+regulation:
+
+errata: []
+
+temp: Discipline Attachment

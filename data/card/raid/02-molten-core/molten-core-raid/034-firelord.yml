@@ -1,13 +1,13 @@
-oracle: firelord
-
-lex: '034'
-
-set: molten-core-raid
+index: '034'
 
 rarity: Uncommon
 
 artist: Michael Kormarck
 
+variation: []
+
 flavor: The first thing eager raiders learn about the Molten Core is the importance of keeping lava spawns under control.
 
-variation: []
+oracle: firelord-molten-core-raid-034
+
+set: Molten Core Raid

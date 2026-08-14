@@ -1,13 +1,13 @@
-oracle: gushing-wound
-
-lex: '106'
-
-set: scourgewar
+index: '106'
 
 rarity: Common
 
 artist: Matt Cavotta
 
+variation: []
+
 flavor: '"Take all the time you need ... or have left." - Bulkas Wildhorn'
 
-variation: []
+oracle: gushing-wound-scourgewar-106
+
+set: Scourgewar

@@ -1,0 +1,25 @@
+name: Hesawa Stormwalker
+
+origin: throne-of-the-tides-149
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 5
+
+combat: Arcane
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

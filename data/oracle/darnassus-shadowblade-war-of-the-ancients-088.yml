@@ -1,0 +1,27 @@
+name: Darnassus Shadowblade
+
+origin: war-of-the-ancients-088
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Night Elf allies you control have Stealth .
+
+regulation:
+
+errata: []
+
+temp: Night Elf Rogue

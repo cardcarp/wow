@@ -1,14 +1,14 @@
-oracle: alexstrasza-the-life-binder
-
-lex: '021'
-
-set: worldbreaker
+index: '021'
 
 rarity: Rare
 
 artist:
 
-flavor: (Allies you control can protect this hero.)
-
 variation:
   - transform
+
+flavor: (Allies you control can protect this hero.)
+
+oracle: alexstrasza-the-life-binder-worldbreaker-021
+
+set: Worldbreaker

@@ -1,0 +1,19 @@
+name: Enter the Dream
+
+origin: gift-of-the-aspects-003
+
+layout: standard
+
+category: Misc
+
+type: Gift
+
+rule:
+  - type: ability
+    text: 'If a Raiding hero dealt damage to Stage 4 Deathwing, gain this Gift. Use this Gift: Your hero heals 6 damage from target Raiding hero.'
+
+regulation:
+
+errata: []
+
+temp: ''

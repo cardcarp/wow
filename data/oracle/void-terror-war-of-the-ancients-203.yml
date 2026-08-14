@@ -1,0 +1,25 @@
+name: Void Terror
+
+origin: war-of-the-ancients-203
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Void Terror Demon

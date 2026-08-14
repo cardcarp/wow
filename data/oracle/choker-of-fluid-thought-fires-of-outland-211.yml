@@ -1,0 +1,26 @@
+name: Choker of Fluid Thought
+
+origin: fires-of-outland-211
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: → Reveal the top card of target player's deck. You may remove that card from the game.
+
+regulation:
+
+errata: []
+
+temp: Item Neck

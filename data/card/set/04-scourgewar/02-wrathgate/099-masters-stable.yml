@@ -1,13 +1,13 @@
-oracle: masters-stable
-
-lex: '099'
-
-set: wrathgate
+index: '099'
 
 rarity: Uncommon
 
 artist: Dave Allsop
 
+variation: []
+
 flavor: "\"You and I are not that different. It's just a matter of how willing our pets are to serve us.\" - Felbender Lara"
 
-variation: []
+oracle: masters-stable-wrathgate-099
+
+set: Wrathgate

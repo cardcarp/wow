@@ -1,13 +1,13 @@
-oracle: holy-light
-
-lex: '068'
-
-set: worldbreaker
+index: '068'
 
 rarity: Common
 
 artist: Julie Bell
 
+variation: []
+
 flavor: "\"The third and most important of the Light's virtues is compassion.\" - Uther the Lightbringer"
 
-variation: []
+oracle: holy-light-heroes-of-azeroth-069
+
+set: Worldbreaker

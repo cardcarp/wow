@@ -1,13 +1,13 @@
-oracle: murloc-coastrunner
-
-lex: '016'
-
-set: murkdeep
+index: '016'
 
 rarity: Common
 
 artist: Jakub Kasper
 
+variation: []
+
 flavor: '"Mlmmlmmm Ggmggmmlr Lgmlmm Lrmmgmlmggl!"'
 
-variation: []
+oracle: murloc-coastrunner-throne-of-the-tides-188
+
+set: Murkdeep

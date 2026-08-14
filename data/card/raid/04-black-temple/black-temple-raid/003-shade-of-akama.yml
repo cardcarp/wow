@@ -1,14 +1,14 @@
-oracle: shade-of-akama
-
-lex: '003'
-
-set: black-temple-raid
+index: '003'
 
 rarity: Rare
 
 artist: Michael Kormarck
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: shade-of-akama-black-temple-raid-003
+
+set: Black Temple Raid

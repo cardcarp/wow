@@ -1,0 +1,22 @@
+name: Dawns Grace
+
+origin: drums-of-war-051
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: Your hero heals 6 damage divided as you choose from any number of target heroes and/or allies.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

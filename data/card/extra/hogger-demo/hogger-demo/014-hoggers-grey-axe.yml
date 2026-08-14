@@ -1,13 +1,13 @@
-oracle: hoggers-grey-axe
-
-lex: '014'
-
-set: hogger-demo
+index: '014'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: hoggers-grey-axe-hogger-demo-014
+
+set: Hogger Demo

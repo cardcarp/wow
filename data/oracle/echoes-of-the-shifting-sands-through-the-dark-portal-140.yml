@@ -1,0 +1,19 @@
+name: Echoes of the Shifting Sands
+
+origin: through-the-dark-portal-140
+
+layout: standard
+
+category: Ability
+
+cost: '15'
+
+rule:
+  - type: ability
+    text: Each player reveals his deck, puts all revealed ally cards into play, and then shuffles his deck.
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,13 +1,13 @@
-oracle: anti-magic-shell
-
-lex: '022'
-
-set: wrathgate
+index: '022'
 
 rarity: Uncommon
 
 artist: Phroilan Gardner
 
+variation: []
+
 flavor: (non-)
 
-variation: []
+oracle: anti-magic-shell-wrathgate-022
+
+set: Wrathgate

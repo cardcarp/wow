@@ -1,0 +1,27 @@
+name: Elderguard Brennan
+
+origin: crown-of-the-heavens-105
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 8
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: This ally enters play with 4 damage on him.
+
+regulation:
+
+errata: []
+
+temp: Undead Death Knight

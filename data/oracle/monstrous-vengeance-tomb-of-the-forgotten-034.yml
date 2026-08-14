@@ -1,0 +1,22 @@
+name: Monstrous Vengeance
+
+origin: tomb-of-the-forgotten-034
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+instant: 'Ongoing : When a Monster ally you control is destroyed, you may destroy target opposing ally. At end of turn, destroy this ability.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution

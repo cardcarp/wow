@@ -1,0 +1,22 @@
+name: Mana Diamond
+
+origin: worldbreaker-059
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, add a mana counter to this ability. Then, you may destroy this ability. If you do, draw a card for each mana counter.'
+
+regulation:
+
+errata: []
+
+temp: Arcane

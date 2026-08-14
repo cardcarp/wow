@@ -1,0 +1,25 @@
+name: Vindicator Javlo
+
+origin: the-hunt-for-illidan-180
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Aldor Reputation When an ally in your party is inspired, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

@@ -1,0 +1,27 @@
+name: Vixton Pinchwhistle
+
+origin: drums-of-war-202
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 0
+
+health: 5
+
+combat: Melee
+
+type: Arena
+
+rule:
+  - type: ability
+    text: → Reveal the top three cards of your deck. Put a revealed Arena card into hand and the rest on the bottom of your deck.
+
+regulation:
+
+errata: []
+
+temp: Goblin

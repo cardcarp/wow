@@ -1,0 +1,22 @@
+name: Zealotry
+
+origin: reign-of-fire-032
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Retribution Talent Ongoing : Heroes and weapons you control have Sentinel .'
+
+regulation:
+
+errata: []
+
+temp: Retribution

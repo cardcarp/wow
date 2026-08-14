@@ -1,0 +1,22 @@
+name: Darkest Before the Light
+
+origin: blood-of-gladiators-047
+
+layout: standard
+
+category: Ability
+
+cost: '8'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Your hero heals all damage from each friendly hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Holy

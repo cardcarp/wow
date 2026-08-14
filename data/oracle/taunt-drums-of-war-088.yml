@@ -1,0 +1,22 @@
+name: Taunt
+
+origin: drums-of-war-088
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: 'Attach to target hero or ally. Ongoing : Attached character must attack if able and can attack only your hero if able.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

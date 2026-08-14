@@ -1,0 +1,24 @@
+name: Riveted Abomination Leggings
+
+origin: naxxramas-treasure-017
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: Heroes and allies you control have Assault 2 and Conspicuous .
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

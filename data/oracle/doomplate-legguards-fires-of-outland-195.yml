@@ -1,0 +1,23 @@
+name: Doomplate Legguards
+
+origin: fires-of-outland-195
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: Your weapons have +3 ATK while you have five or more equipment.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

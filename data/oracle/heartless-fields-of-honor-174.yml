@@ -1,0 +1,24 @@
+name: Heartless
+
+origin: fields-of-honor-174
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Warrior
+  - Death Knight
+  - Rogue
+
+rule:
+  - type: ability
+    text: Your hero has Dual Wield . Put 1 damage on an ally in your party → You pay 1 less the next time you strike with Heartless this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

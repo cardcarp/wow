@@ -1,13 +1,13 @@
-oracle: inspire
-
-lex: '023'
-
-set: molten-core-raid
+index: '023'
 
 rarity: Uncommon
 
 artist: Phroilan Gardner
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: inspire-molten-core-raid-023
+
+set: Molten Core Raid

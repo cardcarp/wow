@@ -1,14 +1,14 @@
-oracle: kungen-the-thunderer
-
-lex: '015'
-
-set: wrathgate
+index: '015'
 
 rarity: Uncommon
 
 artist: Zoltan Boros & Gabor Szikszai
 
-flavor: Thunder follows lightning, but Kungen's enemies hear him before they see the light.
-
 variation:
   - transform
+
+flavor: Thunder follows lightning, but Kungen's enemies hear him before they see the light.
+
+oracle: kungen-the-thunderer-wrathgate-015
+
+set: Wrathgate

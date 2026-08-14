@@ -1,0 +1,25 @@
+name: Emmi Sprinklestrike
+
+origin: arena-grand-melee-001
+
+layout: transform
+
+category: Hero
+
+health: 30
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 5 → You may flip Emmi.
+  - type: ability
+    position: reverse
+    text: Emmi has 1 ATK.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warrior

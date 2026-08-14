@@ -1,0 +1,27 @@
+name: Bloodeye
+
+origin: march-of-the-legion-176
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 8
+
+health: 8
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Bloodeye can attack only heroes.
+
+regulation:
+
+errata: []
+
+temp: Orc Hunter

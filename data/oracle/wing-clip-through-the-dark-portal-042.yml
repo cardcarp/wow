@@ -1,0 +1,22 @@
+name: Wing Clip
+
+origin: through-the-dark-portal-042
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+instant: Target hero or ally can't attack your hero this turn. Your hero deals 1 melee damage to that character.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

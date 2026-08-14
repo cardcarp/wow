@@ -1,13 +1,13 @@
-oracle: fenton-guardmont
-
-lex: '136'
-
-set: worldbreaker
+index: '136'
 
 rarity: Common
 
 artist: Howard Lyon
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: fenton-guardmont-worldbreaker-136
+
+set: Worldbreaker

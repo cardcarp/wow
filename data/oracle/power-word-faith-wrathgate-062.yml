@@ -1,0 +1,22 @@
+name: 'Power Word: Faith'
+
+origin: wrathgate-062
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: 'Attach to target ally. Ongoing : Attached ally has Mend 3 . When attached ally heals damage, you may destroy target ability.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Discipline

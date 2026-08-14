@@ -1,13 +1,13 @@
-oracle: hex
-
-lex: '070'
-
-set: icecrown
+index: '070'
 
 rarity: Common
 
 artist: Matt Cavotta
 
+variation: []
+
 flavor: '"Ribbit."'
 
-variation: []
+oracle: hex-icecrown-070
+
+set: Icecrown

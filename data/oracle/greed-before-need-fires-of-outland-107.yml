@@ -1,0 +1,19 @@
+name: Greed Before Need
+
+origin: fires-of-outland-107
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+rule:
+  - type: ability
+    text: "Ongoing : You can play equipment cards from other players' graveyards."
+
+regulation:
+
+errata: []
+
+temp: ''

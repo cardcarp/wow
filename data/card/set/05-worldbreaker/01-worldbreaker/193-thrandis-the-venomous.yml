@@ -1,13 +1,13 @@
-oracle: thrandis-the-venomous
-
-lex: '193'
-
-set: worldbreaker
+index: '193'
 
 rarity: Rare
 
 artist: Christopher Moeller
 
+variation: []
+
 flavor: '"Uh, lads, methinks I found the snakes ..." - Grumpherys'
 
-variation: []
+oracle: thrandis-the-venomous-worldbreaker-193
+
+set: Worldbreaker

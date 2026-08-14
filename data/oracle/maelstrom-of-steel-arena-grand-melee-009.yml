@@ -1,0 +1,24 @@
+name: Maelstrom of Steel
+
+origin: arena-grand-melee-009
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+type: Arena
+
+rule:
+  - type: ability
+    text: 'Preparation Ongoing : You pay 1 less to strike with weapons.'
+
+regulation:
+
+errata: []
+
+temp: ''

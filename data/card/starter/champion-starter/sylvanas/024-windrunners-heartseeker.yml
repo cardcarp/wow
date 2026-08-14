@@ -1,13 +1,13 @@
-oracle: windrunners-heartseeker
-
-lex: '024'
-
-set: sylvanas
+index: '024'
 
 rarity: Rare
 
 artist: Oliver Chipping
 
+variation: []
+
 flavor: '"May Azeroth never fail to remember the terrible price we paid for our weakness ... for our pride." - Dark Lady Sylvanas Windrunner'
 
-variation: []
+oracle: windrunners-heartseeker-assault-on-icecrown-citadel-treasure-027
+
+set: Sylvanas

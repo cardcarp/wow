@@ -1,0 +1,19 @@
+name: Spirit of Winter Veil
+
+origin: feast-of-winter-veil-2012-001
+
+layout: standard
+
+category: Ability
+
+cost: '7'
+
+rule:
+  - type: ability
+    text: "Ongoing : At the start of each player's turn, he may draw two cards. Each player may place up to two additional resources each turn."
+
+regulation:
+
+errata: []
+
+temp: ''

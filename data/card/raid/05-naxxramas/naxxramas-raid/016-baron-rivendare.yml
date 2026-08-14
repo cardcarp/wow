@@ -1,13 +1,14 @@
-oracle: baron-rivendare
-
-lex: '016'
-
-set: naxxramas-raid
+index: '016'
 
 rarity: Rare
 
 artist: Ralph Horsley
 
+variation:
+  - transform
+
 flavor:
 
-variation: []
+oracle: baron-rivendare-naxxramas-raid-016
+
+set: Naxxramas Raid

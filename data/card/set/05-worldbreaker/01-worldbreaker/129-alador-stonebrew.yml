@@ -1,13 +1,13 @@
-oracle: alador-stonebrew
-
-lex: '129'
-
-set: worldbreaker
+index: '129'
 
 rarity: Common
 
 artist: Steve Prescott
 
+variation: []
+
 flavor: "\"Times are tough, lad, but I'll always have yer back.\""
 
-variation: []
+oracle: alador-stonebrew-worldbreaker-129
+
+set: Worldbreaker

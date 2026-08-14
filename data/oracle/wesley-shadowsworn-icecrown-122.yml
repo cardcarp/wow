@@ -1,0 +1,25 @@
+name: Wesley Shadowsworn
+
+origin: icecrown-122
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 8
+
+health: 6
+
+combat: Shadow
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Human Warlock

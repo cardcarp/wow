@@ -1,0 +1,22 @@
+name: Defiance
+
+origin: blood-of-gladiators-077
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: "Protection Hero Required Ongoing : Only one character can attack on each opponent's turn."
+
+regulation:
+
+errata: []
+
+temp: Protection Talent

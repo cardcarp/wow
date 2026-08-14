@@ -1,0 +1,27 @@
+name: Keeper Alinar
+
+origin: crown-of-the-heavens-154
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Nature
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Harmonize When this ally enters play, he heals 3 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Keeper of the Grove Druid

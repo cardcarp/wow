@@ -1,13 +1,13 @@
-oracle: skeletal-warhorse
-
-lex: '140'
-
-set: icecrown
+index: '140'
 
 rarity: Rare
 
 artist: Ralph Horsley
 
+variation: []
+
 flavor: (Mounts can't attack or be attacked.)
 
-variation: []
+oracle: skeletal-warhorse-icecrown-140
+
+set: Icecrown

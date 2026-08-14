@@ -1,0 +1,19 @@
+name: Magma Blast
+
+origin: molten-core-raid-049
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+rule:
+  - type: ability
+    text: "Ongoing : At the end of each opponent's turn, if Ragnaros isn't Submerged and was dealt no damage this turn, Ragnaros deals 1 fire damage to that player's hero for each rune you have."
+
+regulation:
+
+errata: []
+
+temp: Ragnaros

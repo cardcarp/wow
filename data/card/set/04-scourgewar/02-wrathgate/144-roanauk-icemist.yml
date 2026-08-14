@@ -1,13 +1,13 @@
-oracle: roanauk-icemist
-
-lex: '144'
-
-set: wrathgate
+index: '144'
 
 rarity: Epic
 
 artist: Carl Critchlow
 
+variation: []
+
 flavor: '"From this moment, until the end of days I live and die - For the Horde!"'
 
-variation: []
+oracle: roanauk-icemist-wrathgate-144
+
+set: Wrathgate

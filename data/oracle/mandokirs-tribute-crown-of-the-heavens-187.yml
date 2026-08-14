@@ -1,0 +1,22 @@
+name: Mandokirs Tribute
+
+origin: crown-of-the-heavens-187
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Long-Range This weapon has +3 ATK for each Pet you control.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Bow

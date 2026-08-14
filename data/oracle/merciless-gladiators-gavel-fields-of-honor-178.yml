@@ -1,0 +1,24 @@
+name: Merciless Gladiators Gavel
+
+origin: fields-of-honor-178
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Druid
+  - Priest
+  - Shaman
+
+rule:
+  - type: ability
+    text: If your hero would deal non-combat damage, it deals double that much instead.
+
+regulation:
+
+errata: []
+
+temp: 1H Arena Weapon Mace

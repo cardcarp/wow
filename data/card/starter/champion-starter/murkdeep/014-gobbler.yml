@@ -1,13 +1,13 @@
-oracle: gobbler
-
-lex: '014'
-
-set: murkdeep
+index: '014'
 
 rarity: Rare
 
 artist: Phil Saunders
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: gobbler-throne-of-the-tides-187
+
+set: Murkdeep

@@ -1,0 +1,24 @@
+name: Sun-Emblazoned Chestplate
+
+origin: wrathgate-177
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: When this armor prevents damage that would be dealt by an attacker, your hero deals that much unpreventable holy damage to that attacker.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

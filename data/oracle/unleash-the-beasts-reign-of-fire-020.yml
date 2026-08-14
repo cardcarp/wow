@@ -1,0 +1,22 @@
+name: Unleash the Beasts
+
+origin: reign-of-fire-020
+
+layout: standard
+
+category: Ability
+
+cost: '9'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'Ongoing : When this ability enters play, reveal the top five cards of your deck. Put any number of revealed Pet and/or Beast allies into play, and the rest on the bottom of your deck. You can control any number of Pets. Pet and Beast allies you control have Ferocity and Smash .'
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery

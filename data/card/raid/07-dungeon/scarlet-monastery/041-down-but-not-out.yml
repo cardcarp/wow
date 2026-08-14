@@ -1,13 +1,13 @@
-oracle: down-but-not-out
-
-lex: '041'
-
-set: scarlet-monastery
+index: '041'
 
 rarity: Common
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: down-but-not-out-scarlet-monastery-041
+
+set: Scarlet Monastery

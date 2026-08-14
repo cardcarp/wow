@@ -1,14 +1,14 @@
-oracle: hogger
-
-lex: '001'
-
-set: hogger
+index: '001'
 
 rarity: Uncommon
 
 artist: LD Austin
 
-flavor: '"Forest just setback!"'
-
 variation:
   - transform
+
+flavor: '"Forest just setback!"'
+
+oracle: hogger-hogger-demo-018
+
+set: Hogger

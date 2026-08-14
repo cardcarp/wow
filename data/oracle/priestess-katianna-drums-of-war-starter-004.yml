@@ -1,0 +1,27 @@
+name: Priestess Katianna
+
+origin: drums-of-war-starter-004
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

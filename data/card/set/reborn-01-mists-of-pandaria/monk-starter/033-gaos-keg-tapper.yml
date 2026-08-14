@@ -1,13 +1,13 @@
-oracle: gaos-keg-tapper
-
-lex: '033'
-
-set: monk-starter
+index: '033'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: gaos-keg-tapper-monk-starter-033
+
+set: Monk Starter

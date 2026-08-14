@@ -1,0 +1,25 @@
+name: Durotar Flamecaster
+
+origin: war-of-the-ancients-128
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 4
+
+health: 3
+
+combat: Fire
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Orc Mage

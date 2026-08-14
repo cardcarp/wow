@@ -1,0 +1,22 @@
+name: Entangling Growth
+
+origin: worldbreaker-034
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+instant: "Attach to target opposing ally and exhaust it. Ongoing : Attached ally can't ready during its controller's ready step."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Balance Attachment

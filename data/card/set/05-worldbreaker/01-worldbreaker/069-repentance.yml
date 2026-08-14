@@ -1,13 +1,13 @@
-oracle: repentance
-
-lex: '069'
-
-set: worldbreaker
+index: '069'
 
 rarity: Rare
 
 artist: Sean O'Daniels
 
+variation: []
+
 flavor: '"Allow me to show you the proper way to atone for your actions." - Rekwa Proudhorn'
 
-variation: []
+oracle: repentance-worldbreaker-069
+
+set: Worldbreaker

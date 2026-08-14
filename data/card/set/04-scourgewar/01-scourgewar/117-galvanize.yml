@@ -1,13 +1,13 @@
-oracle: galvanize
-
-lex: '117'
-
-set: scourgewar
+index: '117'
 
 rarity: Uncommon
 
 artist: Tyler Walpole
 
+variation: []
+
 flavor: "\"Bringing the inanimate and the dead to life wasn't enough?\" - Kileana the Inferno"
 
-variation: []
+oracle: galvanize-scourgewar-117
+
+set: Scourgewar

@@ -1,0 +1,27 @@
+name: Helm of Fire
+
+origin: heroes-of-azeroth-292
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: 5 , Exhaust your hero → Your hero deals 3 fire damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

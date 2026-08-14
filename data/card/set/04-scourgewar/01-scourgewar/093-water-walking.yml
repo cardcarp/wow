@@ -1,13 +1,13 @@
-oracle: water-walking
-
-lex: '093'
-
-set: scourgewar
+index: '093'
 
 rarity: Uncommon
 
 artist: Massive Black
 
+variation: []
+
 flavor: '"Neat trick." - Bulkas Wildhorn'
 
-variation: []
+oracle: water-walking-scourgewar-093
+
+set: Scourgewar

@@ -1,0 +1,22 @@
+name: Mark of Life
+
+origin: icecrown-027
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +2 / +2 and Mend 1 .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration Attachment

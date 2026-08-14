@@ -1,0 +1,23 @@
+name: Tricksters Edge
+
+origin: war-of-the-ancients-230
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Shaman
+  - Rogue
+
+rule:
+  - type: ability
+    text: Dual Wield This weapon enters play with a +1 ATK counter on it. When your hero deals combat damage to an opposing hero with this weapon, double the number of +1 ATK counters on this weapon.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

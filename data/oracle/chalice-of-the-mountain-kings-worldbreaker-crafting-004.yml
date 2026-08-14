@@ -1,0 +1,30 @@
+name: Chalice of the Mountain Kings
+
+origin: worldbreaker-crafting-004
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: Artifact When this item enters play, each player may put a 1 / 1 Dwarf Sword Dancer ally token into play. Prevent all damage that Dwarves would deal to Dwarves.
+
+regulation:
+
+errata: []
+
+temp: Item

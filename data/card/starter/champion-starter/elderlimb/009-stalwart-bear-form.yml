@@ -1,13 +1,13 @@
-oracle: stalwart-bear-form
-
-lex: '009'
-
-set: elderlimb
+index: '009'
 
 rarity: Uncommon
 
 artist: Chris Seaman
 
+variation: []
+
 flavor: '"Adapt to each changing situation that presents itself." - Wildseer Varel'
 
-variation: []
+oracle: stalwart-bear-form-throne-of-the-tides-036
+
+set: Elderlimb

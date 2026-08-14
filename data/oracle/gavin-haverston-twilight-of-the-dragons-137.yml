@@ -1,0 +1,27 @@
+name: Gavin Haverston
+
+origin: twilight-of-the-dragons-137
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 2
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: This ally has Ferocity and Long-Range while an opponent controls more allies than you.
+
+regulation:
+
+errata: []
+
+temp: Undead Hunter

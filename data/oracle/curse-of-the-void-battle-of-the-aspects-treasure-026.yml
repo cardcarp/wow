@@ -1,0 +1,22 @@
+name: Curse of the Void
+
+origin: battle-of-the-aspects-treasure-026
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Attach to target opposing hero. Ongoing : At the start of your turn, your hero deals 1 shadow damage to attached hero, or 2 if that hero has 15 or more damage on it.'
+
+regulation:
+
+errata: []
+
+temp: Affliction Curse

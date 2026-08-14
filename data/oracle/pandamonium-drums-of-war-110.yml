@@ -1,0 +1,19 @@
+name: Pandamonium!
+
+origin: drums-of-war-110
+
+layout: standard
+
+category: Ability
+
+cost: '7'
+
+rule:
+  - type: ability
+    text: Put three Pandaren ally tokens into play with 1 ATK / 1 health and "This token has +1 ATK / +1 health for each other Pandaren in your party."
+
+regulation:
+
+errata: []
+
+temp: ''

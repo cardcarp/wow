@@ -1,0 +1,26 @@
+name: Gurubashi Punisher
+
+origin: crown-of-the-heavens-181
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Warrior
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Shaman
+
+rule:
+  - type: ability
+    text: You pay 6 less to strike with this weapon while you control an ally with 6 or more ATK.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

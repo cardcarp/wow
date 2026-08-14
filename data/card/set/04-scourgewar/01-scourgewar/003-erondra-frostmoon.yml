@@ -1,14 +1,14 @@
-oracle: erondra-frostmoon
-
-lex: '003'
-
-set: scourgewar
+index: '003'
 
 rarity: Uncommon
 
 artist: Alex Horley Orlandelli
 
-flavor: '"Your screams for mercy will not save you, for Elune no longer guides my blade."'
-
 variation:
   - transform
+
+flavor: '"Your screams for mercy will not save you, for Elune no longer guides my blade."'
+
+oracle: erondra-frostmoon-scourgewar-003
+
+set: Scourgewar

@@ -1,0 +1,17 @@
+name: Meeting with the Master
+
+origin: servants-of-the-betrayer-255
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 2 to complete this quest. Reward : Draw a card for each five resources you have.'
+
+regulation:
+
+errata: []
+
+temp: ''

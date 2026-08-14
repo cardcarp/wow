@@ -1,0 +1,22 @@
+name: Boundless Magic
+
+origin: tomb-of-the-forgotten-025
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Eternal Look at cards from the top of your deck equal to the number of resources you control. Put one of those cards into your hand and the rest on the bottom of your deck.
+
+regulation:
+
+errata: []
+
+temp: Arcane

@@ -1,0 +1,19 @@
+name: Courage
+
+origin: tomb-of-the-forgotten-067
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+rule:
+  - type: ability
+    text: 'Attach to target ally. Ongoing : Attached ally has +2 .'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,27 @@
+name: Doomsayer Din'ju
+
+origin: drums-of-war-165
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 4
+
+health: 8
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Din'ju enters play, turn all opposing resources face down.
+
+regulation:
+
+errata: []
+
+temp: Troll Priest

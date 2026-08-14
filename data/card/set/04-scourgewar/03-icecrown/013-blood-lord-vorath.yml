@@ -1,14 +1,14 @@
-oracle: blood-lord-vorath
-
-lex: '013'
-
-set: icecrown
+index: '013'
 
 rarity: Uncommon
 
 artist: Jim Murray
 
-flavor: (like Frost Hero Required)
-
 variation:
   - transform
+
+flavor: (like Frost Hero Required)
+
+oracle: blood-lord-vorath-icecrown-013
+
+set: Icecrown

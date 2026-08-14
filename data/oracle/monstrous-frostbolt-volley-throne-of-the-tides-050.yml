@@ -1,0 +1,22 @@
+name: Monstrous Frostbolt Volley
+
+origin: throne-of-the-tides-050
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Target Monster hero or ally you control deals frost damage equal to its ATK to each opposing hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Frost

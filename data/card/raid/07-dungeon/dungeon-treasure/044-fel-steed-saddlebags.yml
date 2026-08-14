@@ -1,13 +1,13 @@
-oracle: fel-steed-saddlebags
-
-lex: '044'
-
-set: dungeon-treasure
+index: '044'
 
 rarity: Common
 
 artist: Gonzalo Ordonez
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: fel-steed-saddlebags-dungeon-treasure-044
+
+set: Dungeon Treasure

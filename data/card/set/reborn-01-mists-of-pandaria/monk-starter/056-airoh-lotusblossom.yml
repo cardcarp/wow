@@ -1,13 +1,13 @@
-oracle: airoh-lotusblossom
-
-lex: '056'
-
-set: monk-starter
+index: '056'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: airoh-lotusblossom-monk-starter-056
+
+set: Monk Starter

@@ -1,0 +1,22 @@
+name: Shield of the Righteous
+
+origin: war-of-the-elements-061
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+instant: Protection Talent Your hero deals X unpreventable holy damage to target hero or ally and has Assault X this turn, where X is the of a Shield you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

@@ -1,0 +1,22 @@
+name: Frostbolt
+
+origin: heroes-of-azeroth-056
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: Your hero deals 3 frost damage to target hero or ally. A character dealt damage this way can't attack this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost

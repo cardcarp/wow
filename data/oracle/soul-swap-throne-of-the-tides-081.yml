@@ -1,0 +1,22 @@
+name: Soul Swap
+
+origin: throne-of-the-tides-081
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Affliction Talent Your hero deals shadow damage to target hero equal to half its remaining health, rounded up, and heals 1 damage from itself for each damage dealt this way.
+
+regulation:
+
+errata: []
+
+temp: Affliction

@@ -1,0 +1,27 @@
+name: Doomguard Soldier
+
+origin: betrayal-of-the-guardian-135
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: ability
+    text: This ally has Assault 3 while you control another Demon.
+
+regulation:
+
+errata: []
+
+temp: Doomguard Demon

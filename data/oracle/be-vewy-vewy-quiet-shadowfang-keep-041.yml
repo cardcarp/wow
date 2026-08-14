@@ -1,0 +1,17 @@
+name: Be Vewy Vewy Quiet!
+
+origin: shadowfang-keep-041
+
+layout: standard
+
+category: Achievement
+
+rule:
+  - type: ability
+    text: Flip the Gargoyles ability without putting any Gargoyle tokens into play.
+
+regulation:
+
+errata: []
+
+temp: ''

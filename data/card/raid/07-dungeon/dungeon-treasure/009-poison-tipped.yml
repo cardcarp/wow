@@ -1,13 +1,13 @@
-oracle: poison-tipped
-
-lex: '009'
-
-set: dungeon-treasure
+index: '009'
 
 rarity: Common
 
 artist: Dave Allsop
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: poison-tipped-dungeon-treasure-009
+
+set: Dungeon Treasure

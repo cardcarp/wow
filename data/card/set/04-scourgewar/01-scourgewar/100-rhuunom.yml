@@ -1,13 +1,13 @@
-oracle: rhuunom
-
-lex: '100'
-
-set: scourgewar
+index: '100'
 
 rarity: Common
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: '"Eat up if you want to be big and strong!" - Souldrinker Bogmara'
 
-variation: []
+oracle: rhuunom-scourgewar-100
+
+set: Scourgewar

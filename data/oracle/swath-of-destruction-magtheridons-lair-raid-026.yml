@@ -1,0 +1,19 @@
+name: Swath of Destruction
+
+origin: magtheridons-lair-raid-026
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: Play only if one or more Bloods are in play. Destroy target opposing ally, and its controller chooses a second raiding player. That player destroys one of his resources and chooses a third raiding player. That player discards a card.
+
+regulation:
+
+errata: []
+
+temp: ''

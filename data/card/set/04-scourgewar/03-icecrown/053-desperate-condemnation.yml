@@ -1,13 +1,13 @@
-oracle: desperate-condemnation
-
-lex: '053'
-
-set: icecrown
+index: '053'
 
 rarity: Common
 
 artist: Mark Zug
 
+variation: []
+
 flavor: '"If this is to be my last breath, then I will make it one worth remembering." - Joren the Martyr'
 
-variation: []
+oracle: desperate-condemnation-icecrown-053
+
+set: Icecrown

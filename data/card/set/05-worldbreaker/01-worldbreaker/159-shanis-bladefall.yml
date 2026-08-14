@@ -1,13 +1,13 @@
-oracle: shanis-bladefall
-
-lex: '159'
-
-set: worldbreaker
+index: '159'
 
 rarity: Common
 
 artist: Luke Mancini
 
+variation: []
+
 flavor: '"The Aspect of Death must soon face those who have been reborn in undeath."'
 
-variation: []
+oracle: shanis-bladefall-worldbreaker-159
+
+set: Worldbreaker

@@ -1,0 +1,22 @@
+name: Natural Defenses
+
+origin: heroes-of-azeroth-026
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+instant: 'Ongoing : Each of your armor has +1 DEF while your hero is in bear form.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

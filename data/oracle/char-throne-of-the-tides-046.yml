@@ -1,0 +1,22 @@
+name: Char
+
+origin: throne-of-the-tides-046
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 1 fire damage to attached hero for each card in its controller's hand."
+
+regulation:
+
+errata: []
+
+temp: Fire

@@ -1,0 +1,22 @@
+name: Searing Totem
+
+origin: heroes-of-azeroth-116
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: 'Totem Ongoing : At the start of each turn, Searing Totem deals 1 fire damage to target hero or ally.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental 1

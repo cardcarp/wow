@@ -1,0 +1,27 @@
+name: Highlord Bolvar Fordragon
+
+origin: servants-of-the-betrayer-136
+
+layout: standard
+
+category: Ally
+
+cost: '8'
+
+damage: 8
+
+health: 8
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Opposing allies must attack if able and can attack only Bolvar if able. Opposing cards and effects must target Bolvar if able.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

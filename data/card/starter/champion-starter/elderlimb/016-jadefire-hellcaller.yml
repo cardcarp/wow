@@ -1,13 +1,13 @@
-oracle: jadefire-hellcaller
-
-lex: '016'
-
-set: elderlimb
+index: '016'
 
 rarity: Common
 
 artist: Clint Langley
 
+variation: []
+
 flavor: '"There is always a wrong decision."'
 
-variation: []
+oracle: jadefire-hellcaller-crown-of-the-heavens-142
+
+set: Elderlimb

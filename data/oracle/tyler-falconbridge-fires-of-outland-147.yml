@@ -1,0 +1,27 @@
+name: Tyler Falconbridge
+
+origin: fires-of-outland-147
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Stealth Tyler Falconbridge is a Combo card while in a graveyard.
+
+regulation:
+
+errata: []
+
+temp: Human Rogue

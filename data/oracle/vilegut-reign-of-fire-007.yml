@@ -1,0 +1,30 @@
+name: Vilegut
+
+origin: reign-of-fire-007
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+class:
+  - Death Knight
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Protector This ally has +1 / +1 for each ally in opposing graveyards.
+
+regulation:
+
+errata: []
+
+temp: Abomination

@@ -1,0 +1,22 @@
+name: Surge of Adrenaline
+
+origin: drums-of-war-066
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Rogue
+
+instant: Finishing Move You pay x less to play Surge of Adrenaline. Draw three cards.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Combat

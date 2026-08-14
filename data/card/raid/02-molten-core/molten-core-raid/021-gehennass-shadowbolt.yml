@@ -1,13 +1,13 @@
-oracle: gehennass-shadowbolt
-
-lex: '021'
-
-set: molten-core-raid
+index: '021'
 
 rarity: Uncommon
 
 artist: Warren Mahy
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: gehennass-shadowbolt-molten-core-raid-021
+
+set: Molten Core Raid

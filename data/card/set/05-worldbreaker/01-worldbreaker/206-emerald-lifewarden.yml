@@ -1,13 +1,13 @@
-oracle: emerald-lifewarden
-
-lex: '206'
-
-set: worldbreaker
+index: '206'
 
 rarity: Uncommon
 
 artist: Carl Critchlow
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: emerald-lifewarden-worldbreaker-206
+
+set: Worldbreaker

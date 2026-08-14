@@ -1,0 +1,27 @@
+name: Trag'ush
+
+origin: crown-of-the-heavens-140
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 6
+
+health: 4
+
+combat: Fire
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Conspicuous
+
+regulation:
+
+errata: []
+
+temp: Ogre Warlock

@@ -1,0 +1,30 @@
+name: Onyxia Hide Backpack
+
+origin: onyxias-lair-treasure-024
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: ', Discard an equipment card → Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Item Bag

@@ -1,0 +1,22 @@
+name: Smite
+
+origin: heroes-of-azeroth-089
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Your hero deals 4 holy damage to target hero or ally. That damage can't be prevented.
+
+regulation:
+
+errata: []
+
+temp: Holy

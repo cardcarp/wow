@@ -1,13 +1,13 @@
-oracle: azjol-anak-broodguard
-
-lex: '204'
-
-set: scourgewar
+index: '204'
 
 rarity: Common
 
 artist: Raymond Swanland
 
+variation: []
+
 flavor: The Broodguards of Azjol-anak are ruthless in the defense of their fellow Nerubians.
 
-variation: []
+oracle: azjol-anak-broodguard-scourgewar-204
+
+set: Scourgewar

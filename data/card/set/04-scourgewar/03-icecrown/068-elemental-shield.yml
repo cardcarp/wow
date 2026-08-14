@@ -1,13 +1,13 @@
-oracle: elemental-shield
-
-lex: '068'
-
-set: icecrown
+index: '068'
 
 rarity: Common
 
 artist: Gonzalo Ordonez
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: elemental-shield-icecrown-068
+
+set: Icecrown

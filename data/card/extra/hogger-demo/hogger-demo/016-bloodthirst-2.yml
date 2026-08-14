@@ -1,13 +1,13 @@
-oracle: bloodthirst-2
-
-lex: '016'
-
-set: hogger-demo
+index: '016'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: bloodthirst-2-hogger-demo-016
+
+set: Hogger Demo

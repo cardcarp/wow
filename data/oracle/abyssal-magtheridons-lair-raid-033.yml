@@ -1,0 +1,23 @@
+name: Abyssal
+
+origin: magtheridons-lair-raid-033
+
+layout: standard
+
+category: Token
+
+damage: 6
+
+health: 6
+
+combat: Fire
+
+type: Ally
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Abyssal

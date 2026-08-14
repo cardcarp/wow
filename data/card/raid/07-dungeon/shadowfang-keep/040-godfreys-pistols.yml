@@ -1,13 +1,13 @@
-oracle: godfreys-pistols
-
-lex: '040'
-
-set: shadowfang-keep
+index: '040'
 
 rarity: Common
 
 artist: Steve Prescott
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: godfreys-pistols-shadowfang-keep-040
+
+set: Shadowfang Keep

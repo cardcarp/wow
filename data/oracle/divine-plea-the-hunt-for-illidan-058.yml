@@ -1,0 +1,22 @@
+name: Divine Plea
+
+origin: the-hunt-for-illidan-058
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: If you control an Aura, your hero deals 2 unpreventable holy damage to each opposing hero and ally. If you control a Blessing, draw two cards. If you control a Seal, ready your hero and all of your weapons.
+
+regulation:
+
+errata: []
+
+temp: Holy

@@ -1,0 +1,27 @@
+name: Maxie the Blaster
+
+origin: war-of-the-elements-140
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Arcane
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Time is Money → The next time target hero or ally you control would deal arcane damage this turn, it deals that much +2 instead.
+
+regulation:
+
+errata: []
+
+temp: Goblin Mage

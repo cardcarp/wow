@@ -1,0 +1,22 @@
+name: Nimaasus the Implacable
+
+origin: burning-crusade-collectors-edition-promotional-001
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Nimaasus → Nimaasus deals X holy damage to target ally, where X is the amount of damage that ally dealt to Nimaasus this turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

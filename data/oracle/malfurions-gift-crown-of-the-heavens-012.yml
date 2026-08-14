@@ -1,0 +1,22 @@
+name: Malfurions Gift
+
+origin: crown-of-the-heavens-012
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Druid
+
+instant: 'Restoration Talent Put target ally with cost less than or equal to the number of resources you control from your graveyard into play and attach this ability to it. Ongoing : Attached ally has +2 / +2. When this ability leaves play, destroy attached ally.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

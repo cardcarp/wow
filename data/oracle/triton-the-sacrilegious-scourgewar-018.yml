@@ -1,0 +1,22 @@
+name: Triton the Sacrilegious
+
+origin: scourgewar-018
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'If you control another Death Knight: Flip Triton → This turn, opposing heroes and allies must attack if able and can attack only Triton if able.'
+
+regulation:
+
+errata: []
+
+temp: Undead Death Knight

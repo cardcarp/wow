@@ -1,0 +1,27 @@
+name: Axar
+
+origin: war-of-the-elements-109
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive
+
+regulation:
+
+errata: []
+
+temp: Draenei Mage

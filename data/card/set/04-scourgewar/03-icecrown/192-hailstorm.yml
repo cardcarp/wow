@@ -1,13 +1,13 @@
-oracle: hailstorm
-
-lex: '192'
-
-set: icecrown
+index: '192'
 
 rarity: Rare
 
 artist: Ben Thompson
 
+variation: []
+
 flavor: "\"Da blade may not be made of steel, mon, but it still be as sharp as a razor.\" - Warmaster Bo'jo"
 
-variation: []
+oracle: hailstorm-icecrown-192
+
+set: Icecrown

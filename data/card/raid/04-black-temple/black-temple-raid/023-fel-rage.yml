@@ -1,13 +1,13 @@
-oracle: fel-rage
-
-lex: '023'
-
-set: black-temple-raid
+index: '023'
 
 rarity: Uncommon
 
 artist: James Zhang
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: fel-rage-black-temple-raid-023
+
+set: Black Temple Raid

@@ -1,13 +1,13 @@
-oracle: divine-cleansing
-
-lex: '067'
-
-set: worldbreaker
+index: '067'
 
 rarity: Uncommon
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor: '"Those who possess true purity of mind and body are capable of turning it outward." - Rekwa Proudhorn'
 
-variation: []
+oracle: divine-cleansing-worldbreaker-067
+
+set: Worldbreaker

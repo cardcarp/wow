@@ -1,0 +1,22 @@
+name: Primal Madness
+
+origin: tomb-of-the-forgotten-017
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Druid
+
+instant: 'Feral Combat Talent Ongoing : Your hero has Assault 3 , Mend 3 , Protector , and Stealth . At the end of your turn, you may ready your hero.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

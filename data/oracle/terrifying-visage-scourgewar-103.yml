@@ -1,0 +1,22 @@
+name: Terrifying Visage
+
+origin: scourgewar-103
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Put each of up to two target opposing allies into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Affliction

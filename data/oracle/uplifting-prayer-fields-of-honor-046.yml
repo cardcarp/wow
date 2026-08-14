@@ -1,0 +1,22 @@
+name: Uplifting Prayer
+
+origin: fields-of-honor-046
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, you may put target ally card from your graveyard into play if its cost is less than or equal to the number of resources you control.'
+
+regulation:
+
+errata: []
+
+temp: Holy

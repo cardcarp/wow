@@ -1,0 +1,28 @@
+name: Shadow
+
+origin: the-hunt-for-illidan-039
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 7
+
+health: 7
+
+combat: Melee
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Elusive
+
+regulation:
+
+errata: []
+
+temp: Panther

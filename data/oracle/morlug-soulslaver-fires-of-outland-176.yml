@@ -1,0 +1,27 @@
+name: Morlug Soulslaver
+
+origin: fires-of-outland-176
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 1
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When one of your resources is destroyed, Morlug Soulslaver deals 1 shadow damage to target hero.
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

@@ -1,0 +1,22 @@
+name: Surprise Attacks
+
+origin: fires-of-outland-072
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: "Combat Hero Required Ongoing : Your Melee weapons have +1 ATK. Combat damage dealt by your hero can't be prevented."
+
+regulation:
+
+errata: []
+
+temp: Combat Talent

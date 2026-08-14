@@ -1,0 +1,17 @@
+name: Locked Away
+
+origin: worldbreaker-262
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'You pay 4 less to complete this quest if you control a quest named The Key to Freedom. Pay 5 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

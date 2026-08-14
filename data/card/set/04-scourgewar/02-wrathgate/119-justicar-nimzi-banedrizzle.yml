@@ -1,13 +1,13 @@
-oracle: justicar-nimzi-banedrizzle
-
-lex: '119'
-
-set: wrathgate
+index: '119'
 
 rarity: Uncommon
 
 artist: Patrick McEvoy
 
+variation: []
+
 flavor: '"One must be careful when burying a warlock, lest the gravesite become corrupted." - Maleo the Blur'
 
-variation: []
+oracle: justicar-nimzi-banedrizzle-wrathgate-119
+
+set: Wrathgate

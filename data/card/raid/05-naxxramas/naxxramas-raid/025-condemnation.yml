@@ -1,13 +1,13 @@
-oracle: condemnation
-
-lex: '025'
-
-set: naxxramas-raid
+index: '025'
 
 rarity: Uncommon
 
 artist: Michael Kormarck
 
+variation: []
+
 flavor: '"It is ... as it should be." - Sir Zeliek'
 
-variation: []
+oracle: condemnation-naxxramas-raid-025
+
+set: Naxxramas Raid

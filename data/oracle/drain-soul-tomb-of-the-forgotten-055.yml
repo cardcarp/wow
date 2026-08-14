@@ -1,0 +1,22 @@
+name: Drain Soul
+
+origin: tomb-of-the-forgotten-055
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Your hero deals 2 shadow damage to target ally and heals 2 damage from itself.
+
+regulation:
+
+errata: []
+
+temp: Affliction

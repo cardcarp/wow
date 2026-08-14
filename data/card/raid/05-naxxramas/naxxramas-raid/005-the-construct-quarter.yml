@@ -1,13 +1,14 @@
-oracle: the-construct-quarter
-
-lex: '005'
-
-set: naxxramas-raid
+index: '005'
 
 rarity: Rare
 
 artist: Matt Gaser
 
+variation:
+  - transform
+
 flavor: When this card flips to this side, say "Fools, you think yourselves triumphant? You have only taken one step closer to the abyss!"
 
-variation: []
+oracle: the-construct-quarter-naxxramas-raid-005
+
+set: Naxxramas Raid

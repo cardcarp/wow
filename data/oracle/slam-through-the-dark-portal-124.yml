@@ -1,0 +1,22 @@
+name: Slam
+
+origin: through-the-dark-portal-124
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: Your hero deals X melee damage to target hero or ally, where X is 1 plus the ATK of one of your Melee weapons.
+
+regulation:
+
+errata: []
+
+temp: Fury

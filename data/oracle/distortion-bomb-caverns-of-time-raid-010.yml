@@ -1,0 +1,19 @@
+name: Distortion Bomb
+
+origin: caverns-of-time-raid-010
+
+layout: standard
+
+category: Ability
+
+type: Boss
+
+rule:
+  - type: ability
+    text: 'Choose one of the following at random: Destroy all Raiding abilities, allies and equipment with an even cost; or destroy all Raiding abilities, allies, and equipment with an odd cost.'
+
+regulation:
+
+errata: []
+
+temp: ''

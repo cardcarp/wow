@@ -1,0 +1,25 @@
+name: Burdok Brewshot
+
+origin: throne-of-the-tides-100
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 4
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

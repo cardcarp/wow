@@ -1,13 +1,13 @@
-oracle: healing-stream-totem
-
-lex: '013'
-
-set: totem
+index: '013'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: healing-stream-totem-heroes-of-azeroth-111
+
+set: Totem

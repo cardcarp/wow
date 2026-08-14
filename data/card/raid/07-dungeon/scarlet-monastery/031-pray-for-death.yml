@@ -1,13 +1,13 @@
-oracle: pray-for-death
-
-lex: '031'
-
-set: scarlet-monastery
+index: '031'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: pray-for-death-scarlet-monastery-031
+
+set: Scarlet Monastery

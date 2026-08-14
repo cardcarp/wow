@@ -1,0 +1,23 @@
+name: Blessing of the Heavens
+
+origin: blood-of-gladiators-082
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+  - Paladin
+
+instant: "Attach to target ally. Ongoing : Attached ally has +2 ATK / +2 health. When attached ally is destroyed, you may put Blessing of the Heavens from its owner's graveyard into his hand."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration Protection Blessing

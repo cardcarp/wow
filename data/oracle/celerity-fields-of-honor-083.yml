@@ -1,0 +1,23 @@
+name: Celerity
+
+origin: fields-of-honor-083
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Ongoing : → If your hero is defending against an ally, remove your hero from combat.'
+
+regulation:
+
+errata: []
+
+temp: Combat Enhancement

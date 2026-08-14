@@ -1,0 +1,17 @@
+name: Capture a Mine
+
+origin: fields-of-honor-191
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 1 to complete this quest. Reward : Reveal the top three cards of your deck. Put a revealed location or quest card into hand and the rest on the bottom of your deck.'
+
+regulation:
+
+errata: []
+
+temp: ''

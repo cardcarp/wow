@@ -1,0 +1,25 @@
+name: Wyrmrest Captain
+
+origin: battle-of-the-aspects-treasure-058
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 0
+
+health: 4
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: At the start of your turn, reveal the top card of your deck. This ally has +ATK this turn equal to the cost of that revealed card.
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

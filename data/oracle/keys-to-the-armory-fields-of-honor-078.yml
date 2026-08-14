@@ -1,0 +1,22 @@
+name: Keys to the Armory
+
+origin: fields-of-honor-078
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: Search your deck for an equipment card, reveal it, and put it into hand.
+
+regulation:
+
+errata: []
+
+temp: Protection

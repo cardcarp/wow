@@ -1,13 +1,13 @@
-oracle: draining-poison
-
-lex: '087'
-
-set: worldbreaker
+index: '087'
 
 rarity: Uncommon
 
 artist: Dave Allsop
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: draining-poison-worldbreaker-087
+
+set: Worldbreaker

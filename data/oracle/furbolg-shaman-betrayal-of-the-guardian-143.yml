@@ -1,0 +1,27 @@
+name: Furbolg Shaman
+
+origin: betrayal-of-the-guardian-143
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 2
+
+combat: Nature
+
+type: Monster
+
+rule:
+  - type: ability
+    text: When this ally enters play, if you have five or more cards in your graveyard, it may deal 5 nature damage to target hero.
+
+regulation:
+
+errata: []
+
+temp: Furbolg Shaman

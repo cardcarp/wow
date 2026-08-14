@@ -1,0 +1,23 @@
+name: Arm Blade of Augelmir
+
+origin: scourgewar-231
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Shaman
+  - Rogue
+
+instant: When this weapon enters play, you may put target ability into its owner's hand.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Fist

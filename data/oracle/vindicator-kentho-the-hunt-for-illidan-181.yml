@@ -1,0 +1,25 @@
+name: Vindicator Kentho
+
+origin: the-hunt-for-illidan-181
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Aldor Reputation Destroy Kentho → Interrupt target card or effect targeting a card in play you control.
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

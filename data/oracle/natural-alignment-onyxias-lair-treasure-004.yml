@@ -1,0 +1,22 @@
+name: Natural Alignment
+
+origin: onyxias-lair-treasure-004
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: Your hero deals X nature damage to target hero or ally and heals X damage from target hero or ally, where X is the number of friendly players.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental

@@ -1,0 +1,27 @@
+name: Virkaltor
+
+origin: drums-of-war-150
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 4
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 1 , Destroy Virkaltor → Destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

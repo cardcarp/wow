@@ -1,0 +1,27 @@
+name: Xela the Tormentor
+
+origin: the-hunt-for-illidan-171
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 3
+
+health: 3
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Xela enters play, you may put a Pet card from your graveyard into play if its cost is less than or equal to the number of resources you have.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Warlock

@@ -1,0 +1,22 @@
+name: Vanish
+
+origin: through-the-dark-portal-090
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: "Your hero is Elusive this turn. If it's defending, remove all attackers from combat. Ongoing : Your hero has Stealth . When your hero deals damage, destroy Vanish."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Subtlety

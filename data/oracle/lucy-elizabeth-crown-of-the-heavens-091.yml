@@ -1,0 +1,27 @@
+name: Lucy Elizabeth
+
+origin: crown-of-the-heavens-091
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

@@ -1,0 +1,22 @@
+name: Fel Fire
+
+origin: servants-of-the-betrayer-112
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals 1 fire damage to attached character. 3 → Your hero deals 1 fire damage to attached character.'
+
+regulation:
+
+errata: []
+
+temp: Affliction

@@ -1,13 +1,13 @@
-oracle: fungal-creep
-
-lex: '038'
-
-set: naxxramas-raid
+index: '038'
 
 rarity: Uncommon
 
 artist: Gonzalo Ordonez
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: fungal-creep-naxxramas-raid-038
+
+set: Naxxramas Raid

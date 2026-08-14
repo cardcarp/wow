@@ -1,0 +1,23 @@
+name: Feast of Flame
+
+origin: wrathgate-094
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals 1 fire damage to attached character for each Mage and Warlock you control.'
+
+regulation:
+
+errata: []
+
+temp: Fire Destruction

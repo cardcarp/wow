@@ -1,0 +1,22 @@
+name: Mana Jade
+
+origin: fires-of-outland-042
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Ongoing : 2 , Destroy Mana Jade → Draw three cards.'
+
+regulation:
+
+errata: []
+
+temp: Arcane

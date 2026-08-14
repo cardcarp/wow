@@ -1,13 +1,13 @@
-oracle: jadefire-satyr
-
-lex: '017'
-
-set: elderlimb
+index: '017'
 
 rarity: Common
 
 artist: Jesper Ejsing
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: jadefire-satyr-crown-of-the-heavens-144
+
+set: Elderlimb

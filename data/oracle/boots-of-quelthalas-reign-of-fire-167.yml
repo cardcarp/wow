@@ -1,0 +1,23 @@
+name: Boots of Quel'Thalas
+
+origin: reign-of-fire-167
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'If an ally you controlled was destroyed this turn: → Target hero or ally has Assault 2 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

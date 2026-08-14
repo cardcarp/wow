@@ -1,0 +1,22 @@
+name: Mortal Strike
+
+origin: heroes-of-azeroth-145
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: Arms Hero Required Your hero deals X melee damage to target hero or ally, where X is 1 plus the ATK of one of your Melee weapons. That character can't be healed this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arms Talent

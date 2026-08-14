@@ -1,0 +1,22 @@
+name: Feedback
+
+origin: reign-of-fire-045
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Elemental Talent Ongoing : When you play an ability, reveal the top card of your deck. If it has the same cost as that ability, you may put it into your hand.'
+
+regulation:
+
+errata: []
+
+temp: Elemental

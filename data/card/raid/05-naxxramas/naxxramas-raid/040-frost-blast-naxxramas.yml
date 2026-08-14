@@ -1,13 +1,13 @@
-oracle: frost-blast-naxxramas
-
-lex: '040'
-
-set: naxxramas-raid
+index: '040'
 
 rarity: Uncommon
 
 artist: Luca Zontini
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: frost-blast-naxxramas-naxxramas-raid-040
+
+set: Naxxramas Raid

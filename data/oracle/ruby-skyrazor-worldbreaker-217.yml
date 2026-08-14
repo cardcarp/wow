@@ -1,0 +1,25 @@
+name: Ruby Skyrazor
+
+origin: worldbreaker-217
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 4
+
+combat: Fire
+
+rule:
+  - type: ability
+    text: Allies you control have Untargetable .
+
+regulation:
+
+errata: []
+
+temp: Red Dragonkin

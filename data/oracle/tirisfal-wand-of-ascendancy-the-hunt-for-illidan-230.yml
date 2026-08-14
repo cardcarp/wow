@@ -1,0 +1,24 @@
+name: Tirisfal Wand of Ascendancy
+
+origin: the-hunt-for-illidan-230
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: Remove an ability card in your graveyard from the game → You pay 1 less the next time you strike with Tirisfal Wand of Ascendancy this turn.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Wand

@@ -1,0 +1,25 @@
+name: Aurastone Hammer
+
+origin: molten-core-treasure-014
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: 2 , → Put target ally from your party into its owner's hand. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

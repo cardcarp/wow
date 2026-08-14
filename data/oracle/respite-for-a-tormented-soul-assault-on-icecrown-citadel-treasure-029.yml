@@ -1,0 +1,17 @@
+name: Respite for a Tormented Soul
+
+origin: assault-on-icecrown-citadel-treasure-029
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: "Pay 2 to complete this quest. Reward : Put target ally from a graveyard on top of its owner's deck."
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,27 @@
+name: Zy'lah Manslayer
+
+origin: heroes-of-azeroth-276
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 5
+
+health: 6
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When Zy'lah Manslayer deals combat damage to an ally, ready her.
+
+regulation:
+
+errata: []
+
+temp: Troll Warrior

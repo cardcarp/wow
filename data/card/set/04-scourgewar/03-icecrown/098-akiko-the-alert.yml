@@ -1,13 +1,13 @@
-oracle: akiko-the-alert
-
-lex: '098'
-
-set: icecrown
+index: '098'
 
 rarity: Uncommon
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: With her loyal protector, Fido, Akiko is a deadly ray of sunshine.
 
-variation: []
+oracle: akiko-the-alert-icecrown-098
+
+set: Icecrown

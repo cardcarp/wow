@@ -1,0 +1,27 @@
+name: Tor'gor Darkfire
+
+origin: blood-of-gladiators-144
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 5
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Hardiness Destroy another ally in your party → Tor'gor heals all damage from himself.
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

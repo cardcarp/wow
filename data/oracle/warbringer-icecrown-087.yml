@@ -1,0 +1,22 @@
+name: Warbringer
+
+origin: icecrown-087
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Protection Hero Required Ongoing : → abilities and equipment in your hand are instant this turn until you play a card.'
+
+regulation:
+
+errata: []
+
+temp: Protection Talent

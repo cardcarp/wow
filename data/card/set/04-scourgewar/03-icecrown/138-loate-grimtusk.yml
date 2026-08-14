@@ -1,13 +1,13 @@
-oracle: loate-grimtusk
-
-lex: '138'
-
-set: icecrown
+index: '138'
 
 rarity: Common
 
 artist: Christian Lichtner
 
+variation: []
+
 flavor: '"Joo gonna put up a fight dis time?"'
 
-variation: []
+oracle: loate-grimtusk-icecrown-138
+
+set: Icecrown

@@ -1,0 +1,22 @@
+name: Mystic Denial
+
+origin: drums-of-war-037
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Mage
+
+instant: 'Interrupt target card. Ongoing : When an opponent plays a card, destroy Mystic Denial. If you do, interrupt that card.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

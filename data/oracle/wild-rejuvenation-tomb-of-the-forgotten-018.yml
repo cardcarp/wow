@@ -1,0 +1,22 @@
+name: Wild Rejuvenation
+
+origin: tomb-of-the-forgotten-018
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: 'Attach to your hero. Ongoing : At the start of your turn, put a 1 / 1 Treant ally token into play if your hero is undamaged. Otherwise, your hero heals 1 damage from itself.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

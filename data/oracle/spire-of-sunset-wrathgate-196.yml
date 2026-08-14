@@ -1,0 +1,26 @@
+name: Spire of Sunset
+
+origin: wrathgate-196
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'On your turn: 2 , Exhaust your hero → Your hero deals fire damage to target hero or ally equal to the number of different classes among heroes and allies you control.'
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

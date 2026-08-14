@@ -1,0 +1,27 @@
+name: Kileana Darkblaze
+
+origin: drums-of-war-176
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 5
+
+health: 5
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Kileana enters play, she deals 2 fire damage to your hero and each other ally in your party.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Warlock

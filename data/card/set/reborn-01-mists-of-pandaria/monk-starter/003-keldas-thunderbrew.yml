@@ -1,13 +1,14 @@
-oracle: keldas-thunderbrew
-
-lex: '003'
-
-set: monk-starter
+index: '003'
 
 rarity: Common
 
 artist: ''
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: keldas-thunderbrew-monk-starter-003
+
+set: Monk Starter

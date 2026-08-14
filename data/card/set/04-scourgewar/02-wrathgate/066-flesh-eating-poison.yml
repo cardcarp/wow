@@ -1,13 +1,13 @@
-oracle: flesh-eating-poison
-
-lex: '066'
-
-set: wrathgate
+index: '066'
 
 rarity: Uncommon
 
 artist: Dave Allsop
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: flesh-eating-poison-wrathgate-066
+
+set: Wrathgate

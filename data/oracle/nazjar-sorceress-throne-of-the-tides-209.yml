@@ -1,0 +1,27 @@
+name: Naz'jar Sorceress
+
+origin: throne-of-the-tides-209
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Frost
+
+type: Monster
+
+rule:
+  - type: ability
+    text: → Target ally can't attack this turn.
+
+regulation:
+
+errata: []
+
+temp: Naga Mage

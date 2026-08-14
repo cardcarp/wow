@@ -1,0 +1,27 @@
+name: Tessa Black
+
+origin: war-of-the-ancients-115
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 0
+
+health: 0
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: This ally's ATK and are equal to the remaining health of your hero.
+
+regulation:
+
+errata: []
+
+temp: Human Warlock

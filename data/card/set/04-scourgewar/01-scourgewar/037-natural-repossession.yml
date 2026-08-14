@@ -1,13 +1,13 @@
-oracle: natural-repossession
-
-lex: '037'
-
-set: scourgewar
+index: '037'
 
 rarity: Uncommon
 
 artist: Chris Dien
 
+variation: []
+
 flavor: Sooner or later, everything returns to the earth.
 
-variation: []
+oracle: natural-repossession-scourgewar-037
+
+set: Scourgewar

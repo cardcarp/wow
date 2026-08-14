@@ -1,13 +1,13 @@
-oracle: bestial-rage
-
-lex: '093'
-
-set: wrathgate
+index: '093'
 
 rarity: Uncommon
 
 artist: Jonboy Meyers
 
+variation: []
+
 flavor: "\"Let loose da animal within, bruddah!\" - Sen'zir Beastwalker"
 
-variation: []
+oracle: bestial-rage-wrathgate-093
+
+set: Wrathgate

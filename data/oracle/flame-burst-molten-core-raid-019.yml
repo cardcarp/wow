@@ -1,0 +1,19 @@
+name: Flame Burst
+
+origin: molten-core-raid-019
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+rule:
+  - type: ability
+    text: Each opponent destroys one of his resources.
+
+regulation:
+
+errata: []
+
+temp: Molten Core

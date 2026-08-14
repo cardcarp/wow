@@ -1,13 +1,13 @@
-oracle: aura-of-desire
-
-lex: '020'
-
-set: black-temple-raid
+index: '020'
 
 rarity: Uncommon
 
 artist: Massive Black
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: aura-of-desire-black-temple-raid-020
+
+set: Black Temple Raid

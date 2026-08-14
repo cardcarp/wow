@@ -1,0 +1,25 @@
+name: Bronze Emissary
+
+origin: war-of-the-elements-163
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: When this ally enters play, if you control no ready resources, Rogues and Warriors you control have Assault 1 and Stealth this turn.
+
+regulation:
+
+errata: []
+
+temp: Bronze Dragonkin

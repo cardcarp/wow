@@ -1,0 +1,22 @@
+name: Gouge
+
+origin: heroes-of-azeroth-099
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: Exhaust target hero or ally. It can't ready during its controller's next ready step.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Combat Combo

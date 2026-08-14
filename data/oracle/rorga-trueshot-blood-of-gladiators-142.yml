@@ -1,0 +1,27 @@
+name: Rorga Trueshot
+
+origin: blood-of-gladiators-142
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 4
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity Hardiness
+
+regulation:
+
+errata: []
+
+temp: Orc Hunter

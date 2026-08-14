@@ -1,0 +1,23 @@
+name: Bloody Slaughter
+
+origin: icecrown-088
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: Your hero deals X melee damage to target exhausted hero or ally, where X is the cost of a non-hero Druid or Rogue you control.
+
+regulation:
+
+errata: []
+
+temp: Feral Assassination Combo

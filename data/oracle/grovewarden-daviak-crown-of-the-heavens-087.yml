@@ -1,0 +1,27 @@
+name: Grovewarden Daviak
+
+origin: crown-of-the-heavens-087
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 2
+
+health: 7
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When this ally is dealt damage, it heals that much damage from your hero.
+
+regulation:
+
+errata: []
+
+temp: Worgen Druid

@@ -1,0 +1,22 @@
+name: Water Walking
+
+origin: scourgewar-093
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Ongoing : → Put target location or quest from your graveyard into your hand.'
+
+regulation:
+
+errata: []
+
+temp: Enhancement

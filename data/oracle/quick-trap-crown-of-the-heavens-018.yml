@@ -1,0 +1,22 @@
+name: Quick Trap
+
+origin: crown-of-the-heavens-018
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: Trap Your hero deals 3 melee damage to target attacking ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

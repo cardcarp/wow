@@ -1,0 +1,27 @@
+name: Ryn Dreamstrider
+
+origin: heroes-of-azeroth-214
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 2
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive → Target hero or ally has +2 ATK while attacking this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

@@ -1,13 +1,13 @@
-oracle: natures-focus
-
-lex: '038'
-
-set: scourgewar
+index: '038'
 
 rarity: Common
 
 artist: Dany Orizio
 
+variation: []
+
 flavor: '"Elune offers me her blessing, and I offer you her punishment!" - Mythen of the Wild'
 
-variation: []
+oracle: natures-focus-scourgewar-038
+
+set: Scourgewar

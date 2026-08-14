@@ -1,0 +1,27 @@
+name: Child of Agamaggan
+
+origin: war-of-the-ancients-166
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 4
+
+health: 2
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Monster Hero Required Smash
+
+regulation:
+
+errata: []
+
+temp: Boar Beast

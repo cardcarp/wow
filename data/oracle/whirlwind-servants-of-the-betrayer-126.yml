@@ -1,0 +1,22 @@
+name: Whirlwind
+
+origin: servants-of-the-betrayer-126
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Warrior
+
+instant: Your hero deals melee damage to each opposing ally equal to the ATK of a Melee weapon you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury

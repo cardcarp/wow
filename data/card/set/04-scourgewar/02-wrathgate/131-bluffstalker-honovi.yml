@@ -1,13 +1,13 @@
-oracle: bluffstalker-honovi
-
-lex: '131'
-
-set: wrathgate
+index: '131'
 
 rarity: Common
 
 artist: Christopher Moeller
 
+variation: []
+
 flavor: "\"I've never hunted prey that had already been claimed by the earth, but I look forward to the challenge.\""
 
-variation: []
+oracle: bluffstalker-honovi-wrathgate-131
+
+set: Wrathgate

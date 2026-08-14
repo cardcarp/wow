@@ -1,0 +1,30 @@
+name: Hearthstone
+
+origin: heroes-of-azeroth-305
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 6 , , Concede the game → Players can keep any of their equipment and start the next game with those cards in play.
+
+regulation:
+
+errata: []
+
+temp: Item

@@ -1,13 +1,13 @@
-oracle: light-within-the-darkness
-
-lex: '209'
-
-set: wrathgate
+index: '209'
 
 rarity: Common
 
 artist: Puly
 
+variation: []
+
 flavor: Tirion will desire this last remnant of the great crusader.
 
-variation: []
+oracle: light-within-the-darkness-wrathgate-209
+
+set: Wrathgate

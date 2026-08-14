@@ -1,0 +1,27 @@
+name: Orderkeeper Vesra
+
+origin: servants-of-the-betrayer-149
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 4
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Opponents pay 2 more to play allies.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

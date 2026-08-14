@@ -1,0 +1,25 @@
+name: Brutality Blade
+
+origin: molten-core-treasure-019
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Rogue
+
+rule:
+  - type: ability
+    text: Destroy Brutality Blade → Opposing heroes and allies can't be healed this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

@@ -1,0 +1,27 @@
+name: Danath Trollbane
+
+origin: betrayal-of-the-guardian-064
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When Danath deals damage, put a 1 / 1 Human Warrior ally token into play with Protector .
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

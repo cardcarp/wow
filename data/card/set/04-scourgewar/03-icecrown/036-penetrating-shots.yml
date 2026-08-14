@@ -1,13 +1,13 @@
-oracle: penetrating-shots
-
-lex: '036'
-
-set: icecrown
+index: '036'
 
 rarity: Rare
 
 artist: Andrew Robinson
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: penetrating-shots-icecrown-036
+
+set: Icecrown

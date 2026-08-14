@@ -1,0 +1,23 @@
+name: Antonidass Aegis of Rapt Concentration
+
+origin: blood-of-gladiators-157
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Shaman
+
+instant: Your ability cards can't be interrupted. Your abilities are Untargetable .
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

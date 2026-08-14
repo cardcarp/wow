@@ -1,13 +1,13 @@
-oracle: nan-po-calmwater
-
-lex: '053'
-
-set: monk-starter
+index: '053'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: nan-po-calmwater-monk-starter-053
+
+set: Monk Starter

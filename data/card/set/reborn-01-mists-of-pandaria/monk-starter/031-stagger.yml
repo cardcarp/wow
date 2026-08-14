@@ -1,13 +1,13 @@
-oracle: stagger
-
-lex: '031'
-
-set: monk-starter
+index: '031'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: stagger-monk-starter-031
+
+set: Monk Starter

@@ -1,0 +1,22 @@
+name: Flamesoul Weapon
+
+origin: caverns-of-time-treasure-028
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Attach to target weapon. Ongoing : Attached weapon has +ATK equal to the highest ATK among allies you control.'
+
+regulation:
+
+errata: []
+
+temp: Enhancement Attachment

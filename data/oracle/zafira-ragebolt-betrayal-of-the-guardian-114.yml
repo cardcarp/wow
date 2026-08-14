@@ -1,0 +1,27 @@
+name: Zafira Ragebolt
+
+origin: betrayal-of-the-guardian-114
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 1
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally enters play, you may ready a resource you control for this and each other Orc ally you control.
+
+regulation:
+
+errata: []
+
+temp: Orc Hunter

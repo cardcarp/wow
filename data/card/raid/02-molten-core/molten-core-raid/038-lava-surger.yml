@@ -1,13 +1,13 @@
-oracle: lava-surger
-
-lex: '038'
-
-set: molten-core-raid
+index: '038'
 
 rarity: Uncommon
 
 artist: Mauro Cascioli
 
+variation: []
+
 flavor: These elements surge about randomly, knocking around those unfortunate enough to stand in their path.
 
-variation: []
+oracle: lava-surger-molten-core-raid-038
+
+set: Molten Core Raid

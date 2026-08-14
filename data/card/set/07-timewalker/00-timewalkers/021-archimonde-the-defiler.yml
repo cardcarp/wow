@@ -1,14 +1,14 @@
-oracle: archimonde-the-defiler
-
-lex: '021'
-
-set: timewalkers
+index: '021'
 
 rarity: Rare
 
 artist: Unknown
 
-flavor: ''
-
 variation:
   - transform
+
+flavor: ''
+
+oracle: archimonde-the-defiler-timewalkers-021
+
+set: Timewalkers

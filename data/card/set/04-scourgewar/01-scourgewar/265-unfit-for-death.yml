@@ -1,13 +1,13 @@
-oracle: unfit-for-death
-
-lex: '265'
-
-set: scourgewar
+index: '265'
 
 rarity: Common
 
 artist: Massive Black
 
+variation: []
+
 flavor: '"Watch as the hunters are caught in their own deadly traps!" - Zaza'
 
-variation: []
+oracle: unfit-for-death-scourgewar-265
+
+set: Scourgewar

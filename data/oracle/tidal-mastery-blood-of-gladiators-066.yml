@@ -1,0 +1,22 @@
+name: Tidal Mastery
+
+origin: blood-of-gladiators-066
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Restoration Hero Required Ongoing : Exhaust for of your Totems → Your hero deals 10 nature damage to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Restoration Talent

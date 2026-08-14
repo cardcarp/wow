@@ -1,0 +1,23 @@
+name: Demon Hide Spaulders
+
+origin: march-of-the-legion-257
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: → Each of your weapons has +1 ATK this turn. → Each of your armor has +1 DEF this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

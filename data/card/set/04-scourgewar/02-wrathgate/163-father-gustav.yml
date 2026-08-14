@@ -1,13 +1,13 @@
-oracle: father-gustav
-
-lex: '163'
-
-set: wrathgate
+index: '163'
 
 rarity: Common
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor: '"There exists no greater calling for a champion than to fight for the Argent Crusade."'
 
-variation: []
+oracle: father-gustav-wrathgate-163
+
+set: Wrathgate

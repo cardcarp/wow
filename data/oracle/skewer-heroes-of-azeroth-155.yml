@@ -1,0 +1,21 @@
+name: Skewer
+
+origin: heroes-of-azeroth-155
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+faction: Horde
+
+instant: Choose an ally in your party. It deals damage equal to its ATK to target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

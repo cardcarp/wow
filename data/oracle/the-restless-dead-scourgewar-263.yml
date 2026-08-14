@@ -1,0 +1,17 @@
+name: The Restless Dead
+
+origin: scourgewar-263
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'On your turn: Pay 3 to complete this quest. Reward : Each player shuffles his graveyard into his deck, and then you draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

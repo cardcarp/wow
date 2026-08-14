@@ -1,0 +1,17 @@
+name: The Deadmines
+
+origin: dungeon-treasure-058
+
+layout: standard
+
+category: Location
+
+rule:
+  - type: ability
+    text: 'If an ally you controlled was destroyed this turn: → Draw a card, then discard a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

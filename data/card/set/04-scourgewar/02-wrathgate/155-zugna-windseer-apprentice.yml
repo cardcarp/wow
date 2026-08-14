@@ -1,13 +1,13 @@
-oracle: zugna-windseer-apprentice
-
-lex: '155'
-
-set: wrathgate
+index: '155'
 
 rarity: Common
 
 artist: Trent Kaniuga
 
+variation: []
+
 flavor: '"Tarus has taught me well. Shall I show you?"'
 
-variation: []
+oracle: zugna-windseer-apprentice-wrathgate-155
+
+set: Wrathgate

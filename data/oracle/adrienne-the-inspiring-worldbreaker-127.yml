@@ -1,0 +1,27 @@
+name: Adrienne the Inspiring
+
+origin: worldbreaker-127
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 4 → Target ally has Assault 4 this turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

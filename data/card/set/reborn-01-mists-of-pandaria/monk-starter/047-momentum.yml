@@ -1,13 +1,13 @@
-oracle: momentum
-
-lex: '047'
-
-set: monk-starter
+index: '047'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: momentum-monk-starter-047
+
+set: Monk Starter

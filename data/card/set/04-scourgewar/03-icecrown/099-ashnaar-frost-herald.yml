@@ -1,13 +1,13 @@
-oracle: ashnaar-frost-herald
-
-lex: '099'
-
-set: icecrown
+index: '099'
 
 rarity: Rare
 
 artist: Michael Sutfin
 
+variation: []
+
 flavor: '"Even in the darkest if times, I will do all that I can to aid those in need."'
 
-variation: []
+oracle: ashnaar-frost-herald-icecrown-099
+
+set: Icecrown

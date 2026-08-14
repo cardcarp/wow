@@ -1,13 +1,13 @@
-oracle: power-word-shelter
-
-lex: '079'
-
-set: worldbreaker
+index: '079'
 
 rarity: Uncommon
 
 artist: Dan Scott
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: power-word-shelter-worldbreaker-079
+
+set: Worldbreaker

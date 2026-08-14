@@ -1,13 +1,13 @@
-oracle: azjol-anak-battleguard
-
-lex: '203'
-
-set: scourgewar
+index: '203'
 
 rarity: Common
 
 artist: Mike Nicholson
 
+variation: []
+
 flavor: 'Guardians bred for a single purpose: protect Kilix the Unraveler, no matter the cost.'
 
-variation: []
+oracle: azjol-anak-battleguard-scourgewar-203
+
+set: Scourgewar

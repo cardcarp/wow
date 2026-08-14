@@ -1,0 +1,27 @@
+name: Galahandra, Keeper of the Silent Grove
+
+origin: heroes-of-azeroth-184
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 0
+
+health: 1
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive 1 , → Exhaust target ally.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

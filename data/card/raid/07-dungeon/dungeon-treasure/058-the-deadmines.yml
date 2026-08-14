@@ -1,13 +1,13 @@
-oracle: the-deadmines
-
-lex: '058'
-
-set: dungeon-treasure
+index: '058'
 
 rarity: Rare
 
 artist: Richard Wright
 
+variation: []
+
 flavor: Deep beneath Moonbrook lie the Deadmines, a place of secrets and dark treachery.
 
-variation: []
+oracle: the-deadmines-dungeon-treasure-058
+
+set: Dungeon Treasure

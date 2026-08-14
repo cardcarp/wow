@@ -1,0 +1,27 @@
+name: Zorm Stonefury
+
+origin: heroes-of-azeroth-274
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Allies in your party have +1 ATK while attacking.
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

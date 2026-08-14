@@ -1,0 +1,22 @@
+name: Crusaders Might
+
+origin: war-of-the-ancients-030
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: This turn, your hero has +ATK equal to the combined of armor you control.
+
+regulation:
+
+errata: []
+
+temp: Retribution

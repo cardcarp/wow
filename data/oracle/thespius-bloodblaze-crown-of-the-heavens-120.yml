@@ -1,0 +1,27 @@
+name: Thespius Bloodblaze
+
+origin: crown-of-the-heavens-120
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 1
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Elusive
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

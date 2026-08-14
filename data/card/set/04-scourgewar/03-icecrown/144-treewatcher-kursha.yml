@@ -1,13 +1,13 @@
-oracle: treewatcher-kursha
-
-lex: '144'
-
-set: icecrown
+index: '144'
 
 rarity: Common
 
 artist: Eric Deschamps
 
+variation: []
+
 flavor: '"This land is not beyond cleansing."'
 
-variation: []
+oracle: treewatcher-kursha-icecrown-144
+
+set: Icecrown

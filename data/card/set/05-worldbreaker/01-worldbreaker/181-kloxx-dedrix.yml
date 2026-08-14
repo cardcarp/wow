@@ -1,13 +1,13 @@
-oracle: kloxx-dedrix
-
-lex: '181'
-
-set: worldbreaker
+index: '181'
 
 rarity: Common
 
 artist: Mike Nicholson
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: kloxx-dedrix-worldbreaker-181
+
+set: Worldbreaker

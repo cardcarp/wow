@@ -1,13 +1,13 @@
-oracle: hand-of-righteousness
-
-lex: '050'
-
-set: dungeon-treasure
+index: '050'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor: '"The Light has spoken!" - High Inquisitor Whitemane'
 
-variation: []
+oracle: hand-of-righteousness-dungeon-treasure-050
+
+set: Dungeon Treasure

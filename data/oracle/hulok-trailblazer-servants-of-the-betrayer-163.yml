@@ -1,0 +1,27 @@
+name: Hulok Trailblazer
+
+origin: servants-of-the-betrayer-163
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Arcane
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When you place a quest, Hulok deals 1 arcane damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

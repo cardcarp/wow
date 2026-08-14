@@ -1,13 +1,13 @@
-oracle: winters-icy-embrace
-
-lex: '178'
-
-set: icecrown
+index: '178'
 
 rarity: Common
 
 artist: Dave Kendall
 
+variation: []
+
 flavor: '"You have no choice but to adapt to these new surroundings." - Harona Proudmane'
 
-variation: []
+oracle: winters-icy-embrace-icecrown-178
+
+set: Icecrown

@@ -1,0 +1,22 @@
+name: Convert
+
+origin: fields-of-honor-043
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+instant: Destroy target attacking ally. If you do, your hero heals damage from itself equal to that ally's ATK.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

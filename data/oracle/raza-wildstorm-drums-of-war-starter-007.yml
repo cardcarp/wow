@@ -1,0 +1,25 @@
+name: Ra'za Wildstorm
+
+origin: drums-of-war-starter-007
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 6
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

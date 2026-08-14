@@ -1,13 +1,13 @@
-oracle: stoneclaw-totem
-
-lex: '022'
-
-set: totem
+index: '022'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: stoneclaw-totem-march-of-the-legion-100
+
+set: Totem

@@ -1,0 +1,27 @@
+name: Teresa Voidheart
+
+origin: scourgewar-192
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Shadow Resistance 1 , Remove this ally from the game → Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

@@ -1,13 +1,13 @@
-oracle: soggypaw
-
-lex: '006'
-
-set: hogger-demo
+index: '006'
 
 rarity: Epic
 
 artist: Greg Staples
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: soggypaw-worldbreaker-crafting-011
+
+set: Hogger Demo

@@ -1,0 +1,24 @@
+name: Blue Diamond Witchwand
+
+origin: drums-of-war-223
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: When an opponent discards a card, put a +1 ATK counter on Blue Diamond Witchwand. When damage is dealt with Blue Diamond Witchwand, remove all +1 ATK counters from it.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Wand

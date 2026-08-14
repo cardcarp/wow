@@ -1,0 +1,22 @@
+name: Overload
+
+origin: crown-of-the-heavens-024
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+instant: Interrupt target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

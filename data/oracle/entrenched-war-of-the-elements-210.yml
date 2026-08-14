@@ -1,0 +1,17 @@
+name: Entrenched
+
+origin: war-of-the-elements-210
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'If you control an ally: Pay 3 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

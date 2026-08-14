@@ -1,13 +1,13 @@
-oracle: sparkington-the-abrupt
-
-lex: '115'
-
-set: icecrown
+index: '115'
 
 rarity: Uncommon
 
 artist: Efrem Palacios
 
+variation: []
+
 flavor: '"I have little patience, especially for the likes of you!"'
 
-variation: []
+oracle: sparkington-the-abrupt-icecrown-115
+
+set: Icecrown

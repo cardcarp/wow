@@ -1,0 +1,30 @@
+name: Mistletoe
+
+origin: feast-of-winter-veil-2007-008
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: You and another friendly player each exhaust their heroes → You and that player each draw a card.
+
+regulation:
+
+errata: []
+
+temp: Item

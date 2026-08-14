@@ -1,0 +1,27 @@
+name: Belithra the Black Thorn
+
+origin: betrayal-of-the-guardian-063
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 1
+
+health: 5
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive → Target ally has Absorb , Ferocity , Sentinel , and Stealth this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

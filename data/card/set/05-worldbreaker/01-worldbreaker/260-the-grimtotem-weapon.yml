@@ -1,13 +1,13 @@
-oracle: the-grimtotem-weapon
-
-lex: '260'
-
-set: worldbreaker
+index: '260'
 
 rarity: Common
 
 artist: Steve Tappin
 
+variation: []
+
 flavor: "\"I'll loan the totem to you if you agree to help me test it.\" - Apprentice Garion"
 
-variation: []
+oracle: the-grimtotem-weapon-worldbreaker-260
+
+set: Worldbreaker

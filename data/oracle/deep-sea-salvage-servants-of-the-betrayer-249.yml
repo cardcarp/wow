@@ -1,0 +1,17 @@
+name: Deep Sea Salvage
+
+origin: servants-of-the-betrayer-249
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'During your turn, pay 4 to complete this quest. Reward : Put a card from your graveyard on top of your deck.'
+
+regulation:
+
+errata: []
+
+temp: ''

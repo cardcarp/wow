@@ -1,0 +1,22 @@
+name: Kamu of Thunder Bluff
+
+origin: horde-druid-2011-001
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 4 , Flip Kamu → Kamu deals 1 arcane damage to target hero or ally for each hero and ally you control.'
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

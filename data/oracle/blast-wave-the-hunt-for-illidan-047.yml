@@ -1,0 +1,22 @@
+name: Blast Wave
+
+origin: the-hunt-for-illidan-047
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Fire Hero Required Your hero deals 2 fire damage to each opposing hero and ally. A character dealt damage this way can't protect this turn.
+
+regulation:
+
+errata: []
+
+temp: Fire Talent

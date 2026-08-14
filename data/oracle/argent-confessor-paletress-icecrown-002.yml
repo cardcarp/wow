@@ -1,0 +1,26 @@
+name: Argent Confessor Paletress
+
+origin: icecrown-002
+
+layout: transform
+
+category: Hero
+
+health: 26
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    position: front
+    text: Argent Crusade Reputation Flip Paletress, remove a Priest in your graveyard from the game → The next time target hero or ally would be dealt damage this turn, prevent it.
+  - type: ability
+    position: reverse
+    text: "Deckbuilding : You can only include either or cards, cards, Discipline talents, neutral cards, and Argent Crusade cards. You can't include cards with other reputations or other text restrictions."
+
+regulation:
+
+errata: []
+
+temp: Human Priest

@@ -1,13 +1,13 @@
-oracle: hanzo-sword
-
-lex: '034'
-
-set: monk-starter
+index: '034'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: hanzo-sword-monk-starter-034
+
+set: Monk Starter

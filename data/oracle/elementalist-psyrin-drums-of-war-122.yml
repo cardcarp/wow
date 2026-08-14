@@ -1,0 +1,27 @@
+name: Elementalist Psyrin
+
+origin: drums-of-war-122
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 3
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Psyrin can't attack. → Target ally has +3 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

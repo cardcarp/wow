@@ -1,0 +1,24 @@
+name: Band of the Inevitable
+
+origin: the-hunt-for-illidan-218
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: x , Destroy Band of the Inevitable → Destroy each equipment with cost X or less. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

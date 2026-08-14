@@ -1,13 +1,13 @@
-oracle: soul-fragment
-
-lex: '003'
-
-set: black-temple-token
+index: '003'
 
 rarity: Common
 
 artist: Brandon Kitkouski
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: soul-fragment-black-temple-token-003
+
+set: Black Temple Token

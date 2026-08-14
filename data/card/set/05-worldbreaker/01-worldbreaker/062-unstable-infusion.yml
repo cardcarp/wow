@@ -1,13 +1,13 @@
-oracle: unstable-infusion
-
-lex: '062'
-
-set: worldbreaker
+index: '062'
 
 rarity: Common
 
 artist: Grace Lui
 
+variation: []
+
 flavor: "\"It's gonna blow!\" - Bragvi Stormstein"
 
-variation: []
+oracle: unstable-infusion-worldbreaker-062
+
+set: Worldbreaker

@@ -1,13 +1,13 @@
-oracle: starli
-
-lex: '155'
-
-set: scourgewar
+index: '155'
 
 rarity: Common
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: '"I said go that way, you big dummy."'
 
-variation: []
+oracle: starli-scourgewar-155
+
+set: Scourgewar

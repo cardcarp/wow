@@ -1,0 +1,24 @@
+name: Heroism
+
+origin: fires-of-outland-078
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+faction: Alliance
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: Alliance Hero Required Heroes and allies in your party have +2 ATK while attacking allies this turn.
+
+regulation:
+
+errata: []
+
+temp: Enhancement

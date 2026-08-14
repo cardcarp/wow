@@ -1,0 +1,22 @@
+name: Light of Reckoning
+
+origin: war-of-the-elements-060
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: Your hero has +3 ATK while defending this combat.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

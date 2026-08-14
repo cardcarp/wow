@@ -1,0 +1,25 @@
+name: Vindicator Aluumen
+
+origin: the-hunt-for-illidan-178
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 6
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: All friendly protectors'
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

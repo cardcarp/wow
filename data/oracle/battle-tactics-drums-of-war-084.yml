@@ -1,0 +1,22 @@
+name: Battle Tactics
+
+origin: drums-of-war-084
+
+layout: standard
+
+category: Ability
+
+cost: '7'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Ongoing : Opposing heroes and allies must attack each turn if able. When an opponent proposes combat, you may change the proposed defender. (It must be a legal choice for the attacker.)'
+
+regulation:
+
+errata: []
+
+temp: Protection

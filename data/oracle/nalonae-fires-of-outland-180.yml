@@ -1,0 +1,27 @@
+name: Nalonae
+
+origin: fires-of-outland-180
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: You may destroy one of your resources rather than pay Nalonae's cost.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Priest

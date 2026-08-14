@@ -1,13 +1,13 @@
-oracle: dark-ranger-velonara
-
-lex: '012'
-
-set: scarlet-monastery
+index: '012'
 
 rarity: Common
 
 artist: Noomi Baker
 
+variation: []
+
 flavor: "\"I'll even get you started.\""
 
-variation: []
+oracle: dark-ranger-velonara-scarlet-monastery-012
+
+set: Scarlet Monastery

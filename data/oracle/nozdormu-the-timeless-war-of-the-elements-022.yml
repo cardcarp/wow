@@ -1,0 +1,28 @@
+name: Nozdormu the Timeless
+
+origin: war-of-the-elements-022
+
+layout: transform
+
+category: Hero
+
+cost: '25'
+
+damage: 1
+
+health: 35
+
+combat: Melee
+
+type: Master
+
+rule:
+  - type: ability
+    position: front
+    text: You may pay up to x less to play Nozdormu, where X is the combined cost of cards you control. When your hero becomes Nozdormu, if you control no ready resources, target player skips his next turn.
+
+regulation:
+
+errata: []
+
+temp: Bronze Dragonkin Aspect

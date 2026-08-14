@@ -1,0 +1,27 @@
+name: Tracker Gallen
+
+origin: heroes-of-azeroth-219
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 0
+
+health: 2
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Tracker Gallen has +1 ATK for each ally in your party.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

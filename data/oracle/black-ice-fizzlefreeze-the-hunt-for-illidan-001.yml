@@ -1,0 +1,22 @@
+name: '"Black Ice" Fizzlefreeze'
+
+origin: the-hunt-for-illidan-001
+
+layout: transform
+
+category: Hero
+
+health: 25
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 1 , Flip Black Ice → Black Ice deals 1 frost damage to target hero or ally. A character dealt damage this way can't attack this turn.
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

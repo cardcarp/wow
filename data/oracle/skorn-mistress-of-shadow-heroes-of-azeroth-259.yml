@@ -1,0 +1,27 @@
+name: Skorn, Mistress of Shadow
+
+origin: heroes-of-azeroth-259
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 2
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When an ally is dealt damage, Skorn deals that amount of shadow damage to target hero in that ally's party.
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

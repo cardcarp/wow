@@ -1,13 +1,13 @@
-oracle: godfreys-crystal-scope
-
-lex: '039'
-
-set: shadowfang-keep
+index: '039'
 
 rarity: Common
 
 artist: Eric Deschamps
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: godfreys-crystal-scope-shadowfang-keep-039
+
+set: Shadowfang Keep

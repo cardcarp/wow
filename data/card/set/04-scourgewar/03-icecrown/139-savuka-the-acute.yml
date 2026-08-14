@@ -1,13 +1,13 @@
-oracle: savuka-the-acute
-
-lex: '139'
-
-set: icecrown
+index: '139'
 
 rarity: Uncommon
 
 artist: Matt Dixon
 
+variation: []
+
 flavor: '"Bows for foes, guns for fun."'
 
-variation: []
+oracle: savuka-the-acute-icecrown-139
+
+set: Icecrown

@@ -1,0 +1,17 @@
+name: Level the Playing Field
+
+origin: arena-grand-melee-event-052
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: Each player destroys allies in his party until he controls the same number as the player with the fewest allies. Repeat this process for abilities, equipment, and resources.
+
+regulation:
+
+errata: []
+
+temp: ''

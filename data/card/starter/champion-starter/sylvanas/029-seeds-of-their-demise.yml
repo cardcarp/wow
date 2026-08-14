@@ -1,13 +1,13 @@
-oracle: seeds-of-their-demise
-
-lex: '029'
-
-set: sylvanas
+index: '029'
 
 rarity: Common
 
 artist: Zoltan Boros
 
+variation: []
+
 flavor: '"I need you to harvest some bileberries from the wailing weeds that surround this tower." - Tyrus Blackhorn'
 
-variation: []
+oracle: seeds-of-their-demise-throne-of-the-tides-258
+
+set: Sylvanas

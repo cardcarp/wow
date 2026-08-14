@@ -1,0 +1,19 @@
+name: Fallen Champions
+
+origin: assault-on-icecrown-citadel-raid-035
+
+layout: standard
+
+category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: 'Pay 2 to initiate this event. Event : Draw a card for each opposing hero that was dealt damage this turn.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,22 @@
+name: Radak Doombringer
+
+origin: heroes-of-azeroth-013
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: x , Flip Radak Doombringer, destroy one of your Pets with cost X → Radak deals X shadow damage to target hero or ally. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

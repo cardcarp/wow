@@ -1,13 +1,13 @@
-oracle: mining-monkey
-
-lex: '035'
-
-set: dungeon-treasure
+index: '035'
 
 rarity: Common
 
 artist: Dany Orizio
 
+variation: []
+
 flavor: (including you)
 
-variation: []
+oracle: mining-monkey-dungeon-treasure-035
+
+set: Dungeon Treasure

@@ -1,0 +1,19 @@
+name: Call the Spirit
+
+origin: heroes-of-azeroth-157
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: Put target ally card from your graveyard into your hand.
+
+regulation:
+
+errata: []
+
+temp: ''

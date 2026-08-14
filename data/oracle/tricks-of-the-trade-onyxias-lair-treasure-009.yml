@@ -1,0 +1,22 @@
+name: Tricks of the Trade
+
+origin: onyxias-lair-treasure-009
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+instant: Friendly heroes can't be targeted by opponents this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Subtlety

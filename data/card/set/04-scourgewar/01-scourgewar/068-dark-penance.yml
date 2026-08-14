@@ -1,13 +1,13 @@
-oracle: dark-penance
-
-lex: '068'
-
-set: scourgewar
+index: '068'
 
 rarity: Common
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: '"The cost is irrelevant. Only the outcome truly matters." - Omedus the Punisher'
 
-variation: []
+oracle: dark-penance-scourgewar-068
+
+set: Scourgewar

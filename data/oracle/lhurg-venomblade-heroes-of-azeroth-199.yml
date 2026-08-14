@@ -1,0 +1,27 @@
+name: Lhurg Venomblade
+
+origin: heroes-of-azeroth-199
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: → Destroy target exhausted ally.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Rogue

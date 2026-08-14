@@ -1,0 +1,22 @@
+name: Pagatha Soulbinder
+
+origin: through-the-dark-portal-018
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 5 , Flip Pagatha Soulbinder → Interrupt target ally card.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

@@ -1,13 +1,13 @@
-oracle: azjol-anak-skirmisher
-
-lex: '163'
-
-set: icecrown
+index: '163'
 
 rarity: Uncommon
 
 artist: Daren Bader
 
+variation: []
+
 flavor: The Skirmisher won't stop until it or its enemy is dead.
 
-variation: []
+oracle: azjol-anak-skirmisher-icecrown-163
+
+set: Icecrown

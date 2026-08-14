@@ -1,13 +1,13 @@
-oracle: zuur
-
-lex: '164'
-
-set: worldbreaker
+index: '164'
 
 rarity: Common
 
 artist: Ron Lemen
 
+variation: []
+
 flavor: '"Before it turns into mulch, allow me."'
 
-variation: []
+oracle: zuur-worldbreaker-164
+
+set: Worldbreaker

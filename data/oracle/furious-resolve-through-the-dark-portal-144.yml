@@ -1,0 +1,19 @@
+name: Furious Resolve
+
+origin: through-the-dark-portal-144
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +1 ATK and +1 health.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

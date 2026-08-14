@@ -1,0 +1,27 @@
+name: Faceless Sapper
+
+origin: throne-of-the-tides-200
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Enrage When you reveal an ally this way, this ally has +2 ATK and Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: Faceless One Priest

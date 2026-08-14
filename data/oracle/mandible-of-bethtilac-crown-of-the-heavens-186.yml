@@ -1,0 +1,22 @@
+name: Mandible of Beth'tilac
+
+origin: crown-of-the-heavens-186
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

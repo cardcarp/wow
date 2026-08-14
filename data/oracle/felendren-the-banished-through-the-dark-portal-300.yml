@@ -1,0 +1,19 @@
+name: Felendren the Banished
+
+origin: through-the-dark-portal-300
+
+layout: standard
+
+category: Quest
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'Blood Elf Hero Required During your turn, remove a non-token ally in your party from the game and pay 2 to complete this quest. Reward : Draw two cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

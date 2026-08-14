@@ -1,13 +1,14 @@
-oracle: zovaar-the-fallen
-
-lex: '030'
-
-set: timewalkers
+index: '030'
 
 rarity: Rare
 
 artist: Unknown
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: zovaar-the-fallen-timewalkers-030
+
+set: Timewalkers

@@ -1,0 +1,19 @@
+name: Hardpacked Snowball
+
+origin: feast-of-winter-veil-2007-001
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+instant: "Attach to target hero or ally and exhaust it. Ongoing : Attached character can't attack or protect and has \" → Attach this ability to target hero or ally and exhaust it.\""
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

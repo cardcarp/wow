@@ -1,0 +1,22 @@
+name: Totem of Decay
+
+origin: servants-of-the-betrayer-105
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Shaman
+
+instant: 'Traitor Hero Required Ongoing : At the start of your turn, each opponent destroys an ability, ally, or equipment he controls. (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Traitor 1

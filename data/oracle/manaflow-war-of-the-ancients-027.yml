@@ -1,0 +1,22 @@
+name: Manaflow
+
+origin: war-of-the-ancients-027
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Draw cards equal to the highest cost among allies you control.
+
+regulation:
+
+errata: []
+
+temp: Arcane

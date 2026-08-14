@@ -1,0 +1,27 @@
+name: Ethereal Thief
+
+origin: betrayal-of-the-guardian-140
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: When this ally enters play, gain control of target armor or item.
+
+regulation:
+
+errata: []
+
+temp: Ethereal Rogue

@@ -1,0 +1,30 @@
+name: Phoenix-fire Band
+
+origin: magtheridons-lair-treasure-014
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 1 , Destroy Phoenix-fire Band → Prevent all fire ( ) damage that would be dealt to target hero or ally this turn.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

@@ -1,0 +1,23 @@
+name: Warglaive of Azzinoth, Right Hand of the Betrayer
+
+origin: black-temple-treasure-009
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Warrior
+  - Rogue
+
+rule:
+  - type: ability
+    text: When you strike with Warglaive of Azzinoth, ready another one of your Warglaives. When Warglaive of Azzinoth leaves play, put a Demon ally token named Flame of Azzinoth into play with 3 ATK / 3 health and Protector .
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Warglaive Sword

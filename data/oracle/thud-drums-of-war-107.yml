@@ -1,0 +1,23 @@
+name: Thud!
+
+origin: drums-of-war-107
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+  - Rogue
+
+instant: Exhaust target card in play. It can't ready during its controller's next ready step.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Combat Combo

@@ -1,13 +1,13 @@
-oracle: a-grave-bargain
-
-lex: '049'
-
-set: naxxramas-raid
+index: '049'
 
 rarity: Uncommon
 
 artist: Howard Lyon
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: a-grave-bargain-naxxramas-raid-049
+
+set: Naxxramas Raid

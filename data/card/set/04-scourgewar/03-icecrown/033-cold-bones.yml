@@ -1,13 +1,13 @@
-oracle: cold-bones
-
-lex: '033'
-
-set: icecrown
+index: '033'
 
 rarity: Common
 
 artist: Christian Lichtner
 
+variation: []
+
 flavor: '"Never wake a sleeping bear." -'
 
-variation: []
+oracle: cold-bones-icecrown-033
+
+set: Icecrown

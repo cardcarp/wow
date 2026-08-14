@@ -1,0 +1,25 @@
+name: Defias Watcher
+
+origin: the-deadmines-013
+
+layout: standard
+
+category: Ally
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: When this ally is dealt damage by a Raiding hero or ally, if this ally has exactly 4 damage on him, that character's controller gains control of him.
+
+regulation:
+
+errata: []
+
+temp: Mechanical Golem

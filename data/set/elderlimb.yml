@@ -2,7 +2,7 @@ name: Elderlimb
 
 type: starter
 
-lex:
+index:
 
 subtotal: 29
 
@@ -10,4 +10,4 @@ total: 29
 
 date_release: 2012-03
 
-collection: champion-starter
+collection: Champion Starter

@@ -1,0 +1,22 @@
+name: Rumi of Gnomeregan
+
+origin: alliance-mage-2011-001
+
+layout: transform
+
+category: Hero
+
+health: 25
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 4 , Flip Rumi → Rumi deals 2 fire damage to target hero and 2 fire damage to up to one target ally.'
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

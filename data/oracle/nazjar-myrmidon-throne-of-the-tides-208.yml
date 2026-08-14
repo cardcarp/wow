@@ -1,0 +1,27 @@
+name: Naz'jar Myrmidon
+
+origin: throne-of-the-tides-208
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Naga Warrior

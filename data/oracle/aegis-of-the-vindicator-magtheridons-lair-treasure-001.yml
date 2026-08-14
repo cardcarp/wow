@@ -1,0 +1,23 @@
+name: Aegis of the Vindicator
+
+origin: magtheridons-lair-treasure-001
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: When an opposing hero or ally becomes exhausted, your hero heals 2 damage from itself.
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

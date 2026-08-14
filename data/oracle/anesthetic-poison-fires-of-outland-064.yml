@@ -1,0 +1,22 @@
+name: Anesthetic Poison
+
+origin: fires-of-outland-064
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: 'Attach to target hero or ally that was dealt combat damage by your hero this turn. Ongoing : When attached character becomes exhausted, its controller discards a card.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Poison

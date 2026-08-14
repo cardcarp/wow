@@ -1,13 +1,13 @@
-oracle: empowering-mist
-
-lex: '044'
-
-set: monk-starter
+index: '044'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: empowering-mist-monk-starter-044
+
+set: Monk Starter

@@ -1,0 +1,27 @@
+name: Bizzazz
+
+origin: march-of-the-legion-138
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Gnome Rogue

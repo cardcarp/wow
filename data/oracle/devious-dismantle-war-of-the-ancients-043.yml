@@ -1,0 +1,22 @@
+name: Devious Dismantle
+
+origin: war-of-the-ancients-043
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Destroy target equipment. If you destroyed an equipment with cost 4 or less this way, its controller discards a card.
+
+regulation:
+
+errata: []
+
+temp: Assassination

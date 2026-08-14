@@ -11,7 +11,7 @@ facet:
 
 collection: '2011'
 
-highlight: starter-2011-horde-shaman-001
+highlight: horde-shaman-2011-001
 
 description: 2011 Horde Shaman Preconstructed
 
@@ -23,33 +23,33 @@ total: 61
 
 list:
   hero:
-    starter-2011-horde-shaman-001: 1  # Akumo of Thunder Bluff
+    horde-shaman-2011-001: 1  # Akumo of Thunder Bluff
   main:
-    starter-2011-horde-shaman-002: 2  # Chain Heal
-    starter-2011-horde-shaman-003: 1 # Chain Lightning
-    starter-2011-horde-shaman-004: 1 # Cleanse Spirit
-    starter-2011-horde-shaman-005: 2 # Earths Bounty
-    starter-2011-horde-shaman-006: 1 # Elemental Precision
-    starter-2011-horde-shaman-007: 2 # Frost Shock
-    starter-2011-horde-shaman-008: 2 # Inferno Totem
-    starter-2011-horde-shaman-009: 2 # Infusion of Earth
-    starter-2011-horde-shaman-010: 2 # Lightning Bolt
-    starter-2011-horde-shaman-011: 2 # Natural Conduit
-    starter-2011-horde-shaman-012: 1 # Boki Earthgaze
-    starter-2011-horde-shaman-013: 3 # Burom Bladeseer
-    starter-2011-horde-shaman-014: 2 # Guardian Steelhoof
-    starter-2011-horde-shaman-015: 3 # Ka_tali Stonetusk
-    starter-2011-horde-shaman-016: 2 # Kistix Shockvat
-    starter-2011-horde-shaman-017: 3 # Lifemender Dorn
-    starter-2011-horde-shaman-018: 2 # Mojo Doctor Zin_tar
-    starter-2011-horde-shaman-019: 2 # Toz_jun
-    starter-2011-horde-shaman-020: 1 # Vanda Skydaughter
-    starter-2011-horde-shaman-021: 2 # Zakis Trickstab
-    starter-2011-horde-shaman-022: 2 # Zerzu
-    starter-2011-horde-shaman-023: 1 # Masterwork Stormhammer
-    starter-2011-horde-shaman-024: 2 # Reanimators Hacker
-    starter-2011-horde-shaman-025: 3 # A Bird in Hand
-    starter-2011-horde-shaman-026: 4 # Entrenched
-    starter-2011-horde-shaman-027: 4 # The Essence of Enmity
-    starter-2011-horde-shaman-028: 4 # The Key to Freedom
-    starter-2011-horde-shaman-029: 2 # Mystery Goo
+    horde-shaman-2011-002: 2  # Chain Heal
+    horde-shaman-2011-003: 1 # Chain Lightning
+    horde-shaman-2011-004: 1 # Cleanse Spirit
+    horde-shaman-2011-005: 2 # Earths Bounty
+    horde-shaman-2011-006: 1 # Elemental Precision
+    horde-shaman-2011-007: 2 # Frost Shock
+    horde-shaman-2011-008: 2 # Inferno Totem
+    horde-shaman-2011-009: 2 # Infusion of Earth
+    horde-shaman-2011-010: 2 # Lightning Bolt
+    horde-shaman-2011-011: 2 # Natural Conduit
+    horde-shaman-2011-012: 1 # Boki Earthgaze
+    horde-shaman-2011-013: 3 # Burom Bladeseer
+    horde-shaman-2011-014: 2 # Guardian Steelhoof
+    horde-shaman-2011-015: 3 # Ka'tali Stonetusk
+    horde-shaman-2011-016: 2 # Kistix Shockvat
+    horde-shaman-2011-017: 3 # Lifemender Dorn
+    horde-shaman-2011-018: 2 # Mojo Doctor Zin'tar
+    horde-shaman-2011-019: 2 # Toz'jun
+    horde-shaman-2011-020: 1 # Vanda Skydaughter
+    horde-shaman-2011-021: 2 # Zakis Trickstab
+    horde-shaman-2011-022: 2 # Zerzu
+    horde-shaman-2011-023: 1 # Masterwork Stormhammer
+    horde-shaman-2011-024: 2 # Reanimators Hacker
+    horde-shaman-2011-025: 3 # A Bird in Hand
+    horde-shaman-2011-026: 4 # Entrenched
+    horde-shaman-2011-027: 4 # The Essence of Enmity
+    horde-shaman-2011-028: 4 # The Key to Freedom
+    horde-shaman-2011-029: 2 # Mystery Goo

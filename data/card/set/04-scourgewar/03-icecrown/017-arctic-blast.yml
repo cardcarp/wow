@@ -1,13 +1,13 @@
-oracle: arctic-blast
-
-lex: '017'
-
-set: icecrown
+index: '017'
 
 rarity: Common
 
 artist: William O'Connor
 
+variation: []
+
 flavor: "\"The Lich King isn't the only one who can command the powers of frost.\" - Randolphe Mortimer"
 
-variation: []
+oracle: arctic-blast-icecrown-017
+
+set: Icecrown

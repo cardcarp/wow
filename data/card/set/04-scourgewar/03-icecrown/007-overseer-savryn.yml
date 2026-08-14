@@ -1,14 +1,14 @@
-oracle: overseer-savryn
-
-lex: '007'
-
-set: icecrown
+index: '007'
 
 rarity: Uncommon
 
 artist: Kev Walker
 
-flavor: "\"The Cult of the Damned will not rest until the Lich King's plans have been fulfilled.\""
-
 variation:
   - transform
+
+flavor: "\"The Cult of the Damned will not rest until the Lich King's plans have been fulfilled.\""
+
+oracle: overseer-savryn-icecrown-007
+
+set: Icecrown

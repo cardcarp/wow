@@ -1,13 +1,13 @@
-oracle: wand-of-ruby-claret
-
-lex: '023'
-
-set: jaina
+index: '023'
 
 rarity: Common
 
 artist: Gonzalo Ordonez
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: wand-of-ruby-claret-worldbreaker-249
+
+set: Jaina

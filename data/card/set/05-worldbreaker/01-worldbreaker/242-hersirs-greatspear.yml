@@ -1,13 +1,13 @@
-oracle: hersirs-greatspear
-
-lex: '242'
-
-set: worldbreaker
+index: '242'
 
 rarity: Uncommon
 
 artist: Doug Alexander
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: hersirs-greatspear-worldbreaker-242
+
+set: Worldbreaker

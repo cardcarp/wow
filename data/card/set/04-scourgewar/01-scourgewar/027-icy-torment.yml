@@ -1,13 +1,13 @@
-oracle: icy-torment
-
-lex: '027'
-
-set: scourgewar
+index: '027'
 
 rarity: Common
 
 artist: Raymond Swanland
 
+variation: []
+
 flavor: '"The frozen touch of death will take your strength, your morale, and eventually your life." - Erondra Frostmoon'
 
-variation: []
+oracle: icy-torment-scourgewar-027
+
+set: Scourgewar

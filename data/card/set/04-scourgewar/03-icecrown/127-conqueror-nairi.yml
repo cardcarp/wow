@@ -1,13 +1,13 @@
-oracle: conqueror-nairi
-
-lex: '127'
-
-set: icecrown
+index: '127'
 
 rarity: Uncommon
 
 artist: Gonzalo Ordonez
 
+variation: []
+
 flavor: '"Your command of the elements is noteworthy, but my mastery of the Light is superior."'
 
-variation: []
+oracle: conqueror-nairi-icecrown-127
+
+set: Icecrown

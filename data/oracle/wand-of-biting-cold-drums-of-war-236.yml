@@ -1,0 +1,24 @@
+name: Wand of Biting Cold
+
+origin: drums-of-war-236
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+instant: When Wand of Biting Cold enters play, target hero or ally can't attack this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Wand

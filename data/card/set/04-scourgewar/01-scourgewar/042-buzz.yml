@@ -1,13 +1,13 @@
-oracle: buzz
-
-lex: '042'
-
-set: scourgewar
+index: '042'
 
 rarity: Uncommon
 
 artist: Lars Grant-West
 
+variation: []
+
 flavor: The squasher has suddenly become the squashee.
 
-variation: []
+oracle: buzz-scourgewar-042
+
+set: Scourgewar

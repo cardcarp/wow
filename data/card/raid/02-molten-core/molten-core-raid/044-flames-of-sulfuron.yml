@@ -1,13 +1,13 @@
-oracle: flames-of-sulfuron
-
-lex: '044'
-
-set: molten-core-raid
+index: '044'
 
 rarity: Uncommon
 
 artist: Mark Zug
 
+variation: []
+
 flavor: '"TASTE THE FLAMES OF SULFURON!"'
 
-variation: []
+oracle: flames-of-sulfuron-molten-core-raid-044
+
+set: Molten Core Raid

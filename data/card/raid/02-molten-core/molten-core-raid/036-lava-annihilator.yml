@@ -1,13 +1,13 @@
-oracle: lava-annihilator
-
-lex: '036'
-
-set: molten-core-raid
+index: '036'
 
 rarity: Uncommon
 
 artist: Christopher Moeller
 
+variation: []
+
 flavor: "\"They don't respond well to taunts. Believe me, I've tried.\" - Victoria Jaton"
 
-variation: []
+oracle: lava-annihilator-molten-core-raid-036
+
+set: Molten Core Raid

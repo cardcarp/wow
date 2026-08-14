@@ -1,0 +1,19 @@
+name: Spirit Wrench
+
+origin: magtheridons-lair-raid-024
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+rule:
+  - type: ability
+    text: Play only if seven or more Bloods are in play. Remove all damage from target opposing hero and put it on a second target hero.
+
+regulation:
+
+errata: []
+
+temp: ''

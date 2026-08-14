@@ -1,0 +1,22 @@
+name: Aftermath
+
+origin: the-hunt-for-illidan-095
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+instant: 'Destruction Hero Required Ongoing : When you play an ability, you may exhaust target hero or ally.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Destruction Talent

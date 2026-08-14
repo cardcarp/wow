@@ -1,0 +1,28 @@
+name: Neptulon
+
+origin: throne-of-the-tides-025
+
+layout: transform
+
+category: Hero
+
+cost: '10'
+
+damage: 3
+
+health: 38
+
+combat: Frost
+
+type: Master
+
+rule:
+  - type: ability
+    position: front
+    text: 'Fire Resistance When your hero becomes Neptulon, reveal the top ten cards of your deck. Remove all revealed Frost and cards from the game, and put the rest on the bottom of your deck. Tidal Surge : Allies you control have +1 / +1 for each card removed this way.'
+
+regulation:
+
+errata: []
+
+temp: Water Elemental Lord

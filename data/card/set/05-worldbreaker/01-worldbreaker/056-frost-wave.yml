@@ -1,13 +1,13 @@
-oracle: frost-wave
-
-lex: '056'
-
-set: worldbreaker
+index: '056'
 
 rarity: Common
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor: '"Stay where you are!" - Suvok Frozeneye'
 
-variation: []
+oracle: frost-wave-worldbreaker-056
+
+set: Worldbreaker

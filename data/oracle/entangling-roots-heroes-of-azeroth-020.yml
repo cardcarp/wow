@@ -1,0 +1,22 @@
+name: Entangling Roots
+
+origin: heroes-of-azeroth-020
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: "Attach to target ally and exhaust it. Ongoing : Attached ally can't ready during its controller's ready step."
+
+regulation:
+
+errata: []
+
+temp: Balance

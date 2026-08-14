@@ -1,13 +1,13 @@
-oracle: flawless-defense
-
-lex: '087'
-
-set: wrathgate
+index: '087'
 
 rarity: Uncommon
 
 artist: Jonboy Meyers
 
+variation: []
+
 flavor: '"Run while you still can - I will hold them off." - Kaniya the Steadfast'
 
-variation: []
+oracle: flawless-defense-wrathgate-087
+
+set: Wrathgate

@@ -1,0 +1,19 @@
+name: Marked for Death
+
+origin: heroes-of-azeroth-039
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Dungeon allies have +2 ATK and Long-Range this turn.
+
+regulation:
+
+errata: []
+
+temp: ''

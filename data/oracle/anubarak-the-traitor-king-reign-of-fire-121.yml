@@ -1,0 +1,27 @@
+name: Anub'arak, The Traitor King
+
+origin: reign-of-fire-121
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 6
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Protector 2 , Remove six cards in a graveyard from the game → Put Anub'arak from your graveyard into play.
+
+regulation:
+
+errata: []
+
+temp: Scourge Crypt Lord

@@ -1,0 +1,23 @@
+name: Twinblade of the Phoenix
+
+origin: blood-of-gladiators-186
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: You can play Twinblade of the Phoenix from your graveyard.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Sword

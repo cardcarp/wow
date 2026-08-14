@@ -1,13 +1,13 @@
-oracle: black-blood
-
-lex: '023'
-
-set: worldbreaker
+index: '023'
 
 rarity: Common
 
 artist: Dave Allsop
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: black-blood-worldbreaker-023
+
+set: Worldbreaker

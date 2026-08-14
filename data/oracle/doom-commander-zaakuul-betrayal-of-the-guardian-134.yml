@@ -1,0 +1,27 @@
+name: Doom Commander Zaakuul
+
+origin: betrayal-of-the-guardian-134
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 6
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Monster Hero Required When another non-token ally you control is destroyed, put a token copy of that ally into play that is also a Demon Monster.
+
+regulation:
+
+errata: []
+
+temp: Doomguard Demon

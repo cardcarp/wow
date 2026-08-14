@@ -1,0 +1,27 @@
+name: Shanla, Herald of Faith
+
+origin: throne-of-the-tides-126
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Empower Priest : When this ally enters play, if you control another Priest hero or ally, destroy target opposing ability and all other opposing abilities with the same name as it.'
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

@@ -1,0 +1,22 @@
+name: Hammer of the Righteous
+
+origin: fires-of-outland-050
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: Your hero deals 3 holy damage to target attacker. That damage can't be prevented.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution

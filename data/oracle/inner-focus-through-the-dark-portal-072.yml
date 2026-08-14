@@ -1,0 +1,22 @@
+name: Inner Focus
+
+origin: through-the-dark-portal-072
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: "Discipline Hero Required Ongoing : Destroy Inner Focus → When you play your next ability this turn, ready up to X of your resources, where X is that ability's cost."
+
+regulation:
+
+errata: []
+
+temp: Discipline Talent

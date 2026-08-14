@@ -1,13 +1,13 @@
-oracle: malefic-necromancer
-
-lex: '152'
-
-set: icecrown
+index: '152'
 
 rarity: Common
 
 artist: Alan Pollack
 
+variation: []
+
 flavor: '"Put yourselves together."'
 
-variation: []
+oracle: malefic-necromancer-icecrown-152
+
+set: Icecrown

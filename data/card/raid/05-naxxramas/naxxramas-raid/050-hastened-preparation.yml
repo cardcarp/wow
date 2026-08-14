@@ -1,13 +1,13 @@
-oracle: hastened-preparation
-
-lex: '050'
-
-set: naxxramas-raid
+index: '050'
 
 rarity: Uncommon
 
 artist: Howard Lyon
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: hastened-preparation-naxxramas-raid-050
+
+set: Naxxramas Raid

@@ -1,0 +1,25 @@
+name: Zaistor the Vigilant
+
+origin: march-of-the-legion-228
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Holy
+
+rule:
+  - type: ability
+    text: Aldor Reputation 1 , Destroy Zaistor → Target hero or ally can't be destroyed this turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

@@ -1,0 +1,23 @@
+name: Nature Unleashed
+
+origin: drums-of-war-102
+
+layout: standard
+
+category: Ability
+
+cost: '7'
+
+class:
+  - Druid
+  - Hunter
+
+rule:
+  - type: ability
+    text: Put five Bear ally tokens into play with 1 ATK / 1 health and Protector .
+
+regulation:
+
+errata: []
+
+temp: Feral Beast Mastery

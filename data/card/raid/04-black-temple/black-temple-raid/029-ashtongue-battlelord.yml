@@ -1,13 +1,13 @@
-oracle: ashtongue-battlelord
-
-lex: '029'
-
-set: black-temple-raid
+index: '029'
 
 rarity: Common
 
 artist: Andrea Uderzo
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: ashtongue-battlelord-black-temple-raid-029
+
+set: Black Temple Raid

@@ -1,13 +1,13 @@
-oracle: mindbender-ghur-sha
-
-lex: '014'
-
-set: hogger
+index: '014'
 
 rarity: Rare
 
 artist: Jakub Kasper
 
+variation: []
+
 flavor: '"Is. This. Reality?"'
 
-variation: []
+oracle: mindbender-ghursha-throne-of-the-tides-203
+
+set: Hogger

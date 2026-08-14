@@ -1,0 +1,17 @@
+name: Mob Mentality
+
+origin: arena-grand-melee-event-060
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: The Arena deals 1 facsimile damage to each hero and ally for each hero or ally with that character's name in play.
+
+regulation:
+
+errata: []
+
+temp: ''

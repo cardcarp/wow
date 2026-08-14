@@ -1,0 +1,19 @@
+name: Elunes Blessing
+
+origin: war-of-the-ancients-079
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+rule:
+  - type: ability
+    text: 'Attach to target ally. Ongoing : Attached ally has +3 / +3.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,14 +1,14 @@
-oracle: mother-shahraz
-
-lex: '008'
-
-set: black-temple-raid
+index: '008'
 
 rarity: Rare
 
 artist: Vance Kovacs
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: mother-shahraz-black-temple-raid-008
+
+set: Black Temple Raid

@@ -1,13 +1,13 @@
-oracle: burly-berta
-
-lex: '112'
-
-set: wrathgate
+index: '112'
 
 rarity: Rare
 
 artist: Chris Seaman
 
+variation: []
+
 flavor: Her actions speak louder than her words ever could.
 
-variation: []
+oracle: burly-berta-wrathgate-112
+
+set: Wrathgate

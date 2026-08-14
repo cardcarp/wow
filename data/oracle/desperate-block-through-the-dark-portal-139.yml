@@ -1,0 +1,19 @@
+name: Desperate Block
+
+origin: through-the-dark-portal-139
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+instant: Prevent the next 2 damage that would be dealt to target hero or ally this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

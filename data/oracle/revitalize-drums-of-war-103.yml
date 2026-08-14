@@ -1,0 +1,23 @@
+name: Revitalize
+
+origin: drums-of-war-103
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+  - Priest
+
+rule:
+  - type: ability
+    text: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero heals 2 damage from attached character.'
+
+regulation:
+
+errata: []
+
+temp: Restoration Holy

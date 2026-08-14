@@ -1,0 +1,22 @@
+name: Collateral Damage
+
+origin: fields-of-honor-077
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 1 melee damage to each ally in attached hero's party."
+
+regulation:
+
+errata: []
+
+temp: Arms

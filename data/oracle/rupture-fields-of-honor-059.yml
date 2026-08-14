@@ -1,0 +1,22 @@
+name: Rupture
+
+origin: fields-of-honor-059
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Rogue
+
+instant: 'Finishing Move Attach to target hero or ally, and put X bleed counters on Rupture. Ongoing : At the start of your turn, your hero deals 1 melee damage to attached character for each bleed counter.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Assassination

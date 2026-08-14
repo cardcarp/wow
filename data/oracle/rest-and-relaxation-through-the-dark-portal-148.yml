@@ -1,0 +1,19 @@
+name: Rest and Relaxation
+
+origin: through-the-dark-portal-148
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+rule:
+  - type: ability
+    text: 'Ongoing : 1 , , Exhaust two allies in your party → Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

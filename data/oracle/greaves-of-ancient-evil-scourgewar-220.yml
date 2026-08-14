@@ -1,0 +1,24 @@
+name: Greaves of Ancient Evil
+
+origin: scourgewar-220
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 'When damage is prevented with this armor, Hero : Ready a weapon you control. Hero : Ready another armor you control. Hero : Ready your hero.'
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

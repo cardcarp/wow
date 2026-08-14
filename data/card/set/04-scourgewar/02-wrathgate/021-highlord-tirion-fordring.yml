@@ -1,14 +1,14 @@
-oracle: highlord-tirion-fordring
-
-lex: '021'
-
-set: wrathgate
+index: '021'
 
 rarity: Rare
 
 artist: Zoltan Boros & Gabor Szikszai
 
-flavor: '"No more lives will be consumed by your hatred!"'
-
 variation:
   - transform
+
+flavor: '"No more lives will be consumed by your hatred!"'
+
+oracle: highlord-tirion-fordring-wrathgate-021
+
+set: Wrathgate

@@ -1,0 +1,24 @@
+name: Anraphets Regalia
+
+origin: tomb-of-the-forgotten-164
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: Your hero has Mend 1 .
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

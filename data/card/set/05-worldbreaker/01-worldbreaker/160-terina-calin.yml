@@ -1,13 +1,13 @@
-oracle: terina-calin
-
-lex: '160'
-
-set: worldbreaker
+index: '160'
 
 rarity: Common
 
 artist: Jesper Ejsing
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: terina-calin-worldbreaker-160
+
+set: Worldbreaker

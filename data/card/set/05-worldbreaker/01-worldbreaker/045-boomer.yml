@@ -1,13 +1,13 @@
-oracle: boomer
-
-lex: '045'
-
-set: worldbreaker
+index: '045'
 
 rarity: Rare
 
 artist: Andrew Jones
 
+variation: []
+
 flavor: '"Skreeee!"'
 
-variation: []
+oracle: boomer-worldbreaker-045
+
+set: Worldbreaker

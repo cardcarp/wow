@@ -1,0 +1,22 @@
+name: Axe of the Tauren Chieftains
+
+origin: war-of-the-ancients-223
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Axe

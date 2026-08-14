@@ -1,0 +1,28 @@
+name: Shadow Silhouettes
+
+origin: servants-of-the-betrayer-085
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 6
+
+health: 6
+
+combat: Shadow
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: At the end of your turn, remove 6 damage from your hero and put 1 damage on Shadow Silhouettes for each damage removed this way.
+
+regulation:
+
+errata: []
+
+temp: Shadow Silhouette

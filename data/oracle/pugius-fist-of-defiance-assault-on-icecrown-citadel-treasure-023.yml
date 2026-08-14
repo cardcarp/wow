@@ -1,0 +1,23 @@
+name: Pugius, Fist of Defiance
+
+origin: assault-on-icecrown-citadel-treasure-023
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Shaman
+  - Rogue
+
+rule:
+  - type: ability
+    text: When your hero is dealt damage for the first time each turn, you may add a +1 ATK counter to this weapon.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Fist

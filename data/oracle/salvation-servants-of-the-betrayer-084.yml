@@ -1,0 +1,22 @@
+name: Salvation
+
+origin: servants-of-the-betrayer-084
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+instant: Your hero heals 8 damage divided as you choose from any number of target heroes and/or allies.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

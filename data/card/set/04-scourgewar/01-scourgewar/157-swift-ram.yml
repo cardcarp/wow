@@ -1,13 +1,13 @@
-oracle: swift-ram
-
-lex: '157'
-
-set: scourgewar
+index: '157'
 
 rarity: Rare
 
 artist: Matt Dixon
 
+variation: []
+
 flavor: (Mounts can't attack or be attacked.)
 
-variation: []
+oracle: swift-ram-scourgewar-157
+
+set: Scourgewar

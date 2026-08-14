@@ -1,13 +1,13 @@
-oracle: rune-of-mohn
-
-lex: '012'
-
-set: molten-core-raid
+index: '012'
 
 rarity: Uncommon
 
 artist: Clint Langley
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: rune-of-mohn-molten-core-raid-012
+
+set: Molten Core Raid

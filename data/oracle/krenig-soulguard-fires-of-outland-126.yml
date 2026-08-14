@@ -1,0 +1,27 @@
+name: Krenig Soulguard
+
+origin: fires-of-outland-126
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 2
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: "3 , Destroy Krenig Soulguard → Choose one: Destroy target ability; or put target ability into its owner's hand."
+
+regulation:
+
+errata: []
+
+temp: Dwarf Priest

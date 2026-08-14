@@ -1,0 +1,27 @@
+name: Jaelen the Ripper
+
+origin: tomb-of-the-forgotten-084
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive , Stealth When this ally deals fatal damage, he also deals 5 melee damage to target opposing hero.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Rogue

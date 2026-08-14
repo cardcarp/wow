@@ -1,13 +1,13 @@
-oracle: enveloping-shadows
-
-lex: '082'
-
-set: scourgewar
+index: '082'
 
 rarity: Rare
 
 artist: Ron Spencer
 
+variation: []
+
 flavor: '"Subterfuge is what separates the dead rogues from the live ones." - Ravenna'
 
-variation: []
+oracle: enveloping-shadows-scourgewar-082
+
+set: Scourgewar

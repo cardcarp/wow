@@ -1,0 +1,27 @@
+name: Daniel Darkheart
+
+origin: reign-of-fire-073
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 1 , Put 1 damage on this ally → Put a 1 / 1 Human Warrior ally token into play with Protector .
+
+regulation:
+
+errata: []
+
+temp: Human Warlock

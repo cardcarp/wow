@@ -1,0 +1,27 @@
+name: Cromarius Blackfist
+
+origin: drums-of-war-162
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Cromarius enters play, destroy target opposing ability if its controller has more abilities than you.
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

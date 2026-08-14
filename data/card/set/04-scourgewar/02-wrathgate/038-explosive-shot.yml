@@ -1,13 +1,13 @@
-oracle: explosive-shot
-
-lex: '038'
-
-set: wrathgate
+index: '038'
 
 rarity: Rare
 
 artist: Tom Baxa
 
+variation: []
+
 flavor: '"Enjoy the fireworks, mon." - The Longeye'
 
-variation: []
+oracle: explosive-shot-wrathgate-038
+
+set: Wrathgate

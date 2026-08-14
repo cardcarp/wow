@@ -1,0 +1,17 @@
+name: Conversing With the Depths
+
+origin: wrathgate-206
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : Draw a card for each five cards in your graveyard.'
+
+regulation:
+
+errata: []
+
+temp: ''

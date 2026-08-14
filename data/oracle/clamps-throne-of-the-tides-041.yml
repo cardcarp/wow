@@ -1,0 +1,30 @@
+name: Clamps
+
+origin: throne-of-the-tides-041
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 6
+
+combat: Melee
+
+class:
+  - Hunter
+
+type: Monster
+
+rule:
+  - type: ability
+    text: 2 , → Exhaust up to two target allies.
+
+regulation:
+
+errata: []
+
+temp: Crab

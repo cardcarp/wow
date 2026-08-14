@@ -1,13 +1,13 @@
-oracle: roll
-
-lex: '029'
-
-set: monk-starter
+index: '029'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: roll-monk-starter-029
+
+set: Monk Starter

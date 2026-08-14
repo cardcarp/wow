@@ -1,13 +1,13 @@
-oracle: prototype-reaper
-
-lex: '036'
-
-set: dungeon-treasure
+index: '036'
 
 rarity: Common
 
 artist: James Ryman
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: prototype-reaper-dungeon-treasure-036
+
+set: Dungeon Treasure

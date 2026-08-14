@@ -1,0 +1,22 @@
+name: Shadow Burst
+
+origin: scourgewar-101
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Your hero deals 2 shadow damage to target hero or ally. When that character is destroyed this turn, its controller discards a card.
+
+regulation:
+
+errata: []
+
+temp: Destruction

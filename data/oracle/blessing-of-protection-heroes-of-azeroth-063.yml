@@ -1,0 +1,22 @@
+name: Blessing of Protection
+
+origin: heroes-of-azeroth-063
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: 'Attach to target hero or ally you control. Ongoing : Prevent all damage that would be dealt to and dealt by attached character. At end of turn, destroy this ability.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Blessing

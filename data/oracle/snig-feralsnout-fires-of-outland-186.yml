@@ -1,0 +1,27 @@
+name: Snig Feralsnout
+
+origin: fires-of-outland-186
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Stealth Snig Feralsnout has Ferocity while you control a Form.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

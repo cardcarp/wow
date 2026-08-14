@@ -1,13 +1,13 @@
-oracle: die-insect
-
-lex: '042'
-
-set: molten-core-raid
+index: '042'
 
 rarity: Uncommon
 
 artist: Kevin Maginnis
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: die-insect-molten-core-raid-042
+
+set: Molten Core Raid

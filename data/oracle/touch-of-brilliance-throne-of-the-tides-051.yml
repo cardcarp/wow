@@ -1,0 +1,22 @@
+name: Touch of Brilliance
+
+origin: throne-of-the-tides-051
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Attach to target ally you control. Ongoing : When attached ally deals combat damage to an opposing hero, draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Arcane

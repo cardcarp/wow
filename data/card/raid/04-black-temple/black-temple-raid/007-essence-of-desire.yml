@@ -1,14 +1,14 @@
-oracle: essence-of-desire
-
-lex: '007'
-
-set: black-temple-raid
+index: '007'
 
 rarity: Common
 
 artist: ''
 
-flavor: ''
-
 variation:
   - transform
+
+flavor: ''
+
+oracle: essence-of-desire-black-temple-raid-007
+
+set: Black Temple Raid

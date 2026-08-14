@@ -1,14 +1,14 @@
-oracle: heigan-the-unclean
-
-lex: '020'
-
-set: naxxramas-raid
+index: '020'
 
 rarity: Rare
 
 artist: Ron Lemen
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: heigan-the-unclean-naxxramas-raid-020
+
+set: Naxxramas Raid

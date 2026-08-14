@@ -1,13 +1,13 @@
-oracle: diane-cannings
-
-lex: '208'
-
-set: scourgewar
+index: '208'
 
 rarity: Rare
 
 artist: Greg Hildebrandt
 
+variation: []
+
 flavor: '"Flexibility in your armor plays a crucial part in making your attacks even more devastating."'
 
-variation: []
+oracle: diane-cannings-scourgewar-208
+
+set: Scourgewar

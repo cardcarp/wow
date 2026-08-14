@@ -1,0 +1,22 @@
+name: Frost Strike
+
+origin: icecrown-022
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Death Knight
+
+instant: Frost Hero Required Your hero deals frost damage to target hero or ally equal to the ATK of a weapon you control. Up to X target opposing cards can't attack or exhaust this turn, where X is the ATK of a weapon you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost Talent

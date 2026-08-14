@@ -1,13 +1,13 @@
-oracle: gnaw
-
-lex: '003'
-
-set: hogger-demo
+index: '003'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: gnaw-hogger-demo-003
+
+set: Hogger Demo

@@ -1,13 +1,13 @@
-oracle: gregory-flamewaker
-
-lex: '135'
-
-set: scourgewar
+index: '135'
 
 rarity: Common
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: '"Hot enough for you?"'
 
-variation: []
+oracle: gregory-flamewaker-scourgewar-135
+
+set: Scourgewar

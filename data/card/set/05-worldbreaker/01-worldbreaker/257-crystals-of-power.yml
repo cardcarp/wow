@@ -1,13 +1,13 @@
-oracle: crystals-of-power
-
-lex: '257'
-
-set: worldbreaker
+index: '257'
 
 rarity: Common
 
 artist: Ralph Horsley
 
+variation: []
+
 flavor: '"What I am talking about? Why, the crystals, of course!" - J.D. Collie'
 
-variation: []
+oracle: crystals-of-power-worldbreaker-257
+
+set: Worldbreaker

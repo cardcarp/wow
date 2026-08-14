@@ -1,0 +1,22 @@
+name: Rallying Swarm
+
+origin: throne-of-the-tides-087
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Ongoing : If an equipment entered play under your control this turn: → Search your deck for an Unlimited Murloc and put it into play.'
+
+regulation:
+
+errata: []
+
+temp: Arms

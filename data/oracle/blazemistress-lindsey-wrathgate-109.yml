@@ -1,0 +1,27 @@
+name: Blazemistress Lindsey
+
+origin: wrathgate-109
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 5
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: ', Discard an ability → This ally deals 4 fire damage to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Human Mage

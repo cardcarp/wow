@@ -1,0 +1,25 @@
+name: Reaper of Dark Souls
+
+origin: scourgewar-242
+
+layout: standard
+
+category: Equipment
+
+cost: X
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+  - Rogue
+
+rule:
+  - type: ability
+    text: This weapon enters play with X +1 ATK counters.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

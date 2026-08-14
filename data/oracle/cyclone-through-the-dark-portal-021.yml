@@ -1,0 +1,22 @@
+name: Cyclone
+
+origin: through-the-dark-portal-021
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+instant: "Attach to target hero or ally, and put three wind counters on Cyclone. Ongoing : Attached character can't attack or protect. At the start of your turn, remove a wind counter from Cyclone. If you removed the last one, destroy Cyclone."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Balance

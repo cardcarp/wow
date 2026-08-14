@@ -1,0 +1,19 @@
+name: Quicken the Pace
+
+origin: onyxias-lair-event-022
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Put the top card of the event deck into your resource row face down. Each opponent puts the top card of his deck into his resource row face down.
+
+regulation:
+
+errata: []
+
+temp: ''

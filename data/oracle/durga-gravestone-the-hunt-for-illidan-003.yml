@@ -1,0 +1,22 @@
+name: Durga Gravestone
+
+origin: the-hunt-for-illidan-003
+
+layout: transform
+
+category: Hero
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 1 , Flip Durga, remove up to five Combo cards in your graveyard from the game → Destroy target ally if its cost is less than or equal to the number of cards removed this way.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Rogue

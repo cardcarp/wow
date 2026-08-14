@@ -1,0 +1,24 @@
+name: Vigilant Guard
+
+origin: war-of-the-ancients-075
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+instant: Target opposing ally must attack your hero this turn if able. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

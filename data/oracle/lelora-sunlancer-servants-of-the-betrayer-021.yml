@@ -1,0 +1,22 @@
+name: Lelora Sunlancer
+
+origin: servants-of-the-betrayer-021
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Lelora → Prevent all damage that would be dealt to and dealt by target friendly ally this turn.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

@@ -1,0 +1,25 @@
+name: Drugush the Crusher
+
+origin: throne-of-the-tides-194
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 8
+
+health: 4
+
+combat: Melee
+
+type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ogre Warrior

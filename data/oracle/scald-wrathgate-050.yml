@@ -1,0 +1,22 @@
+name: Scald
+
+origin: wrathgate-050
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: "Attach to target equipment. Ongoing : Attached equipment loses and can't have powers. At the start of your turn, your hero deals 2 fire damage to attached equipment's controller's hero."
+
+regulation:
+
+errata: []
+
+temp: Fire

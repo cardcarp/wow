@@ -1,0 +1,22 @@
+name: Esonea
+
+origin: wrathgate-004
+
+layout: transform
+
+category: Hero
+
+health: 30
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: Flip Esonea, discard a Warrior → Weapons you control have +3 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

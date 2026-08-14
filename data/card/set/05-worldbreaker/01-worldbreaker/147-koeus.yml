@@ -1,13 +1,13 @@
-oracle: koeus
-
-lex: '147'
-
-set: worldbreaker
+index: '147'
 
 rarity: Common
 
 artist: Brian Despain
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: koeus-worldbreaker-147
+
+set: Worldbreaker

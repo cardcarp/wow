@@ -1,0 +1,27 @@
+name: Grovemender Ash'lon
+
+origin: scourgewar-178
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 3
+
+health: 6
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Mend 3 When this ally heals damage, you may draw a card.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

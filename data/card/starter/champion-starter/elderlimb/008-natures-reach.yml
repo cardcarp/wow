@@ -1,13 +1,13 @@
-oracle: natures-reach
-
-lex: '008'
-
-set: elderlimb
+index: '008'
 
 rarity: Rare
 
 artist: Christopher Moeller
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: natures-reach-blood-of-gladiators-020
+
+set: Elderlimb

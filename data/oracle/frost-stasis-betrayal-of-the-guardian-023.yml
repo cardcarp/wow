@@ -1,0 +1,22 @@
+name: Frost Stasis
+
+origin: betrayal-of-the-guardian-023
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: "Attach to target opposing ally. Ongoing : Attached ally can't attack or exhaust. When attached ally is dealt damage, destroy it and put three 2 / 1 Water Elemental ally tokens into play,"
+
+regulation:
+
+errata: []
+
+temp: Frost Attachment

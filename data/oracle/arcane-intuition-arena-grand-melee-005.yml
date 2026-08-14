@@ -1,0 +1,24 @@
+name: Arcane Intuition
+
+origin: arena-grand-melee-005
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+type: Arena
+
+rule:
+  - type: ability
+    text: 'Preparation Ongoing : When Arcane Intuition enters play, draw a card. Your maximum hand size is increased by one.'
+
+regulation:
+
+errata: []
+
+temp: ''

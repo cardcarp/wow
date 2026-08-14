@@ -1,13 +1,13 @@
-oracle: flare-of-the-heavens
-
-lex: '179'
-
-set: icecrown
+index: '179'
 
 rarity: Rare
 
 artist: Raven Mimura
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: flare-of-the-heavens-icecrown-179
+
+set: Icecrown

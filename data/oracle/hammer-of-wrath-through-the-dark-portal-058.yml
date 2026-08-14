@@ -1,0 +1,22 @@
+name: Hammer of Wrath
+
+origin: through-the-dark-portal-058
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: Your hero deals 3 holy damage to target hero or ally with damage on it. That damage can't be prevented.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

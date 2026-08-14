@@ -1,0 +1,24 @@
+name: Durotans Battle Harness
+
+origin: betrayal-of-the-guardian-168
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: At the start of your turn, you may add a +1 counter to this armor.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

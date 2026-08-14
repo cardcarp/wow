@@ -1,13 +1,13 @@
-oracle: flames-of-the-incinerator
-
-lex: '020'
-
-set: molten-core-raid
+index: '020'
 
 rarity: Uncommon
 
 artist: Kev Walker
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: flames-of-the-incinerator-molten-core-raid-020
+
+set: Molten Core Raid

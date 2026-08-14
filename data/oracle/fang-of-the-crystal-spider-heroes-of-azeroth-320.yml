@@ -1,0 +1,25 @@
+name: Fang of the Crystal Spider
+
+origin: heroes-of-azeroth-320
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Warrior
+  - Shaman
+  - Hunter
+  - Rogue
+
+rule:
+  - type: ability
+    text: When your hero deals combat damage to a hero, that hero's controller can't play cards or strike with weapons this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

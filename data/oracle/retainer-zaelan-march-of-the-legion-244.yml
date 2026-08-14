@@ -1,0 +1,25 @@
+name: Retainer Zaelan
+
+origin: march-of-the-legion-244
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 5
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: "Scryer Reputation Sabotage: Equipment When Zaelan sabotages an equipment, put it into its owner's hand."
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

@@ -1,0 +1,19 @@
+name: Flash of Steel
+
+origin: through-the-dark-portal-142
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+rule:
+  - type: ability
+    text: Your hero deals 3 melee damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: ''

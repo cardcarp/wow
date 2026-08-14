@@ -1,0 +1,19 @@
+name: The Firelords Gift
+
+origin: war-of-the-elements-104
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+rule:
+  - type: ability
+    text: 'Ongoing : When this ability enters play, put a 2 / 1 Fire Elemental ally token into play. 1 , Destroy this ability → Target ally has Ferocity this turn.'
+
+regulation:
+
+errata: []
+
+temp: ''

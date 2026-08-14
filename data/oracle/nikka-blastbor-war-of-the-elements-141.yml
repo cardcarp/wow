@@ -1,0 +1,25 @@
+name: Nikka Blastbor
+
+origin: war-of-the-elements-141
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Arcane
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Goblin Hunter

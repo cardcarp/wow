@@ -1,0 +1,22 @@
+name: Monstrous Rush
+
+origin: tomb-of-the-forgotten-044
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+instant: 'As an additional cost to play, remove up to five abilities in your graveyard from the game. Choose that many of the following: Assault 3 , Long-Range , Sentinel , Smash , and Stealth . Target Monster hero or ally has the chosen powers this turn.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Assassination Finishing Move

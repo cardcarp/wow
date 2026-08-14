@@ -1,0 +1,22 @@
+name: Scent of Nature
+
+origin: wrathgate-035
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+instant: Your hero heals 2 damage from target hero or ally, or 6 if you completed a quest this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

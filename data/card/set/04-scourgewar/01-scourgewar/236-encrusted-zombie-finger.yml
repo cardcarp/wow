@@ -1,13 +1,13 @@
-oracle: encrusted-zombie-finger
-
-lex: '236'
-
-set: scourgewar
+index: '236'
 
 rarity: Rare
 
 artist: Tom Baxa
 
+variation: []
+
 flavor: '"Unnnnggggnnnn..."'
 
-variation: []
+oracle: encrusted-zombie-finger-scourgewar-236
+
+set: Scourgewar

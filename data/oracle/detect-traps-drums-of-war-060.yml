@@ -1,0 +1,22 @@
+name: Detect Traps
+
+origin: drums-of-war-060
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Choose "ability," "ally," or "equipment," and then target player reveals his hand and discards all cards of that kind.
+
+regulation:
+
+errata: []
+
+temp: Subtlety

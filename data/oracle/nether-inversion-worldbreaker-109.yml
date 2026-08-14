@@ -1,0 +1,22 @@
+name: Nether Inversion
+
+origin: worldbreaker-109
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warlock
+
+instant: Target ally has +3 / -3 this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Affliction

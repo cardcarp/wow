@@ -1,0 +1,24 @@
+name: Freezing Band
+
+origin: march-of-the-legion-271
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: Each opponent can't draw more than one card per turn.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

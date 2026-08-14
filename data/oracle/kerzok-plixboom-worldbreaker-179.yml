@@ -1,0 +1,27 @@
+name: Kerzok Plixboom
+
+origin: worldbreaker-179
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 2
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Long-Range Time is Money → Remove this ally from combat.
+
+regulation:
+
+errata: []
+
+temp: Goblin Hunter

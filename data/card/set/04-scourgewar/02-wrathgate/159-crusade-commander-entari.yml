@@ -1,13 +1,13 @@
-oracle: crusade-commander-entari
-
-lex: '159'
-
-set: wrathgate
+index: '159'
 
 rarity: Rare
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor: '"Where both the Alliance and the Horde failed, the Argent Crusade succeeded."'
 
-variation: []
+oracle: crusade-commander-entari-wrathgate-159
+
+set: Wrathgate

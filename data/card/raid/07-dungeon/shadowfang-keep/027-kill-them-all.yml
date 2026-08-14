@@ -1,13 +1,13 @@
-oracle: kill-them-all
-
-lex: '027'
-
-set: shadowfang-keep
+index: '027'
 
 rarity: Common
 
 artist: Gabor Szikszai
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: kill-them-all-shadowfang-keep-027
+
+set: Shadowfang Keep

@@ -1,0 +1,25 @@
+name: Ruby Enforcer
+
+origin: worldbreaker-214
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Allies you control have Ferocity .
+
+regulation:
+
+errata: []
+
+temp: Red Dragonkin

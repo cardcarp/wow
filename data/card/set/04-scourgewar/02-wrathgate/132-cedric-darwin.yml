@@ -1,13 +1,13 @@
-oracle: cedric-darwin
-
-lex: '132'
-
-set: wrathgate
+index: '132'
 
 rarity: Common
 
 artist: Alan Pollack
 
+variation: []
+
 flavor: '"Your thoughts betray you."'
 
-variation: []
+oracle: cedric-darwin-wrathgate-132
+
+set: Wrathgate

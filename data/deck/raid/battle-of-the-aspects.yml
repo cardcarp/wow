@@ -9,7 +9,7 @@ facet:
 
 collection: raid
 
-highlight: aspects-raid-001
+highlight: battle-of-the-aspects-raid-001
 
 description: Co-op Automated Raid Experience
 
@@ -27,41 +27,41 @@ total: 63
 
 list:
   main:
-    aspects-raid-001: 1  # Deathwing the Destroyer
-    aspects-raid-002: 1 # Deathwing the Destroyer
-    aspects-raid-003: 1 # Deathwing the Destroyer
-    aspects-raid-004: 1 # Deathwing the Destroyer
-    aspects-raid-005: 1 # Morchok
-    aspects-raid-006: 1 # Warlord Zon'ozz
-    aspects-raid-007: 1 # Yorsahj the Unsleeping
-    aspects-raid-008: 1 # Hagara the Stormbinder
-    aspects-raid-009: 1 # Ultraxion
-    aspects-raid-010: 1 # Warmaster Blackhorn
-    aspects-raid-011: 5 # Elementium Terror
-    aspects-raid-012: 6 # Hideous Amalgamation
-    aspects-raid-013: 3 # Barrel Roll
-    aspects-raid-014: 6 # Blistering Tentacle
-    aspects-raid-015: 4 # Elementium Bolt
-    aspects-raid-016: 4 # Mutated Corruption
-    aspects-raid-017: 2 # Elementium Armor
-    aspects-raid-018: 1 # Assault Aspects
-    aspects-raid-019: 1 # Congealing Blood
-    aspects-raid-020: 1 # Contagious Blood
-    aspects-raid-021: 1 # Corrupting Parasite
-    aspects-raid-022: 1 # Crush
-    aspects-raid-023: 1 # Death's Deal
-    aspects-raid-024: 1 # Debilitating Corruption
-    aspects-raid-025: 1 # Destroyers Challenge
-    aspects-raid-026: 1 # Explosive Heat
-    aspects-raid-027: 1 # Fiery Corruption
-    aspects-raid-028: 1 # Fiery Madness
-    aspects-raid-029: 1 # Focused Assault
-    aspects-raid-030: 1 # Hemorrhage
-    aspects-raid-031: 1 # Incinerating Bolt
-    aspects-raid-032: 1 # Inferno Pulse
-    aspects-raid-033: 1 # Oozing Blood
-    aspects-raid-034: 1 # Punishing Blood
-    aspects-raid-035: 1 # Rage of the Destroyer
-    aspects-raid-036: 1 # Summon Boss
-    aspects-raid-037: 1 # Swarm of Blood
-    aspects-raid-038: 1 # Tentacle Swipe
+    battle-of-the-aspects-raid-001: 1  # Deathwing the Destroyer
+    battle-of-the-aspects-raid-002: 1 # Deathwing the Destroyer
+    battle-of-the-aspects-raid-003: 1 # Deathwing the Destroyer
+    battle-of-the-aspects-raid-004: 1 # Deathwing the Destroyer
+    battle-of-the-aspects-raid-005: 1 # Morchok
+    battle-of-the-aspects-raid-006: 1 # Warlord Zon'ozz
+    battle-of-the-aspects-raid-007: 1 # Yorsahj the Unsleeping
+    battle-of-the-aspects-raid-008: 1 # Hagara the Stormbinder
+    battle-of-the-aspects-raid-009: 1 # Ultraxion
+    battle-of-the-aspects-raid-010: 1 # Warmaster Blackhorn
+    battle-of-the-aspects-raid-011: 5 # Elementium Terror
+    battle-of-the-aspects-raid-012: 6 # Hideous Amalgamation
+    battle-of-the-aspects-raid-013: 3 # Barrel Roll
+    battle-of-the-aspects-raid-014: 6 # Blistering Tentacle
+    battle-of-the-aspects-raid-015: 4 # Elementium Bolt
+    battle-of-the-aspects-raid-016: 4 # Mutated Corruption
+    battle-of-the-aspects-raid-017: 2 # Elementium Armor
+    battle-of-the-aspects-raid-018: 1 # Assault Aspects
+    battle-of-the-aspects-raid-019: 1 # Congealing Blood
+    battle-of-the-aspects-raid-020: 1 # Contagious Blood
+    battle-of-the-aspects-raid-021: 1 # Corrupting Parasite
+    battle-of-the-aspects-raid-022: 1 # Crush
+    battle-of-the-aspects-raid-023: 1 # Death's Deal
+    battle-of-the-aspects-raid-024: 1 # Debilitating Corruption
+    battle-of-the-aspects-raid-025: 1 # Destroyers Challenge
+    battle-of-the-aspects-raid-026: 1 # Explosive Heat
+    battle-of-the-aspects-raid-027: 1 # Fiery Corruption
+    battle-of-the-aspects-raid-028: 1 # Fiery Madness
+    battle-of-the-aspects-raid-029: 1 # Focused Assault
+    battle-of-the-aspects-raid-030: 1 # Hemorrhage
+    battle-of-the-aspects-raid-031: 1 # Incinerating Bolt
+    battle-of-the-aspects-raid-032: 1 # Inferno Pulse
+    battle-of-the-aspects-raid-033: 1 # Oozing Blood
+    battle-of-the-aspects-raid-034: 1 # Punishing Blood
+    battle-of-the-aspects-raid-035: 1 # Rage of the Destroyer
+    battle-of-the-aspects-raid-036: 1 # Summon Boss
+    battle-of-the-aspects-raid-037: 1 # Swarm of Blood
+    battle-of-the-aspects-raid-038: 1 # Tentacle Swipe

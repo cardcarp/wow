@@ -1,0 +1,27 @@
+name: Gareth Ironshot
+
+origin: march-of-the-legion-149
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 2
+
+health: 6
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Long-Range
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

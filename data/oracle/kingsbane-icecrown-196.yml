@@ -1,0 +1,22 @@
+name: Kingsbane
+
+origin: icecrown-196
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Your hero has Dual Wield . This weapon has Assault X while your hero is attacking, where X is the ATK of a defender.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

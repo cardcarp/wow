@@ -1,0 +1,22 @@
+name: Predatory Sense
+
+origin: icecrown-029
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: 'Your hero has Assault 2 this turn. Ongoing : Your hero has Cat Form .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral Combo

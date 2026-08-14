@@ -1,0 +1,19 @@
+name: Lava Cracks
+
+origin: onyxias-lair-raid-021
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+rule:
+  - type: ability
+    text: Stage 3 Only Choose an opposing hero or ally and roll a die. Onyxia deals that amount of fire damage to it. Repeat this process for each other opposing character.
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,22 @@
+name: Prayer of Fortitude
+
+origin: march-of-the-legion-074
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: 'Ongoing : Your hero and allies you control have +5 .'
+
+regulation:
+
+errata: []
+
+temp: Discipline

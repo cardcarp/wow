@@ -1,13 +1,13 @@
-oracle: not-a-scratch-on-me
-
-lex: '044'
-
-set: shadowfang-keep
+index: '044'
 
 rarity: Common
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: not-a-scratch-on-me-shadowfang-keep-044
+
+set: Shadowfang Keep

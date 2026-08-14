@@ -1,13 +1,13 @@
-oracle: vala-carville
-
-lex: '197'
-
-set: worldbreaker
+index: '197'
 
 rarity: Common
 
 artist: Dave Allsop
 
+variation: []
+
 flavor: "\"I've spent a lifetime studying, and now it's time to show you what I've learned.\""
 
-variation: []
+oracle: vala-carville-worldbreaker-197
+
+set: Worldbreaker

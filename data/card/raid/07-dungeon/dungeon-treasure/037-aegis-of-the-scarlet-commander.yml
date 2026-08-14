@@ -1,13 +1,13 @@
-oracle: aegis-of-the-scarlet-commander
-
-lex: '037'
-
-set: dungeon-treasure
+index: '037'
 
 rarity: Uncommon
 
 artist: Steve Tappin
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: aegis-of-the-scarlet-commander-dungeon-treasure-037
+
+set: Dungeon Treasure

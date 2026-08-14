@@ -1,0 +1,27 @@
+name: Mojo Mistress Zurania
+
+origin: scourgewar-185
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Mend 2
+
+regulation:
+
+errata: []
+
+temp: Troll Priest

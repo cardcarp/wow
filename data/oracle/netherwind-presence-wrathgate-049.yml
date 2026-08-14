@@ -1,0 +1,22 @@
+name: Netherwind Presence
+
+origin: wrathgate-049
+
+layout: standard
+
+category: Ability
+
+cost: '7'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Arcane Hero Required Draw seven cards.
+
+regulation:
+
+errata: []
+
+temp: Arcane Talent

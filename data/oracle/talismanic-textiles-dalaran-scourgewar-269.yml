@@ -1,0 +1,17 @@
+name: Talismanic Textiles, Dalaran
+
+origin: scourgewar-269
+
+layout: standard
+
+category: Location
+
+rule:
+  - type: ability
+    text: → Put X +1 counters on target Cloth armor you control, where X is the number of Tailoring heroes and allies you control.
+
+regulation:
+
+errata: []
+
+temp: ''

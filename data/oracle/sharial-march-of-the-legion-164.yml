@@ -1,0 +1,27 @@
+name: Sharial
+
+origin: march-of-the-legion-164
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive → Exhaust target equipment.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Rogue

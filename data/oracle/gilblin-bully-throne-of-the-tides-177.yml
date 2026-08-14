@@ -1,0 +1,27 @@
+name: Gilblin Bully
+
+origin: throne-of-the-tides-177
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Frost
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Goblin Warrior

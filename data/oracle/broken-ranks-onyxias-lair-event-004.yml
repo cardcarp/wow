@@ -1,0 +1,19 @@
+name: Broken Ranks
+
+origin: onyxias-lair-event-004
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: You may put up to X target allies into their owners' hands, where X is the current stage.
+
+regulation:
+
+errata: []
+
+temp: ''

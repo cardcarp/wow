@@ -1,13 +1,13 @@
-oracle: shield-of-distortion
-
-lex: '120'
-
-set: scourgewar
+index: '120'
 
 rarity: Uncommon
 
 artist: Gonzalo Ordonez
 
+variation: []
+
 flavor: (non-)
 
-variation: []
+oracle: shield-of-distortion-scourgewar-120
+
+set: Scourgewar

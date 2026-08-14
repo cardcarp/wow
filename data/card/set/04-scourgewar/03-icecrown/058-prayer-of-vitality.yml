@@ -1,13 +1,13 @@
-oracle: prayer-of-vitality
-
-lex: '058'
-
-set: icecrown
+index: '058'
 
 rarity: Common
 
 artist: Arnie Swekel
 
+variation: []
+
 flavor: "\"I gonna help joo harness da mojo, bruddah.\" - Mojo Mender Ja'nah"
 
-variation: []
+oracle: prayer-of-vitality-icecrown-058
+
+set: Icecrown

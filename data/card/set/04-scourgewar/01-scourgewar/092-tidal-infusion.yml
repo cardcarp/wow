@@ -1,13 +1,13 @@
-oracle: tidal-infusion
-
-lex: '092'
-
-set: scourgewar
+index: '092'
 
 rarity: Common
 
 artist: Tyler Walpole
 
+variation: []
+
 flavor: "\"Don't think."
 
-variation: []
+oracle: tidal-infusion-scourgewar-092
+
+set: Scourgewar

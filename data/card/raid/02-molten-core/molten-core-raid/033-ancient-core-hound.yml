@@ -1,13 +1,13 @@
-oracle: ancient-core-hound
-
-lex: '033'
-
-set: molten-core-raid
+index: '033'
 
 rarity: Uncommon
 
 artist: E.M. Gist
 
+variation: []
+
 flavor: These great beasts of lava roam the whole of the Molten Core.
 
-variation: []
+oracle: ancient-core-hound-molten-core-raid-033
+
+set: Molten Core Raid

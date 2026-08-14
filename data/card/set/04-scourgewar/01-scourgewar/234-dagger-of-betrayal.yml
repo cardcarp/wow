@@ -1,13 +1,13 @@
-oracle: dagger-of-betrayal
-
-lex: '234'
-
-set: scourgewar
+index: '234'
 
 rarity: Rare
 
 artist: Warren Mahy
 
+variation: []
+
 flavor: '"Bargaining with rogues is like inviting the fox to live in your hen house." - Pappy Ironbane'
 
-variation: []
+oracle: dagger-of-betrayal-scourgewar-234
+
+set: Scourgewar

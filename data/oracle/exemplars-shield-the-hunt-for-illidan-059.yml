@@ -1,0 +1,22 @@
+name: Exemplars Shield
+
+origin: the-hunt-for-illidan-059
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +X health, where X is the highest DEF among your armor.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

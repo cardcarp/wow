@@ -1,0 +1,27 @@
+name: Gamon
+
+origin: through-the-dark-portal-209
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Any hero or ally can attack Gamon. (Including characters in your party.)
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

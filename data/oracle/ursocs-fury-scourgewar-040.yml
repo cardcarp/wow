@@ -1,0 +1,22 @@
+name: Ursocs Fury
+
+origin: scourgewar-040
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+instant: 'Ongoing : 1 , → Ready your hero. Your hero has Bear Form .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

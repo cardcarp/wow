@@ -1,0 +1,22 @@
+name: Windfury Totem
+
+origin: heroes-of-azeroth-118
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Shaman
+
+instant: 'Totem Ongoing : When each hero or ally in your party attacks for the first time each turn, you may pay 1 . If you do, ready that character.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement

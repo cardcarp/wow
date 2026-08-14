@@ -1,0 +1,24 @@
+name: Netherbane
+
+origin: drums-of-war-232
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+rule:
+  - type: ability
+    text: Cards in play you control can't be removed from the game.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

@@ -1,0 +1,22 @@
+name: Shadow Resistance Aura
+
+origin: scourgewar-064
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: 'Ongoing : Friendly allies have Shadow Resistance while ready.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

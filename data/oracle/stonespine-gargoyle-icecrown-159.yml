@@ -1,0 +1,27 @@
+name: Stonespine Gargoyle
+
+origin: icecrown-159
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Scourge Hero Required While this ally is ready prevent all damage that would be dealt to it.
+
+regulation:
+
+errata: []
+
+temp: Gargoyle

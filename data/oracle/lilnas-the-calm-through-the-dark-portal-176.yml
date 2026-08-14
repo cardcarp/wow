@@ -1,0 +1,27 @@
+name: Lilnas the Calm
+
+origin: through-the-dark-portal-176
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 6
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 3 , , Destroy Lilnas → Destroy all abilities.
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

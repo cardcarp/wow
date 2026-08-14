@@ -1,0 +1,22 @@
+name: Lesson of the Nether
+
+origin: wrathgate-083
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: You may exhaust a non-hero Warlock you control rather than pay this ability's cost. Look at target opponent's hand and choose a card. Remove it from the game.
+
+regulation:
+
+errata: []
+
+temp: Demonology

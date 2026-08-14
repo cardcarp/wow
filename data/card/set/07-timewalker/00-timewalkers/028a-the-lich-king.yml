@@ -1,14 +1,14 @@
-oracle: the-lich-king
-
-lex: 028a
-
-set: timewalkers
+index: 028a
 
 rarity: Rare
 
 artist: Unknown
 
-flavor: ''
-
 variation:
   - transform
+
+flavor: ''
+
+oracle: the-lich-king-icecrown-016
+
+set: Timewalkers

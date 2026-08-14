@@ -1,0 +1,27 @@
+name: Uh'gali the Elementalist
+
+origin: icecrown-145
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 4
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Exhaust a Totem you control → Ready this ally.
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

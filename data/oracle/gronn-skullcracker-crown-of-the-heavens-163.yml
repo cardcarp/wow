@@ -1,0 +1,27 @@
+name: Gronn Skullcracker
+
+origin: crown-of-the-heavens-163
+
+layout: standard
+
+category: Ally
+
+cost: '9'
+
+damage: 6
+
+health: 12
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Monster Hero Required You may reveal this ally from your opening hand once. If you do, your hero has +3 ATK on your first turn. Smash This ally has +6 ATK for each Ogre hero and ally you control.
+
+regulation:
+
+errata: []
+
+temp: Gronn

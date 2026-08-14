@@ -1,0 +1,27 @@
+name: Human Knight
+
+origin: betrayal-of-the-guardian-072
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 4
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector At the start of your turn, this ally heals 2 damage from your hero.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

@@ -1,0 +1,22 @@
+name: Raptor Strike
+
+origin: scourgewar-047
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+instant: Your hero deals 3 melee damage to target ally that entered play this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

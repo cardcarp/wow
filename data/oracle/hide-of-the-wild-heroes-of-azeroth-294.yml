@@ -1,0 +1,25 @@
+name: Hide of the Wild
+
+origin: heroes-of-azeroth-294
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: If your hero would heal damage, it heals that amount of damage plus 1 instead.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

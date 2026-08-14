@@ -1,0 +1,25 @@
+name: Anchorite Viluaa
+
+origin: march-of-the-legion-215
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Holy
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Hero'
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

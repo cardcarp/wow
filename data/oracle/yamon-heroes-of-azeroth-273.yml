@@ -1,0 +1,27 @@
+name: Ya'mon
+
+origin: heroes-of-azeroth-273
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 6
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ya'mon has +1 ATK for each damage on him.
+
+regulation:
+
+errata: []
+
+temp: Troll Rogue

@@ -1,0 +1,22 @@
+name: Righteous Vengeance
+
+origin: through-the-dark-portal-062
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+instant: Destroy target attacking ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution

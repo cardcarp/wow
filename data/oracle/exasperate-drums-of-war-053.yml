@@ -1,0 +1,22 @@
+name: Exasperate
+
+origin: drums-of-war-053
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Target player discards a card for each ally in your party.
+
+regulation:
+
+errata: []
+
+temp: Shadow

@@ -1,0 +1,22 @@
+name: Lifebloom
+
+origin: fires-of-outland-023
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero heals 1 damage from attached character. 1 , Destroy Lifebloom → Your hero heals 4 damage from attached character.'
+
+regulation:
+
+errata: []
+
+temp: Restoration

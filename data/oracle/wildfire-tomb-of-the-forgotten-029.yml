@@ -1,0 +1,22 @@
+name: Wildfire
+
+origin: tomb-of-the-forgotten-029
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Mage
+
+instant: 'Choose one: Your hero deals 5 fire damage to target hero or ally, or your hero deals 1 fire damage to each opposing hero and ally.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fire

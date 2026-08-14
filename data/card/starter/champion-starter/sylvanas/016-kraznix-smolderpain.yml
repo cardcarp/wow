@@ -1,13 +1,13 @@
-oracle: kraznix-smolderpain
-
-lex: '016'
-
-set: sylvanas
+index: '016'
 
 rarity: Common
 
 artist: Arnie Swekel
 
+variation: []
+
 flavor: '"I think I left my rocket launcher next to my other rocket launcher."'
 
-variation: []
+oracle: kraznix-smolderpain-crown-of-the-heavens-112
+
+set: Sylvanas

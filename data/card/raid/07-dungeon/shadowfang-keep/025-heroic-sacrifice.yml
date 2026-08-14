@@ -1,13 +1,13 @@
-oracle: heroic-sacrifice
-
-lex: '025'
-
-set: shadowfang-keep
+index: '025'
 
 rarity: Common
 
 artist: Gabor Szikszai
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: heroic-sacrifice-shadowfang-keep-025
+
+set: Shadowfang Keep

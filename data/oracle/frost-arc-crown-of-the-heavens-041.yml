@@ -1,0 +1,22 @@
+name: Frost Arc
+
+origin: crown-of-the-heavens-041
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: Your hero deals 2 frost damage divided as you choose to up to two target heroes and/or allies.
+
+regulation:
+
+errata: []
+
+temp: Elemental

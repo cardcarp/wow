@@ -1,0 +1,27 @@
+name: '"Zooti" Fizzlefury'
+
+origin: war-of-the-elements-130
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 4
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive When this ally enters play, put a 2 / 1 Water Elemental ally token into play.
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

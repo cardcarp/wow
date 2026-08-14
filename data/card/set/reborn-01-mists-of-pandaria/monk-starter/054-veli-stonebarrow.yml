@@ -1,13 +1,13 @@
-oracle: veli-stonebarrow
-
-lex: '054'
-
-set: monk-starter
+index: '054'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: veli-stonebarrow-monk-starter-054
+
+set: Monk Starter

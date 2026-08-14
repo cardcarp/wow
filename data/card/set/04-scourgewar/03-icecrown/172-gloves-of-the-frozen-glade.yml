@@ -1,13 +1,13 @@
-oracle: gloves-of-the-frozen-glade
-
-lex: '172'
-
-set: icecrown
+index: '172'
 
 rarity: Rare
 
 artist: Clint Langley
 
+variation: []
+
 flavor: '"Admire them for just a moment, and you will see a rare glimpse into a piece of life frozen in time." - Lunira Swiftbreath'
 
-variation: []
+oracle: gloves-of-the-frozen-glade-icecrown-172
+
+set: Icecrown

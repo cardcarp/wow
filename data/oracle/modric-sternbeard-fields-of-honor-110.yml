@@ -1,0 +1,27 @@
+name: Modric Sternbeard
+
+origin: fields-of-honor-110
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Find Treasure When Modric defends, he may heal all damage from target ally.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

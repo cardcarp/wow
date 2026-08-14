@@ -1,0 +1,25 @@
+name: Core Hound Tooth
+
+origin: molten-core-treasure-020
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Warrior
+  - Shaman
+  - Hunter
+  - Rogue
+
+rule:
+  - type: ability
+    text: At the start of your turn, put a +1 ATK counter on Core Hound Tooth. When your hero deals combat damage with Core Hound Tooth, remove all +1 ATK counters from Core Hound Tooth.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

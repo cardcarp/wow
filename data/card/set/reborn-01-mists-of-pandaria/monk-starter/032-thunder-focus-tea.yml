@@ -1,13 +1,13 @@
-oracle: thunder-focus-tea
-
-lex: '032'
-
-set: monk-starter
+index: '032'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: thunder-focus-tea-monk-starter-032
+
+set: Monk Starter

@@ -1,13 +1,14 @@
-oracle: huln-highmountain
-
-lex: '017'
-
-set: timewalkers
+index: '017'
 
 rarity: Rare
 
 artist: Unknown
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: huln-highmountain-timewalkers-017
+
+set: Timewalkers

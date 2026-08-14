@@ -1,13 +1,13 @@
-oracle: final-voyage
-
-lex: '189'
-
-set: wrathgate
+index: '189'
 
 rarity: Rare
 
 artist: Luca Zontini
 
+variation: []
+
 flavor: '"Allow me to give ya an appropriate send-off." - Gramm Thunderjaw'
 
-variation: []
+oracle: final-voyage-wrathgate-189
+
+set: Wrathgate

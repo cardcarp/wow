@@ -1,0 +1,19 @@
+name: Sudden Attack
+
+origin: shadowfang-keep-033
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: 'Ongoing : When a Dungeon ally enters play, destroy this ability. If you do, Dungeon allies have +5 ATK and Ferocity this turn.'
+
+regulation:
+
+errata: []
+
+temp: ''

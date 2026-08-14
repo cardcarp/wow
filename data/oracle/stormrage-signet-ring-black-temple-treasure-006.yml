@@ -1,0 +1,26 @@
+name: Stormrage Signet Ring
+
+origin: black-temple-treasure-006
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Warrior
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: 2 , → Put target equipment into its owner's hand. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

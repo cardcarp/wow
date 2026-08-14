@@ -1,0 +1,27 @@
+name: Wolpertinger
+
+origin: aftermath-holiday-promotional-005
+
+layout: standard
+
+category: Ally
+
+cost: '8'
+
+damage: 10
+
+health: 10
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Elusive , Stealth , Untargetable When this ally is destroyed, destroy your hero.
+
+regulation:
+
+errata: []
+
+temp: Wolpertinger

@@ -1,0 +1,22 @@
+name: Spiritual Imbalance
+
+origin: crown-of-the-heavens-035
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+instant: Target ally has -3 / -3 this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Shadow

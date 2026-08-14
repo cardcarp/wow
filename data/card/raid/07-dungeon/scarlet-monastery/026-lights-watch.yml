@@ -1,13 +1,13 @@
-oracle: lights-watch
-
-lex: '026'
-
-set: scarlet-monastery
+index: '026'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: lights-watch-scarlet-monastery-026
+
+set: Scarlet Monastery

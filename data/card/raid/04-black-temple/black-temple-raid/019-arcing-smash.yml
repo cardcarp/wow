@@ -1,13 +1,13 @@
-oracle: arcing-smash
-
-lex: '019'
-
-set: black-temple-raid
+index: '019'
 
 rarity: Uncommon
 
 artist: Massive Black
 
+variation: []
+
 flavor: "\"When helms are cracked, skulls aren't far behind.\" -"
 
-variation: []
+oracle: arcing-smash-black-temple-raid-019
+
+set: Black Temple Raid

@@ -1,13 +1,13 @@
-oracle: forsaken-blightspreader
-
-lex: '018'
-
-set: dungeon-treasure
+index: '018'
 
 rarity: Common
 
 artist: James Ryman
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: forsaken-blightspreader-dungeon-treasure-018
+
+set: Dungeon Treasure

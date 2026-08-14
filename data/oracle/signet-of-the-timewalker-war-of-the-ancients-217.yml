@@ -1,0 +1,26 @@
+name: Signet of the Timewalker
+
+origin: war-of-the-ancients-217
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: At the start of your turn, add a time counter to this item. Then, if it has four or more time counters on it, destroy it. If you do, draw two cards.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

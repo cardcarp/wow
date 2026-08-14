@@ -1,4 +1,11 @@
-card_name:
+name:
+  type: string
+  required: true
+
+origin: # the printing this oracle first appeared in, as '{set}-{index}'. Names
+        # are not unique (six cards are called "Deathwing the Destroyer"), so
+        # the id is derived from name + origin. Anchored to the earliest
+        # printing so adding reprints never changes an existing id.
   type: string
   required: true
 

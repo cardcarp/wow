@@ -1,0 +1,22 @@
+name: Drain Mana
+
+origin: march-of-the-legion-105
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, destroy Drain Mana unless you pay 4 . At the end of your turn, target opponent discards a card and you draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Affliction

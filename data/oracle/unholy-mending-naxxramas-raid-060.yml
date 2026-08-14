@@ -1,0 +1,21 @@
+name: Unholy Mending
+
+origin: naxxramas-raid-060
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+stage: 20
+
+rule:
+  - type: ability
+    text: When you play an ability this turn, the Boss heals 2 damage from target hero or ally you control.
+
+regulation:
+
+errata: []
+
+temp: ''

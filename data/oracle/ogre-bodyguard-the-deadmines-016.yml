@@ -1,0 +1,25 @@
+name: Ogre Bodyguard
+
+origin: the-deadmines-016
+
+layout: standard
+
+category: Ally
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: While this ally is ready, prevent all damage that would be dealt to him.
+
+regulation:
+
+errata: []
+
+temp: Ogre Warrior

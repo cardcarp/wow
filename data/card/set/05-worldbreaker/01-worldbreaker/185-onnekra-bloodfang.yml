@@ -1,13 +1,13 @@
-oracle: onnekra-bloodfang
-
-lex: '185'
-
-set: worldbreaker
+index: '185'
 
 rarity: Common
 
 artist: Leonard Boyarski
 
+variation: []
+
 flavor: Her single-mindedness is her greatest strength.
 
-variation: []
+oracle: onnekra-bloodfang-worldbreaker-185
+
+set: Worldbreaker

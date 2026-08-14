@@ -1,0 +1,27 @@
+name: Tinker Burnfizzle
+
+origin: drums-of-war-145
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 5
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'If Burnfizzle is undamaged: → Burnfizzle deals 3 fire damage to each opposing hero and ally.'
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

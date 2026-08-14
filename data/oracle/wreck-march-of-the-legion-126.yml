@@ -1,0 +1,22 @@
+name: Wreck
+
+origin: march-of-the-legion-126
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: Interrupt target equipment card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

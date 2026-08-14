@@ -1,0 +1,27 @@
+name: Besh'iah
+
+origin: heroes-of-azeroth-229
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 4
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Destroy an ally in your party → Destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: Troll Priest

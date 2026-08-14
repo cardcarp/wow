@@ -1,0 +1,25 @@
+name: Soul Fragment
+
+origin: black-temple-token-003
+
+layout: standard
+
+category: Token
+
+damage: 3
+
+health: 1
+
+combat: Melee
+
+type: Ally
+
+rule:
+  - type: ability
+    text: Ferocity When Soul Fragment is destroyed, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Soul Fragment

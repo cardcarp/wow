@@ -1,0 +1,22 @@
+name: Howl from Beyond
+
+origin: reign-of-fire-058
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warrior
+
+instant: Warp Put target ally on top of its owner's deck.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury

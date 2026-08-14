@@ -1,0 +1,27 @@
+name: Aleksei Brandal
+
+origin: crown-of-the-heavens-074
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: While an ability is attached to this ally, he has Elusive and Stealth .
+
+regulation:
+
+errata: []
+
+temp: Worgen Druid

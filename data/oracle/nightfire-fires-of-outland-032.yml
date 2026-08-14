@@ -1,0 +1,28 @@
+name: Nightfire
+
+origin: fires-of-outland-032
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 4
+
+combat: Fire
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: 2 → Nightfire has +1 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Dragonhawk

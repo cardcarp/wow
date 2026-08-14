@@ -1,0 +1,27 @@
+name: Kahul the Sunseer
+
+origin: war-of-the-ancients-134
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: "Tribe : When this or another Tauren ally enters play under your control, this ally heals damage from your hero equal to that ally's , then deals unpreventable holy damage to target opposing hero equal to that ally's ."
+
+regulation:
+
+errata: []
+
+temp: Tauren Priest

@@ -1,0 +1,22 @@
+name: 'Power Word: Tenacity'
+
+origin: war-of-the-ancients-039
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +10 .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Discipline Attachment

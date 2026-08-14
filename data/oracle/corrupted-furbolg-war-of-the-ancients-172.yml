@@ -1,0 +1,27 @@
+name: Corrupted Furbolg
+
+origin: war-of-the-ancients-172
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 8
+
+health: 8
+
+combat: Nature
+
+type: Monster
+
+rule:
+  - type: ability
+    text: This ally has -1 / -1 for each card in opposing graveyards.
+
+regulation:
+
+errata: []
+
+temp: Furbolg Shaman

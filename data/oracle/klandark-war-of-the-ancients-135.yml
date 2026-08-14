@@ -1,0 +1,27 @@
+name: Klandark
+
+origin: war-of-the-ancients-135
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'Bloodrush : When this ally deals combat damage while attacking for the first time each turn, if an opposing hero has more damage on it than your hero, ready this ally.'
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

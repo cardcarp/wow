@@ -1,0 +1,27 @@
+name: Mistress Naila Flameburst
+
+origin: drums-of-war-183
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 5
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Naila attacks, she deals 1 fire damage to each other hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Warlock

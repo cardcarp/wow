@@ -1,0 +1,17 @@
+name: Legendary Hero
+
+origin: arena-grand-melee-event-051
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: 'Ongoing : Heroes and allies lose their race and class and become Night Elf Mohawks. As an additional cost to propose combat, the attacking player must say, "I pity the fool!"'
+
+regulation:
+
+errata: []
+
+temp: ''

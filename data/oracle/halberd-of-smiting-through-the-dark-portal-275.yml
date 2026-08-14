@@ -1,0 +1,24 @@
+name: Halberd of Smiting
+
+origin: through-the-dark-portal-275
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+
+rule:
+  - type: ability
+    text: When Halberd of Smiting enters play, you may destroy target ally with damage on it.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Polearm

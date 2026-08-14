@@ -1,13 +1,13 @@
-oracle: defenders-vigil
-
-lex: '115'
-
-set: worldbreaker
+index: '115'
 
 rarity: Common
 
 artist: Dave Dorman
 
+variation: []
+
 flavor: '"Rest easy, friend. You are under my watch now." - Jai Dawnsteel'
 
-variation: []
+oracle: defenders-vigil-worldbreaker-115
+
+set: Worldbreaker

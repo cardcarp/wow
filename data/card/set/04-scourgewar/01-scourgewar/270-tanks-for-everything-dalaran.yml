@@ -1,13 +1,13 @@
-oracle: tanks-for-everything-dalaran
-
-lex: '270'
-
-set: scourgewar
+index: '270'
 
 rarity: Rare
 
 artist: Michael Drake
 
+variation: []
+
 flavor: Alard Schmeid, Proprietor
 
-variation: []
+oracle: tanks-for-everything-dalaran-scourgewar-270
+
+set: Scourgewar

@@ -1,0 +1,23 @@
+name: Fel Leather Gloves
+
+origin: march-of-the-legion-261
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: When a resource enters play, put 2 damage on its controller's hero.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

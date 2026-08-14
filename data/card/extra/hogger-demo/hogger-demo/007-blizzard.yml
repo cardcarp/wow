@@ -1,13 +1,13 @@
-oracle: blizzard
-
-lex: '007'
-
-set: hogger-demo
+index: '007'
 
 rarity: Rare
 
 artist: Dave Allsop
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: blizzard-blood-of-gladiators-033
+
+set: Hogger Demo

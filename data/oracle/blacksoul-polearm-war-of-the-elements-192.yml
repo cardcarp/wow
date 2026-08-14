@@ -1,0 +1,23 @@
+name: Blacksoul Polearm
+
+origin: war-of-the-elements-192
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Hunter
+
+rule:
+  - type: ability
+    text: You can't strike with this weapon on your turn.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Polearm

@@ -1,13 +1,13 @@
-oracle: detonate-soul
-
-lex: '095'
-
-set: scourgewar
+index: '095'
 
 rarity: Rare
 
 artist: Raymond Swanland
 
+variation: []
+
 flavor: '"Remember to share this with your friends. They are sure to enjoy it, too." - Felbender Lara'
 
-variation: []
+oracle: detonate-soul-scourgewar-095
+
+set: Scourgewar

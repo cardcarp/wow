@@ -1,0 +1,27 @@
+name: Talaan Solaras
+
+origin: war-of-the-elements-146
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'Stash : Your hero deals 1 melee damage to target damaged ally.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Warrior

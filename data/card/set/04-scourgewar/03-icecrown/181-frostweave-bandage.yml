@@ -1,13 +1,13 @@
-oracle: frostweave-bandage
-
-lex: '181'
-
-set: icecrown
+index: '181'
 
 rarity: Uncommon
 
 artist: Joe Jusko
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: frostweave-bandage-icecrown-181
+
+set: Icecrown

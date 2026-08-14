@@ -1,13 +1,13 @@
-oracle: inebriating-brew
-
-lex: '021'
-
-set: monk-starter
+index: '021'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: inebriating-brew-monk-starter-021
+
+set: Monk Starter

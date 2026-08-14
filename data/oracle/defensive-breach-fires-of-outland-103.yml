@@ -1,0 +1,19 @@
+name: Defensive Breach
+
+origin: fires-of-outland-103
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+instant: Destroy target equipment.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

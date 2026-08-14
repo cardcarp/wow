@@ -1,13 +1,13 @@
-oracle: doom
-
-lex: '130'
-
-set: icecrown
+index: '130'
 
 rarity: Common
 
 artist: Raymond Swanland
 
+variation: []
+
 flavor: '"For a time, I considered sparing your wretched soul from oblivion, but now, you shall witness ... its dismemberment!"'
 
-variation: []
+oracle: doom-icecrown-130
+
+set: Icecrown

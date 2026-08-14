@@ -1,0 +1,27 @@
+name: Aldana
+
+origin: march-of-the-legion-132
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Your weapons have +2 ATK while your hero is defending.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

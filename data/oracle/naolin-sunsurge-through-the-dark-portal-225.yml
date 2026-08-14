@@ -1,0 +1,27 @@
+name: Naolin Sunsurge
+
+origin: through-the-dark-portal-225
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 2
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Blood Elf Hero Required When you play an ability for the first time on each of your turns, draw a card. At the end of your turn, if you didn't play an ability this turn, destroy Naolin Sunsurge.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

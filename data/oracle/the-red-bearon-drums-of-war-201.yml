@@ -1,0 +1,25 @@
+name: The Red Bearon
+
+origin: drums-of-war-201
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 0
+
+health: 0
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: The Red Bearon has +X ATK / +X health, where X is the combined DEF of your armor.
+
+regulation:
+
+errata: []
+
+temp: Bear

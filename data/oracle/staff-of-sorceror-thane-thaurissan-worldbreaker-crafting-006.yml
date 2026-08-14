@@ -1,0 +1,26 @@
+name: Staff of Sorceror-Thane Thaurissan
+
+origin: worldbreaker-crafting-006
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Artifact When this weapon enters play, each opponent may search his deck for a ally and put it into play. On your turn: → Your hero deals 2 arcane damage to target ally.'
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

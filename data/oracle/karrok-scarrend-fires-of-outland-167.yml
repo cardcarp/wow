@@ -1,0 +1,25 @@
+name: Karrok Scarrend
+
+origin: fires-of-outland-167
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

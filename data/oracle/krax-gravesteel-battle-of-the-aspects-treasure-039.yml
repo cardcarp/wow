@@ -1,0 +1,27 @@
+name: Krax Gravesteel
+
+origin: battle-of-the-aspects-treasure-039
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally is destroyed, target opposing ally has -2 this turn.
+
+regulation:
+
+errata: []
+
+temp: Goblin Death Knight

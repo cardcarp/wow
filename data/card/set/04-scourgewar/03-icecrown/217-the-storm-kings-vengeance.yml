@@ -1,13 +1,13 @@
-oracle: the-storm-kings-vengeance
-
-lex: '217'
-
-set: icecrown
+index: '217'
 
 rarity: Common
 
 artist: Carl Critchlow
 
+variation: []
+
 flavor: '"My people have been decimated by the Lich King." - Gymer'
 
-variation: []
+oracle: the-storm-kings-vengeance-icecrown-217
+
+set: Icecrown

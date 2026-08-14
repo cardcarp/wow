@@ -1,0 +1,17 @@
+name: The Fall of the Betrayer
+
+origin: black-temple-treasure-012
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: "Pay 2 to complete this quest. Reward : If target opposing hero's printed health is more than your hero's, draw a card."
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,27 @@
+name: Vindicator Borovon
+
+origin: fires-of-outland-150
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 6
+
+health: 6
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: At the start of your turn, you may destroy target equipment.
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

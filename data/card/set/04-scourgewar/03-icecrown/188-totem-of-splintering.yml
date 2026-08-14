@@ -1,13 +1,13 @@
-oracle: totem-of-splintering
-
-lex: '188'
-
-set: icecrown
+index: '188'
 
 rarity: Rare
 
 artist: Patrick McEvoy
 
+variation: []
+
 flavor: '"A true master of the elements knows how to manipulate the energy contained within his totems." - Urrth'
 
-variation: []
+oracle: totem-of-splintering-icecrown-188
+
+set: Icecrown

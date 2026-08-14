@@ -1,0 +1,22 @@
+name: Interfering Shot
+
+origin: tomb-of-the-forgotten-022
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: "Attach to target ally. Ongoing : Attached ally can't attack your hero."
+
+regulation:
+
+errata: []
+
+temp: Survival

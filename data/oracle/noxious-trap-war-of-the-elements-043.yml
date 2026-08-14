@@ -1,0 +1,22 @@
+name: Noxious Trap
+
+origin: war-of-the-elements-043
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+instant: Trap Your hero deals 3 nature damage to target attacker. Then, if that attacker has fatal damage, you may ready up to three resources you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

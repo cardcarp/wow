@@ -1,0 +1,27 @@
+name: Justicar Maxwell Forthright
+
+origin: scourgewar-142
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 4
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Opposing Rogues have -2 / -2.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

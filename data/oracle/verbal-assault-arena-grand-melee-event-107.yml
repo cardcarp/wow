@@ -1,0 +1,17 @@
+name: Verbal Assault
+
+origin: arena-grand-melee-event-107
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: Your hero may deal X alphabet damage to target ally, where X is the number of words in the names of cards in play you control.
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,27 @@
+name: Manthos the Recently Sewn
+
+origin: fires-of-outland-174
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 8
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Manthos enters play with 3 damage.
+
+regulation:
+
+errata: []
+
+temp: Undead Warrior

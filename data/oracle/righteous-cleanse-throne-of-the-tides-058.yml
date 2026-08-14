@@ -1,0 +1,22 @@
+name: Righteous Cleanse
+
+origin: throne-of-the-tides-058
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: Destroy target ability. Delve
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

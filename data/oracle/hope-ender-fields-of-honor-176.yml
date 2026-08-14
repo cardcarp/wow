@@ -1,0 +1,25 @@
+name: Hope Ender
+
+origin: fields-of-honor-176
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Rogue
+
+rule:
+  - type: ability
+    text: At the end of your turn, if Hope Ender is ready, put two +1 ATK counters on it.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

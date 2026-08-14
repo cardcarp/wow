@@ -1,13 +1,13 @@
-oracle: void-pact
-
-lex: '085'
-
-set: wrathgate
+index: '085'
 
 rarity: Common
 
 artist: Dave Allsop
 
+variation: []
+
 flavor: '"The Nether has more than enough room to accommodate you." - Pagatha Soulbinder'
 
-variation: []
+oracle: void-pact-wrathgate-085
+
+set: Wrathgate

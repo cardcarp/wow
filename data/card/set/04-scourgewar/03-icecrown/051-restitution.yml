@@ -1,13 +1,13 @@
-oracle: restitution
-
-lex: '051'
-
-set: icecrown
+index: '051'
 
 rarity: Uncommon
 
 artist: J.P. Targete
 
+variation: []
+
 flavor: '"Rise quickly, before the Lich King can raise you as one of his own!" - Thatia Truthbringer'
 
-variation: []
+oracle: restitution-icecrown-051
+
+set: Icecrown

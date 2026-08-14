@@ -1,13 +1,13 @@
-oracle: gilblin-plunderer
-
-lex: '013'
-
-set: murkdeep
+index: '013'
 
 rarity: Uncommon
 
 artist: Efrem Palacios
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: gilblin-plunderer-throne-of-the-tides-180
+
+set: Murkdeep

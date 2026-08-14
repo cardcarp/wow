@@ -1,0 +1,22 @@
+name: Gladiators Regalia
+
+origin: drums-of-war-209
+
+layout: standard
+
+category: Equipment
+
+cost: '8'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Opposing allies lose and can't have powers. → Your hero deals 2 fire damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Arena Armor Set Cloth

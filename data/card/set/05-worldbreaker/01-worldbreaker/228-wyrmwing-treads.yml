@@ -1,13 +1,13 @@
-oracle: wyrmwing-treads
-
-lex: '228'
-
-set: worldbreaker
+index: '228'
 
 rarity: Uncommon
 
 artist: John Stanko
 
+variation: []
+
 flavor: '"A flaw of mortality ..." - Sindragosa'
 
-variation: []
+oracle: wyrmwing-treads-worldbreaker-228
+
+set: Worldbreaker

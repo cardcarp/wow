@@ -1,0 +1,27 @@
+name: Magatha Grimtotem
+
+origin: betrayal-of-the-guardian-098
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 2
+
+health: 8
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: "Tribe : When this or another Tauren ally enters play under your control, Magatha heals 5 damage from your hero. Your hero has Assault 5 while it's undamaged."
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

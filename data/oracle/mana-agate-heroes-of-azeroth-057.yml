@@ -1,0 +1,22 @@
+name: Mana Agate
+
+origin: heroes-of-azeroth-057
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Ongoing : 1 , Destroy this ability → Draw two cards.'
+
+regulation:
+
+errata: []
+
+temp: Arcane

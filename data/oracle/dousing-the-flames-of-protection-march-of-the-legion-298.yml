@@ -1,0 +1,17 @@
+name: Dousing the Flames of Protection
+
+origin: march-of-the-legion-298
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 2 to complete this quest. Reward : Choose a hero or ally in your party. Damage that character would deal is unpreventable this turn.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,13 +1,13 @@
-oracle: trade-prince-gallywix
-
-lex: '195'
-
-set: worldbreaker
+index: '195'
 
 rarity: Epic
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: '"Long live the Bilgewater Cartel!"'
 
-variation: []
+oracle: trade-prince-gallywix-worldbreaker-195
+
+set: Worldbreaker

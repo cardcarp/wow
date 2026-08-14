@@ -1,0 +1,22 @@
+name: Hand of Dread
+
+origin: betrayal-of-the-guardian-005
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Death Knight
+
+instant: Your hero deals 1 shadow damage to target ally for each card in that ally's controller's graveyard.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Unholy

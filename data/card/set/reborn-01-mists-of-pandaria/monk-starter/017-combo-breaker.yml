@@ -1,13 +1,13 @@
-oracle: combo-breaker
-
-lex: '017'
-
-set: monk-starter
+index: '017'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: combo-breaker-monk-starter-017
+
+set: Monk Starter

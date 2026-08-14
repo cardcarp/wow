@@ -1,0 +1,22 @@
+name: Slice and Dice
+
+origin: through-the-dark-portal-089
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+instant: As an additional cost to play Slice and Dice, remove up to five Combo cards in your graveyard from the game. Your hero deals X melee damage divided as you choose to any number of target heroes and/or allies, where X is the number of Combo cards you removed.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Assassination Finishing Move

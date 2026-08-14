@@ -1,0 +1,27 @@
+name: '"Backstab" Bindo Gearbomb'
+
+origin: fields-of-honor-150
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 0
+
+health: 5
+
+combat: Melee
+
+type: Arena
+
+rule:
+  - type: ability
+    text: 1 , → Exhaust target card. If you exhausted an Arena card this way, it can't ready during its controller's next ready step.
+
+regulation:
+
+errata: []
+
+temp: Goblin Battlemaster

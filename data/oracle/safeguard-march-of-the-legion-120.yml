@@ -1,0 +1,22 @@
+name: Safeguard
+
+origin: march-of-the-legion-120
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: 'Ready your hero. Ongoing : Your hero has Protector .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

@@ -1,13 +1,13 @@
-oracle: cone-of-cold
-
-lex: '041'
-
-set: icecrown
+index: '041'
 
 rarity: Common
 
 artist: Leo Che
 
+variation: []
+
 flavor: '"The chill of frost will pierce flesh and bone, all the way to your very core." - "Black Ice" Fizzlefreeze'
 
-variation: []
+oracle: cone-of-cold-icecrown-041
+
+set: Icecrown

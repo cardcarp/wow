@@ -1,0 +1,32 @@
+name: Talisman of the Alliance
+
+origin: blood-of-gladiators-170
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+faction: Alliance
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: ', Destroy this item → Destroy all abilities and equipment that have or share the lowest cost among abilities and equipment in play.'
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

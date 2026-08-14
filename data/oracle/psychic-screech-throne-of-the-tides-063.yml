@@ -1,0 +1,22 @@
+name: Psychic Screech
+
+origin: throne-of-the-tides-063
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: Put target ally into its owner's hand. Delve
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Shadow

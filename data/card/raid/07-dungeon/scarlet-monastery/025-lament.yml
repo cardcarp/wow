@@ -1,13 +1,13 @@
-oracle: lament
-
-lex: '025'
-
-set: scarlet-monastery
+index: '025'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: lament-scarlet-monastery-025
+
+set: Scarlet Monastery

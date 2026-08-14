@@ -1,0 +1,27 @@
+name: Vile Spirit
+
+origin: assault-on-icecrown-citadel-raid-025
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 5
+
+health: 1
+
+combat: Shadow
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Spirit Burst :When this ally is destroyed, it deals 5 shadow damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Spirit

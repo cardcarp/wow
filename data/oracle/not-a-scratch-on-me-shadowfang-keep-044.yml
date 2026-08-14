@@ -1,0 +1,17 @@
+name: Not a Scratch on Me!
+
+origin: shadowfang-keep-044
+
+layout: standard
+
+category: Achievement
+
+rule:
+  - type: ability
+    text: Destroy the Dungeon hero with at least one Raiding hero at full health.
+
+regulation:
+
+errata: []
+
+temp: ''

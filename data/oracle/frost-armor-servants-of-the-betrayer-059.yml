@@ -1,0 +1,22 @@
+name: Frost Armor
+
+origin: servants-of-the-betrayer-059
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: "Ongoing : 1 , Remove an ability card in your graveyard from the game → Target ally can't attack this turn."
+
+regulation:
+
+errata: []
+
+temp: Frost

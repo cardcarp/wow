@@ -1,13 +1,13 @@
-oracle: shadowy-construct
-
-lex: '002'
-
-set: black-temple-token
+index: '002'
 
 rarity: Common
 
 artist: Dave Allsop
 
+variation: []
+
 flavor: (This ally is a ghost, but it can attack only non-ghosts. See ghost rules.)
 
-variation: []
+oracle: shadowy-construct-black-temple-token-002
+
+set: Black Temple Token

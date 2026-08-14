@@ -1,0 +1,19 @@
+name: Explosions!
+
+origin: fires-of-outland-104
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+rule:
+  - type: ability
+    text: Your hero deals 2 fire damage divided as you choose to any number of target allies.
+
+regulation:
+
+errata: []
+
+temp: ''

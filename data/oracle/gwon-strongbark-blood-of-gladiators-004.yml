@@ -1,0 +1,22 @@
+name: Gwon Strongbark
+
+origin: blood-of-gladiators-004
+
+layout: transform
+
+category: Hero
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 4 , Flip Gwon → Ally tokens in your party have +2 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

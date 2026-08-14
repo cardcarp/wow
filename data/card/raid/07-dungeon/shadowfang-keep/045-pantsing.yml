@@ -1,13 +1,13 @@
-oracle: pantsing
-
-lex: '045'
-
-set: shadowfang-keep
+index: '045'
 
 rarity: Common
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: pantsing-shadowfang-keep-045
+
+set: Shadowfang Keep

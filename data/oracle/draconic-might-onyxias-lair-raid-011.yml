@@ -1,0 +1,19 @@
+name: Draconic Might
+
+origin: onyxias-lair-raid-011
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+instant: Onyxia has +X ATK while attacking this turn, where X is the number of opposing heroes.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

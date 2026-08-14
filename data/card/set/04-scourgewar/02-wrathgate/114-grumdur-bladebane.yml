@@ -1,13 +1,13 @@
-oracle: grumdur-bladebane
-
-lex: '114'
-
-set: wrathgate
+index: '114'
 
 rarity: Common
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: '"Do you really think such a small hinderance could stay the hand of death?"'
 
-variation: []
+oracle: grumdur-bladebane-wrathgate-114
+
+set: Wrathgate

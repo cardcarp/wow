@@ -1,0 +1,22 @@
+name: Flash Freeze
+
+origin: war-of-the-elements-052
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: "Attach to target ally. Ongoing : Attached ally can't attack or exhaust."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost

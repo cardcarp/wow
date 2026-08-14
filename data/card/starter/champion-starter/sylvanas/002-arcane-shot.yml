@@ -1,13 +1,13 @@
-oracle: arcane-shot
-
-lex: '002'
-
-set: sylvanas
+index: '002'
 
 rarity: Common
 
 artist: John Shroades
 
+variation: []
+
 flavor: A hunter's deadly accuracy doesn't just seem like magic; sometimes, it is.
 
-variation: []
+oracle: arcane-shot-heroes-of-azeroth-033
+
+set: Sylvanas

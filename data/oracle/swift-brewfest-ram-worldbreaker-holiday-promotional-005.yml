@@ -1,0 +1,25 @@
+name: Swift Brewfest Ram
+
+origin: worldbreaker-holiday-promotional-005
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 0
+
+health: 4
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: "When you place a resource face up, choose one at random: Each player draws a card; or each player discards a card. (Mounts can't attack or be attacked.)"
+
+regulation:
+
+errata: []
+
+temp: Ram

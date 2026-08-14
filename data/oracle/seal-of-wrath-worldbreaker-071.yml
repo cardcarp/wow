@@ -1,0 +1,22 @@
+name: Seal of Wrath
+
+origin: worldbreaker-071
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Ongoing : When your hero deals combat damage with a weapon, it may also deal 2 unpreventable holy damage to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Retribution

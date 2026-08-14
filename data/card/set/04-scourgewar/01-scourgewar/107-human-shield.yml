@@ -1,13 +1,13 @@
-oracle: human-shield
-
-lex: '107'
-
-set: scourgewar
+index: '107'
 
 rarity: Common
 
 artist: Luca Zontini
 
+variation: []
+
 flavor: "\"I've got you covered.\"- Warrax"
 
-variation: []
+oracle: human-shield-scourgewar-107
+
+set: Scourgewar

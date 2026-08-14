@@ -1,0 +1,19 @@
+name: '"Enjoy Your Fiery Deaths!"'
+
+origin: the-deadmines-027
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: 'Attach to the MARKED hero. Ongoing : When a Dungeon ally enters play, it deals 3 fire damage to attached hero.'
+
+regulation:
+
+errata: []
+
+temp: ''

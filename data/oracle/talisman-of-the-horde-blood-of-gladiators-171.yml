@@ -1,0 +1,32 @@
+name: Talisman of the Horde
+
+origin: blood-of-gladiators-171
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+faction: Horde
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: ', Destroy this item → Destroy all abilities and equipment that have or share the highest cost among abilities and equipment in play.'
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

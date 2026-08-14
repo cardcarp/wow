@@ -1,13 +1,13 @@
-oracle: stonebranch-ancient-of-war
-
-lex: '022'
-
-set: elderlimb
+index: '022'
 
 rarity: Uncommon
 
 artist: Trent Kaniuga
 
+variation: []
+
 flavor: '"Nature is a powerful force. Those who seek to subdue it never succeed in doing so permanently."'
 
-variation: []
+oracle: stonebranch-ancient-of-war-crown-of-the-heavens-159
+
+set: Elderlimb

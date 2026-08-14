@@ -1,0 +1,25 @@
+name: Thrall, Guardian of the Elements
+
+origin: twilight-of-the-dragons-177
+
+layout: standard
+
+category: Ally
+
+cost: '8'
+
+damage: 6
+
+health: 6
+
+combat: Nature
+
+rule:
+  - type: ability
+    text: "You pay 8 less to play this ally if you control each of the following: card, card, card, and card. Other abilities, allies and equipment you control can't be destroyed."
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

@@ -1,13 +1,13 @@
-oracle: korialstrasz
-
-lex: '211'
-
-set: worldbreaker
+index: '211'
 
 rarity: Rare
 
 artist: Mark Zug
 
+variation: []
+
 flavor: '"I am your servant, now and forever, my love."'
 
-variation: []
+oracle: korialstrasz-worldbreaker-211
+
+set: Worldbreaker

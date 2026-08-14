@@ -1,0 +1,27 @@
+name: Orc Grunt
+
+origin: betrayal-of-the-guardian-102
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'Bloodrush : While an opposing hero has more damage on it than your hero, this ally has Ferocity .'
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

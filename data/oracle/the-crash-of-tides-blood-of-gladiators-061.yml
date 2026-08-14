@@ -1,0 +1,22 @@
+name: The Crash of Tides
+
+origin: blood-of-gladiators-061
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Shaman
+
+instant: Your hero deals 1 nature damage to target hero or ally and heals 1 damage from a second target hero or ally for each damage dealt this way.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental

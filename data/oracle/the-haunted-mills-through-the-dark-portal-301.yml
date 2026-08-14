@@ -1,0 +1,19 @@
+name: The Haunted Mills
+
+origin: through-the-dark-portal-301
+
+layout: standard
+
+category: Quest
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: "Undead Hero Required Pay 3 to complete this quest. Reward : Remove an ally card in your graveyard from the game. If you do, draw a card for each ally card you've removed with quests named The Haunted Mills."
+
+regulation:
+
+errata: []
+
+temp: ''

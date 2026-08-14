@@ -11,7 +11,7 @@ facet:
 
 collection: '2011'
 
-highlight: starter-2011-alliance-druid-001
+highlight: alliance-druid-2011-001
 
 description: 2011 Alliance Druid Preconstructed
 
@@ -23,31 +23,31 @@ total: 61
 
 list:
   hero:
-    starter-2011-alliance-druid-001: 1  # Leisha of Darnassus
+    alliance-druid-2011-001: 1  # Leisha of Darnassus
   main:
-    starter-2011-alliance-druid-002: 2  # Energize
-    starter-2011-alliance-druid-003: 2 # Entangling Roots
-    starter-2011-alliance-druid-004: 1 # Gift of the Earthmother
-    starter-2011-alliance-druid-005: 1 # Gift of the Wild
-    starter-2011-alliance-druid-006: 3 # Mark of the Wild
-    starter-2011-alliance-druid-007: 2 # Natures Focus
-    starter-2011-alliance-druid-008: 2 # Savage Cat Form
-    starter-2011-alliance-druid-009: 1 # Thorns
-    starter-2011-alliance-druid-010: 4 # Wrath
-    starter-2011-alliance-druid-011: 1 # Braxiss the Sleeper
-    starter-2011-alliance-druid-012: 3 # Cerwyn
-    starter-2011-alliance-druid-013: 2 # Darktwister Kern
-    starter-2011-alliance-druid-014: 2 # Dominic Kandor
-    starter-2011-alliance-druid-015: 2 # Gerana Sparkfist
-    starter-2011-alliance-druid-016: 2 # Gully Rustinax
-    starter-2011-alliance-druid-017: 3 # Hira
-    starter-2011-alliance-druid-018: 3 # Kysa Shadowstalker
-    starter-2011-alliance-druid-019: 3 # Laenthor Shademoon
-    starter-2011-alliance-druid-020: 3 # Sha_lin Nightwind
-    starter-2011-alliance-druid-021: 1 # Varah, Fury of the Stars
-    starter-2011-alliance-druid-022: 3 # A Bird in Hand
-    starter-2011-alliance-druid-023: 1 # Blueleaf Tubers
-    starter-2011-alliance-druid-024: 3 # Entrenched
-    starter-2011-alliance-druid-025: 4 # The Essence of Enmity
-    starter-2011-alliance-druid-026: 4 # The Key to Freedom
-    starter-2011-alliance-druid-027: 2 # Mystery Goo
+    alliance-druid-2011-002: 2  # Energize
+    alliance-druid-2011-003: 2 # Entangling Roots
+    alliance-druid-2011-004: 1 # Gift of the Earthmother
+    alliance-druid-2011-005: 1 # Gift of the Wild
+    alliance-druid-2011-006: 3 # Mark of the Wild
+    alliance-druid-2011-007: 2 # Natures Focus
+    alliance-druid-2011-008: 2 # Savage Cat Form
+    alliance-druid-2011-009: 1 # Thorns
+    alliance-druid-2011-010: 4 # Wrath
+    alliance-druid-2011-011: 1 # Braxiss the Sleeper
+    alliance-druid-2011-012: 3 # Cerwyn
+    alliance-druid-2011-013: 2 # Darktwister Kern
+    alliance-druid-2011-014: 2 # Dominic Kandor
+    alliance-druid-2011-015: 2 # Gerana Sparkfist
+    alliance-druid-2011-016: 2 # Gully Rustinax
+    alliance-druid-2011-017: 3 # Hira
+    alliance-druid-2011-018: 3 # Kysa Shadowstalker
+    alliance-druid-2011-019: 3 # Laenthor Shademoon
+    alliance-druid-2011-020: 3 # Sha'lin Nightwind
+    alliance-druid-2011-021: 1 # Varah, Fury of the Stars
+    alliance-druid-2011-022: 3 # A Bird in Hand
+    alliance-druid-2011-023: 1 # Blueleaf Tubers
+    alliance-druid-2011-024: 3 # Entrenched
+    alliance-druid-2011-025: 4 # The Essence of Enmity
+    alliance-druid-2011-026: 4 # The Key to Freedom
+    alliance-druid-2011-027: 2 # Mystery Goo

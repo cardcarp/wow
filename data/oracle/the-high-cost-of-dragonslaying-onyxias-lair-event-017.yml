@@ -1,0 +1,19 @@
+name: The High Cost of Dragonslaying
+
+origin: onyxias-lair-event-017
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: You may destroy target equipment.
+
+regulation:
+
+errata: []
+
+temp: ''

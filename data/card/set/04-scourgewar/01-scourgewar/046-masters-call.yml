@@ -1,13 +1,13 @@
-oracle: masters-call
-
-lex: '046'
-
-set: scourgewar
+index: '046'
 
 rarity: Uncommon
 
 artist: Alex Garner
 
+variation: []
+
 flavor: '"No treats until you get me out of here!" - Shaii, Strategist Supreme'
 
-variation: []
+oracle: masters-call-scourgewar-046
+
+set: Scourgewar

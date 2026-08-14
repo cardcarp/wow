@@ -1,0 +1,19 @@
+name: Balance of Power
+
+origin: scarlet-monastery-021
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Each Raider discards a random card. If the combined cost of cards discarded this way is 10 or more, flip a Dungeon card.
+
+regulation:
+
+errata: []
+
+temp: ''

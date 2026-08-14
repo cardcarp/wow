@@ -1,0 +1,22 @@
+name: Vampiric Tendrils
+
+origin: drums-of-war-058
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Target player discards two cards. Your hero heals damage from itself equal to the combined cost of those cards.
+
+regulation:
+
+errata: []
+
+temp: Shadow

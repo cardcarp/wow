@@ -1,13 +1,13 @@
-oracle: arcane-burst
-
-lex: '050'
-
-set: scourgewar
+index: '050'
 
 rarity: Common
 
 artist: Howard Lyon
 
+variation: []
+
 flavor: "\"There's plenty for everyone!\" - Nicholas Merrick"
 
-variation: []
+oracle: arcane-burst-scourgewar-050
+
+set: Scourgewar

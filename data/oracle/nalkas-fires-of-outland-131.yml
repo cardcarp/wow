@@ -1,0 +1,27 @@
+name: Nalkas
+
+origin: fires-of-outland-131
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: → Nalkas heals 2 damage from each hero and ally in target player's party.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

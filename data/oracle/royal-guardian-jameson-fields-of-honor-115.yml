@@ -1,0 +1,27 @@
+name: Royal Guardian Jameson
+
+origin: fields-of-honor-115
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector At the end of your turn, exhaust target ready opposing ally. If you do, you may have it deal melee damage equal to its ATK to a second target ally.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

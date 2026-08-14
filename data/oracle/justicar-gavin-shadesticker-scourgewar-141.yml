@@ -1,0 +1,30 @@
+name: Justicar Gavin Shadesticker
+
+origin: scourgewar-141
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Opposing Warlocks and cards can't ready.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Rogue

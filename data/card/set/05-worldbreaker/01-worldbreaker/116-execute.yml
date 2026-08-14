@@ -1,13 +1,13 @@
-oracle: execute
-
-lex: '116'
-
-set: worldbreaker
+index: '116'
 
 rarity: Common
 
 artist: Dany Orizio
 
+variation: []
+
 flavor: Showing weakness to a warrior is a death sentence.
 
-variation: []
+oracle: execute-heroes-of-azeroth-141
+
+set: Worldbreaker

@@ -1,0 +1,24 @@
+name: Wraps of the Astral Traveler
+
+origin: wrathgate-badges-of-justice-004
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: 'On your turn: 3 , → Remove target opposing ability, ally, or equipment from the game. Its owner puts it into play at the start of your next turn.'
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

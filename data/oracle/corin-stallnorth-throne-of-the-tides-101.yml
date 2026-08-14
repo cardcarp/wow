@@ -1,0 +1,25 @@
+name: Corin Stallnorth
+
+origin: throne-of-the-tides-101
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Worgen Warrior

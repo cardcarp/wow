@@ -1,0 +1,17 @@
+name: The Battle Is Won, the War Goes On
+
+origin: crown-of-the-heavens-193
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'On your turn: Pay 2 to complete this quest. Reward : Choose a standard class. Put a 1 / 1 ally token into play with the chosen class.'
+
+regulation:
+
+errata: []
+
+temp: ''

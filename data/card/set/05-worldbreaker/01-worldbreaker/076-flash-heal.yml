@@ -1,13 +1,13 @@
-oracle: flash-heal
-
-lex: '076'
-
-set: worldbreaker
+index: '076'
 
 rarity: Common
 
 artist: Val Mayerik
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: flash-heal-heroes-of-azeroth-078
+
+set: Worldbreaker

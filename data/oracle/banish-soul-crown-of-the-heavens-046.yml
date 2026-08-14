@@ -1,0 +1,22 @@
+name: Banish Soul
+
+origin: crown-of-the-heavens-046
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warlock
+
+instant: Remove target non-Demon ally from the game.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Demonology

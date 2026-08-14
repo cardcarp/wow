@@ -1,0 +1,22 @@
+name: Exorcism
+
+origin: march-of-the-legion-057
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: Destroy target Demon ally or Undead ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

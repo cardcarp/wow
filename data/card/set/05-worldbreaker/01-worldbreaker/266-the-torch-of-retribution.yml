@@ -1,13 +1,13 @@
-oracle: the-torch-of-retribution
-
-lex: '266'
-
-set: worldbreaker
+index: '266'
 
 rarity: Common
 
 artist: Doug Alexander
 
+variation: []
+
 flavor: The torch must now be bound to its owner.
 
-variation: []
+oracle: the-torch-of-retribution-worldbreaker-266
+
+set: Worldbreaker

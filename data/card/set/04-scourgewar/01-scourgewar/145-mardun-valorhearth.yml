@@ -1,13 +1,13 @@
-oracle: mardun-valorhearth
-
-lex: '145'
-
-set: scourgewar
+index: '145'
 
 rarity: Common
 
 artist: Efrem Palacios
 
+variation: []
+
 flavor: '"Perseverance will be key to our ultimate victory."'
 
-variation: []
+oracle: mardun-valorhearth-scourgewar-145
+
+set: Scourgewar

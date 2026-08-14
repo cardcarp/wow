@@ -1,13 +1,13 @@
-oracle: huruk-lightvow
-
-lex: '177'
-
-set: worldbreaker
+index: '177'
 
 rarity: Common
 
 artist: James Ryman
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: huruk-lightvow-worldbreaker-177
+
+set: Worldbreaker

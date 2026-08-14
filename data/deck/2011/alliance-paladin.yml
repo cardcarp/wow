@@ -11,7 +11,7 @@ facet:
 
 collection: '2011'
 
-highlight: starter-2011-alliance-paladin-001
+highlight: alliance-paladin-2011-001
 
 description: 2011 Alliance Paladin Preconstructed
 
@@ -23,33 +23,33 @@ total: 61
 
 list:
   hero:
-    starter-2011-alliance-paladin-001: 1  # Saria of Stormwind
+    alliance-paladin-2011-001: 1  # Saria of Stormwind
   main:
-    starter-2011-alliance-paladin-002: 2  # Blessing of Might
-    starter-2011-alliance-paladin-003: 2 # Censure
-    starter-2011-alliance-paladin-004: 2 # Hammer of Justice
-    starter-2011-alliance-paladin-005: 2 # Holy Light
-    starter-2011-alliance-paladin-006: 1 # Holy Shock
-    starter-2011-alliance-paladin-007: 1 # Seal of Wrath
-    starter-2011-alliance-paladin-008: 1 # Wrath of Turalyon
-    starter-2011-alliance-paladin-009: 3 # Alador Stonebrew
-    starter-2011-alliance-paladin-010: 3 # Andiss Butcherson
-    starter-2011-alliance-paladin-011: 1 # Anika Berlyn
-    starter-2011-alliance-paladin-012: 3 # Apprentice Teep
-    starter-2011-alliance-paladin-013: 2 # Gerana Sparkfist
-    starter-2011-alliance-paladin-014: 2 # Jeniva Prescott
-    starter-2011-alliance-paladin-015: 2 # Kor Cindervein
-    starter-2011-alliance-paladin-016: 3 # Orono the Great
-    starter-2011-alliance-paladin-017: 2 # Terina Calin
-    starter-2011-alliance-paladin-018: 3 # Trixie Boltclunker
-    starter-2011-alliance-paladin-019: 2 # Tyrus Lionheart
-    starter-2011-alliance-paladin-020: 1 # Edgemasters Handguards
-    starter-2011-alliance-paladin-021: 1 # Golem Skull Helm
-    starter-2011-alliance-paladin-022: 2 # Angry Dread
-    starter-2011-alliance-paladin-023: 2 # Citadel Enforcers Claymore
-    starter-2011-alliance-paladin-024: 2 # A Bird in Hand
-    starter-2011-alliance-paladin-025: 1 # Blueleaf Tubers
-    starter-2011-alliance-paladin-026: 4 # Entrenched
-    starter-2011-alliance-paladin-027: 4 # The Essence of Enmity
-    starter-2011-alliance-paladin-028: 2 # The Grimtotem Weapon
-    starter-2011-alliance-paladin-029: 4 # The Key to Freedom
+    alliance-paladin-2011-002: 2  # Blessing of Might
+    alliance-paladin-2011-003: 2 # Censure
+    alliance-paladin-2011-004: 2 # Hammer of Justice
+    alliance-paladin-2011-005: 2 # Holy Light
+    alliance-paladin-2011-006: 1 # Holy Shock
+    alliance-paladin-2011-007: 1 # Seal of Wrath
+    alliance-paladin-2011-008: 1 # Wrath of Turalyon
+    alliance-paladin-2011-009: 3 # Alador Stonebrew
+    alliance-paladin-2011-010: 3 # Andiss Butcherson
+    alliance-paladin-2011-011: 1 # Anika Berlyn
+    alliance-paladin-2011-012: 3 # Apprentice Teep
+    alliance-paladin-2011-013: 2 # Gerana Sparkfist
+    alliance-paladin-2011-014: 2 # Jeniva Prescott
+    alliance-paladin-2011-015: 2 # Kor Cindervein
+    alliance-paladin-2011-016: 3 # Orono the Great
+    alliance-paladin-2011-017: 2 # Terina Calin
+    alliance-paladin-2011-018: 3 # Trixie Boltclunker
+    alliance-paladin-2011-019: 2 # Tyrus Lionheart
+    alliance-paladin-2011-020: 1 # Edgemasters Handguards
+    alliance-paladin-2011-021: 1 # Golem Skull Helm
+    alliance-paladin-2011-022: 2 # Angry Dread
+    alliance-paladin-2011-023: 2 # Citadel Enforcers Claymore
+    alliance-paladin-2011-024: 2 # A Bird in Hand
+    alliance-paladin-2011-025: 1 # Blueleaf Tubers
+    alliance-paladin-2011-026: 4 # Entrenched
+    alliance-paladin-2011-027: 4 # The Essence of Enmity
+    alliance-paladin-2011-028: 2 # The Grimtotem Weapon
+    alliance-paladin-2011-029: 4 # The Key to Freedom

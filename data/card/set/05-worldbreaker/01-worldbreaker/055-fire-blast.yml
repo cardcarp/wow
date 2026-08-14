@@ -1,13 +1,13 @@
-oracle: fire-blast
-
-lex: '055'
-
-set: worldbreaker
+index: '055'
 
 rarity: Common
 
 artist: Dave Berggren
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: fire-blast-heroes-of-azeroth-052
+
+set: Worldbreaker

@@ -1,13 +1,13 @@
-oracle: forsaken-royal-dreadguard
-
-lex: '019'
-
-set: dungeon-treasure
+index: '019'
 
 rarity: Common
 
 artist: Slawomir Maniak
 
+variation: []
+
 flavor: (including himself)
 
-variation: []
+oracle: forsaken-royal-dreadguard-dungeon-treasure-019
+
+set: Dungeon Treasure

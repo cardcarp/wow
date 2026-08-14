@@ -1,0 +1,22 @@
+name: Death Shock
+
+origin: servants-of-the-betrayer-097
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: Traitor Hero Required Your hero deals 1 nature damage to target ally for each damage on your hero.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Traitor

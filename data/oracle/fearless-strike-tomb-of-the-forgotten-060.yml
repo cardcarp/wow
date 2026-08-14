@@ -1,0 +1,22 @@
+name: Fearless Strike
+
+origin: tomb-of-the-forgotten-060
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: Weapons you control have +4 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Arms

@@ -1,0 +1,22 @@
+name: Xerandaal, Shade Servitor
+
+origin: scourgewar-010
+
+layout: transform
+
+category: Hero
+
+health: 26
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'If you control another Priest: Flip Xerandaal → Xerandaal deals 3 shadow damage to target hero.'
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

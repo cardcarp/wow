@@ -1,13 +1,14 @@
-oracle: sir-zeliek
-
-lex: '017'
-
-set: naxxramas-raid
+index: '017'
 
 rarity: Rare
 
 artist: Daarken
 
+variation:
+  - transform
+
 flavor:
 
-variation: []
+oracle: sir-zeliek-naxxramas-raid-017
+
+set: Naxxramas Raid

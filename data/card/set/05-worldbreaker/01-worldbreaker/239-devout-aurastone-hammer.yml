@@ -1,13 +1,13 @@
-oracle: devout-aurastone-hammer
-
-lex: '239'
-
-set: worldbreaker
+index: '239'
 
 rarity: Rare
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: devout-aurastone-hammer-worldbreaker-239
+
+set: Worldbreaker

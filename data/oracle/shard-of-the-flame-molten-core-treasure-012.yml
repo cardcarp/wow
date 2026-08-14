@@ -1,0 +1,30 @@
+name: Shard of the Flame
+
+origin: molten-core-treasure-012
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: When a resource enters play under your control, your hero heals 2 damage from itself.
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

@@ -1,0 +1,24 @@
+name: Ice Barbed Spear
+
+origin: drums-of-war-228
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+
+rule:
+  - type: ability
+    text: Each opponent can't draw cards unless he pays 1 for each card.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Polearm

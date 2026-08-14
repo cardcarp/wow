@@ -1,13 +1,13 @@
-oracle: death-gate
-
-lex: '019'
-
-set: icecrown
+index: '019'
 
 rarity: Rare
 
 artist: Peter Lee
 
+variation: []
+
 flavor: '"Only those who walk the path of the dead may enter." - Saeryn Dusksorrow'
 
-variation: []
+oracle: death-gate-icecrown-019
+
+set: Icecrown

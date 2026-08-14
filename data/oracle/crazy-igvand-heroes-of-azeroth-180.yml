@@ -1,0 +1,27 @@
+name: Crazy Igvand
+
+origin: heroes-of-azeroth-180
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 0
+
+health: 6
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior

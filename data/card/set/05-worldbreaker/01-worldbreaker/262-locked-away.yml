@@ -1,13 +1,13 @@
-oracle: locked-away
-
-lex: '262'
-
-set: worldbreaker
+index: '262'
 
 rarity: Common
 
 artist: Matt Cavotta
 
+variation: []
+
 flavor: As you rattle the door, you hear a guttural moaning come from inside! Whatever is inside there, it certainly does not sound friendly.
 
-variation: []
+oracle: locked-away-worldbreaker-262
+
+set: Worldbreaker

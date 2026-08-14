@@ -1,0 +1,27 @@
+name: Cadric Talworth
+
+origin: war-of-the-elements-111
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Aberration Ferocity
+
+regulation:
+
+errata: []
+
+temp: Worgen Warlock

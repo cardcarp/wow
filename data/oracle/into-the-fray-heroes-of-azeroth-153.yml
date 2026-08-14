@@ -1,0 +1,21 @@
+name: Into the Fray
+
+origin: heroes-of-azeroth-153
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Target ally in your party has Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: ''

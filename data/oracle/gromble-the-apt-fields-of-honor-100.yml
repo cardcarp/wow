@@ -1,0 +1,25 @@
+name: Gromble the Apt
+
+origin: fields-of-honor-100
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Find Treasure Your hero can be exhausted to pay costs as though it were a resource.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

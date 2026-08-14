@@ -1,0 +1,24 @@
+name: Berserker Bracers
+
+origin: fields-of-honor-153
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: When your hero is dealt damage, ready Berserker Bracers.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

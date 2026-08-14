@@ -1,13 +1,13 @@
-oracle: odos-ley-staff
-
-lex: '053'
-
-set: dungeon-treasure
+index: '053'
 
 rarity: Common
 
 artist: Michal Ivan
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: odos-ley-staff-dungeon-treasure-053
+
+set: Dungeon Treasure

@@ -1,0 +1,28 @@
+name: Sarmoth
+
+origin: heroes-of-azeroth-130
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 5
+
+combat: Shadow
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Opposing heroes and allies can attack only this ally if able.
+
+regulation:
+
+errata: []
+
+temp: Voidwalker Demon

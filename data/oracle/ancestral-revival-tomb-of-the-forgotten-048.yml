@@ -1,0 +1,22 @@
+name: Ancestral Revival
+
+origin: tomb-of-the-forgotten-048
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+instant: Play only on an opponent's turn. Put target ally that was destroyed this turn from your graveyard into play with damage on it equal to it's -1.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

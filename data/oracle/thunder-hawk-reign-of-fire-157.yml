@@ -1,0 +1,27 @@
+name: Thunder Hawk
+
+origin: reign-of-fire-157
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Stealth
+
+regulation:
+
+errata: []
+
+temp: Hawk Beast

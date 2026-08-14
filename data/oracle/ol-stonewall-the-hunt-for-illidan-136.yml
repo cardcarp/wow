@@ -1,0 +1,27 @@
+name: Ol' Stonewall
+
+origin: the-hunt-for-illidan-136
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+instant: Protector At the start of your turn, destroy Ol' Stonewall.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior

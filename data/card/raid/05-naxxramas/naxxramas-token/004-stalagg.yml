@@ -1,13 +1,13 @@
-oracle: stalagg
-
-lex: '004'
-
-set: naxxramas-token
+index: '004'
 
 rarity: Common
 
 artist: Dany Orizio
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: stalagg-naxxramas-token-004
+
+set: Naxxramas Token

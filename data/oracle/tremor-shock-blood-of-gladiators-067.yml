@@ -1,0 +1,22 @@
+name: Tremor Shock
+
+origin: blood-of-gladiators-067
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+instant: Your hero deals 1 frost damage and 1 nature damage to target hero or ally. An ally dealt damage this way can't attack this turn. If a hero was dealt damage this way, you may interrupt an ability card played by its controller.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental

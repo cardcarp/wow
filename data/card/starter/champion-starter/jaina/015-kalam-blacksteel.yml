@@ -1,13 +1,13 @@
-oracle: kalam-blacksteel
-
-lex: '015'
-
-set: jaina
+index: '015'
 
 rarity: Common
 
 artist: Dan Scott
 
+variation: []
+
 flavor: '"I will give you a moment to reconsider."'
 
-variation: []
+oracle: kalam-blacksteel-crown-of-the-heavens-089
+
+set: Jaina

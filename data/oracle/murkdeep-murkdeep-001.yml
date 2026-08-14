@@ -1,0 +1,23 @@
+name: Murkdeep
+
+origin: murkdeep-001
+
+layout: transform
+
+category: Hero
+
+type: Monster
+
+rule:
+  - type: ability
+    position: front
+    text: 4 → Flip Murkdeep face down.
+  - type: ability
+    position: reverse
+    text: "RwlRwlRwl! : When a Murloc ally enters play under your control, Murkdeep deals 1 nature damage to target opposing hero and heals 1 damage from itself. Deckbuilding: You can't put or cards in your deck."
+
+regulation:
+
+errata: []
+
+temp: Murloc Shaman 28

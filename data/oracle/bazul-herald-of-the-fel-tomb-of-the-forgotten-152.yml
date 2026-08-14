@@ -1,0 +1,27 @@
+name: Bazul, Herald of the Fel
+
+origin: tomb-of-the-forgotten-152
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 1
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: ability
+    text: 'Empower Warlock : When this ally enters play, if you control another Warlock hero or ally, this ally deals 3 shadow damage to target opposing hero and heals 3 damage from your hero.'
+
+regulation:
+
+errata: []
+
+temp: Satyr Demon Warlock

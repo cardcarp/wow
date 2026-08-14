@@ -1,0 +1,17 @@
+name: Angrathar the Wrathgate
+
+origin: wrathgate-220
+
+layout: standard
+
+category: Location
+
+rule:
+  - type: ability
+    text: 'When a card enters an opposing graveyard from anywhere, add a rattle counter. On your turn: 2 , , Remove three rattle counters → Put a 3 / 3 Scourge ally token into play.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,27 @@
+name: Alador Stonebrew
+
+origin: worldbreaker-129
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

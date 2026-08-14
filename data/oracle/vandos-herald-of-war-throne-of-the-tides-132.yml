@@ -1,0 +1,27 @@
+name: Vandos, Herald of War
+
+origin: throne-of-the-tides-132
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Empower Warrior : When this ally enters play, if you control another Warrior hero or ally, reveal the top five cards of your deck. Put all revealed equipment into your hand and the rest on the bottom of your deck.'
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

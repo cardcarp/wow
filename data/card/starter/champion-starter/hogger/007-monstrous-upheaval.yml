@@ -1,13 +1,13 @@
-oracle: monstrous-upheaval
-
-lex: '007'
-
-set: hogger
+index: '007'
 
 rarity: Common
 
 artist: Jonboy Meyers & Dave McCaig
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: monstrous-upheaval-throne-of-the-tides-089
+
+set: Hogger

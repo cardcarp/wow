@@ -1,0 +1,24 @@
+name: Continuum Blade
+
+origin: drums-of-war-225
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: At the start of each player's turn, if he didn't take the last turn, he takes an extra turn after this one.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

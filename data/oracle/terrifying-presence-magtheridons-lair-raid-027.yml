@@ -1,0 +1,19 @@
+name: Terrifying Presence
+
+origin: magtheridons-lair-raid-027
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: 'Ongoing : Opposing allies enter play exhausted. → Exhaust target ally.'
+
+regulation:
+
+errata: []
+
+temp: ''

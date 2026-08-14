@@ -1,0 +1,27 @@
+name: Jin'lak Nightfang
+
+origin: heroes-of-azeroth-244
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 3 → Target hero or ally can't protect this turn.
+
+regulation:
+
+errata: []
+
+temp: Troll Rogue

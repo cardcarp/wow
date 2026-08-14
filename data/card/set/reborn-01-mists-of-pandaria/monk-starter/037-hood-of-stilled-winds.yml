@@ -1,13 +1,13 @@
-oracle: hood-of-stilled-winds
-
-lex: '037'
-
-set: monk-starter
+index: '037'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: hood-of-stilled-winds-monk-starter-037
+
+set: Monk Starter

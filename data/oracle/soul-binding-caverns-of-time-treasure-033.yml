@@ -1,0 +1,22 @@
+name: Soul Binding
+
+origin: caverns-of-time-treasure-033
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Attach to target ally. Ongoing : Attached ally has +2 / +2. If attached ally would deal shadow damage, it deals double that much instead.'
+
+regulation:
+
+errata: []
+
+temp: Affliction Attachment

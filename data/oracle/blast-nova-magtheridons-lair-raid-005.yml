@@ -1,0 +1,19 @@
+name: Blast Nova
+
+origin: magtheridons-lair-raid-005
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: Flip Magtheridon's Lair.
+
+regulation:
+
+errata: []
+
+temp: ''

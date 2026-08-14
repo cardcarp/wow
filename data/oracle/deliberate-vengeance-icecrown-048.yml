@@ -1,0 +1,22 @@
+name: Deliberate Vengeance
+
+origin: icecrown-048
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, destroy this ability. If you do, your hero deals 2 unpreventable holy damage to each opposing hero and ally.'
+
+regulation:
+
+errata: []
+
+temp: Holy

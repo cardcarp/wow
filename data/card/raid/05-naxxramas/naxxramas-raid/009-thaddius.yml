@@ -1,14 +1,14 @@
-oracle: thaddius
-
-lex: '009'
-
-set: naxxramas-raid
+index: '009'
 
 rarity: Rare
 
 artist: Matt Dixon
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: thaddius-naxxramas-raid-009
+
+set: Naxxramas Raid

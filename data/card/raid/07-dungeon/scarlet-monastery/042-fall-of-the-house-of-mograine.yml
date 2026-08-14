@@ -1,13 +1,13 @@
-oracle: fall-of-the-house-of-mograine
-
-lex: '042'
-
-set: scarlet-monastery
+index: '042'
 
 rarity: Common
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: fall-of-the-house-of-mograine-scarlet-monastery-042
+
+set: Scarlet Monastery

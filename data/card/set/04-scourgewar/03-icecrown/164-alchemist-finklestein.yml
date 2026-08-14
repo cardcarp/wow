@@ -1,13 +1,13 @@
-oracle: alchemist-finklestein
-
-lex: '164'
-
-set: icecrown
+index: '164'
 
 rarity: Uncommon
 
 artist: Michael Sutfin
 
+variation: []
+
 flavor: '"I assume by your interruption that you wish to be numbered among those I am considering for apprenticeship."'
 
-variation: []
+oracle: alchemist-finklestein-icecrown-164
+
+set: Icecrown

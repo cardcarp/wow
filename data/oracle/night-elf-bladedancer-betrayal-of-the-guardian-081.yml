@@ -1,0 +1,27 @@
+name: Night Elf Bladedancer
+
+origin: betrayal-of-the-guardian-081
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Haste 2 Elusive
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

@@ -1,0 +1,25 @@
+name: Sunstalker Maelan
+
+origin: tomb-of-the-forgotten-113
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

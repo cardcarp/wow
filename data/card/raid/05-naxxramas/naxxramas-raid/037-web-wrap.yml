@@ -1,13 +1,13 @@
-oracle: web-wrap
-
-lex: '037'
-
-set: naxxramas-raid
+index: '037'
 
 rarity: Uncommon
 
 artist: Dave Kendall
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: web-wrap-naxxramas-raid-037
+
+set: Naxxramas Raid

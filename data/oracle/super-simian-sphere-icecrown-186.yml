@@ -1,0 +1,23 @@
+name: Super Simian Sphere
+
+origin: icecrown-186
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Warlock
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'Hero : Your hero has Pet (1). Hero : Your hero is also a Demon.'
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

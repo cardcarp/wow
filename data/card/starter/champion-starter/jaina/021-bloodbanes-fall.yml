@@ -1,13 +1,13 @@
-oracle: bloodbanes-fall
-
-lex: '021'
-
-set: jaina
+index: '021'
 
 rarity: Common
 
 artist: Dave Allsop
 
+variation: []
+
 flavor: This cloak of Orbaz Bloodbane imbues the wearer with his latent aggression.
 
-variation: []
+oracle: bloodbanes-fall-scourgewar-216
+
+set: Jaina

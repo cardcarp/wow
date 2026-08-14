@@ -1,0 +1,22 @@
+name: Atonement
+
+origin: blood-of-gladiators-040
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: Prevent all damage that target hero or ally would deal this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

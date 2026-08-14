@@ -1,0 +1,22 @@
+name: Filthy Tricks
+
+origin: fires-of-outland-067
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Ongoing : Cards in your graveyard are Combo cards.'
+
+regulation:
+
+errata: []
+
+temp: Assassination Combo

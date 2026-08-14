@@ -1,14 +1,14 @@
-oracle: jaenel
-
-lex: '006'
-
-set: worldbreaker
+index: '006'
 
 rarity: Uncommon
 
 artist: Todd Lockwood
 
-flavor: '"One threat falls, and another rises; the work of the Light is without pause."'
-
 variation:
   - transform
+
+flavor: '"One threat falls, and another rises; the work of the Light is without pause."'
+
+oracle: jaenel-worldbreaker-006
+
+set: Worldbreaker

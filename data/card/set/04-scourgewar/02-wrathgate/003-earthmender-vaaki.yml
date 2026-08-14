@@ -1,14 +1,14 @@
-oracle: earthmender-vaaki
-
-lex: '003'
-
-set: wrathgate
+index: '003'
 
 rarity: Uncommon
 
 artist: Howard Lyon
 
-flavor: '"The elements have been weakened by the presence of the Scourge, but I promise you that it will not hinder my abilities."'
-
 variation:
   - transform
+
+flavor: '"The elements have been weakened by the presence of the Scourge, but I promise you that it will not hinder my abilities."'
+
+oracle: earthmender-vaaki-wrathgate-003
+
+set: Wrathgate

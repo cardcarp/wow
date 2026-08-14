@@ -1,0 +1,28 @@
+name: Hukkath
+
+origin: fires-of-outland-084
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Shadow
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Protector 1 , Destroy Hukkath → Your hero is Untargetable this turn.
+
+regulation:
+
+errata: []
+
+temp: Voidwalker Demon

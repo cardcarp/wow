@@ -1,0 +1,22 @@
+name: Presence of the Divine
+
+origin: wrathgate-054
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Ongoing : When an attacking ally deals damage to an ally you control, you may destroy that attacker.'
+
+regulation:
+
+errata: []
+
+temp: Retribution

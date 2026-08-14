@@ -1,13 +1,13 @@
-oracle: feast-of-great-winter
-
-lex: '001'
-
-set: holiday-2006
+index: '001'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: feast-of-great-winter-holiday-2006-001
+
+set: Holiday 2006

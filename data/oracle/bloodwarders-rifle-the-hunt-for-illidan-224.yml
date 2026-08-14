@@ -1,0 +1,22 @@
+name: Bloodwarders Rifle
+
+origin: the-hunt-for-illidan-224
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Your hero has Long-Range .
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Gun

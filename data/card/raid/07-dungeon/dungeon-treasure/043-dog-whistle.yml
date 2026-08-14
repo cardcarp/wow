@@ -1,13 +1,13 @@
-oracle: dog-whistle
-
-lex: '043'
-
-set: dungeon-treasure
+index: '043'
 
 rarity: Common
 
 artist: Efrem Palacios
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: dog-whistle-dungeon-treasure-043
+
+set: Dungeon Treasure

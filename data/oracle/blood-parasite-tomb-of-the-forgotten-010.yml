@@ -1,0 +1,22 @@
+name: Blood Parasite
+
+origin: tomb-of-the-forgotten-010
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 'Blood Talent Put three 1 / 1 Bloodworm Monster ally tokens into play. Ongoing : When a token ally you control is destroyed, it heals 2 damage from your hero.'
+
+regulation:
+
+errata: []
+
+temp: Blood

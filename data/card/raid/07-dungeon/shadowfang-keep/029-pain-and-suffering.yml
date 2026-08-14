@@ -1,13 +1,13 @@
-oracle: pain-and-suffering
-
-lex: '029'
-
-set: shadowfang-keep
+index: '029'
 
 rarity: Rare
 
 artist: Wayne Reynolds
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: pain-and-suffering-assault-on-icecrown-citadel-raid-029
+
+set: Shadowfang Keep

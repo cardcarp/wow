@@ -1,0 +1,26 @@
+name: Potentates Letter Opener
+
+origin: throne-of-the-tides-251
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'On your turn: 2 , , Exhaust your hero → Your hero deals 2 fire damage to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

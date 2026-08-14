@@ -1,13 +1,13 @@
-oracle: mark-of-life
-
-lex: '027'
-
-set: icecrown
+index: '027'
 
 rarity: Common
 
 artist: Jesper Ejsing
 
+variation: []
+
 flavor: '"You have been chosen." - Dorn the Tranquil'
 
-variation: []
+oracle: mark-of-life-icecrown-027
+
+set: Icecrown

@@ -1,13 +1,13 @@
-oracle: swift-mechanostrider
-
-lex: '127'
-
-set: wrathgate
+index: '127'
 
 rarity: Rare
 
 artist: Carl Critchlow
 
+variation: []
+
 flavor: (Mounts can't attack or be attacked.)
 
-variation: []
+oracle: swift-mechanostrider-wrathgate-127
+
+set: Wrathgate

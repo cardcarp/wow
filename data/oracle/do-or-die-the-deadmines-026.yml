@@ -1,0 +1,19 @@
+name: Do or Die
+
+origin: the-deadmines-026
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: "The MARKED hero's controller chooses one: He discards three random cards; or he chooses and destroys three allies he controls."
+
+regulation:
+
+errata: []
+
+temp: ''

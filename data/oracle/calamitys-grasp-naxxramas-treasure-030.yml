@@ -1,0 +1,23 @@
+name: Calamitys Grasp
+
+origin: naxxramas-treasure-030
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Shaman
+  - Rogue
+
+instant: When this equipment enters play, choose "ability", "ally", or "equipment." You may discard a card of that kind. If you do, destroy target card if it shares that kind.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Fist

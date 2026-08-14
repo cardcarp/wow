@@ -1,0 +1,25 @@
+name: Vagaries of Time
+
+origin: betrayal-of-the-guardian-189
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: 3 , → Reveal the top card of your deck. You may place it into your resource row exhausted as an additional resource.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

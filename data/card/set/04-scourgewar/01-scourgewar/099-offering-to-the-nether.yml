@@ -1,13 +1,13 @@
-oracle: offering-to-the-nether
-
-lex: '099'
-
-set: scourgewar
+index: '099'
 
 rarity: Common
 
 artist: Craig Elliot
 
+variation: []
+
 flavor: '"What the Nether wants, the Nether gets." - Harrigan Soulsunder'
 
-variation: []
+oracle: offering-to-the-nether-scourgewar-099
+
+set: Scourgewar

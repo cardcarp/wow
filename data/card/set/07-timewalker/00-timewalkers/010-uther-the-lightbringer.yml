@@ -1,13 +1,14 @@
-oracle: uther-the-lightbringer
-
-lex: '010'
-
-set: timewalkers
+index: '010'
 
 rarity: Rare
 
 artist: Unknown
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: uther-the-lightbringer-timewalkers-010
+
+set: Timewalkers

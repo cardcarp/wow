@@ -1,0 +1,22 @@
+name: Freezing Trap
+
+origin: fires-of-outland-029
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Hunter
+
+instant: "Trap Attach to target attacking ally and remove it from combat. Ongoing : Attached ally can't attack or protect and loses all powers."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

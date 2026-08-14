@@ -1,0 +1,28 @@
+name: Cinder
+
+origin: twilight-of-the-dragons-039
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 4
+
+health: 2
+
+combat: Fire
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: At the start of your turn, this ally may deal 1 fire damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Dragonhawk

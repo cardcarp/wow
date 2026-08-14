@@ -1,0 +1,27 @@
+name: Veline Bladestar
+
+origin: worldbreaker-198
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 0
+
+health: 6
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Warrior

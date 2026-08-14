@@ -1,13 +1,13 @@
-oracle: ruby-enforcer
-
-lex: '214'
-
-set: worldbreaker
+index: '214'
 
 rarity: Common
 
 artist: Daren Bader
 
+variation: []
+
 flavor: Drakonids are typically used as the primary footsoldiers for their flights.
 
-variation: []
+oracle: ruby-enforcer-worldbreaker-214
+
+set: Worldbreaker

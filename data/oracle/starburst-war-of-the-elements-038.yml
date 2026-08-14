@@ -1,0 +1,22 @@
+name: Starburst
+
+origin: war-of-the-elements-038
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: Your hero deals 3 arcane damage to target hero or ally. Then, you may put this ability into your resource row face down and exhausted.
+
+regulation:
+
+errata: []
+
+temp: Balance

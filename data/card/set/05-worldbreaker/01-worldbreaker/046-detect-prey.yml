@@ -1,13 +1,13 @@
-oracle: detect-prey
-
-lex: '046'
-
-set: worldbreaker
+index: '046'
 
 rarity: Uncommon
 
 artist: Alex Garner
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: detect-prey-worldbreaker-046
+
+set: Worldbreaker

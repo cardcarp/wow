@@ -1,0 +1,27 @@
+name: Draka
+
+origin: betrayal-of-the-guardian-092
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity While you have no cards in your hand, when Draka deals combat damage to a hero, put a 2 / 2 Orc Warrior ally token into play with Ferocity and "This ally can attack only heroes."
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

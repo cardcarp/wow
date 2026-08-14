@@ -1,0 +1,27 @@
+name: Neltharion the Earth-Warder
+
+origin: war-of-the-ancients-192
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 8
+
+health: 8
+
+combat: Fire
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Smash As Neltharion enters play, you may destroy five non-hero cards you control. If you do, he enters play. Otherwise, put him into his owner's graveyard. (He doesn't enter play.)
+
+regulation:
+
+errata: []
+
+temp: Black Dragonkin Aspect

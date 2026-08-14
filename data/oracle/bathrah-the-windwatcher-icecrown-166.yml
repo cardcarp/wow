@@ -1,0 +1,25 @@
+name: Bath'rah the Windwatcher
+
+origin: icecrown-166
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Nature
+
+rule:
+  - type: ability
+    text: When each Shaman you control exhausts for the first time each turn, you may ready it.
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

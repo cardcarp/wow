@@ -1,0 +1,25 @@
+name: Azure Enforcer
+
+origin: war-of-the-elements-157
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Arcane
+
+rule:
+  - type: ability
+    text: When you play an ability, this ally may deal 1 arcane damage to target ally.
+
+regulation:
+
+errata: []
+
+temp: Blue Dragonkin

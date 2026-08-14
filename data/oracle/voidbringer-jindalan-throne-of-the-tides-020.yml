@@ -1,0 +1,22 @@
+name: Voidbringer Jindal'an
+
+origin: throne-of-the-tides-020
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: x , Flip Jindal'an → Reveal the top X cards of your deck. Put a revealed Demon into your hand and the rest on the bottom of your deck.
+
+regulation:
+
+errata: []
+
+temp: Troll Warlock

@@ -1,0 +1,24 @@
+name: Gravitational Pull
+
+origin: crown-of-the-heavens-172
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: As this armor enters play, you may reveal any number of equipment from your hand. This armor enters play with a +1 counter on it for each card revealed this way.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

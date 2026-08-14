@@ -1,0 +1,27 @@
+name: Gurzuk
+
+origin: march-of-the-legion-187
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

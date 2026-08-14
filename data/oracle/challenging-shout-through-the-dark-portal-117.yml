@@ -1,0 +1,22 @@
+name: Challenging Shout
+
+origin: through-the-dark-portal-117
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: This turn, opposing heroes and allies must attack if able and can attack only your hero if able.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury Shout

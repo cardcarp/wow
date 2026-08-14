@@ -1,0 +1,27 @@
+name: Mardun Valorhearth
+
+origin: scourgewar-145
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 4
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Mend 4
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

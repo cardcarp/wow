@@ -1,0 +1,22 @@
+name: Sanctity Aura
+
+origin: march-of-the-legion-065
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Retribution Hero Required Ongoing : allies in your party have +2 ATK while attacking. If your hero would deal holy ( ) damage, it deals that much +2 instead.'
+
+regulation:
+
+errata: []
+
+temp: Retribution Talent

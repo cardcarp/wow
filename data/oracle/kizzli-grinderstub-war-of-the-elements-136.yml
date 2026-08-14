@@ -1,0 +1,27 @@
+name: Kizzli Grinderstub
+
+origin: war-of-the-elements-136
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 4
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Time is Money → Target hero or ally has Stealth this turn.
+
+regulation:
+
+errata: []
+
+temp: Goblin Rogue

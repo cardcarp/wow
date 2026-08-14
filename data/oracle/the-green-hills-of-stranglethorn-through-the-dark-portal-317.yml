@@ -1,0 +1,17 @@
+name: The Green Hills of Stranglethorn
+
+origin: through-the-dark-portal-317
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : Reveal the top three cards of your deck. Put all revealed cards named The Green Hills of Stranglethorn into your hand and the rest on the bottom of your deck.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,13 +1,13 @@
-oracle: scarlet-conjuror
-
-lex: '016'
-
-set: scarlet-monastery
+index: '016'
 
 rarity: Common
 
 artist: Dan Scott
 
+variation: []
+
 flavor: "\"The Crusade shall destroy all who carry the Scourge's taint.\""
 
-variation: []
+oracle: scarlet-conjuror-scarlet-monastery-016
+
+set: Scarlet Monastery

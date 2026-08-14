@@ -1,13 +1,13 @@
-oracle: roshen-the-oathsworn
-
-lex: '145'
-
-set: wrathgate
+index: '145'
 
 rarity: Uncommon
 
 artist: Dany Orizio
 
+variation: []
+
 flavor: '"The words of Lady Liadrin act as a guide for each new lesson that the Light teaches me."'
 
-variation: []
+oracle: roshen-the-oathsworn-wrathgate-145
+
+set: Wrathgate

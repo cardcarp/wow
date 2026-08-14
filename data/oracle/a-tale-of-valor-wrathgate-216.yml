@@ -1,0 +1,17 @@
+name: A Tale of Valor
+
+origin: wrathgate-216
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: "Pay 4 to complete this quest. Reward : Reveal the top card of your deck and put it into your hand. Your hero heals damage from itself equal to that card's cost."
+
+regulation:
+
+errata: []
+
+temp: ''

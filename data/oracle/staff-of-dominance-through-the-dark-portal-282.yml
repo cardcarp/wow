@@ -1,0 +1,26 @@
+name: Staff of Dominance
+
+origin: through-the-dark-portal-282
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: Staff of Dominance enters play exhausted. x , , Destroy Staff of Dominance → Gain control of target ally with cost X. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

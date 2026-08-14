@@ -1,0 +1,25 @@
+name: Watcher Mal'wi
+
+origin: heroes-of-azeroth-269
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When an opposing ally enters play, Watcher Mal'wi deals 1 ranged damage to it.
+
+regulation:
+
+errata: []
+
+temp: Troll Hunter

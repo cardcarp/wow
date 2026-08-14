@@ -1,13 +1,13 @@
-oracle: life-and-death
-
-lex: '192'
-
-set: wrathgate
+index: '192'
 
 rarity: Rare
 
 artist: Cyril Van Der Haegen
 
+variation: []
+
 flavor: '"Your fate rests in my hands." - Jeremiah Karvok'
 
-variation: []
+oracle: life-and-death-wrathgate-192
+
+set: Wrathgate

@@ -1,0 +1,27 @@
+name: Brel Blazebeard
+
+origin: alliance-warlock-2011-014
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive When your hero or another ally you control deals fire ( ) damage, this ally has Assault 2 this turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Mage

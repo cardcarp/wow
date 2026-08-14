@@ -1,0 +1,17 @@
+name: Call to Battle
+
+origin: arena-grand-melee-event-012
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: Each player may put an ally card from his hand into play.
+
+regulation:
+
+errata: []
+
+temp: ''

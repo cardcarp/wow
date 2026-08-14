@@ -1,0 +1,22 @@
+name: Bestial Swiftness
+
+origin: march-of-the-legion-032
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'Beast Mastery Hero Required Ongoing : → Target Pet has Ferocity this turn.'
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery Talent

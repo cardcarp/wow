@@ -1,14 +1,14 @@
-oracle: lucifron
-
-lex: '001'
-
-set: molten-core-raid
+index: '001'
 
 rarity: Rare
 
 artist: Aleksi Briclot
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: lucifron-molten-core-raid-001
+
+set: Molten Core Raid

@@ -1,13 +1,13 @@
-oracle: muddle
-
-lex: '108'
-
-set: worldbreaker
+index: '108'
 
 rarity: Uncommon
 
 artist: Steve Prescott
 
+variation: []
+
 flavor: '"Your voice has fallen on deaf ears." - Grizlik Sparkhex'
 
-variation: []
+oracle: muddle-worldbreaker-108
+
+set: Worldbreaker

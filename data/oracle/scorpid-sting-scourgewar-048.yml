@@ -1,0 +1,22 @@
+name: Scorpid Sting
+
+origin: scourgewar-048
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: "Attach to target hero. Ongoing : At the start of attached hero's controller's turn, he exhausts an equipment he controls. If you control a Ranged weapon, he exhausts a second equipment he controls."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship Sting

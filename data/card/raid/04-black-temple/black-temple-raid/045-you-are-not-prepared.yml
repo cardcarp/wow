@@ -1,13 +1,13 @@
-oracle: you-are-not-prepared
-
-lex: '045'
-
-set: black-temple-raid
+index: '045'
 
 rarity: Uncommon
 
 artist: Vance Kovacs
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: you-are-not-prepared-black-temple-raid-043
+
+set: Black Temple Raid

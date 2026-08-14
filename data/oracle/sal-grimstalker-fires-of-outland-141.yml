@@ -1,0 +1,27 @@
+name: Sal Grimstalker
+
+origin: fires-of-outland-141
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Stealth At the start of your turn, target hero or ally has Stealth this turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Rogue

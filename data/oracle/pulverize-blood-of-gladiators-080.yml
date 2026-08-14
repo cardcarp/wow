@@ -1,0 +1,22 @@
+name: Pulverize
+
+origin: blood-of-gladiators-080
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: 'Choose one: Destroy target damaged ally; or destroy target ability or equipment with one or more counters.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury

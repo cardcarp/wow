@@ -1,0 +1,22 @@
+name: Holy Ground
+
+origin: war-of-the-ancients-034
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: Your hero deals 2 unpreventable holy damage to each opposing ally and heals 2 damage from each friendly ally.
+
+regulation:
+
+errata: []
+
+temp: Holy

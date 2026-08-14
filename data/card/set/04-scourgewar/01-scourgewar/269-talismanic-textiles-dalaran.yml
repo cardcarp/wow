@@ -1,13 +1,13 @@
-oracle: talismanic-textiles-dalaran
-
-lex: '269'
-
-set: scourgewar
+index: '269'
 
 rarity: Rare
 
 artist: Lim Hur
 
+variation: []
+
 flavor: Charles Worth, Proprietor
 
-variation: []
+oracle: talismanic-textiles-dalaran-scourgewar-269
+
+set: Scourgewar

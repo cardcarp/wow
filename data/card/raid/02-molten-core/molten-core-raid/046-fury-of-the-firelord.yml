@@ -1,13 +1,13 @@
-oracle: fury-of-the-firelord
-
-lex: '046'
-
-set: molten-core-raid
+index: '046'
 
 rarity: Uncommon
 
 artist: Brandon Kitkouski
 
+variation: []
+
 flavor: When Emperor Thaurissan called upon a powerful elemental to aid him in the War of the Three Hammers, he knew not what power he would awaken.
 
-variation: []
+oracle: fury-of-the-firelord-molten-core-raid-046
+
+set: Molten Core Raid

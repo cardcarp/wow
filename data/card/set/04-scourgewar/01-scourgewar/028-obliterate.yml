@@ -1,13 +1,13 @@
-oracle: obliterate
-
-lex: '028'
-
-set: scourgewar
+index: '028'
 
 rarity: Common
 
 artist: Eric Chiang
 
+variation: []
+
 flavor: '"My runeblade thirsts for your soul." - Randolphe Mortimer'
 
-variation: []
+oracle: obliterate-scourgewar-028
+
+set: Scourgewar

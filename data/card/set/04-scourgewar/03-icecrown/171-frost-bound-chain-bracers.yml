@@ -1,13 +1,13 @@
-oracle: frost-bound-chain-bracers
-
-lex: '171'
-
-set: icecrown
+index: '171'
 
 rarity: Rare
 
 artist: Jack Wang
 
+variation: []
+
 flavor: "\"Hodir's frozen touch still resides within the armor.\" - Gramm Thunderjaw"
 
-variation: []
+oracle: frost-bound-chain-bracers-icecrown-171
+
+set: Icecrown

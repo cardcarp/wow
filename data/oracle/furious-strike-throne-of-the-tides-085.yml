@@ -1,0 +1,22 @@
+name: Furious Strike
+
+origin: throne-of-the-tides-085
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: Your hero has +3 ATK this combat. Delve
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury

@@ -1,13 +1,13 @@
-oracle: bombard
-
-lex: '041'
-
-set: scourgewar
+index: '041'
 
 rarity: Rare
 
 artist: Matt Dixon
 
+variation: []
+
 flavor: Strategy gave way to chaos as a hail of arrows littered the battlefield.
 
-variation: []
+oracle: bombard-scourgewar-041
+
+set: Scourgewar

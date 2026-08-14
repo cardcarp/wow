@@ -1,0 +1,22 @@
+name: Perforation Poison
+
+origin: scourgewar-083
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: 'Attach to target hero that was dealt combat damage by your hero this turn. Ongoing : At the start of your turn, your hero deals nature damage to attached hero equal to 1 plus the number of weapons you control.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Poison

@@ -1,13 +1,13 @@
-oracle: cycle-of-life
-
-lex: '207'
-
-set: wrathgate
+index: '207'
 
 rarity: Common
 
 artist: Steve Ellis
 
+variation: []
+
 flavor: '"Ysera sleeps in the Emerald Dream, watching over both the Dream and Azeroth." - Nishera the Garden Keeper'
 
-variation: []
+oracle: cycle-of-life-wrathgate-207
+
+set: Wrathgate

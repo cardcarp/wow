@@ -1,13 +1,13 @@
-oracle: azjol-anak-acidslinger
-
-lex: '201'
-
-set: scourgewar
+index: '201'
 
 rarity: Common
 
 artist: Eric Browning
 
+variation: []
+
 flavor: Their venom is so toxic that it can paralyze even a Dragon in a matter of seconds.
 
-variation: []
+oracle: azjol-anak-acidslinger-scourgewar-201
+
+set: Scourgewar

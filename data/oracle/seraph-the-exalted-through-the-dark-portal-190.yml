@@ -1,0 +1,27 @@
+name: Seraph the Exalted
+
+origin: through-the-dark-portal-190
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 1
+
+health: 5
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Human Hero Required → Put an ally card from your hand into play if its cost is less than or equal to the number of resources you have.
+
+regulation:
+
+errata: []
+
+temp: Human Priest

@@ -1,13 +1,13 @@
-oracle: blessing-of-defense
-
-lex: '063'
-
-set: worldbreaker
+index: '063'
 
 rarity: Common
 
 artist: Raymond Swanland
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: blessing-of-defense-worldbreaker-063
+
+set: Worldbreaker

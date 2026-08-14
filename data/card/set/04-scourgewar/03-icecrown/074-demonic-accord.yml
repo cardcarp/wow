@@ -1,13 +1,13 @@
-oracle: demonic-accord
-
-lex: '074'
-
-set: icecrown
+index: '074'
 
 rarity: Common
 
 artist: Danny Beck
 
+variation: []
+
 flavor: '"Power often requires a small sacrifice at the very least." - Kristoff Manchester'
 
-variation: []
+oracle: demonic-accord-icecrown-074
+
+set: Icecrown

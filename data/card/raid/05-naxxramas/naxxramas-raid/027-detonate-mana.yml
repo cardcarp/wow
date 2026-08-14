@@ -1,13 +1,13 @@
-oracle: detonate-mana
-
-lex: '027'
-
-set: naxxramas-raid
+index: '027'
 
 rarity: Uncommon
 
 artist: Paul Mafayon
 
+variation: []
+
 flavor: "\"Your petty magics are no challenge to the might of the Scourge!\" - Kel'Thuzad"
 
-variation: []
+oracle: detonate-mana-naxxramas-raid-027
+
+set: Naxxramas Raid

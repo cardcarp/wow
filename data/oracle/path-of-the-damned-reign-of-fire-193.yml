@@ -1,0 +1,17 @@
+name: Path of the Damned
+
+origin: reign-of-fire-193
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 1 to complete this quest. Reward : Target player puts the top three cards of his deck into his graveyard.'
+
+regulation:
+
+errata: []
+
+temp: ''

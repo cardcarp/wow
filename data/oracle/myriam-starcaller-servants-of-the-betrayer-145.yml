@@ -1,0 +1,27 @@
+name: Myriam Starcaller
+
+origin: servants-of-the-betrayer-145
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Untargetable → Myriam deals 5 arcane damage to target hero.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

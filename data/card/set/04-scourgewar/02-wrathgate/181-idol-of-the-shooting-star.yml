@@ -1,13 +1,13 @@
-oracle: idol-of-the-shooting-star
-
-lex: '181'
-
-set: wrathgate
+index: '181'
 
 rarity: Rare
 
 artist: Patrick McEvoy
 
+variation: []
+
 flavor: '"May the light of Elune bring you safety and comfort." - Eriun Moonglow'
 
-variation: []
+oracle: idol-of-the-shooting-star-wrathgate-181
+
+set: Wrathgate

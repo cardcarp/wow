@@ -1,13 +1,13 @@
-oracle: jinie-swizzleshade
-
-lex: '142'
-
-set: worldbreaker
+index: '142'
 
 rarity: Common
 
 artist: Efrem Palacios
 
+variation: []
+
 flavor: "\"Let's see how the raging elementals handle a heavy dose of the shadows.\""
 
-variation: []
+oracle: jinie-swizzleshade-worldbreaker-142
+
+set: Worldbreaker

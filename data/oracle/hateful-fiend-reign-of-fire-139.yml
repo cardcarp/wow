@@ -1,0 +1,27 @@
+name: Hateful Fiend
+
+origin: reign-of-fire-139
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Fire
+
+type: Monster
+
+rule:
+  - type: ability
+    text: If an opposing Orc ally would deal damage, prevent 1 of it.
+
+regulation:
+
+errata: []
+
+temp: Imp Demon

@@ -1,0 +1,27 @@
+name: Hanaga Silvervein
+
+origin: march-of-the-legion-151
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive Your hero has +5 health.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Priest

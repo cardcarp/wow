@@ -1,0 +1,22 @@
+name: Nurture
+
+origin: reign-of-fire-012
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: "Attach to target hero or ally. Ongoing : Attached character has Mend 2 if it's a hero. Attached character has +2 / +2 if it's an ally. When attached character is destroyed, you may put this ability from its owner's graveyard into play under your control attached to target hero or ally."
+
+regulation:
+
+errata: []
+
+temp: Restoration Attachment

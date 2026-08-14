@@ -1,0 +1,22 @@
+name: Magma Totem
+
+origin: the-hunt-for-illidan-090
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+instant: 'Ongoing : At the start of your turn, Magma Totem deals 1 fire damage to each opposing hero and ally. (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental 1

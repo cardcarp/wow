@@ -1,13 +1,14 @@
-oracle: tiralesh
-
-lex: '011'
-
-set: monk-starter
+index: '011'
 
 rarity: Common
 
 artist: ''
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: tiralesh-monk-starter-011
+
+set: Monk Starter

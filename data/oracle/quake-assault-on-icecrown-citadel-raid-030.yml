@@ -1,0 +1,21 @@
+name: Quake
+
+origin: assault-on-icecrown-citadel-raid-030
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+instant: Exhaust all opposing cards.
+
+type: Boss
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,22 @@
+name: Kassandra Flameheart
+
+origin: march-of-the-legion-015
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Kassandra → Target Pet has +3 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Hunter

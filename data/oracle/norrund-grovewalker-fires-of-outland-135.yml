@@ -1,0 +1,27 @@
+name: Norrund Grovewalker
+
+origin: fires-of-outland-135
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 4
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive Untargetable
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

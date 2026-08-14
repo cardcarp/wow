@@ -1,0 +1,19 @@
+name: 'The Ring of Blood: Brokentoe'
+
+origin: blood-of-gladiators-195
+
+layout: standard
+
+category: Quest
+
+type: Arena
+
+rule:
+  - type: ability
+    text: 'As a cost to place this quest face up, discard a card. Pay 3 to complete this quest. Reward : Draw two cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

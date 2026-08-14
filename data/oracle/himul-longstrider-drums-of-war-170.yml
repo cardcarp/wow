@@ -1,0 +1,27 @@
+name: Himul Longstrider
+
+origin: drums-of-war-170
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: War Stomp
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

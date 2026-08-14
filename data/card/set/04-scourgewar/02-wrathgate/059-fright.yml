@@ -1,13 +1,13 @@
-oracle: fright
-
-lex: '059'
-
-set: wrathgate
+index: '059'
 
 rarity: Common
 
 artist: James Zhang
 
+variation: []
+
 flavor: '"Keep your enemies running scared, and surely they can never harm you." - Spiritualist Sunshroud'
 
-variation: []
+oracle: fright-wrathgate-059
+
+set: Wrathgate

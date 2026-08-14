@@ -1,0 +1,27 @@
+name: Bubblesmash
+
+origin: crown-of-the-heavens-150
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 2
+
+combat: Nature
+
+type: Monster
+
+rule:
+  - type: ability
+    text: This and other Murloc allies you control have Smash .
+
+regulation:
+
+errata: []
+
+temp: Murloc Hunter

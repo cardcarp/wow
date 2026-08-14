@@ -1,0 +1,27 @@
+name: Kagtha
+
+origin: dungeon-treasure-021
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Opposing heroes and allies lose and can't have Elusive and Untargetable .
+
+regulation:
+
+errata: []
+
+temp: Orc Rogue

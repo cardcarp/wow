@@ -1,13 +1,13 @@
-oracle: captain-cookie
-
-lex: '034'
-
-set: dungeon-treasure
+index: '034'
 
 rarity: Epic
 
 artist: Jaemin Kim
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: captain-cookie-dungeon-treasure-034
+
+set: Dungeon Treasure

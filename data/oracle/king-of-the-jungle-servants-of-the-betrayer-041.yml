@@ -1,0 +1,22 @@
+name: King of the Jungle
+
+origin: servants-of-the-betrayer-041
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Druid
+
+instant: 'Ongoing : Your hero has +1 ATK while attacking for each other ability you control. Your hero is in Cat Form .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral Combo

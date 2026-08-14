@@ -1,0 +1,22 @@
+name: Archmage Barstow
+
+origin: wrathgate-001
+
+layout: transform
+
+category: Hero
+
+health: 25
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: Flip Barstow, discard a Mage → Opposing heroes and allies lose and can't have powers this turn.
+
+regulation:
+
+errata: []
+
+temp: Human Mage

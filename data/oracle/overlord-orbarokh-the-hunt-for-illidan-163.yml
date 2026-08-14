@@ -1,0 +1,27 @@
+name: Overlord Or'barokh
+
+origin: the-hunt-for-illidan-163
+
+layout: standard
+
+category: Ally
+
+cost: '8'
+
+damage: 8
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity When Or'barokh enters play, you may destroy target damaged ally.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

@@ -1,13 +1,13 @@
-oracle: frost-burst
-
-lex: '116'
-
-set: scourgewar
+index: '116'
 
 rarity: Uncommon
 
 artist: Peter Lee
 
+variation: []
+
 flavor: '"Slowly, surely, inevitably ... death comes." - Saeryn Dusksorrow'
 
-variation: []
+oracle: frost-burst-scourgewar-116
+
+set: Scourgewar

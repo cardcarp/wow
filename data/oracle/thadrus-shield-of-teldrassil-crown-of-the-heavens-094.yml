@@ -1,0 +1,27 @@
+name: Thadrus, Shield of Teldrassil
+
+origin: crown-of-the-heavens-094
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 7
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector This ally can't attack. When this ally deals damage to an ally, destroy that ally.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

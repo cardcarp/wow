@@ -1,0 +1,22 @@
+name: Tidal Burst
+
+origin: black-temple-raid-013
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Traitor Hero Required Your hero deals 3 frost damage to target opposing ally and each other opposing ally with the same cost as that ally.
+
+regulation:
+
+errata: []
+
+temp: Traitor

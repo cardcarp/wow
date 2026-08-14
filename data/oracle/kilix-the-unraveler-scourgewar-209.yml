@@ -1,0 +1,25 @@
+name: Kilix the Unraveler
+
+origin: scourgewar-209
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 7
+
+health: 7
+
+combat: Nature
+
+rule:
+  - type: ability
+    text: Nerubian Reputation Protector When this ally enters play, put up to three cards from the top of your deck into your graveyard. Then, draw a card if an ability is in your graveyard, draw a card of an ally is in your graveyard, and draw a card if an equipment is in your graveyard.
+
+regulation:
+
+errata: []
+
+temp: Nerubian

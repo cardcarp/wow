@@ -1,13 +1,13 @@
-oracle: mioma-shadowflint
-
-lex: '146'
-
-set: scourgewar
+index: '146'
 
 rarity: Common
 
 artist: Patrick McEvoy
 
+variation: []
+
 flavor: Only those who cross her need fear her dark ways.
 
-variation: []
+oracle: mioma-shadowflint-scourgewar-146
+
+set: Scourgewar

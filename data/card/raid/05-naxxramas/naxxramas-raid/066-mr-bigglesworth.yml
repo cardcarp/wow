@@ -1,13 +1,13 @@
-oracle: mr-bigglesworth
-
-lex: '066'
-
-set: naxxramas-raid
+index: '066'
 
 rarity: Epic
 
 artist: James Zhang
 
+variation: []
+
 flavor: When this ally is destroyed, say "No!!! A curse upon you, interlopers! The armies of the Lich King will hunt you down. You will not escape your fate ..."
 
-variation: []
+oracle: mr-bigglesworth-naxxramas-raid-066
+
+set: Naxxramas Raid

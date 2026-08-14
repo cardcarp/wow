@@ -1,13 +1,13 @@
-oracle: shield-block
-
-lex: '112'
-
-set: scourgewar
+index: '112'
 
 rarity: Common
 
 artist: Clint Langley
 
+variation: []
+
 flavor: "\"My faith be my shield.\" - Mojo Mender Ja'nah \"Mine be dis huge metal thing, mon.\" - Indalamar"
 
-variation: []
+oracle: shield-block-scourgewar-112
+
+set: Scourgewar

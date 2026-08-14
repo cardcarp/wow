@@ -1,0 +1,25 @@
+name: Historian Firana
+
+origin: the-hunt-for-illidan-188
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Scryer Reputation Stealth Opponents play with their hands revealed.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

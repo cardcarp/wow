@@ -1,13 +1,13 @@
-oracle: divine-fury
-
-lex: '074'
-
-set: worldbreaker
+index: '074'
 
 rarity: Rare
 
 artist: Jim Nelson
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: divine-fury-worldbreaker-074
+
+set: Worldbreaker

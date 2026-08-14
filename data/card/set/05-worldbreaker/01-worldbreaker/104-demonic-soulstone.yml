@@ -1,13 +1,13 @@
-oracle: demonic-soulstone
-
-lex: '104'
-
-set: worldbreaker
+index: '104'
 
 rarity: Common
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: "\"You're done when I say you're done.\" - Victor Baltus"
 
-variation: []
+oracle: demonic-soulstone-worldbreaker-104
+
+set: Worldbreaker

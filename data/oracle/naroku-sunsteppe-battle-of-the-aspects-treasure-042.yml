@@ -1,0 +1,27 @@
+name: Naroku Sunsteppe
+
+origin: battle-of-the-aspects-treasure-042
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 4
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector This ally has +2 / +2 while you control another ally, an ability, and an equipment.
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

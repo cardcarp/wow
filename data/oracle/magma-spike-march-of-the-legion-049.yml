@@ -1,0 +1,22 @@
+name: Magma Spike
+
+origin: march-of-the-legion-049
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Your hero deals 5 fire damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Fire

@@ -1,13 +1,13 @@
-oracle: entangling-roots
-
-lex: '002'
-
-set: elderlimb
+index: '002'
 
 rarity: Common
 
 artist: Mauro Cascioli
 
+variation: []
+
 flavor: The vines grew angry, as if every weed of Azeroth sought revenge upon those who would destroy their fertile home.
 
-variation: []
+oracle: entangling-roots-heroes-of-azeroth-020
+
+set: Elderlimb

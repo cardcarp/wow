@@ -1,0 +1,22 @@
+name: Sweeping Strikes
+
+origin: the-hunt-for-illidan-111
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: "Arms Hero Required Ongoing : When your hero deals combat damage with a Melee weapon to an ally, it also deals that much melee damage to each other hero and ally in that ally's party."
+
+regulation:
+
+errata: []
+
+temp: Arms Talent

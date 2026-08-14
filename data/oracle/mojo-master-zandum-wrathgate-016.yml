@@ -1,0 +1,22 @@
+name: Mojo Master Zandum
+
+origin: wrathgate-016
+
+layout: transform
+
+category: Hero
+
+health: 26
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: Flip Zandum, discard a Priest → Zandum heals 4 damage divided as you choose from any number of target heroes and/or allies.
+
+regulation:
+
+errata: []
+
+temp: Troll Priest

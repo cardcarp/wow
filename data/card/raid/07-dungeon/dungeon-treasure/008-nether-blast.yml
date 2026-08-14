@@ -1,13 +1,13 @@
-oracle: nether-blast
-
-lex: '008'
-
-set: dungeon-treasure
+index: '008'
 
 rarity: Common
 
 artist: Dan Scott
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: nether-blast-dungeon-treasure-008
+
+set: Dungeon Treasure

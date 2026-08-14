@@ -1,13 +1,13 @@
-oracle: justicar-andra-goldblast
-
-lex: '105'
-
-set: icecrown
+index: '105'
 
 rarity: Uncommon
 
 artist: Daarken
 
+variation: []
+
 flavor: "\"I've been burned before ... it won't happen again.\""
 
-variation: []
+oracle: justicar-andra-goldblast-icecrown-105
+
+set: Icecrown

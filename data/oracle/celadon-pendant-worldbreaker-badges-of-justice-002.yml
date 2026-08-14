@@ -1,0 +1,25 @@
+name: Celadon Pendant
+
+origin: worldbreaker-badges-of-justice-002
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+instant: Your hero has Mend 1 for each face-up resource you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Item Neck

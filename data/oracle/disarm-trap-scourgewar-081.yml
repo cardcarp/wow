@@ -1,0 +1,22 @@
+name: Disarm Trap
+
+origin: scourgewar-081
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: Interrupt target instant.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Subtlety

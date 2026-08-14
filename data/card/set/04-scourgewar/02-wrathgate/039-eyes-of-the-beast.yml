@@ -1,13 +1,13 @@
-oracle: eyes-of-the-beast
-
-lex: '039'
-
-set: wrathgate
+index: '039'
 
 rarity: Uncommon
 
 artist: Yang Jialun (Massive Black)
 
+variation: []
+
 flavor: '"Beware the beast that shares a mind with its master." - Bloodsoul'
 
-variation: []
+oracle: eyes-of-the-beast-wrathgate-039
+
+set: Wrathgate

@@ -1,13 +1,13 @@
-oracle: unholy-rune
-
-lex: '031'
-
-set: scourgewar
+index: '031'
 
 rarity: Common
 
 artist: Christopher Moeller
 
+variation: []
+
 flavor: '"The dead are not bound by the limitations of the living." - Vanessa Fairgraves'
 
-variation: []
+oracle: unholy-rune-scourgewar-031
+
+set: Scourgewar

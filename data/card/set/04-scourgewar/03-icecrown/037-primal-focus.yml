@@ -1,13 +1,13 @@
-oracle: primal-focus
-
-lex: '037'
-
-set: icecrown
+index: '037'
 
 rarity: Uncommon
 
 artist: Arnie Swekel
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: primal-focus-icecrown-037
+
+set: Icecrown

@@ -1,0 +1,26 @@
+name: Jainas Staff
+
+origin: caverns-of-time-treasure-067
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: When this weapon enters play, remove the top four cards of your deck from the game. → Choose an ability removed this way. You may play that ability this turn. (Pay costs as normal.) When you do, copy each other non-Ongoing ability removed this way. You may play those copies without paying their costs.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

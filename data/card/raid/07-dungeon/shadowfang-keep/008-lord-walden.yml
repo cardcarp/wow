@@ -1,13 +1,13 @@
-oracle: lord-walden
-
-lex: '008'
-
-set: shadowfang-keep
+index: '008'
 
 rarity: Common
 
 artist: Michal Ivan
 
+variation: []
+
 flavor: "\"I can't tell if Arugal was brilliant or simply an imbecile.\""
 
-variation: []
+oracle: lord-walden-shadowfang-keep-008
+
+set: Shadowfang Keep

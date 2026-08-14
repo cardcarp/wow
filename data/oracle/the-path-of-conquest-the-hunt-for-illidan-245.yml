@@ -1,0 +1,17 @@
+name: The Path of Conquest
+
+origin: the-hunt-for-illidan-245
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'If no opposing allies are in play: Pay 2 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

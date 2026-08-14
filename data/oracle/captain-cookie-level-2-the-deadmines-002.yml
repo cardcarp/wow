@@ -1,0 +1,26 @@
+name: Captain Cookie - Level 2
+
+origin: the-deadmines-002
+
+layout: transform
+
+category: Hero
+
+damage: 0
+
+health: 50
+
+combat: Melee
+
+type: Dungeon
+
+rule:
+  - type: ability
+    position: front
+    text: 'Level Up: 20 Flip 2 Assault 10 , Long-Range'
+
+regulation:
+
+errata: []
+
+temp: Murloc Cook

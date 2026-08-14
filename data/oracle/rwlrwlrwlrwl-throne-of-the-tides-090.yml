@@ -1,0 +1,19 @@
+name: RwlRwlRwlRwl!
+
+origin: throne-of-the-tides-090
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+rule:
+  - type: ability
+    text: Murloc allies you control have +1 ATK and Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: ''

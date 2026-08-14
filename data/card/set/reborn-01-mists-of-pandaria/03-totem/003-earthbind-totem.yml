@@ -1,13 +1,13 @@
-oracle: earthbind-totem
-
-lex: '003'
-
-set: totem
+index: '003'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: earthbind-totem-heroes-of-azeroth-107
+
+set: Totem

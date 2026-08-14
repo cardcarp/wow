@@ -1,0 +1,25 @@
+name: Therazane the Stonemother
+
+origin: war-of-the-elements-171
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 3
+
+health: 9
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Earth Elementals you control have Protector . At the start of your turn, put a 2 / 1 Earth Elemental ally token into play. Destroy an Earth Elemental you control → Ready target hero or ally you control.
+
+regulation:
+
+errata: []
+
+temp: Earth Elemental Lord

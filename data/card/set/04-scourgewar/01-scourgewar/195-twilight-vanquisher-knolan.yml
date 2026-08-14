@@ -1,13 +1,13 @@
-oracle: twilight-vanquisher-knolan
-
-lex: '195'
-
-set: scourgewar
+index: '195'
 
 rarity: Rare
 
 artist: Dan Scott
 
+variation: []
+
 flavor: '"Indubitably!"'
 
-variation: []
+oracle: twilight-vanquisher-knolan-scourgewar-195
+
+set: Scourgewar

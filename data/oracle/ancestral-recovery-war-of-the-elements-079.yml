@@ -1,0 +1,22 @@
+name: Ancestral Recovery
+
+origin: war-of-the-elements-079
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: Put up to two target allies from your graveyard into your hand.
+
+regulation:
+
+errata: []
+
+temp: Restoration

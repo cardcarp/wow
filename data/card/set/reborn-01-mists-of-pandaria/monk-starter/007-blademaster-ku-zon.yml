@@ -1,13 +1,14 @@
-oracle: blademaster-ku-zon
-
-lex: '007'
-
-set: monk-starter
+index: '007'
 
 rarity: Common
 
 artist: ''
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: blademaster-ku-zon-monk-starter-007
+
+set: Monk Starter

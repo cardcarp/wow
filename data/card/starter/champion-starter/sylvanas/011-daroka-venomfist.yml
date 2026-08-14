@@ -1,13 +1,13 @@
-oracle: daroka-venomfist
-
-lex: '011'
-
-set: sylvanas
+index: '011'
 
 rarity: Common
 
 artist: JonBoy Meyers & Mark Taduran
 
+variation: []
+
 flavor: (A protector exhausted this way can't protect this combat.)
 
-variation: []
+oracle: daroka-venomfist-throne-of-the-tides-144
+
+set: Sylvanas

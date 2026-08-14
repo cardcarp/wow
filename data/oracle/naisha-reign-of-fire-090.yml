@@ -1,0 +1,27 @@
+name: Naisha
+
+origin: reign-of-fire-090
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 4
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: As this ally enters play, name a card. Opponents can't play cards with that name.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

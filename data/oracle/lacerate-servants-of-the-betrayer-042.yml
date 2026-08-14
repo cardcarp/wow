@@ -1,0 +1,22 @@
+name: Lacerate
+
+origin: servants-of-the-betrayer-042
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+instant: 'Ongoing : At the start of your turn, your hero deals 2 melee damage to target opposing hero. Your hero is in Bear Form .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

@@ -1,0 +1,23 @@
+name: Word of Blight
+
+origin: scourgewar-122
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+  - Death Knight
+
+rule:
+  - type: ability
+    text: Your hero deals shadow damage to target ally equal to the number of allies in your graveyard.
+
+regulation:
+
+errata: []
+
+temp: Unholy Shadow

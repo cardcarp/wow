@@ -1,13 +1,13 @@
-oracle: iceshriekers-touch
-
-lex: '193'
-
-set: icecrown
+index: '193'
 
 rarity: Uncommon
 
 artist: Ralph Beisner
 
+variation: []
+
 flavor: '"The howling winds of Northrend will surely stop even the dead in their tracks." - Spiritualist Sunshroud'
 
-variation: []
+oracle: iceshriekers-touch-icecrown-193
+
+set: Icecrown

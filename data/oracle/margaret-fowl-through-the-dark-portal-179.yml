@@ -1,0 +1,27 @@
+name: Margaret Fowl
+
+origin: through-the-dark-portal-179
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 5
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: You pay 1 less to strike with weapons. Opponents pay 1 more to strike with weapons.
+
+regulation:
+
+errata: []
+
+temp: Human Rogue

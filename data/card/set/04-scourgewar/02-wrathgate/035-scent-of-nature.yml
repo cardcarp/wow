@@ -1,13 +1,13 @@
-oracle: scent-of-nature
-
-lex: '035'
-
-set: wrathgate
+index: '035'
 
 rarity: Common
 
 artist: Terese Nielsen
 
+variation: []
+
 flavor: '"Treat the earth with respect, and it will return the favor three times over." - Mythen of the Wild'
 
-variation: []
+oracle: scent-of-nature-wrathgate-035
+
+set: Wrathgate

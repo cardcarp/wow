@@ -1,0 +1,22 @@
+name: Taunting Blows
+
+origin: the-hunt-for-illidan-113
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+instant: Your hero deals 1 melee damage to each opposing hero and ally. This turn, characters dealt damage this way must attack if able and can attack only your hero if able.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arms

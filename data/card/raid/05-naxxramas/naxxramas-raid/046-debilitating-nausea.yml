@@ -1,13 +1,13 @@
-oracle: debilitating-nausea
-
-lex: '046'
-
-set: naxxramas-raid
+index: '046'
 
 rarity: Uncommon
 
 artist: Howard Lyon
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: debilitating-nausea-naxxramas-raid-046
+
+set: Naxxramas Raid

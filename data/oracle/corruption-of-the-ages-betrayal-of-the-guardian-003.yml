@@ -1,0 +1,22 @@
+name: Corruption of the Ages
+
+origin: betrayal-of-the-guardian-003
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: Rift Your hero deals 5 shadow damage to target hero and heals 1 damage from itself for each damage dealt this way.
+
+regulation:
+
+errata: []
+
+temp: Blood

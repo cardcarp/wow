@@ -1,0 +1,22 @@
+name: Marta Spires
+
+origin: the-hunt-for-illidan-007
+
+layout: transform
+
+category: Hero
+
+health: 26
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 6 , Flip Marta → Put target ally card from your graveyard into play if its cost is less than or equal to the number of resources you have. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Human Priest

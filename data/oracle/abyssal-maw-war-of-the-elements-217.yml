@@ -1,0 +1,17 @@
+name: Abyssal Maw
+
+origin: war-of-the-elements-217
+
+layout: standard
+
+category: Location
+
+rule:
+  - type: ability
+    text: 'On your turn, if a hero or ally you controlled dealt frost ( ) damage this turn: 2 , → Put a 2 / 1 Water Elemental ally token into play. When a Water Elemental enters play under your control, your hero may heal 2 damage from itself.'
+
+regulation:
+
+errata: []
+
+temp: ''

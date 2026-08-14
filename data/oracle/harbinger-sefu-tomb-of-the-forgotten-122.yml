@@ -1,0 +1,27 @@
+name: Harbinger Sefu
+
+origin: tomb-of-the-forgotten-122
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: While you control one or more equipment, this ally has Stealth . While you control two or more equipment, this ally has Ferocity . While you control three or more equipment, this ally has Sentinel .
+
+regulation:
+
+errata: []
+
+temp: Tol'vir Rogue Warrior

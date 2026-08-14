@@ -1,0 +1,17 @@
+name: Copycast
+
+origin: arena-grand-melee-event-018
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: 'Ongoing : When a player plays a non-ongoing ability, he copies it. (That player may choose new targets for the copy.)'
+
+regulation:
+
+errata: []
+
+temp: ''

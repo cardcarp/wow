@@ -1,0 +1,22 @@
+name: Unbridled Wrath
+
+origin: servants-of-the-betrayer-125
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Fury Hero Required Ongoing : 1 → Target weapon you control has +1 ATK this turn.'
+
+regulation:
+
+errata: []
+
+temp: Fury Talent

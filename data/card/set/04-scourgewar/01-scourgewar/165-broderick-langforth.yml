@@ -1,13 +1,13 @@
-oracle: broderick-langforth
-
-lex: '165'
-
-set: scourgewar
+index: '165'
 
 rarity: Rare
 
 artist: Nick Percival
 
+variation: []
+
 flavor: '"Alive, dead, undead ... it matters not to me."'
 
-variation: []
+oracle: broderick-langforth-scourgewar-165
+
+set: Scourgewar

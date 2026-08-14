@@ -1,0 +1,19 @@
+name: Kiting
+
+origin: march-of-the-legion-128
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+instant: "Attach to target ally. Ongoing : 1 → Target hero or ally can't deal combat damage to attached ally this turn. Use only once per turn."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

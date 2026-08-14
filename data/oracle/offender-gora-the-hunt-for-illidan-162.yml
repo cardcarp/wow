@@ -1,0 +1,27 @@
+name: Offender Gora
+
+origin: the-hunt-for-illidan-162
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity Gora has -2 ATK during each opponent's turn.
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

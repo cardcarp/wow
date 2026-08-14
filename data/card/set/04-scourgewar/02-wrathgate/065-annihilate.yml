@@ -1,13 +1,13 @@
-oracle: annihilate
-
-lex: '065'
-
-set: wrathgate
+index: '065'
 
 rarity: Common
 
 artist: Francis Tsai
 
+variation: []
+
 flavor: '"You expend yourself too quickly." - Timmo Shadestep'
 
-variation: []
+oracle: annihilate-wrathgate-065
+
+set: Wrathgate

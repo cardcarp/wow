@@ -1,0 +1,22 @@
+name: Incinerate
+
+origin: fires-of-outland-086
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Your hero deals 2 fire damage to target hero or ally, or 4 if your hero dealt fire damage with an ability to that character this turn.
+
+regulation:
+
+errata: []
+
+temp: Destruction

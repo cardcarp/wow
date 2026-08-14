@@ -1,0 +1,22 @@
+name: Rend
+
+origin: heroes-of-azeroth-146
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals 1 melee damage to attached character.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arms

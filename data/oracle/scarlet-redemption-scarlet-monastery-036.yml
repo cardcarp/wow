@@ -1,0 +1,19 @@
+name: Scarlet Redemption
+
+origin: scarlet-monastery-036
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Put a random card from the Dungeon graveyard on top of the Dungeon deck.
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,22 @@
+name: Point Blank
+
+origin: through-the-dark-portal-037
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: If your hero is defending, it deals 3 ranged damage to target attacker.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

@@ -1,14 +1,14 @@
-oracle: jeremiah-karvok
-
-lex: '013'
-
-set: wrathgate
+index: '013'
 
 rarity: Uncommon
 
 artist: BROM
 
-flavor: '"My methods can be quite disturbing, but I challenge you to question my results."'
-
 variation:
   - transform
+
+flavor: '"My methods can be quite disturbing, but I challenge you to question my results."'
+
+oracle: jeremiah-karvok-wrathgate-013
+
+set: Wrathgate

@@ -1,0 +1,24 @@
+name: Wubs Cursed Hexblade
+
+origin: fields-of-honor-182
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: 2 , Destroy Wub's Cursed Hexblade → Destroy target ally. If an opponent went first this game, put a card with the same name as that ally from a graveyard into your party.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

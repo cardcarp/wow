@@ -1,0 +1,25 @@
+name: Illidari Archon
+
+origin: black-temple-raid-036
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Shadow
+
+rule:
+  - type: ability
+    text: Traitor Hero Required When Illidari Archon attacks, you may ready one of your resources.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Priest Traitor

@@ -1,0 +1,22 @@
+name: Blessing of Trials
+
+origin: drums-of-war-044
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+instant: 'Attach to target ally. The next time it would be dealt damage by an opposing hero or ally this turn, prevent that damage and put that many strength counters on this ability. Ongoing : Attached ally has +1 / +1 for each strength counter.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Blessing

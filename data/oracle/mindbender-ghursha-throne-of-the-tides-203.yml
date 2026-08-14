@@ -1,0 +1,27 @@
+name: Mindbender Ghursha
+
+origin: throne-of-the-tides-203
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 4
+
+health: 8
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: While you control one or more other Monster heroes and/or allies, Ghur'sha has Ferocity . While you control two or more other Monster heroes and/or allies, Ghur'sha has Assault 4 . While you control three or more other Monster heroes and/or allies, Ghur'sha has Invincible .
+
+regulation:
+
+errata: []
+
+temp: Merciless One

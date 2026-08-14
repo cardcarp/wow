@@ -1,13 +1,13 @@
-oracle: stance-mastery
-
-lex: '121'
-
-set: worldbreaker
+index: '121'
 
 rarity: Rare
 
 artist: Paul Kidby
 
+variation: []
+
 flavor: '"There is no difference between offense and defense." - Peter Hottelet'
 
-variation: []
+oracle: stance-mastery-worldbreaker-121
+
+set: Worldbreaker

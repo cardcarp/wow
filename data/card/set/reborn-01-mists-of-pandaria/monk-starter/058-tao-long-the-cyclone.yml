@@ -1,13 +1,13 @@
-oracle: tao-long-the-cyclone
-
-lex: '058'
-
-set: monk-starter
+index: '058'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: tao-long-the-cyclone-monk-starter-058
+
+set: Monk Starter

@@ -1,0 +1,22 @@
+name: Shield or Wield
+
+origin: the-hunt-for-illidan-064
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: 'Choose one: Prevent the next 3 damage that target ally would be dealt this turn; or attach to target hero. Ongoing : Attached hero has +1 ATK while attacking.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Retribution

@@ -1,0 +1,19 @@
+name: Goblin Gumbo
+
+origin: fires-of-outland-105
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+instant: "Attach to target ally. Ongoing : Attached ally has -2 ATK. When Goblin Gumbo enters a graveyard from play, put it from that graveyard on top of its owner's deck."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

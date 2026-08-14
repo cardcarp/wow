@@ -1,0 +1,30 @@
+name: Magnetic Totem
+
+origin: reign-of-fire-047
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+damage: 0
+
+health: 4
+
+combat: Nature
+
+class:
+  - Shaman
+
+instant: "When this Totem enters play, you may change a target of target opposing card or effect to this Totem. Ongoing : Opposing cards and effects must target this Totem if able. (Totems can't attack.)"
+
+type: Ally
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement

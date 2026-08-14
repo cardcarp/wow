@@ -1,0 +1,22 @@
+name: Aimed Shot
+
+origin: heroes-of-azeroth-032
+
+layout: standard
+
+category: Ability
+
+cost: 1+X
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Marksmanship Hero Required Your hero deals X ranged damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Marksmanship Talent

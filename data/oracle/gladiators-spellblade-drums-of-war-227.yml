@@ -1,0 +1,24 @@
+name: Gladiators Spellblade
+
+origin: drums-of-war-227
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: At the start of your turn, put a spell counter on Gladiator's Spellblade. If your hero would deal damage, it deals that much +1 for each spell counter instead.
+
+regulation:
+
+errata: []
+
+temp: 1H Arena Weapon Dagger

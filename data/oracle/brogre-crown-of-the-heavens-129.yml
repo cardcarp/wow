@@ -1,0 +1,27 @@
+name: Brogre
+
+origin: crown-of-the-heavens-129
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 0
+
+health: 6
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: 'On your turn: 2 → Target Ogre ally has +3 ATK this turn.'
+
+regulation:
+
+errata: []
+
+temp: Ogre Warrior

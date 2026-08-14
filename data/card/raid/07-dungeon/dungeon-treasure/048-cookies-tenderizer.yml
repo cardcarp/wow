@@ -1,13 +1,13 @@
-oracle: cookies-tenderizer
-
-lex: '048'
-
-set: dungeon-treasure
+index: '048'
 
 rarity: Common
 
 artist: JonBoy Meyers & Mark Taduran
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: cookies-tenderizer-dungeon-treasure-048
+
+set: Dungeon Treasure

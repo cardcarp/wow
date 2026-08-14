@@ -1,13 +1,13 @@
-oracle: haunt
-
-lex: '097'
-
-set: scourgewar
+index: '097'
 
 rarity: Rare
 
 artist: Brandon Kitkouski
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: haunt-scourgewar-097
+
+set: Scourgewar

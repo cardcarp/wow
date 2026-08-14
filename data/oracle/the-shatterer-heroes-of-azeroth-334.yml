@@ -1,0 +1,25 @@
+name: The Shatterer
+
+origin: heroes-of-azeroth-334
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+  - Rogue
+
+rule:
+  - type: ability
+    text: When your hero deals combat damage with The Shatterer to a hero, destroy one of that hero's controller's weapons unless he pays 2 .
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

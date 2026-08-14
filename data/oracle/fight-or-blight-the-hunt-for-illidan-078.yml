@@ -1,0 +1,22 @@
+name: Fight or Blight
+
+origin: the-hunt-for-illidan-078
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: 'Choose one: Target hero has Stealth this turn; or attach to target hero or ally that your hero dealt combat damage to this turn. Ongoing : At the start of your turn, your hero deals 1 nature damage to attached character.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Subtlety Poison

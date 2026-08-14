@@ -1,0 +1,25 @@
+name: Twilight Drake
+
+origin: twilight-of-the-dragons-162
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: When this ally enters play, if an ability, ally, or equipment was destroyed this turn, target player discards a card.
+
+regulation:
+
+errata: []
+
+temp: Twilight Dragonkin

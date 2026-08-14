@@ -1,0 +1,22 @@
+name: Merciless Strikes
+
+origin: war-of-the-elements-099
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+instant: Your hero deals 3 melee damage to each damaged opposing hero and ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury

@@ -1,13 +1,13 @@
-oracle: strangulate
-
-lex: '030'
-
-set: worldbreaker
+index: '030'
 
 rarity: Uncommon
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: strangulate-worldbreaker-030
+
+set: Worldbreaker

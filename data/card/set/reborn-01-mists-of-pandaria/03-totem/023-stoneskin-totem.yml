@@ -1,13 +1,13 @@
-oracle: stoneskin-totem
-
-lex: '023'
-
-set: totem
+index: '023'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: stoneskin-totem-servants-of-the-betrayer-102
+
+set: Totem

@@ -1,0 +1,27 @@
+name: Furbolg Champion
+
+origin: reign-of-fire-136
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: At the start of your turn, you may put the top two cards of target player's deck into his graveyard.
+
+regulation:
+
+errata: []
+
+temp: Furbolg Warrior

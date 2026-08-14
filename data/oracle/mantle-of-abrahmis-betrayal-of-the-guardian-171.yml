@@ -1,0 +1,24 @@
+name: Mantle of Abrahmis
+
+origin: betrayal-of-the-guardian-171
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 'When another armor or weapon enters play under your control, choose one: Add a +1 ATK counter to target weapon you control; or add a +1 counter to target armor you control.'
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

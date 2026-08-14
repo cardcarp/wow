@@ -1,13 +1,13 @@
-oracle: completion-machine
-
-lex: '042'
-
-set: shadowfang-keep
+index: '042'
 
 rarity: Common
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: completion-machine-shadowfang-keep-042
+
+set: Shadowfang Keep

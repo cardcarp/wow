@@ -1,0 +1,19 @@
+name: Bolstering Our Defenses
+
+origin: drums-of-war-242
+
+layout: standard
+
+category: Quest
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'Pay 2 to complete this quest. Reward : Reveal the top three cards of your deck. Put a revealed card into your hand and the rest on the bottom of your deck.'
+
+regulation:
+
+errata: []
+
+temp: ''

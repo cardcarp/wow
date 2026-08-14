@@ -1,0 +1,22 @@
+name: Bear Form
+
+origin: heroes-of-azeroth-018
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+instant: 'Ongoing : Your hero is in Bear Form . When Bear Form is destroyed, you pay pay 2 . If you do, put it into your hand at end of turn.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

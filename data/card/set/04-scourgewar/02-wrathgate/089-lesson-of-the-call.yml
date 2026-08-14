@@ -1,13 +1,13 @@
-oracle: lesson-of-the-call
-
-lex: '089'
-
-set: wrathgate
+index: '089'
 
 rarity: Common
 
 artist: Matt Cavotta
 
+variation: []
+
 flavor: "\"Leave the fighting to the big boys. I wouldn't want you to get hurt!\" - Lord Benjamin Tremendouson"
 
-variation: []
+oracle: lesson-of-the-call-wrathgate-089
+
+set: Wrathgate

@@ -1,0 +1,26 @@
+name: Staff of the Ruins
+
+origin: fires-of-outland-220
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: → You pay 1 less to play your next ability this turn for each card in your graveyard with the same name as that ability.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

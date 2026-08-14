@@ -1,0 +1,17 @@
+name: Throne of the Tides
+
+origin: throne-of-the-tides-263
+
+layout: standard
+
+category: Location
+
+rule:
+  - type: ability
+    text: 1 , → Delve
+
+regulation:
+
+errata: []
+
+temp: ''

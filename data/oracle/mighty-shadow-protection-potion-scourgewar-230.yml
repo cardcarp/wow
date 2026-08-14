@@ -1,0 +1,28 @@
+name: Mighty Shadow Protection Potion
+
+origin: scourgewar-230
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Death Knight
+  - Mage
+  - Shaman
+
+rule:
+  - type: ability
+    text: Destroy this item → Target friendly hero or ally has Shadow Resistance this turn.
+
+regulation:
+
+errata: []
+
+temp: Item Potion

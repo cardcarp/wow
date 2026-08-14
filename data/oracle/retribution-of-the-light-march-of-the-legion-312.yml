@@ -1,0 +1,17 @@
+name: Retribution of the Light
+
+origin: march-of-the-legion-312
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 2 to complete this quest. Reward : All players shuffle their graveyards into their decks.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,22 @@
+name: Frost Ward
+
+origin: icecrown-044
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Mage
+
+instant: Your hero has Frost Resistance this turn. When damage that an opposing hero or ally would deal is prevented this way, your hero may deal that much frost damage to target hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost

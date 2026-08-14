@@ -1,0 +1,22 @@
+name: Volatile Poison
+
+origin: war-of-the-ancients-049
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Attach to target hero that was dealt combat damage by your hero this turn. Ongoing : At the start of your turn, your hero deals 4 nature damage to attached hero.'
+
+regulation:
+
+errata: []
+
+temp: Assassination Poison Attachment

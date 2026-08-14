@@ -1,14 +1,14 @@
-oracle: malaxia-wizwhirl
-
-lex: '015'
-
-set: worldbreaker
+index: '015'
 
 rarity: Uncommon
 
 artist: Kevin Chen
 
-flavor: '"These totemic contraptions sure do pack quite the punch."'
-
 variation:
   - transform
+
+flavor: '"These totemic contraptions sure do pack quite the punch."'
+
+oracle: malaxia-wizwhirl-worldbreaker-015
+
+set: Worldbreaker

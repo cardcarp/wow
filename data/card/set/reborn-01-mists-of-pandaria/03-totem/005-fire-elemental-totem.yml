@@ -1,13 +1,13 @@
-oracle: fire-elemental-totem
-
-lex: '005'
-
-set: totem
+index: '005'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: fire-elemental-totem-fires-of-outland-077
+
+set: Totem

@@ -1,0 +1,27 @@
+name: Vurkeran
+
+origin: fields-of-honor-119
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 2
+
+health: 9
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector → Ready all abilities and equipment you control.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

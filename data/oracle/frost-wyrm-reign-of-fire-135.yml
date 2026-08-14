@@ -1,0 +1,27 @@
+name: Frost Wyrm
+
+origin: reign-of-fire-135
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 4
+
+combat: Frost
+
+type: Monster
+
+rule:
+  - type: ability
+    text: At the start of each opponent's turn, you may remove three cards in a graveyard from the game. If you do, this ally deals 3 frost damage to target hero or ally. A character dealt damage this way can't attack this turn.
+
+regulation:
+
+errata: []
+
+temp: Scourge Dragonkin

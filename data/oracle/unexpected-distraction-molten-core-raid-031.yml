@@ -1,0 +1,19 @@
+name: Unexpected Distraction
+
+origin: molten-core-raid-031
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+instant: Prevent all damage that would be dealt to target hero or ally this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Molten Core

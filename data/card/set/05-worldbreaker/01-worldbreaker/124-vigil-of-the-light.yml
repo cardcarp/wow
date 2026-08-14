@@ -1,13 +1,13 @@
-oracle: vigil-of-the-light
-
-lex: '124'
-
-set: worldbreaker
+index: '124'
 
 rarity: Epic
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: '"We put our faith in that which both sustains and restores." - Jaenel'
 
-variation: []
+oracle: vigil-of-the-light-worldbreaker-124
+
+set: Worldbreaker

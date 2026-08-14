@@ -1,0 +1,22 @@
+name: Felbender Lara
+
+origin: scourgewar-004
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'If you control another Warlock: Flip Lara → Lara deals 3 shadow damage to target hero or ally with an attachment.'
+
+regulation:
+
+errata: []
+
+temp: Human Warlock

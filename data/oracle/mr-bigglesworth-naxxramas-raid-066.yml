@@ -1,0 +1,17 @@
+name: Mr. Bigglesworth
+
+origin: naxxramas-raid-066
+
+layout: standard
+
+category: Ally
+
+rule:
+  - type: ability
+    text: This ally can't attack. When this ally is destroyed, say "No!!! A curse upon you, interlopers! The armies of the Lich King will hunt you down. You will not escape your fate ..."
+
+regulation:
+
+errata: []
+
+temp: 1 Cat

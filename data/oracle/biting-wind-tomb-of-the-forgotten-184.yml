@@ -1,0 +1,26 @@
+name: Biting Wind
+
+origin: tomb-of-the-forgotten-184
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 3 , → Your hero deals 1 frost damage to target hero or ally. A character dealt damage this way can't attack or protect this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

@@ -1,0 +1,22 @@
+name: Bait the Trap
+
+origin: the-hunt-for-illidan-035
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: "Ongoing : Trap cards in your hand also have \"You may exhaust a defending ally in your party rather than pay this card's cost.\""
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

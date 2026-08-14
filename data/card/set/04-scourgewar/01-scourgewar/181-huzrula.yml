@@ -1,13 +1,13 @@
-oracle: huzrula
-
-lex: '181'
-
-set: scourgewar
+index: '181'
 
 rarity: Common
 
 artist: Jonboy Meyers
 
+variation: []
+
 flavor: '"I can help you with that."'
 
-variation: []
+oracle: huzrula-scourgewar-181
+
+set: Scourgewar

@@ -1,14 +1,14 @@
-oracle: spirit-of-redemption
-
-lex: '064'
-
-set: wrathgate
+index: '064'
 
 rarity: Rare
 
 artist: Thomas Denmark
 
-flavor: How you die can say a lot about how you lived.
-
 variation:
   - transform
+
+flavor: How you die can say a lot about how you lived.
+
+oracle: spirit-of-redemption-wrathgate-064
+
+set: Wrathgate

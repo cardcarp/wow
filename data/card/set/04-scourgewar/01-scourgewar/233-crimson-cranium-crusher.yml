@@ -1,13 +1,13 @@
-oracle: crimson-cranium-crusher
-
-lex: '233'
-
-set: scourgewar
+index: '233'
 
 rarity: Rare
 
 artist: Craig Elliot
 
+variation: []
+
 flavor: "\"Press the advantage, kid, or you'll never be the Amphitheater of Anguish champ!\" - Gurgthock"
 
-variation: []
+oracle: crimson-cranium-crusher-scourgewar-233
+
+set: Scourgewar

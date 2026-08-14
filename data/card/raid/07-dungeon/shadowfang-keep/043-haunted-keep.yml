@@ -1,13 +1,13 @@
-oracle: haunted-keep
-
-lex: '043'
-
-set: shadowfang-keep
+index: '043'
 
 rarity: Common
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: haunted-keep-shadowfang-keep-043
+
+set: Shadowfang Keep

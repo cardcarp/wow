@@ -1,13 +1,13 @@
-oracle: sister-of-pain
-
-lex: '040'
-
-set: black-temple-raid
+index: '040'
 
 rarity: Common
 
 artist: James Zhang
 
+variation: []
+
 flavor: '"Pain is inevitable, but the suffering is optional."'
 
-variation: []
+oracle: sister-of-pain-black-temple-raid-040
+
+set: Black Temple Raid

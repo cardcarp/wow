@@ -1,0 +1,25 @@
+name: Scarlet Commander Renault Mograine
+
+origin: dungeon-treasure-032
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Holy
+
+rule:
+  - type: ability
+    text: Protector If Renault would be dealt damage while defending, you may have any amount of it dealt to your hero instead.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

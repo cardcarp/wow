@@ -1,0 +1,22 @@
+name: Inner Will
+
+origin: twilight-of-the-dragons-065
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: You pay x less to play your next card this turn, where X is the highest cost among abilities, allies, and equipment you control.
+
+regulation:
+
+errata: []
+
+temp: Discipline

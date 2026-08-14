@@ -1,0 +1,25 @@
+name: Human Footman
+
+origin: betrayal-of-the-guardian-071
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

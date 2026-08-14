@@ -1,13 +1,13 @@
-oracle: calamity
-
-lex: '018'
-
-set: shadowfang-keep
+index: '018'
 
 rarity: Common
 
 artist: Gabor Szikszai
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: calamity-shadowfang-keep-018
+
+set: Shadowfang Keep

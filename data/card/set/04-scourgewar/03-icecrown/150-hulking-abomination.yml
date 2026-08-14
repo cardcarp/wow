@@ -1,13 +1,13 @@
-oracle: hulking-abomination
-
-lex: '150'
-
-set: icecrown
+index: '150'
 
 rarity: Uncommon
 
 artist: Tom Baxa
 
+variation: []
+
 flavor: '"The only way to stop these hulking monstrosities is to tear them to pieces." - Crusade Commander Entari'
 
-variation: []
+oracle: hulking-abomination-icecrown-150
+
+set: Icecrown

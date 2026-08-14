@@ -1,13 +1,13 @@
-oracle: charmed-ancient-bone-bow
-
-lex: '237'
-
-set: worldbreaker
+index: '237'
 
 rarity: Rare
 
 artist: Steve Tappin
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: charmed-ancient-bone-bow-worldbreaker-237
+
+set: Worldbreaker

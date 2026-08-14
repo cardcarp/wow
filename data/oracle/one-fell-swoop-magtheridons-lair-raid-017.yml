@@ -1,0 +1,19 @@
+name: One Fell Swoop
+
+origin: magtheridons-lair-raid-017
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+rule:
+  - type: ability
+    text: Play only if fifteen or more Bloods are in play. As an additional cost to play, exhaust Magtheridon. One Fell Swoop can't be interrupted. Magtheridon deals 30 melee damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
+
+temp: ''

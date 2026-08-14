@@ -1,0 +1,22 @@
+name: Crusaders Sweep
+
+origin: the-hunt-for-illidan-057
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+instant: Your hero deals 1 unpreventable holy damage to each opposing hero and ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

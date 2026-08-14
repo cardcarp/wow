@@ -1,0 +1,25 @@
+name: Dar'thael the Bloodsworn
+
+origin: twilight-of-the-dragons-013
+
+layout: transform
+
+category: Hero
+
+health: 30
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 4 → Flip Dar'thael face down.
+  - type: ability
+    position: reverse
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Warrior

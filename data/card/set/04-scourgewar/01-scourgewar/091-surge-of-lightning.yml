@@ -1,13 +1,13 @@
-oracle: surge-of-lightning
-
-lex: '091'
-
-set: scourgewar
+index: '091'
 
 rarity: Common
 
 artist: Daarken
 
+variation: []
+
 flavor: The elements always follow the path of least resistance.
 
-variation: []
+oracle: surge-of-lightning-scourgewar-091
+
+set: Scourgewar

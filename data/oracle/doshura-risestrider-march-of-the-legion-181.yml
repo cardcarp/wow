@@ -1,0 +1,27 @@
+name: Doshura Risestrider
+
+origin: march-of-the-legion-181
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When Doshura enters play, you may destroy target exhausted ally.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

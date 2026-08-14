@@ -1,0 +1,19 @@
+name: The Final Message to the Wildhammer
+
+origin: drums-of-war-244
+
+layout: standard
+
+category: Quest
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: "On your turn, pay 2 to complete this quest. Reward : Draw a card. Put a Message item token into play with \"If your hero would be dealt damage, it's dealt that much +1 instead.\" At the start of your next turn, remove that token from the game."
+
+regulation:
+
+errata: []
+
+temp: ''

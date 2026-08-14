@@ -1,0 +1,22 @@
+name: Kaave of the Exodar
+
+origin: alliance-priest-2011-001
+
+layout: transform
+
+category: Hero
+
+health: 26
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 4 , Flip Kaave → Kaave heals 3 damage from each hero and ally you control.'
+
+regulation:
+
+errata: []
+
+temp: Draenai Priest

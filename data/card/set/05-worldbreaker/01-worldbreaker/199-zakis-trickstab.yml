@@ -1,13 +1,13 @@
-oracle: zakis-trickstab
-
-lex: '199'
-
-set: worldbreaker
+index: '199'
 
 rarity: Common
 
 artist: Pete Venters
 
+variation: []
+
 flavor: "\"You wanna know what's a one-sided trade? Stealing, that's what.\""
 
-variation: []
+oracle: zakis-trickstab-worldbreaker-199
+
+set: Worldbreaker

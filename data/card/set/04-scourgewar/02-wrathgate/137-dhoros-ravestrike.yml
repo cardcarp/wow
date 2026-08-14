@@ -1,13 +1,13 @@
-oracle: dhoros-ravestrike
-
-lex: '137'
-
-set: wrathgate
+index: '137'
 
 rarity: Common
 
 artist: Dave Dorman
 
+variation: []
+
 flavor: '"Patience will always pay off in the end."'
 
-variation: []
+oracle: dhoros-ravestrike-wrathgate-137
+
+set: Wrathgate

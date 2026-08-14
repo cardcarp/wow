@@ -1,0 +1,17 @@
+name: Alas, Andorhal
+
+origin: through-the-dark-portal-311
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'During your turn, pay 2 to complete this quest. Reward : Remove up to three target cards in one graveyard from the game.'
+
+regulation:
+
+errata: []
+
+temp: ''

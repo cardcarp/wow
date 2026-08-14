@@ -1,0 +1,22 @@
+name: Gift of Nature
+
+origin: servants-of-the-betrayer-040
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: "Restoration Hero Required Ongoing : Allies in your party can't be destroyed by fatal damage. At the end of each turn, destroy all allies in your party with fatal damage."
+
+regulation:
+
+errata: []
+
+temp: Restoration Talent

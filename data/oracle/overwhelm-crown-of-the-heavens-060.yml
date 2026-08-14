@@ -1,0 +1,23 @@
+name: Overwhelm
+
+origin: crown-of-the-heavens-060
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 'Ongoing : On your turn: 2 , → Put a token copy of target token ally you control into play. On your turn: 2 , → Token allies you control have +1 ATK this turn.'
+
+regulation:
+
+errata: []
+
+temp: Unholy Balance

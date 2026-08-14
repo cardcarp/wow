@@ -1,13 +1,13 @@
-oracle: no-mere-dream
-
-lex: '201'
-
-set: wrathgate
+index: '201'
 
 rarity: Uncommon
 
 artist: Zhang Lu (Massive Black)
 
+variation: []
+
 flavor: '"What you see around you is but an echo of the reality inside the dream!" - Clintar Dreamwalker'
 
-variation: []
+oracle: no-mere-dream-wrathgate-201
+
+set: Wrathgate

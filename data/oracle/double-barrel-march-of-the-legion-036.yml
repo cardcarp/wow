@@ -1,0 +1,22 @@
+name: Double Barrel
+
+origin: march-of-the-legion-036
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+instant: 'Ongoing : Your hero has Ranged Dual Wield .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

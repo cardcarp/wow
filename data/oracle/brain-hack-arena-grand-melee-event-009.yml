@@ -1,0 +1,17 @@
+name: Brain Hack
+
+origin: arena-grand-melee-event-009
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: Each player removes the top card of the deck to his left from the game. He may place that card face up or play it without paying its cost this game (any time he could normally do so) .
+
+regulation:
+
+errata: []
+
+temp: ''

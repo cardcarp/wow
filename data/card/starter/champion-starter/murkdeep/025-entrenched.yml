@@ -1,13 +1,13 @@
-oracle: entrenched
-
-lex: '025'
-
-set: murkdeep
+index: '025'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor: '"Diamant says you are to be trusted. Diamant is patient and wise, so I shall allow you to prove yourself." - Kor the Immovable'
 
-variation: []
+oracle: entrenched-war-of-the-elements-210
+
+set: Murkdeep

@@ -1,0 +1,25 @@
+name: Orc Flamecaller
+
+origin: betrayal-of-the-guardian-101
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 5
+
+combat: Fire
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Orc Mage

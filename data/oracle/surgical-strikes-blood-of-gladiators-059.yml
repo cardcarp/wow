@@ -1,0 +1,22 @@
+name: Surgical Strikes
+
+origin: blood-of-gladiators-059
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Ongoing : When a hero or ally in your party deals combat damage to a defending hero, its controller discards a card.'
+
+regulation:
+
+errata: []
+
+temp: Subtlety

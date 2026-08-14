@@ -1,13 +1,13 @@
-oracle: seal-fate
-
-lex: '091'
-
-set: worldbreaker
+index: '091'
 
 rarity: Rare
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: seal-fate-worldbreaker-091
+
+set: Worldbreaker

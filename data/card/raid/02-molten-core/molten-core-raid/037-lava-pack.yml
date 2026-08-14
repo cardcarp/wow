@@ -1,13 +1,13 @@
-oracle: lava-pack
-
-lex: '037'
-
-set: molten-core-raid
+index: '037'
 
 rarity: Uncommon
 
 artist: Trent Kaniuga
 
+variation: []
+
 flavor: '"The only thing worse than a ball of living flame is four of them." - Grumpherys'
 
-variation: []
+oracle: lava-pack-molten-core-raid-037
+
+set: Molten Core Raid

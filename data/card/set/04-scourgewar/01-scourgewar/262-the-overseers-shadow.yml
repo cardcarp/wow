@@ -1,13 +1,13 @@
-oracle: the-overseers-shadow
-
-lex: '262'
-
-set: scourgewar
+index: '262'
 
 rarity: Common
 
 artist: Massive Black
 
+variation: []
+
 flavor: "\"Even those dimwitted metal Dwarves will recognize an imposter with a stolen suit.\" - Scout Vor'takh"
 
-variation: []
+oracle: the-overseers-shadow-scourgewar-262
+
+set: Scourgewar

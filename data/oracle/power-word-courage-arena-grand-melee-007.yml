@@ -1,0 +1,24 @@
+name: 'Power Word: Courage'
+
+origin: arena-grand-melee-007
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+type: Arena
+
+rule:
+  - type: ability
+    text: 'Preparation Ongoing : Allies in your party have +1 health.'
+
+regulation:
+
+errata: []
+
+temp: ''

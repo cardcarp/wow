@@ -1,13 +1,14 @@
-oracle: lady-blaumeux
-
-lex: '015'
-
-set: naxxramas-raid
+index: '015'
 
 rarity: Rare
 
 artist: Matt Dixon
 
+variation:
+  - transform
+
 flavor:
 
-variation: []
+oracle: lady-blaumeux-naxxramas-raid-015
+
+set: Naxxramas Raid

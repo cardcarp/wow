@@ -1,14 +1,14 @@
-oracle: metamorphosis
-
-lex: '079'
-
-set: icecrown
+index: '079'
 
 rarity: Rare
 
 artist: Alex Horley Orlandelli
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: metamorphosis-icecrown-079
+
+set: Icecrown

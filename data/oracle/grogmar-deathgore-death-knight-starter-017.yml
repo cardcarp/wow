@@ -1,0 +1,27 @@
+name: Grogmar Deathgore
+
+origin: death-knight-starter-017
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Grogmar has Ferocity while you have a weapon.
+
+regulation:
+
+errata: []
+
+temp: Orc Death Knight

@@ -1,0 +1,27 @@
+name: Virgil, Timewalker Marshal
+
+origin: war-of-the-ancients-120
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector At the start of each opponent's turn, ready all Human allies you control.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

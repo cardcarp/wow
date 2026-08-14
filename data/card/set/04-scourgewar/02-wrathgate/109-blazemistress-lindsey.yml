@@ -1,13 +1,13 @@
-oracle: blazemistress-lindsey
-
-lex: '109'
-
-set: wrathgate
+index: '109'
 
 rarity: Common
 
 artist: Luca Zontini
 
+variation: []
+
 flavor: '"The dancing flames are quite mesmerizing, are they not?"'
 
-variation: []
+oracle: blazemistress-lindsey-wrathgate-109
+
+set: Wrathgate

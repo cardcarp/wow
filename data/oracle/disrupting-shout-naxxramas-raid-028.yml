@@ -1,0 +1,19 @@
+name: Disrupting Shout
+
+origin: naxxramas-raid-028
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+instant: Interrupt target card. If you do, remove it from the game.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Naxxramas

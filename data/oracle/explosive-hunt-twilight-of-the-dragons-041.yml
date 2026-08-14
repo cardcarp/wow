@@ -1,0 +1,22 @@
+name: Explosive Hunt
+
+origin: twilight-of-the-dragons-041
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+instant: Your hero deals 8 fire damage to target Demon, Dragonkin, or Elemental ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

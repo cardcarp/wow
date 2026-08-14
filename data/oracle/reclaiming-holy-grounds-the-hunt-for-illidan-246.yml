@@ -1,0 +1,17 @@
+name: Reclaiming Holy Grounds
+
+origin: the-hunt-for-illidan-246
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 1 to complete this quest. Reward : Put target quest card from your graveyard into hand.'
+
+regulation:
+
+errata: []
+
+temp: ''

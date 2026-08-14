@@ -1,0 +1,27 @@
+name: Goblin Sapper
+
+origin: betrayal-of-the-guardian-095
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 1
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally deals combat damage to a defending hero, you may destroy this ally. If you do, destroy target resource.
+
+regulation:
+
+errata: []
+
+temp: Goblin Demolitionist

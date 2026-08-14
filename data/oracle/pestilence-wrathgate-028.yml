@@ -1,0 +1,22 @@
+name: Pestilence
+
+origin: wrathgate-028
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, your hero deals 2 shadow damage to each exhausted opposing hero and ally.'
+
+regulation:
+
+errata: []
+
+temp: Blood

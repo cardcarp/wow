@@ -1,0 +1,27 @@
+name: Zaza'jun
+
+origin: crown-of-the-heavens-128
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 2
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally enters play, put two 1 / 1 Treant ally tokens into play. Token allies you control have Assault 1 .
+
+regulation:
+
+errata: []
+
+temp: Troll Druid

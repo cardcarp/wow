@@ -1,0 +1,25 @@
+name: Kavar the Bloodthirsty
+
+origin: twilight-of-the-dragons-005
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 4 → Flip Kavar face down.
+  - type: ability
+    position: reverse
+    text: At the start of your turn, you may exhaust target card.
+
+regulation:
+
+errata: []
+
+temp: Worgen Death Knight

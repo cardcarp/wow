@@ -1,13 +1,13 @@
-oracle: mana-tide-totem
-
-lex: '017'
-
-set: totem
+index: '017'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: mana-tide-totem-through-the-dark-portal-099
+
+set: Totem

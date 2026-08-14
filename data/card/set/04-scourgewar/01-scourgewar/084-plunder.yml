@@ -1,13 +1,13 @@
-oracle: plunder
-
-lex: '084'
-
-set: scourgewar
+index: '084'
 
 rarity: Rare
 
 artist: Andrea Uderzo
 
+variation: []
+
 flavor: "\"I don't see your name on it!\" - Rordag the Sly"
 
-variation: []
+oracle: plunder-scourgewar-084
+
+set: Scourgewar

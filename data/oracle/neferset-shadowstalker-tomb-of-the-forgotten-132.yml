@@ -1,0 +1,27 @@
+name: Neferset Shadowstalker
+
+origin: tomb-of-the-forgotten-132
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 3
+
+health: 6
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Sentinel When this ally attacks, another target hero or ally has +2 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Tol'vir Hunter Warlock

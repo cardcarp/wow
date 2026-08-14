@@ -1,0 +1,27 @@
+name: Bishop Ketodo
+
+origin: tomb-of-the-forgotten-077
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Mend 1
+
+regulation:
+
+errata: []
+
+temp: Human Priest

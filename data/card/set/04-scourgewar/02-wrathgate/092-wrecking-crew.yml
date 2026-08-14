@@ -1,13 +1,13 @@
-oracle: wrecking-crew
-
-lex: '092'
-
-set: wrathgate
+index: '092'
 
 rarity: Rare
 
 artist: Thomas Denmark
 
+variation: []
+
 flavor: '"When Icecrown Citadel lies in ruins at our feet, then all of Azeroth can breathe a sigh of relief." - Esonea'
 
-variation: []
+oracle: wrecking-crew-wrathgate-092
+
+set: Wrathgate

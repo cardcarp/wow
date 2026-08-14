@@ -1,13 +1,13 @@
-oracle: decrepit-fever
-
-lex: '026'
-
-set: naxxramas-raid
+index: '026'
 
 rarity: Uncommon
 
 artist: Matt Dixon
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: decrepit-fever-naxxramas-raid-026
+
+set: Naxxramas Raid

@@ -1,0 +1,25 @@
+name: Laenthor Shademoon
+
+origin: worldbreaker-148
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Arcane
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Night Elf Mage

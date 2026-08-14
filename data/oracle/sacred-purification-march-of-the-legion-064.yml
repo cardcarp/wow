@@ -1,0 +1,22 @@
+name: Sacred Purification
+
+origin: march-of-the-legion-064
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: Destroy target ability. If it was attached to a friendly hero or ally, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Holy

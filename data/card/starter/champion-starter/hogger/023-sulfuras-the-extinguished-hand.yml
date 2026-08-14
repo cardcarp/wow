@@ -1,13 +1,13 @@
-oracle: sulfuras-the-extinguished-hand
-
-lex: '023'
-
-set: hogger
+index: '023'
 
 rarity: Rare
 
 artist: James Ryman
 
+variation: []
+
 flavor: '"Be consumed by flame!" - Ragnaros'
 
-variation: []
+oracle: sulfuras-the-extinguished-hand-crown-of-the-heavens-190
+
+set: Hogger

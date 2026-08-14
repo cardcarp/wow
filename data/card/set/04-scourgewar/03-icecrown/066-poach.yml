@@ -1,13 +1,13 @@
-oracle: poach
-
-lex: '066'
-
-set: icecrown
+index: '066'
 
 rarity: Common
 
 artist: Dan Brereton
 
+variation: []
+
 flavor: '"Let me take that off your hands." - Jonas White'
 
-variation: []
+oracle: poach-icecrown-066
+
+set: Icecrown

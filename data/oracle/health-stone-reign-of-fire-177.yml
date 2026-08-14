@@ -1,0 +1,31 @@
+name: Health Stone
+
+origin: reign-of-fire-177
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: At the start of your turn, your hero heals 1 damage from itself. 1 , Destroy this item → Your hero heals 5 damage from itself.
+
+regulation:
+
+errata: []
+
+temp: Item

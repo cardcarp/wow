@@ -1,0 +1,19 @@
+name: Shazzrahs Arcane Explosion
+
+origin: molten-core-raid-029
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+instant: Your hero deals 1 arcane damage to each hero and ally in target opponent's party. If your hero is Shazzrah, draw three cards.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Molten Core

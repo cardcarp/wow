@@ -1,0 +1,25 @@
+name: Ruby Flameblade
+
+origin: worldbreaker-215
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 1
+
+combat: Fire
+
+rule:
+  - type: ability
+    text: Allies you control have Assault 1 .
+
+regulation:
+
+errata: []
+
+temp: Red Dragonkin

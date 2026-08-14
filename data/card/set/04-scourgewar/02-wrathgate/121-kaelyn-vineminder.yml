@@ -1,13 +1,13 @@
-oracle: kaelyn-vineminder
-
-lex: '121'
-
-set: wrathgate
+index: '121'
 
 rarity: Common
 
 artist: Alex Garner
 
+variation: []
+
 flavor: '"You shall be imprisoned by the very earth that you seek to destroy!"'
 
-variation: []
+oracle: kaelyn-vineminder-wrathgate-121
+
+set: Wrathgate

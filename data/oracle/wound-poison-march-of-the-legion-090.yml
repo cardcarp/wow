@@ -1,0 +1,22 @@
+name: Wound Poison
+
+origin: march-of-the-legion-090
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: "Attach to target hero or ally that was dealt combat damage by your hero this turn. Ongoing : Attached character can't be healed. At the start of your turn, your hero deals 1 nature damage to attached character."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Poison

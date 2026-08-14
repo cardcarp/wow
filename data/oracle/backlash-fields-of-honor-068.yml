@@ -1,0 +1,22 @@
+name: Backlash
+
+origin: fields-of-honor-068
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+instant: 'Destruction Hero Required Ongoing : → If an opposing hero or ally dealt damage to your hero this turn, draw a card.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Destruction Talent

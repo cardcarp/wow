@@ -1,0 +1,23 @@
+name: Belt of Deep Shadow
+
+origin: azeroth-crafting-010
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: Your hero has Stealth . If your hero would deal combat damage, it deals that much +2 instead.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

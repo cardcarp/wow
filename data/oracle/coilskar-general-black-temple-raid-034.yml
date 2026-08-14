@@ -1,0 +1,25 @@
+name: Coilskar General
+
+origin: black-temple-raid-034
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Traitor Hero Required When Coilskar General enters play, put three Naga ally tokens into play with 1 ATK / 1 health.
+
+regulation:
+
+errata: []
+
+temp: Naga Warrior Traitor

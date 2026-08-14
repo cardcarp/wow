@@ -1,13 +1,13 @@
-oracle: balance-of-power
-
-lex: '021'
-
-set: scarlet-monastery
+index: '021'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: balance-of-power-scarlet-monastery-021
+
+set: Scarlet Monastery

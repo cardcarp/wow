@@ -1,0 +1,27 @@
+name: Tiril Dawnrider
+
+origin: through-the-dark-portal-237
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity At the end of your turn, put Tiril Dawnrider into his owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

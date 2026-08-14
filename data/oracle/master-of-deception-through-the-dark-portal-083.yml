@@ -1,0 +1,22 @@
+name: Master of Deception
+
+origin: through-the-dark-portal-083
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Subtlety Hero Required Ongoing : Your hero has Stealth .'
+
+regulation:
+
+errata: []
+
+temp: Subtlety Talent

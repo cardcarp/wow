@@ -1,0 +1,22 @@
+name: Lesson of the Wild
+
+origin: wrathgate-033
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: You may exhaust a non-hero Druid you control rather than pay this ability's cost. Put target non-token ally into its owner's resource row face down, then exhaust it.
+
+regulation:
+
+errata: []
+
+temp: Balance

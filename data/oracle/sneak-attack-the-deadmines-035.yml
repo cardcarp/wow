@@ -1,0 +1,19 @@
+name: Sneak Attack
+
+origin: the-deadmines-035
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Dungeon allies have +2 ATK and Stealth this turn.
+
+regulation:
+
+errata: []
+
+temp: ''

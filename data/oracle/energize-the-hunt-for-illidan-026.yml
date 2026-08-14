@@ -1,0 +1,22 @@
+name: Energize
+
+origin: the-hunt-for-illidan-026
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+instant: Target player draws two cards.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

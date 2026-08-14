@@ -1,0 +1,17 @@
+name: A Donation of Silk
+
+origin: through-the-dark-portal-314
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 2 to complete this quest. Reward : Draw two cards, then discard two cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

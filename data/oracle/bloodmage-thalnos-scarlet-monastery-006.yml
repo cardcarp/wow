@@ -1,0 +1,25 @@
+name: Bloodmage Thalnos
+
+origin: scarlet-monastery-006
+
+layout: standard
+
+category: Ally
+
+damage: 2
+
+health: 12
+
+combat: Shadow
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: "Boss Flame Shock : When Thalnos attacks, he deals fire damage to the MARKED hero equal to the highest cost card in that hero's party. If this ally would be dealt holy ( ) damage, he is dealt double that amount instead."
+
+regulation:
+
+errata: []
+
+temp: Skeleton Mage

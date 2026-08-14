@@ -1,0 +1,19 @@
+name: Learn Your Place, Mortal!
+
+origin: onyxias-lair-raid-022
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+instant: Draw cards until you reach your maximum hand size.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

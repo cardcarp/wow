@@ -1,0 +1,27 @@
+name: Nea Sunmark
+
+origin: blood-of-gladiators-141
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity Arcane Torrent
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Priest

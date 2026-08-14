@@ -1,0 +1,22 @@
+name: Prayer of Mending
+
+origin: servants-of-the-betrayer-083
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+instant: "Attach to target friendly ally. Ongoing : At the start of your turn, your hero heals 3 damage from attached ally. When attached ally is destroyed, put Prayer of Mending from its owner's graveyard into play attached to target friendly ally."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

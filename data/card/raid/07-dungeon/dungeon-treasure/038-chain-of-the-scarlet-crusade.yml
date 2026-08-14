@@ -1,13 +1,13 @@
-oracle: chain-of-the-scarlet-crusade
-
-lex: '038'
-
-set: dungeon-treasure
+index: '038'
 
 rarity: Uncommon
 
 artist: Clint Langley
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: chain-of-the-scarlet-crusade-dungeon-treasure-038
+
+set: Dungeon Treasure

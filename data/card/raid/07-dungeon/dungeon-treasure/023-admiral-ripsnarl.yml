@@ -1,13 +1,13 @@
-oracle: admiral-ripsnarl
-
-lex: '023'
-
-set: dungeon-treasure
+index: '023'
 
 rarity: Rare
 
 artist: Brian Despain
 
+variation: []
+
 flavor: '"I will rip your heart from your chest!"'
 
-variation: []
+oracle: admiral-ripsnarl-the-deadmines-005
+
+set: Dungeon Treasure

@@ -1,13 +1,13 @@
-oracle: totem-of-wrath
-
-lex: '026'
-
-set: totem
+index: '026'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: totem-of-wrath-march-of-the-legion-101
+
+set: Totem

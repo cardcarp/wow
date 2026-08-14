@@ -1,0 +1,23 @@
+name: Scaled Breastplate of Carnage
+
+origin: drums-of-war-214
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: When an ally deals damage to another ally, destroy both of them.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

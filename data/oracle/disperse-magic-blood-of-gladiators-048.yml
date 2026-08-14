@@ -1,0 +1,22 @@
+name: Disperse Magic
+
+origin: blood-of-gladiators-048
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: 'Ongoing : Destroy Disperse Magic → Destroy target ability.'
+
+regulation:
+
+errata: []
+
+temp: Discipline

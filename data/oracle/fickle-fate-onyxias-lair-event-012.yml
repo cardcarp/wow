@@ -1,0 +1,19 @@
+name: Fickle Fate
+
+origin: onyxias-lair-event-012
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Play another event after this one. (Both go into your resource row.)
+
+regulation:
+
+errata: []
+
+temp: ''

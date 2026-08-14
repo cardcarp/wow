@@ -1,0 +1,27 @@
+name: Magistrix Maelnerana
+
+origin: fires-of-outland-172
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Arcane
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: You may destroy two of your resources rather than pay Magistrix Maelnerana's cost.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

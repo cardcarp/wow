@@ -1,0 +1,23 @@
+name: Onslaught Girdle
+
+origin: through-the-dark-portal-258
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: Exhaust one of your armor → Your weapons have +1 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

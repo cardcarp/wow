@@ -1,0 +1,28 @@
+name: Haaroon
+
+origin: march-of-the-legion-107
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 6
+
+health: 6
+
+combat: Melee
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Demonology Talent Protector
+
+regulation:
+
+errata: []
+
+temp: Felguard Demon

@@ -1,0 +1,17 @@
+name: Arathi Basin
+
+origin: fields-of-honor-203
+
+layout: standard
+
+category: Location
+
+rule:
+  - type: ability
+    text: When you play a card, add an honor counter. , Remove five honor counters → Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Battleground

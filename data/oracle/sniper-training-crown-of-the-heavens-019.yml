@@ -1,0 +1,22 @@
+name: Sniper Training
+
+origin: crown-of-the-heavens-019
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: "Survival Talent Attach to target hero. Ongoing : 1 → The next time attached hero would be dealt exactly 1 damage, it's dealt 5 damage instead."
+
+regulation:
+
+errata: []
+
+temp: Survival

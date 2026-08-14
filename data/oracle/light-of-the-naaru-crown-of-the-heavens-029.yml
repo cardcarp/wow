@@ -1,0 +1,22 @@
+name: Light of the Naaru
+
+origin: crown-of-the-heavens-029
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: Your hero heals all damage from target defending ally. Prevent the next 5 combat damage that would be dealt to that ally this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

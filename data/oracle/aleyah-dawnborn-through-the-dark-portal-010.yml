@@ -1,0 +1,22 @@
+name: Aleyah Dawnborn
+
+origin: through-the-dark-portal-010
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 4 , Flip Aleyah Dawnborn → When an ally in your party deals combat damage this turn, Aleyah heals that much damage from herself.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

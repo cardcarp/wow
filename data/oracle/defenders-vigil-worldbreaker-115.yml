@@ -1,0 +1,22 @@
+name: Defenders Vigil
+
+origin: worldbreaker-115
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: This turn, target hero or ally must attack if able, can attack only your hero if able, and has -3 ATK while attacking your hero.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

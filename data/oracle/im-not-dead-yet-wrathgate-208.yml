@@ -1,0 +1,17 @@
+name: I'm Not Dead Yet!
+
+origin: wrathgate-208
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'On your turn: Pay 3 to complete this quest. Reward : Put a Unique 1 / 1 Priest ally token named Father Kamaros into play with Mend 3 .'
+
+regulation:
+
+errata: []
+
+temp: ''

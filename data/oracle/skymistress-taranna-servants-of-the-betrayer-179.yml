@@ -1,0 +1,27 @@
+name: Skymistress Taranna
+
+origin: servants-of-the-betrayer-179
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Arcane
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When another ally enters your party, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

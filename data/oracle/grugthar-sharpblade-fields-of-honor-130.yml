@@ -1,0 +1,27 @@
+name: Grugthar Sharpblade
+
+origin: fields-of-honor-130
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 3
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: At the start of your turn, choose a hero or ally in your party. Other characters can't attack this turn.
+
+regulation:
+
+errata: []
+
+temp: Orc Rogue

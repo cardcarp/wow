@@ -1,13 +1,13 @@
-oracle: kozik-skullcracker
-
-lex: '136'
-
-set: icecrown
+index: '136'
 
 rarity: Common
 
 artist: Michael Kormarck
 
+variation: []
+
 flavor: '"Your training has failed - I have already found your weakness!"'
 
-variation: []
+oracle: kozik-skullcracker-icecrown-136
+
+set: Icecrown

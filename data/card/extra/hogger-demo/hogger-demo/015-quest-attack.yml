@@ -1,13 +1,13 @@
-oracle: quest-attack
-
-lex: '015'
-
-set: hogger-demo
+index: '015'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: quest-attack-hogger-demo-015
+
+set: Hogger Demo

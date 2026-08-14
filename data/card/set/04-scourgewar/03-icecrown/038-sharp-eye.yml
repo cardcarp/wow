@@ -1,13 +1,13 @@
-oracle: sharp-eye
-
-lex: '038'
-
-set: icecrown
+index: '038'
 
 rarity: Common
 
 artist: Nils Hamm
 
+variation: []
+
 flavor: '"Take a deep breath ... hold steady ... and trust your eye." - Ona Skyshot'
 
-variation: []
+oracle: sharp-eye-icecrown-038
+
+set: Icecrown

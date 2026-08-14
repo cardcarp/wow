@@ -1,0 +1,19 @@
+name: Toss About
+
+origin: magtheridons-lair-raid-028
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+instant: Play only if one or more Bloods are in play. Each raiding player rolls a die. If one or more players roll odd, Magtheridon deals 1 melee damage to each of those players' heroes, and then all raiding players roll again.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

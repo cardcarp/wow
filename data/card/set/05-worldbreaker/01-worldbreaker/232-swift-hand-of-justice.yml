@@ -1,13 +1,13 @@
-oracle: swift-hand-of-justice
-
-lex: '232'
-
-set: worldbreaker
+index: '232'
 
 rarity: Uncommon
 
 artist: Ralph Horsley
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: swift-hand-of-justice-worldbreaker-232
+
+set: Worldbreaker

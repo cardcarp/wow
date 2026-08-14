@@ -1,0 +1,25 @@
+name: Warsong Deadblade
+
+origin: reign-of-fire-118
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 5
+
+health: 2
+
+combat: Shadow
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Orc Death Knight

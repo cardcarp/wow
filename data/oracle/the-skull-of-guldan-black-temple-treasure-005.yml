@@ -1,0 +1,27 @@
+name: The Skull of Gul'dan
+
+origin: black-temple-treasure-005
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: → You pay 2 less the next time you pay a cost with x in it this turn.
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

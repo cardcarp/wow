@@ -1,0 +1,22 @@
+name: Desperate Condemnation
+
+origin: icecrown-053
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+instant: If your hero has 15 or more damage, it deals 5 unpreventable holy damage to target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

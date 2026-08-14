@@ -1,0 +1,19 @@
+name: Southshore
+
+origin: drums-of-war-258
+
+layout: standard
+
+category: Location
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'On your turn: 1 , → When target ally in your party next deals damage to an ally with lower cost this turn, draw a card.'
+
+regulation:
+
+errata: []
+
+temp: City

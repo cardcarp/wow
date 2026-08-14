@@ -1,13 +1,13 @@
-oracle: verzuk-bloodfist
-
-lex: '196'
-
-set: scourgewar
+index: '196'
 
 rarity: Common
 
 artist: Matt Dixon
 
+variation: []
+
 flavor: "\"Don't call me for anything less than a massacre.\""
 
-variation: []
+oracle: verzuk-bloodfist-scourgewar-196
+
+set: Scourgewar

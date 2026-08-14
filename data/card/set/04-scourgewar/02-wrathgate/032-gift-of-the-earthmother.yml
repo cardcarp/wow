@@ -1,13 +1,13 @@
-oracle: gift-of-the-earthmother
-
-lex: '032'
-
-set: wrathgate
+index: '032'
 
 rarity: Rare
 
 artist: Efrem Palacios
 
+variation: []
+
 flavor: '"I would not advise you to test the limits of the Earthmother." - Harona Proudmane'
 
-variation: []
+oracle: gift-of-the-earthmother-wrathgate-032
+
+set: Wrathgate

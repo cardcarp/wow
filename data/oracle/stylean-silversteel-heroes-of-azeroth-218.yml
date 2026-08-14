@@ -1,0 +1,27 @@
+name: Stylean Silversteel
+
+origin: heroes-of-azeroth-218
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 5
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When Stylean Silversteel enters play, she heals 3 damage from each hero and ally in your party.
+
+regulation:
+
+errata: []
+
+temp: Human Priest

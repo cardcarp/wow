@@ -1,0 +1,31 @@
+name: Ring of Protection
+
+origin: reign-of-fire-179
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 1 , {exhaust} → Target ally has Protector this turn.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

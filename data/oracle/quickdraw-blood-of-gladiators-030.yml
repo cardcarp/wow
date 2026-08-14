@@ -1,0 +1,22 @@
+name: Quickdraw
+
+origin: blood-of-gladiators-030
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: Your hero deals 2 ranged damage to target ally, or 6 if that ally entered play this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

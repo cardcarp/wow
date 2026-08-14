@@ -1,0 +1,23 @@
+name: Vambraces of the Sadist
+
+origin: through-the-dark-portal-261
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: When an ally is destroyed, your hero deals melee damage equal to that ally's cost to target hero in that ally's party.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

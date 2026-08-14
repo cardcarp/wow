@@ -1,0 +1,22 @@
+name: Counterspell
+
+origin: heroes-of-azeroth-051
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+instant: Interrupt target ability.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

@@ -1,0 +1,23 @@
+name: Kings Defender
+
+origin: blood-of-gladiators-179
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: Your hero is a Protector .
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

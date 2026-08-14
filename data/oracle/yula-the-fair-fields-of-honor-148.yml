@@ -1,0 +1,27 @@
+name: Yula the Fair
+
+origin: fields-of-honor-148
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 2
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Pay 2 or remove an honor counter from a card you control → Prevent the next 1 damage that Yula would be dealt this turn.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

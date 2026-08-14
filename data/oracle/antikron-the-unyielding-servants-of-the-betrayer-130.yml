@@ -1,0 +1,27 @@
+name: Antikron the Unyielding
+
+origin: servants-of-the-betrayer-130
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Put 2 damage on your hero → Prevent all combat damage that would be dealt to Antikron this combat. Use only if he's defending.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

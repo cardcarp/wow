@@ -1,13 +1,13 @@
-oracle: monstrous-cleave
-
-lex: '006'
-
-set: hogger
+index: '006'
 
 rarity: Uncommon
 
 artist: Gabor Szikszai
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: monstrous-cleave-throne-of-the-tides-086
+
+set: Hogger

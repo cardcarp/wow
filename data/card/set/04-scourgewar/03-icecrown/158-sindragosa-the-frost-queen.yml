@@ -1,13 +1,13 @@
-oracle: sindragosa-the-frost-queen
-
-lex: '158'
-
-set: icecrown
+index: '158'
 
 rarity: Epic
 
 artist: Graven Tung
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: sindragosa-the-frost-queen-blizzard-employee-promotional-2009-001
+
+set: Icecrown

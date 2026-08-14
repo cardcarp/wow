@@ -1,13 +1,13 @@
-oracle: robe-of-the-waking-nightmare
-
-lex: '224'
-
-set: worldbreaker
+index: '224'
 
 rarity: Uncommon
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: '"Ysera grants me the favor to lay these foul creatures to rest!" - Valithria Dreamwalker'
 
-variation: []
+oracle: robe-of-the-waking-nightmare-worldbreaker-224
+
+set: Worldbreaker

@@ -1,0 +1,22 @@
+name: Guarded by the Light
+
+origin: fires-of-outland-049
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: Prevent the next 3 damage that would be dealt to target ally this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

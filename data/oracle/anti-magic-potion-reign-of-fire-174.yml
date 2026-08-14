@@ -1,0 +1,31 @@
+name: Anti-magic Potion
+
+origin: reign-of-fire-174
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+instant: 2 , Destroy this item → Prevent all magical damage that would be dealt to target hero or ally this turn. (Arcane ( ), Fire ( ), Frost ( ), Holy ( ), Nature ( ), and Shadow ( ) are the magical damage types)
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Item Potion

@@ -1,0 +1,22 @@
+name: Seal of Light
+
+origin: heroes-of-azeroth-073
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Ongoing : When your hero deals combat damage with a weapon, it heals 2 damage from itself. 1 , Destroy Seal of Light → Your hero heals 4 damage from itself.'
+
+regulation:
+
+errata: []
+
+temp: Holy

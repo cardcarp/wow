@@ -1,0 +1,22 @@
+name: Salt the Wounds
+
+origin: march-of-the-legion-121
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: Your hero deals 1 melee damage to each opposing hero and ally with damage. Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Fury

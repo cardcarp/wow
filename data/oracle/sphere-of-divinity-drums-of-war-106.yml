@@ -1,0 +1,23 @@
+name: Sphere of Divinity
+
+origin: drums-of-war-106
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+  - Priest
+
+instant: 'Attach to target ally. Ongoing : Prevent all damage that attached ally would be dealt. At the start of the turn, destroy Sphere of Divinity.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Discipline

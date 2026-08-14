@@ -1,0 +1,25 @@
+name: Amah the Suns Grace
+
+origin: twilight-of-the-dragons-011
+
+layout: transform
+
+category: Hero
+
+health: 30
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 4 → Flip Amah face down.
+  - type: ability
+    position: reverse
+    text: At the start of your turn, Amah may heal 1 damage from herself and 1 damage from target ally.
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

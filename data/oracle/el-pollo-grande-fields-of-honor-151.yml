@@ -1,0 +1,25 @@
+name: El Pollo Grande
+
+origin: fields-of-honor-151
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: When El Pollo Grande deals combat damage, you may put a Chicken ally token into play with 0 ATK / 1 health.
+
+regulation:
+
+errata: []
+
+temp: Chicken

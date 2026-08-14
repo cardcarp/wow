@@ -1,0 +1,22 @@
+name: Earth and Sky
+
+origin: march-of-the-legion-022
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: 'Choose one: Your hero deals 4 nature damage to target hero or ally; or your hero deals 2 arcane damage to target hero or ally and you draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Balance

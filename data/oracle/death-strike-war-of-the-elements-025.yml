@@ -1,0 +1,22 @@
+name: Death Strike
+
+origin: war-of-the-elements-025
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Death Knight
+
+instant: Your hero deals 2 melee damage to target ally, plus an additional 2 if you control a weapon, plus an additional 2 if you control a disease. Then, your hero heals 1 damage from itself for each damage dealt this way.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Blood

@@ -1,0 +1,22 @@
+name: Nuvon Dawnfury
+
+origin: wrathgate-017
+
+layout: transform
+
+category: Hero
+
+health: 25
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: Flip Nuvon, discard a Mage → When you draw a card this turn, Nuvon may deal 1 arcane damage to target ally.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

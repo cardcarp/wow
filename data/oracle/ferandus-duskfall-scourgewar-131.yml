@@ -1,0 +1,27 @@
+name: Ferandus Duskfall
+
+origin: scourgewar-131
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When this ally defends, you may ready target weapon.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Death Knight

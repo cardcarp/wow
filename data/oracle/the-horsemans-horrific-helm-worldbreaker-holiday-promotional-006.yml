@@ -1,0 +1,24 @@
+name: The Horsemans Horrific Helm
+
+origin: worldbreaker-holiday-promotional-006
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: If this armor would prevent damage, you may laugh a scary laugh. If you do, this armor prevents all damage instead.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

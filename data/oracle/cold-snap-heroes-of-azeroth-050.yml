@@ -1,0 +1,22 @@
+name: Cold Snap
+
+origin: heroes-of-azeroth-050
+
+layout: standard
+
+category: Ability
+
+cost: 2+X
+
+class:
+  - Mage
+
+instant: Frost Hero Required Remove Cold Snap from the game. Put up to X Frost ability cards with different names from your graveyard into your hand.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost Talent

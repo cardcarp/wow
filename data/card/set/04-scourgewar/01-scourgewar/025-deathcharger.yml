@@ -1,13 +1,13 @@
-oracle: deathcharger
-
-lex: '025'
-
-set: scourgewar
+index: '025'
 
 rarity: Rare
 
 artist: Matt Cavotta
 
+variation: []
+
 flavor: (Mounts can't attack or be attacked.)
 
-variation: []
+oracle: deathcharger-scourgewar-025
+
+set: Scourgewar

@@ -1,0 +1,27 @@
+name: Bernard, Zealot of the Light
+
+origin: drums-of-war-starter-001
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 1 , Destroy Bernard → Destroy target attacking ally.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

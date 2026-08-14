@@ -1,14 +1,14 @@
-oracle: sarina-the-immaculate
-
-lex: '009'
-
-set: wrathgate
+index: '009'
 
 rarity: Uncommon
 
 artist: Zoltan Boros & Gabor Szikszai
 
-flavor: '"The armies of the Lich King destroyed my home and took my family. I have been blessed by the Light, and I will see justice brought to the Scourge, one way or another."'
-
 variation:
   - transform
+
+flavor: '"The armies of the Lich King destroyed my home and took my family. I have been blessed by the Light, and I will see justice brought to the Scourge, one way or another."'
+
+oracle: sarina-the-immaculate-wrathgate-009
+
+set: Wrathgate

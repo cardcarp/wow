@@ -1,0 +1,22 @@
+name: Umbrage
+
+origin: drums-of-war-008
+
+layout: transform
+
+category: Hero
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 1 , Flip Umbrage → Remove target attacker from combat.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Rogue

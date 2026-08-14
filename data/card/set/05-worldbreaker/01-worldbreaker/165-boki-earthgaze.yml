@@ -1,13 +1,13 @@
-oracle: boki-earthgaze
-
-lex: '165'
-
-set: worldbreaker
+index: '165'
 
 rarity: Common
 
 artist: Mike Sass
 
+variation: []
+
 flavor: '"Garrosh may be Warchief, but Thrall has done more than enough to earn my loyalty."'
 
-variation: []
+oracle: boki-earthgaze-worldbreaker-165
+
+set: Worldbreaker

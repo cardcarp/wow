@@ -1,13 +1,13 @@
-oracle: dorladris-spellfire
-
-lex: '169'
-
-set: worldbreaker
+index: '169'
 
 rarity: Common
 
 artist: Daarken
 
+variation: []
+
 flavor: "\"I have much knowledge to pass on, if you'll give me the chance.\""
 
-variation: []
+oracle: dorladris-spellfire-worldbreaker-169
+
+set: Worldbreaker

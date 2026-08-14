@@ -1,0 +1,17 @@
+name: Scouring the Desert
+
+origin: drums-of-war-252
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 4 to complete this quest. Reward : Draw a card. You may shuffle your graveyard into your deck.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,13 +1,13 @@
-oracle: orkahn-of-orgrimmar
-
-lex: '186'
-
-set: worldbreaker
+index: '186'
 
 rarity: Uncommon
 
 artist: Adrian Smith
 
+variation: []
+
 flavor: "\"If it's still sharp, it ain't broke.\""
 
-variation: []
+oracle: orkahn-of-orgrimmar-worldbreaker-186
+
+set: Worldbreaker

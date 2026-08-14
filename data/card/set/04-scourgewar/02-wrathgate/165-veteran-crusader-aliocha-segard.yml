@@ -1,13 +1,13 @@
-oracle: veteran-crusader-aliocha-segard
-
-lex: '165'
-
-set: wrathgate
+index: '165'
 
 rarity: Common
 
 artist: Adam Byrne
 
+variation: []
+
 flavor: '"Wear the tabard of the Argent Crusade with pride and honor!"'
 
-variation: []
+oracle: veteran-crusader-aliocha-segard-wrathgate-165
+
+set: Wrathgate

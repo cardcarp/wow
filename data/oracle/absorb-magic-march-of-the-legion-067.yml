@@ -1,0 +1,22 @@
+name: Absorb Magic
+
+origin: march-of-the-legion-067
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: Destroy target ability. If you do, your hero heals damage from itself equal to that ability's cost.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Discipline

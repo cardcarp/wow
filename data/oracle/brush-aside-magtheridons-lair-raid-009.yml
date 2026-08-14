@@ -1,0 +1,19 @@
+name: Brush Aside
+
+origin: magtheridons-lair-raid-009
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+instant: Interrupt target ability, ally, or equipment card. Magtheridon deals 1 melee damage to its controller's hero for each Blood in play.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

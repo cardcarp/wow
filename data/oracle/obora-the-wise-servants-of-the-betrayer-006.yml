@@ -1,0 +1,22 @@
+name: Obora the Wise
+
+origin: servants-of-the-betrayer-006
+
+layout: transform
+
+category: Hero
+
+health: 25
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 4 , Flip Obora → When you play an ability this turn, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Draenei Mage

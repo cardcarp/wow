@@ -1,0 +1,25 @@
+name: Ring of the Recalcitrant
+
+origin: magtheridons-lair-treasure-015
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+  - Warrior
+  - Hunter
+  - Rogue
+
+rule:
+  - type: ability
+    text: Friendly heroes have +1 ATK while attacking.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

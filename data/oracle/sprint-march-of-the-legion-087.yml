@@ -1,0 +1,22 @@
+name: Sprint
+
+origin: march-of-the-legion-087
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Rogue
+
+instant: 'Ongoing : → Choose one: Ready your hero; or if your hero is defending, remove all attacking allies from combat.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Combat

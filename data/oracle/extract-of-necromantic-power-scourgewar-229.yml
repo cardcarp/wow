@@ -1,0 +1,23 @@
+name: Extract of Necromantic Power
+
+origin: scourgewar-229
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Death Knight
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'As each turn starts, Hero : Prevent the next 3 melee ( ) damage that would be dealt to your hero this turn. Hero : Prevent the next 3 non-melee damage that would be dealt to your hero this turn.'
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

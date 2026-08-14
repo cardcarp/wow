@@ -1,0 +1,31 @@
+name: Blessing of the Old God
+
+origin: throne-of-the-tides-228
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: When this item enters play, draw a card. , Name a class and destroy this item → Target ally you control has that class and loses all other classes this turn.
+
+regulation:
+
+errata: []
+
+temp: Item

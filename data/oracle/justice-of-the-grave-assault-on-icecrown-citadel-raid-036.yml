@@ -1,0 +1,19 @@
+name: Justice of the Grave
+
+origin: assault-on-icecrown-citadel-raid-036
+
+layout: standard
+
+category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: 'Pay 2 to initiate this event. Event : Each opponent puts the top five cards of his deck into his graveyard. Draw two cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

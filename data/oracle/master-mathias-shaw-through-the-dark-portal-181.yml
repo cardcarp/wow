@@ -1,0 +1,27 @@
+name: Master Mathias Shaw
+
+origin: through-the-dark-portal-181
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 6
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Stealth When an ally in your party deals combat damage to a defending hero, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Human Rogue

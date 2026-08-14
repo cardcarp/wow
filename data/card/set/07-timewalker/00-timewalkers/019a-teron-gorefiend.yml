@@ -1,14 +1,14 @@
-oracle: teron-gorefiend
-
-lex: 019a
-
-set: timewalkers
+index: 019a
 
 rarity: Rare
 
 artist: Unknown
 
-flavor: ''
-
 variation:
   - transform
+
+flavor: ''
+
+oracle: teron-gorefiend-black-temple-raid-004
+
+set: Timewalkers

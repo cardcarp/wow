@@ -1,0 +1,22 @@
+name: Finishing Shout
+
+origin: the-hunt-for-illidan-107
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Warrior
+
+instant: 'Ongoing : Allies in your party have +1 ATK / +1 health. Opposing allies have -1 ATK / -1 health.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury Shout

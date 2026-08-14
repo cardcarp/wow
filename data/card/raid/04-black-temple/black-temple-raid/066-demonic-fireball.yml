@@ -1,13 +1,13 @@
-oracle: demonic-fireball
-
-lex: '066'
-
-set: black-temple-raid
+index: '066'
 
 rarity: Uncommon
 
 artist: Tom Baxa
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: demonic-fireball-black-temple-raid-066
+
+set: Black Temple Raid

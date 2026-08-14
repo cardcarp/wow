@@ -1,0 +1,22 @@
+name: Helplessness
+
+origin: battle-of-the-aspects-treasure-021
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: You may discard a ability instead of paying this ability's cost. Look at target player's hand and choose a card. That player discards that card.
+
+regulation:
+
+errata: []
+
+temp: Subtlety

@@ -1,0 +1,22 @@
+name: Master Marksman
+
+origin: twilight-of-the-dragons-044
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'Marksmanship Talent Ongoing : Your hero has Ranged Dual Wield . Ranged weapons you control have +1 ATK, and you pay 1 less to strike with them.'
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

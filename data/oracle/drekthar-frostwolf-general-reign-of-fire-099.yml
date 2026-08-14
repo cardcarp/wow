@@ -1,0 +1,27 @@
+name: Drek'Thar, Frostwolf General
+
+origin: reign-of-fire-099
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 6
+
+health: 7
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'Bloodrush : At the start of your turn, if an opposing hero has more damage on it than your hero, put X 1 / 1 Wolf Beast Monster ally tokens into play with Ferocity , where X is the difference in damage between your hero and the opposing hero with the most damage.'
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

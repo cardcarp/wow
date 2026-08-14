@@ -1,0 +1,25 @@
+name: Renewal of Life
+
+origin: scourgewar-badges-of-justice-002
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: At the start of your turn, you may destroy this item. If you do, each player puts all allies from his graveyard into play.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

@@ -1,0 +1,22 @@
+name: Hammer of Retribution
+
+origin: twilight-of-the-dragons-058
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: Exhaust up to three target heroes and/or allies.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution

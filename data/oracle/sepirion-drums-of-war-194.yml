@@ -1,0 +1,27 @@
+name: Sepirion
+
+origin: drums-of-war-194
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Berserking When Sepirion attacks for the first time each turn, you may pay 1 . If you do, ready him.
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

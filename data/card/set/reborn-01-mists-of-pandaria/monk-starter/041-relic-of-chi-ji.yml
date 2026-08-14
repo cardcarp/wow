@@ -1,13 +1,13 @@
-oracle: relic-of-chi-ji
-
-lex: '041'
-
-set: monk-starter
+index: '041'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: relic-of-chi-ji-monk-starter-041
+
+set: Monk Starter

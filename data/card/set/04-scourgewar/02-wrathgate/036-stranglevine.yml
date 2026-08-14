@@ -1,13 +1,13 @@
-oracle: stranglevine
-
-lex: '036'
-
-set: wrathgate
+index: '036'
 
 rarity: Uncommon
 
 artist: Brian Despain
 
+variation: []
+
 flavor: '"I wish it was tanglevine." - Gyro of the Ring'
 
-variation: []
+oracle: stranglevine-wrathgate-036
+
+set: Wrathgate

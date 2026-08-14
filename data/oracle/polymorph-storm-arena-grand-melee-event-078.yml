@@ -1,0 +1,17 @@
+name: Polymorph Storm
+
+origin: arena-grand-melee-event-078
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: "Ongoing : All heroes are Sheep. (They can't attack or protect, and they lose and can't have powers.)"
+
+regulation:
+
+errata: []
+
+temp: ''

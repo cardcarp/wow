@@ -1,13 +1,13 @@
-oracle: lord-darion-mograine
-
-lex: '211'
-
-set: scourgewar
+index: '211'
 
 rarity: Epic
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: '"Although our kind have no place in your world, we will fight to bring an end to the Lich King. This I vow."'
 
-variation: []
+oracle: lord-darion-mograine-scourgewar-211
+
+set: Scourgewar

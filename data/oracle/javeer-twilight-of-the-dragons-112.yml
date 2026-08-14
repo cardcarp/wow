@@ -1,0 +1,27 @@
+name: Javeer
+
+origin: twilight-of-the-dragons-112
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When this ally protects for the first time each turn, ready him.
+
+regulation:
+
+errata: []
+
+temp: Draenei Death Knight

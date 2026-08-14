@@ -1,0 +1,27 @@
+name: Jaina, Apprentice of Antonidas
+
+origin: reign-of-fire-083
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: At the start of your turn, put a 2 / 1 Water Elemental ally token into play. While you control a Daelin ally, opponents pay 1 more to play cards.
+
+regulation:
+
+errata: []
+
+temp: Human Mage

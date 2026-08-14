@@ -1,0 +1,27 @@
+name: Vanora Moonshot
+
+origin: icecrown-119
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 3
+
+health: 6
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: At the start of your turn, target ally has Assault 3 this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

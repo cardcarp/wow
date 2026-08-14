@@ -1,0 +1,22 @@
+name: Gaxtro, Bilgewater Marksman
+
+origin: throne-of-the-tides-013
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'If Gaxtro is defending: 2 , Flip Gaxtro → Remove target attacker from combat, and Gaxtro deals 1 ranged damage to it.'
+
+regulation:
+
+errata: []
+
+temp: Goblin Hunter

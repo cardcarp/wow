@@ -1,0 +1,25 @@
+name: Scarlet Torturer
+
+origin: scarlet-monastery-020
+
+layout: standard
+
+category: Ally
+
+damage: 4
+
+health: 2
+
+combat: Melee
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Stealth When this ally enters play, he deals 2 melee damage to each exhausted Raiding ally.
+
+regulation:
+
+errata: []
+
+temp: Human Torturer

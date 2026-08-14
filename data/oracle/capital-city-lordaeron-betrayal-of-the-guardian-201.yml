@@ -1,0 +1,19 @@
+name: Capital City, Lordaeron
+
+origin: betrayal-of-the-guardian-201
+
+layout: standard
+
+category: Location
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Unity : While you control three or more Human allies: 1 , → Put a 1 / 1 Human Warrior ally token into play with Protector .'
+
+regulation:
+
+errata: []
+
+temp: ''

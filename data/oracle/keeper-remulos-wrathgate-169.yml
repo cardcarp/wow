@@ -1,0 +1,25 @@
+name: Keeper Remulos
+
+origin: wrathgate-169
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 6
+
+combat: Nature
+
+rule:
+  - type: ability
+    text: When a Druid you control deals combat damage to a hero, put two 1 / 1 Treant ally tokens into play.
+
+regulation:
+
+errata: []
+
+temp: Keeper of the Grove Druid

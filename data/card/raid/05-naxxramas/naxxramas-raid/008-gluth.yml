@@ -1,14 +1,14 @@
-oracle: gluth
-
-lex: '008'
-
-set: naxxramas-raid
+index: '008'
 
 rarity: Rare
 
 artist: Dave Kendall
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: gluth-naxxramas-raid-008
+
+set: Naxxramas Raid

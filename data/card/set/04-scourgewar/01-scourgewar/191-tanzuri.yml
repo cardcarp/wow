@@ -1,13 +1,13 @@
-oracle: tanzuri
-
-lex: '191'
-
-set: scourgewar
+index: '191'
 
 rarity: Common
 
 artist: Phill Gonzales
 
+variation: []
+
 flavor: "\"Finally! I been waitin' for a challenge all day, mon.\""
 
-variation: []
+oracle: tanzuri-scourgewar-191
+
+set: Scourgewar

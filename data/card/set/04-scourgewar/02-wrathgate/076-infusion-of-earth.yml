@@ -1,13 +1,13 @@
-oracle: infusion-of-earth
-
-lex: '076'
-
-set: wrathgate
+index: '076'
 
 rarity: Common
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: '"The earth need only grant you a fraction of its strength for you to see overwhelming results." - Ringleader Kuma'
 
-variation: []
+oracle: infusion-of-earth-wrathgate-076
+
+set: Wrathgate

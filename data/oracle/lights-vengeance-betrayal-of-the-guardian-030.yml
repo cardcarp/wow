@@ -1,0 +1,22 @@
+name: Lights Vengeance
+
+origin: betrayal-of-the-guardian-030
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: This turn, target ally has +3 ATK, and damage it would deal is unpreventable.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution

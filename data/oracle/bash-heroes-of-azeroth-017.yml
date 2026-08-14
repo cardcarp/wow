@@ -1,0 +1,22 @@
+name: Bash
+
+origin: heroes-of-azeroth-017
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: 'Exhaust target hero or ally. Ongoing : Your hero is in Bear Form .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

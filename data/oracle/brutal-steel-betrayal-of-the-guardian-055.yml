@@ -1,0 +1,22 @@
+name: Brutal Steel
+
+origin: betrayal-of-the-guardian-055
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Attach to target weapon. Ongoing : Attached weapon has +10 ATK.'
+
+regulation:
+
+errata: []
+
+temp: Arms Attachment

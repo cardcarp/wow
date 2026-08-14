@@ -1,0 +1,27 @@
+name: Force Commander Danath Trollbane
+
+origin: march-of-the-legion-147
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 6
+
+health: 7
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When Danath enters play, destroy target ally.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

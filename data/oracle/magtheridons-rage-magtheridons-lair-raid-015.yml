@@ -1,0 +1,19 @@
+name: Magtheridons Rage
+
+origin: magtheridons-lair-raid-015
+
+layout: standard
+
+category: Ability
+
+cost: X
+
+rule:
+  - type: ability
+    text: Target an ally. You may target an additional ally for each Blood in play. Magtheridon deals X melee damage to each of those allies.
+
+regulation:
+
+errata: []
+
+temp: ''

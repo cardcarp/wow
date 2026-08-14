@@ -1,0 +1,27 @@
+name: Caera Sunforge
+
+origin: war-of-the-elements-132
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 6
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

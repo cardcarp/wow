@@ -1,13 +1,13 @@
-oracle: lightning-whelk-axe
-
-lex: '023'
-
-set: sylvanas
+index: '023'
 
 rarity: Common
 
 artist: Nathan Bowden
 
+variation: []
+
 flavor: '"Each strike unleashes a torrent!" - Samaku, Hand of the Tempest'
 
-variation: []
+oracle: lightning-whelk-axe-throne-of-the-tides-250
+
+set: Sylvanas

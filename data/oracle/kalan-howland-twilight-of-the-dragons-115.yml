@@ -1,0 +1,27 @@
+name: Kalan Howland
+
+origin: twilight-of-the-dragons-115
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally is destroyed, target player discards a card.
+
+regulation:
+
+errata: []
+
+temp: Worgen Rogue

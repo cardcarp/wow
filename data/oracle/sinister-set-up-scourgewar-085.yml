@@ -1,0 +1,22 @@
+name: Sinister Set-up
+
+origin: scourgewar-085
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+instant: Exhaust up to two target heroes and/or allies. Each of them can't ready during its controller's next ready step.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Combat Combo

@@ -1,13 +1,13 @@
-oracle: dark-command
-
-lex: '024'
-
-set: wrathgate
+index: '024'
 
 rarity: Common
 
 artist: Zhang Lu (Massive Black)
 
+variation: []
+
 flavor: '"The power of death compels you." - Randolphe Mortimer'
 
-variation: []
+oracle: dark-command-wrathgate-024
+
+set: Wrathgate

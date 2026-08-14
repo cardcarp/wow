@@ -1,0 +1,22 @@
+name: Burgle
+
+origin: fields-of-honor-054
+
+layout: standard
+
+category: Ability
+
+cost: '7'
+
+class:
+  - Rogue
+
+instant: Target any number of opposing abilities, allies, and equipment. You control them until the end of your turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Subtlety Combo

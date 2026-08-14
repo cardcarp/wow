@@ -1,13 +1,13 @@
-oracle: king-genn-greymane
-
-lex: '145'
-
-set: worldbreaker
+index: '145'
 
 rarity: Epic
 
 artist: Wayne Reynolds
 
+variation: []
+
 flavor: '"Gilneas is its own nation, and it always will be."'
 
-variation: []
+oracle: king-genn-greymane-worldbreaker-145
+
+set: Worldbreaker

@@ -1,13 +1,13 @@
-oracle: reawakening
-
-lex: '039'
-
-set: worldbreaker
+index: '039'
 
 rarity: Rare
 
 artist: Mike Sass
 
+variation: []
+
 flavor: '"The children of summer are reborn in my wake." - Arturius Hathrow'
 
-variation: []
+oracle: reawakening-worldbreaker-039
+
+set: Worldbreaker

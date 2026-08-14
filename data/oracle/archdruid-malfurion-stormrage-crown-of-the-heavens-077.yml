@@ -1,0 +1,27 @@
+name: Archdruid Malfurion Stormrage
+
+origin: crown-of-the-heavens-077
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 8
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: At the start of your turn, you may draw a card. You can place an additional resource on each of your turns.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

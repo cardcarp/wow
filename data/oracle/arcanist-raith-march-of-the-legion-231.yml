@@ -1,0 +1,25 @@
+name: Arcanist Raith
+
+origin: march-of-the-legion-231
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 4
+
+combat: Fire
+
+rule:
+  - type: ability
+    text: Scryer Reputation Opponents play with the top card of their decks revealed.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

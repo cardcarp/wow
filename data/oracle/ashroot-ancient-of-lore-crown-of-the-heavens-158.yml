@@ -1,0 +1,27 @@
+name: Ashroot, Ancient of Lore
+
+origin: crown-of-the-heavens-158
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 2
+
+health: 9
+
+combat: Nature
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Protector When this ally is dealt combat damage while defending, put a 1 / 1 Treant ally token into play.
+
+regulation:
+
+errata: []
+
+temp: Ancient Druid

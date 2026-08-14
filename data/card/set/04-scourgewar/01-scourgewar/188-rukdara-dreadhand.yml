@@ -1,13 +1,13 @@
-oracle: rukdara-dreadhand
-
-lex: '188'
-
-set: scourgewar
+index: '188'
 
 rarity: Common
 
 artist: Phill Gonzales
 
+variation: []
+
 flavor: '"I sense weakness in your soul, and I mean to exploit it."'
 
-variation: []
+oracle: rukdara-dreadhand-scourgewar-188
+
+set: Scourgewar

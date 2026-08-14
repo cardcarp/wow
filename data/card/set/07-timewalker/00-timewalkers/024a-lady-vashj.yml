@@ -1,13 +1,14 @@
-oracle: lady-vashj
-
-lex: 024a
-
-set: timewalkers
+index: 024a
 
 rarity: Rare
 
 artist: Unknown
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: lady-vashj-servants-of-the-betrayer-210
+
+set: Timewalkers

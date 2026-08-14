@@ -1,0 +1,22 @@
+name: Blackfang Battleweave Tunic
+
+origin: battle-of-the-aspects-treasure-060
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: When an opponent discards a card, your hero deals 2 nature damage to his hero.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

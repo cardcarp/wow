@@ -1,0 +1,22 @@
+name: Twisted Massacre
+
+origin: twilight-of-the-dragons-076
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: As an additional cost to play this ability, destroy an ability, ally, or equipment you control. Destroy all exhausted opposing allies.
+
+regulation:
+
+errata: []
+
+temp: Assassination

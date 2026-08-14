@@ -1,13 +1,13 @@
-oracle: withering-decay
-
-lex: '032'
-
-set: worldbreaker
+index: '032'
 
 rarity: Uncommon
 
 artist: Danny Beck
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: withering-decay-worldbreaker-032
+
+set: Worldbreaker

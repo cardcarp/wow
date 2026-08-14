@@ -1,13 +1,13 @@
-oracle: unstoppable-abomination
-
-lex: '015'
-
-set: naxxramas-token
+index: '015'
 
 rarity: Common
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: unstoppable-abomination-naxxramas-token-015
+
+set: Naxxramas Token

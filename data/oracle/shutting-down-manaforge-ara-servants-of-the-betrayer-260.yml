@@ -1,0 +1,17 @@
+name: Shutting Down Manaforge Ara
+
+origin: servants-of-the-betrayer-260
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'If an equipment was destroyed this turn, pay 1 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

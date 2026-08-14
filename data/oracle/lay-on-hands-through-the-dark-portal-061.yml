@@ -1,0 +1,22 @@
+name: Lay on Hands
+
+origin: through-the-dark-portal-061
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: Your hero heals all damage from target hero or ally. Exhaust all of your resources. Skip your next turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

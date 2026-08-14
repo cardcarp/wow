@@ -1,13 +1,13 @@
-oracle: scorpid-sting
-
-lex: '048'
-
-set: scourgewar
+index: '048'
 
 rarity: Common
 
 artist: Dave Allsop
 
+variation: []
+
 flavor: '"How do you expect to fight when you are to weak to pick up your sword?" - Bordrak Barrelblast'
 
-variation: []
+oracle: scorpid-sting-scourgewar-048
+
+set: Scourgewar

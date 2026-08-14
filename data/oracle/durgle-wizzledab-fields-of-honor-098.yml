@@ -1,0 +1,27 @@
+name: Durgle Wizzledab
+
+origin: fields-of-honor-098
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 5
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Remove an ability card in your graveyard from the game → Durgle heals 2 damage from himself.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

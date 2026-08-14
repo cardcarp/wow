@@ -1,0 +1,22 @@
+name: Anaka the Lights Bulwark
+
+origin: throne-of-the-tides-001
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 4 , Flip Anaka → Target hero or ally you control has Invincible this turn.'
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

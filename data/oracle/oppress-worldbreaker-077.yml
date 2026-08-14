@@ -1,0 +1,22 @@
+name: Oppress
+
+origin: worldbreaker-077
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Destroy target ability. If you do, its controller discards a card.
+
+regulation:
+
+errata: []
+
+temp: Discipline

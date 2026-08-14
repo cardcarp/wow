@@ -1,12 +1,14 @@
-set_allow:
+set_allow: # empty means this format does not admit cards by set at all
   type: list
   required: false
+  nullable: true
   schema:
     type: string
 
-regulation_allow:
+regulation_allow: # empty means this format does not admit cards by regulation at all
   type: list
   required: false
+  nullable: true
   schema:
     type: string
     coerce: str

@@ -1,0 +1,22 @@
+name: Black Death
+
+origin: twilight-of-the-dragons-022
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 'Attach to target opposing hero. Ongoing : At the start of your turn, your hero deals 1 shadow damage to attached hero, or 2 if there are no allies in its party.'
+
+regulation:
+
+errata: []
+
+temp: Unholy Disease

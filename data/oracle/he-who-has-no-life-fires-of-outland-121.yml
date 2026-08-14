@@ -1,0 +1,27 @@
+name: '"He Who Has No Life"'
+
+origin: fires-of-outland-121
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When an ally with cost 5 or less enters play, destroy it.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

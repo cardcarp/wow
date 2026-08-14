@@ -1,0 +1,22 @@
+name: United Front
+
+origin: fields-of-honor-052
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+instant: Target a friendly hero and a friendly ally. The next time each of them would be dealt damage this turn, prevent it.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Discipline

@@ -1,0 +1,27 @@
+name: Arnold Flem
+
+origin: heroes-of-azeroth-225
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 2
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Arnold Flem is destroyed, he deals 1 fire damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Undead Mage

@@ -1,0 +1,27 @@
+name: Moharu the Skyseer
+
+origin: crown-of-the-heavens-114
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 1
+
+health: 1
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally deals combat damage to an opposing hero, you may put up to three allies from your hand into play.
+
+regulation:
+
+errata: []
+
+temp: Tauren Priest

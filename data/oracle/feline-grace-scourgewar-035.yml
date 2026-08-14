@@ -1,0 +1,22 @@
+name: Feline Grace
+
+origin: scourgewar-035
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: 'Ongoing : 2 , → Ready your hero. Your hero has Cat Form .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

@@ -1,14 +1,14 @@
-oracle: grand-widow-faerlina
-
-lex: '003'
-
-set: naxxramas-raid
+index: '003'
 
 rarity: Rare
 
 artist: Gonzalo Ordonez
 
-flavor: '"Kneel before me, worm!"'
-
 variation:
   - transform
+
+flavor: '"Kneel before me, worm!"'
+
+oracle: grand-widow-faerlina-naxxramas-raid-003
+
+set: Naxxramas Raid

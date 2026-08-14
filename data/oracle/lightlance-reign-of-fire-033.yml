@@ -1,0 +1,22 @@
+name: Lightlance
+
+origin: reign-of-fire-033
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Your hero deals 1 unpreventable holy damage to target hero or ally, or 5 if your hero is undamaged.
+
+regulation:
+
+errata: []
+
+temp: Holy

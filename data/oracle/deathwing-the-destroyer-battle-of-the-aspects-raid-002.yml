@@ -1,0 +1,18 @@
+name: Deathwing the Destroyer
+
+origin: battle-of-the-aspects-raid-002
+
+layout: transform
+
+category: Hero
+
+rule:
+  - type: ability
+    position: front
+    text: "Advance: 20 (At the start of Deathwing's turn, before flipping any cards or triggering any other powers, flip Deathwing if a Raiding hero has 20 or more damage on it.) Flip 2 (At the start of Deathwing's turn, flip two Deathwing cards.) Assault 5, Long-Range"
+
+regulation:
+
+errata: []
+
+temp: Black Dragonkin Aspect Stage 4

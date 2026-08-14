@@ -1,0 +1,22 @@
+name: Dark Embrace
+
+origin: war-of-the-elements-063
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Each player puts the top 5 cards of his deck into his graveyard.
+
+regulation:
+
+errata: []
+
+temp: Shadow

@@ -1,0 +1,22 @@
+name: Path of Life
+
+origin: assault-on-icecrown-citadel-treasure-002
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: Put target ally from a graveyard into its owner's resource row face down and exhausted.
+
+regulation:
+
+errata: []
+
+temp: Restoration

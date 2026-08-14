@@ -1,14 +1,14 @@
-oracle: gehennas
-
-lex: '003'
-
-set: molten-core-raid
+index: '003'
 
 rarity: Rare
 
 artist: Alex Horley Orlandelli
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: gehennas-molten-core-raid-003
+
+set: Molten Core Raid

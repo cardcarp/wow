@@ -1,0 +1,22 @@
+name: Obsidium Executioner
+
+origin: horde-paladin-2011-024
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Sword

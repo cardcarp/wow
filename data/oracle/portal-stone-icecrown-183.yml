@@ -1,0 +1,31 @@
+name: Portal Stone
+
+origin: icecrown-183
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'On your turn: 1 , → Remove target ally you control from the game. On your turn: 1 , → Put an ally removed by a card named Portal Stone into play under your control.'
+
+regulation:
+
+errata: []
+
+temp: Item

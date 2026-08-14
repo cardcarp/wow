@@ -1,13 +1,13 @@
-oracle: emerald-soldier
-
-lex: '207'
-
-set: worldbreaker
+index: '207'
 
 rarity: Common
 
 artist: Eric Deschamps
 
+variation: []
+
 flavor: The matron of the green dragonflight, Ysera, is the younger sister of Alexstrasza.
 
-variation: []
+oracle: emerald-soldier-worldbreaker-207
+
+set: Worldbreaker

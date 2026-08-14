@@ -1,0 +1,22 @@
+name: Call of Lightning
+
+origin: tomb-of-the-forgotten-050
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: Your hero deals 5 nature damage divided as you choose to any number of target heroes or allies.
+
+regulation:
+
+errata: []
+
+temp: Elemental

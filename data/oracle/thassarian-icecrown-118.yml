@@ -1,0 +1,27 @@
+name: Thassarian
+
+origin: icecrown-118
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 7
+
+health: 5
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Protector Once per turn: Turn a resource you control face down → Target ally has -5 ATK this turn.'
+
+regulation:
+
+errata: []
+
+temp: Human Death Knight

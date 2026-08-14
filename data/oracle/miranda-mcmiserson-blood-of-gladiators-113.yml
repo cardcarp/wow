@@ -1,0 +1,27 @@
+name: Miranda McMiserson
+
+origin: blood-of-gladiators-113
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive → Name a card, then reveal the top card of your deck. If it has that name, draw it. Otherwise, put it on the bottom of your deck.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Rogue

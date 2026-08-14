@@ -1,13 +1,13 @@
-oracle: ruby-protector
-
-lex: '216'
-
-set: worldbreaker
+index: '216'
 
 rarity: Common
 
 artist: Richie Marella
 
+variation: []
+
 flavor: The skill that a drakonid possesses with its polearm would amaze even the most talented warriors in Azeroth.
 
-variation: []
+oracle: ruby-protector-worldbreaker-216
+
+set: Worldbreaker

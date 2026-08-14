@@ -1,13 +1,13 @@
-oracle: dreadsteed
-
-lex: '096'
-
-set: scourgewar
+index: '096'
 
 rarity: Rare
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: (Mounts can't attack or be attacked.)
 
-variation: []
+oracle: dreadsteed-scourgewar-096
+
+set: Scourgewar

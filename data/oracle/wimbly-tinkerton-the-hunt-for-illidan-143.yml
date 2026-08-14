@@ -1,0 +1,27 @@
+name: Wimbly Tinkerton
+
+origin: the-hunt-for-illidan-143
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When Wimbly defends, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warrior

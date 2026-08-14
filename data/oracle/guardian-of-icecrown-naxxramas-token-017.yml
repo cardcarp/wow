@@ -1,0 +1,25 @@
+name: Guardian of Icecrown
+
+origin: naxxramas-token-017
+
+layout: standard
+
+category: Token
+
+damage: 0
+
+health: 0
+
+combat: Melee
+
+type: Ally
+
+rule:
+  - type: ability
+    text: Protector This ally has +1 / +1 for each face-up Event in play.
+
+regulation:
+
+errata: []
+
+temp: Crypt Lord

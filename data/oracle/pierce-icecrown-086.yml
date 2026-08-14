@@ -1,0 +1,22 @@
+name: Pierce
+
+origin: icecrown-086
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Attach to target ally, and your hero deals 2 melee damage to it. Ongoing : Attached ally has -2 .'
+
+regulation:
+
+errata: []
+
+temp: Arms

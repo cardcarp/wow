@@ -1,0 +1,17 @@
+name: Effortless Strength
+
+origin: arena-grand-melee-event-028
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: Opponents can't use hero powers this turn. You can use opposing hero powers this turn.
+
+regulation:
+
+errata: []
+
+temp: ''

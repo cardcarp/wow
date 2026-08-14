@@ -1,13 +1,13 @@
-oracle: your-journey-ends-in-agony
-
-lex: '036'
-
-set: shadowfang-keep
+index: '036'
 
 rarity: Common
 
 artist: Gabor Szikszai
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: your-journey-ends-in-agony-shadowfang-keep-036
+
+set: Shadowfang Keep

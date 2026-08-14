@@ -1,0 +1,23 @@
+name: Legacy of the Legion
+
+origin: war-of-the-ancients-074
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Warrior
+  - Hunter
+
+rule:
+  - type: ability
+    text: Put a 5 / 5 Pit Lord Demon Monster ally token into play with Protector . Put a 5 / 5 Fel Hound Demon Monster ally token into play with Ferocity .
+
+regulation:
+
+errata: []
+
+temp: ''

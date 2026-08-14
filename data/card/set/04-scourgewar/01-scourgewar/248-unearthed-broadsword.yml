@@ -1,13 +1,13 @@
-oracle: unearthed-broadsword
-
-lex: '248'
-
-set: scourgewar
+index: '248'
 
 rarity: Common
 
 artist: Peter Lee
 
+variation: []
+
 flavor: "\"I'm pretty sure he won't be using this again.\" - Randolphe Mortimer"
 
-variation: []
+oracle: unearthed-broadsword-scourgewar-248
+
+set: Scourgewar

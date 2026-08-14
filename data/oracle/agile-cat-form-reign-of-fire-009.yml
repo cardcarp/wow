@@ -1,0 +1,22 @@
+name: Agile Cat Form
+
+origin: reign-of-fire-009
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+instant: 'Ongoing : Your hero has Assault 1 .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral Cat Form

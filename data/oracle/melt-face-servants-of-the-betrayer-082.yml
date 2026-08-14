@@ -1,0 +1,22 @@
+name: Melt Face
+
+origin: servants-of-the-betrayer-082
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Target player destroys an ally he controls.
+
+regulation:
+
+errata: []
+
+temp: Shadow

@@ -1,0 +1,25 @@
+name: Vindicator Falaan
+
+origin: the-hunt-for-illidan-179
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Holy
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: All friendly heroes and allies with activated powers'
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

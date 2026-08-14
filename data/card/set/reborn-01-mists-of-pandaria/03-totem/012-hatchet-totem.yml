@@ -1,13 +1,13 @@
-oracle: hatchet-totem
-
-lex: '012'
-
-set: totem
+index: '012'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: hatchet-totem-fields-of-honor-064
+
+set: Totem

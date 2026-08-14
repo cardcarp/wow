@@ -1,13 +1,13 @@
-oracle: trixie-boltclunker
-
-lex: '158'
-
-set: scourgewar
+index: '158'
 
 rarity: Common
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: "\"Just remember to thank the little people once I've saved your life.\""
 
-variation: []
+oracle: trixie-boltclunker-scourgewar-158
+
+set: Scourgewar

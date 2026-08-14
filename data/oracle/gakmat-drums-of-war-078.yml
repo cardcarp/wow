@@ -1,0 +1,28 @@
+name: Gakmat
+
+origin: drums-of-war-078
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 0
+
+health: 1
+
+combat: Fire
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Elusive x , → Gakmat deals X fire damage to target ally and itself.
+
+regulation:
+
+errata: []
+
+temp: Imp Demon

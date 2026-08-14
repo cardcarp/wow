@@ -1,13 +1,13 @@
-oracle: marcus-dominar
-
-lex: '151'
-
-set: worldbreaker
+index: '151'
 
 rarity: Common
 
 artist: Clint Langley
 
+variation: []
+
 flavor: '"Save your tricks for the other pups."'
 
-variation: []
+oracle: marcus-dominar-worldbreaker-151
+
+set: Worldbreaker

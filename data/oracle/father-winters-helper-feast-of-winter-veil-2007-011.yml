@@ -1,0 +1,25 @@
+name: Father Winters Helper
+
+origin: feast-of-winter-veil-2007-011
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: When this ally enters play, each player removes the top card of his deck from the game. Players may play their opponents' cards removed this way this game. (Pay costs as normal.)
+
+regulation:
+
+errata: []
+
+temp: Helper

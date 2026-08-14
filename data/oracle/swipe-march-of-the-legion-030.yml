@@ -1,0 +1,22 @@
+name: Swipe
+
+origin: march-of-the-legion-030
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+instant: 'Ongoing : When Swipe enters play, your hero deals 1 melee damage to each of up to three target heroes and/or allies. Your hero is in Bear Form .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

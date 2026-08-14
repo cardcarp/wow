@@ -1,0 +1,25 @@
+name: Fel Stalker
+
+origin: caverns-of-time-raid-023
+
+layout: standard
+
+category: Ally
+
+damage: 3
+
+health: 2
+
+combat: Shadow
+
+type: Boss
+
+rule:
+  - type: ability
+    text: This ally has +3 ATK while attacking a Raiding hero with no ready resources.
+
+regulation:
+
+errata: []
+
+temp: Felhunter Demon

@@ -1,0 +1,17 @@
+name: Peace Offering
+
+origin: arena-grand-melee-event-070
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: Each player puts a card from his hand into the hand of the player who will celebrate his birthday soonest.
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,27 @@
+name: Prince Anduin Wrynn
+
+origin: twilight-of-the-dragons-121
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 2
+
+health: 5
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Friendly Humans can protect this ally. Other friendly allies have +1 / +1 for each different card type you control.
+
+regulation:
+
+errata: []
+
+temp: Human Priest

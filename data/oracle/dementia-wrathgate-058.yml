@@ -1,0 +1,22 @@
+name: Dementia
+
+origin: wrathgate-058
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Target player puts the top two cards of his deck into his graveyard. If they're both abilities, both allies, or both equipment, that player discards two cards.
+
+regulation:
+
+errata: []
+
+temp: Shadow

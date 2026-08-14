@@ -1,0 +1,19 @@
+name: Blood in the Water
+
+origin: reign-of-fire-010
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: 'Attach to the Dungeon ally with the highest printed . Ongoing : When attached ally is destroyed, flip a Dungeon card.'
+
+regulation:
+
+errata: []
+
+temp: ''

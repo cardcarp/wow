@@ -1,13 +1,13 @@
-oracle: ramaladnis-blade-of-culling
-
-lex: '244'
-
-set: worldbreaker
+index: '244'
 
 rarity: Rare
 
 artist: Mike Sass
 
+variation: []
+
 flavor: '"Honor, young heroes ... no matter how dire the battle ... never forsake it!" - High Overlord Saurfang'
 
-variation: []
+oracle: ramaladnis-blade-of-culling-worldbreaker-244
+
+set: Worldbreaker

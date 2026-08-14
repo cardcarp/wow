@@ -1,0 +1,22 @@
+name: Teina Cloudstalker
+
+origin: scourgewar-017
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'If you control another Druid: Flip Teina → Teina has +1 ATK while attacking this turn.'
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

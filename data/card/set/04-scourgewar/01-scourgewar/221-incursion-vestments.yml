@@ -1,13 +1,13 @@
-oracle: incursion-vestments
-
-lex: '221'
-
-set: scourgewar
+index: '221'
 
 rarity: Rare
 
 artist: Dave Kendall
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: incursion-vestments-scourgewar-221
+
+set: Scourgewar

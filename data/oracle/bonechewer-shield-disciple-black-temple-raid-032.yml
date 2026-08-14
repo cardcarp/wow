@@ -1,0 +1,25 @@
+name: Bonechewer Shield Disciple
+
+origin: black-temple-raid-032
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 6
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Traitor Hero Required Protector
+
+regulation:
+
+errata: []
+
+temp: Fel Orc Warrior Traitor

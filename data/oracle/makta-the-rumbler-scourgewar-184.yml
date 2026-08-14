@@ -1,0 +1,27 @@
+name: Makta the Rumbler
+
+origin: scourgewar-184
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 8
+
+health: 6
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: While you control a Shout, allies you control have +1 / +1, and opposing allies have -1 / -1.
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

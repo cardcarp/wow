@@ -1,0 +1,27 @@
+name: Kalnuf Eagleheart
+
+origin: through-the-dark-portal-217
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally enters play, look at target player's hand.
+
+regulation:
+
+errata: []
+
+temp: Tauren Hunter

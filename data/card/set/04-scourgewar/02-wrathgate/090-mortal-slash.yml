@@ -1,13 +1,13 @@
-oracle: mortal-slash
-
-lex: '090'
-
-set: wrathgate
+index: '090'
 
 rarity: Common
 
 artist: E.M. Gist
 
+variation: []
+
 flavor: '"Enough tricks. Now you die!" - Emmi Sprinklestrike'
 
-variation: []
+oracle: mortal-slash-wrathgate-090
+
+set: Wrathgate

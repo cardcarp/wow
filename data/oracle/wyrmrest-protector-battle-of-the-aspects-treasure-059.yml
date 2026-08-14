@@ -1,0 +1,25 @@
+name: Wyrmrest Protector
+
+origin: battle-of-the-aspects-treasure-059
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Fire
+
+rule:
+  - type: ability
+    text: Allies you control have "When this ally deals damage to an opposing hero, this ally also heals that much damage from your hero."
+
+regulation:
+
+errata: []
+
+temp: Red Dragonkin

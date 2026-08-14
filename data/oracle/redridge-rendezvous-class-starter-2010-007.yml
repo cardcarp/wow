@@ -1,0 +1,19 @@
+name: Redridge Rendezvous
+
+origin: class-starter-2010-007
+
+layout: standard
+
+category: Quest
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Pay 5 to complete this quest. Reward : Draw a card for each different race among heroes and allies you control.'
+
+regulation:
+
+errata: []
+
+temp: ''

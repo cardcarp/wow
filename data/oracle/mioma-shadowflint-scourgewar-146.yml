@@ -1,0 +1,27 @@
+name: Mioma Shadowflint
+
+origin: scourgewar-146
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 6
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Mend 2 When this ally heals damage, you may destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Priest

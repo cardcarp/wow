@@ -1,13 +1,13 @@
-oracle: wavestorm-totem
-
-lex: '028'
-
-set: totem
+index: '028'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: wavestorm-totem-fields-of-honor-066
+
+set: Totem

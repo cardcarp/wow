@@ -1,0 +1,19 @@
+name: Time Fracture
+
+origin: caverns-of-time-raid-039
+
+layout: standard
+
+category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Switch the ATK and Health of each Raiding ally this turn. If Murozond is the Caverns hero, double the number of time counters on him.
+
+regulation:
+
+errata: []
+
+temp: Murozond

@@ -1,0 +1,27 @@
+name: Hamuul Runetotem
+
+origin: crown-of-the-heavens-108
+
+layout: standard
+
+category: Ally
+
+cost: '9'
+
+damage: 5
+
+health: 10
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Assault 5 , Ferocity , Protector At the end of your turn, ready Hamuul.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

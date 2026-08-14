@@ -1,0 +1,22 @@
+name: Stalwart Bear Form
+
+origin: throne-of-the-tides-036
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Druid
+
+instant: 'Target up to two opposing allies. Your hero deals 2 melee damage to each of them. Ongoing : Your hero has Protector and +5 .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral Bear Form

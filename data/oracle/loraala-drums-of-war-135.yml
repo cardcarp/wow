@@ -1,0 +1,27 @@
+name: Loraala
+
+origin: drums-of-war-135
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 4
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Loraala can't attack. → Loraala deals 3 fire damage to target hero.
+
+regulation:
+
+errata: []
+
+temp: Draenei Mage

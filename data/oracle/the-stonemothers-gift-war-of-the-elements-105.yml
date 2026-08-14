@@ -1,0 +1,19 @@
+name: The Stonemothers Gift
+
+origin: war-of-the-elements-105
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+rule:
+  - type: ability
+    text: 'Ongoing : When this ability enters play, put a 2 / 1 Earth Elemental ally token into play. 1 , Destroy this ability → Target ally has Protector this turn.'
+
+regulation:
+
+errata: []
+
+temp: ''

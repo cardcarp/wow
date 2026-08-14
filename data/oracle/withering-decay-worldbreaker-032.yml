@@ -1,0 +1,22 @@
+name: Withering Decay
+
+origin: worldbreaker-032
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 1 shadow damage to attached hero. On your turn, allies in attached hero's party have -1 ."
+
+regulation:
+
+errata: []
+
+temp: Unholy Disease

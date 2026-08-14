@@ -1,0 +1,22 @@
+name: Opportunity
+
+origin: war-of-the-ancients-048
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Subtlety Talent Target an opposing hero or ally for each different cost among cards you control with cost 5, 4, 3, 2, and/or 1, starting with the highest. (You can't target the same card twice.) Your hero deals melee damage equal to that cost to that hero or ally, respectively.
+
+regulation:
+
+errata: []
+
+temp: Subtlety

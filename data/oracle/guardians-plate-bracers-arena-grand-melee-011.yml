@@ -1,0 +1,22 @@
+name: Guardians Plate Bracers
+
+origin: arena-grand-melee-011
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: Preparation
+
+regulation:
+
+errata: []
+
+temp: Arena Armor Plate

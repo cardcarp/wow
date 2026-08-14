@@ -1,0 +1,22 @@
+name: Frost Trap
+
+origin: through-the-dark-portal-033
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Hunter
+
+instant: Trap Remove all attackers from combat, and opposing heroes and allies can't attack this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

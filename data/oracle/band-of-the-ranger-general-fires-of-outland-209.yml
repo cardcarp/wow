@@ -1,0 +1,27 @@
+name: Band of the Ranger-General
+
+origin: fires-of-outland-209
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: You pay 1 less to strike with weapons for each weapon you have.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

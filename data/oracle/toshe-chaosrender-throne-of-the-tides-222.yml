@@ -1,0 +1,25 @@
+name: Toshe Chaosrender
+
+origin: throne-of-the-tides-222
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 0
+
+health: 0
+
+combat: Nature
+
+rule:
+  - type: ability
+    text: Opponents can't complete quests. You can complete opposing quests. (You get the rewards.) Toshe has +1 / +1 for each opposing face-down resource.
+
+regulation:
+
+errata: []
+
+temp: Taunka Shaman

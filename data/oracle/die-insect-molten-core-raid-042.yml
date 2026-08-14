@@ -1,0 +1,19 @@
+name: '"DIE, INSECT!"'
+
+origin: molten-core-raid-042
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+instant: 'Ongoing : When an opposing ally is destroyed, draw a card. When an opposing hero is destroyed, draw a card for each rune you have.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ragnaros

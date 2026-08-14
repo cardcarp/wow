@@ -1,0 +1,24 @@
+name: Natures Guidance
+
+origin: arena-grand-melee-003
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+type: Arena
+
+rule:
+  - type: ability
+    text: 'Preparation Ongoing : You pay 1 less to play Feral abilities, to a minimum of 1 .'
+
+regulation:
+
+errata: []
+
+temp: ''

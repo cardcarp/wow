@@ -1,14 +1,14 @@
-oracle: maloduri
-
-lex: '015'
-
-set: scourgewar
+index: '015'
 
 rarity: Uncommon
 
 artist: Chippy
 
-flavor: "\"Nothin' gonna stop the Horde from takin' down the Lich King. Not frost wyrms, not vrykul ... NOTHIN'!\""
-
 variation:
   - transform
+
+flavor: "\"Nothin' gonna stop the Horde from takin' down the Lich King. Not frost wyrms, not vrykul ... NOTHIN'!\""
+
+oracle: maloduri-scourgewar-015
+
+set: Scourgewar

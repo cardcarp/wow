@@ -1,0 +1,27 @@
+name: Durnholde Tracking Hound
+
+origin: betrayal-of-the-guardian-136
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: At the start of your turn, target ally loses and can't have Elusive this turn.
+
+regulation:
+
+errata: []
+
+temp: Dog Beast

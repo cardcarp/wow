@@ -1,0 +1,22 @@
+name: Anti-Magic Shell
+
+origin: wrathgate-022
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 'Ongoing : → Prevent the next non-melee (non- ) damage that would be dealt to your hero this turn.'
+
+regulation:
+
+errata: []
+
+temp: Unholy

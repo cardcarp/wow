@@ -1,13 +1,13 @@
-oracle: trappers-rifle
-
-lex: '246'
-
-set: scourgewar
+index: '246'
 
 rarity: Rare
 
 artist: Brian Huang
 
+variation: []
+
 flavor: '"Have a trap ready at all times, lad. Never let them get the jump on you." - Hemet Nesingwary'
 
-variation: []
+oracle: trappers-rifle-scourgewar-246
+
+set: Scourgewar

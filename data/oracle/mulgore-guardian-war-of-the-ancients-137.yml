@@ -1,0 +1,27 @@
+name: Mulgore Guardian
+
+origin: war-of-the-ancients-137
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 4
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: This ally can't attack. Protector
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

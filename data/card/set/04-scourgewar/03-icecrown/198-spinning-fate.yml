@@ -1,13 +1,13 @@
-oracle: spinning-fate
-
-lex: '198'
-
-set: icecrown
+index: '198'
 
 rarity: Rare
 
 artist: Martina Pilcerova
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: spinning-fate-icecrown-198
+
+set: Icecrown

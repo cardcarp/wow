@@ -1,13 +1,13 @@
-oracle: corrosion-prevention
-
-lex: '255'
-
-set: worldbreaker
+index: '255'
 
 rarity: Common
 
 artist: William O'Connor
 
+variation: []
+
 flavor: "\"Just look at this area! It's swarming with oozes.\" - Moxie Steelgrille"
 
-variation: []
+oracle: corrosion-prevention-worldbreaker-255
+
+set: Worldbreaker

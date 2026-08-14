@@ -1,13 +1,13 @@
-oracle: jadefire-felsworn
-
-lex: '015'
-
-set: elderlimb
+index: '015'
 
 rarity: Uncommon
 
 artist: Paul Mafayon
 
+variation: []
+
 flavor: '"The hunger of the Legion will never be sated."'
 
-variation: []
+oracle: jadefire-felsworn-crown-of-the-heavens-141
+
+set: Elderlimb

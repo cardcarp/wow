@@ -1,0 +1,19 @@
+name: Reign of Fire
+
+origin: onyxias-lair-event-023
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Onyxia deals X fire damage to each opposing ally, where X is the current stage.
+
+regulation:
+
+errata: []
+
+temp: ''

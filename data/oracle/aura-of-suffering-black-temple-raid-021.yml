@@ -1,0 +1,19 @@
+name: Aura of Suffering
+
+origin: black-temple-raid-021
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: "Ongoing : Opposing heroes and allies can't be healed."
+
+regulation:
+
+errata: []
+
+temp: Black Temple

@@ -1,0 +1,19 @@
+name: Dangerous Gambit
+
+origin: shadowfang-keep-020
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Godfrey deals 5 shadow damage to each Raiding hero unless its controller reveals the top card of his deck. Then, Godfrey deals 10 damage to each Raider's hero whose controller revealed an ally this way.
+
+regulation:
+
+errata: []
+
+temp: ''

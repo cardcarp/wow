@@ -1,0 +1,25 @@
+name: Night Elf Moon Priestess
+
+origin: betrayal-of-the-guardian-083
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 5
+
+health: 3
+
+combat: Holy
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

@@ -1,0 +1,27 @@
+name: Ashenvale Acolyte
+
+origin: reign-of-fire-070
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 4
+
+health: 2
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Haste 5
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

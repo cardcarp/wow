@@ -1,0 +1,19 @@
+name: Devour
+
+origin: onyxias-lair-raid-010
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+instant: If Onyxia is defending, she deals 5 melee damage to target attacking hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

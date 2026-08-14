@@ -1,0 +1,24 @@
+name: Wand of the Seer
+
+origin: servants-of-the-betrayer-243
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: When your hero deals damage with an ability to a hero, it also deals that much nature damage divided as you choose to any number of target allies.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Wand

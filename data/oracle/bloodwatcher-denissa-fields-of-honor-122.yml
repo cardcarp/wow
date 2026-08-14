@@ -1,0 +1,27 @@
+name: Bloodwatcher Denissa
+
+origin: fields-of-honor-122
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 1
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When an opposing ally enters play, Denissa deals 1 ranged damage to it.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Hunter

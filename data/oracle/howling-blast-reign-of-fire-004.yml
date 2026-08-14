@@ -1,0 +1,22 @@
+name: Howling Blast
+
+origin: reign-of-fire-004
+
+layout: standard
+
+category: Ability
+
+cost: X
+
+class:
+  - Death Knight
+
+instant: Frost Talent Your hero deals X frost damage divided as you choose to any number of target heroes and/or allies. Each opponent pays 1 more to play allies this turn for each damage dealt this way to a hero he controls.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost

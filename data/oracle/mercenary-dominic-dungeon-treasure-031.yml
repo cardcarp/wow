@@ -1,0 +1,25 @@
+name: Mercenary Dominic
+
+origin: dungeon-treasure-031
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: 'Once per turn: 2 → Your hero has Assault 2 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Undead Rogue

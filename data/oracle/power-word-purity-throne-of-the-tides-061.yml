@@ -1,0 +1,22 @@
+name: 'Power Word: Purity'
+
+origin: throne-of-the-tides-061
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+instant: 'Attach to target ally, and your hero heals all damage from it. Ongoing : Attached ally has +2 and Mend 2 .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

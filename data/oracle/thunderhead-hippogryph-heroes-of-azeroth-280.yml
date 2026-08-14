@@ -1,0 +1,25 @@
+name: Thunderhead Hippogryph
+
+origin: heroes-of-azeroth-280
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: ': Thunderhead Hippogryph has Elusive . : Thunderhead Hippogryph has Ferocity .'
+
+regulation:
+
+errata: []
+
+temp: Hippogryph

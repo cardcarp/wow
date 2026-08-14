@@ -1,13 +1,13 @@
-oracle: dread-pirate-ring
-
-lex: '230'
-
-set: worldbreaker
+index: '230'
 
 rarity: Uncommon
 
 artist: Tyler Walpole
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: dread-pirate-ring-worldbreaker-230
+
+set: Worldbreaker

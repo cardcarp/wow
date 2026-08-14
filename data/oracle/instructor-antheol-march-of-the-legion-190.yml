@@ -1,0 +1,27 @@
+name: Instructor Antheol
+
+origin: march-of-the-legion-190
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Arcane
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 1 → This turn, target ally can't attack or protect, loses and can't have powers, and is a Boar. Use only once per turn.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

@@ -1,14 +1,14 @@
-oracle: haedis
-
-lex: '005'
-
-set: worldbreaker
+index: '005'
 
 rarity: Uncommon
 
 artist: Andrea Uderzo
 
-flavor: '"Even those who once served the Light can succumb to the will of the dead."'
-
 variation:
   - transform
+
+flavor: '"Even those who once served the Light can succumb to the will of the dead."'
+
+oracle: haedis-worldbreaker-005
+
+set: Worldbreaker

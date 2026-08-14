@@ -1,0 +1,22 @@
+name: Coated Blades
+
+origin: war-of-the-elements-072
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Choose one: Target player discards a card for each Poison attached to his hero; or search your deck for a poison, reveal it, and put it into your hand.'
+
+regulation:
+
+errata: []
+
+temp: Assassination

@@ -1,0 +1,27 @@
+name: Thurgood Steelwall
+
+origin: scourgewar-194
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Shadow Resistance 2 , Discard a card → Target hero or ally has Protector this turn.
+
+regulation:
+
+errata: []
+
+temp: Undead Warrior

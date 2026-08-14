@@ -1,0 +1,22 @@
+name: Favor of Spirit
+
+origin: horde-priest-2011-005
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, you may destroy target ability.'
+
+regulation:
+
+errata: []
+
+temp: Discipline

@@ -1,0 +1,26 @@
+name: Mass of McGowan
+
+origin: onyxias-lair-treasure-031
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Warrior
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: Mass of McGowan has +2 ATK while your hero is attacking an ally.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

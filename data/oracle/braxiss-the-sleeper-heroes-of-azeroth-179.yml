@@ -1,0 +1,27 @@
+name: Braxiss the Sleeper
+
+origin: heroes-of-azeroth-179
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

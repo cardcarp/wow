@@ -1,0 +1,22 @@
+name: Arcane Shock
+
+origin: betrayal-of-the-guardian-020
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: Your hero deals 2 arcane damage to target opposing ally. An ally dealt damage this way loses and can't have powers this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

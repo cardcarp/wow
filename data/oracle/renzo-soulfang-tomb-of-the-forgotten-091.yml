@@ -1,0 +1,27 @@
+name: Renzo Soulfang
+
+origin: tomb-of-the-forgotten-091
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 6
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: At the start of your turn, if you control fewer resources than each opponent, this ally deals 3 shadow damage to each opposing hero and heals 1 damage from your hero for each damage dealt this way.
+
+regulation:
+
+errata: []
+
+temp: Worgen Warlock

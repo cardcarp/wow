@@ -1,0 +1,22 @@
+name: Grand Marshal Goldensword
+
+origin: drums-of-war-001
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 5 , Flip Goldensword → Target ally deals holy damage to itself equal to its ATK.'
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

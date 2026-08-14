@@ -1,0 +1,24 @@
+name: Shadowstrike
+
+origin: molten-core-treasure-027
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+
+rule:
+  - type: ability
+    text: 1 , Destroy Shadowstrike → If your hero has Enchanting, draw two cards.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Polearm

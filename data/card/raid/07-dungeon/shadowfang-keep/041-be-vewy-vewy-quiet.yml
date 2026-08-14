@@ -1,13 +1,13 @@
-oracle: be-vewy-vewy-quiet
-
-lex: '041'
-
-set: shadowfang-keep
+index: '041'
 
 rarity: Common
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: be-vewy-vewy-quiet-shadowfang-keep-041
+
+set: Shadowfang Keep

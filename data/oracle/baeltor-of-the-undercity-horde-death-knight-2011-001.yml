@@ -1,0 +1,22 @@
+name: Baeltor of the Undercity
+
+origin: horde-death-knight-2011-001
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 2 , Flip Baeltor → Opposing allies have -1 ATK this turn.'
+
+regulation:
+
+errata: []
+
+temp: Undead Death Knight

@@ -1,0 +1,22 @@
+name: The Sowing of Seeds
+
+origin: blood-of-gladiators-022
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: Your hero deals 1 nature damage to target hero or ally. For each damage dealt this way, put a Treant ally token into play with 1 ATK / 1 health.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Balance

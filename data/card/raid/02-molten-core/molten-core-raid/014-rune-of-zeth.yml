@@ -1,13 +1,13 @@
-oracle: rune-of-zeth
-
-lex: '014'
-
-set: molten-core-raid
+index: '014'
 
 rarity: Uncommon
 
 artist: Peter Lee
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: rune-of-zeth-molten-core-raid-014
+
+set: Molten Core Raid

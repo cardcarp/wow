@@ -1,0 +1,27 @@
+name: Ixiya the Attuned
+
+origin: wrathgate-117
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector , Mend 1
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

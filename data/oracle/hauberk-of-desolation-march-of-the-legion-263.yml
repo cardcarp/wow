@@ -1,0 +1,23 @@
+name: Hauberk of Desolation
+
+origin: march-of-the-legion-263
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: When you strike with a weapon, you may ready an ally in your party.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

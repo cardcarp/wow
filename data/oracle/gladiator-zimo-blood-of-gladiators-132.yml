@@ -1,0 +1,29 @@
+name: Gladiator Zi'mo
+
+origin: blood-of-gladiators-132
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 1
+
+combat: Fire
+
+faction: Horde
+
+type: Arena
+
+rule:
+  - type: ability
+    text: Arena allies in your party have +2 ATK.
+
+regulation:
+
+errata: []
+
+temp: Troll Mage

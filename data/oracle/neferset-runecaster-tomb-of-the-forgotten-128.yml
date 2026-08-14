@@ -1,0 +1,27 @@
+name: Neferset Runecaster
+
+origin: tomb-of-the-forgotten-128
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 1
+
+health: 6
+
+combat: Holy
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Protector , Sentinel
+
+regulation:
+
+errata: []
+
+temp: Tol'vir Paladin Priest

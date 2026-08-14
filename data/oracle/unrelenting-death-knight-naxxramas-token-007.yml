@@ -1,0 +1,25 @@
+name: Unrelenting Death Knight
+
+origin: naxxramas-token-007
+
+layout: standard
+
+category: Token
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+type: Ally
+
+rule:
+  - type: ability
+    text: When this ally leaves play, the Boss player puts a Spectral Death Knight into play.
+
+regulation:
+
+errata: []
+
+temp: Human Death Knight

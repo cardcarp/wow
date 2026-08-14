@@ -1,0 +1,27 @@
+name: Guardian Steelhorn
+
+origin: heroes-of-azeroth-240
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Guardian Steelhorn can't attack.
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

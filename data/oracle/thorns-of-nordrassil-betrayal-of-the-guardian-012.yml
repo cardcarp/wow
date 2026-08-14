@@ -1,0 +1,22 @@
+name: Thorns of Nordrassil
+
+origin: betrayal-of-the-guardian-012
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals 1 nature damage to attached character, or 2 if you control another Ongoing ability.'
+
+regulation:
+
+errata: []
+
+temp: Balance Attachment

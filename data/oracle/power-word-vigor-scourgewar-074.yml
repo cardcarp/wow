@@ -1,0 +1,22 @@
+name: 'Power Word: Vigor'
+
+origin: scourgewar-074
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +5 .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Discipline

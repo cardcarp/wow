@@ -1,13 +1,14 @@
-oracle: arthas-menethil
-
-lex: '002'
-
-set: timewalkers
+index: '002'
 
 rarity: Rare
 
 artist: Unknown
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: arthas-menethil-timewalkers-002
+
+set: Timewalkers

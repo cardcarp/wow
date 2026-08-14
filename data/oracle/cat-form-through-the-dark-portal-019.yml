@@ -1,0 +1,22 @@
+name: Cat Form
+
+origin: through-the-dark-portal-019
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: 'Ongoing : Your hero is in Cat Form . When Cat Form is destroyed, you may pay 2 . If you do, put it into your hand at end of turn.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

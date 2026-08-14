@@ -1,0 +1,27 @@
+name: Naan the Selfless
+
+origin: fields-of-honor-111
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 0
+
+health: 3
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When Naan defends, he deals 1 nature damage to target hero or ally and heals 1 damage from a second target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

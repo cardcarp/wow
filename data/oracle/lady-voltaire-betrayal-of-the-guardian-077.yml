@@ -1,0 +1,27 @@
+name: Lady Voltaire
+
+origin: betrayal-of-the-guardian-077
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 0
+
+health: 9
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Unity : While you control three or more Human allies, if another Human ally you control would be dealt damage, you may have it dealt to this ally instead.'
+
+regulation:
+
+errata: []
+
+temp: Human Death Knight

@@ -1,0 +1,23 @@
+name: Leggings of the Vanquished Usurper
+
+origin: war-of-the-elements-183
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: 2 , → Non- , non- allies you control have Assault 2 this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

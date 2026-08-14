@@ -1,13 +1,13 @@
-oracle: emelia-darkhand
-
-lex: '172'
-
-set: scourgewar
+index: '172'
 
 rarity: Common
 
 artist: Raymond Swanland
 
+variation: []
+
 flavor: '"Our troubles lie abroad, where the armies of the Lich King dwell. That is where the true challenge awaits."'
 
-variation: []
+oracle: emelia-darkhand-scourgewar-172
+
+set: Scourgewar

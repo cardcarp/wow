@@ -1,0 +1,22 @@
+name: Kana Nassis
+
+origin: fires-of-outland-003
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Kana Nassis → If Kana is defending, remove her from combat.
+
+regulation:
+
+errata: []
+
+temp: Draenei Hunter

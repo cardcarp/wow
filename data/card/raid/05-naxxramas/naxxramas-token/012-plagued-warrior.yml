@@ -1,13 +1,13 @@
-oracle: plagued-warrior
-
-lex: '012'
-
-set: naxxramas-token
+index: '012'
 
 rarity: Common
 
 artist: Christopher Moeller
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: plagued-warrior-naxxramas-token-012
+
+set: Naxxramas Token

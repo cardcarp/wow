@@ -1,0 +1,22 @@
+name: Crushing Blow
+
+origin: through-the-dark-portal-120
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Choose one or both: Destroy target armor; or destroy target weapon.'
+
+regulation:
+
+errata: []
+
+temp: Fury

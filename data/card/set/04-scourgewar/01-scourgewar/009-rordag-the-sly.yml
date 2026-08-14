@@ -1,14 +1,14 @@
-oracle: rordag-the-sly
-
-lex: '009'
-
-set: scourgewar
+index: '009'
 
 rarity: Uncommon
 
 artist: Jim Nelson
 
-flavor: "\"Don't think of yourself as bait for the legions of undead. Think of it as more of a diversionary tactic.\""
-
 variation:
   - transform
+
+flavor: "\"Don't think of yourself as bait for the legions of undead. Think of it as more of a diversionary tactic.\""
+
+oracle: rordag-the-sly-scourgewar-009
+
+set: Scourgewar

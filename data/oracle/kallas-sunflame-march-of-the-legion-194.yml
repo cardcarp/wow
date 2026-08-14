@@ -1,0 +1,27 @@
+name: Kallas Sunflame
+
+origin: march-of-the-legion-194
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 5
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 1 → Other allies in your party have +1 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

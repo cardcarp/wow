@@ -1,0 +1,23 @@
+name: Ashtongue Blade
+
+origin: the-hunt-for-illidan-223
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Shaman
+  - Rogue
+
+rule:
+  - type: ability
+    text: Loyal Hero Required Untargetable
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

@@ -1,13 +1,13 @@
-oracle: power-infusion
-
-lex: '056'
-
-set: icecrown
+index: '056'
 
 rarity: Rare
 
 artist: J.P. Targete
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: power-infusion-icecrown-056
+
+set: Icecrown

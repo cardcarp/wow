@@ -1,0 +1,27 @@
+name: Ja'zoona
+
+origin: march-of-the-legion-192
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 6
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Opponents pay 1 more to complete quests.
+
+regulation:
+
+errata: []
+
+temp: Troll Rogue

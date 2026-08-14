@@ -1,0 +1,22 @@
+name: Maul
+
+origin: heroes-of-azeroth-025
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: 'Your hero has +1 ATK this turn. Ongoing : Your hero is in Bear Form .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

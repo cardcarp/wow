@@ -1,0 +1,27 @@
+name: Shambling Horror
+
+origin: assault-on-icecrown-citadel-raid-023
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Vrykul

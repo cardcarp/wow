@@ -1,0 +1,19 @@
+name: Monstrous Strike
+
+origin: throne-of-the-tides-088
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: Target hero or ally has +1 ATK this turn, or +4 ATK if it's a Monster.
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,13 +1,13 @@
-oracle: reckoning
-
-lex: '050'
-
-set: icecrown
+index: '050'
 
 rarity: Rare
 
 artist: Andrew Robinson
 
+variation: []
+
 flavor: '"The punishment most definitely fits the crime." - Justice Blindburn'
 
-variation: []
+oracle: reckoning-icecrown-050
+
+set: Icecrown

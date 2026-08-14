@@ -1,13 +1,13 @@
-oracle: chumly
-
-lex: '011'
-
-set: murkdeep
+index: '011'
 
 rarity: Uncommon
 
 artist: Ben Wooten
 
+variation: []
+
 flavor: '"Rr MGG Ggmmmlmrmgmg!"'
 
-variation: []
+oracle: chumly-throne-of-the-tides-185
+
+set: Murkdeep

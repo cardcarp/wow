@@ -1,0 +1,24 @@
+name: Aegis of the Blood God
+
+origin: through-the-dark-portal-247
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+rule:
+  - type: ability
+    text: Aegis of the Blood God has +1 DEF for each damage on your hero.
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

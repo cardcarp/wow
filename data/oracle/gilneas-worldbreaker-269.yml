@@ -1,0 +1,19 @@
+name: Gilneas
+
+origin: worldbreaker-269
+
+layout: standard
+
+category: Location
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 4 → Worgen you control have Assault 2 this turn.
+
+regulation:
+
+errata: []
+
+temp: ''

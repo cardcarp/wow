@@ -1,0 +1,27 @@
+name: Orgrimmar Grunts
+
+origin: heroes-of-azeroth-254
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Orgrimmar Grunts has +1 ATK for each other ally named Orgrimmar Grunts in your party.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

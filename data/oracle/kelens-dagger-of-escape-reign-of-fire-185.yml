@@ -1,0 +1,23 @@
+name: Kelens Dagger of Escape
+
+origin: reign-of-fire-185
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Shaman
+  - Rogue
+
+rule:
+  - type: ability
+    text: 1 → Remove your hero from the game. If you do, put this weapon into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

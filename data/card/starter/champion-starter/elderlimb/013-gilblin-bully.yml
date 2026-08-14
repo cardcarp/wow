@@ -1,13 +1,13 @@
-oracle: gilblin-bully
-
-lex: '013'
-
-set: elderlimb
+index: '013'
 
 rarity: Common
 
 artist: Carl Critchlow
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: gilblin-bully-throne-of-the-tides-177
+
+set: Elderlimb

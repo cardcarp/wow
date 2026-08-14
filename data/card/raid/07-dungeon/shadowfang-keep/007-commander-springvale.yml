@@ -1,13 +1,13 @@
-oracle: commander-springvale
-
-lex: '007'
-
-set: shadowfang-keep
+index: '007'
 
 rarity: Common
 
 artist: Steve Tappin
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: commander-springvale-shadowfang-keep-007
+
+set: Shadowfang Keep

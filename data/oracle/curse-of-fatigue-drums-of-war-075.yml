@@ -1,0 +1,22 @@
+name: Curse of Fatigue
+
+origin: drums-of-war-075
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warlock
+
+instant: 'Attach to target hero or ally. Ongoing : At the start of your turn, put a fatigue counter on Curse of Fatigue. Attached character has -1 health for each fatigue counter.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Affliction Curse

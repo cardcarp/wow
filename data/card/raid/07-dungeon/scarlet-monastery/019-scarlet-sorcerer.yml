@@ -1,13 +1,13 @@
-oracle: scarlet-sorcerer
-
-lex: '019'
-
-set: scarlet-monastery
+index: '019'
 
 rarity: Common
 
 artist: Luca Zontini
 
+variation: []
+
 flavor: '"The Light condemns all who harbor evil."'
 
-variation: []
+oracle: scarlet-sorcerer-scarlet-monastery-019
+
+set: Scarlet Monastery

@@ -1,13 +1,13 @@
-oracle: lava-splash
-
-lex: '048'
-
-set: molten-core-raid
+index: '048'
 
 rarity: Uncommon
 
 artist: John Avon
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: lava-splash-molten-core-raid-048
+
+set: Molten Core Raid

@@ -1,0 +1,23 @@
+name: Hauberk of Karabor
+
+origin: the-hunt-for-illidan-212
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: Your hero has +1 health for each ability and equipment you control.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

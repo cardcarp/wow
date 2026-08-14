@@ -1,0 +1,23 @@
+name: Masters Embrace
+
+origin: crown-of-the-heavens-059
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warlock
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'Choose one: Search your deck for a Pet, reveal it, and put it into your hand; or attach to target Pet. Ongoing : Attached Pet has +4 / +4.'
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery Demonology

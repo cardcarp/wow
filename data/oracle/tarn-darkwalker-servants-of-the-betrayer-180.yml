@@ -1,0 +1,27 @@
+name: Tarn Darkwalker
+
+origin: servants-of-the-betrayer-180
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 1
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Demons have Ferocity .
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

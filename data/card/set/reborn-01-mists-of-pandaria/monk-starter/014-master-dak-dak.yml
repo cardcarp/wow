@@ -1,13 +1,14 @@
-oracle: master-dak-dak
-
-lex: '014'
-
-set: monk-starter
+index: '014'
 
 rarity: Common
 
 artist: ''
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: master-dak-dak-monk-starter-014
+
+set: Monk Starter

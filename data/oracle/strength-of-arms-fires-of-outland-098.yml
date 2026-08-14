@@ -1,0 +1,22 @@
+name: Strength of Arms
+
+origin: fires-of-outland-098
+
+layout: standard
+
+category: Ability
+
+cost: '7'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Ongoing : Each of your weapons has +2 ATK. Each of your armor has +2 DEF.'
+
+regulation:
+
+errata: []
+
+temp: Arms

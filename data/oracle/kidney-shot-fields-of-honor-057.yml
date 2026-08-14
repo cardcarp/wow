@@ -1,0 +1,22 @@
+name: Kidney Shot
+
+origin: fields-of-honor-057
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+instant: 'Finishing Move Choose X of the following: "ability," "ally," "equipment," "hero," and "resource." Exhaust all opposing cards of the chosen kinds.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Assassination

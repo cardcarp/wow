@@ -1,13 +1,13 @@
-oracle: brothers-in-death
-
-lex: '251'
-
-set: scourgewar
+index: '251'
 
 rarity: Uncommon
 
 artist: Steve Ellis
 
+variation: []
+
 flavor: '"Tear that keep asunder, death knight. Find Koltira!" - Thassarian'
 
-variation: []
+oracle: brothers-in-death-scourgewar-251
+
+set: Scourgewar

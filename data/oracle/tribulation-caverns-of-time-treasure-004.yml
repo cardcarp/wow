@@ -1,0 +1,22 @@
+name: Tribulation
+
+origin: caverns-of-time-treasure-004
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, each opponent puts a card from the top of his deck into his graveyard for each hero and ally he controls.'
+
+regulation:
+
+errata: []
+
+temp: Unholy

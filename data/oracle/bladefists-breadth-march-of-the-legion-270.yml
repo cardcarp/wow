@@ -1,0 +1,27 @@
+name: Bladefists Breadth
+
+origin: march-of-the-legion-270
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: When you play a weapon, ready your hero.
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

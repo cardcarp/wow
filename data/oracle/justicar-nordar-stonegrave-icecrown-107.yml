@@ -1,0 +1,30 @@
+name: Justicar Nordar Stonegrave
+
+origin: icecrown-107
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Frost
+
+faction: Alliance
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Opposing Hunters and Pets have -2 ATK.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Death Knight

@@ -1,13 +1,13 @@
-oracle: juggernaut
-
-lex: '118'
-
-set: worldbreaker
+index: '118'
 
 rarity: Rare
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: '"Now you die!" - Gorebelly'
 
-variation: []
+oracle: juggernaut-worldbreaker-118
+
+set: Worldbreaker

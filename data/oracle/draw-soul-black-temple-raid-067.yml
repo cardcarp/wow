@@ -1,0 +1,19 @@
+name: Draw Soul
+
+origin: black-temple-raid-067
+
+layout: standard
+
+category: Event
+
+stage: 2
+
+rule:
+  - type: ability
+    text: 'Each opponent destroys an ally in his party. Ongoing : Opposing heroes have -5 health.'
+
+regulation:
+
+errata: []
+
+temp: ''

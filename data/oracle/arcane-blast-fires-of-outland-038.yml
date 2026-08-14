@@ -1,0 +1,22 @@
+name: Arcane Blast
+
+origin: fires-of-outland-038
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: You pay 1 less to play Arcane Blast for each other card named Arcane Blast in your graveyard. Your hero deals 3 arcane damage to target hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

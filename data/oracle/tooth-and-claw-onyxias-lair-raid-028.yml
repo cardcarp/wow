@@ -1,0 +1,19 @@
+name: Tooth and Claw
+
+origin: onyxias-lair-raid-028
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+rule:
+  - type: ability
+    text: 'Ongoing : Onyxia has +5 ATK while attacking.'
+
+regulation:
+
+errata: []
+
+temp: ''

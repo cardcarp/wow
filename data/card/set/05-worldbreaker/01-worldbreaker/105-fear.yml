@@ -1,13 +1,13 @@
-oracle: fear
-
-lex: '105'
-
-set: worldbreaker
+index: '105'
 
 rarity: Common
 
 artist: Mauro Cascioli
 
+variation: []
+
 flavor: It fled without a word ... unless "AAAAAGH!" counts as a word.
 
-variation: []
+oracle: fear-heroes-of-azeroth-123
+
+set: Worldbreaker

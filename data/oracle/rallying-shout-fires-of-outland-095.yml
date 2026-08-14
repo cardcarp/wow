@@ -1,0 +1,22 @@
+name: Rallying Shout
+
+origin: fires-of-outland-095
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: 'Ongoing : Allies in your party have Protector .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Shout

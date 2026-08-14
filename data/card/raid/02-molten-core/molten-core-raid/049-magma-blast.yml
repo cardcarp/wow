@@ -1,13 +1,13 @@
-oracle: magma-blast
-
-lex: '049'
-
-set: molten-core-raid
+index: '049'
 
 rarity: Uncommon
 
 artist: Jonboy Meyers
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: magma-blast-molten-core-raid-049
+
+set: Molten Core Raid

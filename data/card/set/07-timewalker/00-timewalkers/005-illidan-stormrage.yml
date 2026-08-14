@@ -1,14 +1,14 @@
-oracle: illidan-stormrage
-
-lex: '005'
-
-set: timewalkers
+index: '005'
 
 rarity: Rare
 
 artist: Unknown
 
-flavor: ''
-
 variation:
   - transform
+
+flavor: ''
+
+oracle: illidan-stormrage-black-temple-treasure-001
+
+set: Timewalkers

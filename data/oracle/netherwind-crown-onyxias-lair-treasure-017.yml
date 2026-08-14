@@ -1,0 +1,22 @@
+name: Netherwind Crown
+
+origin: onyxias-lair-treasure-017
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 1 , → Your hero deals 1 arcane damage to target ally. When you play a ability, ready Netherwind Crown.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

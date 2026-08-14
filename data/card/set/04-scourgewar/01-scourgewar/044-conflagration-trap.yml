@@ -1,13 +1,13 @@
-oracle: conflagration-trap
-
-lex: '044'
-
-set: scourgewar
+index: '044'
 
 rarity: Common
 
 artist: James Zhang
 
+variation: []
+
 flavor: '"Sometimes you need to burn the forest down to find your prey." - Kana Nassis'
 
-variation: []
+oracle: conflagration-trap-scourgewar-044
+
+set: Scourgewar

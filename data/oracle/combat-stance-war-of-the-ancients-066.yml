@@ -1,0 +1,22 @@
+name: Combat Stance
+
+origin: war-of-the-ancients-066
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: "Ongoing : You can't play cards other than allies and Stances, and you can't complete quests. Each ally you control has Assault X , where X is its cost."
+
+regulation:
+
+errata: []
+
+temp: Arms

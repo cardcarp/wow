@@ -1,0 +1,22 @@
+name: Obliterating Trap
+
+origin: tomb-of-the-forgotten-023
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+instant: Trap Destroy target attacking ally. If its cost is 4 or more, Delve .
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

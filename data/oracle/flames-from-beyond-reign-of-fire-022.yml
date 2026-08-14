@@ -1,0 +1,22 @@
+name: Flames from Beyond
+
+origin: reign-of-fire-022
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Mage
+
+instant: Warp Your hero deals 5 fire damage to target hero.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fire

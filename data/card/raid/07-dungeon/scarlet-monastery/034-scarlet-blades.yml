@@ -1,13 +1,13 @@
-oracle: scarlet-blades
-
-lex: '034'
-
-set: scarlet-monastery
+index: '034'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor: '"Infidels! They must be purified!" - Scarlet Commander Mograine'
 
-variation: []
+oracle: scarlet-blades-scarlet-monastery-034
+
+set: Scarlet Monastery

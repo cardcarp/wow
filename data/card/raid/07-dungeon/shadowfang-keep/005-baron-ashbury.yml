@@ -1,13 +1,13 @@
-oracle: baron-ashbury
-
-lex: '005'
-
-set: shadowfang-keep
+index: '005'
 
 rarity: Rare
 
 artist: Steve Prescott
 
+variation: []
+
 flavor: "\"Ha! Let's at least keep it interesting.\""
 
-variation: []
+oracle: baron-ashbury-dungeon-treasure-026
+
+set: Shadowfang Keep

@@ -1,0 +1,19 @@
+name: Charred Bones
+
+origin: onyxias-lair-event-006
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Shuffle any number of target graveyards into their owners' decks.
+
+regulation:
+
+errata: []
+
+temp: ''

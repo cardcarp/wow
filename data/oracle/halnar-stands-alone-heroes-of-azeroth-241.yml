@@ -1,0 +1,27 @@
+name: Halnar Stands-Alone
+
+origin: heroes-of-azeroth-241
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Halnar Stands-Alone has +3 ATK and +3 health while he is the only ally in your party.
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

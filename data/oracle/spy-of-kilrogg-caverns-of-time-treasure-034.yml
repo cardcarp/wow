@@ -1,0 +1,22 @@
+name: Spy of Kilrogg
+
+origin: caverns-of-time-treasure-034
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Name a card, then target opponent reveals his hand. If the named card is in that player's hand, your hero deals 5 shadow damage to that player's hero, and you draw a card.
+
+regulation:
+
+errata: []
+
+temp: Demonology

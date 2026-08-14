@@ -1,0 +1,27 @@
+name: Pappy Ironbane
+
+origin: blood-of-gladiators-115
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 2
+
+health: 7
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector At the end of your turn, you may destroy target ability or equipment.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior

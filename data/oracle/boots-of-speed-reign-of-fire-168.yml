@@ -1,0 +1,23 @@
+name: Boots of Speed
+
+origin: reign-of-fire-168
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: 2 → Put this card into your resource row face down and exhausted.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

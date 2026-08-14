@@ -1,0 +1,27 @@
+name: Dramla Lifebender
+
+origin: through-the-dark-portal-207
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 5
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Undead Hero Required You can play ally cards from your graveyard. If an ally would be put into your graveyard from play, remove it from the game instead.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

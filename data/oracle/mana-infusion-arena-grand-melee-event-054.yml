@@ -1,0 +1,17 @@
+name: Mana Infusion
+
+origin: arena-grand-melee-event-054
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: Draw cards until you reach your maximum hand size.
+
+regulation:
+
+errata: []
+
+temp: ''

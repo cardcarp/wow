@@ -1,0 +1,22 @@
+name: Seadog Nally
+
+origin: servants-of-the-betrayer-017
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Nally, destroy a friendly ally → Nally deals ranged damage to target ally equal to that friendly ally's ATK. Southsea Freebooters
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

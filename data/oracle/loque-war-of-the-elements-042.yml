@@ -1,0 +1,28 @@
+name: Loque
+
+origin: war-of-the-elements-042
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 8
+
+health: 8
+
+combat: Arcane
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Beast Mastery Talent Elusive , Stealth , Untargetable Damage that this ally would deal is unpreventable.
+
+regulation:
+
+errata: []
+
+temp: Spirit Beast

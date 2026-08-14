@@ -1,13 +1,13 @@
-oracle: spire-of-sunset
-
-lex: '196'
-
-set: wrathgate
+index: '196'
 
 rarity: Rare
 
 artist: Ben Wooten
 
+variation: []
+
 flavor: '"Da light of day will always shine as long as we be faithful, bruddah." - Mojo Master Zandum'
 
-variation: []
+oracle: spire-of-sunset-wrathgate-196
+
+set: Wrathgate

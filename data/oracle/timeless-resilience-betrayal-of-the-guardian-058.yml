@@ -1,0 +1,22 @@
+name: Timeless Resilience
+
+origin: betrayal-of-the-guardian-058
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: Echo Prevent the next 2 damage that would be dealt to target hero or ally this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

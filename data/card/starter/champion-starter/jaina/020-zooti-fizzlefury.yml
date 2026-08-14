@@ -1,13 +1,13 @@
-oracle: zooti-fizzlefury
-
-lex: '020'
-
-set: jaina
+index: '020'
 
 rarity: Uncommon
 
 artist: Ben Olson
 
+variation: []
+
 flavor: "\"Me and 'Black Ice' have just the thing to put an end to the Firelord.\""
 
-variation: []
+oracle: zooti-fizzlefury-war-of-the-elements-130
+
+set: Jaina

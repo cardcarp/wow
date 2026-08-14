@@ -1,0 +1,25 @@
+name: Zane the Sniper
+
+origin: twilight-of-the-dragons-010
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 2 → Flip Zane face down.
+  - type: ability
+    position: reverse
+    text: You pay 1 less to strike with Ranged weapons.
+
+regulation:
+
+errata: []
+
+temp: Human Hunter

@@ -1,0 +1,23 @@
+name: Arcane Warding
+
+origin: fields-of-honor-082
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+  - Mage
+
+instant: 'Attach to target ally. Ongoing : Attached ally is Untargetable .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane Protection

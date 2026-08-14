@@ -1,0 +1,17 @@
+name: Dress Code
+
+origin: arena-grand-melee-event-027
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: "Ongoing : Unsleeved cards in play are Elusive and Untargetable . Cards can't be unsleeved after Dress Code is flipped."
+
+regulation:
+
+errata: []
+
+temp: ''

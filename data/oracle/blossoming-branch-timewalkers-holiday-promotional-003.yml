@@ -1,0 +1,31 @@
+name: Blossoming Branch
+
+origin: timewalkers-holiday-promotional-003
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 4 , , Destroy this item → Destroy target ally, and its controller puts a 0 / 1 Adorable Rabbit ally token into play. 4 , , Destroy this item → Destroy target ally, and its controller puts a 5 / 5 Savage Rabbit ally token into play.
+
+regulation:
+
+errata: []
+
+temp: Item

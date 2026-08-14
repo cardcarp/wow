@@ -1,0 +1,25 @@
+name: Xavar the Resourceful
+
+origin: march-of-the-legion-227
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 2
+
+combat: Holy
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Resource'
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

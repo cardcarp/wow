@@ -1,0 +1,27 @@
+name: Brodien
+
+origin: the-hunt-for-illidan-120
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: As Brodien enters play, choose whether he is Elusive or Untargetable .
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

@@ -1,0 +1,31 @@
+name: Arrival of the Naaru
+
+origin: timewalkers-crafting-005
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Exhaust an ally you control → Add a meditation counter to this item. While this item has five or more meditation counters: , Destroy this item → Put a 5 / 5 Naaru ally token into play with Absorb and Protector .'
+
+regulation:
+
+errata: []
+
+temp: Item

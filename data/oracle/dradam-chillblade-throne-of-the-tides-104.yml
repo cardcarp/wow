@@ -1,0 +1,27 @@
+name: Dradam Chillblade
+
+origin: throne-of-the-tides-104
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Dwarf Death Knight

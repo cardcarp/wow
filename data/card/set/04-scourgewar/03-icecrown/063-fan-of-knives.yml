@@ -1,13 +1,13 @@
-oracle: fan-of-knives
-
-lex: '063'
-
-set: icecrown
+index: '063'
 
 rarity: Rare
 
 artist: Andrew Robinson
 
+variation: []
+
 flavor: '"I always have another trick up my sleeve." - Ressa Shadeshine'
 
-variation: []
+oracle: fan-of-knives-icecrown-063
+
+set: Icecrown

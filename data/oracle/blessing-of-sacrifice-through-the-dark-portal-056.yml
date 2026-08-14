@@ -1,0 +1,22 @@
+name: Blessing of Sacrifice
+
+origin: through-the-dark-portal-056
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Paladin
+
+instant: 'Attach to target ally in your party. Ongoing : If attached ally would be dealt damage, that much damage is dealt to your hero instead.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Blessing

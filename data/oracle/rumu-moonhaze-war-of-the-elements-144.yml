@@ -1,0 +1,27 @@
+name: Rumu Moonhaze
+
+origin: war-of-the-elements-144
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 3
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally enters play, you may destroy another ability, ally, or equipment you control. If you do, destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: Tauren Priest

@@ -1,0 +1,23 @@
+name: Kick Thinking
+
+origin: wrathgate-098
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+  - Mage
+
+instant: Interrupt target ability with cost less than or equal to the number of Mages and Rogues you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane Combat

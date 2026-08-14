@@ -1,0 +1,25 @@
+name: Priestess of Dementia
+
+origin: black-temple-raid-038
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 2
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Traitor Hero Required 2 , Destroy an ally in your party → Each opponent destroy an ability or equipment he controls.
+
+regulation:
+
+errata: []
+
+temp: Shivan Demon Traitor

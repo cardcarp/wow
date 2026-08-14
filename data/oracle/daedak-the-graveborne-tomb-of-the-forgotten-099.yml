@@ -1,0 +1,27 @@
+name: Daedak the Graveborne
+
+origin: tomb-of-the-forgotten-099
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Eternal , Protector When this ally is destroyed, your hero deals 1 shadow damage to target opposing hero for each resource you control. Then, your hero heals 1 damage from itself for each damage dealt this way.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Death Knight

@@ -1,0 +1,23 @@
+name: Bonereavers Edge
+
+origin: molten-core-treasure-018
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: When Bonereaver's Edge enters play, you may destroy target armor.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Sword

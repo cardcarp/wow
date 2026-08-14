@@ -1,13 +1,13 @@
-oracle: justicar-johanna-rastol
-
-lex: '106'
-
-set: icecrown
+index: '106'
 
 rarity: Uncommon
 
 artist: Daarken
 
+variation: []
+
 flavor: '"My vengeance will be swift and decisive."'
 
-variation: []
+oracle: justicar-johanna-rastol-icecrown-106
+
+set: Icecrown

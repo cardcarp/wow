@@ -1,0 +1,27 @@
+name: Icemistress Gal'ha
+
+origin: servants-of-the-betrayer-164
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Each opponent's maximum hand size is reduced by one for each ally in your party.
+
+regulation:
+
+errata: []
+
+temp: Troll Mage

@@ -1,0 +1,24 @@
+name: Khadgars Kilt of Abjuration
+
+origin: betrayal-of-the-guardian-170
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: 2 , → Opposing allies lose and can't have powers this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

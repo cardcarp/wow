@@ -1,0 +1,22 @@
+name: Ravenous Bite
+
+origin: heroes-of-azeroth-044
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: Target ally has +3 ATK this turn. Target ally has -3 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery

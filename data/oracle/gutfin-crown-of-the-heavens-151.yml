@@ -1,0 +1,27 @@
+name: Gutfin
+
+origin: crown-of-the-heavens-151
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Holy
+
+type: Monster
+
+rule:
+  - type: ability
+    text: This and other Murloc allies you control have +1 .
+
+regulation:
+
+errata: []
+
+temp: Murloc Priest

@@ -1,13 +1,13 @@
-oracle: gurubashi-punisher
-
-lex: '022'
-
-set: hogger
+index: '022'
 
 rarity: Uncommon
 
 artist: Peet Cooper
 
+variation: []
+
 flavor: '"Dey all serve Gurubashi, one way or de other ..." - Zanzil'
 
-variation: []
+oracle: gurubashi-punisher-crown-of-the-heavens-181
+
+set: Hogger

@@ -1,13 +1,13 @@
-oracle: bloodthirst
-
-lex: '012'
-
-set: hogger-demo
+index: '012'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: bloodthirst-hogger-demo-012
+
+set: Hogger Demo

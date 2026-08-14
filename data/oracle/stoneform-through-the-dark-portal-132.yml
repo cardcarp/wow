@@ -1,0 +1,21 @@
+name: Stoneform
+
+origin: through-the-dark-portal-132
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+faction: Alliance
+
+instant: 'Dwarf Hero Required Destroy any number of abilities attached to your hero. Ongoing : Each of your armor has +1 DEF.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

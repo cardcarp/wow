@@ -1,0 +1,27 @@
+name: Ganvar Singebeard
+
+origin: battle-of-the-aspects-treasure-035
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 1
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: At the start of your turn, this ally deals fire damage equal to his ATK to each opposing hero.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Mage

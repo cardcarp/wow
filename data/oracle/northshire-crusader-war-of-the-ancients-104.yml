@@ -1,0 +1,27 @@
+name: Northshire Crusader
+
+origin: war-of-the-ancients-104
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

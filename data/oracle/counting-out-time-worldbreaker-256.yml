@@ -1,0 +1,17 @@
+name: Counting Out Time
+
+origin: worldbreaker-256
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 4 to complete this quest. Reward : Draw a card. If you control ten or more resources, draw another two cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

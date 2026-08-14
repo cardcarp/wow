@@ -1,0 +1,27 @@
+name: Karta Foultongue
+
+origin: blood-of-gladiators-136
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Hardiness 1 → This turn, target ally must attack if able and can attack only Karta if able.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

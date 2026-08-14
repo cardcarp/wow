@@ -1,14 +1,14 @@
-oracle: lord-godfrey-level-1
-
-lex: '001'
-
-set: shadowfang-keep
+index: '001'
 
 rarity: Rare
 
 artist: Alex Horley Orlandelli
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: lord-godfrey-level-1-shadowfang-keep-001
+
+set: Shadowfang Keep

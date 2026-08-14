@@ -1,0 +1,27 @@
+name: Lunaris Silverfrost
+
+origin: reign-of-fire-087
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 2
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive This ally has Assault X , where X is the highest cost among other allies you control.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Death Knight

@@ -1,0 +1,22 @@
+name: Fel Pact
+
+origin: march-of-the-legion-106
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: "Attach to target Demon ally. Ongoing : Attached ally can't be destroyed."
+
+regulation:
+
+errata: []
+
+temp: Demonology

@@ -1,13 +1,13 @@
-oracle: death-pact
-
-lex: '026'
-
-set: scourgewar
+index: '026'
 
 rarity: Uncommon
 
 artist: Brandon Kitkouski
 
+variation: []
+
 flavor: '"Your services are no longer required." - Drandus the Deathcaller'
 
-variation: []
+oracle: death-pact-scourgewar-026
+
+set: Scourgewar

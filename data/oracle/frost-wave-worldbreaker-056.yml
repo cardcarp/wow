@@ -1,0 +1,22 @@
+name: Frost Wave
+
+origin: worldbreaker-056
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: Up to two target allies can't attack or exhaust this turn. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost

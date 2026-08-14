@@ -1,0 +1,27 @@
+name: High Chieftain Baine Bloodhoof
+
+origin: twilight-of-the-dragons-141
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 7
+
+health: 7
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Prevent all damage that would be dealt to this ally while you control another ally.
+
+regulation:
+
+errata: []
+
+temp: Tauren High Chieftain

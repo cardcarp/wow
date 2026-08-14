@@ -2,7 +2,7 @@ name: BlizzCon (2011)
 
 type: promo
 
-lex:
+index:
 
 subtotal: 1
 
@@ -10,4 +10,4 @@ total: 1
 
 date_release: 2011-08
 
-collection: blizzcon
+collection: BlizzCon Promotional

@@ -1,0 +1,22 @@
+name: Obliterate
+
+origin: scourgewar-028
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: Your hero deals 2 melee damage to target hero or ally, or 4 if you control a Disease.
+
+regulation:
+
+errata: []
+
+temp: Frost

@@ -1,0 +1,27 @@
+name: Arcane Anomaly
+
+origin: betrayal-of-the-guardian-128
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 0
+
+health: 1
+
+combat: Arcane
+
+type: Monster
+
+rule:
+  - type: ability
+    text: This ally has +1 ATK for each card in your hand.
+
+regulation:
+
+errata: []
+
+temp: Arcane Elemental

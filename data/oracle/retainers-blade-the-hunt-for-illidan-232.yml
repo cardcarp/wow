@@ -1,0 +1,23 @@
+name: Retainers Blade
+
+origin: the-hunt-for-illidan-232
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Shaman
+  - Rogue
+
+rule:
+  - type: ability
+    text: Scryer Reputation When Retainer's Blade is destroyed, you may destroy target ally.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

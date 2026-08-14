@@ -1,13 +1,13 @@
-oracle: track-dragonkin
-
-lex: '050'
-
-set: worldbreaker
+index: '050'
 
 rarity: Common
 
 artist: Ben Thompson
 
+variation: []
+
 flavor: '"Any hunter worth his salt has matched wits with a dragon at some time in his life." -'
 
-variation: []
+oracle: track-dragonkin-worldbreaker-050
+
+set: Worldbreaker

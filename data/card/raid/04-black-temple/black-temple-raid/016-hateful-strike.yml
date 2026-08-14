@@ -1,13 +1,13 @@
-oracle: hateful-strike
-
-lex: '016'
-
-set: black-temple-raid
+index: '016'
 
 rarity: Uncommon
 
 artist: Dany Orizio
 
+variation: []
+
 flavor: A strike borne of malice and executed with hatred.
 
-variation: []
+oracle: hateful-strike-black-temple-raid-016
+
+set: Black Temple Raid

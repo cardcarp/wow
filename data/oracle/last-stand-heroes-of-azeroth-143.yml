@@ -1,0 +1,22 @@
+name: Last Stand
+
+origin: heroes-of-azeroth-143
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: 'Protection Hero Required Ongoing : Your hero has +20 health. At the start of your turn, discard two cards or destroy Last Stand.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Talent

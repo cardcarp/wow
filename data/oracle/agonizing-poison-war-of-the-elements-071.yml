@@ -1,0 +1,22 @@
+name: Agonizing Poison
+
+origin: war-of-the-elements-071
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: 'Attach to target hero or ally that was dealt combat damage by your hero this turn. Ongoing : At the start of your turn, your hero deals 3 nature damage to attached character if its controller has four or fewer cards in his hand.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Assassination Poison

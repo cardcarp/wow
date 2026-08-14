@@ -1,0 +1,22 @@
+name: Retaliation
+
+origin: march-of-the-legion-119
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: 'Ongoing : You pay 10 less to strike with Melee weapons while your hero is defending.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arms

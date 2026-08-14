@@ -1,13 +1,13 @@
-oracle: rolling-thunder
-
-lex: '100'
-
-set: worldbreaker
+index: '100'
 
 rarity: Rare
 
 artist: Jesper Ejsing
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: rolling-thunder-worldbreaker-100
+
+set: Worldbreaker

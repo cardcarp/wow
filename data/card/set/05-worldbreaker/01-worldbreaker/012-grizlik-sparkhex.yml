@@ -1,14 +1,14 @@
-oracle: grizlik-sparkhex
-
-lex: '012'
-
-set: worldbreaker
+index: '012'
 
 rarity: Uncommon
 
 artist: Matt Cavotta
 
-flavor: "\"Hurry up, Jhuunash! We don't have time for this!\""
-
 variation:
   - transform
+
+flavor: "\"Hurry up, Jhuunash! We don't have time for this!\""
+
+oracle: grizlik-sparkhex-worldbreaker-012
+
+set: Worldbreaker

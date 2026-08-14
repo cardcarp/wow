@@ -1,13 +1,13 @@
-oracle: deliberate-heal
-
-lex: '047'
-
-set: icecrown
+index: '047'
 
 rarity: Common
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: '"Some may call it hesitation; I call it patience." - Thoros the Savior'
 
-variation: []
+oracle: deliberate-heal-icecrown-047
+
+set: Icecrown

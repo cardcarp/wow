@@ -1,0 +1,19 @@
+name: Word of Shame
+
+origin: shadowfang-keep-035
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Each Raider chooses and destroys an ability, ally, and equipment he controls.
+
+regulation:
+
+errata: []
+
+temp: ''

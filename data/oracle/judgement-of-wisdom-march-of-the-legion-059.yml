@@ -1,0 +1,22 @@
+name: Judgement of Wisdom
+
+origin: march-of-the-legion-059
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: "Attach to target opposing hero or ally. Ongoing : When a friendly hero or ally deals combat damage to attached character, that friendly character's controller draws a card."
+
+regulation:
+
+errata: []
+
+temp: Holy

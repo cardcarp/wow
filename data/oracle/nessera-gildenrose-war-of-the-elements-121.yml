@@ -1,0 +1,27 @@
+name: Nessera Gildenrose
+
+origin: war-of-the-elements-121
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 2 → Another target ally has Assault 1 this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

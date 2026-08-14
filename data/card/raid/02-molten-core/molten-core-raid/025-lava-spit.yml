@@ -1,13 +1,13 @@
-oracle: lava-spit
-
-lex: '025'
-
-set: molten-core-raid
+index: '025'
 
 rarity: Uncommon
 
 artist: Ashley Wood
 
+variation: []
+
 flavor: When a dog drools molten rock, slobbering is deadly.
 
-variation: []
+oracle: lava-spit-molten-core-raid-025
+
+set: Molten Core Raid

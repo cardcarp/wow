@@ -1,13 +1,13 @@
-oracle: grounding-totem
-
-lex: '010'
-
-set: totem
+index: '010'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: grounding-totem-drums-of-war-069
+
+set: Totem

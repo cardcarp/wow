@@ -1,0 +1,22 @@
+name: Circle of Life
+
+origin: heroes-of-azeroth-019
+
+layout: standard
+
+category: Ability
+
+cost: '8'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: 'Ongoing : When an ally is destroyed, its controller may search his deck for an ally card with the same name and put it into play exhausted.'
+
+regulation:
+
+errata: []
+
+temp: Restoration

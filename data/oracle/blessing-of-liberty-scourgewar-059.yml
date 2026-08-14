@@ -1,0 +1,22 @@
+name: Blessing of Liberty
+
+origin: scourgewar-059
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+instant: 'Attach to target friendly non-hero card. Ongoing : Attached card has Untargetable . Death Rattle : Target friendly non-hero card has Untargetable this turn.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Blessing

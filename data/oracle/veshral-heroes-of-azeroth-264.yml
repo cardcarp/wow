@@ -1,0 +1,27 @@
+name: Vesh'ral
+
+origin: heroes-of-azeroth-264
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 1
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity
+
+regulation:
+
+errata: []
+
+temp: Troll Mage

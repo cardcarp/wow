@@ -1,0 +1,22 @@
+name: Unrelenting Assault
+
+origin: march-of-the-legion-123
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: You can't play other cards this turn. If you've played no other cards this turn, when your hero attacks this turn, you may pay 1 . If you do, ready your hero and all of your Melee weapons.
+
+regulation:
+
+errata: []
+
+temp: Arms

@@ -1,14 +1,14 @@
-oracle: golemagg-the-incinerator
-
-lex: '008'
-
-set: molten-core-raid
+index: '008'
 
 rarity: Rare
 
 artist: Glenn Rane
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: golemagg-the-incinerator-molten-core-raid-008
+
+set: Molten Core Raid

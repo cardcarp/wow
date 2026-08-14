@@ -1,0 +1,22 @@
+name: Rake
+
+origin: through-the-dark-portal-026
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+instant: 'Attach to target hero or ally, and your hero deals 1 melee damage to it. Ongoing : At the start of your turn, if your hero is in cat form, it deals 1 melee damage to attached character.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral Combo

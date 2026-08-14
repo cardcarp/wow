@@ -1,14 +1,14 @@
-oracle: jai-dawnsteel
-
-lex: '013'
-
-set: worldbreaker
+index: '013'
 
 rarity: Uncommon
 
 artist: Zoltan Boros & Gabor Szikszai
 
-flavor: "\"Underestimate the martial strength of the sin'dorei at your own risk.\""
-
 variation:
   - transform
+
+flavor: "\"Underestimate the martial strength of the sin'dorei at your own risk.\""
+
+oracle: jai-dawnsteel-worldbreaker-013
+
+set: Worldbreaker

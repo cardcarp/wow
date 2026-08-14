@@ -1,0 +1,22 @@
+name: Psychic Wail
+
+origin: worldbreaker-080
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: "Target player puts an ally he controls into its owner's hand. Stash : Exhaust target resource."
+
+regulation:
+
+errata: []
+
+temp: Shadow

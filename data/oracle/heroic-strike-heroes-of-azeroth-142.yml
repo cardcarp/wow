@@ -1,0 +1,22 @@
+name: Heroic Strike
+
+origin: heroes-of-azeroth-142
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: Weapons you control have +3 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Arms

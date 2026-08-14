@@ -1,13 +1,13 @@
-oracle: armored-blue-wind-rider
-
-lex: '129'
-
-set: wrathgate
+index: '129'
 
 rarity: Rare
 
 artist: James Ryman
 
+variation: []
+
 flavor: (Mounts can't attack or be attacked.)
 
-variation: []
+oracle: armored-blue-wind-rider-wrathgate-129
+
+set: Wrathgate

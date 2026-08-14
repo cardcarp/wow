@@ -1,0 +1,21 @@
+name: From the Shadows
+
+origin: heroes-of-azeroth-151
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Ongoing : All allies have Elusive .'
+
+regulation:
+
+errata: []
+
+temp: ''

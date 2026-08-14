@@ -1,13 +1,14 @@
-oracle: dalronn-the-controller
-
-lex: '005'
-
-set: icecrown
+index: '005'
 
 rarity:
 
 artist:
 
+variation:
+  - transform
+
 flavor:
 
-variation: []
+oracle: dalronn-the-controller-icecrown-005
+
+set: Icecrown

@@ -1,0 +1,23 @@
+name: Grips of Damnation
+
+origin: fields-of-honor-159
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: At the start of your turn, your hero deals 2 melee damage to each hero. 2 → This turn, prevent all damage that would be dealt this way. Any player can use this power.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

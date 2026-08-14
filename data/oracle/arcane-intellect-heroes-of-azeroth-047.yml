@@ -1,0 +1,22 @@
+name: Arcane Intellect
+
+origin: heroes-of-azeroth-047
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+instant: "Attach to target hero, and its controller draws a card. Ongoing : Attached hero's controller's maximum hand size is increased by three."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

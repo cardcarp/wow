@@ -1,13 +1,13 @@
-oracle: belt-of-absolute-zero
-
-lex: '021'
-
-set: hogger
+index: '021'
 
 rarity: Common
 
 artist: Thom Tenery
 
+variation: []
+
 flavor: '"How well does the mortal shell handle extreme temperature change?" - Maloriak'
 
-variation: []
+oracle: belt-of-absolute-zero-crown-of-the-heavens-170
+
+set: Hogger

@@ -1,0 +1,23 @@
+name: Lady Sira'kess
+
+origin: throne-of-the-tides-023
+
+layout: transform
+
+category: Hero
+
+type: Monster
+
+rule:
+  - type: ability
+    position: front
+    text: 8 → Flip Sira'kess face down. You pay 8 less to flip Sira'kess if you played three or more Frost and/or cards this turn.
+  - type: ability
+    position: reverse
+    text: "→ Sira'kess deals 1 frost damage to target hero or ally. 2 → Exhaust target hero or ally that was dealt frost ( ) damage this turn. Deckbuilding: You can't put or cards in your deck."
+
+regulation:
+
+errata: []
+
+temp: Naga Mage 25

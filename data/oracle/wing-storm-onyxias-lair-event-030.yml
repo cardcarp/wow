@@ -1,0 +1,19 @@
+name: Wing Storm
+
+origin: onyxias-lair-event-030
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Exhaust all opposing allies.
+
+regulation:
+
+errata: []
+
+temp: ''

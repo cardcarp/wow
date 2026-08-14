@@ -1,0 +1,27 @@
+name: Farander Shadesurge
+
+origin: scourgewar-173
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Mend 2
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Priest

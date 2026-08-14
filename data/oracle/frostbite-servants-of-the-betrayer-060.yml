@@ -1,0 +1,22 @@
+name: Frostbite
+
+origin: servants-of-the-betrayer-060
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Frost Hero Required Ongoing : 1 , Discard a Frost or card → Opponents play 2 more to play cards this turn.'
+
+regulation:
+
+errata: []
+
+temp: Frost Talent

@@ -1,0 +1,22 @@
+name: Flame Lance
+
+origin: crown-of-the-heavens-021
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Mage
+
+instant: Your hero deals 3 fire damage to target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fire

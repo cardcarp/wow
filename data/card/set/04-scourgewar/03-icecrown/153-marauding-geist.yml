@@ -1,13 +1,13 @@
-oracle: marauding-geist
-
-lex: '153'
-
-set: icecrown
+index: '153'
 
 rarity: Common
 
 artist: Ian Ameling
 
+variation: []
+
 flavor: The perfect servants for a ruthless master.
 
-variation: []
+oracle: marauding-geist-icecrown-153
+
+set: Icecrown

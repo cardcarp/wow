@@ -1,13 +1,13 @@
-oracle: elemental-vision
-
-lex: '097'
-
-set: worldbreaker
+index: '097'
 
 rarity: Common
 
 artist: Lars Grant-West
 
+variation: []
+
 flavor: '"Commune with the elements, and you may gain sight beyond sight." - Bragvi Stormstein'
 
-variation: []
+oracle: elemental-vision-worldbreaker-097
+
+set: Worldbreaker

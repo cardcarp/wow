@@ -1,0 +1,25 @@
+name: Nazzik, Timewalker Trickster
+
+origin: betrayal-of-the-guardian-120
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 5
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: "Stealth When this ally deals combat damage to a defending hero, choose one: that hero's controller chooses and discards a card; or you draw a card. If you control two or more allies that share a or race, you may choose both."
+
+regulation:
+
+errata: []
+
+temp: Goblin Rogue

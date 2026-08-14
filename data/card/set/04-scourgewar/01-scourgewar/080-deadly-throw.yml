@@ -1,13 +1,13 @@
-oracle: deadly-throw
-
-lex: '080'
-
-set: scourgewar
+index: '080'
 
 rarity: Rare
 
 artist: Daarken
 
+variation: []
+
 flavor: '"Try to run. I dare you." - Umbrage'
 
-variation: []
+oracle: deadly-throw-scourgewar-080
+
+set: Scourgewar

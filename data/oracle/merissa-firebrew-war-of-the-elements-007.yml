@@ -1,0 +1,25 @@
+name: Merissa Firebrew
+
+origin: war-of-the-elements-007
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 3 → Flip Merissa
+  - type: ability
+    position: reverse
+    text: When you play an equipment, Merissa has Assault 1 this turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Shaman

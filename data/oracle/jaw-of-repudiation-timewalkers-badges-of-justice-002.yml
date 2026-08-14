@@ -1,0 +1,24 @@
+name: Jaw of Repudiation
+
+origin: timewalkers-badges-of-justice-002
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 8 → Your hero deals 8 melee damage to target hero.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

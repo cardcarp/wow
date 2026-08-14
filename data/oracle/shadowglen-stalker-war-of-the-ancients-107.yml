@@ -1,0 +1,27 @@
+name: Shadowglen Stalker
+
+origin: war-of-the-ancients-107
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Haste 2
+
+regulation:
+
+errata: []
+
+temp: Night Elf Rogue

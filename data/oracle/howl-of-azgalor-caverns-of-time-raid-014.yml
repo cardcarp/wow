@@ -1,0 +1,19 @@
+name: Howl of Azgalor
+
+origin: caverns-of-time-raid-014
+
+layout: standard
+
+category: Ability
+
+type: Boss
+
+rule:
+  - type: ability
+    text: "Ongoing : Raiders can't play abilities. When a Caverns hero is defeated, destroy this ability."
+
+regulation:
+
+errata: []
+
+temp: ''

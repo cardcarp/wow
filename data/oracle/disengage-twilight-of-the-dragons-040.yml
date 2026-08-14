@@ -1,0 +1,22 @@
+name: Disengage
+
+origin: twilight-of-the-dragons-040
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+instant: Remove target attacker from combat, and your hero deals 1 ranged damage to it.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

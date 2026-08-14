@@ -1,13 +1,13 @@
-oracle: thunderstorm
-
-lex: '073'
-
-set: icecrown
+index: '073'
 
 rarity: Rare
 
 artist: Leo Che
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: thunderstorm-icecrown-073
+
+set: Icecrown

@@ -1,0 +1,19 @@
+name: Fixate
+
+origin: black-temple-raid-024
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+instant: Your hero has +3 ATK, and combat damage that it would deal is unpreventable this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Black Temple

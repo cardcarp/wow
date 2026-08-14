@@ -1,0 +1,19 @@
+name: Rally the Troops
+
+origin: heroes-of-azeroth-166
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+instant: Allies in your party have +1 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

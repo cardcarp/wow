@@ -1,13 +1,13 @@
-oracle: gathering-of-wits
-
-lex: '072'
-
-set: scourgewar
+index: '072'
 
 rarity: Rare
 
 artist: Massive Black
 
+variation: []
+
 flavor: '"They are nothing but sheep - easily guided, even to their deaths." - Martiana the Mindwrench'
 
-variation: []
+oracle: gathering-of-wits-scourgewar-072
+
+set: Scourgewar

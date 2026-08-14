@@ -1,0 +1,27 @@
+name: Marshal Reginald Windsor
+
+origin: through-the-dark-portal-180
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 3 , Destroy Marshal Reginald Windsor → Destroy target ally with cost 7 or more.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

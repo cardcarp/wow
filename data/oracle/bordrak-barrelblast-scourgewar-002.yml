@@ -1,0 +1,22 @@
+name: Bordrak Barrelblast
+
+origin: scourgewar-002
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'If you control another Hunter: Flip Bordrak → Put a +1 ATK counter on target Ranged weapon.'
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

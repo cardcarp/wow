@@ -1,13 +1,13 @@
-oracle: wazix-blonktop
-
-lex: '163'
-
-set: worldbreaker
+index: '163'
 
 rarity: Common
 
 artist: Jessica Jung
 
+variation: []
+
 flavor: '"I have faith that the Light will help shield us against the onslaught of the elements."'
 
-variation: []
+oracle: wazix-blonktop-worldbreaker-163
+
+set: Worldbreaker

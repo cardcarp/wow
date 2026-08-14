@@ -1,13 +1,14 @@
-oracle: the-arachnid-quarter
-
-lex: '001'
-
-set: naxxramas-raid
+index: '001'
 
 rarity: Rare
 
 artist: Matt Gaser
 
+variation:
+  - transform
+
 flavor: When this card flips to this side, say "Who dares violate the sanctity of my domain? Be warned, all who trespass here are doomed!"
 
-variation: []
+oracle: the-arachnid-quarter-naxxramas-raid-001
+
+set: Naxxramas Raid

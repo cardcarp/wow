@@ -1,0 +1,22 @@
+name: Earths Bounty
+
+origin: march-of-the-legion-093
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: Put target card from your graveyard into your hand.
+
+regulation:
+
+errata: []
+
+temp: Restoration

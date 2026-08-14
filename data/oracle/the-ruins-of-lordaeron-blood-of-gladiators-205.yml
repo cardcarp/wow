@@ -1,0 +1,17 @@
+name: The Ruins of Lordaeron
+
+origin: blood-of-gladiators-205
+
+layout: standard
+
+category: Location
+
+rule:
+  - type: ability
+    text: When a hero or ally in your party deals damage, add an arena counter. , Remove three arena counters → Put up to three target cards from one player's graveyard on the bottom of his deck.
+
+regulation:
+
+errata: []
+
+temp: Arena

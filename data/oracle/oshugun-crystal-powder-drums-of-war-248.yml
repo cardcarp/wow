@@ -1,0 +1,17 @@
+name: Oshu'gun Crystal Powder
+
+origin: drums-of-war-248
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'If you control a location, pay 1 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,23 @@
+name: Blade of Unquenched Thirst
+
+origin: march-of-the-legion-275
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Shaman
+  - Rogue
+
+rule:
+  - type: ability
+    text: At the end of your turn, if no damage was dealt with Blade of Unquenched Thirst this turn, destroy it.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

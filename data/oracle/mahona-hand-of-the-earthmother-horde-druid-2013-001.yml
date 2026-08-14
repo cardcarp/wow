@@ -1,0 +1,22 @@
+name: Mahona, Hand of the Earthmother
+
+origin: horde-druid-2013-001
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Mahona → Reveal the top four cards of your deck. Put a revealed attachment into your hand and the rest on the bottom of your deck.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

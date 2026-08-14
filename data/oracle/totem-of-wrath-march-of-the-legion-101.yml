@@ -1,0 +1,22 @@
+name: Totem of Wrath
+
+origin: march-of-the-legion-101
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: 'Elemental Hero Required Ongoing : If an ally in your party would deal non-combat damage, it deals that much +2 instead. (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental Talent 1

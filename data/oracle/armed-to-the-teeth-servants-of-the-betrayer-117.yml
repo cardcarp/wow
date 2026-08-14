@@ -1,0 +1,22 @@
+name: Armed to the Teeth
+
+origin: servants-of-the-betrayer-117
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+instant: Your hero deals melee damage to target ally equal to 3 plus the number of equipment you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury

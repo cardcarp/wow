@@ -1,0 +1,22 @@
+name: Decimate
+
+origin: war-of-the-ancients-067
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: Destroy up to two target equipment.
+
+regulation:
+
+errata: []
+
+temp: Protection

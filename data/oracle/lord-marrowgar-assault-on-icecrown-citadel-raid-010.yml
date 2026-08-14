@@ -1,0 +1,27 @@
+name: Lord Marrowgar
+
+origin: assault-on-icecrown-citadel-raid-010
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 7
+
+health: 7
+
+combat: Melee
+
+type: Raid
+
+rule:
+  - type: ability
+    text: "Bone Storm : When Lord Marrowgar is destroyed, he deals 1 melee damage to each opposing hero for each ally in its controller's graveyard."
+
+regulation:
+
+errata: []
+
+temp: Bone Wraith

@@ -1,13 +1,13 @@
-oracle: blood-chill
-
-lex: '024'
-
-set: worldbreaker
+index: '024'
 
 rarity: Common
 
 artist: Chris Rahn
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: blood-chill-worldbreaker-024
+
+set: Worldbreaker

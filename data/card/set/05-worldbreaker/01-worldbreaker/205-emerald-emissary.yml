@@ -1,13 +1,13 @@
-oracle: emerald-emissary
-
-lex: '205'
-
-set: worldbreaker
+index: '205'
 
 rarity: Uncommon
 
 artist: Dave Allsop
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: emerald-emissary-worldbreaker-205
+
+set: Worldbreaker

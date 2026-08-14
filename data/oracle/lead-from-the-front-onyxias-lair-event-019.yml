@@ -1,0 +1,19 @@
+name: Lead from the Front
+
+origin: onyxias-lair-event-019
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Opposing heroes have Protector this turn.
+
+regulation:
+
+errata: []
+
+temp: ''

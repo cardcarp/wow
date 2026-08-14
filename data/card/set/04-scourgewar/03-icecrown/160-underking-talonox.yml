@@ -1,13 +1,13 @@
-oracle: underking-talonox
-
-lex: '160'
-
-set: icecrown
+index: '160'
 
 rarity: Rare
 
 artist: Phill Gonzales
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: underking-talonox-icecrown-160
+
+set: Icecrown

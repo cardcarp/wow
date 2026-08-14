@@ -1,0 +1,19 @@
+name: Explosive Heat
+
+origin: battle-of-the-aspects-raid-026
+
+layout: standard
+
+category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Deathwing deals 10 fire damage to the Raiding heroes divided as the Raiders choose.
+
+regulation:
+
+errata: []
+
+temp: ''

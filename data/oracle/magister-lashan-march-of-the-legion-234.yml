@@ -1,0 +1,25 @@
+name: Magister Lashan
+
+origin: march-of-the-legion-234
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 1
+
+combat: Fire
+
+rule:
+  - type: ability
+    text: 'Scryer Reputation Sabotage: Resource When Lashan sabotages a resource, destroy it.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

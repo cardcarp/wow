@@ -1,0 +1,25 @@
+name: Retainer Athan
+
+origin: servants-of-the-betrayer-202
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Scryer Reputation When Athan is destroyed, target player discards his hand, then draws that many cards.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

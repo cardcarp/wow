@@ -1,14 +1,14 @@
-oracle: yuna-sunridge
-
-lex: '020'
-
-set: worldbreaker
+index: '020'
 
 rarity: Uncommon
 
 artist: James Ryman
 
-flavor: '"The Earthmother has taught me much, and now I look to the Sun to teach me further."'
-
 variation:
   - transform
+
+flavor: '"The Earthmother has taught me much, and now I look to the Sun to teach me further."'
+
+oracle: yuna-sunridge-worldbreaker-020
+
+set: Worldbreaker

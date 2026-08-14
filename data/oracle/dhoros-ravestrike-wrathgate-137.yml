@@ -1,0 +1,27 @@
+name: Dhoros Ravestrike
+
+origin: wrathgate-137
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 3 → This ally has Assault 3 this turn.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Hunter

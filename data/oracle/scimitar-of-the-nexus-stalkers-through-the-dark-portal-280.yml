@@ -1,0 +1,23 @@
+name: Scimitar of the Nexus Stalkers
+
+origin: through-the-dark-portal-280
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Rogue
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

@@ -1,0 +1,22 @@
+name: Primal Focus
+
+origin: icecrown-037
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'Ongoing : At the end of your turn, ready up to two resources you control.'
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery

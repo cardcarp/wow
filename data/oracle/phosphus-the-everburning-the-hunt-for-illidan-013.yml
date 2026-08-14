@@ -1,0 +1,22 @@
+name: Phosphus the Everburning
+
+origin: the-hunt-for-illidan-013
+
+layout: transform
+
+category: Hero
+
+health: 25
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: '4 , Flip Phosphus → Choose one: Phosphus deals 4 fire damage to target ally; or Phosphus deals 2 fire damage to each of two target allies. Use only on your turn.'
+
+regulation:
+
+errata: []
+
+temp: Undead Mage

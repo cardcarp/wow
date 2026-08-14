@@ -1,13 +1,13 @@
-oracle: teresa-voidheart
-
-lex: '192'
-
-set: scourgewar
+index: '192'
 
 rarity: Common
 
 artist: Dave Kendall
 
+variation: []
+
 flavor: '"Heed the words of the Nether. Its knowledge far surpasses any mortal understanding of reality."'
 
-variation: []
+oracle: teresa-voidheart-scourgewar-192
+
+set: Scourgewar

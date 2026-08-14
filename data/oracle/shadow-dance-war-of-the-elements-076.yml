@@ -1,0 +1,22 @@
+name: Shadow Dance
+
+origin: war-of-the-elements-076
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Subtlety Talent Your hero has Assault 2 and Stealth this turn. Ongoing : When you play a ability, your hero has Assault 2 and Stealth this turn.'
+
+regulation:
+
+errata: []
+
+temp: Subtlety

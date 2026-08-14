@@ -1,0 +1,22 @@
+name: Ghost Wolf
+
+origin: heroes-of-azeroth-110
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Ongoing : Exhaust your hero → If your hero is defending, remove all attacking allies from combat.'
+
+regulation:
+
+errata: []
+
+temp: Enhancement

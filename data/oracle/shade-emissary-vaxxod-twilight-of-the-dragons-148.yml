@@ -1,0 +1,27 @@
+name: Shade Emissary Vaxxod
+
+origin: twilight-of-the-dragons-148
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 5
+
+health: 7
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Time is Money → This ally deals 2 shadow damage to target ally and 2 shadow damage to itself.
+
+regulation:
+
+errata: []
+
+temp: Goblin Priest

@@ -1,13 +1,13 @@
-oracle: horatio-plaguetouch
-
-lex: '137'
-
-set: scourgewar
+index: '137'
 
 rarity: Common
 
 artist: Jon Foster
 
+variation: []
+
 flavor: '"The whispers in my ear are those of the Nether, hungering for your energy."'
 
-variation: []
+oracle: horatio-plaguetouch-scourgewar-137
+
+set: Scourgewar

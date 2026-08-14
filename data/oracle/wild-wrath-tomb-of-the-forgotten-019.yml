@@ -1,0 +1,22 @@
+name: Wild Wrath
+
+origin: tomb-of-the-forgotten-019
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: Your hero deals 2 nature damage to target ally. Put a 1 / 1 Treant ally token into play.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Balance

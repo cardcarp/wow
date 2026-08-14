@@ -1,0 +1,19 @@
+name: Bellowing Roar
+
+origin: onyxias-lair-raid-005
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+rule:
+  - type: ability
+    text: Stage 3 Only Put all opposing allies into their owners' hands. Opponents can't play allies until after your next turn.
+
+regulation:
+
+errata: []
+
+temp: ''

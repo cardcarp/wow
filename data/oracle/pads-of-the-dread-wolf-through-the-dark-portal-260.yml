@@ -1,0 +1,21 @@
+name: Pads of the Dread Wolf
+
+origin: through-the-dark-portal-260
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Druid
+  - Rogue
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

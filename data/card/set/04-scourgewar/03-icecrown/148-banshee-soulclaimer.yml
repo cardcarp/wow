@@ -1,13 +1,13 @@
-oracle: banshee-soulclaimer
-
-lex: '148'
-
-set: icecrown
+index: '148'
 
 rarity: Common
 
 artist: Vance Kovacs
 
+variation: []
+
 flavor: Their shrieks can crumble even the sturdiest of warriors.
 
-variation: []
+oracle: banshee-soulclaimer-icecrown-148
+
+set: Icecrown

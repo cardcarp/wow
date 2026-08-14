@@ -1,0 +1,22 @@
+name: Moonfire
+
+origin: fires-of-outland-024
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: "Attach to target hero or ally, and your hero deals 1 arcane damage to it. Ongoing : At the start of your turn, if Moonfire is in play, your hero deals 1 arcane damage to attached character. 1 → Put Moonfire into its owner's hand."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Balance

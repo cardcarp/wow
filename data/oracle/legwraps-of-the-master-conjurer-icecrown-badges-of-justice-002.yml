@@ -1,0 +1,24 @@
+name: Legwraps of the Master Conjurer
+
+origin: icecrown-badges-of-justice-002
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: At the start of your turn, look at the top card of your deck and remove it from the game face down. 2 , Discard your hand, destroy this armor → Put each card you removed this way into your hand.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

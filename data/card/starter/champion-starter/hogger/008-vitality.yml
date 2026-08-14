@@ -1,13 +1,13 @@
-oracle: vitality
-
-lex: '008'
-
-set: hogger
+index: '008'
 
 rarity: Rare
 
 artist: Jonboy Meyers
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: vitality-the-hunt-for-illidan-114
+
+set: Hogger

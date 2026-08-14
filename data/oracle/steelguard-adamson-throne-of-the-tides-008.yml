@@ -1,0 +1,22 @@
+name: Steelguard Adamson
+
+origin: throne-of-the-tides-008
+
+layout: transform
+
+category: Hero
+
+health: 30
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: '3 , Flip Adamson → Choose one: Add a +1 ATK counter to target weapon; or add a +1 counter to target armor.'
+
+regulation:
+
+errata: []
+
+temp: Worgen Warrior

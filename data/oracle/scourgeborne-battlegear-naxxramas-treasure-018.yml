@@ -1,0 +1,22 @@
+name: Scourgeborne Battlegear
+
+origin: naxxramas-treasure-018
+
+layout: standard
+
+category: Equipment
+
+cost: '7'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: At the end of your turn, you may remove target ally in a graveyard from the game. If you do, put a 3 / 3 Ghoul ally token into play. → Your hero deals 3 shadow damage to target hero or ally. Ready a Ghoul you control.
+
+regulation:
+
+errata: []
+
+temp: Armor Set Plate

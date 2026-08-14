@@ -1,0 +1,23 @@
+name: Sky-Hunter Swift Boots
+
+origin: fires-of-outland-204
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: Untargetable
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

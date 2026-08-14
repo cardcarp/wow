@@ -1,13 +1,13 @@
-oracle: nature-resistance-totem
-
-lex: '099'
-
-set: worldbreaker
+index: '099'
 
 rarity: Uncommon
 
 artist: Peter Lee
 
+variation: []
+
 flavor: (Totems can't attack.)
 
-variation: []
+oracle: nature-resistance-totem-worldbreaker-099
+
+set: Worldbreaker

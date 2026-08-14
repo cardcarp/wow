@@ -1,0 +1,27 @@
+name: Arnerus Brightsteppe
+
+origin: march-of-the-legion-173
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Each of your armor has +5 DEF while your hero is attacking.
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

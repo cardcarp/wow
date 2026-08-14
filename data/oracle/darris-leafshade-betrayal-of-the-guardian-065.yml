@@ -1,0 +1,27 @@
+name: Darris Leafshade
+
+origin: betrayal-of-the-guardian-065
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Haste 2 Once per turn: 2 → Allies you control have +2 ATK this turn.'
+
+regulation:
+
+errata: []
+
+temp: Night Elf Death Knight

@@ -1,0 +1,22 @@
+name: Pick Pocket
+
+origin: fires-of-outland-071
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Name a card, and then target opponent reveals his hand and discards all cards with that name.
+
+regulation:
+
+errata: []
+
+temp: Subtlety

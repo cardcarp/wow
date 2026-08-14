@@ -1,13 +1,13 @@
-oracle: netherwind-presence
-
-lex: '049'
-
-set: wrathgate
+index: '049'
 
 rarity: Rare
 
 artist: Daniel Dos Santos
 
+variation: []
+
 flavor: '"Never have I felt such a refreshing breeze in all my time on Azeroth." - Nuvon Dawnfury'
 
-variation: []
+oracle: netherwind-presence-wrathgate-049
+
+set: Wrathgate

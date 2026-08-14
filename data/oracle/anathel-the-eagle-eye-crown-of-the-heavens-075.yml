@@ -1,0 +1,27 @@
+name: Anathel the Eagle-Eye
+
+origin: crown-of-the-heavens-075
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive When an ally with cost 4 or more enters play under your control, this ally deals 4 ranged damage to target hero.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

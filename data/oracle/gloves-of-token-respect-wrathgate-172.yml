@@ -1,0 +1,24 @@
+name: Gloves of Token Respect
+
+origin: wrathgate-172
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: 'On your turn: 2 → Put a 1 / 1 Spider ally token into play. , Destroy this armor → Put a copy of target ally token into play.'
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

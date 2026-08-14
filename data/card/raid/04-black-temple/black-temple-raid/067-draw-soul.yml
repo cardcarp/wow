@@ -1,13 +1,13 @@
-oracle: draw-soul
-
-lex: '067'
-
-set: black-temple-raid
+index: '067'
 
 rarity: Uncommon
 
 artist: Massive Black
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: draw-soul-black-temple-raid-067
+
+set: Black Temple Raid

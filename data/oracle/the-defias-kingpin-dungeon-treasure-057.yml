@@ -1,0 +1,17 @@
+name: The Defias Kingpin
+
+origin: dungeon-treasure-057
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'You pay 1 less to complete this quest for each opposing ally in play. On your turn: Pay 5 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,27 @@
+name: Thanu Sunhorn
+
+origin: tomb-of-the-forgotten-114
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 5
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When damage is healed from your hero, your hero may heal that much damage from target ally.
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

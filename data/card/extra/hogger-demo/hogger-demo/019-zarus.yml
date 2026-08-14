@@ -1,13 +1,13 @@
-oracle: zarus
-
-lex: '019'
-
-set: hogger-demo
+index: '019'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: zarus-hogger-demo-019
+
+set: Hogger Demo

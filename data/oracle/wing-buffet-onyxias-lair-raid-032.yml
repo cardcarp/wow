@@ -1,0 +1,19 @@
+name: Wing Buffet
+
+origin: onyxias-lair-raid-032
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: Exhaust all opposing allies. They can't ready during their controllers' next ready step.
+
+regulation:
+
+errata: []
+
+temp: ''

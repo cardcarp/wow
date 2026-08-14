@@ -1,0 +1,22 @@
+name: Track Dragonkin
+
+origin: worldbreaker-050
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+instant: Target ally has -2 ATK this turn, or -4 ATK if it's a Dragonkin.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

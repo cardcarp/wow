@@ -1,0 +1,28 @@
+name: Tidal Elemental
+
+origin: war-of-the-elements-054
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 2
+
+combat: Frost
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Elusive 2 , → Exhaust target ally.
+
+regulation:
+
+errata: []
+
+temp: Water Elemental

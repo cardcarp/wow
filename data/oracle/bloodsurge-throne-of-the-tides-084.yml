@@ -1,0 +1,22 @@
+name: Bloodsurge
+
+origin: throne-of-the-tides-084
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Fury Talent Ongoing : If a hero would deal damage, it deals double that much instead.'
+
+regulation:
+
+errata: []
+
+temp: Fury

@@ -1,0 +1,24 @@
+name: The Bringer of Death
+
+origin: march-of-the-legion-277
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: 3 , , Destroy The Bringer of Death → Destroy all abilities, allies, and equipment. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

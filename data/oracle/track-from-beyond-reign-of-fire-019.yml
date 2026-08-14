@@ -1,0 +1,22 @@
+name: Track from Beyond
+
+origin: reign-of-fire-019
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+instant: Warp Look at the top four cards of your deck. Put one into your hand and the rest on the bottom of your deck.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

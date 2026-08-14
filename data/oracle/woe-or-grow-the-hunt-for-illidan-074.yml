@@ -1,0 +1,22 @@
+name: Woe or Grow
+
+origin: the-hunt-for-illidan-074
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: 'Choose one: Your hero deals 2 unpreventable holy damage to target ally; or attach to target ally. Ongoing : Attached ally has +2 health.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy Discipline

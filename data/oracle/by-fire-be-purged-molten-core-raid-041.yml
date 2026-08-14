@@ -1,0 +1,19 @@
+name: '"BY FIRE BE PURGED"'
+
+origin: molten-core-raid-041
+
+layout: standard
+
+category: Ability
+
+cost: '7'
+
+rule:
+  - type: ability
+    text: 'Choose two: Destroy all opposing abilities; destroy all opposing allies; or destroy all opposing equipment.'
+
+regulation:
+
+errata: []
+
+temp: Ragnaros

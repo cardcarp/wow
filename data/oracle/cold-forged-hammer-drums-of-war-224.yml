@@ -1,0 +1,24 @@
+name: Cold Forged Hammer
+
+origin: drums-of-war-224
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: You pay 1 less to play Cold Forged Hammer for each ally in your party.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

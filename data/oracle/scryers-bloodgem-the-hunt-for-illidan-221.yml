@@ -1,0 +1,30 @@
+name: Scryers Bloodgem
+
+origin: the-hunt-for-illidan-221
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: Scryer Reputation Heroes and allies in your party with sabotage also have Stealth .
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

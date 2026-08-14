@@ -1,0 +1,24 @@
+name: Dignified Headmasters Charge
+
+origin: worldbreaker-240
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: '2 , → Draw a card, then draw another card for each heirloom counter on this equipment. Stash : Add an heirloom counter to target equipment you control.'
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

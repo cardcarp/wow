@@ -1,0 +1,27 @@
+name: Braeo Darkpaw
+
+origin: throne-of-the-tides-099
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: This ally has +2 / +2 for each attachment attached to him.
+
+regulation:
+
+errata: []
+
+temp: Worgen Druid

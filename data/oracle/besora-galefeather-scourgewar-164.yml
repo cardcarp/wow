@@ -1,0 +1,27 @@
+name: Besora Galefeather
+
+origin: scourgewar-164
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 5
+
+combat: Arcane
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Assault 2
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

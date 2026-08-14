@@ -1,13 +1,13 @@
-oracle: son-of-flame
-
-lex: '001'
-
-set: molten-core-token
+index: '001'
 
 rarity: Common
 
 artist: Brandon Kitkouski
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: son-of-flame-molten-core-token-001
+
+set: Molten Core Token

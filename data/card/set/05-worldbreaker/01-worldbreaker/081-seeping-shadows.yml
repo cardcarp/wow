@@ -1,13 +1,13 @@
-oracle: seeping-shadows
-
-lex: '081'
-
-set: worldbreaker
+index: '081'
 
 rarity: Rare
 
 artist: Nathan Bowden
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: seeping-shadows-worldbreaker-081
+
+set: Worldbreaker

@@ -1,0 +1,23 @@
+name: Bloody Ritual
+
+origin: drums-of-war-092
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warrior
+  - Warlock
+
+rule:
+  - type: ability
+    text: As an additional cost to play, put 4 damage on your hero. Draw 4 cards.
+
+regulation:
+
+errata: []
+
+temp: Affliction Protection

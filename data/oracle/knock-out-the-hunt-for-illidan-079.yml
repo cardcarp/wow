@@ -1,0 +1,22 @@
+name: Knock Out
+
+origin: the-hunt-for-illidan-079
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Destroy target quest.
+
+regulation:
+
+errata: []
+
+temp: Assassination

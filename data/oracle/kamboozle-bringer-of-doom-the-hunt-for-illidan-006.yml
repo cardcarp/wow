@@ -1,0 +1,22 @@
+name: Kamboozle, Bringer of Doom
+
+origin: the-hunt-for-illidan-006
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 4 , Flip Kamboozle, put 2 damage on her → Draw two cards.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

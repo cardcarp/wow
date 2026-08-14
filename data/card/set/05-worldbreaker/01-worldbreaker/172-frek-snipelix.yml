@@ -1,13 +1,13 @@
-oracle: frek-snipelix
-
-lex: '172'
-
-set: worldbreaker
+index: '172'
 
 rarity: Uncommon
 
 artist: Christopher Moeller
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: frek-snipelix-worldbreaker-172
+
+set: Worldbreaker

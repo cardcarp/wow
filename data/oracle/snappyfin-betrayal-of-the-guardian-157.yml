@@ -1,0 +1,27 @@
+name: Snappyfin
+
+origin: betrayal-of-the-guardian-157
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 4
+
+combat: Frost
+
+instant: Murloc allies in your hand are .
+
+type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Murloc Mage

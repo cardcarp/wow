@@ -1,0 +1,27 @@
+name: Zandar Shadesprocket
+
+origin: march-of-the-legion-171
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 2
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive When Zandar is dealt damage, also put that much on your hero.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

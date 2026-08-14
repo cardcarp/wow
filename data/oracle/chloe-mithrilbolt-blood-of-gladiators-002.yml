@@ -1,0 +1,22 @@
+name: Chloe Mithrilbolt
+
+origin: blood-of-gladiators-002
+
+layout: transform
+
+category: Hero
+
+health: 30
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 1 , Flip Chloe → When Chloe protects this turn, ready her.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warrior

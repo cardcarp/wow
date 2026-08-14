@@ -1,0 +1,27 @@
+name: Commander Molotov
+
+origin: twilight-of-the-dragons-133
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 3
+
+health: 8
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Time is Money , Destroy another ally you control → This ally deals fire damage to target hero or ally equal to that destroyed ally's cost.
+
+regulation:
+
+errata: []
+
+temp: Goblin Warrior

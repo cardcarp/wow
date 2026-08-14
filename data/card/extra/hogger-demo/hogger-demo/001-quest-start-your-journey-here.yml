@@ -1,13 +1,13 @@
-oracle: quest-start-your-journey-here
-
-lex: '001'
-
-set: hogger-demo
+index: '001'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: quest-start-your-journey-here-hogger-demo-001
+
+set: Hogger Demo

@@ -1,13 +1,13 @@
-oracle: path-of-frost
-
-lex: '029'
-
-set: worldbreaker
+index: '029'
 
 rarity: Common
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: "\"For Magni's sake, how do you get away from these lads?\" - Bragvi Stormstein"
 
-variation: []
+oracle: path-of-frost-worldbreaker-029
+
+set: Worldbreaker

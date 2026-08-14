@@ -2,7 +2,7 @@ name: Totem
 
 type: set
 
-lex: '03'
+index: '03'
 
 subtotal: 30
 
@@ -10,4 +10,4 @@ total: 30
 
 date_release: 2022-12
 
-collection: mists-of-pandaria
+collection: Mists of Pandaria

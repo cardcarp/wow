@@ -1,0 +1,27 @@
+name: Tarwila Gladespring
+
+origin: march-of-the-legion-167
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 1
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive → You pay 1 less to play your next card this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

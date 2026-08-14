@@ -1,0 +1,22 @@
+name: Holy Wrath
+
+origin: war-of-the-elements-058
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: Your hero deals 4 unpreventable holy damage to each opposing hero and ally, plus an additional 4 if that character is a Demon, Dragonkin, or Elemental.
+
+regulation:
+
+errata: []
+
+temp: Holy

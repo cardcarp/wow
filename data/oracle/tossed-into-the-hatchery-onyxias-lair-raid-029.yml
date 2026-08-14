@@ -1,0 +1,19 @@
+name: Tossed into the Hatchery
+
+origin: onyxias-lair-raid-029
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: Put a Whelp into play for each opposing ally.
+
+regulation:
+
+errata: []
+
+temp: ''

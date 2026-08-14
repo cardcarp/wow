@@ -1,13 +1,13 @@
-oracle: crushing-shadows
-
-lex: '015'
-
-set: black-temple-raid
+index: '015'
 
 rarity: Uncommon
 
 artist: Massive Black
 
+variation: []
+
 flavor: Its darkness can strangle heroes and suffocate hope.
 
-variation: []
+oracle: crushing-shadows-black-temple-raid-015
+
+set: Black Temple Raid

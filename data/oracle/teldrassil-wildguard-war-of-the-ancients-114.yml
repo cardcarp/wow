@@ -1,0 +1,25 @@
+name: Teldrassil Wildguard
+
+origin: war-of-the-ancients-114
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Nature
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

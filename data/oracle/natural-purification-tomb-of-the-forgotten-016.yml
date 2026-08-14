@@ -1,0 +1,22 @@
+name: Natural Purification
+
+origin: tomb-of-the-forgotten-016
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: Destroy target ability or equipment with cost less than or equal to the number of token allies you control.
+
+regulation:
+
+errata: []
+
+temp: Restoration

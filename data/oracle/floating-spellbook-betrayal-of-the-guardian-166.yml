@@ -1,0 +1,25 @@
+name: Floating Spellbook
+
+origin: betrayal-of-the-guardian-166
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 0
+
+health: 1
+
+combat: Arcane
+
+rule:
+  - type: ability
+    text: Elusive , Spellshield You have no maximum hand size.
+
+regulation:
+
+errata: []
+
+temp: Spellbook

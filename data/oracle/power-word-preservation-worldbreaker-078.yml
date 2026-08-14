@@ -1,0 +1,22 @@
+name: 'Power Word: Preservation'
+
+origin: worldbreaker-078
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+instant: 'Attach to target ally. Ongoing : Attached ally has -3 / +3.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Discipline

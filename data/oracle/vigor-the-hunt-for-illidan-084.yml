@@ -1,0 +1,22 @@
+name: Vigor
+
+origin: the-hunt-for-illidan-084
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Assassination Hero Required Put Vigor into your resource row face down and ready.
+
+regulation:
+
+errata: []
+
+temp: Assassination Talent

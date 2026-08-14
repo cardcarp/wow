@@ -1,0 +1,27 @@
+name: Wazix Blonktop
+
+origin: worldbreaker-163
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 4
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Untargetable
+
+regulation:
+
+errata: []
+
+temp: Gnome Priest

@@ -1,0 +1,19 @@
+name: Fel Rage
+
+origin: black-temple-raid-023
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+instant: 'Choose one: Draw three cards; or discard your hand and draw five cards.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Black Temple

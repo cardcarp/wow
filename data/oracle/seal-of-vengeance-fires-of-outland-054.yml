@@ -1,0 +1,24 @@
+name: Seal of Vengeance
+
+origin: fires-of-outland-054
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+faction: Alliance
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Alliance Hero Required Ongoing : At the end of each turn, your hero deals 1 holy damage to each hero and ally it dealt combat damage to this turn. 1 , Destroy Seal of Vengeance → Your hero deals 1 holy damage to each hero and ally it dealt combat damage to this turn.'
+
+regulation:
+
+errata: []
+
+temp: Retribution

@@ -1,0 +1,17 @@
+name: Hellfire Citadel
+
+origin: drums-of-war-265
+
+layout: standard
+
+category: Location
+
+rule:
+  - type: ability
+    text: When an opposing ally is destroyed, add a capture counter. , Remove three capture counters → Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Objective

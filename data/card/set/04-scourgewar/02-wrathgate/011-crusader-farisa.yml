@@ -1,14 +1,14 @@
-oracle: crusader-farisa
-
-lex: '011'
-
-set: wrathgate
+index: '011'
 
 rarity: Uncommon
 
 artist: John Polidora
 
-flavor: '"With the Sunwell restored, we Blood Knights must turn our energy to the north and test our new strength against another great evil."'
-
 variation:
   - transform
+
+flavor: '"With the Sunwell restored, we Blood Knights must turn our energy to the north and test our new strength against another great evil."'
+
+oracle: crusader-farisa-wrathgate-011
+
+set: Wrathgate

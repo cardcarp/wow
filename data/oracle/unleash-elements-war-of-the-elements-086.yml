@@ -1,0 +1,22 @@
+name: Unleash Elements
+
+origin: war-of-the-elements-086
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: Put a copy of each token ally you control into play.
+
+regulation:
+
+errata: []
+
+temp: Enhancement

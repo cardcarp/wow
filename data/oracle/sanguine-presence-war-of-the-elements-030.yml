@@ -1,0 +1,22 @@
+name: Sanguine Presence
+
+origin: war-of-the-elements-030
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Death Knight
+
+instant: 'Ongoing : Your hero has Protector and +10 . 1 , → Ready your hero.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Blood

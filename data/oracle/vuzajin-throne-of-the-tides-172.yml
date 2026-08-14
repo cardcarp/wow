@@ -1,0 +1,27 @@
+name: Vuza'jin
+
+origin: throne-of-the-tides-172
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 2 → Token allies you control have +1 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Troll Death Knight

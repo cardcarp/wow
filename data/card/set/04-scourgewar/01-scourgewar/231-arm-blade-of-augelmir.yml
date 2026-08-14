@@ -1,13 +1,13 @@
-oracle: arm-blade-of-augelmir
-
-lex: '231'
-
-set: scourgewar
+index: '231'
 
 rarity: Uncommon
 
 artist: Paolo Parente
 
+variation: []
+
 flavor: One of the many treasures guarded closely by the vrykul of Utgarde Keep.
 
-variation: []
+oracle: arm-blade-of-augelmir-scourgewar-231
+
+set: Scourgewar

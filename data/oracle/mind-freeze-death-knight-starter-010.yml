@@ -1,0 +1,22 @@
+name: Mind Freeze
+
+origin: death-knight-starter-010
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Death Knight
+
+instant: Interrupt target ability or ally card. If you do, exhaust all of its controller's resources.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost

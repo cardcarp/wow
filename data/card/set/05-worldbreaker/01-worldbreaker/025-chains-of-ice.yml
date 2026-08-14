@@ -1,13 +1,13 @@
-oracle: chains-of-ice
-
-lex: '025'
-
-set: worldbreaker
+index: '025'
 
 rarity: Rare
 
 artist: Matt Cavotta
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: chains-of-ice-worldbreaker-025
+
+set: Worldbreaker

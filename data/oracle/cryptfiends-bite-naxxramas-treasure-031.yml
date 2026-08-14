@@ -1,0 +1,24 @@
+name: Cryptfiends Bite
+
+origin: naxxramas-treasure-031
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Death Knight
+  - Hunter
+
+rule:
+  - type: ability
+    text: When you strike with this weapon on an opponent's turn, put two 1 / 1 Scarab ally tokens into play.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Polearm

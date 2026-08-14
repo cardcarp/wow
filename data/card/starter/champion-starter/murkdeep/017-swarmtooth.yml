@@ -1,13 +1,13 @@
-oracle: swarmtooth
-
-lex: '017'
-
-set: murkdeep
+index: '017'
 
 rarity: Uncommon
 
 artist: James Ryman
 
+variation: []
+
 flavor: '"Rr MGG Ggmmmlmrmgmg!"'
 
-variation: []
+oracle: swarmtooth-throne-of-the-tides-192
+
+set: Murkdeep

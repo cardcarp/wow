@@ -1,0 +1,22 @@
+name: No'Kaled, the Elements of Death
+
+origin: battle-of-the-aspects-treasure-071
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: When you strike with this weapon, add a surge counter to it. Allies you control have +2 ATK for each surge counter on this weapon.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

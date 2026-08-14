@@ -1,13 +1,13 @@
-oracle: keeper-remulos
-
-lex: '169'
-
-set: wrathgate
+index: '169'
 
 rarity: Epic
 
 artist: Michael Phillippi
 
+variation: []
+
 flavor: '"Is the world prepared for what we are about to invoke? I do not know ..."'
 
-variation: []
+oracle: keeper-remulos-wrathgate-169
+
+set: Wrathgate

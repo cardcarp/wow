@@ -1,13 +1,13 @@
-oracle: tiny
-
-lex: '215'
-
-set: scourgewar
+index: '215'
 
 rarity: Uncommon
 
 artist: Warren Mahy
 
+variation: []
+
 flavor: (Mounts can't attack or be attacked.)
 
-variation: []
+oracle: tiny-scourgewar-215
+
+set: Scourgewar

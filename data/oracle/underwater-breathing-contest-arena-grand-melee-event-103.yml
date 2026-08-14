@@ -1,0 +1,17 @@
+name: Underwater Breathing Contest
+
+origin: arena-grand-melee-event-103
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: Each player may hold his breath as long as possible. The player who holds his breath the longest may put a card from his graveyard into hand.
+
+regulation:
+
+errata: []
+
+temp: ''

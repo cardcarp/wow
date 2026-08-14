@@ -1,0 +1,22 @@
+name: Muggers Belt
+
+origin: through-the-dark-portal-256
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: When your hero deals combat damage to a hero, that hero's controller discards a card and you draw a card.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

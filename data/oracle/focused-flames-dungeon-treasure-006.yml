@@ -1,0 +1,19 @@
+name: Focused Flames
+
+origin: dungeon-treasure-006
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+rule:
+  - type: ability
+    text: "Ongoing : When a Mage ally enters play under your control or a friendly player's control, it deals 1 fire damage to each opposing ally."
+
+regulation:
+
+errata: []
+
+temp: ''

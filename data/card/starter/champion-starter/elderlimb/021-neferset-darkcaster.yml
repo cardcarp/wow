@@ -1,13 +1,13 @@
-oracle: neferset-darkcaster
-
-lex: '021'
-
-set: elderlimb
+index: '021'
 
 rarity: Common
 
 artist: Andrea Uderzo
 
+variation: []
+
 flavor: The traitorous Neferset couldn't resist the deal set before them by Al'Akir and Deathwing.
 
-variation: []
+oracle: neferset-darkcaster-crown-of-the-heavens-161
+
+set: Elderlimb

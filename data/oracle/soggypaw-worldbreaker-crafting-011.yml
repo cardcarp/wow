@@ -1,0 +1,27 @@
+name: Soggypaw
+
+origin: worldbreaker-crafting-011
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: This ally has Ferocity and Assault 2 while there are no ready opposing allies.
+
+regulation:
+
+errata: []
+
+temp: Gnoll Rogue

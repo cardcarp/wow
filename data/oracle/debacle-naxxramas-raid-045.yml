@@ -1,0 +1,21 @@
+name: Debacle
+
+origin: naxxramas-raid-045
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+stage: 5
+
+rule:
+  - type: ability
+    text: The raid leader turns three raiding resources face down.
+
+regulation:
+
+errata: []
+
+temp: ''

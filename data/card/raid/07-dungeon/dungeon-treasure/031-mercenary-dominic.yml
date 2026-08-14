@@ -1,13 +1,13 @@
-oracle: mercenary-dominic
-
-lex: '031'
-
-set: dungeon-treasure
+index: '031'
 
 rarity: Uncommon
 
 artist: Ron Lemen
 
+variation: []
+
 flavor: "\"Let's not play games. Are they dead or not?\""
 
-variation: []
+oracle: mercenary-dominic-dungeon-treasure-031
+
+set: Dungeon Treasure

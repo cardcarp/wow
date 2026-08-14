@@ -1,13 +1,13 @@
-oracle: shawl-of-haunted-memories
-
-lex: '177'
-
-set: icecrown
+index: '177'
 
 rarity: Rare
 
 artist: Mike Nicholson
 
+variation: []
+
 flavor: '"Only those of sound mind will be able to keep their thoughts free from the Old God of Death." - Andarius the Damned'
 
-variation: []
+oracle: shawl-of-haunted-memories-icecrown-177
+
+set: Icecrown

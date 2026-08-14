@@ -1,13 +1,13 @@
-oracle: call-of-the-grove
-
-lex: '034'
-
-set: scourgewar
+index: '034'
 
 rarity: Uncommon
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor: '"The plague of undeath is a constant threat to our ongoing mission of preservation." - Lanthus the Restorer'
 
-variation: []
+oracle: call-of-the-grove-scourgewar-034
+
+set: Scourgewar

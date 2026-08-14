@@ -1,0 +1,19 @@
+name: Wicked Beam
+
+origin: black-temple-raid-028
+
+layout: standard
+
+category: Ability
+
+cost: X
+
+rule:
+  - type: ability
+    text: Your hero deals X shadow damage to target opposing hero or ally and each other opposing hero and ally with the same race as that character.
+
+regulation:
+
+errata: []
+
+temp: Black Temple

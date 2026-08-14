@@ -1,0 +1,22 @@
+name: Hammer of Vengeance
+
+origin: tomb-of-the-forgotten-032
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+instant: Exhaust target ready opposing ally. Your hero may deal unpreventable holy damage equal to that ally's ATK to another target ally. Delve
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution

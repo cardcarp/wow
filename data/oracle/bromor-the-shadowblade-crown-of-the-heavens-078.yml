@@ -1,0 +1,27 @@
+name: Bromor the Shadowblade
+
+origin: crown-of-the-heavens-078
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Stealth When your hero strikes with a weapon, add a +1 ATK counter to that weapon.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Rogue

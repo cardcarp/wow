@@ -1,0 +1,27 @@
+name: Maxum Ironbrew
+
+origin: heroes-of-azeroth-204
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When Maxum Ironbrew defends, he heals 2 damage from himself.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

@@ -1,13 +1,13 @@
-oracle: grazzle-grubhook
-
-lex: '175'
-
-set: worldbreaker
+index: '175'
 
 rarity: Common
 
 artist: Ittoku
 
+variation: []
+
 flavor: "\"There's always time for a deal, even when the world trembles in the wake of Deathwing.\""
 
-variation: []
+oracle: grazzle-grubhook-worldbreaker-175
+
+set: Worldbreaker

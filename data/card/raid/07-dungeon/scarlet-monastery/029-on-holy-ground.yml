@@ -1,13 +1,13 @@
-oracle: on-holy-ground
-
-lex: '029'
-
-set: scarlet-monastery
+index: '029'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: on-holy-ground-scarlet-monastery-029
+
+set: Scarlet Monastery

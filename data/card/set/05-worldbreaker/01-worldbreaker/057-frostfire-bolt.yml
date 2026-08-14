@@ -1,13 +1,13 @@
-oracle: frostfire-bolt
-
-lex: '057'
-
-set: worldbreaker
+index: '057'
 
 rarity: Uncommon
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: (Frostfire damage counts as both frost and fire.)
 
-variation: []
+oracle: frostfire-bolt-worldbreaker-057
+
+set: Worldbreaker

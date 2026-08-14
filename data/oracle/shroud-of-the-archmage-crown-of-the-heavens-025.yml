@@ -1,0 +1,22 @@
+name: Shroud of the Archmage
+
+origin: crown-of-the-heavens-025
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: "Attach to your hero. Ongoing : Attached hero has: → Draw a card. → Your hero deals 4 fire damage to target hero. → Target ally can't attack or protect this turn."
+
+regulation:
+
+errata: []
+
+temp: Arcane Fire Frost

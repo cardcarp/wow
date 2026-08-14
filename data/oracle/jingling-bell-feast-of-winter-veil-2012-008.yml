@@ -1,0 +1,31 @@
+name: Jingling Bell
+
+origin: feast-of-winter-veil-2012-008
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 6 , , Make a jingle noise → Reveal the top card of your deck. If its an ability, ally, or equipment, you may play it this turn without paying its cost.
+
+regulation:
+
+errata: []
+
+temp: Item

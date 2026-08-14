@@ -1,0 +1,22 @@
+name: Timeless Aim
+
+origin: betrayal-of-the-guardian-018
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: Echo Your hero deals 2 ranged damage to target hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

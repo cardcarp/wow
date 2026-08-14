@@ -1,13 +1,13 @@
-oracle: frost-rune
-
-lex: '021'
-
-set: icecrown
+index: '021'
 
 rarity: Uncommon
 
 artist: Kevin Chen
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: frost-rune-icecrown-021
+
+set: Icecrown

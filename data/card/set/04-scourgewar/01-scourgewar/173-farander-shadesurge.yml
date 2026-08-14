@@ -1,13 +1,13 @@
-oracle: farander-shadesurge
-
-lex: '173'
-
-set: scourgewar
+index: '173'
 
 rarity: Common
 
 artist: Michael Kormarck
 
+variation: []
+
 flavor: '"Embrace the darkness, and you shall be made whole."'
 
-variation: []
+oracle: farander-shadesurge-scourgewar-173
+
+set: Scourgewar

@@ -1,13 +1,13 @@
-oracle: zulanji
-
-lex: '201'
-
-set: worldbreaker
+index: '201'
 
 rarity: Common
 
 artist: Jonboy Meyers
 
+variation: []
+
 flavor: '"Joo have to learn to trust me, mon!"'
 
-variation: []
+oracle: zulanji-worldbreaker-201
+
+set: Worldbreaker

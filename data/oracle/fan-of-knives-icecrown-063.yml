@@ -1,0 +1,22 @@
+name: Fan of Knives
+
+origin: icecrown-063
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Your hero deals 2 ranged damage to each opposing hero and ally. On your turn: Discard a weapon → Put this ability from your graveyard into your hand.'
+
+regulation:
+
+errata: []
+
+temp: Combat

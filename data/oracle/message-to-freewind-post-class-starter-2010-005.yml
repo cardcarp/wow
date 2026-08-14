@@ -1,0 +1,19 @@
+name: Message to Freewind Post
+
+origin: class-starter-2010-005
+
+layout: standard
+
+category: Quest
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'Exhaust your hero and pay 2 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

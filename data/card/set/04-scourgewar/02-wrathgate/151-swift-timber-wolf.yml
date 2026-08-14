@@ -1,13 +1,13 @@
-oracle: swift-timber-wolf
-
-lex: '151'
-
-set: wrathgate
+index: '151'
 
 rarity: Rare
 
 artist: Dany Orizio
 
+variation: []
+
 flavor: (Mounts can't attack or be attacked.)
 
-variation: []
+oracle: swift-timber-wolf-wrathgate-151
+
+set: Wrathgate

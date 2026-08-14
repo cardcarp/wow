@@ -1,0 +1,17 @@
+name: The Lexicon Demonica
+
+origin: the-hunt-for-illidan-243
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'During your turn, pay 3 to complete this quest. Reward : Turn all resources face down.'
+
+regulation:
+
+errata: []
+
+temp: ''

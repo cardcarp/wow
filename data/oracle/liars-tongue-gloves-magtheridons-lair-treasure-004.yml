@@ -1,0 +1,23 @@
+name: Liars Tongue Gloves
+
+origin: magtheridons-lair-treasure-004
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: 1 , → Name a card type and remove a card in your hand from the game face down. Target opponent guesses whether that card has that type, then reveals it. If he's right, put it into your graveyard. Otherwise, put it into your hand and draw two cards.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

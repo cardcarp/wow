@@ -1,0 +1,17 @@
+name: Pure Evil
+
+origin: scourgewar-258
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 6 to complete this quest. Reward : If an ability is in your graveyard, draw a card. If an ally is in your graveyard, draw a card. If an equipment is in your graveyard, draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,22 @@
+name: 'Power Word: Sanctuary'
+
+origin: scourgewar-073
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: 'Attach to target ally you control. Ongoing : Prevent all damage that would be dealt to attached ally. Death Rattle : Prevent all damage that would be dealt to target ally you control this turn.'
+
+regulation:
+
+errata: []
+
+temp: Discipline

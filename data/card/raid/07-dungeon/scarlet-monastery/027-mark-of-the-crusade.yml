@@ -1,13 +1,13 @@
-oracle: mark-of-the-crusade
-
-lex: '027'
-
-set: scarlet-monastery
+index: '027'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: mark-of-the-crusade-scarlet-monastery-027
+
+set: Scarlet Monastery

@@ -1,13 +1,13 @@
-oracle: jagged-knife
-
-lex: '031'
-
-set: naxxramas-raid
+index: '031'
 
 rarity: Uncommon
 
 artist: Warren Mahy
 
+variation: []
+
 flavor: "\"You should've stayed home!\" - Instructor Razuvious"
 
-variation: []
+oracle: jagged-knife-naxxramas-raid-031
+
+set: Naxxramas Raid

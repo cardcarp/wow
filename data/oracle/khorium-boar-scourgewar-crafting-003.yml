@@ -1,0 +1,28 @@
+name: Khorium Boar
+
+origin: scourgewar-crafting-003
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Jewelcrafting Hero Required Weapons you control have +1 ATK. Death Rattle : Put a 1 / 1 Boar ally token into play.'
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

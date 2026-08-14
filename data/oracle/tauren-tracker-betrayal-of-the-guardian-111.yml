@@ -1,0 +1,27 @@
+name: Tauren Tracker
+
+origin: betrayal-of-the-guardian-111
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 3
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally attacks, he deals 1 ranged damage to target opposing hero.
+
+regulation:
+
+errata: []
+
+temp: Tauren Hunter

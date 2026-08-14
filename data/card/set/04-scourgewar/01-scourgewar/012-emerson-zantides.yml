@@ -1,14 +1,14 @@
-oracle: emerson-zantides
-
-lex: '012'
-
-set: scourgewar
+index: '012'
 
 rarity: Uncommon
 
 artist: Dave Kendall
 
-flavor: '"Those who wish to fight against the Scourge must be willing to sacrifice life and limb."'
-
 variation:
   - transform
+
+flavor: '"Those who wish to fight against the Scourge must be willing to sacrifice life and limb."'
+
+oracle: emerson-zantides-scourgewar-012
+
+set: Scourgewar

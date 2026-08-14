@@ -1,0 +1,17 @@
+name: The Opening of the Dark Portal
+
+origin: betrayal-of-the-guardian-199
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 2 to complete this quest. Reward : Choose a or race, then reveal the top four cards of your deck. Put a revealed ally of the chosen race into your hand and the rest on the bottom of your deck.'
+
+regulation:
+
+errata: []
+
+temp: ''

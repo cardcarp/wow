@@ -1,0 +1,27 @@
+name: Pygmy Firebreather
+
+origin: tomb-of-the-forgotten-156
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Fire
+
+type: Monster
+
+rule:
+  - type: ability
+    text: 'Empower Monster : When this ally enters play, if you control another Monster hero or ally, draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Pygmy Mage

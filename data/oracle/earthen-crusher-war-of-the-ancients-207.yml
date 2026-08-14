@@ -1,0 +1,25 @@
+name: Earthen Crusher
+
+origin: war-of-the-ancients-207
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: 1 → This ally has +1 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Earthen Warrior

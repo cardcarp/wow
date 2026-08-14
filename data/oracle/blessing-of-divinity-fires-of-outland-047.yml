@@ -1,0 +1,22 @@
+name: Blessing of Divinity
+
+origin: fires-of-outland-047
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +1 ATK and +1 health. When attached ally becomes exhausted, your hero heals 1 damage from it.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Blessing

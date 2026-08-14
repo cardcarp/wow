@@ -1,0 +1,22 @@
+name: Ice Block
+
+origin: through-the-dark-portal-051
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+instant: "Frost Hero Required Ongoing : Prevent all damage that would be dealt to your hero. You can't play cards. At the start of your turn, destroy Ice Block."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost Talent

@@ -1,0 +1,22 @@
+name: Intervene
+
+origin: fires-of-outland-094
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: The next time damage would be dealt to target friendly hero or ally this turn, it's dealt to your hero instead.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

@@ -1,0 +1,27 @@
+name: Warmaster Hork
+
+origin: through-the-dark-portal-241
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 6
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Orc Hero Required Ferocity 2 → Warmaster Hork has +1 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

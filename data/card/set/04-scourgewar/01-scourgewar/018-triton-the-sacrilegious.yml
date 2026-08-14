@@ -1,14 +1,14 @@
-oracle: triton-the-sacrilegious
-
-lex: '018'
-
-set: scourgewar
+index: '018'
 
 rarity: Uncommon
 
 artist: Matt Cavotta
 
-flavor: '"Death is inevitable. I am simply speeding up the process."'
-
 variation:
   - transform
+
+flavor: '"Death is inevitable. I am simply speeding up the process."'
+
+oracle: triton-the-sacrilegious-scourgewar-018
+
+set: Scourgewar

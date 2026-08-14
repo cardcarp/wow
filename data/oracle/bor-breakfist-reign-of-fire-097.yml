@@ -1,0 +1,27 @@
+name: Bor Breakfist
+
+origin: reign-of-fire-097
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: → Target orc ally has Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

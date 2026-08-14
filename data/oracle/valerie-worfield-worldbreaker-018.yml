@@ -1,0 +1,25 @@
+name: Valerie Worfield
+
+origin: worldbreaker-018
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 3 → Flip Valerie
+  - type: ability
+    position: reverse
+    text: Prevent the first 1 damage that would be dealt to Valerie each turn.
+
+regulation:
+
+errata: []
+
+temp: Undead Hunter

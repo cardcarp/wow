@@ -1,13 +1,13 @@
-oracle: turn-the-blade
-
-lex: '006'
-
-set: sylvanas
+index: '006'
 
 rarity: Common
 
 artist: Andrea Uderzo and Dany Orizio
 
+variation: []
+
 flavor: '"You can do more with a bow than just fire it." -'
 
-variation: []
+oracle: turn-the-blade-drums-of-war-033
+
+set: Sylvanas

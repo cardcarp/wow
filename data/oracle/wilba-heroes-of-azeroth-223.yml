@@ -1,0 +1,27 @@
+name: Wilba
+
+origin: heroes-of-azeroth-223
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When a Spider in your party deals combat damage to an ally, destroy that ally. 3 → Put a unique Spider ally token named Charlotte with 1 ATK and 1 health into play.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

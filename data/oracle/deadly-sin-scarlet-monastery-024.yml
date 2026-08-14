@@ -1,0 +1,19 @@
+name: Deadly Sin
+
+origin: scarlet-monastery-024
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: 'Raiders choose one: Each Raider discards a random card; or each Raider chooses and destroys an ally he controls.'
+
+regulation:
+
+errata: []
+
+temp: ''

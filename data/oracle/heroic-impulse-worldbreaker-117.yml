@@ -1,0 +1,22 @@
+name: Heroic Impulse
+
+origin: worldbreaker-117
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: 'Attach to target hero or ally you control. Ongoing : Attached character has Protector .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

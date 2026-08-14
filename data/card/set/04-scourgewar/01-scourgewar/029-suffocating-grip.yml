@@ -1,13 +1,13 @@
-oracle: suffocating-grip
-
-lex: '029'
-
-set: scourgewar
+index: '029'
 
 rarity: Common
 
 artist: Dave Allsop
 
+variation: []
+
 flavor: "\"I've heared enough out of you!\" - Randolphe Mortimer"
 
-variation: []
+oracle: suffocating-grip-scourgewar-029
+
+set: Scourgewar

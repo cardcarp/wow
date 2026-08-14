@@ -1,0 +1,22 @@
+name: Faerie Fire
+
+origin: worldbreaker-035
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+instant: "Attach to target hero or ally. Ongoing : Attached character loses and can't have Stealth . If attached character would be dealt damage, it's dealt that much +1 instead."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Balance

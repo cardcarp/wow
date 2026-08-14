@@ -1,0 +1,22 @@
+name: Power Infusion
+
+origin: icecrown-056
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: 'Discipline Hero Required Ongoing : At the start of your turn, add a haste counter. For each haste counter, you pay 1 less to play your first card each turn.'
+
+regulation:
+
+errata: []
+
+temp: Discipline Talent

@@ -1,0 +1,22 @@
+name: Elycia of Gilneas
+
+origin: alliance-rogue-2011-001
+
+layout: transform
+
+category: Hero
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 4 , Flip Elycia → Target hero or ally has +2 ATK and Stealth this turn.'
+
+regulation:
+
+errata: []
+
+temp: Worgen Rogue

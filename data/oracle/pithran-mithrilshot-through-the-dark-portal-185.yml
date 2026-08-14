@@ -1,0 +1,27 @@
+name: Pithran Mithrilshot
+
+origin: through-the-dark-portal-185
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 1
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive Long-Range
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

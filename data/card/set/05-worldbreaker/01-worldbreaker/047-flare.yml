@@ -1,13 +1,13 @@
-oracle: flare
-
-lex: '047'
-
-set: worldbreaker
+index: '047'
 
 rarity: Common
 
 artist: Tyler Walpole
 
+variation: []
+
 flavor: '"Avoid the light at all costs!" - Vorix Zorbuzz'
 
-variation: []
+oracle: flare-worldbreaker-047
+
+set: Worldbreaker

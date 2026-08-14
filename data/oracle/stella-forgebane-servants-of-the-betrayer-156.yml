@@ -1,0 +1,27 @@
+name: Stella Forgebane
+
+origin: servants-of-the-betrayer-156
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: At the end of your turn, you may destroy target exhausted equipment.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Rogue

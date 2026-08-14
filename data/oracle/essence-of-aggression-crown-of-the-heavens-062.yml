@@ -1,0 +1,19 @@
+name: Essence of Aggression
+
+origin: crown-of-the-heavens-062
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+rule:
+  - type: ability
+    text: 'You pay 2 less to play this ability if you control a Hunter hero or ally. You pay 2 less to play this ability if you control a Warlock hero or ally. Attach to target ally. Ongoing : Attached ally has +2 / +2 and Ferocity .'
+
+regulation:
+
+errata: []
+
+temp: ''

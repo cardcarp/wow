@@ -1,13 +1,13 @@
-oracle: aggressive-infiltration
-
-lex: '077'
-
-set: scourgewar
+index: '077'
 
 rarity: Common
 
 artist: Jonboy Meyers
 
+variation: []
+
 flavor: "\"Get in there and do as much damage as you can. That's what you're good at, right?\" - Garrosh Hellscream"
 
-variation: []
+oracle: aggressive-infiltration-scourgewar-077
+
+set: Scourgewar

@@ -1,13 +1,14 @@
-oracle: xavius
-
-lex: 029a
-
-set: timewalkers
+index: 029a
 
 rarity: Rare
 
 artist: Unknown
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: xavius-timewalkers-029
+
+set: Timewalkers

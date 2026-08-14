@@ -1,0 +1,22 @@
+name: Ravenna
+
+origin: the-hunt-for-illidan-014
+
+layout: transform
+
+category: Hero
+
+health: 27
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: Flip Ravenna → Target ally you control has Stealth this turn.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

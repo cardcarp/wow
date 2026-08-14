@@ -1,0 +1,22 @@
+name: Dagger of Betrayal
+
+origin: scourgewar-234
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'On your turn: → Target opponent chooses an ally he controls. Exchange control of that ally and this weapon.'
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

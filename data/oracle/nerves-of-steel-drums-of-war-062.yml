@@ -1,0 +1,22 @@
+name: Nerves of Steel
+
+origin: drums-of-war-062
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: Combat Hero Required Ready your hero. It can't be exhausted by opposing cards and effects this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Combat Talent

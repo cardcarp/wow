@@ -1,13 +1,13 @@
-oracle: vukora-netherflame
-
-lex: '146'
-
-set: icecrown
+index: '146'
 
 rarity: Common
 
 artist: Dave Kendall
 
+variation: []
+
 flavor: '"What greater power is there than to unmake whatever you desire?"'
 
-variation: []
+oracle: vukora-netherflame-icecrown-146
+
+set: Icecrown

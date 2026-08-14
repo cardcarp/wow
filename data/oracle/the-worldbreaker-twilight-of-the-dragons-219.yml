@@ -1,0 +1,17 @@
+name: The Worldbreaker
+
+origin: twilight-of-the-dragons-219
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 8 and turn all other quests you control named The Worldbreaker face down to complete this quest. Reward : Your hero has Assault 5 and ATK this turn, plus an additional Assault 5 this turn for each other quest turned face down this way.'
+
+regulation:
+
+errata: []
+
+temp: ''

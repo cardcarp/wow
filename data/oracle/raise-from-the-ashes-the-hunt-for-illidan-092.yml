@@ -1,0 +1,22 @@
+name: Raise from the Ashes
+
+origin: the-hunt-for-illidan-092
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+instant: As an additional cost to play, destroy an ally in your party. Search your deck for a card with the same name as that ally and put it into play.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

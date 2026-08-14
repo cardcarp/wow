@@ -1,0 +1,27 @@
+name: Emree
+
+origin: crown-of-the-heavens-080
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 2 , → Ready another target ally.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

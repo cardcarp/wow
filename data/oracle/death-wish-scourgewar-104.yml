@@ -1,0 +1,22 @@
+name: Death Wish
+
+origin: scourgewar-104
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Fury Hero Required Ongoing : → All heroes have +3 ATK this turn.'
+
+regulation:
+
+errata: []
+
+temp: Fury Talent

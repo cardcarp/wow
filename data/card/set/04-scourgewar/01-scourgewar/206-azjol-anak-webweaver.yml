@@ -1,13 +1,13 @@
-oracle: azjol-anak-webweaver
-
-lex: '206'
-
-set: scourgewar
+index: '206'
 
 rarity: Common
 
 artist: Jon Foster
 
+variation: []
+
 flavor: The intricate webs that they weave are most beautiful when viewed from a distance.
 
-variation: []
+oracle: azjol-anak-webweaver-scourgewar-206
+
+set: Scourgewar

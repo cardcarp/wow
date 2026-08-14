@@ -1,0 +1,29 @@
+name: Gladiator Kaniya
+
+origin: blood-of-gladiators-128
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+type: Arena
+
+rule:
+  - type: ability
+    text: Arena allies in your party are Protector s.
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

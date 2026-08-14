@@ -1,0 +1,22 @@
+name: Seal of Wisdom
+
+origin: heroes-of-azeroth-074
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Ongoing : When your hero deals combat damage with a weapon, draw a card. 1 , Destroy Seal of Wisdom → Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Holy

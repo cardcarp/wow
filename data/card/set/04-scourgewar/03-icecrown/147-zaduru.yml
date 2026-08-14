@@ -1,13 +1,13 @@
-oracle: zaduru
-
-lex: '147'
-
-set: icecrown
+index: '147'
 
 rarity: Common
 
 artist: E.M. Gist
 
+variation: []
+
 flavor: '"If joo gonna hesitate, joo gonna feel da pain."'
 
-variation: []
+oracle: zaduru-icecrown-147
+
+set: Icecrown

@@ -1,0 +1,23 @@
+name: Courageous Defense
+
+origin: drums-of-war-093
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Draw a card. Ongoing : Your hero is a Protector .'
+
+regulation:
+
+errata: []
+
+temp: Protection

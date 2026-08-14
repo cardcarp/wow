@@ -7,7 +7,7 @@ type:
   required: true
   allowed: ['set', 'raid', 'starter', 'promo', 'craft', 'dungeon', 'badge', 'token']
 
-lex:
+index:
   type: string
   nullable: true
 

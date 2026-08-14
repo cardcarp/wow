@@ -1,0 +1,27 @@
+name: Thrandis the Venomous
+
+origin: worldbreaker-193
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 6
+
+combat: Nature
+
+faction: Horde
+
+instant: When your hero defends, you may put two 1 / 1 Snake ally tokens into play.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Hunter

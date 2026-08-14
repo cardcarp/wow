@@ -1,13 +1,13 @@
-oracle: breath-of-the-serpent
-
-lex: '015'
-
-set: monk-starter
+index: '015'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: breath-of-the-serpent-monk-starter-015
+
+set: Monk Starter

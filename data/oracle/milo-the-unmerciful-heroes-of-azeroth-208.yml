@@ -1,0 +1,27 @@
+name: Milo the Unmerciful
+
+origin: heroes-of-azeroth-208
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: → Exhaust target armor.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

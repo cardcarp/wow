@@ -1,0 +1,25 @@
+name: Hand of Edward the Odd
+
+origin: heroes-of-azeroth-324
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: Ability, ally, and equipment cards in your hand are instant.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

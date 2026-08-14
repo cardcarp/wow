@@ -1,0 +1,22 @@
+name: Vortex
+
+origin: throne-of-the-tides-052
+
+layout: standard
+
+category: Ability
+
+cost: '0'
+
+class:
+  - Mage
+
+instant: Monster allies in your hand are instant this turn until you play a Monster ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

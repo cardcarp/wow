@@ -1,0 +1,22 @@
+name: Steady Shot
+
+origin: worldbreaker-048
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, your hero may deal 1 ranged damage to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

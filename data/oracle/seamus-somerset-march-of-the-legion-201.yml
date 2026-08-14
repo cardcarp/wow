@@ -1,0 +1,27 @@
+name: Seamus Somerset
+
+origin: march-of-the-legion-201
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity When Seamus attacks, you may remove target card in a graveyard from the game.
+
+regulation:
+
+errata: []
+
+temp: Undead Rogue

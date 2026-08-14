@@ -1,0 +1,27 @@
+name: Justicar Brace
+
+origin: servants-of-the-betrayer-140
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Brace can protect heroes and allies with damage.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

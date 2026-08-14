@@ -1,0 +1,25 @@
+name: Veras Darkshadow
+
+origin: black-temple-token-007
+
+layout: standard
+
+category: Token
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+type: Ally
+
+rule:
+  - type: ability
+    text: Elusive , Untargetable Veras must attack each turn if able.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

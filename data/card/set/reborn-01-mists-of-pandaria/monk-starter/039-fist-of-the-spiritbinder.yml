@@ -1,13 +1,13 @@
-oracle: fist-of-the-spiritbinder
-
-lex: '039'
-
-set: monk-starter
+index: '039'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: fist-of-the-spiritbinder-monk-starter-039
+
+set: Monk Starter

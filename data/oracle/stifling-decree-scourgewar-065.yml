@@ -1,0 +1,22 @@
+name: Stifling Decree
+
+origin: scourgewar-065
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Attach to target ability or weapon. Ongoing : Prevent all damage that would be dealt with attached card.'
+
+regulation:
+
+errata: []
+
+temp: Protection

@@ -1,13 +1,13 @@
-oracle: watchman-visi
-
-lex: '162'
-
-set: worldbreaker
+index: '162'
 
 rarity: Common
 
 artist: Doug Alexander
 
+variation: []
+
 flavor: '"Stormwind will never be safe as long as Deathwing remains in Azeroth."'
 
-variation: []
+oracle: watchman-visi-worldbreaker-162
+
+set: Worldbreaker

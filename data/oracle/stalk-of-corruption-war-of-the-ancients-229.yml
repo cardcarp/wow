@@ -1,0 +1,26 @@
+name: Stalk of Corruption
+
+origin: war-of-the-ancients-229
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 6 , → Your hero deals 2 shadow damage divided as you choose to any number of target heroes and/or allies.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

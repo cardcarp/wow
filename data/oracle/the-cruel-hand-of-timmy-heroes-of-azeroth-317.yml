@@ -1,0 +1,25 @@
+name: The Cruel Hand of Timmy
+
+origin: heroes-of-azeroth-317
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+  - Rogue
+
+rule:
+  - type: ability
+    text: When your hero deals combat damage with The Cruel Hand of Timmy to a hero, that hero's controller destroys one of his resources.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

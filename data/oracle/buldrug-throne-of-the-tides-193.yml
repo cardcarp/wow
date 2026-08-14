@@ -1,0 +1,27 @@
+name: Buldrug
+
+origin: throne-of-the-tides-193
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Enrage When you reveal an ally this way, this ally has +2 ATK and Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: Ogre Warrior

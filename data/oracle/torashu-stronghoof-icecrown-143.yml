@@ -1,0 +1,27 @@
+name: Torashu Stronghoof
+
+origin: icecrown-143
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Mend 2 This ally has -1 ATK for each damage on him.
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

@@ -1,0 +1,25 @@
+name: Time-Twisted Huntress
+
+origin: caverns-of-time-raid-029
+
+layout: standard
+
+category: Ally
+
+damage: 3
+
+health: 2
+
+combat: Ranged
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Prevent all damage that would be dealt to this ally by Raiding allies with an even cost.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Echo

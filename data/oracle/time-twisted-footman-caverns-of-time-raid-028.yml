@@ -1,0 +1,25 @@
+name: Time-Twisted Footman
+
+origin: caverns-of-time-raid-028
+
+layout: standard
+
+category: Ally
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Prevent all damage that would be dealt to this ally by Raiding allies with an odd cost.
+
+regulation:
+
+errata: []
+
+temp: Human Echo

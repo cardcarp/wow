@@ -1,13 +1,13 @@
-oracle: vindron-the-impure
-
-lex: '197'
-
-set: scourgewar
+index: '197'
 
 rarity: Uncommon
 
 artist: Derk Venneman
 
+variation: []
+
 flavor: "\"You really don't look well at all. Just the way I like it.\""
 
-variation: []
+oracle: vindron-the-impure-scourgewar-197
+
+set: Scourgewar

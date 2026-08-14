@@ -1,0 +1,22 @@
+name: Ebon Plague
+
+origin: war-of-the-ancients-006
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: "Unholy Talent Attach to target hero. Ongoing : At the start of your turn, put the top card of attached hero's controller's deck into his graveyard. If it's an ability, ally, or equipment, put a number of additional cards into his graveyard equal to that card's cost."
+
+regulation:
+
+errata: []
+
+temp: Unholy Disease Attachment

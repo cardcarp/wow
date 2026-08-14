@@ -1,14 +1,14 @@
-oracle: gothik-the-harvester
-
-lex: '012'
-
-set: naxxramas-raid
+index: '012'
 
 rarity: Rare
 
 artist: Matt Cavotta
 
-flavor: '"Death is the only escape."'
-
 variation:
   - transform
+
+flavor: '"Death is the only escape."'
+
+oracle: gothik-the-harvester-naxxramas-raid-012
+
+set: Naxxramas Raid

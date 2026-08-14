@@ -1,0 +1,23 @@
+name: Sun-Gilded Shouldercaps
+
+origin: fires-of-outland-206
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Rogue
+
+instant: When Sun-Gilded Shouldercaps enters play, you may exhaust target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

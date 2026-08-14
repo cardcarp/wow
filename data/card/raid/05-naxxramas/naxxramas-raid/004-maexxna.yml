@@ -1,14 +1,14 @@
-oracle: maexxna
-
-lex: '004'
-
-set: naxxramas-raid
+index: '004'
 
 rarity: Rare
 
 artist: Howard Lyon
 
-flavor: She feeds her brood the corpses of all those who dare venture too deeply into Naxxramas.
-
 variation:
   - transform
+
+flavor: She feeds her brood the corpses of all those who dare venture too deeply into Naxxramas.
+
+oracle: maexxna-naxxramas-raid-004
+
+set: Naxxramas Raid

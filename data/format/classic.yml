@@ -2,18 +2,17 @@ set_allow:
   - '*'
 
 regulation_allow:
-  - '*'
 
 oracle_ban:
-  - aquatic-form
-  - ashnaar-frost-herald
-  - azaloth
-  - blizzard
-  - broderick-langforth
-  - hesriana
-  - magistrix-dianas
-  - unending-breath
-  - winter-veil-disguise-kit
+  - aquatic-form-drums-of-war-019
+  - ashnaar-frost-herald-icecrown-099
+  - azaloth-the-hunt-for-illidan-197
+  - blizzard-blood-of-gladiators-033
+  - broderick-langforth-scourgewar-165
+  - hesriana-fields-of-honor-073
+  - magistrix-dianas-servants-of-the-betrayer-200
+  - unending-breath-drums-of-war-081
+  - winter-veil-disguise-kit-aftermath-holiday-promotional-001
 
 oracle_restrict:
 

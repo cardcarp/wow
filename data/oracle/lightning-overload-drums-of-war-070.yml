@@ -1,0 +1,22 @@
+name: Lightning Overload
+
+origin: drums-of-war-070
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Elemental Hero Required Ongoing : When you play a non-ongoing ability, destroy Lightning Overload. If you do, copy that ability. (You may choose new targets for the copy.)'
+
+regulation:
+
+errata: []
+
+temp: Elemental Talent

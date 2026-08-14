@@ -1,13 +1,13 @@
-oracle: divine-storm
-
-lex: '061'
-
-set: scourgewar
+index: '061'
 
 rarity: Rare
 
 artist: Alex Garner
 
+variation: []
+
 flavor: '"The Light infuses me with righteous power! My cause is just!" - Justice Blindburn'
 
-variation: []
+oracle: divine-storm-scourgewar-061
+
+set: Scourgewar

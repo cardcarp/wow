@@ -1,0 +1,27 @@
+name: Brother Rhone
+
+origin: through-the-dark-portal-157
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 0
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Prevent all combat damage that would be dealt to Brother Rhone by attacking allies.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

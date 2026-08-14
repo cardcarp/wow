@@ -1,0 +1,17 @@
+name: Finkle Einhorn, At Your Service!
+
+origin: through-the-dark-portal-316
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'During your turn, pay 3 to complete this quest. Reward : Put an ally card with cost 2 or less from your graveyard into play.'
+
+regulation:
+
+errata: []
+
+temp: ''

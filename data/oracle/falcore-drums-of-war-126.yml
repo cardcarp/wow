@@ -1,0 +1,27 @@
+name: Falcore
+
+origin: drums-of-war-126
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 1
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Long-Range Shadowmeld
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

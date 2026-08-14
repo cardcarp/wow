@@ -1,13 +1,13 @@
-oracle: the-chill-of-undeath
-
-lex: '044'
-
-set: naxxramas-raid
+index: '044'
 
 rarity: Uncommon
 
 artist: Howard Lyon
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: the-chill-of-undeath-naxxramas-raid-044
+
+set: Naxxramas Raid

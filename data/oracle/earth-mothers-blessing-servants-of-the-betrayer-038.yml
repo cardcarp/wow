@@ -1,0 +1,22 @@
+name: Earth Mothers Blessing
+
+origin: servants-of-the-betrayer-038
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +3 ATK / +3 health. When attached ally is destroyed, draw a card.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

@@ -1,0 +1,22 @@
+name: Champions Shout
+
+origin: tomb-of-the-forgotten-058
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Ongoing : Allies you control have +1 / +1 for each equipment you control.'
+
+regulation:
+
+errata: []
+
+temp: Fury Shout

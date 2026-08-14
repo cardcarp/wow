@@ -1,13 +1,13 @@
-oracle: earthen-guidance
-
-lex: '003'
-
-set: dungeon-treasure
+index: '003'
 
 rarity: Common
 
 artist: Michael Kormarck
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: earthen-guidance-dungeon-treasure-003
+
+set: Dungeon Treasure

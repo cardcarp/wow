@@ -1,0 +1,17 @@
+name: Steamwheedle Casino
+
+origin: arena-grand-melee-event-096
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: Starting with the player to your left, each player reveals cards from the top of his deck until he chooses to stop or his revealed cards have a combined cost greater than 21. A player wins if his revealed cards have or share the highest combined cost of 21 or less. Cards with no cost count as 10. Each winner puts the last card he revealed into hand. Shuffle all other revealed cards into their owners' decks.
+
+regulation:
+
+errata: []
+
+temp: ''

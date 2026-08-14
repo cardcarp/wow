@@ -1,0 +1,22 @@
+name: Garrote
+
+origin: fires-of-outland-068
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: "Play only if your hero has stealth. Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals 1 melee damage to attached character. The controller of a character dealt damage this way can't play abilities this turn."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Assassination

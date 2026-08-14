@@ -1,0 +1,27 @@
+name: Wynnd the Spry
+
+origin: demo-reward-2009-002
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive This ally has +1 ATK for each exhausted opposing resource.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

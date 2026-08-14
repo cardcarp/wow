@@ -1,0 +1,19 @@
+name: Swarm of Blood
+
+origin: battle-of-the-aspects-raid-037
+
+layout: standard
+
+category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Put three Corrupted Blood ally tokens into play. Deathwing has +1 ATK this turn for each Corrupted Blood he controls.
+
+regulation:
+
+errata: []
+
+temp: ''

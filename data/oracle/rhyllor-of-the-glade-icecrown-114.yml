@@ -1,0 +1,27 @@
+name: Rhyllor of the Glade
+
+origin: icecrown-114
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 5
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector , Assault 1 , Mend 1
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

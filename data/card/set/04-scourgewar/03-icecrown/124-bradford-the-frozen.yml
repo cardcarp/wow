@@ -1,13 +1,13 @@
-oracle: bradford-the-frozen
-
-lex: '124'
-
-set: icecrown
+index: '124'
 
 rarity: Uncommon
 
 artist: Tom Baxa
 
+variation: []
+
 flavor: "\"When you've been dead and buried, you develop a certain affinity for the cold.\""
 
-variation: []
+oracle: bradford-the-frozen-icecrown-124
+
+set: Icecrown

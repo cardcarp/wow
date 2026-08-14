@@ -1,13 +1,13 @@
-oracle: furan-rookbane
-
-lex: '137'
-
-set: worldbreaker
+index: '137'
 
 rarity: Common
 
 artist: Daarken
 
+variation: []
+
 flavor: '"The Firelord seeks to veil the face of Elune, hiding her with fire, smoke, and ash."'
 
-variation: []
+oracle: furan-rookbane-worldbreaker-137
+
+set: Worldbreaker

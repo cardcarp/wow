@@ -1,0 +1,22 @@
+name: Dizdemona
+
+origin: heroes-of-azeroth-002
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Dizdemona, put X damage on her → Dizdemona deals X shadow damage to target ally. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

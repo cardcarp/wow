@@ -1,0 +1,22 @@
+name: Naedia of Silvermoon City
+
+origin: horde-paladin-2011-001
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 3 , Flip Naedia → Naedia deals 2 unpreventable holy damage to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

@@ -1,0 +1,30 @@
+name: Conqueror Neusuada
+
+origin: scourgewar-169
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: When this ally attacks, you may destroy target non-hero Warlock or equipment.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

@@ -1,0 +1,25 @@
+name: Ethereal Plunderer
+
+origin: the-hunt-for-illidan-201
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 4
+
+combat: Ranged
+
+rule:
+  - type: ability
+    text: When Ethereal Plunderer leaves play, you may gain control of target equipment.
+
+regulation:
+
+errata: []
+
+temp: Ethereal

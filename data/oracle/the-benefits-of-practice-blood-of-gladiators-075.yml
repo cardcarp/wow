@@ -1,0 +1,22 @@
+name: The Benefits of Practice
+
+origin: blood-of-gladiators-075
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: Your hero deals 1 melee damage to target hero or ally. You may choose one of your weapons. If you do, put a +1 ATK counter on it for each damage dealt this way.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arms

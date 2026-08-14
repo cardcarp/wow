@@ -1,0 +1,19 @@
+name: Lost Isles
+
+origin: worldbreaker-270
+
+layout: standard
+
+category: Location
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 1 , → Target Goblin you control has Assault 1 this turn for each equipment you control.
+
+regulation:
+
+errata: []
+
+temp: ''

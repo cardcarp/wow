@@ -1,13 +1,13 @@
-oracle: justicar-andaer-ragepaw
-
-lex: '139'
-
-set: scourgewar
+index: '139'
 
 rarity: Uncommon
 
 artist: Greg Hildebrandt
 
+variation: []
+
 flavor: '"Your very existence is an abhorrent defiance against the natural order!"'
 
-variation: []
+oracle: justicar-andaer-ragepaw-scourgewar-139
+
+set: Scourgewar

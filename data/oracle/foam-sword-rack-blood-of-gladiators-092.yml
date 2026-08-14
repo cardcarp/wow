@@ -1,0 +1,19 @@
+name: Foam Sword Rack
+
+origin: blood-of-gladiators-092
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+rule:
+  - type: ability
+    text: 'Ongoing : Each hero has " 1 → This hero deals ½ melee damage to target hero."'
+
+regulation:
+
+errata: []
+
+temp: ''

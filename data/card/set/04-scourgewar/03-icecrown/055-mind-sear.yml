@@ -1,13 +1,13 @@
-oracle: mind-sear
-
-lex: '055'
-
-set: icecrown
+index: '055'
 
 rarity: Uncommon
 
 artist: Raymond Swanland
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: mind-sear-icecrown-055
+
+set: Icecrown

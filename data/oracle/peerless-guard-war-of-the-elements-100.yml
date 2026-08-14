@@ -1,0 +1,22 @@
+name: Peerless Guard
+
+origin: war-of-the-elements-100
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: The next time combat damage would be dealt to target defending ally you control this turn, it's dealt to your hero instead. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

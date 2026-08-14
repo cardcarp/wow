@@ -1,0 +1,22 @@
+name: Invisibility
+
+origin: servants-of-the-betrayer-061
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: "Your hero is Elusive and Untargetable this turn. Ongoing : Opposing heroes and allies lose and can't have Elusive or Untargetable ."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

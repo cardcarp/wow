@@ -1,0 +1,25 @@
+name: Azjol-anak Champion
+
+origin: wrathgate-166
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Nature
+
+rule:
+  - type: ability
+    text: Nerubian Reputation This ally has +3 / +3 whole an ability, ally, and equipment are in your graveyard.
+
+regulation:
+
+errata: []
+
+temp: Nerubian

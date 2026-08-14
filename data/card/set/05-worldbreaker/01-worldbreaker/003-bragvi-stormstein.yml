@@ -1,14 +1,14 @@
-oracle: bragvi-stormstein
-
-lex: '003'
-
-set: worldbreaker
+index: '003'
 
 rarity: Uncommon
 
 artist: Zoltan Boros & Gabor Szikszai
 
-flavor: '"The elements are in turmoil. It is up to those of us who can hear their whispers to guide those who cannot."'
-
 variation:
   - transform
+
+flavor: '"The elements are in turmoil. It is up to those of us who can hear their whispers to guide those who cannot."'
+
+oracle: bragvi-stormstein-worldbreaker-003
+
+set: Worldbreaker

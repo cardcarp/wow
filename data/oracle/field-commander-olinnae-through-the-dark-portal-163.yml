@@ -1,0 +1,27 @@
+name: Field Commander Olinnae
+
+origin: through-the-dark-portal-163
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 6
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector All other allies in your party have Protector .
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

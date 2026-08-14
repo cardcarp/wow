@@ -1,0 +1,19 @@
+name: Treasure Chest
+
+origin: fires-of-outland-108
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: Look at the top three cards of your deck. Put one into your hand and the rest on top of your deck in any order.
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,22 @@
+name: Divine Justice
+
+origin: blood-of-gladiators-042
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: Exhaust target ready opposing ally. If you do, you may have it deal melee damage equal to its ATK to a second target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution

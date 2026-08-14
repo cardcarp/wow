@@ -1,13 +1,13 @@
-oracle: aresha-thorncaller
-
-lex: '132'
-
-set: worldbreaker
+index: '132'
 
 rarity: Uncommon
 
 artist: E.M. Gist
 
+variation: []
+
 flavor: The return of Ysera has made the allure of nature stronger than ever.
 
-variation: []
+oracle: aresha-thorncaller-worldbreaker-132
+
+set: Worldbreaker

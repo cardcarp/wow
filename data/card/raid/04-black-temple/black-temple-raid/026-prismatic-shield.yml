@@ -1,13 +1,13 @@
-oracle: prismatic-shield
-
-lex: '026'
-
-set: black-temple-raid
+index: '026'
 
 rarity: Uncommon
 
 artist: Jonboy Meyers
 
+variation: []
+
 flavor: "\"I'm not impressed.\""
 
-variation: []
+oracle: prismatic-shield-black-temple-raid-026
+
+set: Black Temple Raid

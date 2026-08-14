@@ -1,0 +1,22 @@
+name: Withering Shout
+
+origin: march-of-the-legion-125
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warrior
+
+instant: 'Ongoing : Opposing allies have -1 health.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury Shout

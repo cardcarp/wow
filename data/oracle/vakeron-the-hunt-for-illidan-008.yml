@@ -1,0 +1,22 @@
+name: Vakeron
+
+origin: the-hunt-for-illidan-008
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 7 , Flip Vakeron → Vakeron deals 2 unpreventable holy damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

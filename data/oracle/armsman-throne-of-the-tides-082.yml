@@ -1,0 +1,22 @@
+name: Armsman
+
+origin: throne-of-the-tides-082
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Ongoing : Your hero has Assault 1 for each armor and item you control.'
+
+regulation:
+
+errata: []
+
+temp: Arms

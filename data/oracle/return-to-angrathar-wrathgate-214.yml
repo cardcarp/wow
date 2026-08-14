@@ -1,0 +1,17 @@
+name: Return to Angrathar
+
+origin: wrathgate-214
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'You pay 1 less to complete this quest for each Scourge ally you control. Pay 3 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

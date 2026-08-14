@@ -1,0 +1,25 @@
+name: Hungering Bone Cudgel
+
+origin: march-of-the-legion-285
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+  - Rogue
+
+rule:
+  - type: ability
+    text: At the end of your turn, if no damage was dealt with Hungering Bone Cudgel this turn, destroy it.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

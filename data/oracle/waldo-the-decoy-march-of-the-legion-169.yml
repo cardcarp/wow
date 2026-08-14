@@ -1,0 +1,27 @@
+name: Waldo the Decoy
+
+origin: march-of-the-legion-169
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Exhaust your hero → Exhaust target ally.
+
+regulation:
+
+errata: []
+
+temp: Gnome Rogue

@@ -1,13 +1,13 @@
-oracle: naxxramas-worshipper
-
-lex: '002'
-
-set: naxxramas-token
+index: '002'
 
 rarity: Common
 
 artist: Eric Deschamps
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: naxxramas-worshipper-naxxramas-token-002
+
+set: Naxxramas Token

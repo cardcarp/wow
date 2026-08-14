@@ -1,13 +1,13 @@
-oracle: dizzying-haze
-
-lex: '019'
-
-set: monk-starter
+index: '019'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: dizzying-haze-monk-starter-019
+
+set: Monk Starter

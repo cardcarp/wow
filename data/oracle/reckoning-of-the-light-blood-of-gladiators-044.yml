@@ -1,0 +1,22 @@
+name: Reckoning of the Light
+
+origin: blood-of-gladiators-044
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: Destroy each ability and equipment with which damage was dealt to your hero this game.
+
+regulation:
+
+errata: []
+
+temp: Retribution

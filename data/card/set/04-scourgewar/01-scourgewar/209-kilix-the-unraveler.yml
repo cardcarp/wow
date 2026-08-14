@@ -1,13 +1,13 @@
-oracle: kilix-the-unraveler
-
-lex: '209'
-
-set: scourgewar
+index: '209'
 
 rarity: Rare
 
 artist: Lars Grant-West
 
+variation: []
+
 flavor: '"In Arthas, we have a common enemy."'
 
-variation: []
+oracle: kilix-the-unraveler-scourgewar-209
+
+set: Scourgewar

@@ -1,0 +1,23 @@
+name: Boots of the Resilient
+
+origin: drums-of-war-205
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: When your hero is dealt damage, exhaust Boots of the Resilient.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

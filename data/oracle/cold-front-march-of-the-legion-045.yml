@@ -1,0 +1,22 @@
+name: Cold Front
+
+origin: march-of-the-legion-045
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+instant: Allies can't attack this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost

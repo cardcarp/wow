@@ -1,13 +1,13 @@
-oracle: hammer-of-the-divine
-
-lex: '062'
-
-set: scourgewar
+index: '062'
 
 rarity: Rare
 
 artist: Howard Lyon
 
+variation: []
+
 flavor: Even the most powerful Scourge will be brought to their knees in the presence of the Light.
 
-variation: []
+oracle: hammer-of-the-divine-scourgewar-062
+
+set: Scourgewar

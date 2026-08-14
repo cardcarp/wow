@@ -1,0 +1,27 @@
+name: Razor Hill Spiritseer
+
+origin: war-of-the-ancients-143
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'Bloodrush : While an opposing hero has more damage on it than your hero, this ally has Assault 2 .'
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

@@ -1,0 +1,22 @@
+name: Transfigure
+
+origin: drums-of-war-042
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: "Ongoing : → Target weapon's ATK becomes equal to its strike cost this turn."
+
+regulation:
+
+errata: []
+
+temp: Arcane

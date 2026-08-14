@@ -1,0 +1,28 @@
+name: McCloud the Fox
+
+origin: crown-of-the-heavens-017
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Elusive , Ferocity , Stealth
+
+regulation:
+
+errata: []
+
+temp: Fox

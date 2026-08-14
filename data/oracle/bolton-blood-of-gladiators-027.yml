@@ -1,0 +1,28 @@
+name: Bolton
+
+origin: blood-of-gladiators-027
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Nature
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Long-Range
+
+regulation:
+
+errata: []
+
+temp: Wind Serpent

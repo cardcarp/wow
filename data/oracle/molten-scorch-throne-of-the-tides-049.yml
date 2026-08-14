@@ -1,0 +1,22 @@
+name: Molten Scorch
+
+origin: throne-of-the-tides-049
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: Your hero deals 3 fire damage to target hero or ally. Delve
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fire

@@ -1,0 +1,25 @@
+name: Sunwalker Lighthorn
+
+origin: reign-of-fire-115
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 8
+
+combat: Holy
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

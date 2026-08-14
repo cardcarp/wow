@@ -1,0 +1,27 @@
+name: Inventor Dorbin Callus
+
+origin: servants-of-the-betrayer-138
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 5
+
+health: 6
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive → Target player draws four cards.
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

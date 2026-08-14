@@ -1,0 +1,24 @@
+name: Phantom Armor
+
+origin: dungeon-treasure-040
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: This armor can only prevent melee ( ) damage.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

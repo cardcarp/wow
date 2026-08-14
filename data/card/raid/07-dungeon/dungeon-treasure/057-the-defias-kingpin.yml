@@ -1,13 +1,13 @@
-oracle: the-defias-kingpin
-
-lex: '057'
-
-set: dungeon-treasure
+index: '057'
 
 rarity: Common
 
 artist: Slawomir Maniak
 
+variation: []
+
 flavor: '"Slay the Defias Kingpin and commandeer his ship!" - Kagtha'
 
-variation: []
+oracle: the-defias-kingpin-dungeon-treasure-057
+
+set: Dungeon Treasure

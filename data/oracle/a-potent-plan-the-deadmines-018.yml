@@ -1,0 +1,19 @@
+name: A Potent Plan
+
+origin: the-deadmines-018
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Dungeon allies have +5 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,13 +1,13 @@
-oracle: master-poisoner
-
-lex: '068'
-
-set: wrathgate
+index: '068'
 
 rarity: Rare
 
 artist: Bill Ruan
 
+variation: []
+
 flavor: '"A little dab of this, a little pinch of that, and voilá! A masterpiece!" - Tysandri Duskstrike'
 
-variation: []
+oracle: master-poisoner-wrathgate-068
+
+set: Wrathgate

@@ -1,0 +1,27 @@
+name: Strongroot, Ancient of War
+
+origin: war-of-the-ancients-197
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 1
+
+health: 9
+
+combat: Nature
+
+type: Monster
+
+rule:
+  - type: ability
+    text: This ally can protect Monster heroes and allies you control. When an opposing ally attacks, ready this ally.
+
+regulation:
+
+errata: []
+
+temp: Ancient Druid

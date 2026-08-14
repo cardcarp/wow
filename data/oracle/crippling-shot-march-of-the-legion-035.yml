@@ -1,0 +1,22 @@
+name: Crippling Shot
+
+origin: march-of-the-legion-035
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: Target hero or ally has -5 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

@@ -1,0 +1,22 @@
+name: Heartburn
+
+origin: blood-of-gladiators-035
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Your hero deals 4 fire damage to target hero or ally and 1 fire damage to each other hero and ally in that character's party.
+
+regulation:
+
+errata: []
+
+temp: Fire

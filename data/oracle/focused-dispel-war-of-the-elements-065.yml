@@ -1,0 +1,22 @@
+name: Focused Dispel
+
+origin: war-of-the-elements-065
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+instant: Destroy up to two target abilities.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Discipline

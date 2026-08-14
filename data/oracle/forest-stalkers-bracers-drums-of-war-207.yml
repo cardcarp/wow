@@ -1,0 +1,23 @@
+name: Forest Stalkers Bracers
+
+origin: drums-of-war-207
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: 1 → Target hero or ally has Stealth this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

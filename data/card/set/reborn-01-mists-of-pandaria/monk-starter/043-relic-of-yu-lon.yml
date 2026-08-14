@@ -1,13 +1,13 @@
-oracle: relic-of-yu-lon
-
-lex: '043'
-
-set: monk-starter
+index: '043'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: relic-of-yu-lon-monk-starter-043
+
+set: Monk Starter

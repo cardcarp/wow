@@ -1,0 +1,27 @@
+name: Burst of Knowledge
+
+origin: fires-of-outland-210
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 1 , Put Burst of Knowledge into its owner's hand → You pay 2 less to play your next card this turn.
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

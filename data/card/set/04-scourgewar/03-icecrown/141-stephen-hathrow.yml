@@ -1,13 +1,13 @@
-oracle: stephen-hathrow
-
-lex: '141'
-
-set: icecrown
+index: '141'
 
 rarity: Common
 
 artist: Andrew Robinson
 
+variation: []
+
 flavor: '"All things end the same way; be it in rot or rust."'
 
-variation: []
+oracle: stephen-hathrow-icecrown-141
+
+set: Icecrown

@@ -1,0 +1,27 @@
+name: Esala
+
+origin: crown-of-the-heavens-081
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 6
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: While this ally is undamaged, she has Assault 4 .
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

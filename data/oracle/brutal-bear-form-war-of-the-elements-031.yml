@@ -1,0 +1,22 @@
+name: Brutal Bear Form
+
+origin: war-of-the-elements-031
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Druid
+
+instant: 'Ongoing : Your hero has Protector . Allies you control have Assault 1 .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral Bear Form

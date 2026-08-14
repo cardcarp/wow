@@ -1,0 +1,25 @@
+name: Baradis Darkstone
+
+origin: tomb-of-the-forgotten-076
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 7
+
+health: 3
+
+combat: Shadow
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warlock

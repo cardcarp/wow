@@ -1,0 +1,22 @@
+name: Shelter the Flock
+
+origin: onyxias-lair-treasure-005
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Your hero heals 11 damage from each friendly hero.
+
+regulation:
+
+errata: []
+
+temp: Holy

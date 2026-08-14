@@ -1,0 +1,22 @@
+name: Maelstrom Weapon
+
+origin: servants-of-the-betrayer-100
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+instant: 'Your hero deals 2 nature damage to target hero or ally. Attach to one of your Melee weapons. Ongoing : When you strike with attached weapon, your hero deals 1 nature damage to target hero or ally.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement

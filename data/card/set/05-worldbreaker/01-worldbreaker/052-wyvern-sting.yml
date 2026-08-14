@@ -1,13 +1,13 @@
-oracle: wyvern-sting
-
-lex: '052'
-
-set: worldbreaker
+index: '052'
 
 rarity: Rare
 
 artist: Daren Bader
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: wyvern-sting-worldbreaker-052
+
+set: Worldbreaker

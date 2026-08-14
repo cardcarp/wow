@@ -1,13 +1,13 @@
-oracle: shadow-demons
-
-lex: '069'
-
-set: black-temple-raid
+index: '069'
 
 rarity: Uncommon
 
 artist: Matt Cavotta
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: shadow-demons-black-temple-raid-069
+
+set: Black Temple Raid

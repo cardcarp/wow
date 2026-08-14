@@ -1,0 +1,27 @@
+name: Illia the Bitter
+
+origin: the-hunt-for-illidan-157
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 6
+
+health: 4
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Fire Resistance
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Hunter

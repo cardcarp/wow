@@ -1,13 +1,13 @@
-oracle: bonechewer-behemoth
-
-lex: '031'
-
-set: black-temple-raid
+index: '031'
 
 rarity: Common
 
 artist: Dave Kendall
 
+variation: []
+
 flavor: Brimstone and fire follow in his wake.
 
-variation: []
+oracle: bonechewer-behemoth-black-temple-raid-031
+
+set: Black Temple Raid

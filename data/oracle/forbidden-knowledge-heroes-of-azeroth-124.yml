@@ -1,0 +1,22 @@
+name: Forbidden Knowledge
+
+origin: heroes-of-azeroth-124
+
+layout: standard
+
+category: Ability
+
+cost: '8'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Remove your deck from the game. Ongoing : If you would draw a card, choose a card you removed and put it into your hand instead.'
+
+regulation:
+
+errata: []
+
+temp: Demonology

@@ -1,0 +1,25 @@
+name: Crawling Claw
+
+origin: worldbreaker-crafting-001
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 5
+
+health: 1
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Artifact When this ally attacks, you and target opponent play "Rock, Parchment, Sickle." If you lose, it can't deal damage this combat.
+
+regulation:
+
+errata: []
+
+temp: Crawling Claw

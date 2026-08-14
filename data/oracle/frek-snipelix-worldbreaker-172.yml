@@ -1,0 +1,27 @@
+name: Frek Snipelix
+
+origin: worldbreaker-172
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 3
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Time is Money → Target ally has Long-Range this turn.
+
+regulation:
+
+errata: []
+
+temp: Goblin Hunter

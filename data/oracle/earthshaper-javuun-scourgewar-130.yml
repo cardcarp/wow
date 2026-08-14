@@ -1,0 +1,27 @@
+name: Earthshaper Javuun
+
+origin: scourgewar-130
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 6
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Shadow Resistance Mend 2
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

@@ -1,13 +1,13 @@
-oracle: ice-cold-refreshment
-
-lex: '051'
-
-set: naxxramas-raid
+index: '051'
 
 rarity: Uncommon
 
 artist: Howard Lyon
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: ice-cold-refreshment-naxxramas-raid-051
+
+set: Naxxramas Raid

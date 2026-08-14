@@ -1,13 +1,13 @@
-oracle: relic-of-niuzao
-
-lex: '042'
-
-set: monk-starter
+index: '042'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: relic-of-niuzao-monk-starter-042
+
+set: Monk Starter

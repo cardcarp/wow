@@ -1,13 +1,13 @@
-oracle: danyssa-stillheart
-
-lex: '129'
-
-set: scourgewar
+index: '129'
 
 rarity: Common
 
 artist: Oliver Chipping
 
+variation: []
+
 flavor: '"In life I sought to heal all wounds, but in death I seek to further them."'
 
-variation: []
+oracle: danyssa-stillheart-scourgewar-129
+
+set: Scourgewar

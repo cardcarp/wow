@@ -1,0 +1,22 @@
+name: Flash Heal
+
+origin: heroes-of-azeroth-078
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+instant: Your hero heals 4 damage from target hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

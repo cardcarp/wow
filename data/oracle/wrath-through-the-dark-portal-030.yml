@@ -1,0 +1,22 @@
+name: Wrath
+
+origin: through-the-dark-portal-030
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: Your hero deals 3 nature damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Balance

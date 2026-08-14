@@ -1,0 +1,19 @@
+name: Dark Influence
+
+origin: shadowfang-keep-023
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Each Raiding ally deals shadow damage to itself equal to its ATK.
+
+regulation:
+
+errata: []
+
+temp: ''

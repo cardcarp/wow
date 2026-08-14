@@ -1,13 +1,13 @@
-oracle: arcane-essence
-
-lex: '040'
-
-set: icecrown
+index: '040'
 
 rarity: Uncommon
 
 artist: Raymond Swanland
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: arcane-essence-icecrown-040
+
+set: Icecrown

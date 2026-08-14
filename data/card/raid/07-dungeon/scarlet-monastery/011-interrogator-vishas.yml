@@ -1,13 +1,13 @@
-oracle: interrogator-vishas
-
-lex: '011'
-
-set: scarlet-monastery
+index: '011'
 
 rarity: Common
 
 artist: Anton Zemskov
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: interrogator-vishas-scarlet-monastery-011
+
+set: Scarlet Monastery

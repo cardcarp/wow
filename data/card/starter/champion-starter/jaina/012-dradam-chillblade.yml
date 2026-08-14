@@ -1,13 +1,13 @@
-oracle: dradam-chillblade
-
-lex: '012'
-
-set: jaina
+index: '012'
 
 rarity: Common
 
 artist: Slawomir Maniak
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: dradam-chillblade-throne-of-the-tides-104
+
+set: Jaina

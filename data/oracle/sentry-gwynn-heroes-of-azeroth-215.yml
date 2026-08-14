@@ -1,0 +1,27 @@
+name: Sentry Gwynn
+
+origin: heroes-of-azeroth-215
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Your hero has Elusive .
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

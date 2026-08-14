@@ -1,13 +1,13 @@
-oracle: chilly-slobberknocker
-
-lex: '191'
-
-set: icecrown
+index: '191'
 
 rarity: Rare
 
 artist: Chris Seaman
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: chilly-slobberknocker-icecrown-191
+
+set: Icecrown

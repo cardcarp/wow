@@ -1,0 +1,22 @@
+name: Arcane Explosion
+
+origin: march-of-the-legion-044
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Mage
+
+instant: Your hero deals 1 arcane damage to each opposing hero and ally. Draw a card for each character dealt damage this way.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

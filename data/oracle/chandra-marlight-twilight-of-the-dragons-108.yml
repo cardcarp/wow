@@ -1,0 +1,27 @@
+name: Chandra Marlight
+
+origin: twilight-of-the-dragons-108
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Aberration Mend 2
+
+regulation:
+
+errata: []
+
+temp: Worgen Priest

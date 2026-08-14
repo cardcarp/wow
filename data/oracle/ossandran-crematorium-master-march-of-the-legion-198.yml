@@ -1,0 +1,27 @@
+name: Ossandran, Crematorium Master
+
+origin: march-of-the-legion-198
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When an opposing ability, ally, equipment, or resource is destroyed, remove it from the game.
+
+regulation:
+
+errata: []
+
+temp: Undead Rogue

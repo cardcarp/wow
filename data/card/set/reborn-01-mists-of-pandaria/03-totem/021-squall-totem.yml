@@ -1,13 +1,13 @@
-oracle: squall-totem
-
-lex: '021'
-
-set: totem
+index: '021'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: squall-totem-scourgewar-090
+
+set: Totem

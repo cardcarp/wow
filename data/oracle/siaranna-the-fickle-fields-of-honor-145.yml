@@ -1,0 +1,27 @@
+name: Siaranna the Fickle
+
+origin: fields-of-honor-145
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 9
+
+combat: Arcane
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When a player plays an ability, he gains control of Siaranna.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

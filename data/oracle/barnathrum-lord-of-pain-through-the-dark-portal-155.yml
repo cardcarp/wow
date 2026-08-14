@@ -1,0 +1,27 @@
+name: Barnathrum, Lord of Pain
+
+origin: through-the-dark-portal-155
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 1 , → Double the damage on each ally.
+
+regulation:
+
+errata: []
+
+temp: Human Warlock

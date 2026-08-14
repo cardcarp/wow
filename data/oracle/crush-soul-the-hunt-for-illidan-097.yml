@@ -1,0 +1,22 @@
+name: Crush Soul
+
+origin: the-hunt-for-illidan-097
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+instant: Interrupt target ally card. If you do, remove it from the game and put damage on your hero equal to that card's ATK.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Destruction

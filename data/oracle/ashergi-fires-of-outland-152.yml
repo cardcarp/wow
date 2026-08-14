@@ -1,0 +1,27 @@
+name: Ash'ergi
+
+origin: fires-of-outland-152
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Stealth Ash'ergi has +1 ATK for each damage on him.
+
+regulation:
+
+errata: []
+
+temp: Troll Rogue

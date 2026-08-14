@@ -1,0 +1,27 @@
+name: Disciple of the Light
+
+origin: reign-of-fire-074
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

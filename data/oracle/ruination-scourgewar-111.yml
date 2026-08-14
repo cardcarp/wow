@@ -1,0 +1,22 @@
+name: Ruination
+
+origin: scourgewar-111
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Choose one or both: Destroy target ally; or destroy target weapon.'
+
+regulation:
+
+errata: []
+
+temp: Arms

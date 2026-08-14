@@ -1,13 +1,13 @@
-oracle: landros-gift
-
-lex: '102'
-
-set: wrathgate
+index: '102'
 
 rarity: Uncommon
 
 artist: Michael Sutfin
 
+variation: []
+
 flavor: '"Roll the dice and see if you get lucky." - Landro Longshot'
 
-variation: []
+oracle: landros-gift-wrathgate-102
+
+set: Wrathgate

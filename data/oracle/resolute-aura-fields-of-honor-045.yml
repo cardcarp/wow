@@ -1,0 +1,22 @@
+name: Resolute Aura
+
+origin: fields-of-honor-045
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Ongoing : For each armor you control, your weapons have +1 ATK and you pay 1 less to strike with them.'
+
+regulation:
+
+errata: []
+
+temp: Retribution

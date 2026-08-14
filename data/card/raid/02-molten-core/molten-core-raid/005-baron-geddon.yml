@@ -1,14 +1,14 @@
-oracle: baron-geddon
-
-lex: '005'
-
-set: molten-core-raid
+index: '005'
 
 rarity: Rare
 
 artist: Brandon Kitkouski
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: baron-geddon-molten-core-raid-005
+
+set: Molten Core Raid

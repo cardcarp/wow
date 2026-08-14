@@ -1,0 +1,25 @@
+name: Yorsahj the Unsleeping
+
+origin: battle-of-the-aspects-raid-007
+
+layout: standard
+
+category: Ally
+
+damage: 2
+
+health: 10
+
+combat: Shadow
+
+type: Boss
+
+rule:
+  - type: ability
+    text: "Boss Yor'sahj attacks the Raiding ally with the lowest remaining health if able. Call Blood of Shu'ma (Deathwing Stages 2+) : When Yor'sahj deals fatal combat damage to a defending Raiding ally, that ally's controller reveals the top card of his deck. If it's an ability, Yor'sahj deals 3 shadow damage to that Raider's hero. If it's an ally, flip a Deathwing card. If it's an equipment, each other Raider discards a card."
+
+regulation:
+
+errata: []
+
+temp: Faceless One General

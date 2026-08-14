@@ -1,0 +1,25 @@
+name: Kara Vesstal
+
+origin: throne-of-the-tides-116
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Arcane
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Human Mage

@@ -1,13 +1,14 @@
-oracle: broxigar-the-red
-
-lex: '012'
-
-set: timewalkers
+index: '012'
 
 rarity: Rare
 
 artist: Unknown
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: broxigar-the-red-timewalkers-012
+
+set: Timewalkers

@@ -1,0 +1,17 @@
+name: The Rider of Frost
+
+origin: icecrown-216
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 4 to complete this quest. Reward : Draw a card. You pay 1 less to complete quests this turn.'
+
+regulation:
+
+errata: []
+
+temp: ''

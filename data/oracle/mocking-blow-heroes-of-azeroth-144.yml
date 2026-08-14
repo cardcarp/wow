@@ -1,0 +1,22 @@
+name: Mocking Blow
+
+origin: heroes-of-azeroth-144
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: Your hero deals 1 melee damage to target hero or ally. This turn, that character must attack if able and can attack only your hero.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arms

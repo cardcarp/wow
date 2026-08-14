@@ -1,13 +1,13 @@
-oracle: bloody-grip
-
-lex: '114'
-
-set: scourgewar
+index: '114'
 
 rarity: Uncommon
 
 artist: Craig Elliot
 
+variation: []
+
 flavor: '"Within all of us burns a desire to do more with ourselves ..." - Ivan, Bladewind Brute'
 
-variation: []
+oracle: bloody-grip-scourgewar-114
+
+set: Scourgewar

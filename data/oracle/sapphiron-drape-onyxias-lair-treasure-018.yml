@@ -1,0 +1,27 @@
+name: Sapphiron Drape
+
+origin: onyxias-lair-treasure-018
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: If your hero would deal damage with an ability, it deals that amount of damage plus 1 instead. If your hero would heal damage with an ability, it heals that amount of damage plus 1 instead.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

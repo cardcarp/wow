@@ -1,0 +1,27 @@
+name: Flamebringer Gaxix
+
+origin: twilight-of-the-dragons-136
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 5
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: This ally has +2 / +2 while you control another card.
+
+regulation:
+
+errata: []
+
+temp: Goblin Mage

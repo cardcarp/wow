@@ -1,0 +1,25 @@
+name: Reanimators Hacker
+
+origin: scourgewar-241
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Warrior
+  - Death Knight
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: 2 , Destroy this weapon → Put target ally from your graveyard into your hand.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

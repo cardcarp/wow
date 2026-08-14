@@ -1,14 +1,14 @@
-oracle: peter-hottelet
-
-lex: '008'
-
-set: worldbreaker
+index: '008'
 
 rarity: Uncommon
 
 artist: Chris Rahn
 
-flavor: "\"I don't mind if my skull ends up on a shelf as long as it's got my name on it.\""
-
 variation:
   - transform
+
+flavor: "\"I don't mind if my skull ends up on a shelf as long as it's got my name on it.\""
+
+oracle: peter-hottelet-worldbreaker-008
+
+set: Worldbreaker

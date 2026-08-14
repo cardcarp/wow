@@ -1,13 +1,13 @@
-oracle: bully
-
-lex: '084'
-
-set: worldbreaker
+index: '084'
 
 rarity: Common
 
 artist: Lucas Graciano
 
+variation: []
+
 flavor: '"Your back seems as good a place to sheath my blade as any." - Vorix Zorbuzz'
 
-variation: []
+oracle: bully-worldbreaker-084
+
+set: Worldbreaker

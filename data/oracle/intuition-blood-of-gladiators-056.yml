@@ -1,0 +1,22 @@
+name: Intuition
+
+origin: blood-of-gladiators-056
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: Remove target attacker from combat. You may ready it.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Combat

@@ -1,0 +1,27 @@
+name: Jadefire Satyr
+
+origin: crown-of-the-heavens-144
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: ability
+    text: While an opposing hero has 15 or more damage on it, this ally has Assault 2 .
+
+regulation:
+
+errata: []
+
+temp: Satyr Demon Warrior

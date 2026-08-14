@@ -1,0 +1,22 @@
+name: Menace
+
+origin: drums-of-war-087
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: Put target ally on top of its owner's deck.
+
+regulation:
+
+errata: []
+
+temp: Fury

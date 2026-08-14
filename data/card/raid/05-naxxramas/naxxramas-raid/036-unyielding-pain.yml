@@ -1,13 +1,13 @@
-oracle: unyielding-pain
-
-lex: '036'
-
-set: naxxramas-raid
+index: '036'
 
 rarity: Uncommon
 
 artist: Tyler Walpole
 
+variation: []
+
 flavor: '"I do hope they stay alive long enough for me to ... introduce myself." - Lady Blaumeux'
 
-variation: []
+oracle: unyielding-pain-naxxramas-raid-036
+
+set: Naxxramas Raid

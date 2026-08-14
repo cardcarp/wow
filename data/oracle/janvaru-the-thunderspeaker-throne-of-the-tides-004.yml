@@ -1,0 +1,22 @@
+name: Janvaru the Thunderspeaker
+
+origin: throne-of-the-tides-004
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: '4 , Flip Janvaru → Choose one: Janvaru deals 4 nature damage to target hero, or Janvaru heals 4 damage from himself.'
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

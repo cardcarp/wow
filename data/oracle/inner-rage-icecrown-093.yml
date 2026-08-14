@@ -1,0 +1,23 @@
+name: Inner Rage
+
+origin: icecrown-093
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+  - Warrior
+
+rule:
+  - type: ability
+    text: Your hero has Assault X this turn, where X is the cost of target non-hero Druid or Warrior you control.
+
+regulation:
+
+errata: []
+
+temp: Feral Fury

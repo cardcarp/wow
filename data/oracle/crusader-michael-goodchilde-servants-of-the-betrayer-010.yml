@@ -1,0 +1,22 @@
+name: Crusader Michael Goodchilde
+
+origin: servants-of-the-betrayer-010
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Michael → If an opposing ally would be dealt combat damage while defending this turn, it's dealt that much +2 instead. Scarlet Crusade
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

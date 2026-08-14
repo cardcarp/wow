@@ -1,13 +1,13 @@
-oracle: ashroot-ancient-of-lore
-
-lex: '011'
-
-set: elderlimb
+index: '011'
 
 rarity: Uncommon
 
 artist: Marcelo Vignali
 
+variation: []
+
 flavor: '"Nature favors those willing to learn its secrets."'
 
-variation: []
+oracle: ashroot-ancient-of-lore-crown-of-the-heavens-158
+
+set: Elderlimb

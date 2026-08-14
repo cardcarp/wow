@@ -1,0 +1,17 @@
+name: Peerless Effort
+
+origin: arena-grand-melee-event-071
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: 'Ongoing : Each player may exhaust his hero rather than pay the resource cost of completing a quest.'
+
+regulation:
+
+errata: []
+
+temp: ''

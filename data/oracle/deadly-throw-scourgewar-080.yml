@@ -1,0 +1,22 @@
+name: Deadly Throw
+
+origin: scourgewar-080
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Finishing Move Your daggers have Thrown and +X ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Assassination

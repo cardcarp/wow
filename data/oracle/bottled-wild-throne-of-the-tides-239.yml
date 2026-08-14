@@ -1,0 +1,31 @@
+name: Bottled Wild
+
+origin: throne-of-the-tides-239
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'When this item enters play, target hero or ally has Long-Range this turn. On your turn: Exhaust a Hunter hero or ally you control and destroy this item → Target hero or ally has Long-Range this turn.'
+
+regulation:
+
+errata: []
+
+temp: Item Potion

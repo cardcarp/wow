@@ -1,13 +1,13 @@
-oracle: garet-vice
-
-lex: '138'
-
-set: worldbreaker
+index: '138'
 
 rarity: Common
 
 artist: Chris Seaman
 
+variation: []
+
 flavor: '"I have little patience for the likes of you."'
 
-variation: []
+oracle: garet-vice-worldbreaker-138
+
+set: Worldbreaker

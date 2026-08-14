@@ -1,13 +1,13 @@
-oracle: ruthless-precision
-
-lex: '055'
-
-set: naxxramas-raid
+index: '055'
 
 rarity: Uncommon
 
 artist: Howard Lyon
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: ruthless-precision-naxxramas-raid-055
+
+set: Naxxramas Raid

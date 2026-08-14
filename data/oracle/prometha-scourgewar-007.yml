@@ -1,0 +1,22 @@
+name: Prometha
+
+origin: scourgewar-007
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'If you control another Shaman: Flip Prometha → Ready target Melee weapon.'
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

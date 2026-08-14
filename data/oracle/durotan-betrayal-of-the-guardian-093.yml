@@ -1,0 +1,27 @@
+name: Durotan
+
+origin: betrayal-of-the-guardian-093
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 7
+
+health: 7
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Durotan enters play, discard your hand. Durotan can protect Draka and Thrall allies you control.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

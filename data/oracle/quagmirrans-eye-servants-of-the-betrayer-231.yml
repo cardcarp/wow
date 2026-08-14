@@ -1,0 +1,27 @@
+name: Quagmirrans Eye
+
+origin: servants-of-the-betrayer-231
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: You pay 1 less to play abilities, to a minimum of 1 .
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

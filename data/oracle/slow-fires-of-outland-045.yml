@@ -1,0 +1,22 @@
+name: Slow
+
+origin: fires-of-outland-045
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: "Arcane Hero Required Attach to target hero. Ongoing : Attached hero's controller can't play more than one card per turn. (This doesn't include placing resources.)"
+
+regulation:
+
+errata: []
+
+temp: Arcane Talent

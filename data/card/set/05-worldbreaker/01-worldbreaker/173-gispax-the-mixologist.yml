@@ -1,13 +1,13 @@
-oracle: gispax-the-mixologist
-
-lex: '173'
-
-set: worldbreaker
+index: '173'
 
 rarity: Rare
 
 artist: Daarken
 
+variation: []
+
 flavor: "\"What'cha need? I've got poisons, potions, tonics, elixirs, extracts, spirits ...\""
 
-variation: []
+oracle: gispax-the-mixologist-worldbreaker-173
+
+set: Worldbreaker

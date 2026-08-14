@@ -1,0 +1,24 @@
+name: Inventors Focal Sword
+
+origin: heroes-of-azeroth-330
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: 2 , → If target ability is attached to a hero or ally, attach it to another hero or ally.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

@@ -1,13 +1,13 @@
-oracle: eye-blast
-
-lex: '022'
-
-set: black-temple-raid
+index: '022'
 
 rarity: Uncommon
 
 artist: Daarken
 
+variation: []
+
 flavor: '"Witness your destruction!"'
 
-variation: []
+oracle: eye-blast-black-temple-raid-022
+
+set: Black Temple Raid

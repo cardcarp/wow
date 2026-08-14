@@ -1,0 +1,19 @@
+name: Inspire
+
+origin: molten-core-raid-023
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+instant: You may flip your hero. If your hero is Sulfuron Harbinger, you may ready him.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Molten Core

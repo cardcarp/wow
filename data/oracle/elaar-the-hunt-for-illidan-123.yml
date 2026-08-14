@@ -1,0 +1,27 @@
+name: Elaar
+
+origin: the-hunt-for-illidan-123
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 1
+
+health: 7
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 2 , → Gain control of target ally.
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

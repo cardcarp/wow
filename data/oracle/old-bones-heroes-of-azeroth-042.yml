@@ -1,0 +1,28 @@
+name: Old Bones
+
+origin: heroes-of-azeroth-042
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: This ally can protect your hero.
+
+regulation:
+
+errata: []
+
+temp: Bear

@@ -1,0 +1,27 @@
+name: Sampron the Banisher
+
+origin: servants-of-the-betrayer-155
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 1
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: → Remove target opposing ally from the game. When Sampron leaves play, the owner of each card removed this way puts that card into play.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

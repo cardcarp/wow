@@ -1,13 +1,13 @@
-oracle: arlen-the-untamed
-
-lex: '105'
-
-set: wrathgate
+index: '105'
 
 rarity: Uncommon
 
 artist: Tom Baxa
 
+variation: []
+
 flavor: '"The call of the wild guides my steps, and you would do well to follow."'
 
-variation: []
+oracle: arlen-the-untamed-wrathgate-105
+
+set: Wrathgate

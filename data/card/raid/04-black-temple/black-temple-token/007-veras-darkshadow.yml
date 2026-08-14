@@ -1,13 +1,13 @@
-oracle: veras-darkshadow
-
-lex: '007'
-
-set: black-temple-token
+index: '007'
 
 rarity: Common
 
 artist: Dany Orizio
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: veras-darkshadow-black-temple-token-007
+
+set: Black Temple Token

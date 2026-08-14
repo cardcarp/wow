@@ -1,0 +1,25 @@
+name: Darktwister Kern
+
+origin: icecrown-102
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 6
+
+health: 2
+
+combat: Shadow
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Human Priest

@@ -1,13 +1,13 @@
-oracle: extinguish
-
-lex: '054'
-
-set: worldbreaker
+index: '054'
 
 rarity: Uncommon
 
 artist: Chris Rahn
 
+variation: []
+
 flavor: (Arcane
 
-variation: []
+oracle: extinguish-worldbreaker-054
+
+set: Worldbreaker

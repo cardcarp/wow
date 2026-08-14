@@ -1,13 +1,13 @@
-oracle: nibbler
-
-lex: '017'
-
-set: hogger
+index: '017'
 
 rarity: Common
 
 artist: Brandon Kitkouski
 
+variation: []
+
 flavor: "\"Rmmmlg Rr'gg Glgmlg Mllmmmmggmgl.\""
 
-variation: []
+oracle: nibbler-throne-of-the-tides-189
+
+set: Hogger

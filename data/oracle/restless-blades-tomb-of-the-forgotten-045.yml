@@ -1,0 +1,22 @@
+name: Restless Blades
+
+origin: tomb-of-the-forgotten-045
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Combat Talent Ongoing : Weapons you control have +1 ATK. Your hero has Infinite Wield .'
+
+regulation:
+
+errata: []
+
+temp: Combat

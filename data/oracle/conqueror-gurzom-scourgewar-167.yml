@@ -1,0 +1,27 @@
+name: Conqueror Gurzom
+
+origin: scourgewar-167
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Prevent all damage that Rogues would deal to this ally.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

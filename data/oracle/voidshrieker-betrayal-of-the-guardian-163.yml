@@ -1,0 +1,27 @@
+name: Voidshrieker
+
+origin: betrayal-of-the-guardian-163
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 2
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Voidwalker Demon

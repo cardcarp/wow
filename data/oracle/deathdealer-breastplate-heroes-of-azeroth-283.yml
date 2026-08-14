@@ -1,0 +1,25 @@
+name: Deathdealer Breastplate
+
+origin: heroes-of-azeroth-283
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: Your weapons have +2 ATK.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

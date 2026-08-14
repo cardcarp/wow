@@ -1,13 +1,13 @@
-oracle: earthen-blast
-
-lex: '095'
-
-set: worldbreaker
+index: '095'
 
 rarity: Uncommon
 
 artist: Luca Zontini
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: earthen-blast-worldbreaker-095
+
+set: Worldbreaker

@@ -1,0 +1,23 @@
+name: Fandrals Flamescythe
+
+origin: tomb-of-the-forgotten-185
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Hunter
+
+rule:
+  - type: ability
+    text: When this weapon enters play, put a 2 / 2 Flame Cat Monster ally token into play.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Polearm

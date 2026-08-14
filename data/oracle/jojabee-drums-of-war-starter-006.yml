@@ -1,0 +1,27 @@
+name: Joja'bee
+
+origin: drums-of-war-starter-006
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 4
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Joja'bee enters play, you may ready one of your resources.
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

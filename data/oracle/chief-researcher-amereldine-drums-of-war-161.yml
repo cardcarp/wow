@@ -1,0 +1,27 @@
+name: Chief Researcher Amereldine
+
+origin: drums-of-war-161
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 7
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When you complete your first quest each turn, you may turn it face up if it's in play.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Researcher

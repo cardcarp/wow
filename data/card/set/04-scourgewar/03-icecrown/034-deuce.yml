@@ -1,13 +1,13 @@
-oracle: deuce
-
-lex: '034'
-
-set: icecrown
+index: '034'
 
 rarity: Rare
 
 artist: Arnie Swekel
 
+variation: []
+
 flavor: '"Sometimes nature decides that two heads are better than one." - Kassandra Flameheart'
 
-variation: []
+oracle: deuce-icecrown-034
+
+set: Icecrown

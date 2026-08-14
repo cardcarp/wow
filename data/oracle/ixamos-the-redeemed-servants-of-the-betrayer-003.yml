@@ -1,0 +1,22 @@
+name: Ixamos the Redeemed
+
+origin: servants-of-the-betrayer-003
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Ixamos, exhaust one of your Totems → Ready target ally.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

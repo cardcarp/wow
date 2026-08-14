@@ -1,13 +1,13 @@
-oracle: frost-strike
-
-lex: '022'
-
-set: icecrown
+index: '022'
 
 rarity: Rare
 
 artist: Jonboy Meyers
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: frost-strike-icecrown-022
+
+set: Icecrown

@@ -1,13 +1,13 @@
-oracle: ice-lance
-
-lex: '006'
-
-set: jaina
+index: '006'
 
 rarity: Common
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: "\"It's hard to nail a moving target. An immobile one, though ... Now that's a different story.\" - Velindra"
 
-variation: []
+oracle: ice-lance-drums-of-war-036
+
+set: Jaina

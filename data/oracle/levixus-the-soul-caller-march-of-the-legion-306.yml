@@ -1,0 +1,17 @@
+name: Levixus the Soul Caller
+
+origin: march-of-the-legion-306
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : Put a random card from your graveyard into your hand.'
+
+regulation:
+
+errata: []
+
+temp: ''

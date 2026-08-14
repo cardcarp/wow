@@ -1,0 +1,27 @@
+name: Orion
+
+origin: drums-of-war-187
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 2
+
+health: 7
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

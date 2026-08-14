@@ -1,0 +1,26 @@
+name: The Staff of Twin Worlds
+
+origin: drums-of-war-234
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: Other cards in play have their printed text a second time. (For example, if a card has the text, "Allies have +1 ATK," treat it as though it says that twice.)
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

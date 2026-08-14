@@ -1,0 +1,27 @@
+name: Cymbre Shadowdrifter
+
+origin: drums-of-war-119
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Shadowmeld
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

@@ -1,13 +1,13 @@
-oracle: shadowfang-keep
-
-lex: '060'
-
-set: dungeon-treasure
+index: '060'
 
 rarity: Rare
 
 artist: Richard Wright
 
+variation: []
+
 flavor: Once the domain of the archmage Arugal, the keep's new lord and master is the renegade forsaken Lord Vincent Godfrey.
 
-variation: []
+oracle: shadowfang-keep-dungeon-treasure-060
+
+set: Dungeon Treasure

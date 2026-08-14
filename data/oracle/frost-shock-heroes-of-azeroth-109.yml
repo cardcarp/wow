@@ -1,0 +1,22 @@
+name: Frost Shock
+
+origin: heroes-of-azeroth-109
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: Your hero deals 2 frost damage to target hero or ally. A character dealt damage this way can't attack or protect this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental

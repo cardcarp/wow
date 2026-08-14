@@ -1,0 +1,23 @@
+name: Swiftsteel Bracers
+
+origin: azeroth-crafting-013
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: You pay 5 less to strike with weapons.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

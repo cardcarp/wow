@@ -1,0 +1,25 @@
+name: Valytha Colton
+
+origin: war-of-the-elements-150
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Arcane
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Undead Hunter

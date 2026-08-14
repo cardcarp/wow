@@ -1,13 +1,13 @@
-oracle: odo-the-blindwatcher
-
-lex: '014'
-
-set: shadowfang-keep
+index: '014'
 
 rarity: Common
 
 artist: Daarken
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: odo-the-blindwatcher-shadowfang-keep-014
+
+set: Shadowfang Keep

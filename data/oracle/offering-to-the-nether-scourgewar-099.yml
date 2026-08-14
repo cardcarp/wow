@@ -1,0 +1,22 @@
+name: Offering to the Nether
+
+origin: scourgewar-099
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Ongoing : At the start of your turn, remove this ability from the game. If you do, you may remove target ability, ally, or equipment from the game.'
+
+regulation:
+
+errata: []
+
+temp: Destruction

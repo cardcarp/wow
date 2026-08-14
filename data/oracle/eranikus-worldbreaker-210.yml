@@ -1,0 +1,25 @@
+name: Eranikus
+
+origin: worldbreaker-210
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 6
+
+combat: Nature
+
+rule:
+  - type: ability
+    text: At the start of your turn, reveal the top card of your deck, then place it into your resource row ready as an additional resource.
+
+regulation:
+
+errata: []
+
+temp: Green Dragonkin Consort

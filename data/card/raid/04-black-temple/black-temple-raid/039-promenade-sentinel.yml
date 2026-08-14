@@ -1,13 +1,13 @@
-oracle: promenade-sentinel
-
-lex: '039'
-
-set: black-temple-raid
+index: '039'
 
 rarity: Common
 
 artist: Lucio Parrillo
 
+variation: []
+
 flavor: '"Unauthorized entry detected. Engaging annihilation protocol."'
 
-variation: []
+oracle: promenade-sentinel-black-temple-raid-039
+
+set: Black Temple Raid

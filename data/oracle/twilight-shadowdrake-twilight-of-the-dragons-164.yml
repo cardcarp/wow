@@ -1,0 +1,25 @@
+name: Twilight Shadowdrake
+
+origin: twilight-of-the-dragons-164
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 4
+
+health: 1
+
+combat: Shadow
+
+rule:
+  - type: ability
+    text: When this ally enters play, if an ability, ally, or equipment was destroyed this turn, this ally may deal 4 shadow damage to target hero.
+
+regulation:
+
+errata: []
+
+temp: Twilight Dragonkin

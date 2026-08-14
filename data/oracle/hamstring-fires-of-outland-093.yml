@@ -1,0 +1,22 @@
+name: Hamstring
+
+origin: fires-of-outland-093
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: "Attach to target ally in combat with your hero. Ongoing : Attached ally can't ready during its controller's ready step."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arms

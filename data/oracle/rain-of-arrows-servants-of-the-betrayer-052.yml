@@ -1,0 +1,22 @@
+name: Rain of Arrows
+
+origin: servants-of-the-betrayer-052
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Your hero deals ranged damage to target hero or ally equal to 2 plus the number of other abilities you've played this turn.
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

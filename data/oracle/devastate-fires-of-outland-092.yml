@@ -1,0 +1,22 @@
+name: Devastate
+
+origin: fires-of-outland-092
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: Protection Hero Required Your hero deals melee damage to target hero or ally equal to the ATK of one of your Melee weapons. This turn, that character must attack if able and can attack only your hero if able.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Talent

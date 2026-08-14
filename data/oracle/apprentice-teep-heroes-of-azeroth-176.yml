@@ -1,0 +1,27 @@
+name: Apprentice Teep
+
+origin: heroes-of-azeroth-176
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

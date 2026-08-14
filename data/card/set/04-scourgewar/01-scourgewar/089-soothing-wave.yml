@@ -1,13 +1,13 @@
-oracle: soothing-wave
-
-lex: '089'
-
-set: scourgewar
+index: '089'
 
 rarity: Common
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor: "\"Don't be afraid to push yourself to your limits. I will take care of the rest.\" - Zaritha"
 
-variation: []
+oracle: soothing-wave-scourgewar-089
+
+set: Scourgewar

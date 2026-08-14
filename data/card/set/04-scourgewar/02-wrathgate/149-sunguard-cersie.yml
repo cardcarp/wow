@@ -1,13 +1,13 @@
-oracle: sunguard-cersie
-
-lex: '149'
-
-set: wrathgate
+index: '149'
 
 rarity: Common
 
 artist: Martina Pilcerova
 
+variation: []
+
 flavor: '"I have faith that you will return the favor another day."'
 
-variation: []
+oracle: sunguard-cersie-wrathgate-149
+
+set: Wrathgate

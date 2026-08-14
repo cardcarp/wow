@@ -1,0 +1,22 @@
+name: Moonkin Form
+
+origin: through-the-dark-portal-023
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: 'Balance Hero Required Ongoing : Each of your armor has +1 DEF. If your hero would deal damage with a Balance ability, it deals that much damage +1 instead. When you play a non-Balance ability, destroy Moonkin Form.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Balance Talent

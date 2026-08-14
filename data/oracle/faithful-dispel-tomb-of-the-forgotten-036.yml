@@ -1,0 +1,22 @@
+name: Faithful Dispel
+
+origin: tomb-of-the-forgotten-036
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Destroy target ability. Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Holy

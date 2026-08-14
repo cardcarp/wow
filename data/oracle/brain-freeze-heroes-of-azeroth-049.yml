@@ -1,0 +1,22 @@
+name: Brain Freeze
+
+origin: heroes-of-azeroth-049
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: Players can't draw cards this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost

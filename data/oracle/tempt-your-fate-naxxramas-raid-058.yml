@@ -1,0 +1,21 @@
+name: Tempt Your Fate
+
+origin: naxxramas-raid-058
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+stage: 18
+
+rule:
+  - type: ability
+    text: Each player rolls a die. Each raider who rolls higher than the Boss player takes an extra turn after that raider's next turn. Each raider who rolls lower than the Boss player skips his next turn.
+
+regulation:
+
+errata: []
+
+temp: ''

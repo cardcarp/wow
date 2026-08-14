@@ -1,13 +1,13 @@
-oracle: chi-strikes
-
-lex: '016'
-
-set: monk-starter
+index: '016'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: chi-strikes-monk-starter-016
+
+set: Monk Starter

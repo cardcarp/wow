@@ -1,0 +1,22 @@
+name: Disorienting Blow
+
+origin: throne-of-the-tides-065
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Exhaust target hero or ally. It can't ready during its controller's next ready step. Delve
+
+regulation:
+
+errata: []
+
+temp: Combat

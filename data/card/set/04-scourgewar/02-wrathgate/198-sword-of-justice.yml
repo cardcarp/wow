@@ -1,13 +1,13 @@
-oracle: sword-of-justice
-
-lex: '198'
-
-set: wrathgate
+index: '198'
 
 rarity: Rare
 
 artist: Efrem Palacios
 
+variation: []
+
 flavor: '"Justice is served." - Aleyah Dawnborn'
 
-variation: []
+oracle: sword-of-justice-wrathgate-198
+
+set: Wrathgate

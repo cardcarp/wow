@@ -1,0 +1,24 @@
+name: The Darkspeakers Footpads
+
+origin: scourgewar-219
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: → Ready a resource you control.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

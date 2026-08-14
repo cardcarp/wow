@@ -1,0 +1,25 @@
+name: Chromie
+
+origin: heroes-of-azeroth-277
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: ', Remove Chromie from the game → Take an extra turn after this one.'
+
+regulation:
+
+errata: []
+
+temp: Dragonkin

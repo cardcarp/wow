@@ -1,0 +1,28 @@
+name: Buzz
+
+origin: scourgewar-042
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'When this ally enters play, you may destroy target equipment. Death Rattle : You may destroy target weapon.'
+
+regulation:
+
+errata: []
+
+temp: Wasp

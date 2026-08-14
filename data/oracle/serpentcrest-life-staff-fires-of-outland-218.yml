@@ -1,0 +1,24 @@
+name: Serpentcrest Life-Staff
+
+origin: fires-of-outland-218
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Priest
+  - Shaman
+
+rule:
+  - type: ability
+    text: 1 , Discard a card → Your hero heals 2 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

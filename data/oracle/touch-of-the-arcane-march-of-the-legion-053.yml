@@ -1,0 +1,22 @@
+name: Touch of the Arcane
+
+origin: march-of-the-legion-053
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: Your hero deals 1 arcane damage to target hero or ally. Draw a card for each damage dealt this way.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

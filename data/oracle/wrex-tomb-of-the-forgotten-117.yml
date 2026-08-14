@@ -1,0 +1,27 @@
+name: Wrex
+
+origin: tomb-of-the-forgotten-117
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 4
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Goblin Death Knight

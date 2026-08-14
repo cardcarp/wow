@@ -1,0 +1,19 @@
+name: Abyssal Reinforcements
+
+origin: magtheridons-lair-raid-003
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+rule:
+  - type: ability
+    text: 'Put an Abyssal ally token with 6 ATK / 6 health into play. Ongoing : Destroy two Bloods → Put an Abyssal ally token with 6 ATK / 6 health into play. Use only on your turn.'
+
+regulation:
+
+errata: []
+
+temp: ''

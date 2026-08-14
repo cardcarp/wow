@@ -1,13 +1,13 @@
-oracle: vengeance-wrap
-
-lex: '226'
-
-set: scourgewar
+index: '226'
 
 rarity: Uncommon
 
 artist: Christopher Moeller
 
+variation: []
+
 flavor: "\"Once you have been marked, you will never have a moment's rest.\" - Kassandra Flameheart"
 
-variation: []
+oracle: vengeance-wrap-scourgewar-226
+
+set: Scourgewar

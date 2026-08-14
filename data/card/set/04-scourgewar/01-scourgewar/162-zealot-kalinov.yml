@@ -1,13 +1,13 @@
-oracle: zealot-kalinov
-
-lex: '162'
-
-set: scourgewar
+index: '162'
 
 rarity: Rare
 
 artist: Lars Grant-West
 
+variation: []
+
 flavor: "\"My devotion will be an example to you all. Long after I'm gone, you will remember.\""
 
-variation: []
+oracle: zealot-kalinov-scourgewar-162
+
+set: Scourgewar

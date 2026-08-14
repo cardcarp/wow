@@ -1,0 +1,22 @@
+name: Dreamstate
+
+origin: march-of-the-legion-020
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: 'Balance Hero Required Ongoing : When you play a Balance ability, draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Balance Talent

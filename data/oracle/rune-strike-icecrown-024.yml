@@ -1,0 +1,22 @@
+name: Rune Strike
+
+origin: icecrown-024
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Death Knight
+
+instant: Your hero deals 3 melee damage to target ally, or put that ally on the bottom of its owner's deck if you control a Rune.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost

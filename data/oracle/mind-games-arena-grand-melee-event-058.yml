@@ -1,0 +1,17 @@
+name: Mind Games
+
+origin: arena-grand-melee-event-058
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: On the count of 3, each player says "ability," "ally," "equipment," "hero," or "resource." For each word said more than once, destroy all cards of that kind.
+
+regulation:
+
+errata: []
+
+temp: ''

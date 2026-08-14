@@ -1,0 +1,27 @@
+name: Outrider Zarg
+
+origin: through-the-dark-portal-227
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity At the end of your turn, if Outrider Zarg dealt no damage this turn, destroy him.
+
+regulation:
+
+errata: []
+
+temp: Orc Hunter

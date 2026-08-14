@@ -1,0 +1,22 @@
+name: Expel
+
+origin: war-of-the-elements-064
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Your hero deals 1 unpreventable holy damage to target ally for each ally you control.
+
+regulation:
+
+errata: []
+
+temp: Holy

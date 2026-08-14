@@ -1,13 +1,13 @@
-oracle: scarlet-monk
-
-lex: '017'
-
-set: scarlet-monastery
+index: '017'
 
 rarity: Common
 
 artist: Steve Tappin
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: scarlet-monk-scarlet-monastery-017
+
+set: Scarlet Monastery

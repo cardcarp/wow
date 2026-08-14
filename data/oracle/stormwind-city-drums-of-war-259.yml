@@ -1,0 +1,19 @@
+name: Stormwind City
+
+origin: drums-of-war-259
+
+layout: standard
+
+category: Location
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Human Hero Required If a Human ally is in your party: → You pay 2 less to play your next ally this turn.'
+
+regulation:
+
+errata: []
+
+temp: City

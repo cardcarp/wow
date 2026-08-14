@@ -1,0 +1,33 @@
+name: Darnassus Tabard
+
+origin: war-of-the-ancients-213
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+faction: Alliance
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 3 → Target ally has +2 ATK this turn. You pay 1 less to use this power for each Night Elf ally you control.
+
+regulation:
+
+errata: []
+
+temp: Item Tabard

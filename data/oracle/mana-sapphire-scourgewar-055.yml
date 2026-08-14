@@ -1,0 +1,22 @@
+name: Mana Sapphire
+
+origin: scourgewar-055
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Ongoing : x , Destroy this ability → If X is 5 or less, draw X cards.'
+
+regulation:
+
+errata: []
+
+temp: Arcane

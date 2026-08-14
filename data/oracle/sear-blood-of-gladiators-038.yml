@@ -1,0 +1,22 @@
+name: Sear
+
+origin: blood-of-gladiators-038
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Mage
+
+instant: Your hero deals 2 fire damage to target ally, or 6 if that ally was dealt damage this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fire

@@ -1,13 +1,13 @@
-oracle: kagtha
-
-lex: '021'
-
-set: dungeon-treasure
+index: '021'
 
 rarity: Uncommon
 
 artist: Mike Sass
 
+variation: []
+
 flavor: '"The Shattered Hand has laid mostly quiet for years now ... No more!"'
 
-variation: []
+oracle: kagtha-dungeon-treasure-021
+
+set: Dungeon Treasure

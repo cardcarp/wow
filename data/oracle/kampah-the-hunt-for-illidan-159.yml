@@ -1,0 +1,27 @@
+name: Kam'pah
+
+origin: the-hunt-for-illidan-159
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Opponents can't place quests face up.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

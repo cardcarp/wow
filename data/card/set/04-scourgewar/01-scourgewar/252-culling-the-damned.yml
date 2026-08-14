@@ -1,13 +1,13 @@
-oracle: culling-the-damned
-
-lex: '252'
-
-set: scourgewar
+index: '252'
 
 rarity: Common
 
 artist: Massive Black
 
+variation: []
+
 flavor: "\"Hearing their screams, watching the last life fade from their wretched bodies ... it's invigorating, is it not?\" - Serinar"
 
-variation: []
+oracle: culling-the-damned-scourgewar-252
+
+set: Scourgewar

@@ -1,13 +1,13 @@
-oracle: mighty-shadow-protection-potion
-
-lex: '230'
-
-set: scourgewar
+index: '230'
 
 rarity: Common
 
 artist: Craig Elliot
 
+variation: []
+
 flavor: "\"Don't drink too much! I don't need you growing horns or hooves on me.\" - Pagatha Soulbinder"
 
-variation: []
+oracle: mighty-shadow-protection-potion-scourgewar-230
+
+set: Scourgewar

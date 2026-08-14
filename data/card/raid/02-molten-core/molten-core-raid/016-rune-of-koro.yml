@@ -1,13 +1,13 @@
-oracle: rune-of-koro
-
-lex: '016'
-
-set: molten-core-raid
+index: '016'
 
 rarity: Uncommon
 
 artist: Peter Lee
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: rune-of-koro-molten-core-raid-016
+
+set: Molten Core Raid

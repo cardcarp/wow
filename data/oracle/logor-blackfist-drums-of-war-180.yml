@@ -1,0 +1,27 @@
+name: Logor Blackfist
+
+origin: drums-of-war-180
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 3
+
+health: 5
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Logor enters play, target opponent discards two cards if he has more cards in hand than you.
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

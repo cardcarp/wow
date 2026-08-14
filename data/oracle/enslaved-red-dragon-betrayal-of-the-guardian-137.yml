@@ -1,0 +1,27 @@
+name: Enslaved Red Dragon
+
+origin: betrayal-of-the-guardian-137
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Fire
+
+type: Monster
+
+rule:
+  - type: ability
+    text: While an opponent controls an hero, this ally has +2 ATK and Spellshield .
+
+regulation:
+
+errata: []
+
+temp: Red Dragonkin

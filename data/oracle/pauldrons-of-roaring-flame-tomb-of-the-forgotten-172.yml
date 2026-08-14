@@ -1,0 +1,24 @@
+name: Pauldrons of Roaring Flame
+
+origin: tomb-of-the-forgotten-172
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 2 → Your hero has Protector this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

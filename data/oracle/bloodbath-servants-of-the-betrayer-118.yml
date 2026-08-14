@@ -1,0 +1,22 @@
+name: Bloodbath
+
+origin: servants-of-the-betrayer-118
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Traitor Hero Required Ongoing : 1 , Destroy an ally in your party → Put a +1 ATK counter on each of your weapons.'
+
+regulation:
+
+errata: []
+
+temp: Traitor

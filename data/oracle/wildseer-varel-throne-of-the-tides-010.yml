@@ -1,0 +1,22 @@
+name: Wildseer Varel
+
+origin: throne-of-the-tides-010
+
+layout: transform
+
+category: Hero
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 4 → Search your deck for an attachment, reveal it, and put it into your hand.'
+
+regulation:
+
+errata: []
+
+temp: Worgen Druid

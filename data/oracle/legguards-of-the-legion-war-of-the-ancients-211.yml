@@ -1,0 +1,23 @@
+name: Legguards of the Legion
+
+origin: war-of-the-ancients-211
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: When this armor enters play, name "Demon", a race, or an race. You pay 1 less to play allies of the named race, to a minimum of 1 . Your hero has Assault 1 for each ally you control of the named race.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

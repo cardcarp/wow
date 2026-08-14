@@ -1,0 +1,22 @@
+name: Windfury Weapon
+
+origin: heroes-of-azeroth-119
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: 'Attach to one of your Melee weapons. Ongoing : When you strike with attached weapon for the first time each turn, you may pay 1 . If you do, ready that weapon and your hero.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement

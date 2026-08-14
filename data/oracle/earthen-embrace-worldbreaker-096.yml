@@ -1,0 +1,22 @@
+name: Earthen Embrace
+
+origin: worldbreaker-096
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: 'Attach to target ally, and your hero heals all damage from it. Ongoing : Attached ally has +2 ATK.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement Attachment

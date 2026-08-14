@@ -1,0 +1,25 @@
+name: Battle Mages Baton
+
+origin: blood-of-gladiators-172
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: x , Exhaust your hero → Destroy target ability, ally, or equipment with cost X.
+
+regulation:
+
+errata: []
+
+temp: 2H Arena Weapon Staff

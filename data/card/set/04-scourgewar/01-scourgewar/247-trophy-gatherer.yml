@@ -1,13 +1,13 @@
-oracle: trophy-gatherer
-
-lex: '247'
-
-set: scourgewar
+index: '247'
 
 rarity: Uncommon
 
 artist: Warren Mahy
 
+variation: []
+
 flavor: No prey is safe.
 
-variation: []
+oracle: trophy-gatherer-scourgewar-247
+
+set: Scourgewar

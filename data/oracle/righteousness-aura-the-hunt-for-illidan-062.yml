@@ -1,0 +1,22 @@
+name: Righteousness Aura
+
+origin: the-hunt-for-illidan-062
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Ongoing : If a hero or ally in your party would deal damage, it deals that much +1 instead.'
+
+regulation:
+
+errata: []
+
+temp: Retribution

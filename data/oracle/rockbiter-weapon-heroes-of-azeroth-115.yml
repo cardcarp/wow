@@ -1,0 +1,22 @@
+name: Rockbiter Weapon
+
+origin: heroes-of-azeroth-115
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: 'Attach to one of your Melee weapons. Ongoing : Attached weapon has +2 ATK. Your hero has protector.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement

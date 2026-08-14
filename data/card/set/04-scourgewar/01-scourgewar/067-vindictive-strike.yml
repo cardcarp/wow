@@ -1,13 +1,13 @@
-oracle: vindictive-strike
-
-lex: '067'
-
-set: scourgewar
+index: '067'
 
 rarity: Common
 
 artist: Dany Orizio
 
+variation: []
+
 flavor: '"The Scourge will gain no sympathy from the Light." - Graccus'
 
-variation: []
+oracle: vindictive-strike-scourgewar-067
+
+set: Scourgewar

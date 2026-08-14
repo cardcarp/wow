@@ -1,0 +1,27 @@
+name: Moko Hunts-at-Dawn
+
+origin: heroes-of-azeroth-252
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 4
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity
+
+regulation:
+
+errata: []
+
+temp: Tauren Hunter

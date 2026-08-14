@@ -1,0 +1,27 @@
+name: Stevrona Forgemender
+
+origin: war-of-the-elements-126
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 5
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Token allies you control have +1 / +1. Stash : Ready target token ally.'
+
+regulation:
+
+errata: []
+
+temp: Dwarf Shaman

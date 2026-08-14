@@ -1,0 +1,22 @@
+name: The Taste of Arcana
+
+origin: blood-of-gladiators-039
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Mage
+
+instant: Your hero deals 1 arcane damage to target hero or ally. If you targeted a hero, you may interrupt a card played by its controller unless he pays 1 for each damage dealt this way.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

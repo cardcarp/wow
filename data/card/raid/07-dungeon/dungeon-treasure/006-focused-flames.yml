@@ -1,13 +1,13 @@
-oracle: focused-flames
-
-lex: '006'
-
-set: dungeon-treasure
+index: '006'
 
 rarity: Common
 
 artist: Zoltan Boros
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: focused-flames-dungeon-treasure-006
+
+set: Dungeon Treasure

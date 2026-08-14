@@ -1,0 +1,25 @@
+name: Power
+
+origin: showdown-goblins-of-anarchy-003
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: 'Time is Money On your turn: → Your hero and allies you control have Assault 1 this turn for each Biker you control.'
+
+regulation:
+
+errata: []
+
+temp: Goblin Warrior Biker

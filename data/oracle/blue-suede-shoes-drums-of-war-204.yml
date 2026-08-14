@@ -1,0 +1,24 @@
+name: Blue Suede Shoes
+
+origin: drums-of-war-204
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+instant: When Blue Suede Shoes enters play, target card in play you control is Untargetable this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

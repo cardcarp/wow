@@ -1,0 +1,21 @@
+name: Shadowmeld
+
+origin: through-the-dark-portal-131
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Night Elf Hero Required Ongoing : Your hero is Elusive and Untargetable . At the start of your turn, destroy Shadowmeld.'
+
+regulation:
+
+errata: []
+
+temp: ''

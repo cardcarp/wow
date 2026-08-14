@@ -1,13 +1,13 @@
-oracle: mana-shift
-
-lex: '060'
-
-set: worldbreaker
+index: '060'
 
 rarity: Rare
 
 artist: Raymond Swanland
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: mana-shift-worldbreaker-060
+
+set: Worldbreaker

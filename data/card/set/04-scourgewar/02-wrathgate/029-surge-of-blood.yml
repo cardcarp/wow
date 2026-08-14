@@ -1,13 +1,13 @@
-oracle: surge-of-blood
-
-lex: '029'
-
-set: wrathgate
+index: '029'
 
 rarity: Common
 
 artist: Dave Allsop
 
+variation: []
+
 flavor: '"The essence of your soul is quite empowering." - Krog the Deathfist'
 
-variation: []
+oracle: surge-of-blood-wrathgate-029
+
+set: Wrathgate

@@ -1,0 +1,25 @@
+name: Neophyte Morandi
+
+origin: march-of-the-legion-219
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 3
+
+combat: Holy
+
+rule:
+  - type: ability
+    text: Aldor Reputation If an ally in your party other than Morandi would be dealt damage, it's dealt to Morandi instead.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

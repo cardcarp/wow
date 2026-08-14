@@ -1,0 +1,27 @@
+name: Neferset Flamecaller
+
+origin: tomb-of-the-forgotten-126
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Fire
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Sentinel
+
+regulation:
+
+errata: []
+
+temp: Tol'vir Mage Shaman

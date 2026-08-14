@@ -1,0 +1,27 @@
+name: Drudge Ghoul
+
+origin: assault-on-icecrown-citadel-raid-022
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 4
+
+health: 2
+
+combat: Melee
+
+type: Raid
+
+rule:
+  - type: ability
+    text: 'Servant of Undeath : You may play this ally from your graveyard.'
+
+regulation:
+
+errata: []
+
+temp: Ghoul

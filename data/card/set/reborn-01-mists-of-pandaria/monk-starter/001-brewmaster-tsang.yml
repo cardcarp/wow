@@ -1,13 +1,14 @@
-oracle: brewmaster-tsang
-
-lex: '001'
-
-set: monk-starter
+index: '001'
 
 rarity: Common
 
 artist: ''
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: brewmaster-tsang-monk-starter-001
+
+set: Monk Starter

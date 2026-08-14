@@ -1,13 +1,14 @@
-oracle: thane-ufrang-the-mighty
-
-lex: '010'
-
-set: icecrown
+index: '010'
 
 rarity:
 
 artist:
 
+variation:
+  - transform
+
 flavor:
 
-variation: []
+oracle: thane-ufrang-the-mighty-icecrown-010
+
+set: Icecrown

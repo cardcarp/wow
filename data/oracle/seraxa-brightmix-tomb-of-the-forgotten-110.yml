@@ -1,0 +1,27 @@
+name: Seraxa Brightmix
+
+origin: tomb-of-the-forgotten-110
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Elusive Each ally you control with an ability attached to it has +2 / +2.
+
+regulation:
+
+errata: []
+
+temp: Goblin Priest

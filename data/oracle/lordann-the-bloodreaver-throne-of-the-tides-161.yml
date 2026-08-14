@@ -1,0 +1,27 @@
+name: Lordann the Bloodreaver
+
+origin: throne-of-the-tides-161
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector This ally has +3 / +3 while your hero has 15 or more damage.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Warrior

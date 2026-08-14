@@ -1,0 +1,27 @@
+name: Roena Trailmaker
+
+origin: servants-of-the-betrayer-173
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 2
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Roena has +1 health for each quest you have.
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

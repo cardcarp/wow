@@ -1,0 +1,22 @@
+name: Fire Elemental Totem
+
+origin: fires-of-outland-077
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: 'Ongoing : When Fire Elemental Totem enters play, put a Fire Elemental ally token with 2 ATK / 1 health, and Ferocity into play. (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental 1

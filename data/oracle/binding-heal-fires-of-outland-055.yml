@@ -1,0 +1,22 @@
+name: Binding Heal
+
+origin: fires-of-outland-055
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: Your hero heals 5 damage from itself and 5 damage from a second target hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

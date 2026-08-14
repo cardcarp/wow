@@ -1,0 +1,27 @@
+name: Exxi the Windshaper
+
+origin: worldbreaker-171
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: While you control another Goblin, this ally has Time is Money and " → Ready another target ally."
+
+regulation:
+
+errata: []
+
+temp: Goblin Shaman

@@ -1,0 +1,23 @@
+name: No Mans Land
+
+origin: fields-of-honor-087
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Attach to target ally in your party. Ongoing : When attached ally is destroyed, draw two cards.'
+
+regulation:
+
+errata: []
+
+temp: Restoration Demonology

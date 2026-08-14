@@ -1,0 +1,25 @@
+name: Emerald Soldier
+
+origin: worldbreaker-207
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Nature
+
+rule:
+  - type: ability
+    text: When a resource you control is turned face down, this ally heals 2 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Green Dragonkin

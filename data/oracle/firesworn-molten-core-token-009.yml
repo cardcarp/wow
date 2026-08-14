@@ -1,0 +1,25 @@
+name: Firesworn
+
+origin: molten-core-token-009
+
+layout: standard
+
+category: Token
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+type: Ally
+
+rule:
+  - type: ability
+    text: When Firesworn is dealt fatal damage, it deals 1 fire damage to the source of that damage.
+
+regulation:
+
+errata: []
+
+temp: Elemental

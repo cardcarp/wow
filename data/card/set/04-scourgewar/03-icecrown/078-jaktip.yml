@@ -1,13 +1,13 @@
-oracle: jaktip
-
-lex: '078'
-
-set: icecrown
+index: '078'
 
 rarity: Common
 
 artist: Christian Lichtner
 
+variation: []
+
 flavor: "\"What's in it for me?\""
 
-variation: []
+oracle: jaktip-icecrown-078
+
+set: Icecrown

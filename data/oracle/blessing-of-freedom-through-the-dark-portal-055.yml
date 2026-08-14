@@ -1,0 +1,22 @@
+name: Blessing of Freedom
+
+origin: through-the-dark-portal-055
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: 'Attach to target hero or ally in your party. Ongoing : Attached character is untargetable. At end of turn, destroy Blessing of Freedom.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection Blessing

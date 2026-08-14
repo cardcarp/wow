@@ -1,0 +1,22 @@
+name: Reckless Fireball
+
+origin: war-of-the-ancients-028
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Your hero deals 4 fire damage to target opposing hero or ally. That character's controller may discard a card from his hand. If he does, his hero deals 4 fire damage to target hero or ally of his choice.
+
+regulation:
+
+errata: []
+
+temp: Fire

@@ -1,0 +1,22 @@
+name: Split Open
+
+origin: fields-of-honor-081
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: 'Attach to target hero or ally. Ongoing : Attached character has -2 health.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury

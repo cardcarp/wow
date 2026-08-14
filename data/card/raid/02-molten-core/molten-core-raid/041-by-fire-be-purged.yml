@@ -1,13 +1,13 @@
-oracle: by-fire-be-purged
-
-lex: '041'
-
-set: molten-core-raid
+index: '041'
 
 rarity: Uncommon
 
 artist: Jimmy Lo
 
+variation: []
+
 flavor: Nowhere in the Firelord's lair is safe from the flames.
 
-variation: []
+oracle: by-fire-be-purged-molten-core-raid-041
+
+set: Molten Core Raid

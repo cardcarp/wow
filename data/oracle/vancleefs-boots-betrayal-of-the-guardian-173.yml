@@ -1,0 +1,23 @@
+name: VanCleefs Boots
+
+origin: betrayal-of-the-guardian-173
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: When this armor enters play, choose "Demon," a race, or an race. → Reveal the top three cards of your deck. Put a revealed ally of the chosen race into your hand and the rest on the bottom of your deck.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

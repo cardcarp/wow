@@ -1,0 +1,27 @@
+name: Kulvo Jadefist
+
+origin: fires-of-outland-127
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When Kulvo Jadefist attacks, he has -2 ATK and -2 health this turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior

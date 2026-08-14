@@ -1,0 +1,27 @@
+name: Xeris
+
+origin: war-of-the-elements-129
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Protector Stash : Target ally has -1 ATK this turn.'
+
+regulation:
+
+errata: []
+
+temp: Draenei Death Knight

@@ -1,0 +1,25 @@
+name: Bloodmage Kael'thas
+
+origin: reign-of-fire-162
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 6
+
+health: 8
+
+combat: Fire
+
+rule:
+  - type: ability
+    text: 1 → You can play cards from your resource row this turn. (Pay costs as normal.)
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

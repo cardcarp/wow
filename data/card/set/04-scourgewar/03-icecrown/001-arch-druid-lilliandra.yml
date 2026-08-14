@@ -1,14 +1,14 @@
-oracle: arch-druid-lilliandra
-
-lex: '001'
-
-set: icecrown
+index: '001'
 
 rarity: Uncommon
 
 artist: Jesper Ejsing
 
-flavor: '"May Cenarius bless all those who defend Azeroth from the corruption of the Lich King."'
-
 variation:
   - transform
+
+flavor: '"May Cenarius bless all those who defend Azeroth from the corruption of the Lich King."'
+
+oracle: arch-druid-lilliandra-icecrown-001
+
+set: Icecrown

@@ -1,13 +1,13 @@
-oracle: darkmoon-card-madness
-
-lex: '004'
-
-set: darkmoon-faire
+index: '004'
 
 rarity: Rare
 
 artist: Matt Cavotta
 
+variation: []
+
 flavor: '"This is madness!"'
 
-variation: []
+oracle: darkmoon-card-madness-darkmoon-faire-004
+
+set: Darkmoon Faire

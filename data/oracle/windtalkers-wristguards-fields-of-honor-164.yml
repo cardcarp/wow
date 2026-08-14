@@ -1,0 +1,23 @@
+name: Windtalkers Wristguards
+
+origin: fields-of-honor-164
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: → Reveal the top two cards of your deck, then put them on the bottom. If they have different card types, your hero deals 2 nature damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

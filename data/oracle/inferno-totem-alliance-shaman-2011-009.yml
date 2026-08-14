@@ -1,0 +1,30 @@
+name: Inferno Totem
+
+origin: alliance-shaman-2011-009
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+damage: 0
+
+health: 3
+
+combat: Fire
+
+class:
+  - Shaman
+
+type: Ally
+
+rule:
+  - type: ability
+    text: At the start of your turn, this Totem deals 4 fire damage to target opposing hero.
+
+regulation:
+
+errata: []
+
+temp: Elemental

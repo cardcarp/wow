@@ -1,0 +1,27 @@
+name: Lady Bancroft
+
+origin: wrathgate-122
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Prevent all damage that opposing heroes would deal to this ally.
+
+regulation:
+
+errata: []
+
+temp: Human Priest

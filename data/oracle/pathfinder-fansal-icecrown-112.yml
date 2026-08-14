@@ -1,0 +1,27 @@
+name: Pathfinder Fansal
+
+origin: icecrown-112
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 6
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: "Long-Range At the start of your turn, you may look at the top card of target player's deck. You may put it into its owner's graveyard. Death Rattle : Each player reveals the top card of his deck. You may put any number of those cards into their owners' graveyards."
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

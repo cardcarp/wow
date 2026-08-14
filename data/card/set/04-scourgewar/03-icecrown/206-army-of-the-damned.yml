@@ -1,13 +1,13 @@
-oracle: army-of-the-damned
-
-lex: '206'
-
-set: icecrown
+index: '206'
 
 rarity: Common
 
 artist: Michael Kormarck
 
+variation: []
+
 flavor: "\"You probably think you're quite strong - fighting these undead and crushing their bones beneath your war machines.\" - Matthias Lehner"
 
-variation: []
+oracle: army-of-the-damned-icecrown-206
+
+set: Icecrown

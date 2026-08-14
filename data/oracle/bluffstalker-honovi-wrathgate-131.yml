@@ -1,0 +1,27 @@
+name: Bluffstalker Honovi
+
+origin: wrathgate-131
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Assault 2 Allies have -2 ATK while defending against this ally.
+
+regulation:
+
+errata: []
+
+temp: Tauren Hunter

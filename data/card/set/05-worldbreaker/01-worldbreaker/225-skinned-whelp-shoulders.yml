@@ -1,13 +1,13 @@
-oracle: skinned-whelp-shoulders
-
-lex: '225'
-
-set: worldbreaker
+index: '225'
 
 rarity: Uncommon
 
 artist: Jack Wang (Concept Art House)
 
+variation: []
+
 flavor: '"Even the Scourge know the strength that lies within even the smallest scale of a dragonkin." - Arturius Hathrow'
 
-variation: []
+oracle: skinned-whelp-shoulders-worldbreaker-225
+
+set: Worldbreaker

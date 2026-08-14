@@ -1,13 +1,13 @@
-oracle: pestilence
-
-lex: '028'
-
-set: wrathgate
+index: '028'
 
 rarity: Rare
 
 artist: Lucio Parrillo
 
+variation: []
+
 flavor: '"With each breath, I can sense that you are one step closer to death." - Saeryn Dusksorrow'
 
-variation: []
+oracle: pestilence-wrathgate-028
+
+set: Wrathgate

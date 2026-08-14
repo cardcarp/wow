@@ -1,0 +1,27 @@
+name: Unen Rataan
+
+origin: fires-of-outland-149
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 2 , Destroy Unen Rataan → Ready your hero and all of your weapons.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

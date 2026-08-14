@@ -1,0 +1,22 @@
+name: Blessing of Might
+
+origin: heroes-of-azeroth-062
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: 'Attach to target hero or ally. Ongoing : Attached character has +1 ATK while attacking.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution Blessing

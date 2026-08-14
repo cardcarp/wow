@@ -1,0 +1,22 @@
+name: Explosive Shot
+
+origin: wrathgate-038
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Hunter
+
+instant: Survival Talent Destroy target opposing ally. If you do, your hero deals fire damage equal to that ally's cost to a second target hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

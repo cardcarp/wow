@@ -1,0 +1,27 @@
+name: Elwynn Burglar
+
+origin: reign-of-fire-076
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: "Unity : When this ally deals combat damage to a hero, if you control three or more Human allies, that hero's controller chooses and discards a card."
+
+regulation:
+
+errata: []
+
+temp: Human Rogue

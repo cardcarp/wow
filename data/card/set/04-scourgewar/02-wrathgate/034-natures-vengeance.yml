@@ -1,13 +1,13 @@
-oracle: natures-vengeance
-
-lex: '034'
-
-set: wrathgate
+index: '034'
 
 rarity: Rare
 
 artist: Howard Lyon
 
+variation: []
+
 flavor: '"In the face of death, nature itself will take up arms against the Scourge." - Gwon Strongbark'
 
-variation: []
+oracle: natures-vengeance-wrathgate-034
+
+set: Wrathgate

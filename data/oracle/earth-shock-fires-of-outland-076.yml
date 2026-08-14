@@ -1,0 +1,22 @@
+name: Earth Shock
+
+origin: fires-of-outland-076
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Shaman
+
+instant: Your hero deals 4 nature damage to target hero or ally. If you targeted a hero, you may interrupt an ability played by its controller.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental

@@ -1,0 +1,25 @@
+name: Durotar Frostblade
+
+origin: war-of-the-ancients-129
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 7
+
+health: 4
+
+combat: Frost
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Orc Death Knight

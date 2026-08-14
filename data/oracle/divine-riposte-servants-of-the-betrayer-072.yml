@@ -1,0 +1,22 @@
+name: Divine Riposte
+
+origin: servants-of-the-betrayer-072
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Ongoing : When damage that would be dealt to a hero or ally in your party is prevented, your hero deals that much unpreventable holy damage to its source.'
+
+regulation:
+
+errata: []
+
+temp: Protection

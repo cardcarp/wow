@@ -1,13 +1,13 @@
-oracle: winterstorm-totem
-
-lex: '030'
-
-set: totem
+index: '030'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: winterstorm-totem-drums-of-war-074
+
+set: Totem

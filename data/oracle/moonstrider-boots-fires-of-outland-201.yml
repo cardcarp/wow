@@ -1,0 +1,23 @@
+name: Moonstrider Boots
+
+origin: fires-of-outland-201
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: 1 , → Your hero has Stealth this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

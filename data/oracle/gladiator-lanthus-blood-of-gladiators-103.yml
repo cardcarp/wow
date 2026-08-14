@@ -1,0 +1,29 @@
+name: Gladiator Lanthus
+
+origin: blood-of-gladiators-103
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 1
+
+combat: Arcane
+
+faction: Alliance
+
+type: Arena
+
+rule:
+  - type: ability
+    text: Arena allies in your party have " → Exhaust target ally."
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

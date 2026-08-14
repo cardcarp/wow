@@ -1,0 +1,25 @@
+name: Dragonflight Great-Ring
+
+origin: scourgewar-228
+
+layout: standard
+
+category: Equipment
+
+cost: '13'
+
+class:
+  - Druid
+  - Warrior
+  - Death Knight
+  - Paladin
+
+rule:
+  - type: ability
+    text: At the start of your turn, destroy target hero.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

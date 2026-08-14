@@ -1,0 +1,27 @@
+name: Quigley Slipshade
+
+origin: servants-of-the-betrayer-150
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 1 → Quigley is Elusive this turn. 1 → Quigley is Untargetable this turn.
+
+regulation:
+
+errata: []
+
+temp: Gnome Rogue

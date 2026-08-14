@@ -1,0 +1,17 @@
+name: Under the Shadow
+
+origin: scourgewar-264
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 1 and name a damage type to complete this quest. Reward : Reveal the top three cards of your deck. Put a revealed card with ATK of that type into your hand and the rest on the bottom of your deck.'
+
+regulation:
+
+errata: []
+
+temp: ''

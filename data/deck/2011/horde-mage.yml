@@ -11,7 +11,7 @@ facet:
 
 collection: '2011'
 
-highlight: starter-2011-horde-mage-001
+highlight: horde-mage-2011-001
 
 description: 2011 Horde Mage Preconstructed
 
@@ -23,35 +23,35 @@ total: 61
 
 list:
   hero:
-    starter-2011-horde-mage-001: 1  # Zumix of Kezan
+    horde-mage-2011-001: 1  # Zumix of Kezan
   main:
-    starter-2011-horde-mage-002: 2  # Blistering Fire
-    starter-2011-horde-mage-003: 2 # Cold Front
-    starter-2011-horde-mage-004: 2 # Favor of the Arcane
-    starter-2011-horde-mage-005: 3 # Fire Blast
-    starter-2011-horde-mage-006: 1 # Fire Power
-    starter-2011-horde-mage-007: 1 # Fireball
-    starter-2011-horde-mage-008: 1 # Frost Nova
-    starter-2011-horde-mage-009: 2 # Frostbolt
-    starter-2011-horde-mage-010: 2 # Mana Agate
-    starter-2011-horde-mage-011: 2 # Polymorph
-    starter-2011-horde-mage-012: 1 # Ring of Frost
-    starter-2011-horde-mage-013: 2 # Firewarden Wyland Kaslinth
-    starter-2011-horde-mage-014: 2 # Gurzuk
-    starter-2011-horde-mage-015: 2 # Haranto Darkstrider
-    starter-2011-horde-mage-016: 1 # Indauma Bloodfire
-    starter-2011-horde-mage-017: 2 # Kyroth Steelspite
-    starter-2011-horde-mage-018: 2 # Nala Stalks-the-Night
-    starter-2011-horde-mage-019: 3 # Nikka Blastbor
-    starter-2011-horde-mage-020: 2 # Onnekra Bloodfang
-    starter-2011-horde-mage-021: 2 # Tez Tez the Patchmonger
-    starter-2011-horde-mage-022: 2 # Tyrennius Scatheblade
-    starter-2011-horde-mage-023: 1 # Vala Carville
-    starter-2011-horde-mage-024: 2 # Yazli Earthspark
-    starter-2011-horde-mage-025: 1 # Spire of Sunset
-    starter-2011-horde-mage-026: 2 # A Bird in Hand
-    starter-2011-horde-mage-027: 1 # Blueleaf Tubers
-    starter-2011-horde-mage-028: 3 # Entrenched
-    starter-2011-horde-mage-029: 4 # The Essence of Enmity
-    starter-2011-horde-mage-030: 4 # The Key to Freedom
-    starter-2011-horde-mage-031: 3 # Mystery Goo
+    horde-mage-2011-002: 2  # Blistering Fire
+    horde-mage-2011-003: 2 # Cold Front
+    horde-mage-2011-004: 2 # Favor of the Arcane
+    horde-mage-2011-005: 3 # Fire Blast
+    horde-mage-2011-006: 1 # Fire Power
+    horde-mage-2011-007: 1 # Fireball
+    horde-mage-2011-008: 1 # Frost Nova
+    horde-mage-2011-009: 2 # Frostbolt
+    horde-mage-2011-010: 2 # Mana Agate
+    horde-mage-2011-011: 2 # Polymorph
+    horde-mage-2011-012: 1 # Ring of Frost
+    horde-mage-2011-013: 2 # Firewarden Wyland Kaslinth
+    horde-mage-2011-014: 2 # Gurzuk
+    horde-mage-2011-015: 2 # Haranto Darkstrider
+    horde-mage-2011-016: 1 # Indauma Bloodfire
+    horde-mage-2011-017: 2 # Kyroth Steelspite
+    horde-mage-2011-018: 2 # Nala Stalks-the-Night
+    horde-mage-2011-019: 3 # Nikka Blastbor
+    horde-mage-2011-020: 2 # Onnekra Bloodfang
+    horde-mage-2011-021: 2 # Tez Tez the Patchmonger
+    horde-mage-2011-022: 2 # Tyrennius Scatheblade
+    horde-mage-2011-023: 1 # Vala Carville
+    horde-mage-2011-024: 2 # Yazli Earthspark
+    horde-mage-2011-025: 1 # Spire of Sunset
+    horde-mage-2011-026: 2 # A Bird in Hand
+    horde-mage-2011-027: 1 # Blueleaf Tubers
+    horde-mage-2011-028: 3 # Entrenched
+    horde-mage-2011-029: 4 # The Essence of Enmity
+    horde-mage-2011-030: 4 # The Key to Freedom
+    horde-mage-2011-031: 3 # Mystery Goo

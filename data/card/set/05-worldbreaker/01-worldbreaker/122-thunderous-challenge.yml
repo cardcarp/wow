@@ -1,13 +1,13 @@
-oracle: thunderous-challenge
-
-lex: '122'
-
-set: worldbreaker
+index: '122'
 
 rarity: Uncommon
 
 artist: Steve Prescott
 
+variation: []
+
 flavor: '"His roar could make even the mightiest of dragons jealous." - Bragvi Stormstein'
 
-variation: []
+oracle: thunderous-challenge-worldbreaker-122
+
+set: Worldbreaker

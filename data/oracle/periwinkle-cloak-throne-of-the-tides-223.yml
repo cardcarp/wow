@@ -1,0 +1,24 @@
+name: Periwinkle Cloak
+
+origin: throne-of-the-tides-223
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: 'On your turn: 2 , → Choose one: Each player discards a card; or each player draws a card.'
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

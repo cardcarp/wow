@@ -1,0 +1,28 @@
+name: Deuce
+
+origin: icecrown-034
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 4
+
+health: 3
+
+combat: Nature
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Beast Mastery Talent While this ally is in your graveyard, you can control an additional Pet.
+
+regulation:
+
+errata: []
+
+temp: Chimaera

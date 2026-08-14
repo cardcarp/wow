@@ -1,13 +1,13 @@
-oracle: provoke
-
-lex: '108'
-
-set: scourgewar
+index: '108'
 
 rarity: Common
 
 artist: Daarken
 
+variation: []
+
 flavor: "\"I've seen kobolds that hit harder than you!\" - Ivan, Bladewind Brute"
 
-variation: []
+oracle: provoke-scourgewar-108
+
+set: Scourgewar

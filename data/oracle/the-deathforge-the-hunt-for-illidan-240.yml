@@ -1,0 +1,17 @@
+name: The Deathforge
+
+origin: the-hunt-for-illidan-240
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Remove three equipment cards in your graveyard from the game to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,22 @@
+name: Wrath of Turalyon
+
+origin: servants-of-the-betrayer-076
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Paladin
+
+instant: Destroy all allies that attacked this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Retribution

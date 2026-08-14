@@ -1,14 +1,14 @@
-oracle: majordomo-executus
-
-lex: '009'
-
-set: molten-core-raid
+index: '009'
 
 rarity: Rare
 
 artist: Malcolm Davis (front), Alex Horley (back)
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: majordomo-executus-molten-core-raid-009
+
+set: Molten Core Raid

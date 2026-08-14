@@ -1,0 +1,31 @@
+name: Bottled Spite
+
+origin: throne-of-the-tides-237
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'When this item enters play, your hero deals 1 nature damage to each opposing hero and ally. On your turn: Exhaust a Monster hero or ally you control and destroy this item → Your hero deals 1 nature damage to each opposing hero and ally.'
+
+regulation:
+
+errata: []
+
+temp: Item Potion

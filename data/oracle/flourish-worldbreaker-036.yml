@@ -1,0 +1,22 @@
+name: Flourish
+
+origin: worldbreaker-036
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: 'Reveal the top card of your deck. You may place it into your resource row exhausted as an additional resource. Stash : Your hero heals 2 damage from itself.'
+
+regulation:
+
+errata: []
+
+temp: Balance

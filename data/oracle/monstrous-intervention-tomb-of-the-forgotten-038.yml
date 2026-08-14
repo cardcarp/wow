@@ -1,0 +1,22 @@
+name: Monstrous Intervention
+
+origin: tomb-of-the-forgotten-038
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Priest
+
+instant: Monster heroes and allies you control have Invincible this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Discipline

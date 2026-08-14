@@ -1,13 +1,13 @@
-oracle: hanthal-lightward
-
-lex: '140'
-
-set: wrathgate
+index: '140'
 
 rarity: Common
 
 artist: Phroilan Gardner
 
+variation: []
+
 flavor: '"In your hurried attempts to kill me, has it never occurred to you that I am merely the bait?"'
 
-variation: []
+oracle: hanthal-lightward-wrathgate-140
+
+set: Wrathgate

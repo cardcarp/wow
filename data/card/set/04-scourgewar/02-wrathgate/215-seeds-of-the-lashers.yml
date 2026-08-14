@@ -1,13 +1,13 @@
-oracle: seeds-of-the-lashers
-
-lex: '215'
-
-set: wrathgate
+index: '215'
 
 rarity: Common
 
 artist: Gonzalo Ordonez
 
+variation: []
+
 flavor: '"We need more weapons in the fight against the scourge." - Lord Itharius'
 
-variation: []
+oracle: seeds-of-the-lashers-wrathgate-215
+
+set: Wrathgate

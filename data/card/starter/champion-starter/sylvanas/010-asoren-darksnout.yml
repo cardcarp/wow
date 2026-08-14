@@ -1,13 +1,13 @@
-oracle: asoren-darksnout
-
-lex: '010'
-
-set: sylvanas
+index: '010'
 
 rarity: Common
 
 artist: LD Austin
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: asoren-darksnout-throne-of-the-tides-142
+
+set: Sylvanas

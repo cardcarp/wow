@@ -1,0 +1,25 @@
+name: Feugen
+
+origin: naxxramas-token-005
+
+layout: standard
+
+category: Token
+
+damage: 0
+
+health: 10
+
+combat: Melee
+
+type: Ally
+
+rule:
+  - type: ability
+    text: Conspicuous , Assault 5 When this ally enters play, he deals 2 shadow damage to each raiding hero and ally. At the start of the Boss player's turn, if Stalagg is not in play, he puts him into play.
+
+regulation:
+
+errata: []
+
+temp: Wight

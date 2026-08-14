@@ -1,13 +1,14 @@
-oracle: frostwyrm-lair
-
-lex: '022'
-
-set: naxxramas-raid
+index: '022'
 
 rarity: Rare
 
 artist: Tyler Walpole
 
+variation:
+  - transform
+
 flavor:
 
-variation: []
+oracle: frostwyrm-lair-naxxramas-raid-022
+
+set: Naxxramas Raid

@@ -1,0 +1,19 @@
+name: Toxic Coagulant
+
+origin: shadowfang-keep-034
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Each Raider discards two random cards. Then, each Raider may choose a card in his graveyard and put it into his hand.
+
+regulation:
+
+errata: []
+
+temp: ''

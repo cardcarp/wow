@@ -1,0 +1,27 @@
+name: Fenton Guardmont
+
+origin: worldbreaker-136
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector Aberration
+
+regulation:
+
+errata: []
+
+temp: Worgen Warrior

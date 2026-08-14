@@ -1,0 +1,27 @@
+name: Eredar Strategist
+
+origin: reign-of-fire-132
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: ability
+    text: 'Once per turn: Destroy another ally you control → Demon allies you control have +2 ATK this turn.'
+
+regulation:
+
+errata: []
+
+temp: Eredar Demon Warlock

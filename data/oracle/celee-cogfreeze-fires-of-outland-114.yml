@@ -1,0 +1,27 @@
+name: Celee Cogfreeze
+
+origin: fires-of-outland-114
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When you play an ability, you may draw a card. If you do, discard a card.
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

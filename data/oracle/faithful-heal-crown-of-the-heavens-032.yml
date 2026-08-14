@@ -1,0 +1,22 @@
+name: Faithful Heal
+
+origin: crown-of-the-heavens-032
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: Target up to two allies you control. Your hero heals damage from itself equal to their combined ATK.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

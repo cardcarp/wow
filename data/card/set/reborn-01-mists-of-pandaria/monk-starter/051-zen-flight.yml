@@ -1,13 +1,13 @@
-oracle: zen-flight
-
-lex: '051'
-
-set: monk-starter
+index: '051'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: zen-flight-monk-starter-051
+
+set: Monk Starter

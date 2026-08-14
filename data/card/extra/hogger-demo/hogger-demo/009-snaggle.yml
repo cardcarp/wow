@@ -1,13 +1,13 @@
-oracle: snaggle
-
-lex: '009'
-
-set: hogger-demo
+index: '009'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: snaggle-worldbreaker-crafting-010
+
+set: Hogger Demo

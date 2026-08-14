@@ -1,0 +1,25 @@
+name: Coilskar Wrangler
+
+origin: black-temple-raid-035
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Nature
+
+rule:
+  - type: ability
+    text: Traitor Hero Required 2 , Destroy an ally in your party → Each opponent destroys an ally in his party.
+
+regulation:
+
+errata: []
+
+temp: Naga Traitor

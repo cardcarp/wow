@@ -1,13 +1,13 @@
-oracle: mottled-drake
-
-lex: '219'
-
-set: worldbreaker
+index: '219'
 
 rarity: Epic
 
 artist: Brian Despain
 
+variation: []
+
 flavor: (Mounts can't attack or be attacked.)
 
-variation: []
+oracle: mottled-drake-worldbreaker-219
+
+set: Worldbreaker

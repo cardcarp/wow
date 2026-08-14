@@ -1,0 +1,22 @@
+name: Execute
+
+origin: heroes-of-azeroth-141
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: Destroy target damaged ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury

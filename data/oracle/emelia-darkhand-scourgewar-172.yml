@@ -1,0 +1,27 @@
+name: Emelia Darkhand
+
+origin: scourgewar-172
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 3
+
+health: 1
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector This ally can't attack unless an opponent controls more allies than you.
+
+regulation:
+
+errata: []
+
+temp: Undead Death Knight

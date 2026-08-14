@@ -1,13 +1,13 @@
-oracle: jadefire-scout
-
-lex: '018'
-
-set: elderlimb
+index: '018'
 
 rarity: Common
 
 artist: Ian Ameling
 
+variation: []
+
 flavor: '"I embraced the demonic power of the Burning Legion long ago."'
 
-variation: []
+oracle: jadefire-scout-crown-of-the-heavens-145
+
+set: Elderlimb

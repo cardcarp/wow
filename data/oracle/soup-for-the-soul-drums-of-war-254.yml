@@ -1,0 +1,17 @@
+name: Soup for the Soul
+
+origin: drums-of-war-254
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Soup for the Soul enters play exhausted. Pay 4 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

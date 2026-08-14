@@ -1,13 +1,13 @@
-oracle: face-of-fear
-
-lex: '005'
-
-set: hogger
+index: '005'
 
 rarity: Common
 
 artist: Dave Allsop
 
+variation: []
+
 flavor: '"Stand before it, if you dare." - Skodis the Nethertwister'
 
-variation: []
+oracle: face-of-fear-throne-of-the-tides-092
+
+set: Hogger

@@ -1,0 +1,27 @@
+name: Lairin the Grounded
+
+origin: fields-of-honor-105
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 7
+
+health: 3
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Arcane Resistance Nature Resistance
+
+regulation:
+
+errata: []
+
+temp: Draenei Hunter

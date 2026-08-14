@@ -1,0 +1,22 @@
+name: Gathering of Wits
+
+origin: scourgewar-072
+
+layout: standard
+
+category: Ability
+
+cost: '7'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Gain control of any number of target opposing allies with combined cost less than or equal to the number of resources you control.
+
+regulation:
+
+errata: []
+
+temp: Shadow

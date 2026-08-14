@@ -1,0 +1,22 @@
+name: Lesson of the Divine
+
+origin: wrathgate-053
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+instant: You may exhaust a non-hero Paladin you control rather than pay this ability's cost. Exhaust target hero or ally. It can't ready during its controller's next ready step. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

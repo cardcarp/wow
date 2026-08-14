@@ -1,0 +1,23 @@
+name: Nocturnal Gaze
+
+origin: timewalkers-badges-of-justice-003
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: While you have no cards in your hand, your hero has Assault 2 .
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

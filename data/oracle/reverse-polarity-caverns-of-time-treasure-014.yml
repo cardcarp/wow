@@ -1,0 +1,22 @@
+name: Reverse Polarity
+
+origin: caverns-of-time-treasure-014
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Mage
+
+instant: Interrupt target ability.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

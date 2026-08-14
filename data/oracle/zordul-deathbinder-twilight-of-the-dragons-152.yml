@@ -1,0 +1,27 @@
+name: Zor'dul Deathbinder
+
+origin: twilight-of-the-dragons-152
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 0
+
+health: 1
+
+combat: Arcane
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Assault 1 When this ally is destroyed, you may draw a card.
+
+regulation:
+
+errata: []
+
+temp: Orc Mage

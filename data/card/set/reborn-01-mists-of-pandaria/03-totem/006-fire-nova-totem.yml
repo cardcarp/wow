@@ -1,13 +1,13 @@
-oracle: fire-nova-totem
-
-lex: '006'
-
-set: totem
+index: '006'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: fire-nova-totem-through-the-dark-portal-093
+
+set: Totem

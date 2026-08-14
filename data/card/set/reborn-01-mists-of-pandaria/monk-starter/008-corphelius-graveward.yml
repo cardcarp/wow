@@ -1,13 +1,14 @@
-oracle: corphelius-graveward
-
-lex: '008'
-
-set: monk-starter
+index: '008'
 
 rarity: Common
 
 artist: ''
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: corphelius-graveward-monk-starter-008
+
+set: Monk Starter

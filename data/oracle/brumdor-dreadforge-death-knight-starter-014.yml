@@ -1,0 +1,27 @@
+name: Brumdor Dreadforge
+
+origin: death-knight-starter-014
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 1 , Destroy one of your equipment → Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Death Knight

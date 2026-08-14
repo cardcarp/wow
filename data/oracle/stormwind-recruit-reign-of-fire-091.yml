@@ -1,0 +1,27 @@
+name: Stormwind Recruit
+
+origin: reign-of-fire-091
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+instant: Protector
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

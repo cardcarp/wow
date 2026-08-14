@@ -1,0 +1,27 @@
+name: Keeper Balos
+
+origin: crown-of-the-heavens-155
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 4
+
+combat: Nature
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Harmonize
+
+regulation:
+
+errata: []
+
+temp: Keeper of the Grove Druid

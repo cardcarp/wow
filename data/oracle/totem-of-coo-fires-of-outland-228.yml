@@ -1,0 +1,19 @@
+name: Totem of Coo
+
+origin: fires-of-outland-228
+
+layout: standard
+
+category: Quest
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : Draw a card, then draw another card for each other quest named Totem of Coo you have.'
+
+regulation:
+
+errata: []
+
+temp: ''

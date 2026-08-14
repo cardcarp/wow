@@ -1,13 +1,13 @@
-oracle: unyielding-faith
-
-lex: '057'
-
-set: wrathgate
+index: '057'
 
 rarity: Rare
 
 artist: Sean O'Daniels
 
+variation: []
+
 flavor: '"With each passing day, my faith grows stronger - and with good reason." - Sarina the Immaculate'
 
-variation: []
+oracle: unyielding-faith-wrathgate-057
+
+set: Wrathgate

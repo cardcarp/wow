@@ -1,13 +1,13 @@
-oracle: unstoppable-flame
-
-lex: '052'
-
-set: molten-core-raid
+index: '052'
 
 rarity: Uncommon
 
 artist: Josh Tallman
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: unstoppable-flame-molten-core-raid-052
+
+set: Molten Core Raid

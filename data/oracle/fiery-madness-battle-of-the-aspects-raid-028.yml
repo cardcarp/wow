@@ -1,0 +1,19 @@
+name: Fiery Madness
+
+origin: battle-of-the-aspects-raid-028
+
+layout: standard
+
+category: Event
+
+type: Boss
+
+rule:
+  - type: ability
+    text: Each Raiding ally deals fire damage to itself equal to its ATK. If no allies were dealt fatal damage this way, flip another Deathwing card.
+
+regulation:
+
+errata: []
+
+temp: ''

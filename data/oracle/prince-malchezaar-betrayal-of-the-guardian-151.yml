@@ -1,0 +1,27 @@
+name: Prince Malchezaar
+
+origin: betrayal-of-the-guardian-151
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 7
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: At the start of your turn, reveal the top card of your deck. If its cost is odd, you may play it without paying its cost. Otherwise, put a 6 / 6 Infernal Demon Monster ally token into play.
+
+regulation:
+
+errata: []
+
+temp: Eredar Demon

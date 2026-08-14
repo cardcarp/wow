@@ -1,0 +1,27 @@
+name: Furious Kalla
+
+origin: blood-of-gladiators-123
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 4
+
+health: 2
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Hardiness When Kalla attacks, you may put a Totem card from your hand into play.
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

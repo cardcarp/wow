@@ -1,0 +1,22 @@
+name: Demoralizing Roar
+
+origin: fires-of-outland-020
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Druid
+
+instant: 'Ongoing : Opposing allies have -2 ATK. Your hero is in Bear Form .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

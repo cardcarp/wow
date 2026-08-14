@@ -1,0 +1,27 @@
+name: Ironforge Guards
+
+origin: heroes-of-azeroth-188
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Ironforge Guards has +1 health for each other ally named Ironforge Guards in your party.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior

@@ -1,0 +1,22 @@
+name: Favor of the Arcane
+
+origin: horde-mage-2011-004
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Arcane

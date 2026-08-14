@@ -1,0 +1,27 @@
+name: Mixi Crankhaven
+
+origin: battle-of-the-aspects-treasure-041
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When you play an ability, ally, or equipment, this ally deals 1 unpreventable holy damage to target opposing hero.
+
+regulation:
+
+errata: []
+
+temp: Goblin Priest

@@ -1,0 +1,27 @@
+name: Kirga Earthguard
+
+origin: drums-of-war-177
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 4
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector At the end of your turn, ready this ally.
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

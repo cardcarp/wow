@@ -1,0 +1,22 @@
+name: Rogue Training
+
+origin: march-of-the-legion-086
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: "Attach to target friendly ally. Ongoing : When attached ally deals combat damage to a defending hero, that hero's controller discards a card."
+
+regulation:
+
+errata: []
+
+temp: Subtlety

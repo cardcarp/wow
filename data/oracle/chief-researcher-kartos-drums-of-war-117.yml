@@ -1,0 +1,27 @@
+name: Chief Researcher Kartos
+
+origin: drums-of-war-117
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 7
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When you complete your first quest each turn, you may ready all resources exhausted to complete it.
+
+regulation:
+
+errata: []
+
+temp: Human Researcher

@@ -1,13 +1,13 @@
-oracle: journeys-end
-
-lex: '194'
-
-set: icecrown
+index: '194'
 
 rarity: Rare
 
 artist: John Stanko
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: journeys-end-icecrown-194
+
+set: Icecrown

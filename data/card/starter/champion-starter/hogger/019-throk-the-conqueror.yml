@@ -1,13 +1,13 @@
-oracle: throk-the-conqueror
-
-lex: '019'
-
-set: hogger
+index: '019'
 
 rarity: Common
 
 artist: Steve Ellis
 
+variation: []
+
 flavor: '"You not bigger than ME!"'
 
-variation: []
+oracle: throk-the-conqueror-crown-of-the-heavens-138
+
+set: Hogger

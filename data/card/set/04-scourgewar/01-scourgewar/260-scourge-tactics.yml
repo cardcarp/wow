@@ -1,13 +1,13 @@
-oracle: scourge-tactics
-
-lex: '260'
-
-set: scourgewar
+index: '260'
 
 rarity: Common
 
 artist: Steve Ellis
 
+variation: []
+
 flavor: '"Those monsters began using crusaders as living shields." - Crusade Commander Entari'
 
-variation: []
+oracle: scourge-tactics-scourgewar-260
+
+set: Scourgewar

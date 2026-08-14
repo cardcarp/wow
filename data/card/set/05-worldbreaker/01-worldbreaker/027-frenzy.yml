@@ -1,13 +1,13 @@
-oracle: frenzy
-
-lex: '027'
-
-set: worldbreaker
+index: '027'
 
 rarity: Uncommon
 
 artist: Gino Whitehall
 
+variation: []
+
 flavor: '"How little it takes to incite anger." - Highlord Darion Mograine'
 
-variation: []
+oracle: frenzy-worldbreaker-027
+
+set: Worldbreaker

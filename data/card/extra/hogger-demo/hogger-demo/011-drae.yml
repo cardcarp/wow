@@ -1,13 +1,13 @@
-oracle: drae
-
-lex: '011'
-
-set: hogger-demo
+index: '011'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: drae-hogger-demo-011
+
+set: Hogger Demo

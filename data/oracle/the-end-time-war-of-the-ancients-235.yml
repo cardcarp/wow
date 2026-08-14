@@ -1,0 +1,17 @@
+name: The End Time
+
+origin: war-of-the-ancients-235
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'If you control eight or more resources: Pay 1 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

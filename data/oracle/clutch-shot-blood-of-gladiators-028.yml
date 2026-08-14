@@ -1,0 +1,22 @@
+name: Clutch Shot
+
+origin: blood-of-gladiators-028
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+instant: Target ally has +2 ATK this turn. A second target ally has -2 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

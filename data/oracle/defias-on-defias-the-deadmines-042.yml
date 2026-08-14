@@ -1,0 +1,17 @@
+name: Defias on Defias
+
+origin: the-deadmines-042
+
+layout: standard
+
+category: Achievement
+
+rule:
+  - type: ability
+    text: Destroy the Dungeon hero or a Dungeon Boss ally using the Defias Cannon, the Defias Gunpowder, or a Defias Watcher.
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,22 @@
+name: Stormrage Cover
+
+origin: onyxias-lair-treasure-019
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: 1 , → Draw a card, then discard a card. When you play a ability, ready Stormrage Cover.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

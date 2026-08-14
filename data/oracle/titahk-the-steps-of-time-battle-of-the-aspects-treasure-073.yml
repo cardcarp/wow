@@ -1,0 +1,22 @@
+name: Ti'tahk, the Steps of Time
+
+origin: battle-of-the-aspects-treasure-073
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: The first time your hero would deal damage with an ability each turn, it deals that much +3 instead.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

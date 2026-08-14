@@ -1,13 +1,13 @@
-oracle: emerald-captain
-
-lex: '204'
-
-set: worldbreaker
+index: '204'
 
 rarity: Common
 
 artist: Daren Bader
 
+variation: []
+
 flavor: Ysera and her green dragonflight seek to protect the World Tree from the onslaught of Ragnaros the Firelord.
 
-variation: []
+oracle: emerald-captain-worldbreaker-204
+
+set: Worldbreaker

@@ -1,0 +1,27 @@
+name: Vylokx
+
+origin: crown-of-the-heavens-148
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: ability
+    text: When this ally enters play, he deals 2 shadow damage to each non-Demon, non-Monster hero and ally. Other Demon and Monster allies you control have +2 / +2.
+
+regulation:
+
+errata: []
+
+temp: Satyr Demon Warlock

@@ -1,0 +1,25 @@
+name: Healing Wards
+
+origin: reign-of-fire-176
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'This item enters play with three ward counters on it. , Remove a ward counter from this item → Put a 0 / 1 Totem token into play with " Ongoing : Mend 1 ". When the last ward counter is removed from this item, destroy it.'
+
+regulation:
+
+errata: []
+
+temp: Item

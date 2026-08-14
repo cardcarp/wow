@@ -1,0 +1,23 @@
+name: The Unstoppable Force
+
+origin: through-the-dark-portal-285
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: Destroy The Unstoppable Force → Destroy all armor named The Immovable Object.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Mace

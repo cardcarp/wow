@@ -1,13 +1,13 @@
-oracle: totem-of-decay
-
-lex: '025'
-
-set: totem
+index: '025'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: totem-of-decay-servants-of-the-betrayer-105
+
+set: Totem

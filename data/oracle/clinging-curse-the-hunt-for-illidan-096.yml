@@ -1,0 +1,22 @@
+name: Clinging Curse
+
+origin: the-hunt-for-illidan-096
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warlock
+
+instant: 'Attach to target hero or ally. Ongoing : Untargetable At the start of your turn, your hero deals 1 shadow damage to attached character.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Affliction Curse

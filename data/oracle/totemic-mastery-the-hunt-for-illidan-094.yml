@@ -1,0 +1,22 @@
+name: Totemic Mastery
+
+origin: the-hunt-for-illidan-094
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Shaman
+
+instant: 'Restoration Hero Required Ongoing : Your Totems have +3 health.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration Talent

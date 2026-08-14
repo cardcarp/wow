@@ -1,0 +1,30 @@
+name: Hurdan the Everlasting
+
+origin: wrathgate-116
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Holy
+
+faction: Alliance
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: When you play a ability, if this ally is in your graveyard, you may pay 2 . If you do, put him into play.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Priest

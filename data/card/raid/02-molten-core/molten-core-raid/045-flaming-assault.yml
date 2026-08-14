@@ -1,13 +1,13 @@
-oracle: flaming-assault
-
-lex: '045'
-
-set: molten-core-raid
+index: '045'
 
 rarity: Uncommon
 
 artist: Puddnhead
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: flaming-assault-molten-core-raid-045
+
+set: Molten Core Raid

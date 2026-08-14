@@ -1,0 +1,27 @@
+name: Kailis Truearc
+
+origin: heroes-of-azeroth-189
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Kailis Truearc has +2 ATK and +2 health while there are four or more allies in your party.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

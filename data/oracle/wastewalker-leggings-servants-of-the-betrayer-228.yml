@@ -1,0 +1,23 @@
+name: Wastewalker Leggings
+
+origin: servants-of-the-betrayer-228
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: When an opposing hero or ally becomes exhausted, your hero deals 1 melee damage to it.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

@@ -1,0 +1,22 @@
+name: Cowl of Dying Light
+
+origin: battle-of-the-aspects-treasure-062
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: When this armor enters play, put target opposing ability, ally, or equipment with the lowest cost into its owner's hand. (If one or more cards are tied for lowest cost, you choose.)
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

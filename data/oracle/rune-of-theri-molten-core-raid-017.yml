@@ -1,0 +1,19 @@
+name: Rune of Theri
+
+origin: molten-core-raid-017
+
+layout: standard
+
+category: Misc
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Your Core Ragers can't be destroyed or otherwise leave your control while your hero is Golemagg. When Golemagg is destroyed, remove all of your Core Ragers from the game.
+
+regulation:
+
+errata: []
+
+temp: Golemagg the Incinerator Boss 8

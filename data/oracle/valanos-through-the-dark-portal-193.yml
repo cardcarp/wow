@@ -1,0 +1,25 @@
+name: Valanos
+
+origin: through-the-dark-portal-193
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Draenei Hunter

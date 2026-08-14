@@ -1,14 +1,14 @@
-oracle: patchwerk
-
-lex: '006'
-
-set: naxxramas-raid
+index: '006'
 
 rarity: Rare
 
 artist: Mike Nicholson
 
-flavor: '"Patchwerk want to play!"'
-
 variation:
   - transform
+
+flavor: '"Patchwerk want to play!"'
+
+oracle: patchwerk-naxxramas-raid-006
+
+set: Naxxramas Raid

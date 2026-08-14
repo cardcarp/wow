@@ -1,0 +1,22 @@
+name: Hekto Starspire
+
+origin: march-of-the-legion-014
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 4 , Flip Hekto → Destroy target attacking ally.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

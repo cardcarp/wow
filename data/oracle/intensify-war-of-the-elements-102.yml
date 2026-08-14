@@ -1,0 +1,23 @@
+name: Intensify
+
+origin: war-of-the-elements-102
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warlock
+  - Mage
+
+instant: The next time target friendly hero or ally would deal any type of damage this turn, it deals double that much fire damage instead.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fire Destruction

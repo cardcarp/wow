@@ -1,0 +1,22 @@
+name: Totemic Recovery
+
+origin: servants-of-the-betrayer-104
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: Put an Air, Earth, Fire, and Water Totem from your graveyard into play.
+
+regulation:
+
+errata: []
+
+temp: Elemental

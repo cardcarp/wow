@@ -1,0 +1,22 @@
+name: Twisted Arcana
+
+origin: twilight-of-the-dragons-053
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Mage
+
+instant: As an additional cost to play this ability, destroy an ability, ally, or equipment you control. Draw two cards.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

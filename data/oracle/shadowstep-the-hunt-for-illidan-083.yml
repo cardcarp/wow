@@ -1,0 +1,22 @@
+name: Shadowstep
+
+origin: the-hunt-for-illidan-083
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: 'Subtlety Hero Required Ongoing : Ready opposing heroes and allies also count as being exhausted. (They are still ready.)'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Subtlety Talent

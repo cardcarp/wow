@@ -1,0 +1,22 @@
+name: Concussive Barrage
+
+origin: throne-of-the-tides-042
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+instant: Marksmanship Talent Your hero deals 2 ranged damage to target hero or ally. That damage is doubled for each other card named Concussive Barrage in your graveyard.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

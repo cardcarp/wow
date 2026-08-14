@@ -1,0 +1,27 @@
+name: Esad
+
+origin: fires-of-outland-157
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 4
+
+health: 2
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When E'sad enters play, target opponent puts the top card of his deck into his resource row face down.
+
+regulation:
+
+errata: []
+
+temp: Troll Hunter

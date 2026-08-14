@@ -1,13 +1,13 @@
-oracle: high-inquisitor-whitemane
-
-lex: '009'
-
-set: scarlet-monastery
+index: '009'
 
 rarity: Rare
 
 artist: Alex Garner
 
+variation: []
+
 flavor: '"The Light has spoken!"'
 
-variation: []
+oracle: high-inquisitor-whitemane-dungeon-treasure-029
+
+set: Scarlet Monastery

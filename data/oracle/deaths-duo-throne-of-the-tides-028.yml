@@ -1,0 +1,22 @@
+name: Deaths Duo
+
+origin: throne-of-the-tides-028
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: Remove two target allies in an opposing graveyard from the game. If you do, put two 3 / 3 Ghoul ally tokens into play.
+
+regulation:
+
+errata: []
+
+temp: Unholy

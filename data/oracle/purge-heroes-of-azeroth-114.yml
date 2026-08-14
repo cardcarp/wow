@@ -1,0 +1,22 @@
+name: Purge
+
+origin: heroes-of-azeroth-114
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Shaman
+
+instant: Destroy target ability if it's not attached to a friendly hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental

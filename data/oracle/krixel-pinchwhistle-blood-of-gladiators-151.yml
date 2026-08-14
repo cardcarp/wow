@@ -1,0 +1,27 @@
+name: Krixel Pinchwhistle
+
+origin: blood-of-gladiators-151
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 1
+
+health: 7
+
+combat: Melee
+
+type: Arena
+
+rule:
+  - type: ability
+    text: → Ready all of your other Arena cards.
+
+regulation:
+
+errata: []
+
+temp: Goblin

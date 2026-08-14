@@ -1,0 +1,25 @@
+name: Iceblade Hacker
+
+origin: heroes-of-azeroth-328
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: When your hero deals combat damage to an ally, that ally can't ready during its controller's next ready step.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

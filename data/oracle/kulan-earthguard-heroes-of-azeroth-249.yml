@@ -1,0 +1,27 @@
+name: Kulan Earthguard
+
+origin: heroes-of-azeroth-249
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector At the end of your turn, ready Kulan Earthguard.
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

@@ -1,0 +1,22 @@
+name: Cleanse Spirit
+
+origin: horde-shaman-2011-004
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: Destroy target ability. If you do, your hero heals 3 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Restoration

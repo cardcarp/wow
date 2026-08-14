@@ -1,0 +1,28 @@
+name: Velnoth
+
+origin: the-hunt-for-illidan-103
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 4
+
+combat: Melee
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: Velnoth can protect your hero. 2 → Velnoth heals all damage from himself.
+
+regulation:
+
+errata: []
+
+temp: Voidwalker Demon

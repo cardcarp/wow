@@ -1,13 +1,13 @@
-oracle: moonshard
-
-lex: '007'
-
-set: elderlimb
+index: '007'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor: '"That which once been peaceful is now a force to be reckoned with, mon." - Kanga the Primal'
 
-variation: []
+oracle: moonshard-war-of-the-elements-035
+
+set: Elderlimb

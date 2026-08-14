@@ -1,13 +1,13 @@
-oracle: garrosh-hellscream
-
-lex: '175'
-
-set: scourgewar
+index: '175'
 
 rarity: Epic
 
 artist: Michael Kormarck
 
+variation: []
+
 flavor: '"The Lich King sought to sow the seeds of fear. Let me be the first to show him that the Horde fears nothing!"'
 
-variation: []
+oracle: garrosh-hellscream-scourgewar-175
+
+set: Scourgewar

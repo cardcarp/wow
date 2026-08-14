@@ -1,0 +1,27 @@
+name: Kaelyn Vineminder
+
+origin: wrathgate-121
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, target opposing ally can't ready during its controller's ready step while this ally remains under your control.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

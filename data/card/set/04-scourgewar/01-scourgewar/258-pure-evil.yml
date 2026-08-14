@@ -1,13 +1,13 @@
-oracle: pure-evil
-
-lex: '258'
-
-set: scourgewar
+index: '258'
 
 rarity: Common
 
 artist: Ron Lemen
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: pure-evil-scourgewar-258
+
+set: Scourgewar

@@ -1,0 +1,31 @@
+name: Oracle Talisman of Ablution
+
+origin: scourgewar-227
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: Allies you control that share a class with your hero have Assault 1 .
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

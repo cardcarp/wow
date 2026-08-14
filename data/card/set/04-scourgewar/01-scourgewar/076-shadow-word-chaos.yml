@@ -1,13 +1,13 @@
-oracle: shadow-word-chaos
-
-lex: '076'
-
-set: scourgewar
+index: '076'
 
 rarity: Common
 
 artist: Matt Cavotta
 
+variation: []
+
 flavor: '"The shadows care not who they hurt. Set them loose, and they will do their job." - Spiritualist Sunshroud'
 
-variation: []
+oracle: shadow-word-chaos-scourgewar-076
+
+set: Scourgewar

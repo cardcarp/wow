@@ -1,0 +1,27 @@
+name: Gilblin Trickster
+
+origin: throne-of-the-tides-181
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 4
+
+combat: Frost
+
+type: Monster
+
+rule:
+  - type: ability
+    text: When an equipment enters play under your control, Delve .
+
+regulation:
+
+errata: []
+
+temp: Goblin Rogue

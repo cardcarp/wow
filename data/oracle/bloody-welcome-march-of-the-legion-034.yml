@@ -1,0 +1,22 @@
+name: Bloody Welcome
+
+origin: march-of-the-legion-034
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: Your hero deals 3 ranged damage to target ally. If that ally entered play this turn, ready up to two of your resources.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

@@ -1,0 +1,27 @@
+name: Fimlet Sparklight
+
+origin: war-of-the-ancients-093
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, he deals 8 damage from each hero.
+
+regulation:
+
+errata: []
+
+temp: Gnome Priest

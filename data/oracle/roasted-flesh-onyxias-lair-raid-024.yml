@@ -1,0 +1,19 @@
+name: Roasted Flesh
+
+origin: onyxias-lair-raid-024
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+instant: 'Ongoing : Destroy Roasted Flesh → Onyxia deals 3 fire damage to target opposing hero or ally.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

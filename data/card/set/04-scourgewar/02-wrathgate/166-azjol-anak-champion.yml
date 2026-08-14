@@ -1,13 +1,13 @@
-oracle: azjol-anak-champion
-
-lex: '166'
-
-set: wrathgate
+index: '166'
 
 rarity: Rare
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: azjol-anak-champion-wrathgate-166
+
+set: Wrathgate

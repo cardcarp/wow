@@ -1,13 +1,13 @@
-oracle: devastation
-
-lex: '080'
-
-set: wrathgate
+index: '080'
 
 rarity: Rare
 
 artist: J.P. Targete
 
+variation: []
+
 flavor: '"All will soon be laid to waste." - Kileana the Inferno'
 
-variation: []
+oracle: devastation-wrathgate-080
+
+set: Wrathgate

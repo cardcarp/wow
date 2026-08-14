@@ -1,0 +1,17 @@
+name: Orders from Lady Vashj
+
+origin: servants-of-the-betrayer-257
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 2 to complete this quest. Reward : If you have no cards in hand, draw two cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

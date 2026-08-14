@@ -1,0 +1,25 @@
+name: Vis'kag the Bloodletter
+
+origin: onyxias-lair-treasure-033
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Rogue
+
+rule:
+  - type: ability
+    text: When your hero deals combat damage with Vis'kag the Bloodletter to an ally without damage on it, destroy that ally.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

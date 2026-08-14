@@ -1,13 +1,13 @@
-oracle: stakethrower
-
-lex: '246'
-
-set: worldbreaker
+index: '246'
 
 rarity: Uncommon
 
 artist: Ralph Horsley
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: stakethrower-worldbreaker-246
+
+set: Worldbreaker

@@ -1,0 +1,23 @@
+name: Spaulders of Eternity
+
+origin: war-of-the-ancients-212
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: When this armor enters play, your hero has +1 ATK this turn for each ally you control.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

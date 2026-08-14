@@ -1,0 +1,23 @@
+name: Disappear
+
+origin: blood-of-gladiators-084
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+  - Mage
+
+instant: Your hero is Elusive this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane Shadow

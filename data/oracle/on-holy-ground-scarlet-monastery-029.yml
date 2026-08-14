@@ -1,0 +1,19 @@
+name: On Holy Ground
+
+origin: scarlet-monastery-029
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: Mograine deals 15 unpreventable holy damage divided as Raiders choose to any number of Raiding heroes.
+
+regulation:
+
+errata: []
+
+temp: ''

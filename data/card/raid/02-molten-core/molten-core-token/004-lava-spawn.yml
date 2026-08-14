@@ -1,13 +1,13 @@
-oracle: lava-spawn
-
-lex: '004'
-
-set: molten-core-token
+index: '004'
 
 rarity: Common
 
 artist: Michael Kormarck
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: lava-spawn-molten-core-token-004
+
+set: Molten Core Token

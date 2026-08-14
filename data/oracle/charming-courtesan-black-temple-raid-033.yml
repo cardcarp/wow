@@ -1,0 +1,25 @@
+name: Charming Courtesan
+
+origin: black-temple-raid-033
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+rule:
+  - type: ability
+    text: Traitor Hero Required If Charming Courtesan would be dealt 2 or less damage, prevent it.
+
+regulation:
+
+errata: []
+
+temp: Human Traitor

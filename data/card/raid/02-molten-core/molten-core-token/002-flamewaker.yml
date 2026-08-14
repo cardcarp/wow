@@ -1,13 +1,13 @@
-oracle: flamewaker
-
-lex: '002'
-
-set: molten-core-token
+index: '002'
 
 rarity: Common
 
 artist: Aleksi Briclot
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: flamewaker-molten-core-token-002
+
+set: Molten Core Token

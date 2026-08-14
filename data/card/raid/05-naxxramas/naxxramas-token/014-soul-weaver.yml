@@ -1,13 +1,13 @@
-oracle: soul-weaver
-
-lex: '014'
-
-set: naxxramas-token
+index: '014'
 
 rarity: Common
 
 artist: Justin Sweet
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: soul-weaver-naxxramas-token-014
+
+set: Naxxramas Token

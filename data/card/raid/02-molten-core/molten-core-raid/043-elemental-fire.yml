@@ -1,13 +1,13 @@
-oracle: elemental-fire
-
-lex: '043'
-
-set: molten-core-raid
+index: '043'
 
 rarity: Uncommon
 
 artist: Joe Jusko
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: elemental-fire-molten-core-raid-043
+
+set: Molten Core Raid

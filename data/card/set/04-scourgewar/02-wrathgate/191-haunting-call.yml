@@ -1,13 +1,13 @@
-oracle: haunting-call
-
-lex: '191'
-
-set: wrathgate
+index: '191'
 
 rarity: Rare
 
 artist: Raven Mimura
 
+variation: []
+
 flavor: "\"It's like they never even existed at all.\" - Felbender Lara"
 
-variation: []
+oracle: haunting-call-wrathgate-191
+
+set: Wrathgate

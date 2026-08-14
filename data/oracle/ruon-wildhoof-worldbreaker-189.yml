@@ -1,0 +1,27 @@
+name: Ruon Wildhoof
+
+origin: worldbreaker-189
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Mend 2
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

@@ -1,0 +1,22 @@
+name: Deadliness
+
+origin: blood-of-gladiators-054
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Subtlety Hero Required Choose one or more: Destroy target exhausted ally; destroy target exhausted equipment; or destroy target exhausted resource.'
+
+regulation:
+
+errata: []
+
+temp: Subtlety Talent

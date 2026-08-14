@@ -1,0 +1,22 @@
+name: Natures Swiftness
+
+origin: heroes-of-azeroth-028
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Druid
+
+instant: Restoration Hero Required You pay 5 less to play your next card this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration Talent

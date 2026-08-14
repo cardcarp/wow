@@ -1,0 +1,25 @@
+name: Azure Magus
+
+origin: war-of-the-elements-158
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Arcane
+
+rule:
+  - type: ability
+    text: When you play an ability, target ally has Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: Blue Dragonkin

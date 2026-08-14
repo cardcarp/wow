@@ -1,0 +1,22 @@
+name: Freeze Out
+
+origin: caverns-of-time-treasure-002
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: Up to three target resources can't ready during their controller's next ready step.
+
+regulation:
+
+errata: []
+
+temp: Frost

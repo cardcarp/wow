@@ -1,0 +1,19 @@
+name: Eye Blast
+
+origin: black-temple-raid-022
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+rule:
+  - type: ability
+    text: 'Ongoing : Destroy Eye Blast → Destroy target ability, ally, or equipment.'
+
+regulation:
+
+errata: []
+
+temp: Black Temple

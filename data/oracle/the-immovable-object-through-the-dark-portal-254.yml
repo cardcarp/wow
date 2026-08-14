@@ -1,0 +1,24 @@
+name: The Immovable Object
+
+origin: through-the-dark-portal-254
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+rule:
+  - type: ability
+    text: Destroy The Immovable Object → Destroy all weapons named The Unstoppable Force.
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

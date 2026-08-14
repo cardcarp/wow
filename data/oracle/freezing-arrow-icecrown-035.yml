@@ -1,0 +1,22 @@
+name: Freezing Arrow
+
+origin: icecrown-035
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+instant: Trap Remove target opposing attacker from combat. It can't ready during it's controller's next ready step.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

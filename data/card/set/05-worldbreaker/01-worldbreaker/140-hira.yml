@@ -1,13 +1,13 @@
-oracle: hira
-
-lex: '140'
-
-set: worldbreaker
+index: '140'
 
 rarity: Common
 
 artist: Android
 
+variation: []
+
 flavor: '"The flames dance before my fingertips like puppets dance for their master."'
 
-variation: []
+oracle: hira-worldbreaker-140
+
+set: Worldbreaker

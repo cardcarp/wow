@@ -1,0 +1,22 @@
+name: Lightning Bolt
+
+origin: heroes-of-azeroth-113
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: Your hero deals 4 nature damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Elemental

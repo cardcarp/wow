@@ -1,0 +1,22 @@
+name: Flame Volley
+
+origin: betrayal-of-the-guardian-022
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+instant: Your hero deals 1 fire damage to each opposing ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fire

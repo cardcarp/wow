@@ -1,13 +1,13 @@
-oracle: godfreys-britches
-
-lex: '038'
-
-set: shadowfang-keep
+index: '038'
 
 rarity: Common
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: (including this)
 
-variation: []
+oracle: godfreys-britches-shadowfang-keep-038
+
+set: Shadowfang Keep

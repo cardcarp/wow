@@ -1,0 +1,22 @@
+name: Reckoning
+
+origin: icecrown-050
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: "Protection Hero Required Ongoing : When your hero is dealt combat damage on an opponent's turn, you may ready a card you control."
+
+regulation:
+
+errata: []
+
+temp: Protection Talent

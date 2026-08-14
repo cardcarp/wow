@@ -1,0 +1,27 @@
+name: Garyk Stormcrier
+
+origin: war-of-the-ancients-132
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 4
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally deals combat damage to an opposing hero, Orc allies you control have Ferocity this turn. (This also affects Orc allies that enter play later this turn.)
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

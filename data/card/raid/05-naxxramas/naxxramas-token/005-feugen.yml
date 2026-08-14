@@ -1,13 +1,13 @@
-oracle: feugen
-
-lex: '005'
-
-set: naxxramas-token
+index: '005'
 
 rarity: Common
 
 artist: Dany Orizio
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: feugen-naxxramas-token-005
+
+set: Naxxramas Token

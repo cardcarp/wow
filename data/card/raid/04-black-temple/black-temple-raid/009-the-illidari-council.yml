@@ -1,14 +1,14 @@
-oracle: the-illidari-council
-
-lex: '009'
-
-set: black-temple-raid
+index: '009'
 
 rarity: Rare
 
 artist: Daarken
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: the-illidari-council-black-temple-raid-009
+
+set: Black Temple Raid

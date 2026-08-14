@@ -1,14 +1,14 @@
-oracle: ragnaros
-
-lex: '010'
-
-set: molten-core-raid
+index: '010'
 
 rarity: Rare
 
 artist: Peter Lee (front), Greg Staples (back)
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: ragnaros-molten-core-raid-010
+
+set: Molten Core Raid

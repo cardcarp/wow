@@ -1,0 +1,27 @@
+name: Sahama Brighthorn
+
+origin: twilight-of-the-dragons-147
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally is destroyed, your hero may heal 4 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Tauren Priest

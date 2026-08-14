@@ -1,0 +1,25 @@
+name: Eskhandars Right Claw
+
+origin: molten-core-treasure-021
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Warrior
+  - Shaman
+  - Hunter
+  - Rogue
+
+rule:
+  - type: ability
+    text: You may remove an equipment card in your hand from the game rather than pay Eskhandar's Right Claw's cost.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Fist

@@ -1,13 +1,13 @@
-oracle: surge-of-life
-
-lex: '078'
-
-set: wrathgate
+index: '078'
 
 rarity: Common
 
 artist: E.M. Gist
 
+variation: []
+
 flavor: Power over the elements is power over creation itself.
 
-variation: []
+oracle: surge-of-life-through-the-dark-portal-102
+
+set: Wrathgate

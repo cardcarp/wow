@@ -1,13 +1,13 @@
-oracle: strength-of-will
-
-lex: '009'
-
-set: sylvanas
+index: '009'
 
 rarity: Common
 
 artist: Dave Wilkins
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: strength-of-will-throne-of-the-tides-094
+
+set: Sylvanas

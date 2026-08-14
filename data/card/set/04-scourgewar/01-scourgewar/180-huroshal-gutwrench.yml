@@ -1,13 +1,13 @@
-oracle: huro-shal-gutwrench
-
-lex: '180'
-
-set: scourgewar
+index: '180'
 
 rarity: Common
 
 artist: Trevor Jacobs
 
+variation: []
+
 flavor: '"Smash, smash, smash - dis be too much fun."'
 
-variation: []
+oracle: huroshal-gutwrench-scourgewar-180
+
+set: Scourgewar

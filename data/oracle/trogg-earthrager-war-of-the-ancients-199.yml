@@ -1,0 +1,27 @@
+name: Trogg Earthrager
+
+origin: war-of-the-ancients-199
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: When this ally enters play, target Monster hero or ally has Assault 1 this turn for this and each other Monster hero and ally you control.
+
+regulation:
+
+errata: []
+
+temp: Trogg Shaman

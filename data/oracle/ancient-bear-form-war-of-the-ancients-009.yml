@@ -1,0 +1,22 @@
+name: Ancient Bear Form
+
+origin: war-of-the-ancients-009
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: 'Ongoing : Your hero has Protector . Your hero has +5 for each five resources you control.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral Bear Form

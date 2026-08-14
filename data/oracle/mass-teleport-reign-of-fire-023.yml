@@ -1,0 +1,22 @@
+name: Mass Teleport
+
+origin: reign-of-fire-023
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: 'Remove any number of allies you control from the game. Ongoing : Destroy this ability → Put all cards removed this way into play under your control.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

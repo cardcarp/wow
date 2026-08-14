@@ -1,0 +1,22 @@
+name: Vengeance of the Light
+
+origin: scourgewar-066
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: Destroy target Death Knight, Ghoul, or Undead ally.
+
+regulation:
+
+errata: []
+
+temp: Holy

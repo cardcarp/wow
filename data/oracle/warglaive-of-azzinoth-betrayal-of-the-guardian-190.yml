@@ -1,0 +1,24 @@
+name: Warglaive of Azzinoth
+
+origin: betrayal-of-the-guardian-190
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Warrior
+  - Death Knight
+  - Rogue
+
+rule:
+  - type: ability
+    text: Dual Wield When your hero deals combat damage with this weapon to a hero, put a 3 / 3 Demon Monster ally token into play named Flame of Azzinoth. At the start of your turn, if you control two or more allies named Flame of Azzinoth, this weapon has +10 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

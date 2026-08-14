@@ -1,0 +1,22 @@
+name: Fade
+
+origin: servants-of-the-betrayer-081
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+instant: Play only if an ally is in your party. Your hero is Elusive and Untargetable this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Shadow

@@ -1,13 +1,13 @@
-oracle: the-ichor-of-undeath
-
-lex: '203'
-
-set: wrathgate
+index: '203'
 
 rarity: Uncommon
 
 artist: Steve Ellis
 
+variation: []
+
 flavor: '"For this restorative salve, you must use a simple formula: one part poison, two parts cure." - Ogtinc'
 
-variation: []
+oracle: the-ichor-of-undeath-wrathgate-203
+
+set: Wrathgate

@@ -1,0 +1,19 @@
+name: Feeding Time
+
+origin: onyxias-lair-event-011
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Put X Whelps into play, where X is double the current stage.
+
+regulation:
+
+errata: []
+
+temp: ''

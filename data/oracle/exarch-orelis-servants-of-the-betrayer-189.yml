@@ -1,0 +1,25 @@
+name: Exarch Orelis
+
+origin: servants-of-the-betrayer-189
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 7
+
+combat: Holy
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Ability, ally, equipment, hero, and resource'
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

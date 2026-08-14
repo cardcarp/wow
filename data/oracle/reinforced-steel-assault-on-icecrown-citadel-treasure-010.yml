@@ -1,0 +1,22 @@
+name: Reinforced Steel
+
+origin: assault-on-icecrown-citadel-treasure-010
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Ongoing : Friendly armor have +1 for each friendly weapon. Friendly weapons have +1 for each friendly armor.'
+
+regulation:
+
+errata: []
+
+temp: Arms

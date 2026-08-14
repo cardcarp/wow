@@ -1,0 +1,27 @@
+name: Lessa the Awakener
+
+origin: fires-of-outland-170
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 4
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Lessa enters play, you may put an ally card with cost 2 or less from your graveyard into play.
+
+regulation:
+
+errata: []
+
+temp: Undead Priest

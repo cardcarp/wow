@@ -1,13 +1,13 @@
-oracle: unrelenting-rider
-
-lex: '008'
-
-set: naxxramas-token
+index: '008'
 
 rarity: Common
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: unrelenting-rider-naxxramas-token-008
+
+set: Naxxramas Token

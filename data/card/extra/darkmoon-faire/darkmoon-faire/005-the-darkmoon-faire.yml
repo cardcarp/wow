@@ -1,13 +1,13 @@
-oracle: the-darkmoon-faire
-
-lex: '005'
-
-set: darkmoon-faire
+index: '005'
 
 rarity: Rare
 
 artist: Trent Kaniuga
 
+variation: []
+
 flavor: '"We have it all ... delicious food, strong drink, exotic artifacts, fortunes read, amazing prizes, and excitement without end!" - Silas Darkmoon'
 
-variation: []
+oracle: the-darkmoon-faire-darkmoon-faire-005
+
+set: Darkmoon Faire

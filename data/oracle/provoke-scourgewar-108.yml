@@ -1,0 +1,22 @@
+name: Provoke
+
+origin: scourgewar-108
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: "Attach to target hero. Ongoing : At the start of attached hero's controller's turn, your hero deals 1 melee damage to it. This turn, a hero dealt damage this way must attack if able and can attack only your hero if able."
+
+regulation:
+
+errata: []
+
+temp: Arms

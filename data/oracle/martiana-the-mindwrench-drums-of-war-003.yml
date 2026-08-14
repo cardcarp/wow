@@ -1,0 +1,22 @@
+name: Martiana the Mindwrench
+
+origin: drums-of-war-003
+
+layout: transform
+
+category: Hero
+
+health: 26
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 1 , Flip Martiana → Target player discards a card if he already discarded a card this turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Priest

@@ -1,0 +1,25 @@
+name: Shandris Feathermoon
+
+origin: war-of-the-ancients-108
+
+layout: standard
+
+category: Ally
+
+cost: '8'
+
+damage: 8
+
+health: 1
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Haste 4 Ferocity At the end of your turn, put Shandris into her owner's hand from play. Discard another card named Shandris Feathermoon → Shandris has Long-Range and can attack two opposing heroes and/or allies at the same time this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

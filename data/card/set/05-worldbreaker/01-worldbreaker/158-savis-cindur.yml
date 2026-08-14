@@ -1,13 +1,13 @@
-oracle: savis-cindur
-
-lex: '158'
-
-set: worldbreaker
+index: '158'
 
 rarity: Common
 
 artist: Alex Garner
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: savis-cindur-worldbreaker-158
+
+set: Worldbreaker

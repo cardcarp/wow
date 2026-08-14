@@ -1,0 +1,27 @@
+name: Errzig Cogflicker
+
+origin: drums-of-war-125
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 6
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Arcane Resistance
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

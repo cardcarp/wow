@@ -1,0 +1,25 @@
+name: Bladesinger Alyssa
+
+origin: twilight-of-the-dragons-002
+
+layout: transform
+
+category: Hero
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 5 → Flip Alyssa face down.
+  - type: ability
+    position: reverse
+    text: When Alyssa deals combat damage to an ally, she also deals that much melee damage to target hero in that ally's party.
+
+regulation:
+
+errata: []
+
+temp: Worgen Rogue

@@ -1,0 +1,24 @@
+name: Draconian Deflector
+
+origin: heroes-of-azeroth-285
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+rule:
+  - type: ability
+    text: Your hero has Protector .
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

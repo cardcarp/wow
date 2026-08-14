@@ -1,0 +1,27 @@
+name: Conqueror Tristos
+
+origin: icecrown-128
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: This ally has Assault 2 and Long-Range while attacking Mages.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Hunter

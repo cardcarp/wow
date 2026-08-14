@@ -1,13 +1,13 @@
-oracle: cleaning-house
-
-lex: '025'
-
-set: hogger
+index: '025'
 
 rarity: Common
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: "\"Kill Gar'gol's minions in Goldrinn's name!\" - Ian Duran"
 
-variation: []
+oracle: cleaning-house-crown-of-the-heavens-195
+
+set: Hogger

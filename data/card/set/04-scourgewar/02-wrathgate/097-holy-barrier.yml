@@ -1,13 +1,13 @@
-oracle: holy-barrier
-
-lex: '097'
-
-set: wrathgate
+index: '097'
 
 rarity: Uncommon
 
 artist: Brandon Kitkouski
 
+variation: []
+
 flavor: '"If we work together, then we are sure to have greater success against the Scourge." - Joren the Martyr'
 
-variation: []
+oracle: holy-barrier-wrathgate-097
+
+set: Wrathgate

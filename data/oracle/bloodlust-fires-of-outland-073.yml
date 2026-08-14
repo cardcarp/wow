@@ -1,0 +1,24 @@
+name: Bloodlust
+
+origin: fires-of-outland-073
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+faction: Horde
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: Horde Hero Required Heroes and allies in your party have +2 ATK while attacking heroes this turn.
+
+regulation:
+
+errata: []
+
+temp: Enhancement

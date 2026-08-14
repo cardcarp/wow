@@ -1,0 +1,21 @@
+name: Soul Reaper
+
+origin: assault-on-icecrown-citadel-raid-033
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+instant: Interrupt target card. If you do, the Lich King heals damage from himself equal to that card's cost.
+
+type: Boss
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

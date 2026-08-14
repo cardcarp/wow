@@ -1,0 +1,28 @@
+name: Venomstrike
+
+origin: through-the-dark-portal-041
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 1
+
+health: 5
+
+combat: Melee
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: At the end of each turn, Venomstrike deals 4 nature damage to each hero and ally it dealt damage to this turn.
+
+regulation:
+
+errata: []
+
+temp: Scorpid

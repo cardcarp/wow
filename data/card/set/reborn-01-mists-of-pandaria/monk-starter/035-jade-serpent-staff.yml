@@ -1,13 +1,13 @@
-oracle: jade-serpent-staff
-
-lex: '035'
-
-set: monk-starter
+index: '035'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: jade-serpent-staff-monk-starter-035
+
+set: Monk Starter

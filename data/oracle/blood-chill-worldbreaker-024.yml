@@ -1,0 +1,22 @@
+name: Blood Chill
+
+origin: worldbreaker-024
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: 'Attach to target hero. Ongoing : At the start of your turn, your hero deals 1 frost damage to attached hero. If damage is dealt this way, exhaust each opposing hero or ally with Protector .'
+
+regulation:
+
+errata: []
+
+temp: Frost Disease

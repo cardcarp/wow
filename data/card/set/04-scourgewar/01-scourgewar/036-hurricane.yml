@@ -1,13 +1,13 @@
-oracle: hurricane
-
-lex: '036'
-
-set: scourgewar
+index: '036'
 
 rarity: Rare
 
 artist: Brandon Kitkouski
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: hurricane-scourgewar-036
+
+set: Scourgewar

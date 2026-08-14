@@ -1,0 +1,22 @@
+name: Blink
+
+origin: heroes-of-azeroth-048
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+instant: Draw a card. If your hero is defending, remove all attackers from combat.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

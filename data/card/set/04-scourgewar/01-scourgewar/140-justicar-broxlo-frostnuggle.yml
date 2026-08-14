@@ -1,13 +1,13 @@
-oracle: justicar-broxlo-frostnuggle
-
-lex: '140'
-
-set: scourgewar
+index: '140'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: justicar-broxlo-frostnuggle-scourgewar-140
+
+set: Scourgewar

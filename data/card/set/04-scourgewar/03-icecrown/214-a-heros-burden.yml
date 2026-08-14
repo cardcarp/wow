@@ -1,13 +1,13 @@
-oracle: a-heros-burden
-
-lex: '214'
-
-set: icecrown
+index: '214'
 
 rarity: Common
 
 artist: Ron Lemen
 
+variation: []
+
 flavor: "\"We need to find the leader of these undead and kill him to ensure there's no one to push the wretches back upon us.\" - Moodle"
 
-variation: []
+oracle: a-heros-burden-icecrown-214
+
+set: Icecrown

@@ -1,0 +1,27 @@
+name: Kuz'vun
+
+origin: icecrown-137
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Long-Range
+
+regulation:
+
+errata: []
+
+temp: Troll Hunter

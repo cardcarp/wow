@@ -1,0 +1,27 @@
+name: Raena the Unpredictable
+
+origin: the-hunt-for-illidan-137
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: At the end of your turn, choose whether Raena is Elusive or a Protector until the end of your next turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

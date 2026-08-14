@@ -1,0 +1,22 @@
+name: Assassins Strike
+
+origin: crown-of-the-heavens-036
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Your hero deals 3 melee damage to target exhausted ally and 3 melee damage to its controller's hero.
+
+regulation:
+
+errata: []
+
+temp: Assassination

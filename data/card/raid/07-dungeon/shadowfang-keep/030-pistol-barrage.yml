@@ -1,13 +1,13 @@
-oracle: pistol-barrage
-
-lex: '030'
-
-set: shadowfang-keep
+index: '030'
 
 rarity: Common
 
 artist: Michael Kormarck
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: pistol-barrage-shadowfang-keep-030
+
+set: Shadowfang Keep

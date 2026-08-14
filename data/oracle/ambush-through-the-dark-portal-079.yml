@@ -1,0 +1,22 @@
+name: Ambush
+
+origin: through-the-dark-portal-079
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+instant: Play only if your hero has stealth. Your hero deals X melee damage to target exhausted hero or ally, where X is 5 plus the ATK of one of your daggers.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Assassination Combo

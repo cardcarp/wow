@@ -1,0 +1,27 @@
+name: Bleakheart Hellcaller
+
+origin: reign-of-fire-124
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: ability
+    text: When this ally is destroyed, Portal .
+
+regulation:
+
+errata: []
+
+temp: Satyr Demon Warlock

@@ -1,0 +1,22 @@
+name: Legplates of Wrath
+
+origin: molten-core-treasure-007
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: When you play a ability, you may pay 1 . If you do, ready target armor.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

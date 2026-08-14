@@ -1,13 +1,13 @@
-oracle: exxi-the-windshaper
-
-lex: '171'
-
-set: worldbreaker
+index: '171'
 
 rarity: Rare
 
 artist: Scott Altmann
 
+variation: []
+
 flavor: "\"Faster, faster, faster! I'm not paying you to sit around all day.\""
 
-variation: []
+oracle: exxi-the-windshaper-worldbreaker-171
+
+set: Worldbreaker

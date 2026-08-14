@@ -1,0 +1,27 @@
+name: Andrew Ulric
+
+origin: worldbreaker-131
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Aberration
+
+regulation:
+
+errata: []
+
+temp: Worgen Priest

@@ -1,0 +1,17 @@
+name: Sunken Treasure
+
+origin: heroes-of-azeroth-358
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : Put target equipment card from your graveyard into your hand.'
+
+regulation:
+
+errata: []
+
+temp: ''

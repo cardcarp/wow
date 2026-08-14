@@ -1,0 +1,19 @@
+name: Break in the Action
+
+origin: onyxias-lair-event-003
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Each player draws a card.
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,22 @@
+name: Command of Undeath
+
+origin: war-of-the-elements-024
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: Put target opposing equipment on the bottom of its owner's deck. If you do, your hero deals 4 shadow damage to its controller's hero.
+
+regulation:
+
+errata: []
+
+temp: Unholy

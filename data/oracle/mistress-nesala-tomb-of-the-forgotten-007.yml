@@ -1,0 +1,20 @@
+name: Mistress Nesala
+
+origin: tomb-of-the-forgotten-007
+
+layout: transform
+
+category: Hero
+
+type: Monster
+
+rule:
+  - type: ability
+    position: front
+    text: "Deckbuilding: You can't put , , or Talent cards in your deck."
+
+regulation:
+
+errata: []
+
+temp: Succubus Demon Rogue Warlock 25

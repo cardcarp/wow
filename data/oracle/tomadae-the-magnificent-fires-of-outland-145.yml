@@ -1,0 +1,27 @@
+name: Tomadae the Magnificent
+
+origin: fires-of-outland-145
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: If your hero would deal damage with an ability, it deals that much +1 instead.
+
+regulation:
+
+errata: []
+
+temp: Draenei Mage

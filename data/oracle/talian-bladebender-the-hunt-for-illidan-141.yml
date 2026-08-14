@@ -1,0 +1,27 @@
+name: Talian Bladebender
+
+origin: the-hunt-for-illidan-141
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Opponents can't strike with weapons.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

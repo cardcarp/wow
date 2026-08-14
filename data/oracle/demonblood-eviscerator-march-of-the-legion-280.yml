@@ -1,0 +1,24 @@
+name: Demonblood Eviscerator
+
+origin: march-of-the-legion-280
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Warrior
+  - Shaman
+  - Rogue
+
+instant: Your hero has Dual Wield .
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Fist

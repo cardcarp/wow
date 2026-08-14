@@ -1,13 +1,13 @@
-oracle: whiteout
-
-lex: '008'
-
-set: jaina
+index: '008'
 
 rarity: Uncommon
 
 artist: Chris Seaman
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: whiteout-icecrown-045
+
+set: Jaina

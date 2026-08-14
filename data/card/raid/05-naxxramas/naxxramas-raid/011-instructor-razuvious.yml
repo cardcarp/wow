@@ -1,14 +1,14 @@
-oracle: instructor-razuvious
-
-lex: '011'
-
-set: naxxramas-raid
+index: '011'
 
 rarity: Rare
 
 artist: Chris Seaman
 
-flavor: '"Sweep the leg! Do you have a problem with that?"'
-
 variation:
   - transform
+
+flavor: '"Sweep the leg! Do you have a problem with that?"'
+
+oracle: instructor-razuvious-naxxramas-raid-011
+
+set: Naxxramas Raid

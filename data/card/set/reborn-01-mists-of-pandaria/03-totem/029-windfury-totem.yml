@@ -1,13 +1,13 @@
-oracle: windfury-totem
-
-lex: '029'
-
-set: totem
+index: '029'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: windfury-totem-heroes-of-azeroth-118
+
+set: Totem

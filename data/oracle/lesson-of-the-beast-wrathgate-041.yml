@@ -1,0 +1,22 @@
+name: Lesson of the Beast
+
+origin: wrathgate-041
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+instant: You may exhaust a non-hero Hunter you control rather than pay this ability's cost. Target Pet you control deals melee damage equal to its ATK to target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery

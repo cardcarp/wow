@@ -1,0 +1,29 @@
+name: Talasite Owl
+
+origin: azeroth-crafting-014
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Priest
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: Jewelcrafting Hero Required → Put a hoot counter on Talasite Owl. , Remove X hoot counters, destroy Talasite Owl → Ready X of your resources.
+
+regulation:
+
+errata: []
+
+temp: Item Figurine

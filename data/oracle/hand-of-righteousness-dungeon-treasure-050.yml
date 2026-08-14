@@ -1,0 +1,25 @@
+name: Hand of Righteousness
+
+origin: dungeon-treasure-050
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: 1 → Damage that target hero or ally would deal this turn is unpreventable.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

@@ -1,0 +1,27 @@
+name: Bretander of the Claw
+
+origin: through-the-dark-portal-156
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector , Stealth
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

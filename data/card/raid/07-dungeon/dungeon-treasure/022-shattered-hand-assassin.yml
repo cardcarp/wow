@@ -1,13 +1,13 @@
-oracle: shattered-hand-assassin
-
-lex: '022'
-
-set: dungeon-treasure
+index: '022'
 
 rarity: Common
 
 artist: Jim Nelson
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: shattered-hand-assassin-dungeon-treasure-022
+
+set: Dungeon Treasure

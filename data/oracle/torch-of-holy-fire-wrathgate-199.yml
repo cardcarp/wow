@@ -1,0 +1,25 @@
+name: Torch of Holy Fire
+
+origin: wrathgate-199
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: 1 , Exhaust your hero → Reveal a random card from your hand. If it's a card, your hero deals 2 unpreventable holy damage to target hero or ally and heals 2 damage from itself.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

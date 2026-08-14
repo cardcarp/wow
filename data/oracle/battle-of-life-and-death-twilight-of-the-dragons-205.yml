@@ -1,0 +1,17 @@
+name: Battle of Life and Death
+
+origin: twilight-of-the-dragons-205
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'You pay 1 less to complete this quest for each damaged hero and ally. On your turn: Pay 6 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

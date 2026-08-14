@@ -1,0 +1,22 @@
+name: Zenith Shadowforce
+
+origin: through-the-dark-portal-009
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Zenith Shadowforce → Turn target opposing hero face down.
+
+regulation:
+
+errata: []
+
+temp: Human Warlock

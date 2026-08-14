@@ -1,0 +1,22 @@
+name: Blind
+
+origin: march-of-the-legion-080
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+instant: Target player can't play cards this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Subtlety

@@ -1,0 +1,28 @@
+name: Mothra
+
+origin: wrathgate-043
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 7
+
+combat: Melee
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Protector When this ally exhausts, ready up to three resources you control.
+
+regulation:
+
+errata: []
+
+temp: Moth

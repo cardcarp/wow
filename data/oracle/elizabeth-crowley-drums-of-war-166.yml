@@ -1,0 +1,27 @@
+name: Elizabeth Crowley
+
+origin: drums-of-war-166
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 2 , Discard a card → Elizabeth heals 4 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Undead Priest

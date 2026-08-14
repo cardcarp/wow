@@ -1,0 +1,27 @@
+name: Mechanical Greench
+
+origin: feast-of-winter-veil-2012-003
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: If this ally would deal damage to a hero, it deals double that much instead.
+
+regulation:
+
+errata: []
+
+temp: Mechanical

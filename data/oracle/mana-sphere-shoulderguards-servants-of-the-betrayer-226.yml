@@ -1,0 +1,23 @@
+name: Mana-Sphere Shoulderguards
+
+origin: servants-of-the-betrayer-226
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+
+rule:
+  - type: ability
+    text: When an opponent discards a card, your hero deals 1 shadow damage to each hero and ally in that opponent's party.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

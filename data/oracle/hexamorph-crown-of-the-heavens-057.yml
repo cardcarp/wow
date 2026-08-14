@@ -1,0 +1,23 @@
+name: Hexamorph
+
+origin: crown-of-the-heavens-057
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+  - Mage
+
+instant: Target ally loses and can't have powers this turn. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane Elemental

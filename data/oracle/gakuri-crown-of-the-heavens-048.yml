@@ -1,0 +1,30 @@
+name: Gakuri
+
+origin: crown-of-the-heavens-048
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Fire
+
+class:
+  - Warlock
+
+type: Monster
+
+rule:
+  - type: ability
+    text: ', Destroy another Monster or Demon ally you control → This ally deals 4 fire damage to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Imp Demon

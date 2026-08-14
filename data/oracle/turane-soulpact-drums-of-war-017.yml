@@ -1,0 +1,22 @@
+name: Turane Soulpact
+
+origin: drums-of-war-017
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 'On your turn: 3 , Flip Turane, destroy X allies in your party → Turane deals X shadow damage to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Warlock

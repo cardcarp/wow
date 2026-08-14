@@ -1,0 +1,22 @@
+name: Infusion of Fortitude
+
+origin: march-of-the-legion-071
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +3 health.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Discipline

@@ -1,0 +1,26 @@
+name: Cookies Tenderizer
+
+origin: dungeon-treasure-048
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Warrior
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Shaman
+
+rule:
+  - type: ability
+    text: When your hero deals combat damage to a hero or ally with this weapon, allies you control have +1 ATK while attacking that character this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

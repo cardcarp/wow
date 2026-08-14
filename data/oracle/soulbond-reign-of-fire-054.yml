@@ -1,0 +1,22 @@
+name: Soulbond
+
+origin: reign-of-fire-054
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warlock
+
+instant: "Attach to target Demon ally. Ongoing : If your hero would be dealt damage, it's dealt to attached ally instead."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Demonology Attachment

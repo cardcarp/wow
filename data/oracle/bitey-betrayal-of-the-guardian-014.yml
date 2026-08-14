@@ -1,0 +1,30 @@
+name: Bitey
+
+origin: betrayal-of-the-guardian-014
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 7
+
+health: 5
+
+combat: Melee
+
+class:
+  - Hunter
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Smash
+
+regulation:
+
+errata: []
+
+temp: Cat Beast

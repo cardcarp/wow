@@ -1,0 +1,31 @@
+name: Bottled Death
+
+origin: throne-of-the-tides-230
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'When this item enters play, target ally has -2 this turn. On your turn: Exhaust a Death Knight hero or ally you control and destroy this item → Target ally has -2 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Item Potion

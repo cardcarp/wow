@@ -1,0 +1,27 @@
+name: Dastrin Bowman
+
+origin: throne-of-the-tides-102
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Pets you control have Long-Range .
+
+regulation:
+
+errata: []
+
+temp: Human Hunter

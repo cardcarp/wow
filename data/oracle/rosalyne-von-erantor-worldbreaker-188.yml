@@ -1,0 +1,27 @@
+name: Rosalyne von Erantor
+
+origin: worldbreaker-188
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 3
+
+health: 2
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When this ally enters play, she deals 3 fire damage to your hero.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

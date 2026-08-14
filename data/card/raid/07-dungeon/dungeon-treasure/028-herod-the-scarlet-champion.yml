@@ -1,13 +1,13 @@
-oracle: herod-the-scarlet-champion
-
-lex: '028'
-
-set: dungeon-treasure
+index: '028'
 
 rarity: Uncommon
 
 artist: Gabor Szikszai
 
+variation: []
+
 flavor: '"Blades of Light!"'
 
-variation: []
+oracle: herod-the-scarlet-champion-dungeon-treasure-028
+
+set: Dungeon Treasure

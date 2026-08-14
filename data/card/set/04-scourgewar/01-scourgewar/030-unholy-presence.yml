@@ -1,13 +1,13 @@
-oracle: unholy-presence
-
-lex: '030'
-
-set: scourgewar
+index: '030'
 
 rarity: Common
 
 artist: Alan Pollack
 
+variation: []
+
 flavor: '"Embrace death, and the heavy burden of life will be lessened." - Ahkara'
 
-variation: []
+oracle: unholy-presence-scourgewar-030
+
+set: Scourgewar

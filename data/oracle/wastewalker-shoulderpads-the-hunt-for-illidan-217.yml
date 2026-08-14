@@ -1,0 +1,23 @@
+name: Wastewalker Shoulderpads
+
+origin: the-hunt-for-illidan-217
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: When your hero attacks, you may exhaust target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

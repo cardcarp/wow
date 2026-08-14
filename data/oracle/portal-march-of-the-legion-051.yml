@@ -1,0 +1,22 @@
+name: Portal
+
+origin: march-of-the-legion-051
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Search your deck for an ally card, reveal it, and put it into your hand.
+
+regulation:
+
+errata: []
+
+temp: Arcane

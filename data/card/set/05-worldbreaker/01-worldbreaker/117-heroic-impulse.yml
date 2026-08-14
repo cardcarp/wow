@@ -1,13 +1,13 @@
-oracle: heroic-impulse
-
-lex: '117'
-
-set: worldbreaker
+index: '117'
 
 rarity: Common
 
 artist: Christopher Moeller
 
+variation: []
+
 flavor: '"Quickly, get behind me!" - Jai Dawnsteel'
 
-variation: []
+oracle: heroic-impulse-worldbreaker-117
+
+set: Worldbreaker

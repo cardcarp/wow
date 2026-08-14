@@ -1,0 +1,25 @@
+name: Azjol-anak Acidslinger
+
+origin: scourgewar-201
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Nature
+
+rule:
+  - type: ability
+    text: Nerubian Reputation This ally has +1 / +1 while an equipment is in your graveyard.
+
+regulation:
+
+errata: []
+
+temp: Nerubian

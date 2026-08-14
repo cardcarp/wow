@@ -1,0 +1,23 @@
+name: Krol Blade
+
+origin: heroes-of-azeroth-331
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Paladin
+  - Priest
+  - Warrior
+  - Hunter
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

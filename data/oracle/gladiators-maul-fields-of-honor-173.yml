@@ -1,0 +1,22 @@
+name: Gladiators Maul
+
+origin: fields-of-honor-173
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: You can place the top card of your deck face down (as your one resource per turn) .
+
+regulation:
+
+errata: []
+
+temp: 2H Arena Weapon Mace

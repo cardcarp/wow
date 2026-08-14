@@ -1,13 +1,13 @@
-oracle: phantom-armor
-
-lex: '040'
-
-set: dungeon-treasure
+index: '040'
 
 rarity: Common
 
 artist: Luca Zontini
 
+variation: []
+
 flavor: '"You shall annoy me no longer!" - Lord Walden'
 
-variation: []
+oracle: phantom-armor-dungeon-treasure-040
+
+set: Dungeon Treasure

@@ -1,0 +1,27 @@
+name: Tallie Sprinklelight
+
+origin: throne-of-the-tides-128
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 4
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Mend 1
+
+regulation:
+
+errata: []
+
+temp: Gnome Priest

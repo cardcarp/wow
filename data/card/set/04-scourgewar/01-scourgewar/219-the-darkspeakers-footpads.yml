@@ -1,13 +1,13 @@
-oracle: the-darkspeakers-footpads
-
-lex: '219'
-
-set: scourgewar
+index: '219'
 
 rarity: Common
 
 artist: Scott Altmann
 
+variation: []
+
 flavor: Be careful of your actions, for Yogg-Saron can penetrate even the most resolute minds.
 
-variation: []
+oracle: the-darkspeakers-footpads-scourgewar-219
+
+set: Scourgewar

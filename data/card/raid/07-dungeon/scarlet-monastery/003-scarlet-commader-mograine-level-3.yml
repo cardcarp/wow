@@ -1,13 +1,13 @@
-oracle: scarlet-commader-mograine-level-3
-
-lex: '003'
-
-set: scarlet-monastery
+index: '003'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: scarlet-commader-mograine-level-3-scarlet-monastery-003
+
+set: Scarlet Monastery

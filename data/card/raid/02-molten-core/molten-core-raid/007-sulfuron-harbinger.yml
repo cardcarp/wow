@@ -1,14 +1,14 @@
-oracle: sulfuron-harbinger
-
-lex: '007'
-
-set: molten-core-raid
+index: '007'
 
 rarity: Rare
 
 artist: Eric Browning
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: sulfuron-harbinger-molten-core-raid-007
+
+set: Molten Core Raid

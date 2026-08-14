@@ -1,13 +1,13 @@
-oracle: crushing-strike
-
-lex: '114'
-
-set: worldbreaker
+index: '114'
 
 rarity: Common
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: '"Armor can do only so much." - Peter Hottelet'
 
-variation: []
+oracle: crushing-strike-worldbreaker-114
+
+set: Worldbreaker

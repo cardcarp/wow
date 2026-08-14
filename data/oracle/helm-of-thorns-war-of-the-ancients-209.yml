@@ -1,0 +1,23 @@
+name: Helm of Thorns
+
+origin: war-of-the-ancients-209
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: 1 → Exhaust target ally with cost 2 or less.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

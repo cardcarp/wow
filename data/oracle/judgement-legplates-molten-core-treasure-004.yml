@@ -1,0 +1,22 @@
+name: Judgement Legplates
+
+origin: molten-core-treasure-004
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: When you play a ability, you may pay 1 . If you do, prevent all damage that would be dealt to and dealt by target friendly ally this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

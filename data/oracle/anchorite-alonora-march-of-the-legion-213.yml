@@ -1,0 +1,25 @@
+name: Anchorite Alonora
+
+origin: march-of-the-legion-213
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Holy
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Inspire: Ally'
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

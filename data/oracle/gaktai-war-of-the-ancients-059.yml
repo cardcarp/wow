@@ -1,0 +1,30 @@
+name: Gaktai
+
+origin: war-of-the-ancients-059
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 1
+
+combat: Fire
+
+class:
+  - Warlock
+
+type: Monster
+
+rule:
+  - type: ability
+    text: When this ally enters play, you may put 2 damage on your hero. If you do, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Imp Demon

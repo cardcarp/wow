@@ -1,0 +1,23 @@
+name: Lava Bolt Crossbow
+
+origin: tomb-of-the-forgotten-189
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Hunter
+  - Rogue
+
+rule:
+  - type: ability
+    text: Long-Range
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Crossbow

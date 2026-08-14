@@ -1,13 +1,13 @@
-oracle: frost-nova
-
-lex: '008'
-
-set: hogger-demo
+index: '008'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: frost-nova-heroes-of-azeroth-055
+
+set: Hogger Demo

@@ -1,0 +1,27 @@
+name: Rioriel Whitefeather
+
+origin: caverns-of-time-treasure-045
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 2
+
+health: 2
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Haste 2 When this ally enters play, he heals 2 damage from target hero or ally. When this ally deals damage to a hero, you may return him to his owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

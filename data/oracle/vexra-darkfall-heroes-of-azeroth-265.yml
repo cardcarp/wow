@@ -1,0 +1,27 @@
+name: Vexra Darkfall
+
+origin: heroes-of-azeroth-265
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 2
+
+combat: Arcane
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Vexra Darkfall is destroyed, she deals 1 arcane damage to target hero for each card in its controller's hand.
+
+regulation:
+
+errata: []
+
+temp: Undead Mage

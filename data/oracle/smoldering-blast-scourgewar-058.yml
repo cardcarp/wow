@@ -1,0 +1,22 @@
+name: Smoldering Blast
+
+origin: scourgewar-058
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Ongoing : Destroy this ability → Your hero deals 3 fire damage to target ally.'
+
+regulation:
+
+errata: []
+
+temp: Fire

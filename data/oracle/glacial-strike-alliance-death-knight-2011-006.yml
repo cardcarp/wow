@@ -1,0 +1,22 @@
+name: Glacial Strike
+
+origin: alliance-death-knight-2011-006
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: Your hero deals 5 frost damage to target ally.
+
+regulation:
+
+errata: []
+
+temp: Frost

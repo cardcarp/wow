@@ -1,13 +1,13 @@
-oracle: baron-silverlaine
-
-lex: '006'
-
-set: shadowfang-keep
+index: '006'
 
 rarity: Common
 
 artist: Slawomir Maniak
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: baron-silverlaine-shadowfang-keep-006
+
+set: Shadowfang Keep

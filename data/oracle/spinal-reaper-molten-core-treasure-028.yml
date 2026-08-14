@@ -1,0 +1,23 @@
+name: Spinal Reaper
+
+origin: molten-core-treasure-028
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: When your hero deals fatal combat damage with Spinal Reaper, draw a card.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Axe

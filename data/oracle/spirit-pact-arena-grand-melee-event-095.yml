@@ -1,0 +1,17 @@
+name: Spirit Pact
+
+origin: arena-grand-melee-event-095
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: "Ongoing : If a card would be destroyed, put it into its owner's hand instead."
+
+regulation:
+
+errata: []
+
+temp: ''

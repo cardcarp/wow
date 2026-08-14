@@ -1,0 +1,27 @@
+name: Ellie Tinkervoid
+
+origin: battle-of-the-aspects-treasure-033
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, discard a card. When this ally leaves play, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

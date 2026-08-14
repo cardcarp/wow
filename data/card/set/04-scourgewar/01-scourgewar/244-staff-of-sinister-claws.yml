@@ -1,13 +1,13 @@
-oracle: staff-of-sinister-claws
-
-lex: '244'
-
-set: scourgewar
+index: '244'
 
 rarity: Uncommon
 
 artist: Volkan Baga
 
+variation: []
+
 flavor: An ancient weapon bestowed with the powers of an ancient evil.
 
-variation: []
+oracle: staff-of-sinister-claws-scourgewar-244
+
+set: Scourgewar

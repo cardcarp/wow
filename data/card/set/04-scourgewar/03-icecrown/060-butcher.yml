@@ -1,13 +1,13 @@
-oracle: butcher
-
-lex: '060'
-
-set: icecrown
+index: '060'
 
 rarity: Uncommon
 
 artist: Android
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: butcher-icecrown-060
+
+set: Icecrown

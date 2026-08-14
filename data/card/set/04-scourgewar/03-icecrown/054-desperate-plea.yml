@@ -1,13 +1,13 @@
-oracle: desperate-plea
-
-lex: '054'
-
-set: icecrown
+index: '054'
 
 rarity: Common
 
 artist: Steve Tappin
 
+variation: []
+
 flavor: '"If you can buy me just a moment, I will be as good as new." - Marta Spires'
 
-variation: []
+oracle: desperate-plea-icecrown-054
+
+set: Icecrown

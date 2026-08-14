@@ -1,13 +1,13 @@
-oracle: buzzer-blade
-
-lex: '047'
-
-set: dungeon-treasure
+index: '047'
 
 rarity: Uncommon
 
 artist: Matt Dixon
 
+variation: []
+
 flavor: '"Sploded dat one!" - Glubtok'
 
-variation: []
+oracle: buzzer-blade-dungeon-treasure-047
+
+set: Dungeon Treasure

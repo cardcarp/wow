@@ -1,13 +1,13 @@
-oracle: babagahnoosh-the-grumpy
-
-lex: '165'
-
-set: icecrown
+index: '165'
 
 rarity: Epic
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: '"Out of my way - I have important matters to attend to!"'
 
-variation: []
+oracle: babagahnoosh-the-grumpy-icecrown-165
+
+set: Icecrown

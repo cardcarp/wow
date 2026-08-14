@@ -1,0 +1,27 @@
+name: Savis Cindur
+
+origin: worldbreaker-158
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 1
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Aberration Ferocity
+
+regulation:
+
+errata: []
+
+temp: Worgen Warlock

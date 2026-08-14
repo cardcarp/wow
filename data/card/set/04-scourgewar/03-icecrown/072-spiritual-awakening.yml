@@ -1,13 +1,13 @@
-oracle: spiritual-awakening
-
-lex: '072'
-
-set: icecrown
+index: '072'
 
 rarity: Rare
 
 artist: James Zhang
 
+variation: []
+
 flavor: '"The elements are not yet ready to receive me. How unfortunate for you." - Earthmender Vaaki'
 
-variation: []
+oracle: spiritual-awakening-icecrown-072
+
+set: Icecrown

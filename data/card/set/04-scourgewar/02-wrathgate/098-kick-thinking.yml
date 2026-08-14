@@ -1,13 +1,13 @@
-oracle: kick-thinking
-
-lex: '098'
-
-set: wrathgate
+index: '098'
 
 rarity: Uncommon
 
 artist: Dan Scott
 
+variation: []
+
 flavor: '"Sharp reflexes are good, but a sharp mind is better." - Cerripha Sunstreak'
 
-variation: []
+oracle: kick-thinking-wrathgate-098
+
+set: Wrathgate

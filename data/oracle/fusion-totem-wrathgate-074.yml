@@ -1,0 +1,22 @@
+name: Fusion Totem
+
+origin: wrathgate-074
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: '1 , Exhaust a Totem you control → Air : Exhaust target ally. Earth : Target ally has Assault 2 this turn. Fire : It deals 2 fire damage to target ally. Water : Target player draws a card.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental 1

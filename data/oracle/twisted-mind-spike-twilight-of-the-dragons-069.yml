@@ -1,0 +1,22 @@
+name: Twisted Mind Spike
+
+origin: twilight-of-the-dragons-069
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: As an additional cost to play this ability, destroy an ability, ally, or equipment you control. Your hero deals 3 shadow damage to target ally. Then, its controller discards a card.
+
+regulation:
+
+errata: []
+
+temp: Shadow

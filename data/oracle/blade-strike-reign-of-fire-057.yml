@@ -1,0 +1,22 @@
+name: Blade Strike
+
+origin: reign-of-fire-057
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: Your hero deals 2 melee damage to target ally for each equipment you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arms

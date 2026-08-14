@@ -1,0 +1,27 @@
+name: Sha'kar
+
+origin: servants-of-the-betrayer-178
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 4
+
+health: 2
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: If your hero has dealt fire ( ), frost ( ), or nature ( ) damage this turn, Sha'kar has Ferocity .
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

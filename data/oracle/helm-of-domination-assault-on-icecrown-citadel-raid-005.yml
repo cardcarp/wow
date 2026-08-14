@@ -1,0 +1,19 @@
+name: Helm of Domination
+
+origin: assault-on-icecrown-citadel-raid-005
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+rule:
+  - type: ability
+    text: "Leader of the Scourge : Once per turn: 1 → Target ally has Ferocity this turn. Death Rattle : Put this armor into its owner's hand."
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

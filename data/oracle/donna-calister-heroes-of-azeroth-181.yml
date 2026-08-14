@@ -1,0 +1,27 @@
+name: Donna Calister
+
+origin: heroes-of-azeroth-181
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 1
+
+health: 7
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Protector When an opposing hero or ally attacks, ready Donna Calister.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

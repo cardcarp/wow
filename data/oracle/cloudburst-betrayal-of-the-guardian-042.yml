@@ -1,0 +1,22 @@
+name: Cloudburst
+
+origin: betrayal-of-the-guardian-042
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: Your hero heals 4 damage from each hero and ally you control. Put up to one card from your graveyard into your hand for each character healed for 1 or more damage this way. Remove this card from the game.
+
+regulation:
+
+errata: []
+
+temp: Restoration

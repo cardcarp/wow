@@ -1,0 +1,17 @@
+name: Finishing Move
+
+origin: arena-grand-melee-event-034
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: You may exchange seats with another player. That player continues your turn and the game with your cards, and you continue the game with his cards (including deck, graveyard, hand, and cards in play) .
+
+regulation:
+
+errata: []
+
+temp: ''

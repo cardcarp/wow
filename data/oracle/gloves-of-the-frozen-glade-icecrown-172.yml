@@ -1,0 +1,23 @@
+name: Gloves of the Frozen Glade
+
+origin: icecrown-172
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: '3 , → Ready your hero and all Melee weapons you control. Death Rattle : Your hero has Stealth this turn.'
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

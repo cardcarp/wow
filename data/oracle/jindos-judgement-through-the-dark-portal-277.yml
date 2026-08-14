@@ -1,0 +1,26 @@
+name: Jin'dos Judgement
+
+origin: through-the-dark-portal-277
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: When a player draws a card, put 1 damage on that player's hero.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

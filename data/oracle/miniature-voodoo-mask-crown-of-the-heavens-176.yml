@@ -1,0 +1,24 @@
+name: Miniature Voodoo Mask
+
+origin: crown-of-the-heavens-176
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: As this item enters play, name an ability or equipment with cost 3 or less. Opposing cards in play with the chosen name lose and can't have powers.
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

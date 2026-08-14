@@ -1,0 +1,22 @@
+name: Bombard
+
+origin: scourgewar-041
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+instant: Destroy all abilities, allies, and equipment that entered play this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

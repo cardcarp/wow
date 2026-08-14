@@ -1,0 +1,27 @@
+name: Crackling Staff
+
+origin: fields-of-honor-183
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+faction: Alliance
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: When a ally is dealt nature or damage, destroy it.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

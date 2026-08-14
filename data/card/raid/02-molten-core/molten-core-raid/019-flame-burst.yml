@@ -1,13 +1,13 @@
-oracle: flame-burst
-
-lex: '019'
-
-set: molten-core-raid
+index: '019'
 
 rarity: Common
 
 artist: Jeff Miracola
 
+variation: []
+
 flavor: In the depths of the Molten Core, you're well advised to watch your step.
 
-variation: []
+oracle: flame-burst-molten-core-raid-019
+
+set: Molten Core Raid

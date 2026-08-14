@@ -1,0 +1,27 @@
+name: Brimi Tinkerblade
+
+origin: war-of-the-elements-110
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'On your turn: 3 , Destroy this ally → Destroy target equipment with cost 4 or less.'
+
+regulation:
+
+errata: []
+
+temp: Gnome Rogue

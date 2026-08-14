@@ -1,13 +1,13 @@
-oracle: varandas-silverleaf
-
-lex: '161'
-
-set: worldbreaker
+index: '161'
 
 rarity: Uncommon
 
 artist: Zoltan Boros & Gabor Szikszai
 
+variation: []
+
 flavor: '"It will take all we have to drive the Firelord back from Nordrassil."'
 
-variation: []
+oracle: varandas-silverleaf-worldbreaker-161
+
+set: Worldbreaker

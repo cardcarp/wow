@@ -1,0 +1,27 @@
+name: Defender Kaniya
+
+origin: drums-of-war-164
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Nature Resistance
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

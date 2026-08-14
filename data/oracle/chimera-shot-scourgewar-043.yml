@@ -1,0 +1,22 @@
+name: Chimera Shot
+
+origin: scourgewar-043
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'Marksmanship Hero Required You may choose a different one for each different name among Stings you control: Destroy target ally; destroy target equipment; or destroy target resource.'
+
+regulation:
+
+errata: []
+
+temp: Marksmanship Talent

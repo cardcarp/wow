@@ -1,13 +1,13 @@
-oracle: scarlet-champion
-
-lex: '015'
-
-set: scarlet-monastery
+index: '015'
 
 rarity: Common
 
 artist: Ralph Horsley
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: scarlet-champion-scarlet-monastery-015
+
+set: Scarlet Monastery

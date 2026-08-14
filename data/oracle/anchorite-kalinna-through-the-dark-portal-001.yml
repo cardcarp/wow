@@ -1,0 +1,22 @@
+name: Anchorite Kalinna
+
+origin: through-the-dark-portal-001
+
+layout: transform
+
+category: Hero
+
+health: 26
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: x , Flip Anchorite Kalinna → Destroy target ability with cost X.
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

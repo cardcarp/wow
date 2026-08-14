@@ -1,13 +1,13 @@
-oracle: stormstrike-mace
-
-lex: '199'
-
-set: icecrown
+index: '199'
 
 rarity: Rare
 
 artist: Fred Fields
 
+variation: []
+
 flavor: '"When you strike with it, you will feel as fast as lightning." - Ringleader Kuma'
 
-variation: []
+oracle: stormstrike-mace-icecrown-199
+
+set: Icecrown

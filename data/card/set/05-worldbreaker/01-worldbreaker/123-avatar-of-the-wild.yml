@@ -1,13 +1,13 @@
-oracle: avatar-of-the-wild
-
-lex: '123'
-
-set: worldbreaker
+index: '123'
 
 rarity: Epic
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: '"Rise, great hunter, and feast!" - Amaria Kelur'
 
-variation: []
+oracle: avatar-of-the-wild-worldbreaker-123
+
+set: Worldbreaker

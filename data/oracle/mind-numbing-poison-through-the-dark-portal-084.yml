@@ -1,0 +1,22 @@
+name: Mind-numbing Poison
+
+origin: through-the-dark-portal-084
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+instant: "Attach to target hero that was dealt combat damage by your hero this turn. Ongoing : At the start of attached hero's controller's turn, that player exhausts one of his ready resources."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Poison

@@ -1,13 +1,13 @@
-oracle: blood-in-the-water-scarlet-monastery
-
-lex: '022'
-
-set: scarlet-monastery
+index: '022'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: blood-in-the-water-scarlet-monastery-scarlet-monastery-022
+
+set: Scarlet Monastery

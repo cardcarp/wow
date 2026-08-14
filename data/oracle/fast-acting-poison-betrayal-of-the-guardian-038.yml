@@ -1,0 +1,22 @@
+name: Fast-Acting Poison
+
+origin: betrayal-of-the-guardian-038
+
+layout: standard
+
+category: Ability
+
+cost: '0'
+
+class:
+  - Rogue
+
+instant: 'Attach to target hero or ally that was dealt combat damage by your hero this turn. Ongoing : At the start of your turn, your hero deals 1 nature damage to attached character.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Assassination Poison Attachment

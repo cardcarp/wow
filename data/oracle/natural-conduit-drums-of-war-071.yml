@@ -1,0 +1,22 @@
+name: Natural Conduit
+
+origin: drums-of-war-071
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+instant: Your hero deals 3 nature damage to target ally and heals 3 damage from itself.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental

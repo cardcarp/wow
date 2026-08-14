@@ -1,13 +1,13 @@
-oracle: flint-shadowmore
-
-lex: '133'
-
-set: scourgewar
+index: '133'
 
 rarity: Epic
 
 artist: Ralph Horsley
 
+variation: []
+
 flavor: '"Nathanos must pay for what he has done to the other SI:7 agents."'
 
-variation: []
+oracle: flint-shadowmore-scourgewar-133
+
+set: Scourgewar

@@ -1,13 +1,13 @@
-oracle: plasu
-
-lex: '152'
-
-set: scourgewar
+index: '152'
 
 rarity: Common
 
 artist: Leonard Boyarski
 
+variation: []
+
 flavor: '"The plague of undeath must be stopped here and now."'
 
-variation: []
+oracle: plasu-scourgewar-152
+
+set: Scourgewar

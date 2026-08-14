@@ -1,0 +1,22 @@
+name: Backstab
+
+origin: heroes-of-azeroth-091
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+instant: Your hero deals melee damage to target exhausted hero or ally equal to 3 plus the ATK of a Dagger you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Combat Combo

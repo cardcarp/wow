@@ -1,0 +1,27 @@
+name: Night Elf Swiftblade
+
+origin: betrayal-of-the-guardian-085
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Haste 2
+
+regulation:
+
+errata: []
+
+temp: Night Elf Rogue

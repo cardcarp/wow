@@ -1,0 +1,22 @@
+name: Curse of the Elements
+
+origin: fields-of-honor-070
+
+layout: standard
+
+category: Ability
+
+cost: '7'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: "Attach to target hero. Ongoing : If attached hero would be dealt fire, frost, or nature damage, it's dealt that much +3 instead."
+
+regulation:
+
+errata: []
+
+temp: Affliction Curse

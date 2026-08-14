@@ -1,13 +1,13 @@
-oracle: fusion-totem
-
-lex: '074'
-
-set: wrathgate
+index: '074'
 
 rarity: Uncommon
 
 artist: Yang Jialun (Massive Black)
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: fusion-totem-wrathgate-074
+
+set: Wrathgate

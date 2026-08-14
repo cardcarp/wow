@@ -1,0 +1,17 @@
+name: Wanton Warlord
+
+origin: wrathgate-217
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Exhaust four cards you control to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

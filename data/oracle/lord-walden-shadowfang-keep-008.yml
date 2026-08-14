@@ -1,0 +1,25 @@
+name: Lord Walden
+
+origin: shadowfang-keep-008
+
+layout: standard
+
+category: Ally
+
+damage: 3
+
+health: 11
+
+combat: Frost
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: 'Boss Mystery Toxin : When Walden attacks, randomly determine if Walden deals 3 nature damage to each exhausted Raiding ally or Walden deals 3 frost damage to each ready Raiding ally.'
+
+regulation:
+
+errata: []
+
+temp: Undead Mage

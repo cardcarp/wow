@@ -1,0 +1,22 @@
+name: Defensive Stance
+
+origin: heroes-of-azeroth-139
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Ongoing : Your hero has Protector . If your hero would deal damage, prevent 1 of that damage. If your hero would be dealt damage, prevent 1 of that damage.'
+
+regulation:
+
+errata: []
+
+temp: Protection

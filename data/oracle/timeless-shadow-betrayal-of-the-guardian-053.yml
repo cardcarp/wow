@@ -1,0 +1,22 @@
+name: Timeless Shadow
+
+origin: betrayal-of-the-guardian-053
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warlock
+
+instant: Echo Target opponent chooses an ally he controls and puts it into its owner's hand.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Affliction

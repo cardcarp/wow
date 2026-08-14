@@ -1,0 +1,27 @@
+name: Child of Aviana
+
+origin: war-of-the-ancients-167
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 5
+
+health: 1
+
+combat: Nature
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Monster heroes can protect this ally.
+
+regulation:
+
+errata: []
+
+temp: Harpy Druid

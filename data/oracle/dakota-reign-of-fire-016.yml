@@ -1,0 +1,30 @@
+name: Dakota
+
+origin: reign-of-fire-016
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 8
+
+combat: Melee
+
+class:
+  - Hunter
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Your hero can't be destroyed.
+
+regulation:
+
+errata: []
+
+temp: Wolf Beast

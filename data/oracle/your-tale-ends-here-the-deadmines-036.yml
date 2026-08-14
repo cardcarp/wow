@@ -1,0 +1,19 @@
+name: '"Your Tale Ends Here!"'
+
+origin: the-deadmines-036
+
+layout: standard
+
+category: Ability
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: The Dungeon hero deals 1 melee damage to each Raiding ally for each Dungeon ally in play.
+
+regulation:
+
+errata: []
+
+temp: ''

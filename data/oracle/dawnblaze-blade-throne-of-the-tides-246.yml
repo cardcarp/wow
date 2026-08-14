@@ -1,0 +1,25 @@
+name: Dawnblaze Blade
+
+origin: throne-of-the-tides-246
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+  - Rogue
+
+rule:
+  - type: ability
+    text: At the start of your turn, you may add a +1 ATK counter to this weapon.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

@@ -1,13 +1,13 @@
-oracle: fel-geyser
-
-lex: '011'
-
-set: black-temple-raid
+index: '011'
 
 rarity: Uncommon
 
 artist: Massive Black
 
+variation: []
+
 flavor: Gurtogg Bloodboil's taste for destruction has a way of erupting onto his foes.
 
-variation: []
+oracle: fel-geyser-black-temple-raid-011
+
+set: Black Temple Raid

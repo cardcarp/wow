@@ -1,0 +1,22 @@
+name: Justice Blindburn
+
+origin: drums-of-war-011
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Blindburn → When the next ally you control is destroyed this turn, each opponent destroys an ally he controls.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

@@ -1,0 +1,27 @@
+name: Elistari Silverwind
+
+origin: betrayal-of-the-guardian-067
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 1
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Elusive → This ally deals 1 ranged damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

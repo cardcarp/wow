@@ -1,13 +1,13 @@
-oracle: scald
-
-lex: '050'
-
-set: wrathgate
+index: '050'
 
 rarity: Common
 
 artist: Tyler Walpole
 
+variation: []
+
 flavor: '"Some things are just too hot to handle." - Phosphus the Everburning'
 
-variation: []
+oracle: scald-wrathgate-050
+
+set: Wrathgate

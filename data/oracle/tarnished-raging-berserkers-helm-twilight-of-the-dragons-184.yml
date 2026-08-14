@@ -1,0 +1,23 @@
+name: Tarnished Raging Berserkers Helm
+
+origin: twilight-of-the-dragons-184
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'If this armor has three or more heirloom counters: → Ready up to three other target cards you control. Stash : Add an heirloom counter to target equipment you control.'
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

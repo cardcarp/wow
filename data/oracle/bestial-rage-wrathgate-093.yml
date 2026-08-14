@@ -1,0 +1,23 @@
+name: Bestial Rage
+
+origin: wrathgate-093
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'Ongoing : Your hero has Assault 1 for each Hunter and Warrior you control.'
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery Fury

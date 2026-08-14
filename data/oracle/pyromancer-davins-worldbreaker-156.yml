@@ -1,0 +1,27 @@
+name: Pyromancer Davins
+
+origin: worldbreaker-156
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 7
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: 'Aberration 1 → Target friendly ally has +2 / -2 this turn. Stash : Target friendly ally has +2 / -2 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Worgen Warlock

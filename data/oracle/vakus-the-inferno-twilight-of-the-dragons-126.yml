@@ -1,0 +1,27 @@
+name: Vakus the Inferno
+
+origin: twilight-of-the-dragons-126
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 4
+
+health: 1
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Aberration , Ferocity This ally can attack only heroes. At the end of your turn, destroy this ally.
+
+regulation:
+
+errata: []
+
+temp: Worgen Warlock

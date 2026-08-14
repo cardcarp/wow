@@ -1,13 +1,13 @@
-oracle: mograines-justice
-
-lex: '028'
-
-set: scarlet-monastery
+index: '028'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: mograines-justice-scarlet-monastery-028
+
+set: Scarlet Monastery

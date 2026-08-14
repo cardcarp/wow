@@ -1,0 +1,21 @@
+name: Medallion of the Horde
+
+origin: drums-of-war-220
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 1 , Put Medallion of the Horde on the bottom of your deck → Interrupt target ability card that's targeting your hero if it was played by an player. (This item can prevent damage like an armor.)
+
+regulation:
+
+errata: []
+
+temp: Item

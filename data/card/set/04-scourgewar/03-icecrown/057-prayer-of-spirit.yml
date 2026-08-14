@@ -1,13 +1,13 @@
-oracle: prayer-of-spirit
-
-lex: '057'
-
-set: icecrown
+index: '057'
 
 rarity: Uncommon
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: '"You can find inner harmony with a sound body, mind, and soul." - Boris Brightbeard'
 
-variation: []
+oracle: prayer-of-spirit-icecrown-057
+
+set: Icecrown

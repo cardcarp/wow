@@ -1,13 +1,13 @@
-oracle: blessing-of-the-templar
-
-lex: '046'
-
-set: icecrown
+index: '046'
 
 rarity: Rare
 
 artist: Clint Langley
 
+variation: []
+
 flavor: '"Remain devout in your faith to the Light, and you, too, shall be rewarded." - Auryna the Lightsworn'
 
-variation: []
+oracle: blessing-of-the-templar-icecrown-046
+
+set: Icecrown

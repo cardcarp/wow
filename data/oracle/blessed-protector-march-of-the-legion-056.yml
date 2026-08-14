@@ -1,0 +1,22 @@
+name: Blessed Protector
+
+origin: march-of-the-legion-056
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: Your hero has Protector this turn. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

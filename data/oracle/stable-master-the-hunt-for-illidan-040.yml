@@ -1,0 +1,22 @@
+name: Stable Master
+
+origin: the-hunt-for-illidan-040
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: 'Ongoing : You can control an additional Pet.'
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery

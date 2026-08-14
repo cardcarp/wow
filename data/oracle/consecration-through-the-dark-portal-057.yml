@@ -1,0 +1,22 @@
+name: Consecration
+
+origin: through-the-dark-portal-057
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Paladin
+
+instant: Your hero deals 2 unpreventable holy damage to each opposing hero and ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

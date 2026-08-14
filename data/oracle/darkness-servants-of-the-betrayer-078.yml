@@ -1,0 +1,22 @@
+name: Darkness
+
+origin: servants-of-the-betrayer-078
+
+layout: standard
+
+category: Ability
+
+cost: '7'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: Shadow Hero Required Target player discards his hand.
+
+regulation:
+
+errata: []
+
+temp: Shadow Talent

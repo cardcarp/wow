@@ -1,0 +1,22 @@
+name: Holy Fire
+
+origin: fires-of-outland-056
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: "Attach to target hero or ally, and your hero deals 2 holy damage to it. That damage can't be prevented. Ongoing : At the start of each turn, your hero deals 1 holy damage to attached character. That damage can't be prevented."
+
+regulation:
+
+errata: []
+
+temp: Holy

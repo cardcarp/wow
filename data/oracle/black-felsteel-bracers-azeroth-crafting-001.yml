@@ -1,0 +1,23 @@
+name: Black Felsteel Bracers
+
+origin: azeroth-crafting-001
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: → Put a +1 ATK counter on target weapon.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

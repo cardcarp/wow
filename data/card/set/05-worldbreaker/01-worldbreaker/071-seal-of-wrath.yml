@@ -1,13 +1,13 @@
-oracle: seal-of-wrath
-
-lex: '071'
-
-set: worldbreaker
+index: '071'
 
 rarity: Rare
 
 artist: Dan Scott
 
+variation: []
+
 flavor: '"Judgement comes for those who harm the innocent." - Rekwa Proudhorn'
 
-variation: []
+oracle: seal-of-wrath-worldbreaker-071
+
+set: Worldbreaker

@@ -1,0 +1,22 @@
+name: Ritual of Summoning
+
+origin: blood-of-gladiators-074
+
+layout: standard
+
+category: Ability
+
+cost: '8'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Ongoing : On your turn: Exhaust your hero and two allies in your party → Put an ally card from your collection into play.'
+
+regulation:
+
+errata: []
+
+temp: Demonology

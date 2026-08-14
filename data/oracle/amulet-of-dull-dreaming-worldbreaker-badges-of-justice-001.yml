@@ -1,0 +1,25 @@
+name: Amulet of Dull Dreaming
+
+origin: worldbreaker-badges-of-justice-001
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+  - Shaman
+  - Hunter
+  - Rogue
+
+rule:
+  - type: ability
+    text: At the start of your turn, you may put a resource you control into your hand.
+
+regulation:
+
+errata: []
+
+temp: Item Neck

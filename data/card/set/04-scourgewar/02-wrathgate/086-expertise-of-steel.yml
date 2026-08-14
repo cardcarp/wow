@@ -1,13 +1,13 @@
-oracle: expertise-of-steel
-
-lex: '086'
-
-set: wrathgate
+index: '086'
 
 rarity: Rare
 
 artist: Eric Deschamps
 
+variation: []
+
 flavor: '"Take great care in choosing your weapon, and you will be sure to find harmony with it in battle." - Indalamar'
 
-variation: []
+oracle: expertise-of-steel-wrathgate-086
+
+set: Wrathgate

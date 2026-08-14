@@ -1,0 +1,17 @@
+name: Archival Purposes
+
+origin: war-of-the-ancients-232
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 4 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

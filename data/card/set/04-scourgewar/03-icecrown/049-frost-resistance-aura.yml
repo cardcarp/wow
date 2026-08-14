@@ -1,13 +1,13 @@
-oracle: frost-resistance-aura
-
-lex: '049'
-
-set: icecrown
+index: '049'
 
 rarity: Common
 
 artist: Dan Scott
 
+variation: []
+
 flavor: '"Luckily, I came prepared for this frozen wasteland." - Kaerie, Defender of the Sunwell'
 
-variation: []
+oracle: frost-resistance-aura-icecrown-049
+
+set: Icecrown

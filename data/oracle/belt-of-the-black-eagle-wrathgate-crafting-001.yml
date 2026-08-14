@@ -1,0 +1,23 @@
+name: Belt of the Black Eagle
+
+origin: wrathgate-crafting-001
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: 1 , , Turn a resource you control face down → Look at the top two cards of your deck. Put one into your hand and the other into your graveyard.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

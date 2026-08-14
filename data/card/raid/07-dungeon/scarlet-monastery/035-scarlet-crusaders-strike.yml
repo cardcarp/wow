@@ -1,13 +1,13 @@
-oracle: scarlet-crusaders-strike
-
-lex: '035'
-
-set: scarlet-monastery
+index: '035'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: scarlet-crusaders-strike-scarlet-monastery-035
+
+set: Scarlet Monastery

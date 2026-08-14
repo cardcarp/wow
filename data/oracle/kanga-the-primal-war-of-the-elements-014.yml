@@ -1,0 +1,25 @@
+name: Kanga the Primal
+
+origin: war-of-the-elements-014
+
+layout: transform
+
+category: Hero
+
+health: 27
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 3 → Flip Kanga
+  - type: ability
+    position: reverse
+    text: You pay 1 less to play Feral abilities, to a minimum of 1 .
+
+regulation:
+
+errata: []
+
+temp: Troll Druid

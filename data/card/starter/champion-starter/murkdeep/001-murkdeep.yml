@@ -1,14 +1,14 @@
-oracle: murkdeep
-
-lex: '001'
-
-set: murkdeep
+index: '001'
 
 rarity: Uncommon
 
 artist: Brian Despain
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: murkdeep-murkdeep-001
+
+set: Murkdeep

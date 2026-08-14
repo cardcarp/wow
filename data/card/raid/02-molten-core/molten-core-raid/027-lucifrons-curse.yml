@@ -1,13 +1,13 @@
-oracle: lucifrons-curse
-
-lex: '027'
-
-set: molten-core-raid
+index: '027'
 
 rarity: Uncommon
 
 artist: Alex Horley Orlandelli
 
+variation: []
+
 flavor: The curse so sapped his strength that it took all of his will just to swing his sword.
 
-variation: []
+oracle: lucifrons-curse-molten-core-raid-027
+
+set: Molten Core Raid

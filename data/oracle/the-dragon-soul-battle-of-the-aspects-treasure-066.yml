@@ -1,0 +1,31 @@
+name: The Dragon Soul
+
+origin: battle-of-the-aspects-treasure-066
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: '→ Add an aspect counter to this item. On your turn: , Remove three aspect counters from this item → Destroy target non-hero card.'
+
+regulation:
+
+errata: []
+
+temp: Item

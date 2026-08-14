@@ -1,0 +1,27 @@
+name: Arcane Protector
+
+origin: betrayal-of-the-guardian-129
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 5
+
+health: 4
+
+combat: Arcane
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Monster Hero Required Protector
+
+regulation:
+
+errata: []
+
+temp: Mechanical

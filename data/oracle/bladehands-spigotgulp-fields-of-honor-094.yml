@@ -1,0 +1,27 @@
+name: '"Bladehands" Spigotgulp'
+
+origin: fields-of-honor-094
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Escape Artist If you would draw a card, you may skip drawing it instead. When you skip drawing a card this way, turn target resource face down.
+
+regulation:
+
+errata: []
+
+temp: Gnome Rogue

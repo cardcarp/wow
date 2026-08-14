@@ -1,0 +1,22 @@
+name: Kinivus the Focused
+
+origin: fields-of-honor-003
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 3 , Flip Kinivus → You can't discard cards this turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

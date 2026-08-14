@@ -1,0 +1,25 @@
+name: Time
+
+origin: showdown-goblins-of-anarchy-004
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Ranged
+
+rule:
+  - type: ability
+    text: 'Time is Money On your turn: → For each Biker you control, put the top card of your deck into your resource row face down and ready.'
+
+regulation:
+
+errata: []
+
+temp: Goblin Mage Biker

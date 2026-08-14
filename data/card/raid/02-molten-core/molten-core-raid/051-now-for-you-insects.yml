@@ -1,13 +1,13 @@
-oracle: now-for-you-insects
-
-lex: '051'
-
-set: molten-core-raid
+index: '051'
 
 rarity: Uncommon
 
 artist: Wei Wang
 
+variation: []
+
 flavor: '"BOLDLY, YOU SOUGHT THE POWER OF RAGNAROS. NOW YOU SHALL SEE IT FIRSTHAND!"'
 
-variation: []
+oracle: now-for-you-insects-molten-core-raid-051
+
+set: Molten Core Raid

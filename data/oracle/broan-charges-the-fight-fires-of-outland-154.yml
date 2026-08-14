@@ -1,0 +1,27 @@
+name: Broan Charges-the-Fight
+
+origin: fires-of-outland-154
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Ferocity When Broan Charges-the-Fight enters play, you may ready target ally with cost 2 or less.
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

@@ -1,0 +1,22 @@
+name: Commanding Shout
+
+origin: through-the-dark-portal-118
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+instant: 'Ongoing : Allies in your party have +1 health.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury Shout

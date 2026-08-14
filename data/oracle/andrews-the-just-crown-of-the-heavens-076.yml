@@ -1,0 +1,27 @@
+name: Andrews the Just
+
+origin: crown-of-the-heavens-076
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 4
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, you may put target attachment from your graveyard into your hand.
+
+regulation:
+
+errata: []
+
+temp: Human Priest

@@ -1,13 +1,13 @@
-oracle: voidmaven-christie-noone
-
-lex: '161'
-
-set: scourgewar
+index: '161'
 
 rarity: Uncommon
 
 artist: Jonboy Meyers
 
+variation: []
+
 flavor: Her pet rises to his fullest strength at midday.
 
-variation: []
+oracle: voidmaven-christie-noone-scourgewar-161
+
+set: Scourgewar

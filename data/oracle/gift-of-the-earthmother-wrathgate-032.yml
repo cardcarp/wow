@@ -1,0 +1,22 @@
+name: Gift of the Earthmother
+
+origin: wrathgate-032
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Druid
+
+instant: 'Restoration Talent Attach to target ally. Ongoing : Attached ally has +6 / +6. When attached ally is destroyed, draw two cards.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

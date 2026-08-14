@@ -1,0 +1,27 @@
+name: Xarantaur
+
+origin: war-of-the-ancients-159
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 0
+
+health: 0
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Xarantaur has +1 / +1 for each card in all players' hands. At the start of each player's turn, that player draws a card.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

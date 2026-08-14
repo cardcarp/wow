@@ -1,0 +1,27 @@
+name: Queen Sylvanas Windrunner
+
+origin: through-the-dark-portal-229
+
+layout: standard
+
+category: Ally
+
+cost: '9'
+
+damage: 5
+
+health: 7
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Other Undead heroes and allies in your party can't be destroyed.
+
+regulation:
+
+errata: []
+
+temp: Undead Banshee Ranger

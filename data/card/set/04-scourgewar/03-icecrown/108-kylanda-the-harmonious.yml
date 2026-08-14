@@ -1,13 +1,13 @@
-oracle: kylanda-the-harmonious
-
-lex: '108'
-
-set: icecrown
+index: '108'
 
 rarity: Uncommon
 
 artist: Efrem Palacios
 
+variation: []
+
 flavor: '"May the elements offer you their heartiest reinforcements."'
 
-variation: []
+oracle: kylanda-the-harmonious-icecrown-108
+
+set: Icecrown

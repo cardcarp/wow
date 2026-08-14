@@ -1,13 +1,13 @@
-oracle: dark-influence
-
-lex: '023'
-
-set: shadowfang-keep
+index: '023'
 
 rarity: Common
 
 artist: Gabor Szikszai
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: dark-influence-shadowfang-keep-023
+
+set: Shadowfang Keep

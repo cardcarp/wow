@@ -1,0 +1,22 @@
+name: Tanglevine
+
+origin: fields-of-honor-025
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: "Attach to target ally. Ongoing : Attached ally can't ready during its controller's ready step."
+
+regulation:
+
+errata: []
+
+temp: Balance

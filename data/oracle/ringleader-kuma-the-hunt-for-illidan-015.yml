@@ -1,0 +1,22 @@
+name: Ringleader Kuma
+
+origin: the-hunt-for-illidan-015
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 4 , Flip Kuma → Heroes and allies in your party have +2 ATK while attacking heroes this turn.
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

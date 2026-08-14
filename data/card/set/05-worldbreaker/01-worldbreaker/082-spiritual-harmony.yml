@@ -1,13 +1,13 @@
-oracle: spiritual-harmony
-
-lex: '082'
-
-set: worldbreaker
+index: '082'
 
 rarity: Common
 
 artist: William O'Connor
 
+variation: []
+
 flavor: '"The divine power that flows through me when I raise a fallen ally restores me as much as it does him." - Yuna Sunridge'
 
-variation: []
+oracle: spiritual-harmony-worldbreaker-082
+
+set: Worldbreaker

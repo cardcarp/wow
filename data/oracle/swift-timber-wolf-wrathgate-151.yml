@@ -1,0 +1,27 @@
+name: Swift Timber Wolf
+
+origin: wrathgate-151
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 0
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Orc Hero Required You pay 1 less to complete quests. When you place a resource face up, your hero has Assault 2 this turn. (Mounts can't attack or be attacked.)
+
+regulation:
+
+errata: []
+
+temp: Timber Wolf

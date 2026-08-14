@@ -1,0 +1,29 @@
+name: Gladiator Magnus
+
+origin: blood-of-gladiators-105
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Ranged
+
+faction: Alliance
+
+type: Arena
+
+rule:
+  - type: ability
+    text: 1 , Destroy an Arena ally in your party → Turn target resource face down.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

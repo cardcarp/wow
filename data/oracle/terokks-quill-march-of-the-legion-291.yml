@@ -1,0 +1,24 @@
+name: Terokks Quill
+
+origin: march-of-the-legion-291
+
+layout: standard
+
+category: Equipment
+
+cost: '1'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+
+rule:
+  - type: ability
+    text: Terokk's Quill has +4 ATK while your hero is defending.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Polearm

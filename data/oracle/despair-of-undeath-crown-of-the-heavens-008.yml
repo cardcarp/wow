@@ -1,0 +1,22 @@
+name: Despair of Undeath
+
+origin: crown-of-the-heavens-008
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: Put a 3 / 3 Ghoul ally token into play. Opposing allies have -1 this turn for each Ghoul you control.
+
+regulation:
+
+errata: []
+
+temp: Unholy

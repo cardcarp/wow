@@ -1,0 +1,22 @@
+name: Meltdown
+
+origin: blood-of-gladiators-037
+
+layout: standard
+
+category: Ability
+
+cost: X
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Choose one: Your hero deals X fire damage to target ally; or destroy target weapon with cost X.'
+
+regulation:
+
+errata: []
+
+temp: Fire

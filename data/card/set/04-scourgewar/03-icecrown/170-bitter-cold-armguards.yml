@@ -1,13 +1,13 @@
-oracle: bitter-cold-armguards
-
-lex: '170'
-
-set: icecrown
+index: '170'
 
 rarity: Common
 
 artist: Rick Deng
 
+variation: []
+
 flavor: '"In these dire times, sacrifices must often be made for the greater good." - Saeryn Dusksorrow'
 
-variation: []
+oracle: bitter-cold-armguards-icecrown-170
+
+set: Icecrown

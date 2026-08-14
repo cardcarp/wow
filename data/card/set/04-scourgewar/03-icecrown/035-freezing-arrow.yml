@@ -1,13 +1,13 @@
-oracle: freezing-arrow
-
-lex: '035'
-
-set: icecrown
+index: '035'
 
 rarity: Common
 
 artist: Matt Gaser
 
+variation: []
+
 flavor: '"Her accuracy was astounding; she placed the trap right underneath my foot from off in the distance." - Emmi Sprinklestrike'
 
-variation: []
+oracle: freezing-arrow-icecrown-035
+
+set: Icecrown

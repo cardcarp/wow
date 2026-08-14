@@ -1,0 +1,22 @@
+name: Fireball
+
+origin: heroes-of-azeroth-053
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 'Attach to target hero or ally, and your hero deals 4 fire damage to it. Ongoing : At the start of your turn, your hero deals 1 fire damage to attached character.'
+
+regulation:
+
+errata: []
+
+temp: Fire

@@ -1,0 +1,27 @@
+name: Muluno Sunbreath
+
+origin: crown-of-the-heavens-115
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: At the start of your turn, this ally heals damage from target hero or ally equal to this ally's ATK.
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

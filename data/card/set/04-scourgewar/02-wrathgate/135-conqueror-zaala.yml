@@ -1,13 +1,13 @@
-oracle: conqueror-zaala
-
-lex: '135'
-
-set: wrathgate
+index: '135'
 
 rarity: Uncommon
 
 artist: Dan Brereton
 
+variation: []
+
 flavor: '"The more you run, the worse this will be for you."'
 
-variation: []
+oracle: conqueror-zaala-wrathgate-135
+
+set: Wrathgate

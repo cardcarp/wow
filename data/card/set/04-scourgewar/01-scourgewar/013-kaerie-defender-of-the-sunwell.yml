@@ -1,14 +1,14 @@
-oracle: kaerie-defender-of-the-sunwell
-
-lex: '013'
-
-set: scourgewar
+index: '013'
 
 rarity: Uncommon
 
 artist: Gonzalo Ordonez
 
-flavor: '"Retribution is more than just an idea, it is a state of being."'
-
 variation:
   - transform
+
+flavor: '"Retribution is more than just an idea, it is a state of being."'
+
+oracle: kaerie-defender-of-the-sunwell-scourgewar-013
+
+set: Scourgewar

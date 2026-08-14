@@ -1,0 +1,22 @@
+name: Ataraxis, Cudgel of the Warmaster
+
+origin: battle-of-the-aspects-treasure-067
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: Opponents pay 3 more to strike with weapons.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Mace

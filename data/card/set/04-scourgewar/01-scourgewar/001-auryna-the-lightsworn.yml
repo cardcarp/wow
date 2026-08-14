@@ -1,14 +1,14 @@
-oracle: auryna-the-lightsworn
-
-lex: '001'
-
-set: scourgewar
+index: '001'
 
 rarity: Uncommon
 
 artist: Michael Kormarck
 
-flavor: '"When it comes to the unjust, the Light as a very long memory."'
-
 variation:
   - transform
+
+flavor: '"When it comes to the unjust, the Light as a very long memory."'
+
+oracle: auryna-the-lightsworn-scourgewar-001
+
+set: Scourgewar

@@ -1,13 +1,13 @@
-oracle: core-rager
-
-lex: '003'
-
-set: molten-core-token
+index: '003'
 
 rarity: Common
 
 artist: Malcolm Davis
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: core-rager-molten-core-token-003
+
+set: Molten Core Token

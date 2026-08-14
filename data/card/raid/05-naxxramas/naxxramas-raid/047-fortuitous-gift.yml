@@ -1,13 +1,13 @@
-oracle: fortuitous-gift
-
-lex: '047'
-
-set: naxxramas-raid
+index: '047'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: fortuitous-gift-naxxramas-raid-047
+
+set: Naxxramas Raid

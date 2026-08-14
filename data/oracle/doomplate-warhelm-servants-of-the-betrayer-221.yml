@@ -1,0 +1,23 @@
+name: Doomplate Warhelm
+
+origin: servants-of-the-betrayer-221
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: ability
+    text: Each of your armor has +3 DEF while you have five or more equipment.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

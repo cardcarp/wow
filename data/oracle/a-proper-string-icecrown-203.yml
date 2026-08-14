@@ -1,0 +1,22 @@
+name: A Proper String
+
+origin: icecrown-203
+
+layout: standard
+
+category: Quest
+
+class:
+  - Hunter
+
+type: Class Restriction
+
+rule:
+  - type: ability
+    text: 'On your turn: Pay 2 to complete this quest. Reward : Heroes and allies you control have Long-Range this turn.'
+
+regulation:
+
+errata: []
+
+temp: ''

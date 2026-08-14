@@ -1,0 +1,27 @@
+name: Nok'tal the Savage
+
+origin: drums-of-war-186
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Berserking
+
+regulation:
+
+errata: []
+
+temp: Troll Warrior

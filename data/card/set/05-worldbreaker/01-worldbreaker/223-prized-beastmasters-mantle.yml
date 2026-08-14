@@ -1,13 +1,13 @@
-oracle: prized-beastmasters-mantle
-
-lex: '223'
-
-set: worldbreaker
+index: '223'
 
 rarity: Rare
 
 artist: Leo Che
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: prized-beastmasters-mantle-worldbreaker-223
+
+set: Worldbreaker

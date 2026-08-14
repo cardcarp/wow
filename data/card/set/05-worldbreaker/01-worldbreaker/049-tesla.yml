@@ -1,13 +1,13 @@
-oracle: tesla
-
-lex: '049'
-
-set: worldbreaker
+index: '049'
 
 rarity: Common
 
 artist: Andrew Jones
 
+variation: []
+
 flavor: Most wind serpents subsist on a diet of fish, but a good hunter can offer much more interesting prey.
 
-variation: []
+oracle: tesla-worldbreaker-049
+
+set: Worldbreaker

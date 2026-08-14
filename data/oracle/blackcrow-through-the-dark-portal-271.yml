@@ -1,0 +1,22 @@
+name: Blackcrow
+
+origin: through-the-dark-portal-271
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: When you strike with this weapon, your hero has Long-Range this combat.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Crossbow

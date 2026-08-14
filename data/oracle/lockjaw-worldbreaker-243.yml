@@ -1,0 +1,25 @@
+name: Lockjaw
+
+origin: worldbreaker-243
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: 'Once per turn: 2 → Your hero heals 2 damage from target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

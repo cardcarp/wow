@@ -1,0 +1,26 @@
+name: Bloodclaw
+
+origin: heroes-of-azeroth-036
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 3
+
+health: 1
+
+combat: Melee
+
+class:
+  - Hunter
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Raptor

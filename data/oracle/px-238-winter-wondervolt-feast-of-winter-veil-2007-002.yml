@@ -1,0 +1,19 @@
+name: PX-238 Winter Wondervolt
+
+origin: feast-of-winter-veil-2007-002
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+rule:
+  - type: ability
+    text: 'Choose an ally type. Ongoing : All allies also have that type. (Examples of types are Chicken, Demon, Druid, Gnome, and Yeti.)'
+
+regulation:
+
+errata: []
+
+temp: ''

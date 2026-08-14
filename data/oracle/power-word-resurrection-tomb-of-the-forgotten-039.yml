@@ -1,0 +1,22 @@
+name: 'Power Word: Resurrection'
+
+origin: tomb-of-the-forgotten-039
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Priest
+
+rule:
+  - type: ability
+    text: "Attach to target ally. Ongoing : When attached ally attacks, you may put target ally with cost less than attached ally's cost from your graveyard into play."
+
+regulation:
+
+errata: []
+
+temp: Discipline

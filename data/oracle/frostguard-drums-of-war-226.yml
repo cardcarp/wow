@@ -1,0 +1,24 @@
+name: Frostguard
+
+origin: drums-of-war-226
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Rogue
+
+rule:
+  - type: ability
+    text: Allies in your party have Frost Resistance .
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

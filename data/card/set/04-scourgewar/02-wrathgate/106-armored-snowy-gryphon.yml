@@ -1,13 +1,13 @@
-oracle: armored-snowy-gryphon
-
-lex: '106'
-
-set: wrathgate
+index: '106'
 
 rarity: Rare
 
 artist: Brian Despain
 
+variation: []
+
 flavor: (Mounts can't attack or be attacked.)
 
-variation: []
+oracle: armored-snowy-gryphon-wrathgate-106
+
+set: Wrathgate

@@ -1,0 +1,27 @@
+name: Lilith Smythe
+
+origin: servants-of-the-betrayer-169
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Lilith readies, you may remove an ally card in your graveyard from the game. If you do, destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: Undead Priest

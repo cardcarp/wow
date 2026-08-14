@@ -1,13 +1,13 @@
-oracle: ayluro-nightwind
-
-lex: '107'
-
-set: wrathgate
+index: '107'
 
 rarity: Common
 
 artist: Luca Zontini
 
+variation: []
+
 flavor: '"I must tend to our wounded quickly."'
 
-variation: []
+oracle: ayluro-nightwind-wrathgate-107
+
+set: Wrathgate

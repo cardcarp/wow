@@ -1,14 +1,14 @@
-oracle: lord-godfrey-level-4
-
-lex: '004'
-
-set: shadowfang-keep
+index: '004'
 
 rarity: Rare
 
 artist: Dave Allsop
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: lord-godfrey-level-4-shadowfang-keep-004
+
+set: Shadowfang Keep

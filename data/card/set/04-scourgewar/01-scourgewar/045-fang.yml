@@ -1,13 +1,13 @@
-oracle: fang
-
-lex: '045'
-
-set: scourgewar
+index: '045'
 
 rarity: Common
 
 artist: Malcolm Davis
 
+variation: []
+
 flavor: The strength of the wolf is the pack, and the strength of the pack is the wolf.
 
-variation: []
+oracle: fang-scourgewar-045
+
+set: Scourgewar

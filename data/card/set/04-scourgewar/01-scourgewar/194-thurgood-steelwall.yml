@@ -1,13 +1,13 @@
-oracle: thurgood-steelwall
-
-lex: '194'
-
-set: scourgewar
+index: '194'
 
 rarity: Common
 
 artist: Cole Eastburn
 
+variation: []
+
 flavor: '"He lost his life once in battle, but do not underestimate his ability to inspire others." - Bloody Mary'
 
-variation: []
+oracle: thurgood-steelwall-scourgewar-194
+
+set: Scourgewar

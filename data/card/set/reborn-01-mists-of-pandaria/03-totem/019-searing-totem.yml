@@ -1,13 +1,13 @@
-oracle: searing-totem
-
-lex: '019'
-
-set: totem
+index: '019'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: searing-totem-heroes-of-azeroth-116
+
+set: Totem

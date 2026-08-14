@@ -1,0 +1,27 @@
+name: Rakzi the Earthgraced
+
+origin: war-of-the-elements-142
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 4
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'This ally has Assault 1 for each equipment you control. Stash : Target weapon you control has Assault 1 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Goblin Shaman

@@ -1,0 +1,22 @@
+name: Word of Glory
+
+origin: twilight-of-the-dragons-061
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Ongoing : Your hero has Protector and Mend 1 .'
+
+regulation:
+
+errata: []
+
+temp: Holy

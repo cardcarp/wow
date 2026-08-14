@@ -1,0 +1,22 @@
+name: Grand Crusader
+
+origin: throne-of-the-tides-056
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Protection Talent Ongoing : Allies you control with cost 2 or less have +2 / +2.'
+
+regulation:
+
+errata: []
+
+temp: Protection

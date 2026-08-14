@@ -1,0 +1,24 @@
+name: Mantle of Master Cho
+
+origin: tomb-of-the-forgotten-171
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: ', Name a standard class → Target ally you control has that class and loses all other classes this turn.'
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

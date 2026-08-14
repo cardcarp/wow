@@ -1,0 +1,23 @@
+name: Peroth'arns Belt
+
+origin: caverns-of-time-treasure-058
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: This armor enters play with two +1 counters on it. Remove a +1 counter from this armor → Target hero or ally has Stealth this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

@@ -1,0 +1,25 @@
+name: Crusader Lord Dalfors
+
+origin: wrathgate-161
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 3
+
+combat: Holy
+
+rule:
+  - type: ability
+    text: Argent Crusade Reputation If a Unique ally you control would be dealt damage, prevent 1 of it.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

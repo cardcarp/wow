@@ -1,13 +1,13 @@
-oracle: quest-complete-a-quest
-
-lex: '010'
-
-set: hogger-demo
+index: '010'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: quest-complete-a-quest-hogger-demo-010
+
+set: Hogger Demo

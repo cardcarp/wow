@@ -1,0 +1,27 @@
+name: Shaera Strikewing
+
+origin: war-of-the-elements-145
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'Stealth Stash : Target ally has Stealth this turn.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

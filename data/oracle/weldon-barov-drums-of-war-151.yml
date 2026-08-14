@@ -1,0 +1,27 @@
+name: Weldon Barov
+
+origin: drums-of-war-151
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: At the end of your turn, put three Peasant ally tokens into play with 1 ATK / 1 health and Protector . At the end of the next turn, destroy them.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

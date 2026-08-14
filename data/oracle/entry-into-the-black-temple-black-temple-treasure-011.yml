@@ -1,0 +1,17 @@
+name: Entry into the Black Temple
+
+origin: black-temple-treasure-011
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 5 to complete this quest. Reward : Draw a card for each different class among allies in your party.'
+
+regulation:
+
+errata: []
+
+temp: ''

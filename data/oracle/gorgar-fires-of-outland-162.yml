@@ -1,0 +1,27 @@
+name: Gor'gar
+
+origin: fires-of-outland-162
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Gor'gar enters play with an ankh counter. While Gor'gar has an ankh counter, when he's destroyed, you may have his owner put him from his graveyard into play, then remove his ankh counter.
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

@@ -1,13 +1,13 @@
-oracle: heros-surrender
-
-lex: '173'
-
-set: icecrown
+index: '173'
 
 rarity: Rare
 
 artist: Oliver Chipping
 
+variation: []
+
 flavor: '"It has seen countless heroes brought to the ground." - Blaine Roberts'
 
-variation: []
+oracle: heros-surrender-icecrown-173
+
+set: Icecrown

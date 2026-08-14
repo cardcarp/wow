@@ -1,0 +1,27 @@
+name: Ragespike
+
+origin: tomb-of-the-forgotten-145
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 0
+
+health: 1
+
+combat: Nature
+
+type: Monster
+
+rule:
+  - type: ability
+    text: This and other Murloc allies you control have Assault 1 .
+
+regulation:
+
+errata: []
+
+temp: Murloc Shaman

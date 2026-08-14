@@ -1,0 +1,30 @@
+name: Justicar Andra Goldblast
+
+origin: icecrown-105
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Ranged
+
+faction: Alliance
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: 2 → When the next opposing Mage or card enters play this turn, destroy it.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

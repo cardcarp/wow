@@ -1,0 +1,22 @@
+name: Lava Shock
+
+origin: throne-of-the-tides-072
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: Your hero deals 4 fire damage to target ally. Delve
+
+regulation:
+
+errata: []
+
+temp: Elemental

@@ -1,0 +1,23 @@
+name: Legacy of Betrayal
+
+origin: betrayal-of-the-guardian-059
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warlock
+  - Rogue
+
+rule:
+  - type: ability
+    text: "Remove target opposing ally and all opposing allies that share that ally's name from the game. Then search that ally's controller's deck, graveyard, and hand for all allies with that name and remove them from the game. Ongoing : Destroy this ability → You may play one of the allies removed this way. (Pay costs as normal.)"
+
+regulation:
+
+errata: []
+
+temp: ''

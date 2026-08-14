@@ -1,0 +1,22 @@
+name: Arcane Foresight
+
+origin: war-of-the-elements-048
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Mage
+
+rule:
+  - type: ability
+    text: Your hero deals 1 arcane damage to target hero or ally, or 3 if you played another ability this turn.
+
+regulation:
+
+errata: []
+
+temp: Arcane

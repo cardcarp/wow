@@ -1,0 +1,25 @@
+name: Heartseeker
+
+origin: heroes-of-azeroth-326
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Warrior
+  - Shaman
+  - Hunter
+  - Rogue
+
+rule:
+  - type: ability
+    text: This weapon has +2 ATK while your hero is attacking a hero or ally that was dealt damage this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

@@ -1,13 +1,13 @@
-oracle: seal-of-purity
-
-lex: '052'
-
-set: icecrown
+index: '052'
 
 rarity: Uncommon
 
 artist: Christopher Moeller
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: seal-of-purity-icecrown-052
+
+set: Icecrown

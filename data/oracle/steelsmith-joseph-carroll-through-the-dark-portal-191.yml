@@ -1,0 +1,27 @@
+name: Steelsmith Joseph Carroll
+
+origin: through-the-dark-portal-191
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Steelsmith Joseph Carroll has +1 ATK and +1 health for each equipment you have.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

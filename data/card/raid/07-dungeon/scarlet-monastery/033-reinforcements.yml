@@ -1,13 +1,13 @@
-oracle: reinforcements
-
-lex: '033'
-
-set: scarlet-monastery
+index: '033'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: reinforcements-scarlet-monastery-033
+
+set: Scarlet Monastery

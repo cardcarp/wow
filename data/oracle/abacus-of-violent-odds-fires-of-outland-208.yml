@@ -1,0 +1,27 @@
+name: Abacus of Violent Odds
+
+origin: fires-of-outland-208
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: When your hero attacks, roll a die. If it's even, remove your hero from combat. If it's odd, ready your hero and all of your weapons at the end of this combat.
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

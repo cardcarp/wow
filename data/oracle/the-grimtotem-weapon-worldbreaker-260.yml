@@ -1,0 +1,17 @@
+name: The Grimtotem Weapon
+
+origin: worldbreaker-260
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 3 to complete this quest. Reward : Reveal the top five cards of your deck. Put a revealed equipment into your hand and the rest on the bottom of your deck.'
+
+regulation:
+
+errata: []
+
+temp: ''

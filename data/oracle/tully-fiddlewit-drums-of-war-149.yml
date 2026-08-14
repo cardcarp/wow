@@ -1,0 +1,27 @@
+name: Tully Fiddlewit
+
+origin: drums-of-war-149
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 3
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When Tully defends against an ally, discard a card.
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

@@ -1,0 +1,22 @@
+name: Tricksters Reflex
+
+origin: tomb-of-the-forgotten-047
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: Monster heroes and allies you control have Stealth and can't be targeted by opponents this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Subtlety

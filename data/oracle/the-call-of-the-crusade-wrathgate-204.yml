@@ -1,0 +1,17 @@
+name: The Call of the Crusade
+
+origin: wrathgate-204
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Argent Crusade Reputation For each Unique ally you control, you may pay 2 to complete this quest. Reward : Draw a card for each 2 paid this way.'
+
+regulation:
+
+errata: []
+
+temp: ''

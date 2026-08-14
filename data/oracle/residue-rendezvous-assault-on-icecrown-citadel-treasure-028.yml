@@ -1,0 +1,17 @@
+name: Residue Rendezvous
+
+origin: assault-on-icecrown-citadel-treasure-028
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 5 to complete this quest. Reward : Draw a card for each damaged hero and ally you control.'
+
+regulation:
+
+errata: []
+
+temp: ''

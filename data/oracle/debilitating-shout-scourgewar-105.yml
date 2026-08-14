@@ -1,0 +1,22 @@
+name: Debilitating Shout
+
+origin: scourgewar-105
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Ongoing : Opposing allies and weapons have -2 ATK. Death Rattle : Target opposing ally or weapon has -4 ATK this turn.'
+
+regulation:
+
+errata: []
+
+temp: Fury Shout

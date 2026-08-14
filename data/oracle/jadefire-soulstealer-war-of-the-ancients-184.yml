@@ -1,0 +1,27 @@
+name: Jadefire Soulstealer
+
+origin: war-of-the-ancients-184
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 4
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: ability
+    text: "When this ally enters play, an opponent chooses one: You draw two cards; or this ally deals 5 shadow damage to that opponent's hero and heals 5 damage from your hero."
+
+regulation:
+
+errata: []
+
+temp: Satyr Demon Warlock

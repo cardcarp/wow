@@ -1,13 +1,13 @@
-oracle: frost-resistance-totem
-
-lex: '007'
-
-set: totem
+index: '007'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: frost-resistance-totem-icecrown-069
+
+set: Totem

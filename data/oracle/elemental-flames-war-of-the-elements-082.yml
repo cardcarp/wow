@@ -1,0 +1,22 @@
+name: Elemental Flames
+
+origin: war-of-the-elements-082
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: Your hero deals 3 fire damage to target ally. If you control an Elemental ally, your hero also deals 3 fire damage to that ally's controller's hero.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental

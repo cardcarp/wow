@@ -1,0 +1,30 @@
+name: Uberserc
+
+origin: tomb-of-the-forgotten-024
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 7
+
+combat: Fire
+
+class:
+  - Hunter
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Beast Mastery Talent This ally can attack two opposing heroes and/or allies at the same time. (This ally deals combat damage to both defenders, and both defenders deal combat damage back to this ally.)
+
+regulation:
+
+errata: []
+
+temp: Core Hound

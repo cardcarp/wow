@@ -1,13 +1,13 @@
-oracle: command-decision
-
-lex: '081'
-
-set: icecrown
+index: '081'
 
 rarity: Common
 
 artist: Matt Cavotta
 
+variation: []
+
 flavor: '"Desperate times call for desperate measures." - Victoria Jaton'
 
-variation: []
+oracle: command-decision-icecrown-081
+
+set: Icecrown

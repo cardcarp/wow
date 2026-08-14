@@ -1,0 +1,24 @@
+name: Flame Wrath
+
+origin: heroes-of-azeroth-321
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+
+rule:
+  - type: ability
+    text: When your hero deals combat damage with Flame Wrath, your hero deals 1 fire damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Polearm

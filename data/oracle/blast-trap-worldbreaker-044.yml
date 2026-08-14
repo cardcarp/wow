@@ -1,0 +1,22 @@
+name: Blast Trap
+
+origin: worldbreaker-044
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: Trap Destroy target attacking ally with cost 4 or more.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

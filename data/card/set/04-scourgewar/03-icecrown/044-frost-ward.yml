@@ -1,13 +1,13 @@
-oracle: frost-ward
-
-lex: '044'
-
-set: icecrown
+index: '044'
 
 rarity: Common
 
 artist: Alexander Garner
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: frost-ward-icecrown-044
+
+set: Icecrown

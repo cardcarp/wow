@@ -1,0 +1,22 @@
+name: Mongoose Bite
+
+origin: wrathgate-042
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: Your hero deals 2 melee damage to target attacker, and that attacker has -2 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival

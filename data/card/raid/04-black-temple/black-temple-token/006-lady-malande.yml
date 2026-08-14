@@ -1,13 +1,13 @@
-oracle: lady-malande
-
-lex: '006'
-
-set: black-temple-token
+index: '006'
 
 rarity: Common
 
 artist: James Zhang
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: lady-malande-black-temple-token-006
+
+set: Black Temple Token

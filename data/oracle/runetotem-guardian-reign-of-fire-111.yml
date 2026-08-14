@@ -1,0 +1,27 @@
+name: Runetotem Guardian
+
+origin: reign-of-fire-111
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector This ally can't attack.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

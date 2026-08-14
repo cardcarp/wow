@@ -1,0 +1,25 @@
+name: Lights Justice
+
+origin: drums-of-war-229
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: When a ally in your party deals damage, it also heals that much from your hero.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

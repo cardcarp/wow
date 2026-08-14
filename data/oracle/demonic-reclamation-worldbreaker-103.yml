@@ -1,0 +1,22 @@
+name: Demonic Reclamation
+
+origin: worldbreaker-103
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'As an additional cost to play this ability, destroy an ally you control. Draw two cards. Stash : Shuffle target ally in your graveyard into your deck.'
+
+regulation:
+
+errata: []
+
+temp: Demonology

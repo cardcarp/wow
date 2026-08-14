@@ -1,0 +1,27 @@
+name: Rogg Dreadnock
+
+origin: servants-of-the-betrayer-174
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When your hero defends, Rogg deals 2 ranged damage to target attacker.
+
+regulation:
+
+errata: []
+
+temp: Orc Hunter

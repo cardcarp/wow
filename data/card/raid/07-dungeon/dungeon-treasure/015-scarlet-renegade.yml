@@ -1,13 +1,13 @@
-oracle: scarlet-renegade
-
-lex: '015'
-
-set: dungeon-treasure
+index: '015'
 
 rarity: Common
 
 artist: Paul Mafayon
 
+variation: []
+
 flavor: (including himself)
 
-variation: []
+oracle: scarlet-renegade-dungeon-treasure-015
+
+set: Dungeon Treasure

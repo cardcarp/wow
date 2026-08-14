@@ -1,0 +1,23 @@
+name: Gloves of Unerring Aim
+
+origin: icecrown-badges-of-justice-003
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: Opposing cards lose and can't have Untargetable . Damage your hero deals with abilities is unpreventable. When your hero would deal damage with a weapon, it deals that much +1 instead.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

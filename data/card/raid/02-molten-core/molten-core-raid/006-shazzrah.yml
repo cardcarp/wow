@@ -1,14 +1,14 @@
-oracle: shazzrah
-
-lex: '006'
-
-set: molten-core-raid
+index: '006'
 
 rarity: Rare
 
 artist: Randy Gallegos
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: shazzrah-molten-core-raid-006
+
+set: Molten Core Raid

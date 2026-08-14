@@ -1,0 +1,22 @@
+name: Void Pact
+
+origin: wrathgate-085
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+instant: Draw a card for each opposing ally that left play this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Destruction

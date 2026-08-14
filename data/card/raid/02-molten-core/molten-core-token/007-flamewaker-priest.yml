@@ -1,13 +1,13 @@
-oracle: flamewaker-priest
-
-lex: '007'
-
-set: molten-core-token
+index: '007'
 
 rarity: Common
 
 artist: Eric Browning
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: flamewaker-priest-molten-core-token-007
+
+set: Molten Core Token

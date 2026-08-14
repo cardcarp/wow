@@ -1,0 +1,17 @@
+name: The Key to Freedom
+
+origin: worldbreaker-261
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 4 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

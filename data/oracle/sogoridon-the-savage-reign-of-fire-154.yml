@@ -1,0 +1,27 @@
+name: Sogoridon the Savage
+
+origin: reign-of-fire-154
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 7
+
+health: 7
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Monster Hero Required This ally has +7 / +7 while an opponent controls a or hero.
+
+regulation:
+
+errata: []
+
+temp: Pit Lord Demon

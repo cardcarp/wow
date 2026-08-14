@@ -1,13 +1,13 @@
-oracle: fingers-of-frost
-
-lex: '042'
-
-set: icecrown
+index: '042'
 
 rarity: Rare
 
 artist: Andrea Uderzo
 
+variation: []
+
 flavor: "\"This sensation is quite intriguing.\" - Vor'na the Disciplined"
 
-variation: []
+oracle: fingers-of-frost-icecrown-042
+
+set: Icecrown

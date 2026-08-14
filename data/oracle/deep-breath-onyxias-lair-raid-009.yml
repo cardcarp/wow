@@ -1,0 +1,19 @@
+name: Deep Breath
+
+origin: onyxias-lair-raid-009
+
+layout: standard
+
+category: Ability
+
+cost: 2+X
+
+rule:
+  - type: ability
+    text: Stage 2 Only Onyxia deals X fire damage to each opposing hero and ally. Deep Breath can't be interrupted.
+
+regulation:
+
+errata: []
+
+temp: ''

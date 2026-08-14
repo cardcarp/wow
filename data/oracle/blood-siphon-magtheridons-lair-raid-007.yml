@@ -1,0 +1,19 @@
+name: Blood Siphon
+
+origin: magtheridons-lair-raid-007
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+rule:
+  - type: ability
+    text: 'Ongoing : Destroy Blood Siphon → Draw three cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

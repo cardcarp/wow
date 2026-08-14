@@ -1,0 +1,27 @@
+name: Orgrimmar Killblade
+
+origin: war-of-the-ancients-139
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Stealth
+
+regulation:
+
+errata: []
+
+temp: Orc Rogue

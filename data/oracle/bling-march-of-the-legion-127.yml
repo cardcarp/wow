@@ -1,0 +1,19 @@
+name: Bling
+
+origin: march-of-the-legion-127
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+rule:
+  - type: ability
+    text: 'Ongoing : You can have up to ten Rings.'
+
+regulation:
+
+errata: []
+
+temp: ''

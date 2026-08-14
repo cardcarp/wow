@@ -1,13 +1,13 @@
-oracle: all-aboard-for-undercity
-
-lex: '124'
-
-set: scourgewar
+index: '124'
 
 rarity: Common
 
 artist: Richard Wright
 
+variation: []
+
 flavor: '"Next stop, Tirisfal Glades!" - Frezza'
 
-variation: []
+oracle: all-aboard-for-undercity-scourgewar-124
+
+set: Scourgewar

@@ -1,13 +1,13 @@
-oracle: alister
-
-lex: '002'
-
-set: hogger-demo
+index: '002'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: alister-hogger-demo-002
+
+set: Hogger Demo

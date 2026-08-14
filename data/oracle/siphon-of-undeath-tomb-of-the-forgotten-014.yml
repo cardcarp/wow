@@ -1,0 +1,22 @@
+name: Siphon of Undeath
+
+origin: tomb-of-the-forgotten-014
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: Destroy target ally. If you control a Ghoul, your hero heals 5 damage from itself.
+
+regulation:
+
+errata: []
+
+temp: Unholy

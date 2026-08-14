@@ -1,0 +1,25 @@
+name: Lightwardens Band
+
+origin: the-hunt-for-illidan-219
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Rogue
+
+rule:
+  - type: ability
+    text: 'Aldor Reputation Your hero has " Inspire: Ability, ally, equipment, hero, or resource ."'
+
+regulation:
+
+errata: []
+
+temp: Item Ring

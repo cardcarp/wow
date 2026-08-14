@@ -1,13 +1,14 @@
-oracle: illidan-the-betrayer
-
-lex: '023'
-
-set: timewalkers
+index: '023'
 
 rarity: Rare
 
 artist: Unknown
 
+variation:
+  - transform
+
 flavor: ''
 
-variation: []
+oracle: illidan-the-betrayer-timewalkers-023
+
+set: Timewalkers

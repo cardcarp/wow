@@ -1,0 +1,22 @@
+name: Firestorm
+
+origin: war-of-the-ancients-025
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Mage
+
+instant: Your hero deals 3 fire damage to each ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fire

@@ -1,13 +1,13 @@
-oracle: living-bomb
-
-lex: '054'
-
-set: scourgewar
+index: '054'
 
 rarity: Rare
 
 artist: Phill Gonzales
 
+variation: []
+
 flavor: '"RUN!"'
 
-variation: []
+oracle: living-bomb-molten-core-raid-026
+
+set: Scourgewar

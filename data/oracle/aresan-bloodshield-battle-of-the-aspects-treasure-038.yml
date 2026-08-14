@@ -1,0 +1,27 @@
+name: Aresan Bloodshield
+
+origin: battle-of-the-aspects-treasure-038
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Attacking heroes have -2 ATK while in combat with this ally.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

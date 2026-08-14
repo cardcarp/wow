@@ -1,13 +1,13 @@
-oracle: elements-fury
-
-lex: '002'
-
-set: murkdeep
+index: '002'
 
 rarity: Common
 
 artist: Justin Sweet
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: elements-fury-march-of-the-legion-095
+
+set: Murkdeep

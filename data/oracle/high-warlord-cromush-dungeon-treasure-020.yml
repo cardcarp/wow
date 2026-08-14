@@ -1,0 +1,27 @@
+name: High Warlord Cromush
+
+origin: dungeon-treasure-020
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector While Cromush has exactly 1 remaining , he has Assault 10 .
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

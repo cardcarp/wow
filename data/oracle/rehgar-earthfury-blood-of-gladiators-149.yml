@@ -1,0 +1,27 @@
+name: Rehgar Earthfury
+
+origin: blood-of-gladiators-149
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Frost
+
+type: Arena
+
+rule:
+  - type: ability
+    text: allies in your party have +1 health. allies in your party have +1 ATK. When Rehgar attacks, gain control of target ally.
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

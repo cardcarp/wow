@@ -1,0 +1,22 @@
+name: Shockburst
+
+origin: battle-of-the-aspects-treasure-031
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: Opposing allies enter play exhausted this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

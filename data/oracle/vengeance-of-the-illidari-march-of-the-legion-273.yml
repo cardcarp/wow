@@ -1,0 +1,27 @@
+name: Vengeance of the Illidari
+
+origin: march-of-the-legion-273
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: When you play an ability, ready your hero.
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

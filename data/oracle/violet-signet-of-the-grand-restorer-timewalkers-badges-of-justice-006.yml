@@ -1,0 +1,25 @@
+name: Violet Signet of the Grand Restorer
+
+origin: timewalkers-badges-of-justice-006
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: → Put target card from your graveyard on the bottom of your deck. Then, your hero heals damage from itself equal to that card's cost.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

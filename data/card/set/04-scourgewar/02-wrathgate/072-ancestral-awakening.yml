@@ -1,13 +1,13 @@
-oracle: ancestral-awakening
-
-lex: '072'
-
-set: wrathgate
+index: '072'
 
 rarity: Rare
 
 artist: Brandon Kitkouski
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: ancestral-awakening-wrathgate-072
+
+set: Wrathgate

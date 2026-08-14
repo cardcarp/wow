@@ -1,0 +1,25 @@
+name: Xanata the Lightsworn
+
+origin: servants-of-the-betrayer-195
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Holy
+
+rule:
+  - type: ability
+    text: Aldor Reputation Protector If Xanata would be dealt combat damage while defending, prevent 2 of it.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

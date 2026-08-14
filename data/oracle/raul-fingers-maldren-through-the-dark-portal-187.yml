@@ -1,0 +1,27 @@
+name: Raul "Fingers" Maldren
+
+origin: through-the-dark-portal-187
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 6
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Untargetable
+
+regulation:
+
+errata: []
+
+temp: Human Rogue

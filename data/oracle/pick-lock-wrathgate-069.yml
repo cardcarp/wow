@@ -1,0 +1,22 @@
+name: Pick Lock
+
+origin: wrathgate-069
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Look at target player's hand and choose a location or quest. He discards that card.
+
+regulation:
+
+errata: []
+
+temp: Subtlety

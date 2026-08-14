@@ -1,13 +1,13 @@
-oracle: flames-of-azzinoth
-
-lex: '070'
-
-set: black-temple-raid
+index: '070'
 
 rarity: Uncommon
 
 artist: Luca Zontini
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: flames-of-azzinoth-black-temple-raid-070
+
+set: Black Temple Raid

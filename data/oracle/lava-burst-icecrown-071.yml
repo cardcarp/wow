@@ -1,0 +1,22 @@
+name: Lava Burst
+
+origin: icecrown-071
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Shaman
+
+rule:
+  - type: ability
+    text: You may destroy an ability you control. Your hero deals 2 fire damage to target ally, or 6 if you destroyed an ability this way.
+
+regulation:
+
+errata: []
+
+temp: Elemental

@@ -1,0 +1,22 @@
+name: Flametongue Weapon
+
+origin: through-the-dark-portal-095
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: 'Attach to one of your Melee weapons. Ongoing : When you strike with attached weapon, your hero deals 1 fire damage to target hero or ally.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement

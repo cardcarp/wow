@@ -1,0 +1,25 @@
+name: Adenda Lighthaven
+
+origin: icecrown-123
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 4
+
+combat: Holy
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Priest

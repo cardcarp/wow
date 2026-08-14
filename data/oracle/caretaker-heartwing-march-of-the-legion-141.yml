@@ -1,0 +1,27 @@
+name: Caretaker Heartwing
+
+origin: march-of-the-legion-141
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 4
+
+health: 1
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Heartwing is Untargetable while ready.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

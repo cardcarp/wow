@@ -1,13 +1,13 @@
-oracle: close-quarters-combat
-
-lex: '061'
-
-set: icecrown
+index: '061'
 
 rarity: Rare
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: '"The strength and power of their massive weaponry is all but negated in a confined space." - Gyro of the Ring'
 
-variation: []
+oracle: close-quarters-combat-icecrown-061
+
+set: Icecrown

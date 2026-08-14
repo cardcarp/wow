@@ -1,0 +1,22 @@
+name: Earthbind Totem
+
+origin: heroes-of-azeroth-107
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: "Totem Ongoing : Opposing allies can't ready during their controllers' ready step."
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental 1

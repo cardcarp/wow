@@ -1,13 +1,13 @@
-oracle: breath-of-the-elements
-
-lex: '094'
-
-set: worldbreaker
+index: '094'
 
 rarity: Rare
 
 artist: Tom Baxa
 
+variation: []
+
 flavor: '"Feel the surging elements invigorate your mind, body, and soul." - Malaxia Wizwhirl'
 
-variation: []
+oracle: breath-of-the-elements-worldbreaker-094
+
+set: Worldbreaker

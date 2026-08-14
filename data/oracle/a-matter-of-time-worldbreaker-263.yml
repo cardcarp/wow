@@ -1,0 +1,17 @@
+name: A Matter of Time
+
+origin: worldbreaker-263
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'Pay 6 to complete this quest. Reward : Draw two cards. If you control ten or more resources, draw another two cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

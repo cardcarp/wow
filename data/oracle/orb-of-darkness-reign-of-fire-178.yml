@@ -1,0 +1,24 @@
+name: Orb of Darkness
+
+origin: reign-of-fire-178
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Priest
+  - Death Knight
+  - Warlock
+
+rule:
+  - type: ability
+    text: 1 , {exhaust} → Target opponent puts the top three cards of his deck into his graveyard unless he chooses and discards a card.
+
+regulation:
+
+errata: []
+
+temp: Item

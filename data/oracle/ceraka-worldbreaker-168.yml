@@ -1,0 +1,27 @@
+name: Ceraka
+
+origin: worldbreaker-168
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 2
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'On your turn: 1 , Turn a quest you control face down → This ally deals 3 fire damage to target hero.'
+
+regulation:
+
+errata: []
+
+temp: Orc Mage

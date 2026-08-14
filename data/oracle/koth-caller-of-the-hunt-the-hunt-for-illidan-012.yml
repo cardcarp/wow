@@ -1,0 +1,22 @@
+name: Koth, Caller of the Hunt
+
+origin: the-hunt-for-illidan-012
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Koth → Allies in your party have +1 ATK while in combat with target hero or ally this turn.
+
+regulation:
+
+errata: []
+
+temp: Orc Hunter

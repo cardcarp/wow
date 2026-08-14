@@ -1,0 +1,22 @@
+name: Arcing Smash
+
+origin: black-temple-raid-019
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: Traitor Hero Required Destroy target opposing equipment and all opposing equipment with the same cost as that equipment.
+
+regulation:
+
+errata: []
+
+temp: Traitor

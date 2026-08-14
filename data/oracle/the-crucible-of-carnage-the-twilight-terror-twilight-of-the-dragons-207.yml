@@ -1,0 +1,17 @@
+name: 'The Crucible of Carnage: The Twilight Terror'
+
+origin: twilight-of-the-dragons-207
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'On your turn, if an ability, ally, or equipment was destroyed this turn: Pay 2 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

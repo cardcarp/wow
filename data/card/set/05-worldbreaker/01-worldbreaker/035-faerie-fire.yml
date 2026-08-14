@@ -1,13 +1,13 @@
-oracle: faerie-fire
-
-lex: '035'
-
-set: worldbreaker
+index: '035'
 
 rarity: Uncommon
 
 artist: Efrem Palacios
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: faerie-fire-worldbreaker-035
+
+set: Worldbreaker

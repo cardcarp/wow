@@ -1,0 +1,25 @@
+name: Scarlet Protector
+
+origin: scarlet-monastery-018
+
+layout: standard
+
+category: Ally
+
+damage: 3
+
+health: 4
+
+combat: Holy
+
+type: Dungeon
+
+rule:
+  - type: ability
+    text: This ally attacks the Raiding ally with the highest printed instead of the MARKED hero, if able. If two or more Raiding allies are tied, the Raiders choose. If unable to attack allies, she attacks the MARKED hero.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

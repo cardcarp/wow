@@ -1,13 +1,13 @@
-oracle: fist-of-the-deity
-
-lex: '190'
-
-set: wrathgate
+index: '190'
 
 rarity: Rare
 
 artist: Puly
 
+variation: []
+
 flavor: "\"Be sure you have a tight grip; Mam'toth's power should not be taken lightly.\" - Earthmender Vaaki"
 
-variation: []
+oracle: fist-of-the-deity-wrathgate-190
+
+set: Wrathgate

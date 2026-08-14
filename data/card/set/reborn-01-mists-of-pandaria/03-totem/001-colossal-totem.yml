@@ -1,13 +1,13 @@
-oracle: colossal-totem
-
-lex: '001'
-
-set: totem
+index: '001'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: colossal-totem-icecrown-067
+
+set: Totem

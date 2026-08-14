@@ -1,0 +1,22 @@
+name: Earth Elemental Totem
+
+origin: through-the-dark-portal-092
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: 'Ongoing : When Earth Elemental Totem enters play, put an Earth Elemental ally token into play with 2 ATK / 2 health, and Protector . (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement 1

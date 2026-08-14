@@ -1,0 +1,26 @@
+name: Captain Cookie - Level 3
+
+origin: the-deadmines-003
+
+layout: transform
+
+category: Hero
+
+damage: 0
+
+health: 50
+
+combat: Nature
+
+type: Dungeon
+
+rule:
+  - type: ability
+    position: front
+    text: 'Level Up: Dead Flip 3 Assault 10 , Long-Range'
+
+regulation:
+
+errata: []
+
+temp: Murloc Cook

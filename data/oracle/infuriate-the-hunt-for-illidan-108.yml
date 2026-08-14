@@ -1,0 +1,22 @@
+name: Infuriate
+
+origin: the-hunt-for-illidan-108
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Ongoing : When your hero is dealt combat damage, ready up to that many of your resources.'
+
+regulation:
+
+errata: []
+
+temp: Fury

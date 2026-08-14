@@ -1,0 +1,23 @@
+name: Natural Disaster
+
+origin: drums-of-war-101
+
+layout: standard
+
+category: Ability
+
+cost: '6'
+
+class:
+  - Druid
+  - Shaman
+
+rule:
+  - type: ability
+    text: Your hero deals 6 nature damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Balance Elemental

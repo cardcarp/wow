@@ -2,7 +2,7 @@ name: Black Temple Token
 
 type: raid
 
-lex:
+index:
 
 subtotal: 7
 
@@ -10,4 +10,4 @@ total: 7
 
 date_release: 2008-09
 
-collection: black-temple
+collection: Black Temple

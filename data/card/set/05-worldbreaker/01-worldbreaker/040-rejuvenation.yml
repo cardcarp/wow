@@ -1,13 +1,13 @@
-oracle: rejuvenation
-
-lex: '040'
-
-set: worldbreaker
+index: '040'
 
 rarity: Common
 
 artist: Vance Kovacs
 
+variation: []
+
 flavor: '"The breath of life will reel you back from the edge of oblivion." - Arturius Hathrow'
 
-variation: []
+oracle: rejuvenation-worldbreaker-040
+
+set: Worldbreaker

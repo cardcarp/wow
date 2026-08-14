@@ -1,0 +1,25 @@
+name: Threadlinked Chain
+
+origin: timewalkers-badges-of-justice-012
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: ability
+    text: All allies have Elusive and Protector . At the end of each turn, each ally heals all damage from itself.
+
+regulation:
+
+errata: []
+
+temp: Item Neck

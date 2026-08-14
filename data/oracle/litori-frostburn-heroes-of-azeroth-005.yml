@@ -1,0 +1,22 @@
+name: Litori Frostburn
+
+origin: heroes-of-azeroth-005
+
+layout: transform
+
+category: Hero
+
+health: 25
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Litori Frostburn → Target hero or ally can't attack this turn.
+
+regulation:
+
+errata: []
+
+temp: Human Mage

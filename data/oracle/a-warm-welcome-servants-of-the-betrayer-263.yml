@@ -1,0 +1,17 @@
+name: A Warm Welcome
+
+origin: servants-of-the-betrayer-263
+
+layout: standard
+
+category: Quest
+
+rule:
+  - type: ability
+    text: 'If your hero has dealt 5 or more damage this turn, pay 2 to complete this quest. Reward : Draw two cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,14 +1,14 @@
-oracle: dark-lady-sylvanas-windrunner
-
-lex: '001'
-
-set: sylvanas
+index: '001'
 
 rarity: Uncommon
 
 artist: Arnold Tsang
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: dark-lady-sylvanas-windrunner-assault-on-icecrown-citadel-raid-002
+
+set: Sylvanas

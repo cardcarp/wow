@@ -1,0 +1,27 @@
+name: 'scrapper: Ironbane'
+
+origin: the-hunt-for-illidan-139
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 3
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: At the end of your turn, you may destroy target equipment.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Rogue

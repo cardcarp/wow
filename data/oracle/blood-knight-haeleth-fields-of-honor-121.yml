@@ -1,0 +1,27 @@
+name: Blood Knight Haeleth
+
+origin: fields-of-honor-121
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 5
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'Protector Once per turn: 2 → Haeleth heals 2 damage from target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

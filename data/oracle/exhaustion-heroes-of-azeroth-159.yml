@@ -1,0 +1,19 @@
+name: Exhaustion
+
+origin: heroes-of-azeroth-159
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+instant: Exhaust target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

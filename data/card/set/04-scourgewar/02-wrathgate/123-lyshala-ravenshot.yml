@@ -1,13 +1,13 @@
-oracle: lyshala-ravenshot
-
-lex: '123'
-
-set: wrathgate
+index: '123'
 
 rarity: Common
 
 artist: Cyril Van Der Haegen
 
+variation: []
+
 flavor: '"Staying alive is as simple as keeping your distance."'
 
-variation: []
+oracle: lyshala-ravenshot-wrathgate-123
+
+set: Wrathgate

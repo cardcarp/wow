@@ -1,13 +1,13 @@
-oracle: dire-bear-form
-
-lex: '031'
-
-set: wrathgate
+index: '031'
 
 rarity: Uncommon
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: The grizzly personification of Ursoc the Mighty.
 
-variation: []
+oracle: dire-bear-form-wrathgate-031
+
+set: Wrathgate

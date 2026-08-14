@@ -1,13 +1,13 @@
-oracle: purifying-mists
-
-lex: '026'
-
-set: monk-starter
+index: '026'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: purifying-mists-monk-starter-026
+
+set: Monk Starter

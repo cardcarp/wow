@@ -1,0 +1,24 @@
+name: Veterans Dreadweave Belt
+
+origin: fields-of-honor-163
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: Players pay 2 more to play cards.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

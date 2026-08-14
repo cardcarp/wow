@@ -1,13 +1,13 @@
-oracle: angry-dread
-
-lex: '186'
-
-set: wrathgate
+index: '186'
 
 rarity: Common
 
 artist: RK Post
 
+variation: []
+
 flavor: "\"So I'll get to beat someone over the head with this? I'm in!\" - Parvink"
 
-variation: []
+oracle: angry-dread-wrathgate-186
+
+set: Wrathgate

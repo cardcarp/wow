@@ -1,0 +1,25 @@
+name: Crown of Destruction
+
+origin: through-the-dark-portal-252
+
+layout: standard
+
+category: Equipment
+
+cost: '5'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Shaman
+
+rule:
+  - type: ability
+    text: At the end of each player's turn, that player destroys one of his abilities, allies, or equipment.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

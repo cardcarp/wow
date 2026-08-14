@@ -1,0 +1,22 @@
+name: Dragonheart Piercer
+
+origin: twilight-of-the-dragons-197
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Hunter
+
+rule:
+  - type: ability
+    text: Long-Range This weapon has +1 ATK for each different color among Dragonkin you control. (Dragonkin colors are Black, Blue, Bronze, Green, Red, and Twilight.)
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Crossbow

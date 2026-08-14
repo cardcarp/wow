@@ -1,13 +1,13 @@
-oracle: brighteye
-
-lex: '009'
-
-set: murkdeep
+index: '009'
 
 rarity: Common
 
 artist: Jim Nelson
 
+variation: []
+
 flavor: '"Rr mgg Gggmlmmm Lgmlmgl m Ggmgl."'
 
-variation: []
+oracle: brighteye-throne-of-the-tides-183
+
+set: Murkdeep

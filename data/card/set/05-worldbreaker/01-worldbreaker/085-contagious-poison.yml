@@ -1,13 +1,13 @@
-oracle: contagious-poison
-
-lex: '085'
-
-set: worldbreaker
+index: '085'
 
 rarity: Rare
 
 artist: Efrem Palacios
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: contagious-poison-worldbreaker-085
+
+set: Worldbreaker

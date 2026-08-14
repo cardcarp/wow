@@ -1,0 +1,19 @@
+name: Cover of the Light
+
+origin: dungeon-treasure-002
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+rule:
+  - type: ability
+    text: "Ongoing : When a Paladin ally enters play under your control or a friendly player's control, it heals 3 damage from target hero or ally."
+
+regulation:
+
+errata: []
+
+temp: ''

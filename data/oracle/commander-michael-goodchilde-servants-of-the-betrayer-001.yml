@@ -1,0 +1,22 @@
+name: Commander Michael Goodchilde
+
+origin: servants-of-the-betrayer-001
+
+layout: transform
+
+category: Hero
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Michael → If a friendly ally would deal combat damage while defending this turn, it deals that much +2 instead.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

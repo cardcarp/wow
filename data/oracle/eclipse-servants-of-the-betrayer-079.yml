@@ -1,0 +1,22 @@
+name: Eclipse
+
+origin: servants-of-the-betrayer-079
+
+layout: standard
+
+category: Ability
+
+cost: '5'
+
+class:
+  - Priest
+
+instant: 'Traitor Hero Required Ongoing : When damage is healed from an opposing hero or ally, your hero deals double that much shadow damage to that character.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Traitor

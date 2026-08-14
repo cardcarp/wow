@@ -1,0 +1,23 @@
+name: Topple
+
+origin: drums-of-war-108
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Paladin
+  - Hunter
+
+instant: Destroy target ally attacking your hero.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Survival Retribution

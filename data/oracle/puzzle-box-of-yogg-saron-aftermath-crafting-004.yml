@@ -1,0 +1,31 @@
+name: Puzzle Box of Yogg-Saron
+
+origin: aftermath-crafting-004
+
+layout: standard
+
+category: Equipment
+
+cost: '7'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: ability
+    text: Players play with the top card of their decks revealed. At the start of each player's turn, if the top card of his deck is a master hero, ability, ally, or equipment, he may play it without paying its cost. → Shuffle target player's deck.
+
+regulation:
+
+errata: []
+
+temp: Item

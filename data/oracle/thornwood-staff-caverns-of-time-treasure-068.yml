@@ -1,0 +1,23 @@
+name: Thornwood Staff
+
+origin: caverns-of-time-treasure-068
+
+layout: standard
+
+category: Equipment
+
+cost: '3'
+
+class:
+  - Druid
+  - Hunter
+
+rule:
+  - type: ability
+    text: "→ Exhaust target card. On an opponent's turn: → Ready another target card."
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

@@ -1,0 +1,25 @@
+name: Jewelcrafter Zanaz
+
+origin: fires-of-outland-123
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Holy
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

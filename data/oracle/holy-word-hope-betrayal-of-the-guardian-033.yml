@@ -1,0 +1,22 @@
+name: 'Holy Word: Hope'
+
+origin: betrayal-of-the-guardian-033
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +3 . When attached ally is dealt damage while defending, your hero heals 3 damage from itself.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy Attachment

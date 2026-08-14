@@ -1,0 +1,27 @@
+name: Buma Sharpstride
+
+origin: icecrown-125
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Scourge heroes and allies have -2 ATK while in combat with this ally.
+
+regulation:
+
+errata: []
+
+temp: Tauren Hunter

@@ -1,0 +1,19 @@
+name: Burn Away
+
+origin: heroes-of-azeroth-156
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+rule:
+  - type: ability
+    text: Destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: ''

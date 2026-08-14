@@ -1,13 +1,13 @@
-oracle: purifying-brew
-
-lex: '025'
-
-set: monk-starter
+index: '025'
 
 rarity: Common
 
 artist: ''
 
+variation: []
+
 flavor: ''
 
-variation: []
+oracle: purifying-brew-monk-starter-025
+
+set: Monk Starter

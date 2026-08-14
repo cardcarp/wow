@@ -1,0 +1,25 @@
+name: Halion, Staff of Forgotten Love
+
+origin: assault-on-icecrown-citadel-treasure-019
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: If an ally you controlled dealt damage to a hero this turn, you pay 1 less to play cards.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

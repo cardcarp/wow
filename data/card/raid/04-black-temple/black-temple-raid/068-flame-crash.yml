@@ -1,13 +1,13 @@
-oracle: flame-crash
-
-lex: '068'
-
-set: black-temple-raid
+index: '068'
 
 rarity: Uncommon
 
 artist: Jonboy Meyers
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: flame-crash-black-temple-raid-068
+
+set: Black Temple Raid

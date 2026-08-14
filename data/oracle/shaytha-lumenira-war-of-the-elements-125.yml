@@ -1,0 +1,27 @@
+name: Shaytha Lumenira
+
+origin: war-of-the-elements-125
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: This ally has Arcane Resistance while you control an ability.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

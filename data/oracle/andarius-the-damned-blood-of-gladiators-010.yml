@@ -1,0 +1,22 @@
+name: Andarius the Damned
+
+origin: blood-of-gladiators-010
+
+layout: transform
+
+category: Hero
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: ability
+    position: front
+    text: 2 , Flip Andarius → Put an attachment you control into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

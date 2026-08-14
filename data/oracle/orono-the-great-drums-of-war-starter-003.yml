@@ -1,0 +1,25 @@
+name: Orono the Great
+
+origin: drums-of-war-starter-003
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

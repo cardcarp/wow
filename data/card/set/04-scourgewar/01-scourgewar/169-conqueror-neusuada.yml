@@ -1,13 +1,13 @@
-oracle: conqueror-neusuada
-
-lex: '169'
-
-set: scourgewar
+index: '169'
 
 rarity: Uncommon
 
 artist: Christopher Moeller
 
+variation: []
+
 flavor: '"Fear THIS."'
 
-variation: []
+oracle: conqueror-neusuada-scourgewar-169
+
+set: Scourgewar

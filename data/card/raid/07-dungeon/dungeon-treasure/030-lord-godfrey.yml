@@ -1,13 +1,13 @@
-oracle: lord-godfrey
-
-lex: '030'
-
-set: dungeon-treasure
+index: '030'
 
 rarity: Epic
 
 artist: Slawomir Maniak
 
+variation: []
+
 flavor: '"Murder never gets old."'
 
-variation: []
+oracle: lord-godfrey-dungeon-treasure-030
+
+set: Dungeon Treasure

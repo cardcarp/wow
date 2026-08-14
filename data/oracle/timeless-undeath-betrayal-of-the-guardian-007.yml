@@ -1,0 +1,22 @@
+name: Timeless Undeath
+
+origin: betrayal-of-the-guardian-007
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Death Knight
+
+rule:
+  - type: ability
+    text: Echo Put a 3 / 3 Ghoul ally token into play.
+
+regulation:
+
+errata: []
+
+temp: Unholy

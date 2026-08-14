@@ -1,0 +1,22 @@
+name: Cheat Death
+
+origin: march-of-the-legion-081
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Rogue
+
+instant: Subtlety Hero Required Remove your hero from the game. As your next turn starts, put it into play flipped the same way and with the same damage. (You can't play cards while your hero is removed.)
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Subtlety Talent

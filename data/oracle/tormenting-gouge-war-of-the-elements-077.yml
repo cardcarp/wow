@@ -1,0 +1,22 @@
+name: Tormenting Gouge
+
+origin: war-of-the-elements-077
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: Exhaust each opposing ally with cost 4 or less.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Combat

@@ -1,0 +1,25 @@
+name: Doomguard Devastator
+
+origin: caverns-of-time-raid-022
+
+layout: standard
+
+category: Ally
+
+damage: 5
+
+health: 4
+
+combat: Melee
+
+type: Boss
+
+rule:
+  - type: ability
+    text: When this ally enters play, exhaust all opposing heroes and allies with Protector .
+
+regulation:
+
+errata: []
+
+temp: Doomguard Demon

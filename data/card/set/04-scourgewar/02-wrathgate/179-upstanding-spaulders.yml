@@ -1,13 +1,13 @@
-oracle: upstanding-spaulders
-
-lex: '179'
-
-set: wrathgate
+index: '179'
 
 rarity: Rare
 
 artist: Yang Jialun (Massive Black)
 
+variation: []
+
 flavor: '"Against the Scourge, it takes great energy to remain incorruptible." - Grennan Stormspeaker'
 
-variation: []
+oracle: upstanding-spaulders-wrathgate-179
+
+set: Wrathgate

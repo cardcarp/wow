@@ -1,13 +1,13 @@
-oracle: scarlet-protector
-
-lex: '018'
-
-set: scarlet-monastery
+index: '018'
 
 rarity: Common
 
 artist: Gonzalo Ordonez
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: scarlet-protector-scarlet-monastery-018
+
+set: Scarlet Monastery

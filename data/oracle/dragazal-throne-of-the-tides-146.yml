@@ -1,0 +1,25 @@
+name: Draga'zal
+
+origin: throne-of-the-tides-146
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Frost
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Orc Mage

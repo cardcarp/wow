@@ -1,0 +1,22 @@
+name: Tower of Radiance
+
+origin: tomb-of-the-forgotten-035
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Holy Talent This ability enters play with four radiance counters on it. Ongoing : At the start of your turn, remove a radiance counter from this ability. If none remain, destroy this ability. Your hero has Assault 1 and Mend 1 for each radiance counter on this ability.'
+
+regulation:
+
+errata: []
+
+temp: Holy

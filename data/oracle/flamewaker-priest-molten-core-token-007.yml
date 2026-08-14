@@ -1,0 +1,25 @@
+name: Flamewaker Priest
+
+origin: molten-core-token-007
+
+layout: standard
+
+category: Token
+
+damage: 1
+
+health: 5
+
+combat: Melee
+
+type: Ally
+
+rule:
+  - type: ability
+    text: → Flamewaker Priest heals 4 damage from target hero or ally. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Flamewaker

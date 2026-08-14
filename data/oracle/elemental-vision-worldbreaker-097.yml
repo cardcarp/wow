@@ -1,0 +1,22 @@
+name: Elemental Vision
+
+origin: worldbreaker-097
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: Look at the top three cards of your deck. Put one into your hand and the rest into your graveyard.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement

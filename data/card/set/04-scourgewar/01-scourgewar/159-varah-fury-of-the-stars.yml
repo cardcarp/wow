@@ -1,13 +1,13 @@
-oracle: varah-fury-of-the-stars
-
-lex: '159'
-
-set: scourgewar
+index: '159'
 
 rarity: Common
 
 artist: Daren Bader
 
+variation: []
+
 flavor: '"It is at night when our people shine brightest."'
 
-variation: []
+oracle: varah-fury-of-the-stars-scourgewar-159
+
+set: Scourgewar

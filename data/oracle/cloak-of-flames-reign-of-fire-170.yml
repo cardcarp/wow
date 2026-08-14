@@ -1,0 +1,25 @@
+name: Cloak of Flames
+
+origin: reign-of-fire-170
+
+layout: standard
+
+category: Equipment
+
+cost: '4'
+
+class:
+  - Warlock
+  - Shaman
+  - Hunter
+  - Mage
+
+rule:
+  - type: ability
+    text: When your hero deals damage to an opposing hero, it may deal 1 fire damage to target ally.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

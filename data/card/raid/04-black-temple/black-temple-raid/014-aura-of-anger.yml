@@ -1,13 +1,13 @@
-oracle: aura-of-anger
-
-lex: '014'
-
-set: black-temple-raid
+index: '014'
 
 rarity: Uncommon
 
 artist: Massive Black
 
+variation: []
+
 flavor: '"My soul longs for vengeance." - Illidan Stormrage'
 
-variation: []
+oracle: aura-of-anger-black-temple-raid-014
+
+set: Black Temple Raid

@@ -1,13 +1,13 @@
-oracle: conqueror-gurzom
-
-lex: '167'
-
-set: scourgewar
+index: '167'
 
 rarity: Uncommon
 
 artist: Samwise
 
+variation: []
+
 flavor: "\"I've got my eye on you!\""
 
-variation: []
+oracle: conqueror-gurzom-scourgewar-167
+
+set: Scourgewar

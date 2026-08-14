@@ -1,0 +1,27 @@
+name: Tristan Rapidstrike
+
+origin: heroes-of-azeroth-221
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+instant: Protector
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

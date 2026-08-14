@@ -1,0 +1,27 @@
+name: Jubilee Arcspark
+
+origin: fires-of-outland-125
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Untargetable When Jubilee Arcspark is revealed from your deck by a quest, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

@@ -1,13 +1,13 @@
-oracle: power-word-preservation
-
-lex: '078'
-
-set: worldbreaker
+index: '078'
 
 rarity: Common
 
 artist: Mike Sass
 
+variation: []
+
 flavor: '"Survival is oftentimes key to victory." - Tilly Fiddlelight'
 
-variation: []
+oracle: power-word-preservation-worldbreaker-078
+
+set: Worldbreaker

@@ -1,13 +1,13 @@
-oracle: father-kamaros
-
-lex: '001'
-
-set: wrathgate-token
+index: '001'
 
 rarity:
 
 artist:
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: father-kamaros-wrathgate-token-001
+
+set: Wrathgate Token

@@ -1,0 +1,22 @@
+name: Conquering Shout
+
+origin: icecrown-082
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Ongoing : Allies you control have Assault 2 .'
+
+regulation:
+
+errata: []
+
+temp: Fury Shout

@@ -1,0 +1,23 @@
+name: Defias Brotherhood Vest
+
+origin: dungeon-treasure-039
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: ability
+    text: While you control four or more allies, allies you control have Assault 1 and Stealth .
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

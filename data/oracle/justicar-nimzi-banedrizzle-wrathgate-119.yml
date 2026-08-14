@@ -1,0 +1,30 @@
+name: Justicar Nimzi Banedrizzle
+
+origin: wrathgate-119
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Shadow
+
+faction: Alliance
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: When this ally leaves play, you may remove target Druid ally, ability, or equipment from the game.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

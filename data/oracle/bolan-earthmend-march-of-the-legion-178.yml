@@ -1,0 +1,27 @@
+name: Bolan Earthmend
+
+origin: march-of-the-legion-178
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 1
+
+health: 4
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When Bolan readies, he heals all damage from target ally.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

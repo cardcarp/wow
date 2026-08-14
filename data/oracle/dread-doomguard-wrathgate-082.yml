@@ -1,0 +1,28 @@
+name: Dread Doomguard
+
+origin: wrathgate-082
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 7
+
+combat: Shadow
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: At the start of your turn, randomly choose "ability," "equipment," or "resource." When this ally deals damage while attacking, you may destroy target card of the kind chosen this turn.
+
+regulation:
+
+errata: []
+
+temp: Doomguard Demon

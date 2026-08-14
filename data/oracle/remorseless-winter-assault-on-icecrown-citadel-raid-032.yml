@@ -1,0 +1,21 @@
+name: Remorseless Winter
+
+origin: assault-on-icecrown-citadel-raid-032
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+type: Boss
+
+rule:
+  - type: ability
+    text: "Ongoing : This ability enters play with four frozen counters. When an opponent plays a card, the Lich King deals 5 frost damage to that player's hero, then remove a frozen counter from this ability. If none remain, destroy this ability."
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,22 @@
+name: Strength of Earth Totem
+
+origin: blood-of-gladiators-065
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Shaman
+
+instant: 'Ongoing : Allies in your party have +1 ATK. (Totems can be attacked or targeted like allies.)'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement 1

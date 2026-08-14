@@ -1,0 +1,22 @@
+name: Demonic Soulstone
+
+origin: worldbreaker-104
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: "Attach to target ally you control. Ongoing : When attached ally is destroyed, put it from its owner's graveyard into his hand."
+
+regulation:
+
+errata: []
+
+temp: Demonology

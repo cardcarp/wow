@@ -1,0 +1,22 @@
+name: Raging Shout
+
+origin: worldbreaker-120
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: ability
+    text: 'Ongoing : Allies you control have Assault 1 . Stash : Your hero has Assault 1 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Fury Shout

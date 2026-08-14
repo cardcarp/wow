@@ -1,0 +1,19 @@
+name: Blunder into the Eggs
+
+origin: onyxias-lair-event-002
+
+layout: standard
+
+category: Event
+
+type: Raid
+
+rule:
+  - type: ability
+    text: Put a Whelp into play for each opposing hero. Those whelps have Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: ''

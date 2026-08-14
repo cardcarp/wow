@@ -1,0 +1,27 @@
+name: Mias the Fair
+
+origin: reign-of-fire-088
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 1
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters play, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Human Warlock

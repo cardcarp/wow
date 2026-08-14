@@ -1,13 +1,13 @@
-oracle: alexandros-mograine
-
-lex: '024'
-
-set: dungeon-treasure
+index: '024'
 
 rarity: Epic
 
 artist: Steve Prescott
 
+variation: []
+
 flavor: '"The Ashbringer ..."'
 
-variation: []
+oracle: alexandros-mograine-dungeon-treasure-024
+
+set: Dungeon Treasure

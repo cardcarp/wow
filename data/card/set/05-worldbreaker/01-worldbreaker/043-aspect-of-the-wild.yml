@@ -1,13 +1,13 @@
-oracle: aspect-of-the-wild
-
-lex: '043'
-
-set: worldbreaker
+index: '043'
 
 rarity: Rare
 
 artist: Jonboy Meyers
 
+variation: []
+
 flavor: '"Every soul has a wild aspect; you must find yours and embrace it." -'
 
-variation: []
+oracle: aspect-of-the-wild-worldbreaker-043
+
+set: Worldbreaker

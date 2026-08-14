@@ -2,7 +2,7 @@ name: Timewalkers
 
 type: starter
 
-lex: '00'
+index: '00'
 
 subtotal: 30
 
@@ -10,4 +10,4 @@ total: 60
 
 date_release: 2012-10
 
-collection: timewalker
+collection: Timewalker

@@ -1,0 +1,25 @@
+name: Kwee Q. Peddlefeet
+
+origin: worldbreaker-holiday-promotional-002
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 1
+
+health: 4
+
+combat: Ranged
+
+rule:
+  - type: ability
+    text: Long-Range When this ally deals combat damage to an ally while attacking, gain control of that ally while this ally remains under your control.
+
+regulation:
+
+errata: []
+
+temp: Goblin Cupid

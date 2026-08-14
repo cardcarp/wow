@@ -1,13 +1,13 @@
-oracle: plagued-champion
-
-lex: '011'
-
-set: naxxramas-token
+index: '011'
 
 rarity: Common
 
 artist: Daren Bader
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: plagued-champion-naxxramas-token-011
+
+set: Naxxramas Token

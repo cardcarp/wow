@@ -1,0 +1,22 @@
+name: Chasten
+
+origin: march-of-the-legion-068
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Priest
+
+instant: Your hero deals 3 unpreventable holy damage to target hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

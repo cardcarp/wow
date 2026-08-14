@@ -1,0 +1,27 @@
+name: Kyroth Steelspite
+
+origin: horde-mage-2011-017
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Opponents can't strike with weapons.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Warrior

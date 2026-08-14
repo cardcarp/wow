@@ -1,13 +1,13 @@
-oracle: sullivan-holmes
-
-lex: '148'
-
-set: wrathgate
+index: '148'
 
 rarity: Common
 
 artist: Daarken
 
+variation: []
+
 flavor: '"With each death, we are forced to push ourselves harder."'
 
-variation: []
+oracle: sullivan-holmes-wrathgate-148
+
+set: Wrathgate

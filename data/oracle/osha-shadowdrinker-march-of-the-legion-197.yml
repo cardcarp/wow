@@ -1,0 +1,27 @@
+name: Osha Shadowdrinker
+
+origin: march-of-the-legion-197
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When a ally in your party deals combat damage, ready up to that many of your resources.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

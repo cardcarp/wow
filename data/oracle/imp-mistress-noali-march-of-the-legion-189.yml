@@ -1,0 +1,27 @@
+name: Imp Mistress Noali
+
+origin: march-of-the-legion-189
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 4
+
+health: 4
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Your face-down resources are also Imp Demon allies with 1 ATK / 1 health.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Warlock

@@ -1,0 +1,27 @@
+name: Delrach the Vile
+
+origin: servants-of-the-betrayer-161
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 7
+
+health: 6
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: When Delrach attacks, destroy any number of allies with an attachment.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

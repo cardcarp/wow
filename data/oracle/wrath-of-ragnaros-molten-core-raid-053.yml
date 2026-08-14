@@ -1,0 +1,19 @@
+name: Wrath of Ragnaros
+
+origin: molten-core-raid-053
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+rule:
+  - type: ability
+    text: Destroy target ally. Ragnaros deals fire damage equal to that ally's cost to a hero in that ally's party.
+
+regulation:
+
+errata: []
+
+temp: Ragnaros

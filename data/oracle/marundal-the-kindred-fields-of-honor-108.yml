@@ -1,0 +1,27 @@
+name: Marundal the Kindred
+
+origin: fields-of-honor-108
+
+layout: standard
+
+category: Ally
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Each ally has ATK and equal to its cost, and can't gain or lose ATK or .
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

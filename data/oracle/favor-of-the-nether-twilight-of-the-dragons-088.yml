@@ -1,0 +1,22 @@
+name: Favor of the Nether
+
+origin: twilight-of-the-dragons-088
+
+layout: standard
+
+category: Ability
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: ability
+    text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, your hero deals 1 fire damage to each opposing hero and ally.'
+
+regulation:
+
+errata: []
+
+temp: Destruction

@@ -1,0 +1,22 @@
+name: Millennium Blade
+
+origin: betrayal-of-the-guardian-183
+
+layout: standard
+
+category: Equipment
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Dual Wield While you control another weapon, this weapon has +1 ATK, and you pay 1 less to strike with it.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

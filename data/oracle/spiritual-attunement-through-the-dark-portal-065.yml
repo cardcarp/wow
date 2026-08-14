@@ -1,0 +1,22 @@
+name: Spiritual Attunement
+
+origin: through-the-dark-portal-065
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Paladin
+
+rule:
+  - type: ability
+    text: 'Ongoing : When another hero or ally heals damage from your hero, you may pay 1 . If you do, draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Protection

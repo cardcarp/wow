@@ -1,0 +1,29 @@
+name: Gladiator Skumm
+
+origin: blood-of-gladiators-131
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+type: Arena
+
+rule:
+  - type: ability
+    text: When an Arena ally in your party is dealt damage, you may turn target resource face down.
+
+regulation:
+
+errata: []
+
+temp: Troll Rogue

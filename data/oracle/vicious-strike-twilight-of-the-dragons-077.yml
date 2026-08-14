@@ -1,0 +1,22 @@
+name: Vicious Strike
+
+origin: twilight-of-the-dragons-077
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: Your hero deals 3 melee damage to target ally with cost 4 or less.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Combat

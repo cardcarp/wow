@@ -1,0 +1,27 @@
+name: Landon Dunavin
+
+origin: worldbreaker-182
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Arcane
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Long-Range
+
+regulation:
+
+errata: []
+
+temp: Undead Hunter

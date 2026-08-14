@@ -1,0 +1,27 @@
+name: Grint Sundershot
+
+origin: heroes-of-azeroth-186
+
+layout: standard
+
+category: Ally
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Opponents can't strike with weapons on your turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

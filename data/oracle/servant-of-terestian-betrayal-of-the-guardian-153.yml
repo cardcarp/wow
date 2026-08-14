@@ -1,0 +1,27 @@
+name: Servant of Terestian
+
+origin: betrayal-of-the-guardian-153
+
+layout: standard
+
+category: Ally
+
+cost: '6'
+
+damage: 7
+
+health: 2
+
+combat: Fire
+
+type: Monster
+
+rule:
+  - type: ability
+    text: Elusive
+
+regulation:
+
+errata: []
+
+temp: Imp Demon

@@ -1,0 +1,27 @@
+name: Nazgrel, Advisor to Thrall
+
+origin: march-of-the-legion-196
+
+layout: standard
+
+category: Ally
+
+cost: '7'
+
+damage: 7
+
+health: 6
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector When Nazgrel enters play, destroy target ally.
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

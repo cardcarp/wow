@@ -1,0 +1,17 @@
+name: Graveyard Overpopulation
+
+origin: arena-grand-melee-event-042
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: 'Ongoing : When an ally is destroyed, its owner may put an ally card with higher cost from his graveyard into play.'
+
+regulation:
+
+errata: []
+
+temp: ''

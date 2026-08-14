@@ -1,13 +1,13 @@
-oracle: pick-lock
-
-lex: '069'
-
-set: wrathgate
+index: '069'
 
 rarity: Common
 
 artist: E.M. Gist
 
+variation: []
+
 flavor: '"Some say surgeons have the steadiest hands, but I beg to differ." - Sunstalker Andora'
 
-variation: []
+oracle: pick-lock-wrathgate-069
+
+set: Wrathgate

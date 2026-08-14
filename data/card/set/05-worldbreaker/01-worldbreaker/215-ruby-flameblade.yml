@@ -1,13 +1,13 @@
-oracle: ruby-flameblade
-
-lex: '215'
-
-set: worldbreaker
+index: '215'
 
 rarity: Common
 
 artist: Clint Langley
 
+variation: []
+
 flavor:
 
-variation: []
+oracle: ruby-flameblade-worldbreaker-215
+
+set: Worldbreaker

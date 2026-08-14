@@ -1,14 +1,14 @@
-oracle: gurtogg-bloodboil
-
-lex: '005'
-
-set: black-temple-raid
+index: '005'
 
 rarity: Rare
 
 artist: Michael Sutfin
 
-flavor:
-
 variation:
   - transform
+
+flavor:
+
+oracle: gurtogg-bloodboil-black-temple-raid-005
+
+set: Black Temple Raid

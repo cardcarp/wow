@@ -11,7 +11,7 @@ facet:
 
 collection: '2013'
 
-highlight: starter-2013-horde-dk-001
+highlight: horde-death-knight-2013-001
 
 description: 2013 Horde Death Knight Preconstructed
 
@@ -23,28 +23,28 @@ total: 61
 
 list:
   hero:
-    starter-2013-horde-dk-001: 1  # Arathyen, the Suns Shadow
+    horde-death-knight-2013-001: 1  # Arathyen, the Suns Shadow
   main:
-    starter-2013-horde-dk-002: 3  # Blight Bringers
-    starter-2013-horde-dk-003: 1 # Dark Transformation
-    starter-2013-horde-dk-004: 2 # Death Coil
-    starter-2013-horde-dk-005: 3 # Deaths Duo
-    starter-2013-horde-dk-006: 3 # Festering Disease
-    starter-2013-horde-dk-007: 3 # Horn of Winter
-    starter-2013-horde-dk-008: 3 # Raise the Dead
-    starter-2013-horde-dk-009: 2 # Siphon of Undeath
-    starter-2013-horde-dk-010: 2 # Baru Gravehorn
-    starter-2013-horde-dk-011: 3 # Claemora Amberglare
-    starter-2013-horde-dk-012: 1 # Deathlord Jones
-    starter-2013-horde-dk-013: 3 # Drandus the Deathcaller
-    starter-2013-horde-dk-014: 3 # Emelia Darkhand
-    starter-2013-horde-dk-015: 3 # _Fungus Face_ McGillicutty
-    starter-2013-horde-dk-016: 1 # Gravelord Adams
-    starter-2013-horde-dk-017: 3 # Karrok Scarrend
-    starter-2013-horde-dk-018: 3 # Vaerik Proudhoof
-    starter-2013-horde-dk-019: 3 # Vuza_jin
-    starter-2013-horde-dk-020: 3 # Archival Purposes
-    starter-2013-horde-dk-021: 3 # Entrenched
-    starter-2013-horde-dk-022: 3 # Escape from Durnholde
-    starter-2013-horde-dk-023: 3 # The Essence of Enmity
-    starter-2013-horde-dk-024: 3 # The Path to the Dragon Soul
+    horde-death-knight-2013-002: 3  # Blight Bringers
+    horde-death-knight-2013-003: 1 # Dark Transformation
+    horde-death-knight-2013-004: 2 # Death Coil
+    horde-death-knight-2013-005: 3 # Deaths Duo
+    horde-death-knight-2013-006: 3 # Festering Disease
+    horde-death-knight-2013-007: 3 # Horn of Winter
+    horde-death-knight-2013-008: 3 # Raise the Dead
+    horde-death-knight-2013-009: 2 # Siphon of Undeath
+    horde-death-knight-2013-010: 2 # Baru Gravehorn
+    horde-death-knight-2013-011: 3 # Claemora Amberglare
+    horde-death-knight-2013-012: 1 # Deathlord Jones
+    horde-death-knight-2013-013: 3 # Drandus the Deathcaller
+    horde-death-knight-2013-014: 3 # Emelia Darkhand
+    horde-death-knight-2013-015: 3 # "Fungus Face" McGillicutty
+    horde-death-knight-2013-016: 1 # Gravelord Adams
+    horde-death-knight-2013-017: 3 # Karrok Scarrend
+    horde-death-knight-2013-018: 3 # Vaerik Proudhoof
+    horde-death-knight-2013-019: 3 # Vuza'jin
+    horde-death-knight-2013-020: 3 # Archival Purposes
+    horde-death-knight-2013-021: 3 # Entrenched
+    horde-death-knight-2013-022: 3 # Escape from Durnholde
+    horde-death-knight-2013-023: 3 # The Essence of Enmity
+    horde-death-knight-2013-024: 3 # The Path to the Dragon Soul

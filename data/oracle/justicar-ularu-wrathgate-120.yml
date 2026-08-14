@@ -1,0 +1,27 @@
+name: Justicar Ularu
+
+origin: wrathgate-120
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: When this ally enters combat for the first time on each of your turns, ready him if a Priest is defending.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

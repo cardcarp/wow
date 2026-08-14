@@ -1,0 +1,25 @@
+name: Eternium Runed Blade
+
+origin: azeroth-crafting-008
+
+layout: standard
+
+category: Equipment
+
+cost: '7'
+
+class:
+  - Priest
+  - Shaman
+  - Warlock
+  - Mage
+
+rule:
+  - type: ability
+    text: Players can't play allies. Allies can't be destroyed.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

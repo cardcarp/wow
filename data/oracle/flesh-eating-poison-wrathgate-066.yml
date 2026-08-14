@@ -1,0 +1,22 @@
+name: Flesh Eating Poison
+
+origin: wrathgate-066
+
+layout: standard
+
+category: Ability
+
+cost: '4'
+
+class:
+  - Rogue
+
+instant: 'Attach to target hero or ally that was dealt combat damage by your hero this turn. Ongoing : At the start of your turn, your hero deals 5 nature damage to attached character.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Poison

@@ -1,0 +1,29 @@
+name: Gladiator Meganna
+
+origin: blood-of-gladiators-106
+
+layout: standard
+
+category: Ally
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+type: Arena
+
+rule:
+  - type: ability
+    text: Arena allies in your party have Stealth .
+
+regulation:
+
+errata: []
+
+temp: Human Rogue

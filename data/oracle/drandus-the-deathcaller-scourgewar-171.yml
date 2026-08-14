@@ -1,0 +1,27 @@
+name: Drandus the Deathcaller
+
+origin: scourgewar-171
+
+layout: standard
+
+category: Ally
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: Protector Ghouls you control have Assault 2 .
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Death Knight

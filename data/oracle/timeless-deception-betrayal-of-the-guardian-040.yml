@@ -1,0 +1,22 @@
+name: Timeless Deception
+
+origin: betrayal-of-the-guardian-040
+
+layout: standard
+
+category: Ability
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: ability
+    text: Echo Target opponent chooses and discards a card.
+
+regulation:
+
+errata: []
+
+temp: Subtlety

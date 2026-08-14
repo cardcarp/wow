@@ -1,0 +1,27 @@
+name: Alexstrasza the Life-Binder
+
+origin: worldbreaker-021
+
+layout: transform
+
+category: Hero
+
+class:
+  - Paladin
+  - Priest
+
+type: Monster
+
+rule:
+  - type: ability
+    position: front
+    text: (Allies you control can protect this hero.) 6 , Flip Alexstrasza face down → Put target ally from your graveyard into play.
+  - type: ability
+    position: reverse
+    text: "Allies you control have +2 / +2 and Elusive , and they can't be targeted by opponents. Deckbuilding : You may include either or cards, and , , and Neutral cards. You can't include more than one of each card."
+
+regulation:
+
+errata: []
+
+temp: Red Dragonkin Aspect 40

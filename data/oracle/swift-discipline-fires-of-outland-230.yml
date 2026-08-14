@@ -1,0 +1,19 @@
+name: Swift Discipline
+
+origin: fires-of-outland-230
+
+layout: standard
+
+category: Quest
+
+faction: Horde
+
+rule:
+  - type: ability
+    text: 'During your turn, pay 1 to complete this quest. Reward : Draw a card, and target opponent puts a Boar ally token with 1 ATK and 1 health into play.'
+
+regulation:
+
+errata: []
+
+temp: ''

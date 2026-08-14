@@ -1,0 +1,17 @@
+name: Undercover Agent
+
+origin: arena-grand-melee-event-102
+
+layout: standard
+
+category: Event
+
+rule:
+  - type: ability
+    text: Name a card, then reveal the top five cards of a player's deck. Put all revealed cards with that name into your hand and the rest into that player's graveyard.
+
+regulation:
+
+errata: []
+
+temp: ''

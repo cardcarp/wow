@@ -1,0 +1,19 @@
+name: Sadistic Choice
+
+origin: magtheridons-lair-raid-022
+
+layout: standard
+
+category: Ability
+
+cost: '1'
+
+instant: Reveal the top two cards of your deck. Target raiding player chooses whether you put them into your hand or graveyard. If he chooses the graveyard, draw two cards.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

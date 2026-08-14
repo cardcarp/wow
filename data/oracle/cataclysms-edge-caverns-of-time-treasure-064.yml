@@ -1,0 +1,24 @@
+name: Cataclysms Edge
+
+origin: caverns-of-time-treasure-064
+
+layout: standard
+
+category: Equipment
+
+cost: '6'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: ability
+    text: When this weapon enters play, each player chooses one ability, weapon, armor and item he controls, then destroys the rest.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Sword

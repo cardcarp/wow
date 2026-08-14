@@ -1,13 +1,14 @@
-oracle: krunkle-deadspark
-
-lex: '006'
-
-set: wrathgate
+index: '006'
 
 rarity:
 
 artist:
 
+variation:
+  - transform
+
 flavor:
 
-variation: []
+oracle: krunkle-deadspark-wrathgate-006
+
+set: Wrathgate

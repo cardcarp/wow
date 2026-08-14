@@ -1,0 +1,22 @@
+name: Tranquility
+
+origin: servants-of-the-betrayer-046
+
+layout: standard
+
+category: Ability
+
+cost: X
+
+class:
+  - Druid
+
+rule:
+  - type: ability
+    text: Your hero heals double X damage from each friendly hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Restoration

@@ -1,0 +1,27 @@
+name: Apprentice Merry
+
+origin: through-the-dark-portal-153
+
+layout: standard
+
+category: Ally
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: ability
+    text: Untargetable
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage
