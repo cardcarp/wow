@@ -2,9 +2,12 @@ name: Prized Beastmasters Mantle
 
 origin: worldbreaker-223
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Non- , non- allies you control have +3 . Stash : Your hero heals 3 damage from target non- , non- ally you control.'
 
 regulation:

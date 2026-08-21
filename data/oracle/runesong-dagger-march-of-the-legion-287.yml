@@ -2,9 +2,12 @@ name: Runesong Dagger
 
 origin: march-of-the-legion-287
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you draw a card, put a verse counter on Runesong Dagger. 1 , Remove three verse counters → Your hero deals 3 arcane damage to target ally.
 
 regulation:

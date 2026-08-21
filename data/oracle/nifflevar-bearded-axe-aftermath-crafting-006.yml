@@ -2,9 +2,12 @@ name: Nifflevar Bearded Axe
 
 origin: aftermath-crafting-006
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals damage with this weapon, you pay 4 less to complete your next quest this turn.
 
 regulation:

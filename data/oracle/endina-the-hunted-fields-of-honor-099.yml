@@ -2,9 +2,12 @@ name: Endina the Hunted
 
 origin: fields-of-honor-099
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector While Endina is exhausted, opposing heroes and allies can attack only Endina if able.
 
 regulation:

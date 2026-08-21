@@ -2,9 +2,12 @@ name: Patricia Potter
 
 origin: war-of-the-elements-122
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 

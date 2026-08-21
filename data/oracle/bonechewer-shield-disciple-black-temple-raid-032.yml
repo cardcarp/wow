@@ -2,9 +2,12 @@ name: Bonechewer Shield Disciple
 
 origin: black-temple-raid-032
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 6
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required Protector
 
 regulation:

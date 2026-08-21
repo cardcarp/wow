@@ -2,9 +2,11 @@ name: Burning Blade Fireblade
 
 origin: warlords-of-the-iron-horde-129
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,14 +2,17 @@ name: Order Must Be Restored
 
 origin: drums-of-war-241
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 1 to complete this quest. Reward : Target opponent chooses an ally in his party. When that ally is destroyed this turn, draw a card.'
 
 regulation:

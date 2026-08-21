@@ -2,9 +2,12 @@ name: Leggings of the Tireless Sentry
 
 origin: wrathgate-badges-of-justice-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing heroes and allies enter play exhausted. At the end of each opponent's turn, exhaust all heroes and allies he controls.
 
 regulation:

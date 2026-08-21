@@ -2,9 +2,11 @@ name: Zaela Dragonmaw Warlord
 
 origin: warlords-of-the-iron-horde-202
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

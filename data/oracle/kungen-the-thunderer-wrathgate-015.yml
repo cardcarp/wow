@@ -2,17 +2,20 @@ name: Kungen the Thunderer
 
 origin: wrathgate-015
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 31
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: "On your turn: Flip Kungen, discard a Warrior → Opposing cards can't exhaust this turn."
 
 regulation:

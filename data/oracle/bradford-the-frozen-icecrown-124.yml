@@ -2,9 +2,12 @@ name: Bradford the Frozen
 
 origin: icecrown-124
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -20,7 +23,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Discard a card with cost X → This ally deals X frost damage to target ally.
 
 regulation:

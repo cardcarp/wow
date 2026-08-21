@@ -2,20 +2,23 @@ name: Jinxy Blastwheel
 
 origin: war-of-the-elements-013
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Jinxy
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: At the start of your turn, Jinxy deals 1 arcane damage to target hero for each ally you control.
 
 regulation:

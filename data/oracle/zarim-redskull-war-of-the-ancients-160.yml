@@ -2,9 +2,12 @@ name: Zarim Redskull
 
 origin: war-of-the-ancients-160
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Bloodrush : When this ally enters play, if an opposing hero has more damage than your hero, exhaust target opposing ally. It can't ready during its controller's next ready step."
 
 regulation:

@@ -2,9 +2,11 @@ name: Coronet Of The Verdant Flame
 
 origin: warlords-crafted-036
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

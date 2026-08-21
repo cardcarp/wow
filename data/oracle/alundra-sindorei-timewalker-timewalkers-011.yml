@@ -2,9 +2,12 @@ name: Alundra Sin'Dorei Timewalker
 
 origin: timewalkers-011
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule: []
 

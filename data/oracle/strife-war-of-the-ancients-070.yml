@@ -2,9 +2,12 @@ name: Strife
 
 origin: war-of-the-ancients-070
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : Heroes have Assault 3 Damage is unpreventable. Damage can't be healed."
 
 regulation:

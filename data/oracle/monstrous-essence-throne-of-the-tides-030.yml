@@ -2,9 +2,12 @@ name: Monstrous Essence
 
 origin: throne-of-the-tides-030
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : When a Monster ally you control is destroyed, your hero deals shadow damage to target hero equal to that ally's ATK and deals damage from itself equal to that ally's ."
 
 regulation:

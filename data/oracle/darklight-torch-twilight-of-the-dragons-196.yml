@@ -2,9 +2,12 @@ name: Darklight Torch
 
 origin: twilight-of-the-dragons-196
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this weapon is destroyed, you may destroy target ability.
 
 regulation:

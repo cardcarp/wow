@@ -2,9 +2,12 @@ name: Charmed Ancient Bone Bow
 
 origin: worldbreaker-237
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Long-Range This equipment has +2 ATK for each heirloom counter on it. Stash : Add an heirloom counter to target equipment you control.'
 
 regulation:

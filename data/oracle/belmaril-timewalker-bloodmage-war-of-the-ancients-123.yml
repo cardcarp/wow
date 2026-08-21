@@ -2,9 +2,12 @@ name: Belmaril, Timewalker Bloodmage
 
 origin: war-of-the-ancients-123
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may put a token copy of another target ally you control into play.
 
 regulation:

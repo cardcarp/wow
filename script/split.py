@@ -13,7 +13,7 @@ OWNED_DIRS = ('data/oracle', 'data/collection', 'data/set', 'data/card', 'data/d
 REQUIRED_INPUTS = ('dist/collection.json', 'dist/set.json', 'dist/oracle.json',
                    'dist/card.json', 'dist/deck.json')
 
-DECK_SECTIONS = ('hero', 'main', 'reserve', 'token')
+DECK_SECTIONS = ('hero', 'main', 'side', 'auxiliary')
 
 
 def load_json(path):
@@ -72,8 +72,8 @@ def split_json_to_yml():
 
     # --- 3. Decks, annotated with each card's name ----------------------------
     for deck_id, record in decks.items():
-        collection = to_kebab_case(record.get('collection', 'error'))
-        path = os.path.join('data', 'deck', collection,
+        group = to_kebab_case(record.get('group', 'error'))
+        path = os.path.join('data', 'deck', group,
                             f"{to_kebab_case(record.get('name'))}.yml")
 
         deck_map = CommentedMap(record)

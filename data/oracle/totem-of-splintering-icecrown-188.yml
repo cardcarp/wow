@@ -2,9 +2,12 @@ name: Totem of Splintering
 
 origin: icecrown-188
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , , Destroy a totem you control → Your hero deals nature damage equal to that Totem's cost to target hero or ally. When you play a Totem, ready this item.
 
 regulation:

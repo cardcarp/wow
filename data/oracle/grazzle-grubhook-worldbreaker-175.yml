@@ -2,9 +2,12 @@ name: Grazzle Grubhook
 
 origin: worldbreaker-175
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Time is Money → Draw a card, then discard a card.
 
 regulation:

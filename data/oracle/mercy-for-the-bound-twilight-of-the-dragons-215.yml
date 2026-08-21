@@ -2,12 +2,15 @@ name: Mercy for the Bound
 
 origin: twilight-of-the-dragons-215
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn, if a , , , or ally entered play under your control this turn: Pay 3 to complete this quest. Reward : Draw a card.'
 
 regulation:

@@ -1,6 +1,6 @@
 name: War of the Elements Token
 
-type: token
+type: Token
 
 index: 02a
 
@@ -8,6 +8,6 @@ subtotal: 4
 
 total: 4
 
-date_release: 2011-04
+date: 2011-04
 
 collection: Worldbreaker

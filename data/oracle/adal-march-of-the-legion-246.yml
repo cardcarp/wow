@@ -2,9 +2,12 @@ name: A'dal
 
 origin: march-of-the-legion-246
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '10'
 
@@ -15,7 +18,7 @@ health: 10
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Prevent all damage that would be dealt.
 
 regulation:

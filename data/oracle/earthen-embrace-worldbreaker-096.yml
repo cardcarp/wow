@@ -2,9 +2,12 @@ name: Earthen Embrace
 
 origin: worldbreaker-096
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

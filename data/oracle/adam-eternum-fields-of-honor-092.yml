@@ -2,9 +2,12 @@ name: Adam Eternum
 
 origin: fields-of-honor-092
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Pay 2 or remove an honor counter from a card you control → Remove Adam from the game. Put him into play at the start of the next turn.
 
 regulation:

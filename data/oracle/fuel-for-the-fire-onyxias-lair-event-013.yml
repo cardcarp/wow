@@ -2,14 +2,17 @@ name: Fuel for the Fire
 
 origin: onyxias-lair-event-013
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Raid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Draw a card for each opposing hero.
 
 regulation:

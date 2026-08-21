@@ -2,9 +2,12 @@ name: Shawn of the Dead
 
 origin: fires-of-outland-183
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Shawn of the Dead attacks, you may put an ally card from target opponent's graveyard into play under your control.
 
 regulation:

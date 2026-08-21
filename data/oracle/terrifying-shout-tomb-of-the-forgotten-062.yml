@@ -2,9 +2,12 @@ name: Terrifying Shout
 
 origin: tomb-of-the-forgotten-062
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put target ally or equipment on top of it's owner's deck.
 
 regulation:

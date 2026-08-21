@@ -2,9 +2,12 @@ name: Essence Gatherer
 
 origin: servants-of-the-betrayer-236
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opposing ally is destroyed, you may pay 1 . If you do, draw a card.
 
 regulation:

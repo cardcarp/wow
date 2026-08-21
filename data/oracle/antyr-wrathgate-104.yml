@@ -2,9 +2,12 @@ name: Antyr
 
 origin: wrathgate-104
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may destroy target ability that's not attached to a friendly card.
 
 regulation:

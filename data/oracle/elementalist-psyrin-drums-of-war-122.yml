@@ -2,9 +2,12 @@ name: Elementalist Psyrin
 
 origin: drums-of-war-122
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Psyrin can't attack. → Target ally has +3 ATK this turn.
 
 regulation:

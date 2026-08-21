@@ -2,9 +2,12 @@ name: Unraveled Plans
 
 origin: through-the-dark-portal-151
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

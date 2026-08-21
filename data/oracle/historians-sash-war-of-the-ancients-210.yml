@@ -2,9 +2,12 @@ name: Historians Sash
 
 origin: war-of-the-ancients-210
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, add a history counter to this armor. Remove three history counters from this armor → You pay 1 less to complete target quest this turn.
 
 regulation:

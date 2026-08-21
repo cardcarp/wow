@@ -2,9 +2,11 @@ name: 'Throne of Thunder '
 
 origin: echoes-of-thunder-333
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

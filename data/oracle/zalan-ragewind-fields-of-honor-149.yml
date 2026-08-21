@@ -2,9 +2,12 @@ name: Zalan Ragewind
 
 origin: fields-of-honor-149
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When an opponent's hero readies, you may pay 1 . If you do, destroy target ability or equipment that opponent controls.
 
 regulation:

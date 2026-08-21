@@ -2,9 +2,12 @@ name: Javeer
 
 origin: twilight-of-the-dragons-112
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When this ally protects for the first time each turn, ready him.
 
 regulation:

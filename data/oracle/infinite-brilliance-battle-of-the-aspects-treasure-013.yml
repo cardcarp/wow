@@ -2,9 +2,12 @@ name: Infinite Brilliance
 
 origin: battle-of-the-aspects-treasure-013
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the start of your turn, draw a card.'
 
 regulation:

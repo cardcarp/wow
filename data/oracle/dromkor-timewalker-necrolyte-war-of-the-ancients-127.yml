@@ -2,9 +2,12 @@ name: Drom'kor, Timewalker Necrolyte
 
 origin: war-of-the-ancients-127
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: If this ally would be destroyed, you may remove three Orc allies in your graveyard from the game. If you do, exhaust this ally and remove all damage from him instead.
 
 regulation:

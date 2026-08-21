@@ -2,9 +2,12 @@ name: Archdruid Malfurion Stormrage
 
 origin: crown-of-the-heavens-077
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may draw a card. You can place an additional resource on each of your turns.
 
 regulation:

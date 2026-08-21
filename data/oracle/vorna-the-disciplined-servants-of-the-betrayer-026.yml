@@ -2,17 +2,20 @@ name: Vor'na the Disciplined
 
 origin: servants-of-the-betrayer-026
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Vor'na → Allies can't attack this turn.
 
 regulation:

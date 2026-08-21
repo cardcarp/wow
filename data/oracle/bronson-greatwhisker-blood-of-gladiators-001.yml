@@ -2,17 +2,20 @@ name: Bronson Greatwhisker
 
 origin: blood-of-gladiators-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 5 , Flip Bronson → The next time target ally would be dealt damage this turn, prevent it, and your hero heals 1 damage from that ally for each damage prevented this way.
 
 regulation:

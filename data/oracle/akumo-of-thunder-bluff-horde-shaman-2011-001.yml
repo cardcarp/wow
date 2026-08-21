@@ -2,17 +2,20 @@ name: Akumo of Thunder Bluff
 
 origin: horde-shaman-2011-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 3 , Flip Akumo → Ready target ally.'
 
 regulation:

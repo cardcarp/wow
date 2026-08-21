@@ -2,9 +2,12 @@ name: Legacy of the Horde
 
 origin: reign-of-fire-065
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : If a friendly hero or ally would deal damage, it deals double that much instead. If a friendly hero or ally would be dealt damage, prevent half that damage, rounded up.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Miner Steelwhiskers
 
 origin: servants-of-the-betrayer-144
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When Steelwhiskers protects, put the top two cards of target opponent's deck into his graveyard.
 
 regulation:

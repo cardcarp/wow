@@ -2,9 +2,12 @@ name: Huln Highmountain
 
 origin: timewalkers-017
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule: []
 

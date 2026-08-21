@@ -2,9 +2,11 @@ name: Malkorok
 
 origin: siege-of-orgrimmar-035
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Hide of the Wild
 
 origin: heroes-of-azeroth-294
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: If your hero would heal damage, it heals that amount of damage plus 1 instead.
 
 regulation:

@@ -2,9 +2,12 @@ name: Skaduzzle
 
 origin: fields-of-honor-116
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Escape Artist
 
 regulation:

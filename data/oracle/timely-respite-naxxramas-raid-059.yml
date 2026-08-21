@@ -2,16 +2,19 @@ name: Timely Respite
 
 origin: naxxramas-raid-059
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Raid
 
 stage: 19
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'The raid leader chooses one: His hero heals 6 damage from itself; or each raiding hero heals 2 damage from itself.'
 
 regulation:

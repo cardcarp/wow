@@ -2,9 +2,12 @@ name: Thrall the World-Shaman
 
 origin: battle-of-the-aspects-treasure-052
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Protector When Thrall readies, choose one: Thrall heals 3 damage from your hero; or Thrall deals 3 nature damage to target opposing hero. 3 → Ready Thrall.'
 
 regulation:

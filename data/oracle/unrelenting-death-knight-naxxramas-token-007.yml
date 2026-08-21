@@ -2,9 +2,12 @@ name: Unrelenting Death Knight
 
 origin: naxxramas-token-007
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 2
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally leaves play, the Boss player puts a Spectral Death Knight into play.
 
 regulation:

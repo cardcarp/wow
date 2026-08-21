@@ -2,9 +2,12 @@ name: Squall Totem
 
 origin: scourgewar-090
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

@@ -2,18 +2,21 @@ name: Rawrbrgle
 
 origin: throne-of-the-tides-024
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 type: Monster
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 8 → Flip Rawrbrgle face down. You pay 8 less to flip Rawrbrgle if you control five or more Murloc allies.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: "Monster allies you control have +1 / +1. Deckbuilding: You can't put or cards in your deck."
 
 regulation:

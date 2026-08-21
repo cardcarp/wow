@@ -2,9 +2,12 @@ name: Boomer
 
 origin: worldbreaker-045
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Once on each of your turns: Emit a sonic blast → Exhaust target hero or ally. This ally deals 1 nature damage to it.'
 
 regulation:

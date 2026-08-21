@@ -2,9 +2,12 @@ name: Rogg Dreadnock
 
 origin: servants-of-the-betrayer-174
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero defends, Rogg deals 2 ranged damage to target attacker.
 
 regulation:

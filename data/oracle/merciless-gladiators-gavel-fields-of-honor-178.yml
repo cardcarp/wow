@@ -2,9 +2,12 @@ name: Merciless Gladiators Gavel
 
 origin: fields-of-honor-178
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: If your hero would deal non-combat damage, it deals double that much instead.
 
 regulation:

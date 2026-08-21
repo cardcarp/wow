@@ -2,9 +2,12 @@ name: Shadowprowlers Chestguard
 
 origin: blood-of-gladiators-crafting-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has +1 ATK while attacking for each hero and ally in your party with Stealth .
 
 regulation:

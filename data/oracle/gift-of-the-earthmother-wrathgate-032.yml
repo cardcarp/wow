@@ -2,9 +2,12 @@ name: Gift of the Earthmother
 
 origin: wrathgate-032
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

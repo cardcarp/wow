@@ -2,9 +2,11 @@ name: Black Lotus
 
 origin: warlords-crafted-051
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

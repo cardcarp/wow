@@ -2,9 +2,12 @@ name: Warchief Garrosh Hellscream
 
 origin: twilight-of-the-dragons-149
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When another ally enters play under your control, it has Assault 2 , Ferocity , and "At the end of your turn, destroy this ally" this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Emerald Captain
 
 origin: worldbreaker-204
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a resource you control is turned face down, this ally deals 1 nature damage to target hero.
 
 regulation:

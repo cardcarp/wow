@@ -2,9 +2,12 @@ name: Devout Aurastone Hammer
 
 origin: worldbreaker-239
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: '→ You pay 1 less to play your next ally this turn and an additional 1 less for each heirloom counter on this equipment. Stash : Add an heirloom counter to target equipment you control.'
 
 regulation:

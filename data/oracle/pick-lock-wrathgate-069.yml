@@ -2,9 +2,12 @@ name: Pick Lock
 
 origin: wrathgate-069
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Look at target player's hand and choose a location or quest. He discards that card.
 
 regulation:

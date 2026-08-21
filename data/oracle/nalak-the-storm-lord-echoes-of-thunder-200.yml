@@ -2,9 +2,11 @@ name: Nalak, the Storm Lord
 
 origin: echoes-of-thunder-200
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

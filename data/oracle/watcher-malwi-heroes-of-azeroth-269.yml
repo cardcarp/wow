@@ -2,9 +2,12 @@ name: Watcher Mal'wi
 
 origin: heroes-of-azeroth-269
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 3
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opposing ally enters play, Watcher Mal'wi deals 1 ranged damage to it.
 
 regulation:

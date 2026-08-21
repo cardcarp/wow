@@ -2,9 +2,12 @@ name: Flamewaker Protector
 
 origin: molten-core-token-006
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 0
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Exhaust target ready ally. That ally deals melee damage equal to its ATK to its controller's hero. Use only on your turn.
 
 regulation:

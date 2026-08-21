@@ -2,9 +2,12 @@ name: Earthbind Totem
 
 origin: heroes-of-azeroth-107
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

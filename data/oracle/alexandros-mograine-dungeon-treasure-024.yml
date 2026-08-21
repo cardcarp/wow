@@ -2,9 +2,12 @@ name: Alexandros Mograine
 
 origin: dungeon-treasure-024
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ health: 7
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When Alexandros is destroyed, you may put a 6 / 0 Two-Handed Sword weapon token named Ashbringer into play with Melee (1) and Invincible .
 
 regulation:

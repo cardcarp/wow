@@ -2,9 +2,12 @@ name: Intensify Rage
 
 origin: march-of-the-legion-116
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally. Ongoing : Attached ally has +3 ATK / +3 health. At the start of your turn, put 2 damage on attached ally.'
 
 regulation:

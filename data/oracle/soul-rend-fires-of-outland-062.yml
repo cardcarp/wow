@@ -2,9 +2,12 @@ name: Soul Rend
 
 origin: fires-of-outland-062
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target opponent puts an ally from his party into its owner's hand. If he does, that opponent discards a card.
 
 regulation:

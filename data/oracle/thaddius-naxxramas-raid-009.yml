@@ -2,18 +2,21 @@ name: Thaddius
 
 origin: naxxramas-raid-009
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: While Stalagg or Feugen is in play, Thaddius has Immune and loses and can't have other powers. Conspicuous , Assault 10 At the start of each raider's turn, Thaddius deals 10 nature damage to his hero if that raider controls an odd number of characters. Otherwise, his hero deals 10 nature damage to Thaddius.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: Conspicuous , Assault 15 At the start of your turn, Thaddius deals 10 nature damage to each opposing hero and ally.
 
 regulation:

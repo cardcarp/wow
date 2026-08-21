@@ -2,9 +2,12 @@ name: Courageous Defense
 
 origin: drums-of-war-093
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Draw a card. Ongoing : Your hero is a Protector .'
 
 regulation:

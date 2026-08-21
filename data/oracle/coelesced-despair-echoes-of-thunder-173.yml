@@ -2,9 +2,11 @@ name: Coelesced Despair
 
 origin: echoes-of-thunder-173
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Flash of Light
 
 origin: servants-of-the-betrayer-073
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

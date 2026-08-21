@@ -2,9 +2,12 @@ name: Shredder
 
 origin: arena-grand-melee-004
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -20,7 +23,7 @@ class:
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: Preparation
 
 regulation:

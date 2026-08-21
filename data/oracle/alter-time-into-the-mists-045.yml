@@ -2,9 +2,11 @@ name: Alter Time
 
 origin: into-the-mists-045
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

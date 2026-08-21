@@ -2,9 +2,12 @@ name: Lava Bolt Crossbow
 
 origin: tomb-of-the-forgotten-189
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Long-Range
 
 regulation:

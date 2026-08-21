@@ -2,9 +2,12 @@ name: Veteran Crusader Aliocha Segard
 
 origin: wrathgate-165
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Argent Crusade Reputation Protector This ally has +1 / +1 for each other Unique ally you control.
 
 regulation:

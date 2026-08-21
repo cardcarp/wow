@@ -2,9 +2,11 @@ name: Infernal Meteor
 
 origin: warlords-of-the-iron-horde-081
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

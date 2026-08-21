@@ -2,9 +2,12 @@ name: Wild Cascade
 
 origin: crown-of-the-heavens-016
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the start of your turn, put a token copy of each token ally you control into play.'
 
 regulation:

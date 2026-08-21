@@ -1,6 +1,6 @@
 name: Fields of Honor Crafting
 
-type: craft
+type: Craft
 
 index: 03a
 
@@ -8,6 +8,6 @@ subtotal: 3
 
 total: 3
 
-date_release: 2009-06
+date: 2009-06
 
 collection: Drums of War

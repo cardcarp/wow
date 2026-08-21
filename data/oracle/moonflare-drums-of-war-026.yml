@@ -2,9 +2,12 @@ name: Moonflare
 
 origin: drums-of-war-026
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : When a resource enters play under your control, your hero may deal 1 arcane damage to target ally.'
 
 regulation:

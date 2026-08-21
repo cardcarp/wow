@@ -2,9 +2,12 @@ name: Netherwing Protectors Shield
 
 origin: the-hunt-for-illidan-215
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Dual Shield .
 
 regulation:

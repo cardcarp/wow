@@ -2,9 +2,12 @@ name: Tully Fiddlewit
 
 origin: drums-of-war-149
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Tully defends against an ally, discard a card.
 
 regulation:

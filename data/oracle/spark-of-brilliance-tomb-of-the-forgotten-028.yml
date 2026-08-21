@@ -2,9 +2,12 @@ name: Spark of Brilliance
 
 origin: tomb-of-the-forgotten-028
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Draw two cards, then put a card from your hand on top of your deck.
 
 regulation:

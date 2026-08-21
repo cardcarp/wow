@@ -2,9 +2,12 @@ name: Trista, Herald of the Fel
 
 origin: throne-of-the-tides-129
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Empower Warlock : When this ally enters play, if you control another Warlock hero or ally, search your deck for a Pet or Demon ally, reveal it, and put it into your hand.'
 
 regulation:

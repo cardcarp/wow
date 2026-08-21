@@ -2,9 +2,12 @@ name: Gladiator Ryno
 
 origin: blood-of-gladiators-107
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -19,7 +22,7 @@ faction: Alliance
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Ryno or another Arena ally enters your party, put a Felhunter Demon ally token into play with 1 ATK / 1 health.
 
 regulation:

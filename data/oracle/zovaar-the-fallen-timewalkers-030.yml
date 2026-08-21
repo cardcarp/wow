@@ -2,9 +2,12 @@ name: Zovaar The Fallen
 
 origin: timewalkers-030
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule: []
 

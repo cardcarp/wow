@@ -2,9 +2,11 @@ name: Epicurean
 
 origin: monk-starter-052
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

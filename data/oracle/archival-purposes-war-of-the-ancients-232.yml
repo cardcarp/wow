@@ -2,12 +2,15 @@ name: Archival Purposes
 
 origin: war-of-the-ancients-232
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 4 to complete this quest. Reward : Draw a card.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Cameo of Terrible Memories
 
 origin: timewalkers-badges-of-justice-009
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of each player's turn, he discards his hand and draws seven cards. If a player would draw from an empty deck, he shuffles his graveyard into his deck, then draws a card instead.
 
 regulation:

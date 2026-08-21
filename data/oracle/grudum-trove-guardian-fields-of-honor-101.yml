@@ -2,9 +2,12 @@ name: Grudum, Trove Guardian
 
 origin: fields-of-honor-101
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Find Treasure
 
 regulation:

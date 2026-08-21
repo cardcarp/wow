@@ -1,3 +1,5 @@
+oracle: copycast-arena-grand-melee-event-018
+
 index: '018'
 
 rarity: Common
@@ -7,7 +9,5 @@ artist:
 variation: []
 
 flavor: (That player may choose new targets for the copy.)
-
-oracle: copycast-arena-grand-melee-event-018
 
 set: Arena Grand Melee Event

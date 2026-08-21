@@ -2,9 +2,12 @@ name: Swift Hand of Justice
 
 origin: worldbreaker-232
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -16,7 +19,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: "2 , Put this equipment into its owner's hand → Target ally has Ferocity this turn. Stash : Add an heirloom counter to target equipment you control."
 
 regulation:

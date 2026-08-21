@@ -2,9 +2,12 @@ name: Child of Agamaggan
 
 origin: war-of-the-ancients-166
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Monster Hero Required Smash
 
 regulation:

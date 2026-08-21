@@ -2,9 +2,12 @@ name: Rend
 
 origin: heroes-of-azeroth-146
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

@@ -2,17 +2,20 @@ name: Zag'zil
 
 origin: march-of-the-legion-018
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: x , Flip Zag'zil → Destroy target weapon with cost X. Use only on your turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Masters Embrace
 
 origin: crown-of-the-heavens-059
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Choose one: Search your deck for a Pet, reveal it, and put it into your hand; or attach to target Pet. Ongoing : Attached Pet has +4 / +4.'
 
 regulation:

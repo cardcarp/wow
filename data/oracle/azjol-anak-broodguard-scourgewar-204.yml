@@ -2,9 +2,12 @@ name: Azjol-anak Broodguard
 
 origin: scourgewar-204
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Nerubian Reputation This ally has +1 / +1 while an ally is in your graveyard.
 
 regulation:

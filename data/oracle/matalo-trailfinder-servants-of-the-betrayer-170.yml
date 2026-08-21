@@ -2,9 +2,12 @@ name: Matalo Trailfinder
 
 origin: servants-of-the-betrayer-170
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Matalo has +1 ATK while attacking for each quest you have.
 
 regulation:

@@ -2,9 +2,12 @@ name: Molten Scorch
 
 origin: throne-of-the-tides-049
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

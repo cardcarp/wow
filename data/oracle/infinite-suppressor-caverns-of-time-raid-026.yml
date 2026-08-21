@@ -2,9 +2,12 @@ name: Infinite Suppressor
 
 origin: caverns-of-time-raid-026
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 1
 
@@ -15,7 +18,7 @@ combat: Arcane
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: Raiding allies lose and can't have powers.
 
 regulation:

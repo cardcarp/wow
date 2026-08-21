@@ -2,9 +2,11 @@ name: Sha Bolt
 
 origin: echoes-of-thunder-076
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

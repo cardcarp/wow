@@ -2,9 +2,12 @@ name: Devilsaur Leggings
 
 origin: heroes-of-azeroth-284
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage to an ally, destroy that ally.
 
 regulation:

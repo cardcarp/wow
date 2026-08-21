@@ -2,9 +2,12 @@ name: Fire Elemental Totem
 
 origin: fires-of-outland-077
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

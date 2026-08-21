@@ -2,9 +2,12 @@ name: Sulfuras, The Extinguished Hand
 
 origin: crown-of-the-heavens-190
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an ally you control deals damage on your turn, you may add a +1 ATK counter to this weapon for each damage dealt.
 
 regulation:

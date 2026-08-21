@@ -2,9 +2,12 @@ name: Stealth
 
 origin: heroes-of-azeroth-103
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : Your hero is stealthed. (Can't protect against it. Destroy this card when your hero deals damage.) When Stealth is destroyed, you may pay 2 . If you do, put it into your hand at end of turn."
 
 regulation:

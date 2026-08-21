@@ -2,9 +2,12 @@ name: Hungry Ghoul
 
 origin: reign-of-fire-142
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally can't attack unless you remove two cards in a graveyard from the game.
 
 regulation:

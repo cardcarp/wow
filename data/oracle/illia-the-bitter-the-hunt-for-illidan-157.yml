@@ -2,9 +2,12 @@ name: Illia the Bitter
 
 origin: the-hunt-for-illidan-157
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Fire Resistance
 
 regulation:

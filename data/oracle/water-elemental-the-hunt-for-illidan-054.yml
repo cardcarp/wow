@@ -2,9 +2,12 @@ name: Water Elemental
 
 origin: the-hunt-for-illidan-054
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 cost: '3'
 
@@ -18,7 +21,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Frost Hero Required → Water Elemental deals 1 frost damage to each opposing hero and ally. A character dealt damage this way can't attack this turn.
 
 regulation:

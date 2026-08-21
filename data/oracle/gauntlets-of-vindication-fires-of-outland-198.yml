@@ -2,9 +2,12 @@ name: Gauntlets of Vindication
 
 origin: fires-of-outland-198
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your Melee weapons have +1 ATK. If your hero would deal damage with an ability, it deals that much damage +1 instead.
 
 regulation:

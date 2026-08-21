@@ -2,9 +2,12 @@ name: Faesha Firestalker
 
 origin: fires-of-outland-159
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy one of your resources → Faesha Firestalker has Long-Range this turn.
 
 regulation:

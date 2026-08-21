@@ -1,6 +1,6 @@
 name: Cataclysm Collector's Edition Promotional
 
-type: promo
+type: Promo
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 2
 
 total: 2
 
-date_release: 2010-12
+date: 2010-12
 
 collection: Collector's Edition Promotional

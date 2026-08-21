@@ -2,12 +2,15 @@ name: Shadow Sight
 
 origin: arena-grand-melee-event-091
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : All heroes and allies are Conspicuous .'
 
 regulation:

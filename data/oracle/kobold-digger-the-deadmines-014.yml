@@ -2,9 +2,12 @@ name: Kobold Digger
 
 origin: the-deadmines-014
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 2
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he deals 2 melee damage to each ally in the MARKED hero's party.
 
 regulation:

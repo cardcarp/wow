@@ -2,9 +2,12 @@ name: Thrall
 
 origin: timewalkers-020
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule: []
 

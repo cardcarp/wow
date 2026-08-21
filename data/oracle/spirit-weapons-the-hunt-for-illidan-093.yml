@@ -2,9 +2,12 @@ name: Spirit Weapons
 
 origin: the-hunt-for-illidan-093
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Enhancement Hero Required Ongoing : → Target hero or ally has -X ATK this turn, where X is the combined ATK of your Melee weapons.'
 
 regulation:

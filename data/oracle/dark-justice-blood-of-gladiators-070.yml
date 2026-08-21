@@ -2,9 +2,12 @@ name: Dark Justice
 
 origin: blood-of-gladiators-070
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

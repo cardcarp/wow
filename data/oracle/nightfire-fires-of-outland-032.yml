@@ -2,9 +2,12 @@ name: Nightfire
 
 origin: fires-of-outland-032
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 → Nightfire has +1 ATK this turn.
 
 regulation:

@@ -2,12 +2,15 @@ name: Unfit for Death
 
 origin: scourgewar-265
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 3 to complete this quest. Reward : Draw a card and remove target card in a graveyard from the game.'
 
 regulation:

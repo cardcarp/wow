@@ -2,9 +2,12 @@ name: Spirit of Stormrage
 
 origin: the-hunt-for-illidan-140
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '9'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Untargetable → Search your deck for a card and put it into hand.
 
 regulation:

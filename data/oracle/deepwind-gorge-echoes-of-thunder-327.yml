@@ -2,9 +2,11 @@ name: Deepwind Gorge
 
 origin: echoes-of-thunder-327
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

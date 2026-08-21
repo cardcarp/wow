@@ -2,9 +2,12 @@ name: Saliva Corroded Pike
 
 origin: scourgewar-243
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When damage is dealt with this weapon on an opponent's turn, you may ready it.
 
 regulation:

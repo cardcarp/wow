@@ -2,9 +2,12 @@ name: Silent Crusader
 
 origin: wrathgate-195
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opponent's hero is dealt combat damage with this weapon, exhaust all cards he controls.
 
 regulation:

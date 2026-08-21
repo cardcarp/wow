@@ -2,9 +2,12 @@ name: Ra'za Wildstorm
 
 origin: drums-of-war-starter-007
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 

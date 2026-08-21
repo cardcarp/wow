@@ -2,12 +2,15 @@ name: A Head Full of Wind
 
 origin: war-of-the-elements-212
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: Pay 3 to complete this quest. Reward : Put a 2 / 1 Air Elemental ally token into play.'
 
 regulation:

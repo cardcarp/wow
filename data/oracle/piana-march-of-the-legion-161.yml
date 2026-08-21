@@ -2,9 +2,12 @@ name: Piana
 
 origin: march-of-the-legion-161
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Target up to three heroes and/or allies. Piana heals 3, 2, and 1 damage from them, respectively.
 
 regulation:

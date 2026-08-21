@@ -2,9 +2,12 @@ name: Hand of Gul'dan
 
 origin: tomb-of-the-forgotten-057
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 

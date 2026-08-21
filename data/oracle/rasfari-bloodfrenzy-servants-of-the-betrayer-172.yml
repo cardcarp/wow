@@ -2,9 +2,12 @@ name: Ras'fari Bloodfrenzy
 
 origin: servants-of-the-betrayer-172
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity When Ras'fari attacks for the first time each turn, ready him if he has damage.
 
 regulation:

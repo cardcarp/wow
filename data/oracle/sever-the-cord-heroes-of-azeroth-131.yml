@@ -2,9 +2,12 @@ name: Sever the Cord
 
 origin: heroes-of-azeroth-131
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

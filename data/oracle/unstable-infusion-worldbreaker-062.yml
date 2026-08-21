@@ -2,9 +2,12 @@ name: Unstable Infusion
 
 origin: worldbreaker-062
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals arcane damage to target hero or ally equal to the cost of an equipment in that character's party.
 
 regulation:

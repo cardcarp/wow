@@ -2,20 +2,23 @@ name: The Betrayer
 
 origin: black-temple-raid-010
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 type: Boss
 
 stage: 9
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: The Betrayer has +10 ATK while attacking. → The Betrayer heals 15 damage from itself. At the end of your turn, flip The Betrayer.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: The Betrayer has +10 ATK while attacking. → The Betrayer deals 3 shadow damage to each opposing hero and ally. At the end of your turn, flip The Betrayer.
 
 regulation:

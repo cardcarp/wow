@@ -2,9 +2,12 @@ name: Flash Freeze
 
 origin: war-of-the-elements-052
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

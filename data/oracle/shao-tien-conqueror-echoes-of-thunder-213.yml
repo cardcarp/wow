@@ -2,9 +2,11 @@ name: Shao-Tien Conqueror
 
 origin: echoes-of-thunder-213
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

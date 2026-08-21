@@ -2,9 +2,12 @@ name: Meteor Shard
 
 origin: dungeon-treasure-051
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with this weapon, you may reveal the top card of target opponent's deck. If it's an ability, ally, or equipment with cost 4 or less, this weapon has +3 ATK this turn.
 
 regulation:

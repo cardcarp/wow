@@ -2,9 +2,12 @@ name: Deathchill Cloak
 
 origin: wrathgate-crafting-002
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor prevents damage that would be dealt by an attacking ally, that ally can't ready while this armor remains under your control.
 
 regulation:

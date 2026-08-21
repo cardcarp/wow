@@ -2,16 +2,19 @@ name: Into the Fray
 
 origin: heroes-of-azeroth-153
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target ally in your party has Ferocity this turn.
 
 regulation:

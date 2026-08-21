@@ -2,9 +2,12 @@ name: Soulshatter
 
 origin: fires-of-outland-089
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : When your hero defends against an ally, that ally's controller exhausts all allies in his party."
 
 regulation:

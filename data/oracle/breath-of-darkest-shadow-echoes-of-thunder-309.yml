@@ -2,9 +2,11 @@ name: Breath of Darkest Shadow
 
 origin: echoes-of-thunder-309
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

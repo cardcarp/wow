@@ -2,9 +2,12 @@ name: Obsidian Skyterror
 
 origin: twilight-of-the-dragons-159
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this or another Black or Twilight Dragonkin ally you control is destroyed, you may destroy target Dragonkin ally.
 
 regulation:

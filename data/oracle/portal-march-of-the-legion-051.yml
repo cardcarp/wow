@@ -2,9 +2,12 @@ name: Portal
 
 origin: march-of-the-legion-051
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Search your deck for an ally card, reveal it, and put it into your hand.
 
 regulation:

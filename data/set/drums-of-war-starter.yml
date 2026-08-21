@@ -1,6 +1,6 @@
 name: Drums of War Starter
 
-type: starter
+type: Starter
 
 index: 01b
 
@@ -8,6 +8,6 @@ subtotal: 8
 
 total: 8
 
-date_release: 2008-10
+date: 2008-10
 
 collection: Drums of War

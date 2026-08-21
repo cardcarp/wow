@@ -2,9 +2,12 @@ name: Wastewalker Shoulderpads
 
 origin: the-hunt-for-illidan-217
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero attacks, you may exhaust target hero or ally.
 
 regulation:

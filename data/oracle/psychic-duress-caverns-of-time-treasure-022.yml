@@ -2,9 +2,12 @@ name: Psychic Duress
 
 origin: caverns-of-time-treasure-022
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target hero, and put three coercion counters on this ability. Ongoing : At the start of your turn, attached hero's controller may discard a card. If he does, remove a coercion counter from this ability. Otherwise, your hero deals 1 shadow damage to attached hero for each coercion counter on this ability."
 
 regulation:

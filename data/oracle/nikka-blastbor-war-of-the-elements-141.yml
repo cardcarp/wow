@@ -2,9 +2,12 @@ name: Nikka Blastbor
 
 origin: war-of-the-elements-141
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 

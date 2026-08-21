@@ -1,3 +1,5 @@
+oracle: loatheb-naxxramas-raid-021
+
 index: '021'
 
 rarity: Rare
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor:
-
-oracle: loatheb-naxxramas-raid-021
 
 set: Naxxramas Raid

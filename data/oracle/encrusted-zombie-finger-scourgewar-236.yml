@@ -2,9 +2,12 @@ name: Encrusted Zombie Finger
 
 origin: scourgewar-236
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero attacks, you may point and make a Zombie noise. If you do, this weapon has Assault 1 this turn.
 
 regulation:

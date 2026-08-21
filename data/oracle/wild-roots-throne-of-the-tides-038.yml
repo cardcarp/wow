@@ -2,9 +2,12 @@ name: Wild Roots
 
 origin: throne-of-the-tides-038
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target ally and exhaust it, then Delve . Ongoing : Attached ally can't ready."
 
 regulation:

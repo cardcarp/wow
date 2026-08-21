@@ -2,9 +2,12 @@ name: Devotion Aura
 
 origin: heroes-of-azeroth-066
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : If a hero or ally in your party would be dealt damage, prevent 1 of that damage.'
 
 regulation:

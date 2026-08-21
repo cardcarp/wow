@@ -2,9 +2,12 @@ name: Zul'that Steeltusk
 
 origin: march-of-the-legion-211
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Damage that allies in your party would deal is unpreventable.
 
 regulation:

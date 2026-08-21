@@ -2,12 +2,15 @@ name: The Darkmoon Faire
 
 origin: darkmoon-faire-005
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , , Discard a card → Draw a card. At the start of your turn, if you control cards in play with costs 1, 2, 3, 4, 5, 6, 7, and 8, you win the game.
 
 regulation:

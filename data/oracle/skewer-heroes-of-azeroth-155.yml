@@ -2,9 +2,12 @@ name: Skewer
 
 origin: heroes-of-azeroth-155
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

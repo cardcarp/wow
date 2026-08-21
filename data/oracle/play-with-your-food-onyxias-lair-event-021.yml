@@ -2,14 +2,17 @@ name: Play With Your Food
 
 origin: onyxias-lair-event-021
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Raid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Roll as many dice as the number of opposing heroes. Then, choose one die for each hero, and Onyxia deals that amount of melee damage to that hero.
 
 regulation:

@@ -2,9 +2,12 @@ name: Silent Fang
 
 origin: through-the-dark-portal-281
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , Destroy Silent Fang → Interrupt target ability card.
 
 regulation:

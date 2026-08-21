@@ -2,9 +2,12 @@ name: Redemption
 
 origin: fires-of-outland-051
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put target ally from your graveyard into play if its cost is less than or equal to the number of resources you control. Draw a card.
 
 regulation:

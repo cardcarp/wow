@@ -2,9 +2,12 @@ name: Favor of the Elements
 
 origin: twilight-of-the-dragons-080
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, your hero deals 3 fire damage to target hero.'
 
 regulation:

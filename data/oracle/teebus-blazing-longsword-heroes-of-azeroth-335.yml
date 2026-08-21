@@ -2,9 +2,12 @@ name: Teebus Blazing Longsword
 
 origin: heroes-of-azeroth-335
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 → Teebu's Blazing Longsword has +1 ATK this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Zor'dul Deathbinder
 
 origin: twilight-of-the-dragons-152
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Assault 1 When this ally is destroyed, you may draw a card.
 
 regulation:

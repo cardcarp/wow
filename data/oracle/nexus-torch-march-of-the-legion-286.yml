@@ -2,9 +2,12 @@ name: Nexus Torch
 
 origin: march-of-the-legion-286
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When combat damage is dealt with Nexus Torch to a defending hero, that hero's controller discards a card.
 
 regulation:

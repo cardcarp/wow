@@ -2,9 +2,12 @@ name: Human Operative
 
 origin: betrayal-of-the-guardian-073
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Unity : While you control three or more Human allies, this ally has Assault 2 and Stealth .'
 
 regulation:

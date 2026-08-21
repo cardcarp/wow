@@ -2,9 +2,12 @@ name: Warmaster Blackhorn
 
 origin: battle-of-the-aspects-raid-010
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 1
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Boss When Blackhorn enters play, each Raider chooses an ability, ally, or equipment he controls and puts it on top of its owner's deck. Disrupting Roar (Deathwing Stages 2+) : At the start of Deathwing's turn, randomly choose \"ability,\" \"ally,\" or \"equipment.\" Raiders can't play cards of the chosen type until the start of Deathwing's next turn."
 
 regulation:

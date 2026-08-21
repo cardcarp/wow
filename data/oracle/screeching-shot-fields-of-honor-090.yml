@@ -2,9 +2,12 @@ name: Screeching Shot
 
 origin: fields-of-honor-090
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Opposing heroes and allies have -1 ATK while attacking.'
 
 regulation:

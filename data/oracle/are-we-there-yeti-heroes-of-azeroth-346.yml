@@ -2,12 +2,15 @@ name: Are We There, Yeti?
 
 origin: heroes-of-azeroth-346
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 6 to complete this quest. Reward : Put three Mechanical Yeti ally tokens with 1 ATK and 1 health into play.'
 
 regulation:

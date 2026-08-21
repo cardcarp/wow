@@ -2,9 +2,12 @@ name: Yana'mi
 
 origin: throne-of-the-tides-173
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you attach an ability to a hero or ally, draw a card.
 
 regulation:

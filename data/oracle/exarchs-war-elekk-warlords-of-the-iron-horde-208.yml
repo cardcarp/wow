@@ -2,9 +2,11 @@ name: Exarchs War Elekk
 
 origin: warlords-of-the-iron-horde-208
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

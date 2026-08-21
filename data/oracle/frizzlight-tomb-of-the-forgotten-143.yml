@@ -2,9 +2,12 @@ name: Frizzlight
 
 origin: tomb-of-the-forgotten-143
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Holy
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Damage that this and other Murloc allies you control would deal is unpreventable.
 
 regulation:

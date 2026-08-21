@@ -2,9 +2,12 @@ name: Blessing from Beyond
 
 origin: reign-of-fire-028
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Warp Attach to target ally. Ongoing : Attached ally has +3 / +3.'
 
 regulation:

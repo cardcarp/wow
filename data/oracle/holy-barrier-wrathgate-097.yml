@@ -2,9 +2,12 @@ name: Holy Barrier
 
 origin: wrathgate-097
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : → Prevent the next X damage that would be dealt to target ally this turn, where X is the number of Paladins and Priests you control.'
 
 regulation:

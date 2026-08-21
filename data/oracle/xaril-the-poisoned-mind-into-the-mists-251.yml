@@ -2,9 +2,11 @@ name: Xaril, the Poisoned Mind
 
 origin: into-the-mists-251
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

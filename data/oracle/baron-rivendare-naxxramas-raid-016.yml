@@ -2,9 +2,12 @@ name: Baron Rivendare
 
 origin: naxxramas-raid-016
 
-layout: transform
+layout: Transform
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 5
 
@@ -15,11 +18,11 @@ combat: Melee
 type: Ally
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: At the end of your turn, the raid leader chooses a raider. That raider discards a random card.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: At the end of your turn, each raider discards a random card.
 
 regulation:

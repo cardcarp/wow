@@ -2,9 +2,12 @@ name: Fang
 
 origin: scourgewar-045
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Allies you control have Assault 1 .
 
 regulation:

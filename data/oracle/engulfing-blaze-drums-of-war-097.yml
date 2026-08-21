@@ -2,9 +2,12 @@ name: Engulfing Blaze
 
 origin: drums-of-war-097
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 3 fire damage to each hero and ally.
 
 regulation:

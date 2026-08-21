@@ -2,9 +2,12 @@ name: Mal'Ganis
 
 origin: caverns-of-time-raid-005
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Mal'Ganis enters play and when he attacks, Portal . If a Portal power would let you choose one card and put it into play, you may choose any number of cards and put them into play instead. (Each of those cards must still be a legal choice.)
 
 regulation:

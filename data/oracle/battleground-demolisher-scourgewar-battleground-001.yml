@@ -2,9 +2,11 @@ name: Battleground Demolisher
 
 origin: scourgewar-battleground-001
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

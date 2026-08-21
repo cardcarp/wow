@@ -2,14 +2,17 @@ name: Enemies, Old and New
 
 origin: drums-of-war-243
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 3 to complete this quest. Reward : Draw a card. You may remove a counter from target card in play.'
 
 regulation:

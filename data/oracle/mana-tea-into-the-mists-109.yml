@@ -2,9 +2,11 @@ name: Mana Tea
 
 origin: into-the-mists-109
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Mark of Growth
 
 origin: war-of-the-ancients-012
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target hero. Ongoing : Attached hero has Mend 3 .'
 
 regulation:

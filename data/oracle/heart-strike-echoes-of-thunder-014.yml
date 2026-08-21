@@ -2,9 +2,11 @@ name: Heart Strike
 
 origin: echoes-of-thunder-014
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

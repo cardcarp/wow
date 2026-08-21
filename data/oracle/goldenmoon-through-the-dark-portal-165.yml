@@ -2,9 +2,12 @@ name: Goldenmoon
 
 origin: through-the-dark-portal-165
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive You can have an additional Pet while your Pets have different names.
 
 regulation:

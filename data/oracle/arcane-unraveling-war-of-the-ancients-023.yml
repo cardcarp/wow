@@ -2,9 +2,12 @@ name: Arcane Unraveling
 
 origin: war-of-the-ancients-023
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

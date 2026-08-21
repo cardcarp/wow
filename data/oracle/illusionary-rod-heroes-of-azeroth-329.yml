@@ -2,9 +2,12 @@ name: Illusionary Rod
 
 origin: heroes-of-azeroth-329
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , , Exhaust your hero → Remove your hand from the game. At the end of turn, put the removed cards into your hand.
 
 regulation:

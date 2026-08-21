@@ -2,9 +2,11 @@ name: Rush Of Light
 
 origin: warlords-of-the-iron-horde-048
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

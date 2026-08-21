@@ -2,12 +2,15 @@ name: Exotic Pet
 
 origin: arena-grand-melee-event-031
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: You may write "Pet (1)" on the sleeve of an ally you own. If you do, that card also has +2 ATK / +2 health this game.
 
 regulation:

@@ -2,9 +2,12 @@ name: Rune of Metamorphosis
 
 origin: drums-of-war-217
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your forms aren't destroyed by abilities you play. (You can still have only one card with Form (1) in play.)
 
 regulation:

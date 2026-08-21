@@ -2,9 +2,11 @@ name: Explorer Rohar
 
 origin: into-the-mists-129
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

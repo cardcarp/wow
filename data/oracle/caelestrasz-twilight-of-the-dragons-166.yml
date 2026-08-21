@@ -2,9 +2,12 @@ name: Caelestrasz
 
 origin: twilight-of-the-dragons-166
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: Allies you control have +1 / +1 for each Red Dragonkin you control.
 
 regulation:

@@ -2,9 +2,12 @@ name: Orgrim Doomhammer
 
 origin: betrayal-of-the-guardian-105
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Orgrim deals combat damage to a hero, that hero's controller chooses and destroys a card he controls for each damage dealt.
 
 regulation:

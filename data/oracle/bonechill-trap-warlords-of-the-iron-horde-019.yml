@@ -2,9 +2,11 @@ name: Bonechill Trap
 
 origin: warlords-of-the-iron-horde-019
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Marilyn of the Sacred Vows
 
 origin: fires-of-outland-129
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Prevent all damage that would be dealt to target ally this turn.
 
 regulation:

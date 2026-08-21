@@ -2,9 +2,12 @@ name: Fel Leather Gloves
 
 origin: march-of-the-legion-261
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a resource enters play, put 2 damage on its controller's hero.
 
 regulation:

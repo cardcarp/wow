@@ -2,9 +2,11 @@ name: Kor Kron Farseer
 
 origin: siege-of-orgrimmar-029
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

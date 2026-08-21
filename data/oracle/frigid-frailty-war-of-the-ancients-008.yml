@@ -2,9 +2,12 @@ name: Frigid Frailty
 
 origin: war-of-the-ancients-008
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

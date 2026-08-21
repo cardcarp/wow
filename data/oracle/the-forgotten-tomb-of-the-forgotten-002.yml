@@ -2,18 +2,21 @@ name: The Forgotten
 
 origin: tomb-of-the-forgotten-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 type: Monster
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 8 → Flip The Forgotten face down. You pay 8 less to flip The Forgotten if you control an ability, an ally, and an equipment.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: "When The Forgotten deals combat damage to an opposing hero, he heals that much damage from himself. Deckbuilding: You can't put or cards in your deck."
 
 regulation:

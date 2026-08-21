@@ -2,9 +2,11 @@ name: Thermal Anvil
 
 origin: warlords-crafted-086
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

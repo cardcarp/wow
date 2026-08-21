@@ -2,9 +2,12 @@ name: 'Power Word: Restore'
 
 origin: blood-of-gladiators-052
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

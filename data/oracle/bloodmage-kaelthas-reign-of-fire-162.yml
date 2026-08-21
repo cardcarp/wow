@@ -2,9 +2,12 @@ name: Bloodmage Kael'thas
 
 origin: reign-of-fire-162
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ health: 8
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 → You can play cards from your resource row this turn. (Pay costs as normal.)
 
 regulation:

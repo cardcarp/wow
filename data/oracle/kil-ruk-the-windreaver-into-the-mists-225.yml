@@ -2,9 +2,11 @@ name: Kil Ruk The Windreaver
 
 origin: into-the-mists-225
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

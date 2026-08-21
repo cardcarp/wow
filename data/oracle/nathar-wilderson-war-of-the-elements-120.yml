@@ -2,9 +2,12 @@ name: Nathar Wilderson
 
 origin: war-of-the-elements-120
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Aberration
 
 regulation:

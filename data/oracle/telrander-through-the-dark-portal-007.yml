@@ -2,17 +2,20 @@ name: Telrander
 
 origin: through-the-dark-portal-007
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Telrander → Ready Telrander. Use only while he's in cat form.
 
 regulation:

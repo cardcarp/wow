@@ -2,9 +2,12 @@ name: Hailstorm
 
 origin: icecrown-192
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: '1 , Remove five cards in your graveyard from the game → Your hero deals 1 frost damage to each opposing hero and ally. Death Rattle : Your hero deals 1 frost damage to each opposing hero and ally.'
 
 regulation:

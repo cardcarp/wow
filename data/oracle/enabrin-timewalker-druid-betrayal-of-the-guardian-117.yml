@@ -2,9 +2,12 @@ name: Enabrin, Timewalker Druid
 
 origin: betrayal-of-the-guardian-117
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Arcane
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'While you control two or more allies that share a or race: → Draw a card.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Righteous Defense
 
 origin: fires-of-outland-052
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

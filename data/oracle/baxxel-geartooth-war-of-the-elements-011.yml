@@ -2,20 +2,23 @@ name: Baxxel Geartooth
 
 origin: war-of-the-elements-011
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Baxxel
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: Pets you control have Assault 2 .
 
 regulation:

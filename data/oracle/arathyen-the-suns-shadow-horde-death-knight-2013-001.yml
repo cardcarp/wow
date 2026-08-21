@@ -2,17 +2,20 @@ name: Arathyen, the Suns Shadow
 
 origin: horde-death-knight-2013-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Arathyen → Ready target Ghoul you control.
 
 regulation:

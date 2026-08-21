@@ -2,17 +2,20 @@ name: Savitir Skullsmasher
 
 origin: blood-of-gladiators-014
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 1 , Flip Savitir → If Savitir has Stealth , destroy target exhausted equipment.
 
 regulation:

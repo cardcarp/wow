@@ -2,9 +2,12 @@ name: Varimathras, Dreadlord Insurgent
 
 origin: reign-of-fire-159
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Monster Hero Required When Varimathras enters play, Portal . If you would reveal three cards with a Portal power, reveal six cards instead.
 
 regulation:

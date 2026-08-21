@@ -2,9 +2,12 @@ name: Sal Grimstalker
 
 origin: fires-of-outland-141
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Stealth At the start of your turn, target hero or ally has Stealth this turn.
 
 regulation:

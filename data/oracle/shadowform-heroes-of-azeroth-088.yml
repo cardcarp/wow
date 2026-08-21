@@ -2,9 +2,12 @@ name: Shadowform
 
 origin: heroes-of-azeroth-088
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Shadow Hero Required Ongoing : If your hero would deal shadow damage, it deals that amount of damage plus 1 instead. When you play a Holy ability, destroy Shadowform.'
 
 regulation:

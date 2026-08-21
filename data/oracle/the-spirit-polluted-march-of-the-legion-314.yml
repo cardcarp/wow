@@ -2,12 +2,15 @@ name: The Spirit Polluted
 
 origin: march-of-the-legion-314
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Put 3 damage on your hero and pay 1 to complete this quest. Reward : Draw a card.'
 
 regulation:

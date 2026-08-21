@@ -2,9 +2,11 @@ name: Warmaster Lyria
 
 origin: mists-of-pandaria-starter-010
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

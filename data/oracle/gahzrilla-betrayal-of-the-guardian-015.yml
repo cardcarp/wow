@@ -2,9 +2,12 @@ name: Gahz'rilla
 
 origin: betrayal-of-the-guardian-015
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When this ally is dealt fatal damage, put two 4 / 4 Hydra Beast Monster ally tokens into play with Protector and "When this ally is dealt fatal damage, put two 2 / 2 Hydra Beast Monster ally tokens into play with Protector ."
 
 regulation:

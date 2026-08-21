@@ -2,12 +2,15 @@ name: Mindwipe
 
 origin: arena-grand-melee-event-059
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: All cards not in play lose and can't gain text this turn.
 
 regulation:

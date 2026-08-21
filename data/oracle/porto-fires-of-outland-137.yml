@@ -2,9 +2,12 @@ name: Porto
 
 origin: fires-of-outland-137
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Friendly Totems are Untargetable .
 
 regulation:

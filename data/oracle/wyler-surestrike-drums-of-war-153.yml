@@ -2,9 +2,12 @@ name: Wyler Surestrike
 
 origin: drums-of-war-153
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Shadowmeld When Wyler deals combat damage to a defending ally, destroy that ally.
 
 regulation:

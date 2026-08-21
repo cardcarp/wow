@@ -2,17 +2,20 @@ name: Morn Walks-the-Path
 
 origin: servants-of-the-betrayer-023
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Morn → You can play target ability card from your graveyard this turn.
 
 regulation:

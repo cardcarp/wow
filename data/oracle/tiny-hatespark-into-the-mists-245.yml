@@ -2,9 +2,11 @@ name: Tiny Hatespark
 
 origin: into-the-mists-245
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

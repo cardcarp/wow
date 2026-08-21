@@ -2,9 +2,12 @@ name: Exasperate
 
 origin: drums-of-war-053
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target player discards a card for each ally in your party.
 
 regulation:

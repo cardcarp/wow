@@ -2,9 +2,12 @@ name: Lafiel
 
 origin: heroes-of-azeroth-196
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , → Destroy target ability.
 
 regulation:

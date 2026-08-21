@@ -2,9 +2,12 @@ name: Anchorite Jaliah
 
 origin: march-of-the-legion-214
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 7
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation When an ally in your party is destroyed, Jaliah heals 2 damage from each hero and ally in your party.
 
 regulation:

@@ -2,12 +2,15 @@ name: 'Patience: Not Always A Virtue'
 
 origin: arena-grand-melee-event-069
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each player has 10 seconds to find one World of Warcraft® TCG card he owns that's not in the current game and put it on top of his deck.
 
 regulation:

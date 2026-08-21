@@ -1,6 +1,6 @@
 name: Scourgewar
 
-type: set
+type: Standard
 
 index: '01'
 
@@ -8,6 +8,6 @@ subtotal: 270
 
 total: 270
 
-date_release: 2009-11
+date: 2009-11
 
 collection: Scourgewar

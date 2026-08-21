@@ -2,9 +2,12 @@ name: Shadow and Flame
 
 origin: servants-of-the-betrayer-116
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Destruction Hero Required Ongoing : 1 , Destroy an ability you control → Your hero deals 2 shadow or fire damage to target hero or ally.'
 
 regulation:

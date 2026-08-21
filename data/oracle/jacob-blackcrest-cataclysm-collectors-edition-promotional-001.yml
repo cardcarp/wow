@@ -2,17 +2,20 @@ name: Jacob Blackcrest
 
 origin: cataclysm-collectors-edition-promotional-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 , Flip Jacob → Put target Demon from your graveyard into your hand.
 
 regulation:

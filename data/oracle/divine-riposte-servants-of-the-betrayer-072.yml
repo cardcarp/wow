@@ -2,9 +2,12 @@ name: Divine Riposte
 
 origin: servants-of-the-betrayer-072
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : When damage that would be dealt to a hero or ally in your party is prevented, your hero deals that much unpreventable holy damage to its source.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Edge of Oblivion
 
 origin: scourgewar-235
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: This weapon enters play with five +1 ATK counters. At the start of your turn, remove a +1 ATK counter. If none remain, destroy this weapon.
 
 regulation:

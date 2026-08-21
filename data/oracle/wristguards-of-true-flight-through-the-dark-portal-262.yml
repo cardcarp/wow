@@ -2,9 +2,11 @@ name: Wristguards of True Flight
 
 origin: through-the-dark-portal-262
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

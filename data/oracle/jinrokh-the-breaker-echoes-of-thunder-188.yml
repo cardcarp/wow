@@ -2,9 +2,11 @@ name: Jin'rokh, the Breaker
 
 origin: echoes-of-thunder-188
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

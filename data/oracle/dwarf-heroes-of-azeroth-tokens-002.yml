@@ -2,9 +2,11 @@ name: Dwarf
 
 origin: heroes-of-azeroth-tokens-002
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Alrak Stonecrack
 
 origin: twilight-of-the-dragons-106
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally is destroyed, put target opposing ally into its owner's hand.
 
 regulation:

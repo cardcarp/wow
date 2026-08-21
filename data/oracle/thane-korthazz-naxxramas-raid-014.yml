@@ -2,9 +2,12 @@ name: Thane Korth'azz
 
 origin: naxxramas-raid-014
 
-layout: transform
+layout: Transform
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 5
 
@@ -15,11 +18,11 @@ combat: Melee
 type: Ally
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: At the end of your turn, the raid leader chooses a raiding ally. This ally deals 5 fire damage to it.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: At the end of your turn, this ally deals 5 fire damage to each raiding ally.
 
 regulation:

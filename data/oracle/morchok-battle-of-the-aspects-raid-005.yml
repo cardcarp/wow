@@ -2,9 +2,12 @@ name: Morchok
 
 origin: battle-of-the-aspects-raid-005
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 2
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Boss When Morchok enters play, he deals 1 melee damage to each Raiding hero and ally, and each Raider exhausts all allies he controls that were dealt damage this way. Resonating Crystal (Deathwing Stages 2+) : When Morchok deals combat damage to a defending hero, Morchok deals double that much shadow damage to each other Raiding hero.'
 
 regulation:

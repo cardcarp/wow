@@ -2,9 +2,12 @@ name: David Smythe
 
 origin: servants-of-the-betrayer-160
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When David readies, you may remove an ally card in your graveyard from the game. If you do, destroy target equipment.
 
 regulation:

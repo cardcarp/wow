@@ -2,9 +2,12 @@ name: High Magus Euli
 
 origin: scourgewar-136
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Shadow Resistance At the start of your turn, this ally may deal 1 fire damage to target hero or ally. A character dealt damage this way loses and can't have powers this turn.
 
 regulation:

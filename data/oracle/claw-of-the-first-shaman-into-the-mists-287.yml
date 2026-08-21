@@ -2,9 +2,11 @@ name: Claw of the First Shaman
 
 origin: into-the-mists-287
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

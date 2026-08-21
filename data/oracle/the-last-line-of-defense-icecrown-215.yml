@@ -2,12 +2,15 @@ name: The Last Line of Defense
 
 origin: icecrown-215
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: Destroy a resource you control to complete this quest. Reward : Draw a card.'
 
 regulation:

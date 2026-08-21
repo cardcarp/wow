@@ -2,9 +2,11 @@ name: Zandalari Fleshrender
 
 origin: echoes-of-thunder-231
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

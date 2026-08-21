@@ -2,9 +2,12 @@ name: Royal Scepter of Terenas II
 
 origin: assault-on-icecrown-citadel-treasure-024
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a card enters your resource row, your hero may deal 2 damage from target hero or ally.
 
 regulation:

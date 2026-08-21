@@ -2,9 +2,11 @@ name: Shin'ka, Execution of Dominion
 
 origin: into-the-mists-294
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

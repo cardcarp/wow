@@ -2,9 +2,12 @@ name: Wastewalker Tunic
 
 origin: march-of-the-legion-269
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Wastewalker Tunic has +5 DEF while your hero is attacking an exhausted hero or ally.
 
 regulation:

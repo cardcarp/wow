@@ -2,9 +2,12 @@ name: Galahandra, Keeper of the Silent Grove
 
 origin: heroes-of-azeroth-184
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive 1 , → Exhaust target ally.
 
 regulation:

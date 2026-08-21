@@ -2,9 +2,12 @@ name: Shred
 
 origin: march-of-the-legion-027
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

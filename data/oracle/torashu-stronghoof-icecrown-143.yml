@@ -2,9 +2,12 @@ name: Torashu Stronghoof
 
 origin: icecrown-143
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Mend 2 This ally has -1 ATK for each damage on him.
 
 regulation:

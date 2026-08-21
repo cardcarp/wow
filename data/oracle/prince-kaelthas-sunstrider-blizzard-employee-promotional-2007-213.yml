@@ -2,9 +2,12 @@ name: Prince Kael'thas Sunstrider
 
 origin: blizzard-employee-promotional-2007-213
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '9'
 
@@ -15,7 +18,7 @@ health: 8
 combat: Arcane
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required At the end of your turn, gain control of all ready opposing resources. (Move them to your resource row.)
 
 regulation:

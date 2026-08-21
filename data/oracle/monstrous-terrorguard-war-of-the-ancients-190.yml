@@ -2,9 +2,12 @@ name: Monstrous Terrorguard
 
 origin: war-of-the-ancients-190
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may choose and destroy another Demon ally you control. If you do, destroy target ally.
 
 regulation:

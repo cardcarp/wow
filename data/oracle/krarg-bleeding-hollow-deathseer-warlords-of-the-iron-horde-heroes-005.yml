@@ -2,9 +2,11 @@ name: Krarg Bleeding Hollow Deathseer
 
 origin: warlords-of-the-iron-horde-heroes-005
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

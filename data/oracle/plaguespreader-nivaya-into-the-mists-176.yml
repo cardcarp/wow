@@ -2,9 +2,11 @@ name: Plaguespreader  Nivaya
 
 origin: into-the-mists-176
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

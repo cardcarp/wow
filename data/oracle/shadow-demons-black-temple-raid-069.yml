@@ -2,14 +2,17 @@ name: Shadow Demons
 
 origin: black-temple-raid-069
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 stage: 4
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Exhaust up to four target heroes and/or allies, and each of them can't ready during its controller's next ready step. Ongoing : 3 , → You may put a Traitor ally card from your graveyard or collection into play."
 
 regulation:

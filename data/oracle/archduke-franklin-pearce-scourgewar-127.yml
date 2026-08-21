@@ -2,9 +2,12 @@ name: Archduke Franklin Pearce
 
 origin: scourgewar-127
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 , Discard a card → Put target equipment on the bottom of its owner's deck.
 
 regulation:

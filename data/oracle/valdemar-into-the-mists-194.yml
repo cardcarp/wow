@@ -2,9 +2,11 @@ name: Valdemar
 
 origin: into-the-mists-194
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Split Greathammer
 
 origin: naxxramas-treasure-037
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: If your hero would deal combat damage to a hero with this weapon, it may deal that much divided as you choose among any number of opposing heroes and/or allies instead.
 
 regulation:

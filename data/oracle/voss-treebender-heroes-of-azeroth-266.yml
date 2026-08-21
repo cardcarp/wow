@@ -2,9 +2,12 @@ name: Voss Treebender
 
 origin: heroes-of-azeroth-266
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally attacks, you may exhaust target hero or ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Primal Strike
 
 origin: alliance-shaman-2011-011
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

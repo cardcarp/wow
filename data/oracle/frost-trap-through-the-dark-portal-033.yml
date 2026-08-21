@@ -2,9 +2,12 @@ name: Frost Trap
 
 origin: through-the-dark-portal-033
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

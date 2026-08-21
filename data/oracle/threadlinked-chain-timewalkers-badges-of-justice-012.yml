@@ -2,9 +2,12 @@ name: Threadlinked Chain
 
 origin: timewalkers-badges-of-justice-012
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: All allies have Elusive and Protector . At the end of each turn, each ally heals all damage from itself.
 
 regulation:

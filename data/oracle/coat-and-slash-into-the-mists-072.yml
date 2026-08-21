@@ -2,9 +2,11 @@ name: Coat and Slash
 
 origin: into-the-mists-072
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

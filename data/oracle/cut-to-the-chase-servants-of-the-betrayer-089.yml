@@ -2,9 +2,12 @@ name: Cut to the Chase
 
 origin: servants-of-the-betrayer-089
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: As an additional cost to play, remove up to five Combo cards in your graveyard from the game. Your hero deals that much melee damage to each opposing ally.
 
 regulation:

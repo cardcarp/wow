@@ -2,9 +2,12 @@ name: Black Blood
 
 origin: worldbreaker-023
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 5 shadow damage to target ally. If you control a Disease, your hero also deals 5 shadow damage to target hero.
 
 regulation:

@@ -2,9 +2,12 @@ name: Marksman Boriz
 
 origin: march-of-the-legion-218
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Ranged
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation Long-Range Opposing heroes and allies lose and can't have long-range.
 
 regulation:

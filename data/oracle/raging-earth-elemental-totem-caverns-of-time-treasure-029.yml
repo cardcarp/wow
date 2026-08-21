@@ -2,9 +2,12 @@ name: Raging Earth Elemental Totem
 
 origin: caverns-of-time-treasure-029
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -20,7 +23,7 @@ class:
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : When this Totem enters play, put two 2 / 1 Earth Elemental ally tokens into play. Other allies you control have Protector .'
 
 regulation:

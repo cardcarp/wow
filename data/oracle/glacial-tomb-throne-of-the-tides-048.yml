@@ -2,9 +2,12 @@ name: Glacial Tomb
 
 origin: throne-of-the-tides-048
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target ally. Ongoing : Attached ally can't attack or exhaust."
 
 regulation:

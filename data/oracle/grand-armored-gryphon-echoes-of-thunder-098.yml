@@ -2,9 +2,11 @@ name: Grand Armored Gryphon
 
 origin: echoes-of-thunder-098
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

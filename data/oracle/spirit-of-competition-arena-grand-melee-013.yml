@@ -2,9 +2,12 @@ name: Spirit of Competition
 
 origin: arena-grand-melee-013
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 rule: []
 

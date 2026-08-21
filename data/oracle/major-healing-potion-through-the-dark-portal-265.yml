@@ -2,9 +2,12 @@ name: Major Healing Potion
 
 origin: through-the-dark-portal-265
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Destroy Major Healing Potion → Your hero heals 5 damage from itself.
 
 regulation:

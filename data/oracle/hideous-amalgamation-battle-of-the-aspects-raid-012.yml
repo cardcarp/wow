@@ -2,9 +2,12 @@ name: Hideous Amalgamation
 
 origin: battle-of-the-aspects-raid-012
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 0
 
@@ -15,7 +18,7 @@ combat: Fire
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: Assault 4 This ally attacks the Raiding ally with the lowest health if able.
 
 regulation:

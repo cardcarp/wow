@@ -2,9 +2,12 @@ name: Retainer Faryn
 
 origin: the-hunt-for-illidan-191
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Scryer Reputation Sabotage: Resource When Faryn sabotages a resource, gain control of it. (Move it to your resource row.)'
 
 regulation:

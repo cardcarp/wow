@@ -2,9 +2,12 @@ name: Loremaster Pooth
 
 origin: betrayal-of-the-guardian-078
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you complete a quest, you may put a 2 / 2 Worgen ally token into play.
 
 regulation:

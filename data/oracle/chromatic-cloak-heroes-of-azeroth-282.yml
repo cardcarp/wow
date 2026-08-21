@@ -2,9 +2,12 @@ name: Chromatic Cloak
 
 origin: heroes-of-azeroth-282
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: If your hero would deal damage with an ability, it deals that amount of damage plus 1 instead.
 
 regulation:

@@ -2,9 +2,12 @@ name: Bound Torrent
 
 origin: war-of-the-elements-174
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Frost
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive When this ally exhausts, put a 2 / 1 Water Elemental ally token into play.
 
 regulation:

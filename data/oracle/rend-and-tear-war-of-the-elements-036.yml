@@ -2,9 +2,12 @@ name: Rend and Tear
 
 origin: war-of-the-elements-036
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

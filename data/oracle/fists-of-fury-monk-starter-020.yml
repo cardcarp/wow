@@ -2,9 +2,11 @@ name: Fists Of Fury
 
 origin: monk-starter-020
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Flame Pillar Leggings
 
 origin: twilight-of-the-dragons-180
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, your hero may deal 1 fire damage to target hero.
 
 regulation:

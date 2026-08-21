@@ -2,9 +2,12 @@ name: Ring of Binding
 
 origin: onyxias-lair-treasure-026
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opponents pay 1 more to play abilities that target your hero.
 
 regulation:

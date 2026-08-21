@@ -2,9 +2,12 @@ name: Razor Hill Assassin
 
 origin: war-of-the-ancients-142
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, target ally you control has Assault 2 and Stealth this turn.
 
 regulation:

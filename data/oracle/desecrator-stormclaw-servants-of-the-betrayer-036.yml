@@ -2,17 +2,20 @@ name: Desecrator Stormclaw
 
 origin: servants-of-the-betrayer-036
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Stormclaw, destroy a friendly ally → Put target Form card from your graveyard into your hand. Druids of the Fang
 
 regulation:

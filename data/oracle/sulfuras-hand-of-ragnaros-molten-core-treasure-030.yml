@@ -2,9 +2,12 @@ name: Sulfuras, Hand of Ragnaros
 
 origin: molten-core-treasure-030
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '8'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero is dealt combat damage, it deals 1 fire damage to the source of that damage. When you strike with Sulfuras, your hero deals 7 fire damage to target hero or ally.
 
 regulation:

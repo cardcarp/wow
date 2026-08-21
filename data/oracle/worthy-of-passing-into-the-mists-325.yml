@@ -2,9 +2,11 @@ name: Worthy of Passing
 
 origin: into-the-mists-325
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

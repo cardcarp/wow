@@ -2,9 +2,12 @@ name: Ruination
 
 origin: scourgewar-111
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Choose one or both: Destroy target ally; or destroy target weapon.'
 
 regulation:

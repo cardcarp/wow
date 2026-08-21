@@ -2,9 +2,12 @@ name: Mocking Blow
 
 origin: heroes-of-azeroth-144
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

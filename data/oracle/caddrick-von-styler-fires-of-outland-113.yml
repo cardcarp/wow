@@ -2,9 +2,12 @@ name: Caddrick Von Styler
 
 origin: fires-of-outland-113
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 5 , → Each player destroys one of his resources.
 
 regulation:

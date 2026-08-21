@@ -2,9 +2,12 @@ name: Crypt Guard
 
 origin: naxxramas-token-001
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 4
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may search your deck for a Web Wrap and put it into play attached to target raiding hero or ally.
 
 regulation:

@@ -2,9 +2,11 @@ name: Liu Sageflower
 
 origin: echoes-of-thunder-111
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

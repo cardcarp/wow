@@ -2,9 +2,12 @@ name: Divine Spirit
 
 origin: the-hunt-for-illidan-066
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Discipline Hero Required Ongoing : → Draw a card, or ready up to three of your resources.'
 
 regulation:

@@ -2,12 +2,15 @@ name: A Question of Gluttony
 
 origin: blood-of-gladiators-193
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'You pay 1 less to complete this quest for each card in your hand. Pay 7 to complete this quest. Reward : Draw a card.'
 
 regulation:

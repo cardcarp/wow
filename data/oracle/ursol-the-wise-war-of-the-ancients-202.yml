@@ -2,9 +2,12 @@ name: Ursol the Wise
 
 origin: war-of-the-ancients-202
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ursol can protect allies you control named Ursoc the Mighty. At the end of your turn, if you control Ursol the Wise and Ursoc the Mighty, Ursol heals all damage from both of them.
 
 regulation:

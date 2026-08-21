@@ -2,9 +2,12 @@ name: Grand Marshals Tome of Power
 
 origin: war-of-the-ancients-215
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -19,7 +22,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , → Allies you control have Assault 1 while in combat with heroes this turn, or Assault 2 if in combat with heroes.
 
 regulation:

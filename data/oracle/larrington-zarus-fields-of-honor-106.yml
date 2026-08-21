@@ -2,9 +2,12 @@ name: Larrington Zarus
 
 origin: fields-of-honor-106
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Larrington is destroyed while not an Undead, target opponent puts him into his party, and Larrington is also an Undead.
 
 regulation:

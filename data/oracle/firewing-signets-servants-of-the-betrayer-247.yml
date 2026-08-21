@@ -2,12 +2,15 @@ name: Firewing Signets
 
 origin: servants-of-the-betrayer-247
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Scryer Reputation If an ally with sabotage is in your party, pay 1 to complete this quest. Reward : Draw a card.'
 
 regulation:

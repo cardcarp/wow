@@ -2,9 +2,12 @@ name: Arcanite Dragonling
 
 origin: drums-of-war-216
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 → Arcanite Dragonling is also an ally with 2 ATK / 2 health and Protector this turn.
 
 regulation:

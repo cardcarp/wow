@@ -2,9 +2,12 @@ name: Spellstrike Hood
 
 origin: azeroth-crafting-007
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , → When you next play a non-ongoing ability this turn, copy it. (You may choose new targets for the copy.)
 
 regulation:

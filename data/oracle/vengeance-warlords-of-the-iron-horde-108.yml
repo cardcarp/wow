@@ -2,9 +2,11 @@ name: Vengeance
 
 origin: warlords-of-the-iron-horde-108
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

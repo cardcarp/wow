@@ -2,9 +2,12 @@ name: Magistrix Valthin
 
 origin: the-hunt-for-illidan-189
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Frost
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scryer Reputation When an ability enters play, you may have target player gain control of it. If it's attached, that player may reattach it.
 
 regulation:

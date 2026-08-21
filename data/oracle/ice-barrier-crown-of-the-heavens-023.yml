@@ -2,9 +2,12 @@ name: Ice Barrier
 
 origin: crown-of-the-heavens-023
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Frost Talent This ability enters play with three ice counters. Ongoing : If your hero would be dealt damage, remove an ice counter from this ability. Then, if no ice counters remain, destroy this ability. At the start of your turn, your hero deals 5 frost damage to target opposing hero.'
 
 regulation:

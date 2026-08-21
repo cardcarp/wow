@@ -2,9 +2,12 @@ name: Deliberate Heal
 
 origin: icecrown-047
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the start of your turn, destroy this ability. If you do, your hero heals 5 damage from target hero or ally, and draw a card.'
 
 regulation:

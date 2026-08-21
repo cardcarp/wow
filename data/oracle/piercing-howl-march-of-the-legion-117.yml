@@ -2,9 +2,12 @@ name: Piercing Howl
 
 origin: march-of-the-legion-117
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Fury Hero Required Target opponent puts three allies from his party on top of their owners' decks.
 
 regulation:

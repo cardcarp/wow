@@ -2,9 +2,11 @@ name: Fictious Warpotion
 
 origin: warlords-crafted-023
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

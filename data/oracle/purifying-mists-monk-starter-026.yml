@@ -2,9 +2,11 @@ name: Purifying Mists
 
 origin: monk-starter-026
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

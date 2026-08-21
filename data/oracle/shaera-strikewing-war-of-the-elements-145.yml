@@ -2,9 +2,12 @@ name: Shaera Strikewing
 
 origin: war-of-the-elements-145
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Stealth Stash : Target ally has Stealth this turn.'
 
 regulation:

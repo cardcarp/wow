@@ -2,9 +2,12 @@ name: Clockwork Gnome
 
 origin: worldbreaker-crafting-005
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -15,7 +18,7 @@ health: 0
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Artifact This ally has +ATK and + equal to the hour.
 
 regulation:

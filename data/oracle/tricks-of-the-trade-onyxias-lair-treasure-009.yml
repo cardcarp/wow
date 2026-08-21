@@ -2,9 +2,12 @@ name: Tricks of the Trade
 
 origin: onyxias-lair-treasure-009
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

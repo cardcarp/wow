@@ -2,9 +2,12 @@ name: Shade of Aran
 
 origin: betrayal-of-the-guardian-154
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Arcane
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Monster Hero Required As Aran enters play and as your turn starts, you may choose another ally. If you do, Aran has all powers of the chosen ally until the start of your next turn.
 
 regulation:

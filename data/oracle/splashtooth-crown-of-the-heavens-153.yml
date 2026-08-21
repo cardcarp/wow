@@ -2,9 +2,12 @@ name: Splashtooth
 
 origin: crown-of-the-heavens-153
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this or another Murloc ally enters play under your control, you may Delve .
 
 regulation:

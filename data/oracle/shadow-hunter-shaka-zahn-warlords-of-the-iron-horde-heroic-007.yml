@@ -2,9 +2,11 @@ name: Shadow Hunter Shaka Zahn
 
 origin: warlords-of-the-iron-horde-heroic-007
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

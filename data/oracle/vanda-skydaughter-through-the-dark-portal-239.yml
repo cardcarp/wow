@@ -2,9 +2,12 @@ name: Vanda Skydaughter
 
 origin: through-the-dark-portal-239
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 

@@ -2,9 +2,12 @@ name: Thunderstrike Weapon
 
 origin: worldbreaker-102
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target equipment you control. Ongoing : When attached equipment exhausts, you may pay 1 . If you do, your hero deals 1 nature damage to target hero or ally.'
 
 regulation:

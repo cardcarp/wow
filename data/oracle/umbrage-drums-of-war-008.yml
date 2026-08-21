@@ -2,17 +2,20 @@ name: Umbrage
 
 origin: drums-of-war-008
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 1 , Flip Umbrage → Remove target attacker from combat.
 
 regulation:

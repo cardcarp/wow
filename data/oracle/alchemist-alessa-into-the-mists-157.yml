@@ -2,9 +2,11 @@ name: Alchemist Alessa
 
 origin: into-the-mists-157
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

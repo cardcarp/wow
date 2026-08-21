@@ -2,9 +2,12 @@ name: Renzo Soulfang
 
 origin: tomb-of-the-forgotten-091
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, if you control fewer resources than each opponent, this ally deals 3 shadow damage to each opposing hero and heals 1 damage from your hero for each damage dealt this way.
 
 regulation:

@@ -2,9 +2,12 @@ name: Gromble the Apt
 
 origin: fields-of-honor-100
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 3
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Find Treasure Your hero can be exhausted to pay costs as though it were a resource.
 
 regulation:

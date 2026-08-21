@@ -2,12 +2,15 @@ name: 'Wanted: Durn the Hungerer'
 
 origin: march-of-the-legion-318
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If an opposing ally was destroyed this turn, pay 2 to complete this quest. Reward : Draw a card.'
 
 regulation:

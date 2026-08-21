@@ -2,9 +2,11 @@ name: Freeze Spell
 
 origin: into-the-mists-094
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

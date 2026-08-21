@@ -2,18 +2,21 @@ name: Iso'rath
 
 origin: crown-of-the-heavens-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 type: Monster
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Your starting and maximum hand sizes are nine cards. 10 → Flip Iso'rath face down.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: "(Printed: 32 ) → Destroy a non-Hero card of your choice. Deckbuilding: You can't put or cards in your deck."
 
 regulation:

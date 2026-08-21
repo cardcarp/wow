@@ -2,9 +2,12 @@ name: Chompers
 
 origin: throne-of-the-tides-040
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Once per turn, on your turn: Destroy a Murloc you control → Ready this ally. It heals all damage from itself.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Soul of the Dead
 
 origin: icecrown-185
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Your hero has +1 for each soul counter. Hero : Opposing allies everywhere have " Death Rattle : Add a soul counter to this item." Hero : Opposing abilities everywhere have " Death Rattle : Add a soul counter to this item."'
 
 regulation:

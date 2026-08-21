@@ -2,9 +2,12 @@ name: Fingers of Frost
 
 origin: icecrown-042
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Frost Hero Required If you have ten or more cards in your hand, opposing cards can't attack or exhaust until the start of your next turn.
 
 regulation:

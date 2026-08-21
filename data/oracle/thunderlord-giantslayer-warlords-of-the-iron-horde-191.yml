@@ -2,9 +2,11 @@ name: Thunderlord Giantslayer
 
 origin: warlords-of-the-iron-horde-191
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Wendy Anne
 
 origin: crown-of-the-heavens-099
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, Delve .
 
 regulation:

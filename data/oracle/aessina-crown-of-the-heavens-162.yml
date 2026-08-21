@@ -2,9 +2,12 @@ name: Aessina
 
 origin: crown-of-the-heavens-162
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive Other friendly Monster heroes and allies have +10 .
 
 regulation:

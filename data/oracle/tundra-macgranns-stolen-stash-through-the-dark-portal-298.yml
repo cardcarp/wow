@@ -2,14 +2,17 @@ name: Tundra MacGrann's Stolen Stash
 
 origin: through-the-dark-portal-298
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Dwarf Hero Required Pay 3 to complete this quest. Reward : If your hero dealt combat damage to an opposing hero this turn, draw two cards.'
 
 regulation:

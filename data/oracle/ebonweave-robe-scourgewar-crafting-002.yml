@@ -2,9 +2,12 @@ name: Ebonweave Robe
 
 origin: scourgewar-crafting-002
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Allies you control have Shadow Resistance . If an opposing ally would deal any type of damage, it deals shadow damage instead.
 
 regulation:

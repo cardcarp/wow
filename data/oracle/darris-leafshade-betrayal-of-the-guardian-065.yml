@@ -2,9 +2,12 @@ name: Darris Leafshade
 
 origin: betrayal-of-the-guardian-065
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Haste 2 Once per turn: 2 → Allies you control have +2 ATK this turn.'
 
 regulation:

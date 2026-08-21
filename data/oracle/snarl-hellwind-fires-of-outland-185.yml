@@ -2,9 +2,12 @@ name: Snarl Hellwind
 
 origin: fires-of-outland-185
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy an ally in your party other than Snarl Hellwind → Snarl has +1 ATK this turn.
 
 regulation:

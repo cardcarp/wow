@@ -2,9 +2,11 @@ name: Baited Arrow
 
 origin: echoes-of-thunder-025
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

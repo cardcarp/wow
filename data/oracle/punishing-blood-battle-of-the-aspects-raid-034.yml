@@ -2,14 +2,17 @@ name: Punishing Blood
 
 origin: battle-of-the-aspects-raid-034
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each Raider chooses and discards a card. Deathwing puts a Corrupted Blood ally token into play for each ability and ally discarded this way.
 
 regulation:

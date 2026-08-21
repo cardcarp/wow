@@ -2,9 +2,12 @@ name: Druid and Priest Statue Set
 
 origin: timewalkers-crafting-001
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: x , , Destroy this item → Put an X / X Spirit ally token into play with Mend X and Protector .
 
 regulation:

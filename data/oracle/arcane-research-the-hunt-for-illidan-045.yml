@@ -2,9 +2,12 @@ name: Arcane Research
 
 origin: the-hunt-for-illidan-045
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to play Arcane Research for each other card named Arcane Research in your graveyard. Draw two cards.
 
 regulation:

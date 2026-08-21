@@ -2,9 +2,12 @@ name: Track Enemy
 
 origin: throne-of-the-tides-045
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target hero or ally you control, then Delve . Ongoing : When attached character deals damage to an opposing hero, Delve .'
 
 regulation:

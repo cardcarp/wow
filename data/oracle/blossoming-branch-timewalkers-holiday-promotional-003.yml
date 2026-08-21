@@ -2,9 +2,12 @@ name: Blossoming Branch
 
 origin: timewalkers-holiday-promotional-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 4 , , Destroy this item → Destroy target ally, and its controller puts a 0 / 1 Adorable Rabbit ally token into play. 4 , , Destroy this item → Destroy target ally, and its controller puts a 5 / 5 Savage Rabbit ally token into play.
 
 regulation:

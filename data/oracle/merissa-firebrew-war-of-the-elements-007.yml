@@ -2,20 +2,23 @@ name: Merissa Firebrew
 
 origin: war-of-the-elements-007
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 → Flip Merissa
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: When you play an equipment, Merissa has Assault 1 this turn.
 
 regulation:

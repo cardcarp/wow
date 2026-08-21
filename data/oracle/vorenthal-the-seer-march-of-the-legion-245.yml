@@ -2,9 +2,12 @@ name: Voren'thal the Seer
 
 origin: march-of-the-legion-245
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -15,7 +18,7 @@ health: 8
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scryer Reputation If you would draw a card, draw two instead.
 
 regulation:

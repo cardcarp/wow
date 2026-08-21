@@ -2,9 +2,11 @@ name: Burning Blade Firecaller
 
 origin: warlords-of-the-iron-horde-130
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

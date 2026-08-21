@@ -2,9 +2,12 @@ name: Zulbraka
 
 origin: worldbreaker-202
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector
 
 regulation:

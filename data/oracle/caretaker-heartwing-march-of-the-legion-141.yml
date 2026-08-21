@@ -2,9 +2,12 @@ name: Caretaker Heartwing
 
 origin: march-of-the-legion-141
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Heartwing is Untargetable while ready.
 
 regulation:

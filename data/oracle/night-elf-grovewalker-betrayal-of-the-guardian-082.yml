@@ -2,9 +2,12 @@ name: Night Elf Grovewalker
 
 origin: betrayal-of-the-guardian-082
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Spellshield
 
 regulation:

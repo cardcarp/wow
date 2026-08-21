@@ -2,9 +2,12 @@ name: Helwen
 
 origin: heroes-of-azeroth-126
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -18,7 +21,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: You may choose not to ready Helwen during your ready step. → While Helwen remains exhausted, you control target ally.
 
 regulation:

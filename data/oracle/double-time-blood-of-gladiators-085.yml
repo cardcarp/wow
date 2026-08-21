@@ -2,9 +2,12 @@ name: Double Time
 
 origin: blood-of-gladiators-085
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

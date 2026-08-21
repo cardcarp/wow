@@ -2,9 +2,12 @@ name: Voltrinnia
 
 origin: blood-of-gladiators-146
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Arcane Torrent At the start of each opponent's turn, target ally in his party loses and can't have powers this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Orgrimmar Heartstriker
 
 origin: war-of-the-ancients-138
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Bloodrush : When this ally enters play, if an opposing hero has more damage on it than your hero, put a 2 / 2 Orc Warrior ally token into play with Ferocity and "This ally can only attack heroes."'
 
 regulation:

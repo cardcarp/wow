@@ -2,9 +2,12 @@ name: Fel Imp
 
 origin: reign-of-fire-133
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Fire
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally is destroyed, you may put it into your deck third from the top.
 
 regulation:

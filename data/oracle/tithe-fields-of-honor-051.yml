@@ -2,9 +2,12 @@ name: Tithe
 
 origin: fields-of-honor-051
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

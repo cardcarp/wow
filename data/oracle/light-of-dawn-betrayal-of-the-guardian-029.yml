@@ -2,9 +2,12 @@ name: Light of Dawn
 
 origin: betrayal-of-the-guardian-029
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

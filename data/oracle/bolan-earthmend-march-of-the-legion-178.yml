@@ -2,9 +2,12 @@ name: Bolan Earthmend
 
 origin: march-of-the-legion-178
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When Bolan readies, he heals all damage from target ally.
 
 regulation:

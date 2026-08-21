@@ -2,9 +2,12 @@ name: Abomination Knuckles
 
 origin: worldbreaker-233
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this weapon enters play, you may destroy target armor or item.
 
 regulation:

@@ -2,9 +2,12 @@ name: Bleakheart Hellcaller
 
 origin: reign-of-fire-124
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally is destroyed, Portal .
 
 regulation:

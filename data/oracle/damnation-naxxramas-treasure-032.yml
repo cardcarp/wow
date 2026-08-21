@@ -2,9 +2,12 @@ name: Damnation
 
 origin: naxxramas-treasure-032
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Opposing cards everywhere have " Death Rattle : Your hero deals 1 shadow damage to itself."'
 
 regulation:

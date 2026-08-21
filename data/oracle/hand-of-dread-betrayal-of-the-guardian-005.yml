@@ -2,9 +2,12 @@ name: Hand of Dread
 
 origin: betrayal-of-the-guardian-005
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

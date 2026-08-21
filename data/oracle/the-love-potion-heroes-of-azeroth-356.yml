@@ -2,12 +2,15 @@ name: The Love Potion
 
 origin: heroes-of-azeroth-356
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Exhaust two allies in your party and pay 1 to complete this quest. Reward : Draw a card.'
 
 regulation:

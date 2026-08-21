@@ -2,9 +2,12 @@ name: Band of Channeled Magic
 
 origin: scourgewar-badges-of-justice-001
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may pay 2 . If you do, draw a card. Otherwise, destroy this item.
 
 regulation:

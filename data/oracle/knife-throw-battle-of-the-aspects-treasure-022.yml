@@ -2,9 +2,12 @@ name: Knife Throw
 
 origin: battle-of-the-aspects-treasure-022
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target Dagger you control has +4 ATK and Thrown this turn. (When you strike with that weapon, it has Long-Range this combat. At the end of this turn, put that weapon into its owner's hand.)
 
 regulation:

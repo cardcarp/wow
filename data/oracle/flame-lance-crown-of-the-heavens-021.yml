@@ -2,9 +2,12 @@ name: Flame Lance
 
 origin: crown-of-the-heavens-021
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

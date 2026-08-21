@@ -1,3 +1,5 @@
+oracle: prometha-scourgewar-007
+
 index: '007'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: "\"I've never seen such fervor. Even the Burning Legion would retreat on occasion, but the Scourge are relentless.\""
-
-oracle: prometha-scourgewar-007
 
 set: Scourgewar

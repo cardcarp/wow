@@ -2,9 +2,11 @@ name: Harvester Ommru
 
 origin: warlords-of-the-iron-horde-heroes-010
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

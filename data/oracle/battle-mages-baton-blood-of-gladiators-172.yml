@@ -2,9 +2,12 @@ name: Battle Mages Baton
 
 origin: blood-of-gladiators-172
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: x , Exhaust your hero → Destroy target ability, ally, or equipment with cost X.
 
 regulation:

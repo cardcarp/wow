@@ -2,9 +2,12 @@ name: Vambraces of the Sadist
 
 origin: through-the-dark-portal-261
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an ally is destroyed, your hero deals melee damage equal to that ally's cost to target hero in that ally's party.
 
 regulation:

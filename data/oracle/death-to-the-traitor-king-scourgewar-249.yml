@@ -2,12 +2,15 @@ name: Death to the Traitor King
 
 origin: scourgewar-249
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Nerubian Reputation On your turn: Declare an opposing hero or ally the Traitor King this turn and pay 3 to complete this quest. Reward : Draw a card. Heroes and allies you control have Assault 1 while attacking the Traitor King this turn.'
 
 regulation:

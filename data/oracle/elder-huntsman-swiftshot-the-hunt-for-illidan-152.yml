@@ -2,9 +2,12 @@ name: Elder Huntsman Swiftshot
 
 origin: the-hunt-for-illidan-152
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Long-Range When Swiftshot or another ally enters your party, it may deal 1 ranged damage to target hero or ally.
 
 regulation:

@@ -2,9 +2,11 @@ name: Groveknight Dargeg
 
 origin: warlords-of-the-iron-horde-heroic-022
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

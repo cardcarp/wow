@@ -2,9 +2,12 @@ name: Doomwalker
 
 origin: the-hunt-for-illidan-199
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '11'
 
@@ -15,7 +18,7 @@ health: 11
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opposing ability, ally, or equipment becomes exhausted, destroy it.
 
 regulation:

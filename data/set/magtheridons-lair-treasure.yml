@@ -1,6 +1,6 @@
 name: Magtheridon's Lair Treasure
 
-type: raid
+type: Raid
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 20
 
 total: 20
 
-date_release: 2008-01
+date: 2008-01
 
 collection: Magtheridon's Lair

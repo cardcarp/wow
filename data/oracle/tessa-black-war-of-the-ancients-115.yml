@@ -2,9 +2,12 @@ name: Tessa Black
 
 origin: war-of-the-ancients-115
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally's ATK and are equal to the remaining health of your hero.
 
 regulation:

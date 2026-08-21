@@ -2,9 +2,11 @@ name: Holy Flame
 
 origin: warlords-of-the-iron-horde-102
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

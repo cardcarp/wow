@@ -2,17 +2,20 @@ name: Chloe Mithrilbolt
 
 origin: blood-of-gladiators-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 30
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 1 , Flip Chloe → When Chloe protects this turn, ready her.
 
 regulation:

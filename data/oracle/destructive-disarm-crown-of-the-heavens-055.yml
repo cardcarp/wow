@@ -2,9 +2,12 @@ name: Destructive Disarm
 
 origin: crown-of-the-heavens-055
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 2 less to play this ability if you control a weapon. Destroy target armor or weapon.
 
 regulation:

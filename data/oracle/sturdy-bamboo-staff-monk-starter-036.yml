@@ -2,9 +2,11 @@ name: Sturdy Bamboo Staff
 
 origin: monk-starter-036
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -1,3 +1,5 @@
+oracle: esonea-wrathgate-004
+
 index: '004'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"These who have been brought back by the curse of undeath must be freed so that their souls may rest."'
-
-oracle: esonea-wrathgate-004
 
 set: Wrathgate

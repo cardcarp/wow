@@ -2,9 +2,11 @@ name: Quaking Palm
 
 origin: into-the-mists-115
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

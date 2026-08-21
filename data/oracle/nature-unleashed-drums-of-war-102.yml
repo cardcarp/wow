@@ -2,9 +2,12 @@ name: Nature Unleashed
 
 origin: drums-of-war-102
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put five Bear ally tokens into play with 1 ATK / 1 health and Protector .
 
 regulation:

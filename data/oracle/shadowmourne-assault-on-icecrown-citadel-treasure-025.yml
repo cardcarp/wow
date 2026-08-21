@@ -2,9 +2,12 @@ name: Shadowmourne
 
 origin: assault-on-icecrown-citadel-treasure-025
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this weapon enters play, remove target ally from the game. If you do, add X +1 ATK counters to this weapon, where X was the ATK of that removed ally.
 
 regulation:

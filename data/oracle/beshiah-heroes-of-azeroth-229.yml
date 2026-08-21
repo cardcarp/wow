@@ -2,9 +2,12 @@ name: Besh'iah
 
 origin: heroes-of-azeroth-229
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy an ally in your party → Destroy target ability.
 
 regulation:

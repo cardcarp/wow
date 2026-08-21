@@ -2,9 +2,12 @@ name: Bladefists Breadth
 
 origin: march-of-the-legion-270
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play a weapon, ready your hero.
 
 regulation:

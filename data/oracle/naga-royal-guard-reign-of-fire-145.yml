@@ -2,9 +2,12 @@ name: Naga Royal Guard
 
 origin: reign-of-fire-145
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Monster Hero Required Protector This ally has +3 ATK on opposing turns.
 
 regulation:

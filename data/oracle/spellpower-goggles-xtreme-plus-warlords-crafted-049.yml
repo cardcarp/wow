@@ -2,9 +2,11 @@ name: Spellpower Goggles Xtreme Plus
 
 origin: warlords-crafted-049
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

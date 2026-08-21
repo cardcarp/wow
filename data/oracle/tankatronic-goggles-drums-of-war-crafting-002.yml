@@ -2,9 +2,12 @@ name: Tankatronic Goggles
 
 origin: drums-of-war-crafting-002
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Engineering Hero Required When Tankatronic Goggles enters play, look at target player's hand. Your hero is a Protector . Opposing allies lose and can't have Elusive , Stealth , and Untargetable .
 
 regulation:

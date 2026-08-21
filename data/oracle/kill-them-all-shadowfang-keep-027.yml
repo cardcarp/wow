@@ -2,14 +2,17 @@ name: Kill Them All
 
 origin: shadowfang-keep-027
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: Godfrey deals 4 shadow damage to each Raiding hero and ally and 4 shadow damage to each Dungeon ally.
 
 regulation:

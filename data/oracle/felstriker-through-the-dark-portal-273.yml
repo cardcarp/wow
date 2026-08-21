@@ -2,9 +2,12 @@ name: Felstriker
 
 origin: through-the-dark-portal-273
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 5 , Destroy Felstriker → Destroy target ally.
 
 regulation:

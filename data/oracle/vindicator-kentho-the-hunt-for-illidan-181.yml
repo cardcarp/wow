@@ -2,9 +2,12 @@ name: Vindicator Kentho
 
 origin: the-hunt-for-illidan-181
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation Destroy Kentho → Interrupt target card or effect targeting a card in play you control.
 
 regulation:

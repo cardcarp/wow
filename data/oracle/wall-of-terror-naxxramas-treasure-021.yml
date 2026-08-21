@@ -2,9 +2,12 @@ name: Wall of Terror
 
 origin: naxxramas-treasure-021
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor enters play, put each other ability, ally, and equipment into it's owner's hand.
 
 regulation:

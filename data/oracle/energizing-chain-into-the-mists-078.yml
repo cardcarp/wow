@@ -2,9 +2,11 @@ name: Energizing Chain
 
 origin: into-the-mists-078
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

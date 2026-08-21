@@ -2,9 +2,11 @@ name: Shadowmoon Voidcaster
 
 origin: warlords-of-the-iron-horde-182
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

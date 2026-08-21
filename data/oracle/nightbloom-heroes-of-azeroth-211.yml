@@ -2,9 +2,12 @@ name: Nightbloom
 
 origin: heroes-of-azeroth-211
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , → You may put a card from your hand into your resource row face down and exhausted.
 
 regulation:

@@ -2,9 +2,12 @@ name: Sister of Pleasure
 
 origin: black-temple-raid-041
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required Protector When Sister of Pleasure defends, she heals 1 damage from target hero or ally.
 
 regulation:

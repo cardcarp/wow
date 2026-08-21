@@ -2,9 +2,12 @@ name: Master Poisoner
 
 origin: wrathgate-068
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Assassination Hero Required Ongoing : You pay 1 less to play Poisons. At the start of your turn, your hero deals 1 nature damage to each opposing hero and ally for each Poison attached to it.'
 
 regulation:

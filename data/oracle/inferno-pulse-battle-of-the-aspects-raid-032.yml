@@ -2,14 +2,17 @@ name: Inferno Pulse
 
 origin: battle-of-the-aspects-raid-032
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: Deathwing deals 1 fire damage to each Raiding hero and ally. Flip an additional Deathwing card.
 
 regulation:

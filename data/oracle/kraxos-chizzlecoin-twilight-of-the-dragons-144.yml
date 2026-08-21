@@ -2,9 +2,12 @@ name: Kraxos Chizzlecoin
 
 origin: twilight-of-the-dragons-144
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Assault 3 Stash : Add an heirloom counter to target equipment you control.'
 
 regulation:

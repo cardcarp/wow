@@ -2,9 +2,11 @@ name: Single-Minded Fury
 
 origin: siege-of-orgrimmar-treasure-030
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

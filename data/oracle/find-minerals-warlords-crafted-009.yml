@@ -2,9 +2,11 @@ name: Find Minerals
 
 origin: warlords-crafted-009
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

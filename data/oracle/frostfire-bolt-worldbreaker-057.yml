@@ -2,9 +2,12 @@ name: Frostfire Bolt
 
 origin: worldbreaker-057
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

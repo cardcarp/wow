@@ -2,16 +2,19 @@ name: Kel'Thuzads Volley
 
 origin: naxxramas-raid-065
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Raid
 
 stage: 5
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : At the end of your turn, Kel'Thuzad deals 3 frost damage to each raiding hero and ally."
 
 regulation:

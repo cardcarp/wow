@@ -2,9 +2,12 @@ name: Kara Vesstal
 
 origin: throne-of-the-tides-116
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 

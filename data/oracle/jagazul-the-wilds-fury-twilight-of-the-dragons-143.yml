@@ -2,9 +2,12 @@ name: Jaga'zul the Wilds Fury
 
 origin: twilight-of-the-dragons-143
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally is destroyed, you may put him from the graveyard into his owner's resource row face down and exhausted.
 
 regulation:

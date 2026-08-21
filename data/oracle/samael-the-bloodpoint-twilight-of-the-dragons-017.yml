@@ -2,20 +2,23 @@ name: Samael the Bloodpoint
 
 origin: twilight-of-the-dragons-017
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 → Flip Samael face down.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: Ranged weapons you control have Assault 1 .
 
 regulation:

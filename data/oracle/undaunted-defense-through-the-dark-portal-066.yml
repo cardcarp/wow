@@ -2,9 +2,12 @@ name: Undaunted Defense
 
 origin: through-the-dark-portal-066
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 

@@ -2,9 +2,12 @@ name: Mental Focus
 
 origin: assault-on-icecrown-citadel-treasure-006
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target friendly ally. Ongoing : You and friendly players pay 1 less to play cards, to a minimum of 1 .'
 
 regulation:

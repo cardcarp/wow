@@ -2,17 +2,20 @@ name: Mojo Shaper Ojo'mon
 
 origin: fires-of-outland-014
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 , Flip Mojo Shaper Ojo'mon → Put an ally card with cost 2 or less from your graveyard into play. Use only on your turn.
 
 regulation:

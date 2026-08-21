@@ -2,9 +2,12 @@ name: Warpwood Binding
 
 origin: fires-of-outland-207
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to strike with Ranged weapons.
 
 regulation:

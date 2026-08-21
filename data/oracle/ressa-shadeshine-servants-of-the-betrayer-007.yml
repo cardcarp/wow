@@ -2,17 +2,20 @@ name: Ressa Shadeshine
 
 origin: servants-of-the-betrayer-007
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Ressa → Ressa deals melee damage to target ally equal to the ATK of one of your weapons.
 
 regulation:

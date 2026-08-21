@@ -2,9 +2,12 @@ name: Bottled Life
 
 origin: throne-of-the-tides-233
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this item enters play, put a 1 / 1 Treant ally token into play. On your turn: Exhaust a Druid hero or ally you control and destroy this item → Put a 1 / 1 Treant ally token into play.'
 
 regulation:

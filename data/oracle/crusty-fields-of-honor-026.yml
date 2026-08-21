@@ -2,9 +2,12 @@ name: Crusty
 
 origin: fields-of-honor-026
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When this ally deals combat damage to an ally, he may also deal that much melee damage to a second target hero or ally.
 
 regulation:

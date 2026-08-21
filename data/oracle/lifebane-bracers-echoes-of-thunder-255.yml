@@ -2,9 +2,11 @@ name: Lifebane Bracers
 
 origin: echoes-of-thunder-255
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

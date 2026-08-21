@@ -2,9 +2,12 @@ name: Joru the Blinding Light
 
 origin: reign-of-fire-104
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Discard a card → Remove this ally from the game. At end of turn, its owner puts it into play. (It enters play ready and undamaged.)
 
 regulation:

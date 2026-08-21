@@ -2,9 +2,12 @@ name: Nyn'jah
 
 origin: through-the-dark-portal-226
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Nyn'jah enters play, you may ready target opposing equipment. You control that equipment while Nyn'jah remains in your party.
 
 regulation:

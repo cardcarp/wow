@@ -2,9 +2,12 @@ name: Obsidian Edged Blade
 
 origin: molten-core-treasure-024
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Discard Obsidian Edged Blade from your hand → Put a +1 ATK counter on target Two-Handed sword.
 
 regulation:

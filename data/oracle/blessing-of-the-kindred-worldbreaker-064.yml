@@ -2,9 +2,12 @@ name: Blessing of the Kindred
 
 origin: worldbreaker-064
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

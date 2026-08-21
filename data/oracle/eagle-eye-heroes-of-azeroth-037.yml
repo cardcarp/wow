@@ -2,9 +2,12 @@ name: Eagle Eye
 
 origin: heroes-of-azeroth-037
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

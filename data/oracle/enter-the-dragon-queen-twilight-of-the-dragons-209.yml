@@ -2,12 +2,15 @@ name: Enter the Dragon Queen
 
 origin: twilight-of-the-dragons-209
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 4 to complete this quest. Reward : Draw a card for each different color among Dragonkin you control. (Dragonkin colors are Black, Blue, Bronze, Green, Red, and Twilight.)'
 
 regulation:

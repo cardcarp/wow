@@ -2,14 +2,17 @@ name: Wisdom
 
 origin: tomb-of-the-forgotten-072
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
 rule:
-  - type: ability
+  - type: Ability
     text: Draw two cards.
 
 regulation:

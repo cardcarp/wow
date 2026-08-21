@@ -2,9 +2,12 @@ name: The Abominable Greench
 
 origin: feast-of-winter-veil-2007-005
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '9'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: If an opponent would draw a card, you draw one instead.
 
 regulation:

@@ -2,9 +2,12 @@ name: Mighty Shadow Protection Potion
 
 origin: scourgewar-230
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -18,7 +21,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy this item → Target friendly hero or ally has Shadow Resistance this turn.
 
 regulation:

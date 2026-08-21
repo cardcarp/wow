@@ -2,9 +2,12 @@ name: Warlord Zon'ozz
 
 origin: battle-of-the-aspects-raid-006
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 2
 
@@ -15,7 +18,7 @@ combat: Shadow
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Boss Zon'ozz attacks the Raiding ally with the highest remaining health if able, and he has +3 ATK while attacking an ally. Void of the Unmaking (Deathwing Stages 2+) : When Zon'ozz deals fatal combat damage to a defending Raiding ally, that ally's controller removes the top card of his deck from the game. Zon'ozz deals shadow damage equal to that card's cost to each other Raiding hero."
 
 regulation:

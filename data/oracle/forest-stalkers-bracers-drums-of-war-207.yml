@@ -2,9 +2,12 @@ name: Forest Stalkers Bracers
 
 origin: drums-of-war-207
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 → Target hero or ally has Stealth this turn.
 
 regulation:

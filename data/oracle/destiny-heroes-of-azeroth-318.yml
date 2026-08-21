@@ -2,9 +2,12 @@ name: Destiny
 
 origin: heroes-of-azeroth-318
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage with Destiny, put a strength counter on Destiny. Destiny has +1 ATK for each strength counter on it.
 
 regulation:

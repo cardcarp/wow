@@ -2,9 +2,12 @@ name: Coif of the Wicked
 
 origin: the-hunt-for-illidan-207
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: ': When you place a quest, ready your hero and all of your Ranged weapons. : When you place a quest, ready your hero and all of your Melee weapons.'
 
 regulation:

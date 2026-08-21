@@ -2,9 +2,12 @@ name: Blessed Defense
 
 origin: fields-of-honor-040
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

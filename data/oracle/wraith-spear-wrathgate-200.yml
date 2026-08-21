@@ -2,9 +2,12 @@ name: Wraith Spear
 
 origin: wrathgate-200
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with this weapon while your hero is defending, it heals 4 damage from itself.
 
 regulation:

@@ -2,9 +2,12 @@ name: Zulanji
 
 origin: worldbreaker-201
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 

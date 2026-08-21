@@ -2,12 +2,15 @@ name: Return to the Scryers
 
 origin: the-hunt-for-illidan-234
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Scryer Reputation If you have another Scryer card in play, pay 2 to complete this quest. Reward : Draw a card.'
 
 regulation:

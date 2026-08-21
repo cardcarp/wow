@@ -2,9 +2,11 @@ name: William the Bloody
 
 origin: echoes-of-thunder-126
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

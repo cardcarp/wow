@@ -2,9 +2,12 @@ name: Lessa the Awakener
 
 origin: fires-of-outland-170
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Lessa enters play, you may put an ally card with cost 2 or less from your graveyard into play.
 
 regulation:

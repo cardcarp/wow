@@ -2,9 +2,12 @@ name: Frozen Strength
 
 origin: tomb-of-the-forgotten-012
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally, then Delve . Ongoing : Attached ally has +4 ATK.'
 
 regulation:

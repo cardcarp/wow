@@ -2,9 +2,12 @@ name: Vol'jin
 
 origin: blood-of-gladiators-145
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Vol'jin has +X ATK, where X is the combined damage on Trolls in your party.
 
 regulation:

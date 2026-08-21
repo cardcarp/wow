@@ -2,9 +2,12 @@ name: Flame Volley
 
 origin: betrayal-of-the-guardian-022
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

@@ -2,20 +2,23 @@ name: Suvok Frozeneye
 
 origin: worldbreaker-017
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Suvok
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: At the start of your turn, Suvok deals 1 frost damage to target opposing ready ally.
 
 regulation:

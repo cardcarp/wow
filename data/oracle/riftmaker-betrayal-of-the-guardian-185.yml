@@ -2,9 +2,12 @@ name: Riftmaker
 
 origin: betrayal-of-the-guardian-185
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Rift Dual Wield Allies you control have Assault 1 .
 
 regulation:

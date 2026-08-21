@@ -2,9 +2,12 @@ name: Embolism
 
 origin: icecrown-090
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target player discards X cards, where X is the cost of a non-hero Priest or Rogue you control.
 
 regulation:

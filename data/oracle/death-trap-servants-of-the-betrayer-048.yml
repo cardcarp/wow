@@ -2,9 +2,12 @@ name: Death Trap
 
 origin: servants-of-the-betrayer-048
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 

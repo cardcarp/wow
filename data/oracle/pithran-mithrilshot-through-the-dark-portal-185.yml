@@ -2,9 +2,12 @@ name: Pithran Mithrilshot
 
 origin: through-the-dark-portal-185
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive Long-Range
 
 regulation:

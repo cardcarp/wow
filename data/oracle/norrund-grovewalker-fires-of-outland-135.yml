@@ -2,9 +2,12 @@ name: Norrund Grovewalker
 
 origin: fires-of-outland-135
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive Untargetable
 
 regulation:

@@ -2,9 +2,12 @@ name: The Unstoppable Force
 
 origin: through-the-dark-portal-285
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy The Unstoppable Force → Destroy all armor named The Immovable Object.
 
 regulation:

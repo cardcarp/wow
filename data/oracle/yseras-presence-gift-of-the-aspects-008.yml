@@ -2,14 +2,17 @@ name: Yseras Presence
 
 origin: gift-of-the-aspects-008
 
-layout: standard
+layout: Standard
 
-category: Misc
+category:
+  - Misc
+
+theme:
 
 type: Gift
 
 rule:
-  - type: ability
+  - type: Ability
     text: "If each Raider's hero was destroyed while he controlled five or fewer resources, gain this Gift. Use this Gift: Each Raider may pay 1 . Each Raider that does reveals the top card of his deck and may place it exhausted as an additional resource this turn."
 
 regulation:

@@ -2,9 +2,11 @@ name: Shado-Pan Sentinel
 
 origin: echoes-of-thunder-243
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

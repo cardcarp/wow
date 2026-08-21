@@ -2,9 +2,12 @@ name: Killing Spree
 
 origin: through-the-dark-portal-122
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy all allies with damage on them.
 
 regulation:

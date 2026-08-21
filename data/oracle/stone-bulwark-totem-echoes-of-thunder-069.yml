@@ -2,9 +2,11 @@ name: Stone Bulwark Totem
 
 origin: echoes-of-thunder-069
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

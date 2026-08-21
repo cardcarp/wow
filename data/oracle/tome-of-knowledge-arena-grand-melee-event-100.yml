@@ -2,12 +2,15 @@ name: Tome of Knowledge
 
 origin: arena-grand-melee-event-100
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: You may read the flavor text of a card in your hand out loud. If you do, starting with the player to your left, each opponent may guess that card's name once. Then, remove it from the game. The player who guessed it first, or you if nobody guessed it, may place it face up or play it without paying its cost this game (any time he could normally do so) .
 
 regulation:

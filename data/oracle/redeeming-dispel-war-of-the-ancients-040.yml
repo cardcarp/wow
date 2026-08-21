@@ -2,9 +2,12 @@ name: Redeeming Dispel
 
 origin: war-of-the-ancients-040
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

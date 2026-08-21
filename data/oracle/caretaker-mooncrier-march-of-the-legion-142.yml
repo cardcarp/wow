@@ -2,9 +2,12 @@ name: Caretaker Mooncrier
 
 origin: march-of-the-legion-142
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ready allies in your party have +2 ATK.
 
 regulation:

@@ -2,17 +2,20 @@ name: Sister Remba
 
 origin: servants-of-the-betrayer-009
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 26
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 1 , Flip Remba → Target ally in your party with an attachment is Elusive and Untargetable this turn.
 
 regulation:

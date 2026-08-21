@@ -2,20 +2,23 @@ name: Zinsul
 
 origin: war-of-the-elements-020
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 → Flip Zin'sul
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: You pay 1 less to strike with weapons.
 
 regulation:

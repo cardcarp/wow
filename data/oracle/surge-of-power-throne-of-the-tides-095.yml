@@ -2,14 +2,17 @@ name: Surge of Power
 
 origin: throne-of-the-tides-095
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Token allies you control have +1 / +1.'
 
 regulation:

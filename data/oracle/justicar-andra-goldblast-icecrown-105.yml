@@ -2,9 +2,12 @@ name: Justicar Andra Goldblast
 
 origin: icecrown-105
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -20,7 +23,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 → When the next opposing Mage or card enters play this turn, destroy it.
 
 regulation:

@@ -2,9 +2,12 @@ name: Greaves of Desolation
 
 origin: the-hunt-for-illidan-210
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with a weapon, your hero heals all damage from target ally in your party.
 
 regulation:

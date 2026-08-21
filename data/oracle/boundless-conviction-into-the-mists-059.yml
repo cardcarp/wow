@@ -2,9 +2,11 @@ name: Boundless Conviction
 
 origin: into-the-mists-059
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

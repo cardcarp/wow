@@ -2,14 +2,17 @@ name: Stargaze
 
 origin: dungeon-treasure-010
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : When a Druid ally enters play under your control or a friendly player's control, target player draws a card."
 
 regulation:

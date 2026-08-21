@@ -2,9 +2,12 @@ name: Bitties
 
 origin: fires-of-outland-111
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, if Bitties has damage, destroy him.
 
 regulation:

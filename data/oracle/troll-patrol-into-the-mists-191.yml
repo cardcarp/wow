@@ -2,9 +2,11 @@ name: Troll Patrol
 
 origin: into-the-mists-191
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

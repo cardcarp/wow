@@ -2,9 +2,12 @@ name: Anchorite Fareena
 
 origin: servants-of-the-betrayer-184
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation 0 → Attach target attachment to Fareena. Use only once per turn.
 
 regulation:

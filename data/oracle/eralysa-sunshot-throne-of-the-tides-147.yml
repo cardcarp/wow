@@ -2,9 +2,12 @@ name: Eralysa Sunshot
 
 origin: throne-of-the-tides-147
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, she deals 2 ranged damage to target opposing Monster hero or ally.
 
 regulation:

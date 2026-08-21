@@ -2,17 +2,20 @@ name: Jonas White
 
 origin: servants-of-the-betrayer-019
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Jonas, exhaust an ally in your party → That ally deals melee damage equal to its ATK to target ally.
 
 regulation:

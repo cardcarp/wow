@@ -2,9 +2,12 @@ name: Eye of Flame
 
 origin: heroes-of-azeroth-287
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Exhaust your hero → If your hero has dealt fire damage this turn, it deals 1 fire damage to target hero or ally.
 
 regulation:

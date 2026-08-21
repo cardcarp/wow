@@ -2,9 +2,11 @@ name: Find Beasts
 
 origin: warlords-crafted-005
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

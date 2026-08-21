@@ -2,14 +2,17 @@ name: Frostmourne
 
 origin: assault-on-icecrown-citadel-raid-006
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Harvest Soul : When the Lich King deals fatal damage to an opposing ally with Frostmourne, add a +1 ATK counter to it, and the Lich King deals 2 frost damage to each opposing hero. Death Rattle : Put Frostmourne into its owner's hand."
 
 regulation:

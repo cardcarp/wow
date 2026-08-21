@@ -1,3 +1,5 @@
+oracle: alpine-foxling-into-the-mists-205
+
 index: '205'
 
 rarity: Common
@@ -7,7 +9,5 @@ artist: ''
 variation: []
 
 flavor: ''
-
-oracle: alpine-foxling-into-the-mists-205
 
 set: Into the Mists

@@ -2,9 +2,12 @@ name: Nespirah
 
 origin: throne-of-the-tides-214
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: If Nespirah would deal damage to an opposing hero, she deals that much divided as you choose among any number of opposing heroes and/or allies instead.
 
 regulation:

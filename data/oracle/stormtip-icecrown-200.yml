@@ -2,9 +2,12 @@ name: Stormtip
 
 origin: icecrown-200
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play a card, you may pay 1 . If you do, add a surge counter. 2 , Exhaust your hero, remove all surge counters → Your hero deals 1 frost damage to target hero or ally for each counter removed this way.
 
 regulation:

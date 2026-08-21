@@ -2,9 +2,12 @@ name: Lightning Shield
 
 origin: through-the-dark-portal-097
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

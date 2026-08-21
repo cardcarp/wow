@@ -2,9 +2,12 @@ name: Sapphiron Drape
 
 origin: onyxias-lair-treasure-018
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: If your hero would deal damage with an ability, it deals that amount of damage plus 1 instead. If your hero would heal damage with an ability, it heals that amount of damage plus 1 instead.
 
 regulation:

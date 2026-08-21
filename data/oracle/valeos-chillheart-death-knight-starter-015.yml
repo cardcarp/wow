@@ -2,9 +2,12 @@ name: Valeos Chillheart
 
 origin: death-knight-starter-015
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Each ally in combat with Valeos has -1 ATK for each damage on that ally.
 
 regulation:

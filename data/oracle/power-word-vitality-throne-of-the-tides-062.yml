@@ -2,9 +2,12 @@ name: 'Power Word: Vitality'
 
 origin: throne-of-the-tides-062
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '0'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally you control. Ongoing : Attached ally has +3 .'
 
 regulation:

@@ -2,9 +2,12 @@ name: Dragonwrath, Tarecgosas Rest
 
 origin: crown-of-the-heavens-180
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '7'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this weapon enters play or you play an ability, you may put a 5 / 5 Blue Dragonkin ally token into play.
 
 regulation:

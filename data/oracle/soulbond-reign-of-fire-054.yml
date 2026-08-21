@@ -2,9 +2,12 @@ name: Soulbond
 
 origin: reign-of-fire-054
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

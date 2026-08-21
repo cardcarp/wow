@@ -2,9 +2,12 @@ name: Gloves of Unerring Aim
 
 origin: icecrown-badges-of-justice-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing cards lose and can't have Untargetable . Damage your hero deals with abilities is unpreventable. When your hero would deal damage with a weapon, it deals that much +1 instead.
 
 regulation:

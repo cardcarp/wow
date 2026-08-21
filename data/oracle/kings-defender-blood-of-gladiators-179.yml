@@ -2,9 +2,12 @@ name: Kings Defender
 
 origin: blood-of-gladiators-179
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero is a Protector .
 
 regulation:

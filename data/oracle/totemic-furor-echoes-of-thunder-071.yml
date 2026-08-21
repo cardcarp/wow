@@ -2,9 +2,11 @@ name: Totemic Furor
 
 origin: echoes-of-thunder-071
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

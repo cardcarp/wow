@@ -2,9 +2,12 @@ name: Demon Hide Spaulders
 
 origin: march-of-the-legion-257
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Each of your weapons has +1 ATK this turn. → Each of your armor has +1 DEF this turn.
 
 regulation:

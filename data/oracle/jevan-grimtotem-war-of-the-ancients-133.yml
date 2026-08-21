@@ -2,9 +2,12 @@ name: Jevan Grimtotem
 
 origin: war-of-the-ancients-133
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Smash Tribe : When this or another Tauren ally enters play under your control, double Jevan's ATK this turn."
 
 regulation:

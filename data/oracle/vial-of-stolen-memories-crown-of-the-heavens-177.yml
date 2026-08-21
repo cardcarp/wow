@@ -2,9 +2,12 @@ name: Vial of Stolen Memories
 
 origin: crown-of-the-heavens-177
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this item enters play, search your deck for three cards with different names, reveal them, and remove them from the game face down. , Name a card → Look at a random card removed this way. If that card has that name, you may reveal it and put it into your hand.
 
 regulation:

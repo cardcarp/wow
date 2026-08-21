@@ -2,9 +2,12 @@ name: Vorn, Hand of Baine
 
 origin: caverns-of-time-treasure-052
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing allies must attack this ally if able. Prevent all damage that this ally would be dealt with abilities.
 
 regulation:

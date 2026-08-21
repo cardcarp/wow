@@ -2,9 +2,11 @@ name: Lunar Inspiration
 
 origin: warlords-of-the-iron-horde-013
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Fen-Yu, Fury of Xuen
 
 origin: into-the-mists-271
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

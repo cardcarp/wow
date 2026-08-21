@@ -2,9 +2,12 @@ name: Gurubashi Dwarf Destroyer
 
 origin: through-the-dark-portal-274
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with Gurubashi Dwarf Destroyer, your hero has Long-Range this combat. 2 , Destroy Gurubashi Dwarf Destroyer → Destroy target Dwarf ally.
 
 regulation:

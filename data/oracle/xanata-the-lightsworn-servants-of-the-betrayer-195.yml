@@ -2,9 +2,12 @@ name: Xanata the Lightsworn
 
 origin: servants-of-the-betrayer-195
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation Protector If Xanata would be dealt combat damage while defending, prevent 2 of it.
 
 regulation:

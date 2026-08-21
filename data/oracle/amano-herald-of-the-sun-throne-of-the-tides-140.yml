@@ -2,9 +2,12 @@ name: Amano, Herald of the Sun
 
 origin: throne-of-the-tides-140
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Empower Paladin : When this ally enters play, if you control another Paladin hero or ally, each ally you control with cost 2 or less has +X ATK this turn, where X is its ATK.'
 
 regulation:

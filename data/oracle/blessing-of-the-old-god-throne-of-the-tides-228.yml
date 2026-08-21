@@ -2,9 +2,12 @@ name: Blessing of the Old God
 
 origin: throne-of-the-tides-228
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this item enters play, draw a card. , Name a class and destroy this item → Target ally you control has that class and loses all other classes this turn.
 
 regulation:

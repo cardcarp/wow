@@ -2,9 +2,12 @@ name: Blaze of Light
 
 origin: reign-of-fire-027
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

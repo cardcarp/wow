@@ -1,6 +1,6 @@
 name: Black Temple Token
 
-type: raid
+type: Raid
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 7
 
 total: 7
 
-date_release: 2008-09
+date: 2008-09
 
 collection: Black Temple

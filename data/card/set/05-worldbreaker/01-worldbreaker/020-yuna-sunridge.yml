@@ -1,3 +1,5 @@
+oracle: yuna-sunridge-worldbreaker-020
+
 index: '020'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"The Earthmother has taught me much, and now I look to the Sun to teach me further."'
-
-oracle: yuna-sunridge-worldbreaker-020
 
 set: Worldbreaker

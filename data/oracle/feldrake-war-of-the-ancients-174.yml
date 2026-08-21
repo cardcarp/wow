@@ -2,9 +2,12 @@ name: Feldrake
 
 origin: war-of-the-ancients-174
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '0'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you place a resource face up into your resource row, this ally may deal 2 shadow damage to target hero. (Mounts can't attack or be attacked.)
 
 regulation:

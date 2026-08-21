@@ -2,9 +2,12 @@ name: Infusion of Fortitude
 
 origin: march-of-the-legion-071
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

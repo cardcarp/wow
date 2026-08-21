@@ -2,9 +2,12 @@ name: Slaughter
 
 origin: tomb-of-the-forgotten-046
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy target ally or weapon with cost 4 or less. If you do, add +1 ATK counters to a weapon you control equal to the ATK of the card destroyed this way.
 
 regulation:

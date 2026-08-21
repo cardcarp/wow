@@ -2,9 +2,12 @@ name: Grimnar
 
 origin: throne-of-the-tides-077
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector This ally has +1 / +1 for each ally in your graveyard.
 
 regulation:

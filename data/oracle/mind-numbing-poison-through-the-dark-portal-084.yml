@@ -2,9 +2,12 @@ name: Mind-numbing Poison
 
 origin: through-the-dark-portal-084
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

@@ -2,9 +2,12 @@ name: Hysteria
 
 origin: wrathgate-026
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Blood Hero Required Ongoing : , Put 1 damage on a hero or ally you control → It has Assault 4 this turn.'
 
 regulation:

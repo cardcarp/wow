@@ -2,9 +2,12 @@ name: Earths Bounty
 
 origin: march-of-the-legion-093
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put target card from your graveyard into your hand.
 
 regulation:

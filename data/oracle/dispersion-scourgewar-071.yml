@@ -2,9 +2,12 @@ name: Dispersion
 
 origin: scourgewar-071
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Shadow Hero Required Ongoing : This ability enters play with two incorporeal counters. Prevent all damage that would be dealt to your hero. At the start of your turn, remove an incorporeal counter. If none remain, destroy this ability.'
 
 regulation:

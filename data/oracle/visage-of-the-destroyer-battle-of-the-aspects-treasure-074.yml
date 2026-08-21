@@ -2,9 +2,12 @@ name: Visage of the Destroyer
 
 origin: battle-of-the-aspects-treasure-074
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this weapon enters play, you may remove target ally from the game. If you do, your hero heals damage from itself equal to that ally's ATK. When this weapon leaves play, put that removed ally into play under its owner's control.
 
 regulation:

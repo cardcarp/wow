@@ -2,9 +2,12 @@ name: Corrupted Ashbringer
 
 origin: reign-of-fire-182
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: This weapon enters play with three corruption counters. When you strike with this weapon, choose and destroy a card you control for each corruption counter on this weapon, then remove a corruption counter. When this weapon has no corruption counters, its damage type is and it has Invincible .
 
 regulation:

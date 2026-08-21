@@ -2,9 +2,12 @@ name: Shattering Strike
 
 origin: caverns-of-time-treasure-037
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

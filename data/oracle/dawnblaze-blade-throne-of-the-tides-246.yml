@@ -2,9 +2,12 @@ name: Dawnblaze Blade
 
 origin: throne-of-the-tides-246
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may add a +1 ATK counter to this weapon.
 
 regulation:

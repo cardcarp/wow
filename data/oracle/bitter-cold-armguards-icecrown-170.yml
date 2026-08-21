@@ -2,9 +2,12 @@ name: Bitter Cold Armguards
 
 origin: icecrown-170
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, your hero deals 1 frost damage to target hero or ally you control.
 
 regulation:

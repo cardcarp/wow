@@ -2,9 +2,12 @@ name: Deflecting Brimstone Band
 
 origin: aftermath-badges-of-justice-010
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: If your hero would be dealt damage by an opposing hero or ally, prevent 1 of it and add a stone counter to this item. Your hero has Assault 1 for each stone counter on this item.
 
 regulation:

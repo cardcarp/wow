@@ -2,9 +2,12 @@ name: Brok Bloodcaller
 
 origin: the-hunt-for-illidan-148
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity At the end of your turn, destroy Brok if he's undamaged.
 
 regulation:

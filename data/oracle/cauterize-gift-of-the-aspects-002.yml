@@ -2,14 +2,17 @@ name: Cauterize
 
 origin: gift-of-the-aspects-002
 
-layout: standard
+layout: Standard
 
-category: Misc
+category:
+  - Misc
+
+theme:
 
 type: Gift
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If Deathwing controlled eight or more allies, gain this Gift. Use this Gift: Destroy all Corrupted Blood allies.'
 
 regulation:

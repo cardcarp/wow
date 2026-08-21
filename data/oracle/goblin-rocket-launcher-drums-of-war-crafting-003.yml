@@ -2,9 +2,12 @@ name: Goblin Rocket Launcher
 
 origin: drums-of-war-crafting-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Engineering Hero Required → Remove the top card of your deck from the game. Your hero deals ranged damage equal to that card's cost to target ally.
 
 regulation:

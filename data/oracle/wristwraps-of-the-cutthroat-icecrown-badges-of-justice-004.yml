@@ -2,9 +2,12 @@ name: Wristwraps of the Cutthroat
 
 origin: icecrown-badges-of-justice-004
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of each opponent's turn, if a card didn't enter his graveyard this turn, he discards a card.
 
 regulation:

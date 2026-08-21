@@ -2,9 +2,11 @@ name: Logorr The Livid
 
 origin: echoes-of-thunder-195
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

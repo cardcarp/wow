@@ -2,9 +2,12 @@ name: Vanessa VanCleef
 
 origin: the-deadmines-004
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: Stealth , Untargetable When Vanessa enters play, she may deal 4 nature damage to target exhausted hero or ally.
 
 regulation:

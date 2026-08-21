@@ -2,9 +2,12 @@ name: Plague Igniter
 
 origin: naxxramas-treasure-035
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals shadow ( ) damage to a hero, allies in its party have -1 this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Vis'kag the Bloodletter
 
 origin: onyxias-lair-treasure-033
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage with Vis'kag the Bloodletter to an ally without damage on it, destroy that ally.
 
 regulation:

@@ -2,9 +2,11 @@ name: Pillage
 
 origin: warlords-of-the-iron-horde-105
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

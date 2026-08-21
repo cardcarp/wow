@@ -2,9 +2,12 @@ name: Morkad Sharptooth
 
 origin: fields-of-honor-136
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, choose a hero or ally in your party. Other characters can't attack this turn.
 
 regulation:

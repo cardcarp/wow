@@ -2,9 +2,12 @@ name: Infernal
 
 origin: heroes-of-azeroth-127
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -18,7 +21,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, discard a card, or target opponent gains control of Infernal. At the end of your turn, Infernal deals 1 fire damage to each opposing hero and ally.
 
 regulation:

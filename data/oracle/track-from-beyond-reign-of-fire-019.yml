@@ -2,9 +2,12 @@ name: Track from Beyond
 
 origin: reign-of-fire-019
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

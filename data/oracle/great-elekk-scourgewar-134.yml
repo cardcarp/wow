@@ -2,9 +2,12 @@ name: Great Elekk
 
 origin: scourgewar-134
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Draenei Hero Required You pay 1 less to complete quests. When you place a resource face up, this turn, if your hero would deal damage, it deals that much +2 instead. (Mounts can't attack or be attacked.)
 
 regulation:

@@ -2,9 +2,11 @@ name: Forgotten Treachery
 
 origin: echoes-of-thunder-087
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

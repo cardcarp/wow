@@ -2,17 +2,20 @@ name: Magnus the Depriver
 
 origin: fields-of-honor-006
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 2 , Flip Magnus → Target player turns one of his face-up resources face down.'
 
 regulation:

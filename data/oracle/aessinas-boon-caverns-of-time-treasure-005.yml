@@ -2,9 +2,12 @@ name: Aessinas Boon
 
 origin: caverns-of-time-treasure-005
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally, then put two 1 / 1 Treant ally tokens into play. Ongoing : Attached ally has +1 / +1 for each ally you control.'
 
 regulation:

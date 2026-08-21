@@ -2,9 +2,12 @@ name: Pauldrons of the Crimson Flight
 
 origin: fires-of-outland-202
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, ready one of your armor.
 
 regulation:

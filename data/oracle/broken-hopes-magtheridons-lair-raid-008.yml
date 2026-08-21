@@ -2,14 +2,17 @@ name: Broken Hopes
 
 origin: magtheridons-lair-raid-008
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Destroy Broken Hopes → Destroy target ability or equipment.'
 
 regulation:

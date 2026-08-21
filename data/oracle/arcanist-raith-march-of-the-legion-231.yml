@@ -2,9 +2,12 @@ name: Arcanist Raith
 
 origin: march-of-the-legion-231
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scryer Reputation Opponents play with the top card of their decks revealed.
 
 regulation:

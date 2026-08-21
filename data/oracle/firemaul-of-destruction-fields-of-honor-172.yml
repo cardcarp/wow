@@ -2,9 +2,12 @@ name: Firemaul of Destruction
 
 origin: fields-of-honor-172
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 3 less to strike with Firemaul of Destruction if an opposing card was destroyed this turn.
 
 regulation:

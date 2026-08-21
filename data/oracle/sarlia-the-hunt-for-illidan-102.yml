@@ -2,9 +2,12 @@ name: Sarlia
 
 origin: the-hunt-for-illidan-102
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -18,7 +21,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Untargetable 1 → Other allies in your party are Elusive this turn.
 
 regulation:

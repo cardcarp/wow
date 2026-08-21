@@ -1,3 +1,5 @@
+oracle: tiralesh-monk-starter-011
+
 index: '011'
 
 rarity: Common
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: ''
-
-oracle: tiralesh-monk-starter-011
 
 set: Monk Starter

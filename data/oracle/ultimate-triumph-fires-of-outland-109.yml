@@ -2,9 +2,12 @@ name: Ultimate Triumph
 
 origin: fires-of-outland-109
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 

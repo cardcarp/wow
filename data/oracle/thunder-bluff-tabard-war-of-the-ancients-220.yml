@@ -2,9 +2,12 @@ name: Thunder Bluff Tabard
 
 origin: war-of-the-ancients-220
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -23,7 +26,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 , → Your hero heals 3 damage from itself. You pay 1 less to use this power for each Tauren ally you control.
 
 regulation:

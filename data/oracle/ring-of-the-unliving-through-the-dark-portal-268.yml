@@ -2,9 +2,12 @@ name: Ring of the Unliving
 
 origin: through-the-dark-portal-268
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero can't be destroyed. While your hero has fatal damage on it, when it's dealt damage, destroy that many of your equipment and/or resources.
 
 regulation:

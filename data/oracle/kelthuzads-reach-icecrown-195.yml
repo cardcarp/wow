@@ -2,9 +2,12 @@ name: Kel'Thuzads Reach
 
 origin: icecrown-195
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage with this weapon to a hero, you may destroy this weapon. If you do, put target ally in an opponent's graveyard into play under your control.
 
 regulation:

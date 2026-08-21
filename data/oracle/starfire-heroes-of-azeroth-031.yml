@@ -2,9 +2,12 @@ name: Starfire
 
 origin: heroes-of-azeroth-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 5 arcane damage to target hero or ally. Draw a card.
 
 regulation:

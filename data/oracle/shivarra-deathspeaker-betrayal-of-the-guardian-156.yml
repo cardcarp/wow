@@ -2,9 +2,12 @@ name: Shivarra Deathspeaker
 
 origin: betrayal-of-the-guardian-156
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Fire
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, she may deal 3 fire damage to target hero with 15 or more damage on it.
 
 regulation:

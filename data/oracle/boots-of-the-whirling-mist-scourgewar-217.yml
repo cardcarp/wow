@@ -2,9 +2,12 @@ name: Boots of the Whirling Mist
 
 origin: scourgewar-217
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Hero : → Remove your hero from combat. Hero : → Interrupt target ability that's targeting your hero."
 
 regulation:

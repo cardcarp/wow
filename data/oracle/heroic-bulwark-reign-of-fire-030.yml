@@ -2,9 +2,12 @@ name: Heroic Bulwark
 
 origin: reign-of-fire-030
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

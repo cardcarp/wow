@@ -2,9 +2,12 @@ name: Wrath of Turalyon
 
 origin: servants-of-the-betrayer-076
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

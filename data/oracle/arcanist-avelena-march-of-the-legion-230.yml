@@ -2,9 +2,12 @@ name: Arcanist Avelena
 
 origin: march-of-the-legion-230
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Arcane
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Scryer Reputation Sabotage: Ability When Avelena sabotages an ability, put it on top of its owner's deck."
 
 regulation:

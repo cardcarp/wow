@@ -2,12 +2,15 @@ name: Hellfire Fortifications
 
 origin: march-of-the-legion-305
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If you played an ally this turn, pay 2 to complete this quest. Reward : Draw a card.'
 
 regulation:

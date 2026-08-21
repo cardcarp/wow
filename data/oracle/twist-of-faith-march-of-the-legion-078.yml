@@ -2,9 +2,12 @@ name: Twist of Faith
 
 origin: march-of-the-legion-078
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally. Ongoing : You control attached ally.'
 
 regulation:

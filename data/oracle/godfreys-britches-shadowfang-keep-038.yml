@@ -2,12 +2,15 @@ name: Godfreys Britches
 
 origin: shadowfang-keep-038
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: This armor exhausts to prevent the first damage Godfrey would be dealt. When this armor enters play, Godfrey heals 5 damage from himself for each equipment in his party (including this) .
 
 regulation:

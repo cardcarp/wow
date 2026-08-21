@@ -2,9 +2,12 @@ name: 'Power Word: Resurrection'
 
 origin: tomb-of-the-forgotten-039
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target ally. Ongoing : When attached ally attacks, you may put target ally with cost less than attached ally's cost from your graveyard into play."
 
 regulation:

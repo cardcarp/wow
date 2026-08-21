@@ -2,9 +2,12 @@ name: Rodrigo
 
 origin: fires-of-outland-140
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 

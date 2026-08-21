@@ -2,9 +2,11 @@ name: Forgotten Hope
 
 origin: echoes-of-thunder-048
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

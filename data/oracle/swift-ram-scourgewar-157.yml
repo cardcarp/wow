@@ -2,9 +2,12 @@ name: Swift Ram
 
 origin: scourgewar-157
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Dwarf Hero Required You pay 1 less to complete quests. When you place a resource face up, you may draw a card. If you do, discard a card. (Mounts can't attack or be attacked.)
 
 regulation:

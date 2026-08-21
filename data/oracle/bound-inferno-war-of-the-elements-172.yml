@@ -2,9 +2,12 @@ name: Bound Inferno
 
 origin: war-of-the-elements-172
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity When this ally is destroyed, put a 2 / 1 Fire Elemental ally token into play.
 
 regulation:

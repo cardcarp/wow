@@ -2,9 +2,12 @@ name: Oppress
 
 origin: worldbreaker-077
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy target ability. If you do, its controller discards a card.
 
 regulation:

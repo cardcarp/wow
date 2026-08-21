@@ -2,9 +2,11 @@ name: Sikari, the Courageous
 
 origin: echoes-of-thunder-163
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

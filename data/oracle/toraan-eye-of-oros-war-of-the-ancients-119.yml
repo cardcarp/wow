@@ -2,9 +2,12 @@ name: Toraan, Eye of O'ros
 
 origin: war-of-the-ancients-119
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally deals combat damage to an opposing hero, you pay 1 less to play your next card this turn for each damage dealt.
 
 regulation:

@@ -2,9 +2,12 @@ name: Ring of Invincibility
 
 origin: scourgewar-badges-of-justice-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , → Target ally has Invincible this turn.
 
 regulation:

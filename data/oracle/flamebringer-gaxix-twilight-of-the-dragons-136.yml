@@ -2,9 +2,12 @@ name: Flamebringer Gaxix
 
 origin: twilight-of-the-dragons-136
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has +2 / +2 while you control another card.
 
 regulation:

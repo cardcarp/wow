@@ -2,9 +2,12 @@ name: Runzik Shrapnelwhiz
 
 origin: throne-of-the-tides-167
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he deals 1 ranged damage to target opposing ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Bloodeye
 
 origin: march-of-the-legion-176
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Bloodeye can attack only heroes.
 
 regulation:

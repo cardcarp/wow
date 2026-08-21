@@ -2,9 +2,12 @@ name: Priestess of Dementia
 
 origin: black-temple-raid-038
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required 2 , Destroy an ally in your party → Each opponent destroy an ability or equipment he controls.
 
 regulation:

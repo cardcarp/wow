@@ -2,12 +2,15 @@ name: World Shaper
 
 origin: arena-grand-melee-event-113
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Choose a card from the Arena graveyard and reflip it.
 
 regulation:

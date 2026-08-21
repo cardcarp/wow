@@ -2,9 +2,12 @@ name: Nibbler
 
 origin: throne-of-the-tides-189
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this or another Murloc ally enters play under your control, it deals 1 melee damage to target opposing hero.
 
 regulation:

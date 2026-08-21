@@ -2,9 +2,12 @@ name: King Genn Greymane
 
 origin: worldbreaker-145
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aberration This ally has +2 / +2 for each other Worgen you control. While this ally is ready, opposing heroes and allies can't attack other Worgen you control.
 
 regulation:

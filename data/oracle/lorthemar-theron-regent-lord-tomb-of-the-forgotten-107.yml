@@ -2,9 +2,12 @@ name: Lor'themar Theron, Regent Lord
 
 origin: tomb-of-the-forgotten-107
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each player plays with the top card of his deck revealed. On your turn, you may play any cards revealed this way. (Pay costs as normal.)
 
 regulation:

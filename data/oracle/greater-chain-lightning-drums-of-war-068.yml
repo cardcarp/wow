@@ -2,9 +2,12 @@ name: Greater Chain Lightning
 
 origin: drums-of-war-068
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target up to five heroes and/or allies. Your hero deals 5, 4, 3, 2, and 1 nature damage to them, respectively.
 
 regulation:

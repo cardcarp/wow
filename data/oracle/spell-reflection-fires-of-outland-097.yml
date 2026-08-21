@@ -2,9 +2,12 @@ name: Spell Reflection
 
 origin: fires-of-outland-097
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

@@ -2,9 +2,12 @@ name: Durdin Hammerhand
 
 origin: through-the-dark-portal-162
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy Durdin Hammerhand → Exhaust target hero or ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Archimonde, Hand of Sargeras
 
 origin: caverns-of-time-treasure-053
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Smash When Archimonde enters play, he smashes 7 shadow damage to target opposing ally.
 
 regulation:

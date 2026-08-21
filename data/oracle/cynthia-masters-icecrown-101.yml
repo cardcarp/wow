@@ -2,9 +2,12 @@ name: Cynthia Masters
 
 origin: icecrown-101
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Assault 1 This ally has an additional Assault 1 for each other ally you control.
 
 regulation:

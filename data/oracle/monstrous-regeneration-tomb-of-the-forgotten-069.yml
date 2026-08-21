@@ -2,14 +2,17 @@ name: Monstrous Regeneration
 
 origin: tomb-of-the-forgotten-069
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target friendly Monster ally. Ongoing : Attached ally has +1 / +1 and Mend 1 . (At the start of your turn, it may heal 1 damage from target hero or ally.)'
 
 regulation:

@@ -2,9 +2,11 @@ name: Highmaul
 
 origin: warlords-of-the-iron-horde-274
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

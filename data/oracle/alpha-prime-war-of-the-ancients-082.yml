@@ -2,9 +2,12 @@ name: Alpha Prime
 
 origin: war-of-the-ancients-082
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Alpha Prime enters play, put a 2 / 2 Worgen ally token into play for this and each other Night Elf ally you control. This and other Worgen allies you control have Aberration .
 
 regulation:

@@ -2,9 +2,11 @@ name: Our Vigilance Is Eternal...
 
 origin: shadowfang-keep-028
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

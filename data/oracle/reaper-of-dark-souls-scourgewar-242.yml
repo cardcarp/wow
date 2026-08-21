@@ -2,9 +2,12 @@ name: Reaper of Dark Souls
 
 origin: scourgewar-242
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: X
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: This weapon enters play with X +1 ATK counters.
 
 regulation:

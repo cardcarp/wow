@@ -2,9 +2,12 @@ name: Velen, Prophet of the Naaru
 
 origin: tomb-of-the-forgotten-095
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, Velen deals 5 unpreventable holy damage to target opposing or Monster hero or ally. If that character is dealt fatal damage this way, draw a card.
 
 regulation:

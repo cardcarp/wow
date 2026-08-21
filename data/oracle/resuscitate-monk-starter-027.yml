@@ -2,9 +2,11 @@ name: Resuscitate
 
 origin: monk-starter-027
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

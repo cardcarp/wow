@@ -2,9 +2,12 @@ name: Mo'arg Punisher
 
 origin: reign-of-fire-144
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may destroy another ally you control. If you do, destroy target equipment.
 
 regulation:

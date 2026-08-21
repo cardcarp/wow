@@ -2,9 +2,12 @@ name: Offering to the Nether
 
 origin: scourgewar-099
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the start of your turn, remove this ability from the game. If you do, you may remove target ability, ally, or equipment from the game.'
 
 regulation:

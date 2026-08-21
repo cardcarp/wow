@@ -2,9 +2,12 @@ name: Chill
 
 origin: march-of-the-legion-091
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 1 frost damage to target hero or ally. A character dealt damage this way can't attack or protect this turn.
 
 regulation:

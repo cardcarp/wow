@@ -2,9 +2,11 @@ name: Morakki, Captain of the Watch
 
 origin: echoes-of-thunder-154
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

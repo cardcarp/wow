@@ -2,9 +2,12 @@ name: Windfury Weapon
 
 origin: heroes-of-azeroth-119
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

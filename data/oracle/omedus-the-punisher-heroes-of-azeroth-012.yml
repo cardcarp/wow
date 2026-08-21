@@ -2,17 +2,20 @@ name: Omedus the Punisher
 
 origin: heroes-of-azeroth-012
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 26
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Omedus → Omedus deals shadow damage to target hero equal to 7 minus the number of cards in its controller's hand.
 
 regulation:

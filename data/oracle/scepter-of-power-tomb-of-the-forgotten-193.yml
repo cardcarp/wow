@@ -2,9 +2,12 @@ name: Scepter of Power
 
 origin: tomb-of-the-forgotten-193
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust an ally you control → Add a tone counter to this weapon. While this weapon has four or more tone counters on it, it has Harmonize .
 
 regulation:

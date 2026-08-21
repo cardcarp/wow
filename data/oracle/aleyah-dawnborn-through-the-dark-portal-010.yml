@@ -2,17 +2,20 @@ name: Aleyah Dawnborn
 
 origin: through-the-dark-portal-010
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 , Flip Aleyah Dawnborn → When an ally in your party deals combat damage this turn, Aleyah heals that much damage from herself.
 
 regulation:

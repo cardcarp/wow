@@ -2,12 +2,15 @@ name: Play the Odds
 
 origin: arena-grand-melee-event-075
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: For each hero and ally, remove all dice being used to track its damage, then roll them and put that much damage on that character.
 
 regulation:

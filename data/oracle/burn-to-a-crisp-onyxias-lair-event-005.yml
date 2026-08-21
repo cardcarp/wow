@@ -2,14 +2,17 @@ name: Burn to a Crisp
 
 origin: onyxias-lair-event-005
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Raid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Onyxia deals 1 fire damage to target opposing ally for each resource you have.
 
 regulation:

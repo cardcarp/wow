@@ -2,9 +2,11 @@ name: Kor Kron Sniper
 
 origin: siege-of-orgrimmar-032
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

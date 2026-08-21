@@ -2,9 +2,11 @@ name: Regalia of the Chromatic Hydra
 
 origin: echoes-of-thunder-259
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

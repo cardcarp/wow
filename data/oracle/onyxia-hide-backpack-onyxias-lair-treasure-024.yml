@@ -2,9 +2,12 @@ name: Onyxia Hide Backpack
 
 origin: onyxias-lair-treasure-024
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: ', Discard an equipment card → Draw a card.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Lights Vengeance
 
 origin: betrayal-of-the-guardian-030
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

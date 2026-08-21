@@ -2,9 +2,12 @@ name: Ring of Protection
 
 origin: reign-of-fire-179
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , {exhaust} → Target ally has Protector this turn.
 
 regulation:

@@ -2,9 +2,11 @@ name: Tiger Palm
 
 origin: into-the-mists-057
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

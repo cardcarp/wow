@@ -2,9 +2,12 @@ name: Katu Lions-Claw
 
 origin: caverns-of-time-treasure-047
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Tribe : When this or another Tauren ally enters play under your control, target ally has +2 ATK and Stealth this turn.'
 
 regulation:

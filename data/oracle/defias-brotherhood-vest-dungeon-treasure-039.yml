@@ -2,9 +2,12 @@ name: Defias Brotherhood Vest
 
 origin: dungeon-treasure-039
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: While you control four or more allies, allies you control have Assault 1 and Stealth .
 
 regulation:

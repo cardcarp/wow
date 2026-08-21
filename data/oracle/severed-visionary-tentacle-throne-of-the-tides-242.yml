@@ -2,9 +2,12 @@ name: Severed Visionary Tentacle
 
 origin: throne-of-the-tides-242
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this item enters play, remove the top three cards of target opponent's deck from the game face down. You may look at the cards removed this way at any time. When an opponent plays a card or places a resource face up into his resource row, you may reveal a card removed this way. If they share a name, destroy this item. If you do, your hero deals 10 shadow damage to that opponent's hero.
 
 regulation:

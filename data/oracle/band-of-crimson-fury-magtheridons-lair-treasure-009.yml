@@ -2,9 +2,12 @@ name: Band of Crimson Fury
 
 origin: magtheridons-lair-treasure-009
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 , Discard a card → The next time damage would be dealt with an ability you control this turn, that much +3 is dealt instead.
 
 regulation:

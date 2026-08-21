@@ -2,9 +2,12 @@ name: Tempest Elemental
 
 origin: reign-of-fire-048
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, put an ally you control into its owner's hand.
 
 regulation:

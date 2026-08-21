@@ -2,17 +2,20 @@ name: Durzion, Champion of A'dal
 
 origin: wrathgate-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 26
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Flip Durzion, discard a Priest → Durzion heals 2 damage from each friendly hero and ally.
 
 regulation:

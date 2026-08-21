@@ -2,9 +2,12 @@ name: Fel Trade
 
 origin: assault-on-icecrown-citadel-treasure-009
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy any number of allies you control. If you do, search your deck for an ally with cost less than or equal to the combined cost of cards destroyed this way and put it into play.
 
 regulation:

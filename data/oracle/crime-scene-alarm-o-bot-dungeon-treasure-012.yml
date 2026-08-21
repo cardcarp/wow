@@ -2,9 +2,12 @@ name: Crime Scene Alarm-O-Bot
 
 origin: dungeon-treasure-012
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When an opposing hero or ally attacks, you may ready this ally.
 
 regulation:

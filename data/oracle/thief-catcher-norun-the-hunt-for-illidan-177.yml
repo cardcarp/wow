@@ -2,9 +2,12 @@ name: Thief Catcher Norun
 
 origin: the-hunt-for-illidan-177
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation Protector Norun can also protect against attackers with Stealth .
 
 regulation:

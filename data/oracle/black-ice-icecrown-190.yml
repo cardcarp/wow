@@ -2,9 +2,12 @@ name: Black Ice
 
 origin: icecrown-190
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with this weapon on an opponent's turn, your hero may deal 1 frost damage to target hero or ally. A character dealt damage this way can't attack this turn.
 
 regulation:

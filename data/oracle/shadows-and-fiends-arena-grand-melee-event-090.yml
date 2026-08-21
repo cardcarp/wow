@@ -2,12 +2,15 @@ name: Shadows and Fiends
 
 origin: arena-grand-melee-event-090
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : All allies have Ferocity . When an ally enters play, put it into its owner's hand at the start of the next turn."
 
 regulation:

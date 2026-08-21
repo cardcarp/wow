@@ -2,9 +2,12 @@ name: Swipe
 
 origin: march-of-the-legion-030
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

@@ -2,9 +2,11 @@ name: SI:7 Assassin Telrendil
 
 origin: into-the-mists-147
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Colossal Skull-Clad Cleaver
 
 origin: wrathgate-187
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opposing ally is destroyed, add a skull counter to this weapon. This weapon has Assault 1 for each skull counter on it.
 
 regulation:

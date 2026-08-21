@@ -2,9 +2,12 @@ name: Fit of Rage
 
 origin: icecrown-083
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : 2 , , Destroy an equipment you control → Your hero deals melee damage to target hero or ally equal to that equipment's cost."
 
 regulation:

@@ -2,9 +2,12 @@ name: Naz'jar Myrmidon
 
 origin: throne-of-the-tides-208
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector
 
 regulation:

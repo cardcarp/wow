@@ -2,9 +2,12 @@ name: Snipe
 
 origin: drums-of-war-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

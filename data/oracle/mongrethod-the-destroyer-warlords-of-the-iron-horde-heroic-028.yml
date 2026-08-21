@@ -2,9 +2,11 @@ name: Mongrethod The Destroyer
 
 origin: warlords-of-the-iron-horde-heroic-028
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

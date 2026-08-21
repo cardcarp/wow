@@ -2,17 +2,20 @@ name: Chancellor Velora
 
 origin: march-of-the-legion-012
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 26
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Velora → Velora deals 1 unpreventable holy damage to target hero or ally. Use only on your turn.
 
 regulation:

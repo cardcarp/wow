@@ -2,9 +2,12 @@ name: Waz'luk
 
 origin: through-the-dark-portal-242
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Waz'luk enters play, he deals 1 fire damage to target hero.
 
 regulation:

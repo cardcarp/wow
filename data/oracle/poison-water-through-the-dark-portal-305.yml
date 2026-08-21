@@ -2,14 +2,17 @@ name: Poison Water
 
 origin: through-the-dark-portal-305
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 3 to complete this quest. Reward : Choose one: Shuffle any number of cards from your graveyard into your deck; or draw a card. If your hero is a Tauren, you may choose both.'
 
 regulation:

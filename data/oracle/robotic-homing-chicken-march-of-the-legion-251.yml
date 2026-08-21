@@ -2,9 +2,12 @@ name: Robotic Homing Chicken
 
 origin: march-of-the-legion-251
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive At the start of your turn, each player rolls a die. If two or more players roll the same number, destroy Robotic Homing Chicken and all allies in those players' parties.
 
 regulation:

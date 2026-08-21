@@ -2,9 +2,11 @@ name: Disrupting Shot
 
 origin: reign-of-fire-017
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

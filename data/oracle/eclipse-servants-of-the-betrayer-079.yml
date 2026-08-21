@@ -2,9 +2,12 @@ name: Eclipse
 
 origin: servants-of-the-betrayer-079
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 

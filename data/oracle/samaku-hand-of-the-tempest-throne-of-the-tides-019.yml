@@ -2,17 +2,20 @@ name: Samaku, Hand of the Tempest
 
 origin: throne-of-the-tides-019
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 1 , Flip Samaku → Delve .
 
 regulation:

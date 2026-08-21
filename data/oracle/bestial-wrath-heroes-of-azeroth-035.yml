@@ -2,9 +2,12 @@ name: Bestial Wrath
 
 origin: heroes-of-azeroth-035
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

@@ -2,9 +2,12 @@ name: Dagg'um Ty'gor
 
 origin: drums-of-war-200
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 6
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Conspicuous
 
 regulation:

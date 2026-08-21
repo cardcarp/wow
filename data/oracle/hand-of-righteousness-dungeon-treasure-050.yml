@@ -2,9 +2,12 @@ name: Hand of Righteousness
 
 origin: dungeon-treasure-050
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 → Damage that target hero or ally would deal this turn is unpreventable.
 
 regulation:

@@ -2,9 +2,12 @@ name: Elemental Flames
 
 origin: war-of-the-elements-082
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

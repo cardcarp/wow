@@ -2,9 +2,12 @@ name: Berserker Bracers
 
 origin: fields-of-honor-153
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero is dealt damage, ready Berserker Bracers.
 
 regulation:

@@ -2,9 +2,12 @@ name: Green Whelp Armor
 
 origin: heroes-of-azeroth-291
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an attacking ally deals combat damage to your hero, you may pay 2 . If you do, put that ally into its owner's hand.
 
 regulation:

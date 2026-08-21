@@ -2,9 +2,12 @@ name: Ancestral Renewal
 
 origin: reign-of-fire-044
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '9'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy all opposing cards attached to cards you own. Shuffle your graveyard into your deck. Draw cards until you reach your maximum hand size. Your hero heals all damage from itself.
 
 regulation:

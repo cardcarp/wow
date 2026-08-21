@@ -2,9 +2,11 @@ name: Xuan Shadowstep
 
 origin: into-the-mists-203
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

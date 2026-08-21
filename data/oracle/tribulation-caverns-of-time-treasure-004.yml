@@ -2,9 +2,12 @@ name: Tribulation
 
 origin: caverns-of-time-treasure-004
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the start of your turn, each opponent puts a card from the top of his deck into his graveyard for each hero and ally he controls.'
 
 regulation:

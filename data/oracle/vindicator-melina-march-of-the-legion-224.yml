@@ -2,9 +2,12 @@ name: Vindicator Melina
 
 origin: march-of-the-legion-224
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Aldor Reputation Inspire: Equipment'
 
 regulation:

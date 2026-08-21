@@ -2,9 +2,12 @@ name: Demonfang Ritual Helm
 
 origin: march-of-the-legion-258
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an ally in your party is destroyed, each other player destroys an ally in his party.
 
 regulation:

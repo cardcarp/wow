@@ -2,9 +2,12 @@ name: Zintix the Frostbringer
 
 origin: throne-of-the-tides-136
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally deals damage to an opposing hero, you may search your deck for an attachment that could target that hero. Play it immediately, targeting that hero, without paying its cost.
 
 regulation:

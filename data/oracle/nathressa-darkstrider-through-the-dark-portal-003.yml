@@ -2,17 +2,20 @@ name: Nathressa Darkstrider
 
 origin: through-the-dark-portal-003
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 1 , Flip Nathressa Darkstrider → Nathressa has Stealth this turn.
 
 regulation:

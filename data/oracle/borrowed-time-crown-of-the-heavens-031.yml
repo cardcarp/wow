@@ -2,9 +2,12 @@ name: Borrowed Time
 
 origin: crown-of-the-heavens-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Discipline Talent Ongoing : At the start of your turn, you may add a clock counter to this ability. On your turn: Remove five clock counters from this ability and destroy it → Take an additional turn after this one.'
 
 regulation:

@@ -2,9 +2,11 @@ name: Foragers Gloves
 
 origin: warlords-crafted-040
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Breanna Greenmother
 
 origin: fires-of-outland-112
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Allies in your party can use activated ( ) powers from the turn they enter your party.
 
 regulation:

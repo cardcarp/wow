@@ -2,17 +2,20 @@ name: Graccus
 
 origin: heroes-of-azeroth-004
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Graccus → Prevent the next 3 damage that would be dealt to target hero or ally this turn.
 
 regulation:

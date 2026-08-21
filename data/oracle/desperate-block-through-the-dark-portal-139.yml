@@ -2,9 +2,12 @@ name: Desperate Block
 
 origin: through-the-dark-portal-139
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

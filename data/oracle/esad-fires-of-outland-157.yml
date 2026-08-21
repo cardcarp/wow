@@ -2,9 +2,12 @@ name: Esad
 
 origin: fires-of-outland-157
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When E'sad enters play, target opponent puts the top card of his deck into his resource row face down.
 
 regulation:

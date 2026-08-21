@@ -2,12 +2,15 @@ name: The Fare of Lar'korwi
 
 origin: fires-of-outland-233
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 3 to complete this quest. Reward : Ally cards in your hand are instant this turn until you play an ally.'
 
 regulation:

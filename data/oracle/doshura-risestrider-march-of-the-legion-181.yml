@@ -2,9 +2,12 @@ name: Doshura Risestrider
 
 origin: march-of-the-legion-181
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When Doshura enters play, you may destroy target exhausted ally.
 
 regulation:

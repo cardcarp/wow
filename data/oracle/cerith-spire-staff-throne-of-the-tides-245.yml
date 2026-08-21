@@ -2,9 +2,12 @@ name: Cerith Spire Staff
 
 origin: throne-of-the-tides-245
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: If your hero would deal any type of damage, it deals frost damage instead. At the end of your turn, your hero deals 10 frost damage to target opposing hero that was dealt 10 or more frost ( ) damage this turn.
 
 regulation:

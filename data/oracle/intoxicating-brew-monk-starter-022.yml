@@ -2,9 +2,11 @@ name: Intoxicating Brew
 
 origin: monk-starter-022
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

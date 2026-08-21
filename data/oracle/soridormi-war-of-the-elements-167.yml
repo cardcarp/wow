@@ -2,9 +2,12 @@ name: Soridormi
 
 origin: war-of-the-elements-167
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 6
 combat: Ranged
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 → Target ally you control has Protector , Elusive , Stealth , or Untargetable this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Reload
 
 origin: fields-of-honor-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ready your hero and one of your Ranged weapons. If you ready a weapon this way, you pay 10 less the next time you strike with it this turn.
 
 regulation:

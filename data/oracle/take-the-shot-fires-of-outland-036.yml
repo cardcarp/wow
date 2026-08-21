@@ -2,9 +2,12 @@ name: Take the Shot
 
 origin: fires-of-outland-036
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals ranged damage to target hero or ally equal to 1 plus the ATK of one of your Ranged weapons.
 
 regulation:

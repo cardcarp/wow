@@ -2,9 +2,12 @@ name: Garet Vice
 
 origin: worldbreaker-138
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aberration
 
 regulation:

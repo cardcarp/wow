@@ -1,3 +1,5 @@
+oracle: arch-druid-lilliandra-icecrown-001
+
 index: '001'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"May Cenarius bless all those who defend Azeroth from the corruption of the Lich King."'
-
-oracle: arch-druid-lilliandra-icecrown-001
 
 set: Icecrown

@@ -2,9 +2,12 @@ name: Heroic Strike
 
 origin: heroes-of-azeroth-142
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Weapons you control have +3 ATK this turn.
 
 regulation:

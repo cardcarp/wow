@@ -2,14 +2,17 @@ name: Inoculation
 
 origin: through-the-dark-portal-290
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: "During your turn, pay 3 to complete this quest. Reward : Choose one: Put an ally from your party into its owner's hand; or draw a card. If your hero is a Draenei, you may choose both."
 
 regulation:

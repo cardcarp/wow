@@ -2,17 +2,20 @@ name: Arktos
 
 origin: march-of-the-legion-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 1 , Flip Arktos → Prevent all damage that would be dealt to Arktos while he is defending in bear form this turn.
 
 regulation:

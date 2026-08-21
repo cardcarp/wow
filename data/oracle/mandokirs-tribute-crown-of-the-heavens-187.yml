@@ -2,9 +2,12 @@ name: Mandokirs Tribute
 
 origin: crown-of-the-heavens-187
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Long-Range This weapon has +3 ATK for each Pet you control.
 
 regulation:

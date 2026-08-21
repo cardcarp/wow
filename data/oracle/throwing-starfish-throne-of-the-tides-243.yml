@@ -2,9 +2,12 @@ name: Throwing Starfish
 
 origin: throne-of-the-tides-243
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may add a starfish counter to this item. 2 , Remove a starfish counter from this item → Your hero deals 1 melee damage to target hero or ally.
 
 regulation:

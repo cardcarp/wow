@@ -2,9 +2,11 @@ name: Legacy of the Last Emperor
 
 origin: echoes-of-thunder-043
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

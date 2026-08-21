@@ -2,9 +2,12 @@ name: Neph'Lahim
 
 origin: throne-of-the-tides-195
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Smash Other Ogre heroes and allies you control have Assault 2 and Smash .
 
 regulation:

@@ -2,9 +2,12 @@ name: Jae'va the Relentless
 
 origin: servants-of-the-betrayer-165
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Exhaust a hero or ally in your party → Ready Jae'va. Use only once per turn.
 
 regulation:

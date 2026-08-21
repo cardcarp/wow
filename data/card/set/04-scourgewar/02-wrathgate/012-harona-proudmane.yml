@@ -1,3 +1,5 @@
+oracle: harona-proudmane-wrathgate-012
+
 index: '012'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"In time, the earth will heal all wounds, but only if we manage to cleanse the land of this vile corruption."'
-
-oracle: harona-proudmane-wrathgate-012
 
 set: Wrathgate

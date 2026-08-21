@@ -2,9 +2,12 @@ name: Phantom Armor
 
 origin: dungeon-treasure-040
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: This armor can only prevent melee ( ) damage.
 
 regulation:

@@ -2,17 +2,20 @@ name: Esonea
 
 origin: wrathgate-004
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 30
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Flip Esonea, discard a Warrior → Weapons you control have +3 ATK this turn.
 
 regulation:

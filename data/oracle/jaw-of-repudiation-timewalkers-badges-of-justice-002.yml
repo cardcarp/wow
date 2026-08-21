@@ -2,9 +2,12 @@ name: Jaw of Repudiation
 
 origin: timewalkers-badges-of-justice-002
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 8 → Your hero deals 8 melee damage to target hero.
 
 regulation:

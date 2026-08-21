@@ -2,9 +2,12 @@ name: Hulstom, Servant of the Light
 
 origin: scourgewar-138
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Shadow Resistance Mend 1
 
 regulation:

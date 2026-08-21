@@ -2,9 +2,12 @@ name: Bottled Death
 
 origin: throne-of-the-tides-230
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this item enters play, target ally has -2 this turn. On your turn: Exhaust a Death Knight hero or ally you control and destroy this item → Target ally has -2 this turn.'
 
 regulation:

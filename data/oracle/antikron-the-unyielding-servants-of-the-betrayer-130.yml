@@ -2,9 +2,12 @@ name: Antikron the Unyielding
 
 origin: servants-of-the-betrayer-130
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Put 2 damage on your hero → Prevent all combat damage that would be dealt to Antikron this combat. Use only if he's defending.
 
 regulation:

@@ -2,9 +2,11 @@ name: Waterspeaker Menshu
 
 origin: into-the-mists-024
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

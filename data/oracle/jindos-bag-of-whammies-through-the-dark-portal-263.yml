@@ -2,9 +2,12 @@ name: Jin'dos Bag of Whammies
 
 origin: through-the-dark-portal-263
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each player's maximum hand size is reduced by four. At the start of each player's turn, that player draws cards until he reaches his maximum hand size.
 
 regulation:

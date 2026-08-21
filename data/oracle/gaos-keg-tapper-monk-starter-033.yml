@@ -2,9 +2,11 @@ name: Gaos Keg Tapper
 
 origin: monk-starter-033
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Doomguard Soldier
 
 origin: betrayal-of-the-guardian-135
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has Assault 3 while you control another Demon.
 
 regulation:

@@ -2,9 +2,12 @@ name: Fangs of the Father
 
 origin: battle-of-the-aspects-treasure-068
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: "When your hero deals combat damage with this weapon to an opposing hero, choose one: That hero's controller discards two random cards; or exhaust up to two target allies, and they can't ready next turn; or search your deck for up to two poisons, reveal them, and put them into your hand."
 
 regulation:

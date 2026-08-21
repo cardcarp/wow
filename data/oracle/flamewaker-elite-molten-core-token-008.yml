@@ -2,9 +2,12 @@ name: Flamewaker Elite
 
 origin: molten-core-token-008
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 3
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector
 
 regulation:

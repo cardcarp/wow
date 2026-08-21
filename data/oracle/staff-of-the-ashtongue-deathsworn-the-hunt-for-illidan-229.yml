@@ -2,9 +2,12 @@ name: Staff of the Ashtongue Deathsworn
 
 origin: the-hunt-for-illidan-229
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Loyal Hero Required Text that refers to the start of a turn refers to the end of that turn instead.
 
 regulation:

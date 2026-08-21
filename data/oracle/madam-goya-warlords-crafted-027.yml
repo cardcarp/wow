@@ -2,9 +2,11 @@ name: Madam Goya
 
 origin: warlords-crafted-027
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

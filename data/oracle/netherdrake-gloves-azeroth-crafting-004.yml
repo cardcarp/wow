@@ -2,9 +2,12 @@ name: Netherdrake Gloves
 
 origin: azeroth-crafting-004
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: ', Destroy Netherdrake Gloves → Put a Netherdrake ally token with 3 ATK / 3 health into play.'
 
 regulation:

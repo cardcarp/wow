@@ -2,9 +2,12 @@ name: Woe or Grow
 
 origin: the-hunt-for-illidan-074
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

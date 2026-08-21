@@ -2,9 +2,12 @@ name: Voice of Reason
 
 origin: naxxramas-treasure-020
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Mend 2 for each 5 damage on it. Your hero has Protector while you control no damaged allies.
 
 regulation:

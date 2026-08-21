@@ -2,9 +2,11 @@ name: Shield Counter
 
 origin: into-the-mists-102
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

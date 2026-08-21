@@ -2,9 +2,12 @@ name: Spire of Scarlet Pain
 
 origin: tomb-of-the-forgotten-194
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 2 , → Your hero deals 1 fire damage to target hero or ally for each ally you control. When an ally you control exhausts, you may ready this weapon.'
 
 regulation:

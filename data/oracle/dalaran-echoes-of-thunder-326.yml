@@ -2,9 +2,11 @@ name: Dalaran
 
 origin: echoes-of-thunder-326
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

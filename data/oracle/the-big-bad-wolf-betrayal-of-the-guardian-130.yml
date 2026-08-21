@@ -2,9 +2,12 @@ name: The Big Bad Wolf
 
 origin: betrayal-of-the-guardian-130
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Big Bad enters play, target opposing ally can't attack or exhaust, loses and can't have powers, and becomes 0 / 5 until Big Bad leaves play. Big Bad must attack that ally if able. When Big Bad deals fatal combat damage to that ally, he has +5 / +5 and Invincible .
 
 regulation:

@@ -2,12 +2,15 @@ name: Instant Gratification
 
 origin: arena-grand-melee-event-046
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : All ability, ally, and equipment cards are instant.'
 
 regulation:

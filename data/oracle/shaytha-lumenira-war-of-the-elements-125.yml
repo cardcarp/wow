@@ -2,9 +2,12 @@ name: Shaytha Lumenira
 
 origin: war-of-the-elements-125
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has Arcane Resistance while you control an ability.
 
 regulation:

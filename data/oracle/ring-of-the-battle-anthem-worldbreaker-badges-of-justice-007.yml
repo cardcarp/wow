@@ -2,9 +2,12 @@ name: Ring of the Battle Anthem
 
 origin: worldbreaker-badges-of-justice-007
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: '2 → Allies you control have Assault 1 this turn. Stash : Target ally has Assault 1 this turn.'
 
 regulation:

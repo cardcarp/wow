@@ -2,12 +2,15 @@ name: Aura of Fortitude
 
 origin: arena-grand-melee-event-005
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Each ally has +X health, where X is its printed health. As Aura of Fortitude leaves play, remove all damage from all allies.'
 
 regulation:

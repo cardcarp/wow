@@ -2,9 +2,12 @@ name: Shadow Resistance Aura
 
 origin: scourgewar-064
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

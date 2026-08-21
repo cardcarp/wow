@@ -2,9 +2,12 @@ name: Zeni'vun
 
 origin: war-of-the-elements-153
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , Discard a card → This ally deals 1 arcane damage to each opposing hero and ally.
 
 regulation:

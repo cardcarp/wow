@@ -2,9 +2,12 @@ name: Bizzik Sparkcog
 
 origin: heroes-of-azeroth-178
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: ', Destroy an ally in your party → Draw a card.'
 
 regulation:

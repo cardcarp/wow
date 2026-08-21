@@ -2,9 +2,12 @@ name: Stormfury, Black Blade of the Betrayer
 
 origin: assault-on-icecrown-citadel-treasure-026
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, if this weapon has two or fewer Demonic Counters on it, add a Demonic counter. This weapon has +1 ATK and costs 1 less to strike with for each Demonic counter on it.
 
 regulation:

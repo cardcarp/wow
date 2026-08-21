@@ -2,9 +2,12 @@ name: Icy Touch
 
 origin: death-knight-starter-009
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 1 frost damage to attached hero. Allies in attached hero's party have -1 ATK."
 
 regulation:

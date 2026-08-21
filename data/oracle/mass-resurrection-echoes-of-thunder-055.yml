@@ -2,9 +2,11 @@ name: Mass Resurrection
 
 origin: echoes-of-thunder-055
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

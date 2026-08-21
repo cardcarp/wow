@@ -2,9 +2,12 @@ name: Shield Block
 
 origin: scourgewar-112
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

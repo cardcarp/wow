@@ -2,14 +2,17 @@ name: Sow Destruction
 
 origin: magtheridons-lair-raid-023
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Sow Destruction enters play with a curse counter for each Blood in play. Ongoing : At the start of your turn, put a curse counter on Sow Destruction, and then Magtheridon deals fire damage equal to the number of curse counters to the opposing hero with the least damage. You settle ties.'
 
 regulation:

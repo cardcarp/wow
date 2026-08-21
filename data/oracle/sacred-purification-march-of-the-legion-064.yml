@@ -2,9 +2,12 @@ name: Sacred Purification
 
 origin: march-of-the-legion-064
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy target ability. If it was attached to a friendly hero or ally, draw a card.
 
 regulation:

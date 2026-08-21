@@ -2,9 +2,12 @@ name: Gnomeregan Auto-Blocker 600
 
 origin: azeroth-badges-of-justice-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, put a Blocker ally token into play with 0 ATK / 1 health and Protector .
 
 regulation:

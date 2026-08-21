@@ -2,9 +2,12 @@ name: Envenom
 
 origin: fires-of-outland-066
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

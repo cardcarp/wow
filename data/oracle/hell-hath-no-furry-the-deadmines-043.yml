@@ -2,9 +2,11 @@ name: Hell Hath No Furry
 
 origin: the-deadmines-043
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

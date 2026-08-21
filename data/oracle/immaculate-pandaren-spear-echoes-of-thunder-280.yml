@@ -2,9 +2,11 @@ name: Immaculate Pandaren Spear
 
 origin: echoes-of-thunder-280
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

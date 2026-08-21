@@ -2,9 +2,12 @@ name: Nazguk Sharptongue
 
 origin: fields-of-honor-138
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, choose a hero or ally in your party. Other characters can't attack this turn. 2 , Destroy another ally in your party → Nazguk has Ferocity this turn.
 
 regulation:

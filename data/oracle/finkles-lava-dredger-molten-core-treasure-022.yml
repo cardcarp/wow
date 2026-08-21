@@ -2,9 +2,12 @@ name: Finkles Lava Dredger
 
 origin: molten-core-treasure-022
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, if an opponent has more resources than you, you may put the top card of your deck into your resource row face down and exhausted.
 
 regulation:

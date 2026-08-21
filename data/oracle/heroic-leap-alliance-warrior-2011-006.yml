@@ -2,9 +2,12 @@ name: Heroic Leap
 
 origin: alliance-warrior-2011-006
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

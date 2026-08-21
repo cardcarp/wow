@@ -2,9 +2,12 @@ name: Azjol-anak Webspinner
 
 origin: scourgewar-205
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Nerubian Reputation This ally has +1 / +1 while an ability is in your graveyard.
 
 regulation:

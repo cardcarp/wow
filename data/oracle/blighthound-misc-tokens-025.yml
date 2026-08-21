@@ -2,9 +2,11 @@ name: Blighthound
 
 origin: misc-tokens-025
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

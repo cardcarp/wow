@@ -2,9 +2,11 @@ name: Priscilla Voidstare
 
 origin: into-the-mists-143
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

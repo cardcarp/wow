@@ -1,3 +1,5 @@
+oracle: gehennas-molten-core-raid-003
+
 index: '003'
 
 rarity: Rare
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor:
-
-oracle: gehennas-molten-core-raid-003
 
 set: Molten Core Raid

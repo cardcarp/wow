@@ -2,9 +2,12 @@ name: Divine Favor
 
 origin: blood-of-gladiators-041
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Holy Hero Required Ongoing : , Remove the top X cards of your deck from the game → Your hero heals X damage from target hero or ally.'
 
 regulation:

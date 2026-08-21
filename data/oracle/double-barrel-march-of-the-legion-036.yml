@@ -2,9 +2,12 @@ name: Double Barrel
 
 origin: march-of-the-legion-036
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

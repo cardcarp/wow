@@ -2,9 +2,11 @@ name: A Helping Hand
 
 origin: echoes-of-thunder-303
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Binding Heal
 
 origin: fires-of-outland-055
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

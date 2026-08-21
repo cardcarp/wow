@@ -2,9 +2,12 @@ name: Cairne, Earthmothers Chosen
 
 origin: worldbreaker-167
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Tauren heroes and allies you control have War Stomp . Stash : Put a 1 / 1 Tauren Warrior ally token into play.'
 
 regulation:

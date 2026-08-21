@@ -2,9 +2,12 @@ name: Spawn of Shadikith
 
 origin: betrayal-of-the-guardian-160
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 4 → Exhaust all opposing heroes and allies.
 
 regulation:

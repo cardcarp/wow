@@ -2,9 +2,12 @@ name: Azuresong Mageblade
 
 origin: molten-core-treasure-015
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you draw a card, put a verse counter on Azuresong Mageblade. 1 , Remove three verse counters → Draw a card.
 
 regulation:

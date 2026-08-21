@@ -2,9 +2,11 @@ name: Blackrock Brute
 
 origin: warlords-of-the-iron-horde-114
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

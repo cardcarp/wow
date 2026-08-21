@@ -2,9 +2,12 @@ name: Dread Touch
 
 origin: war-of-the-elements-087
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put target opposing ally into its owner's hand. Then, that player discards a card.
 
 regulation:

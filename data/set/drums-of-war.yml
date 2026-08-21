@@ -1,6 +1,6 @@
 name: Drums of War
 
-type: set
+type: Standard
 
 index: '01'
 
@@ -8,6 +8,6 @@ subtotal: 268
 
 total: 268
 
-date_release: 2008-10
+date: 2008-10
 
 collection: Drums of War

@@ -2,9 +2,12 @@ name: Val'anyr, Hammer of Ancient Kings
 
 origin: icecrown-201
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, your hero heals all damage from allies you control. Then, it heals that much damage from itself.
 
 regulation:

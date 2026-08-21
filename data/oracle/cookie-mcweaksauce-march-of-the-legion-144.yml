@@ -2,9 +2,12 @@ name: '"Cookie" McWeaksauce'
 
 origin: march-of-the-legion-144
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Cookie enters play, each opponent puts a Chicken ally token with 0 ATK / 1 health into play. → Destroy all ally tokens.
 
 regulation:

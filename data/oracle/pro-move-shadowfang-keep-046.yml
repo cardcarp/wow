@@ -2,12 +2,15 @@ name: Pro Move
 
 origin: shadowfang-keep-046
 
-layout: standard
+layout: Standard
 
-category: Achievement
+category:
+  - Achievement
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: A Raiding hero has 1 remaining during a Dungeon turn but isn't destroyed.
 
 regulation:

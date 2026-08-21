@@ -2,9 +2,12 @@ name: Bloodsurge, Kel'Thuzads Blade of Agony
 
 origin: assault-on-icecrown-citadel-treasure-018
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Once per turn: Put 2 damage on your hero → If your hero would deal magical ( Arcane ( ), Fire ( ), Frost ( ), Holy ( ), Nature ( ), or Shadow ( ) ) damage this turn, it deals that much +2 instead.'
 
 regulation:

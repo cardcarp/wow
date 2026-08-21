@@ -2,9 +2,12 @@ name: Claemora Amberglare
 
 origin: scourgewar-166
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, target hero or ally has Assault 2 this turn.
 
 regulation:

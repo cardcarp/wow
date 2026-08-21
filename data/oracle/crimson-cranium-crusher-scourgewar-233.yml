@@ -2,9 +2,12 @@ name: Crimson Cranium Crusher
 
 origin: scourgewar-233
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opposing resource turns face down, you may draw a card.
 
 regulation:

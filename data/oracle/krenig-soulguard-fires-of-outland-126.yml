@@ -2,9 +2,12 @@ name: Krenig Soulguard
 
 origin: fires-of-outland-126
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: "3 , Destroy Krenig Soulguard → Choose one: Destroy target ability; or put target ability into its owner's hand."
 
 regulation:

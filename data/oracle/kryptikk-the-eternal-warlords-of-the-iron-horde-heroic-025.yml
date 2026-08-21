@@ -2,9 +2,11 @@ name: Kryptikk The Eternal
 
 origin: warlords-of-the-iron-horde-heroic-025
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

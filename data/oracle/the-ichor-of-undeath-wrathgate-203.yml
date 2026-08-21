@@ -2,9 +2,12 @@ name: The Ichor of Undeath
 
 origin: wrathgate-203
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 class:
   - Priest
@@ -12,7 +15,7 @@ class:
 type: Class Restriction
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 2 to complete this quest. Reward : Put target ally from your graveyard into your hand.'
 
 regulation:

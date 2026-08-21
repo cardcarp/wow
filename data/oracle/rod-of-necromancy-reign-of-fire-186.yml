@@ -2,9 +2,12 @@ name: Rod of Necromancy
 
 origin: reign-of-fire-186
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this weapon enters play, remove all allies in your graveyard from the game. At the start of your turn, choose an ally removed this way at random and put it into your hand.
 
 regulation:

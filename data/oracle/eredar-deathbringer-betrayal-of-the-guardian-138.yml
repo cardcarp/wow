@@ -2,9 +2,12 @@ name: Eredar Deathbringer
 
 origin: betrayal-of-the-guardian-138
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When another ally you control is destroyed, this ally heals 4 damage from your hero.
 
 regulation:

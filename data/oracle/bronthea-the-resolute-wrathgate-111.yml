@@ -2,9 +2,12 @@ name: Bronthea the Resolute
 
 origin: wrathgate-111
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -20,7 +23,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: You can strike with weapons while this ally is in combat. armor can prevent damage that would be dealt to this ally.
 
 regulation:

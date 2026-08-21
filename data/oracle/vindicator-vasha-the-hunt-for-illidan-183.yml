@@ -2,9 +2,12 @@ name: Vindicator Vasha
 
 origin: the-hunt-for-illidan-183
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation Cards in play with reputation other than Aldor lose and can't have powers.
 
 regulation:

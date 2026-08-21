@@ -2,9 +2,12 @@ name: Shaafun
 
 origin: crown-of-the-heavens-050
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he deals 1 shadow damage to target opposing ally for each Demon and/or Monster hero and ally you control.
 
 regulation:

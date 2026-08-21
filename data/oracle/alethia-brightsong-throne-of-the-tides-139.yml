@@ -2,9 +2,12 @@ name: Alethia Brightsong
 
 origin: throne-of-the-tides-139
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, Delve .
 
 regulation:

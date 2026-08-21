@@ -2,9 +2,11 @@ name: Gates Of Retribution
 
 origin: siege-of-orgrimmar-055
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

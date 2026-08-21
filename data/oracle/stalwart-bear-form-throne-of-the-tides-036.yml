@@ -2,9 +2,12 @@ name: Stalwart Bear Form
 
 origin: throne-of-the-tides-036
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

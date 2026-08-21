@@ -2,9 +2,12 @@ name: Xia, Queen of Suffering
 
 origin: the-hunt-for-illidan-024
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 20
 
@@ -12,11 +15,11 @@ class:
   - Warlock
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Flip Xia → Gain control of target ally. Use only on your turn.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: 'Deckbuilding: You can include only neutral quests, any abilities, and any allies with ally type Warlock. You can’t include cards with reputation or text restrictions (like Fire Hero Required ) .'
 
 regulation:

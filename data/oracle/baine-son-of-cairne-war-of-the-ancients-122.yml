@@ -2,9 +2,12 @@ name: Baine, Son of Cairne
 
 origin: war-of-the-ancients-122
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector War Stomp When an opposing hero or ally is exhausted by War Stomp , Baine deals 4 melee damage to it.
 
 regulation:

@@ -2,9 +2,12 @@ name: Dungard Ironcutter
 
 origin: war-of-the-ancients-206
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -15,7 +18,7 @@ health: 7
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector 1 → This ally has +2 ATK this turn. 1 → Prevent the next 2 damage that would be dealt to this ally this turn. At the end of your turn, ready this ally.
 
 regulation:

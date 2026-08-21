@@ -2,9 +2,12 @@ name: Flamewaker
 
 origin: molten-core-token-002
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 3
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Destroy Flamewaker → Destroy target equipment.
 
 regulation:

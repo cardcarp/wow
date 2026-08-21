@@ -2,14 +2,17 @@ name: Calamity
 
 origin: shadowfang-keep-018
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'The Raiders choose three Raiding heroes and/or allies. Godfrey deals 10 shadow damage to each of them. Level 3+ : The Raiders choose six Raiding heroes and/or allies instead.'
 
 regulation:

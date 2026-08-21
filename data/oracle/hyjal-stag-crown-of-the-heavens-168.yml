@@ -2,9 +2,12 @@ name: Hyjal Stag
 
 origin: crown-of-the-heavens-168
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy this ally, exhaust a ready Monster hero or ally you control → This ally heals 4 damage from that character.
 
 regulation:

@@ -2,9 +2,12 @@ name: Burning Rage
 
 origin: war-of-the-elements-095
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : While you control no ready resources, allies you control have +2 ATK.'
 
 regulation:

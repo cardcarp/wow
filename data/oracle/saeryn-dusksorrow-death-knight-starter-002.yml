@@ -2,17 +2,20 @@ name: Saeryn Dusksorrow
 
 origin: death-knight-starter-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Saeryn → Put target weapon card from your graveyard into hand.
 
 regulation:

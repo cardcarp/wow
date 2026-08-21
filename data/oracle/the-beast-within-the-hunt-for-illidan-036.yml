@@ -2,9 +2,12 @@ name: The Beast Within
 
 origin: the-hunt-for-illidan-036
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

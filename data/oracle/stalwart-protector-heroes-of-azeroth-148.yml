@@ -2,9 +2,12 @@ name: Stalwart Protector
 
 origin: heroes-of-azeroth-148
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

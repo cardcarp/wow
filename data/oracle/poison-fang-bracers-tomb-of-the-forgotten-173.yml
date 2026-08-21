@@ -2,9 +2,12 @@ name: Poison Fang Bracers
 
 origin: tomb-of-the-forgotten-173
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor enters play, put two 1 / 1 Treant ally tokens into play. {2}, → Your hero deals 1 nature damage to target opposing hero for each token ally you control.
 
 regulation:

@@ -2,9 +2,12 @@ name: Recall from the Brink
 
 origin: blood-of-gladiators-089
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put target ally or weapon card from your graveyard into play if its cost is less than or equal to the number of resources you control.
 
 regulation:

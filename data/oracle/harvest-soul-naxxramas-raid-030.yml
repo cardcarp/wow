@@ -2,14 +2,17 @@ name: Harvest Soul
 
 origin: naxxramas-raid-030
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target raiding ally. Ongoing : You control attached ally. Put 1 damage on attached ally → The Boss heals 1 damage from itself.'
 
 regulation:

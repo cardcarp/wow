@@ -2,9 +2,12 @@ name: Scheming Dreadlord
 
 origin: war-of-the-ancients-195
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive This ally has Assault 3 while an opposing hero has 15 or more damage on it.
 
 regulation:

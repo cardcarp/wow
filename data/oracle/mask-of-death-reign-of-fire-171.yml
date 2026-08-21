@@ -2,9 +2,12 @@ name: Mask of Death
 
 origin: reign-of-fire-171
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , , Destroy this armor → Target ally and all other opposing allies with the same name as that ally have - equal to this armor's this turn.
 
 regulation:

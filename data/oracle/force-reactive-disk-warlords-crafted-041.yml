@@ -2,9 +2,11 @@ name: Force Reactive Disk
 
 origin: warlords-crafted-041
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

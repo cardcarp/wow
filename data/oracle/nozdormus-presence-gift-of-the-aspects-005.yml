@@ -2,14 +2,17 @@ name: Nozdormus Presence
 
 origin: gift-of-the-aspects-005
 
-layout: standard
+layout: Standard
 
-category: Misc
+category:
+  - Misc
+
+theme:
 
 type: Gift
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If Deathwing had 10 or less damage on him when the last Raiding hero was destroyed, gain this Gift. Use this Gift: The Raiders choose a Raiding hero. It deals 4 melee damage to Deathwing.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Priestess Katianna
 
 origin: drums-of-war-starter-004
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive
 
 regulation:

@@ -2,14 +2,17 @@ name: "The Ring of Blood: Skra'gath"
 
 origin: blood-of-gladiators-198
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'As a cost to place this quest face up, choose an opponent, and he may draw a card. Pay 5 to complete this quest. Reward : Draw three cards.'
 
 regulation:

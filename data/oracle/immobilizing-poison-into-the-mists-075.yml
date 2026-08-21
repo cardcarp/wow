@@ -2,9 +2,11 @@ name: Immobilizing Poison
 
 origin: into-the-mists-075
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

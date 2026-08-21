@@ -1,3 +1,5 @@
+oracle: dalronn-the-controller-icecrown-005
+
 index: '005'
 
 rarity:
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor:
-
-oracle: dalronn-the-controller-icecrown-005
 
 set: Icecrown

@@ -2,9 +2,12 @@ name: Hansi Wildcoat
 
 origin: icecrown-132
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Heroes and allies you control with Mend also have Assault 1 .
 
 regulation:

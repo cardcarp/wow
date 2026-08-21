@@ -2,9 +2,11 @@ name: Frostwolf Ranger
 
 origin: warlords-of-the-iron-horde-146
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

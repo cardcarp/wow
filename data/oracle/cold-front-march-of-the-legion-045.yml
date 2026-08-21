@@ -2,9 +2,12 @@ name: Cold Front
 
 origin: march-of-the-legion-045
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

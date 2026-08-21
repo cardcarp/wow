@@ -2,9 +2,12 @@ name: Boundless Magic
 
 origin: tomb-of-the-forgotten-025
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Eternal Look at cards from the top of your deck equal to the number of resources you control. Put one of those cards into your hand and the rest on the bottom of your deck.
 
 regulation:

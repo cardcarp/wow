@@ -2,9 +2,12 @@ name: The Aim of Eagles
 
 origin: blood-of-gladiators-026
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

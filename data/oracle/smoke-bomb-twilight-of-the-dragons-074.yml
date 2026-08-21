@@ -2,9 +2,12 @@ name: Smoke Bomb
 
 origin: twilight-of-the-dragons-074
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Opposing heroes and allies attack at random. Opponents pay 2 more to play abilities that target a hero or ally you control.'
 
 regulation:

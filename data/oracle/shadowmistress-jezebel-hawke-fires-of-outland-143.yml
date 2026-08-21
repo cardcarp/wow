@@ -2,9 +2,12 @@ name: Shadowmistress Jezebel Hawke
 
 origin: fires-of-outland-143
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Friendly Pets have +2 .
 
 regulation:

@@ -2,9 +2,12 @@ name: Mikael the Blunt
 
 origin: blood-of-gladiators-112
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opposing hero or ally readies, Mikael deals 2 ranged damage to it.
 
 regulation:

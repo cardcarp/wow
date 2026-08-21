@@ -2,9 +2,11 @@ name: Holy Prism
 
 origin: into-the-mists-061
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Brodien
 
 origin: the-hunt-for-illidan-120
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: As Brodien enters play, choose whether he is Elusive or Untargetable .
 
 regulation:

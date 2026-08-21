@@ -2,9 +2,12 @@ name: Demonic Pact
 
 origin: caverns-of-time-treasure-032
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: X
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'This ability enters play with X pact counters on it. Ongoing : At the start of your turn, put 1 damage on your hero, draw a card, and remove a pact counter from this ability. Then, if none remain, destroy this ability.'
 
 regulation:

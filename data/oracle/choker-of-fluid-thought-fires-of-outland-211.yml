@@ -2,9 +2,12 @@ name: Choker of Fluid Thought
 
 origin: fires-of-outland-211
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Reveal the top card of target player's deck. You may remove that card from the game.
 
 regulation:

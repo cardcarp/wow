@@ -2,9 +2,12 @@ name: Battlecast Pants
 
 origin: blood-of-gladiators-crafting-001
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Cards in your hand are instant this turn until you play a card.
 
 regulation:

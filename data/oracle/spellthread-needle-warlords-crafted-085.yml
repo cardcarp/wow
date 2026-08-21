@@ -2,9 +2,11 @@ name: Spellthread Needle
 
 origin: warlords-crafted-085
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

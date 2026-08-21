@@ -2,9 +2,11 @@ name: Mojo Stormbrewer
 
 origin: echoes-of-thunder-004
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

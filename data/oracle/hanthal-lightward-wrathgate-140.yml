@@ -2,9 +2,12 @@ name: Hanthal Lightward
 
 origin: wrathgate-140
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Prevent all combat damage that would be dealt to this ally by attackers with Assault .
 
 regulation:

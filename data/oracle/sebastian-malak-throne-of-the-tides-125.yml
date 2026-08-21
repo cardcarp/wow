@@ -2,9 +2,12 @@ name: Sebastian Malak
 
 origin: throne-of-the-tides-125
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has +2 ATK while in combat with a Monster.
 
 regulation:

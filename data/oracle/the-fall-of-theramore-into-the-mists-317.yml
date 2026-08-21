@@ -2,9 +2,11 @@ name: The Fall of Theramore
 
 origin: into-the-mists-317
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

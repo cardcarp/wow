@@ -2,9 +2,12 @@ name: Hibernate
 
 origin: drums-of-war-023
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

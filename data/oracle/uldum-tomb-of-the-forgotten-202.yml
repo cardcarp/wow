@@ -2,12 +2,15 @@ name: Uldum
 
 origin: tomb-of-the-forgotten-202
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: '2 , → Choose one: Target weapon has +3 ATK this turn; or target armor has +3 this turn.'
 
 regulation:

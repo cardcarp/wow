@@ -2,9 +2,12 @@ name: Death Pact
 
 origin: scourgewar-026
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: As an additional cost to play, destroy an ally you control. Your hero heals damage from itself equal to that ally's and has +X ATK this turn, where X was that ally's ATK.
 
 regulation:

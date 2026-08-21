@@ -2,9 +2,12 @@ name: Glyphtrace Ritual Knife
 
 origin: war-of-the-elements-195
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may pay 4 and destroy this weapon. If you do, destroy all abilities, allies, and equipment.
 
 regulation:

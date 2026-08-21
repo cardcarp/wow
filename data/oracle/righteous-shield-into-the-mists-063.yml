@@ -2,9 +2,11 @@ name: Righteous Shield
 
 origin: into-the-mists-063
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Crusader Clarence
 
 origin: warlords-of-the-iron-horde-heroic-018
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

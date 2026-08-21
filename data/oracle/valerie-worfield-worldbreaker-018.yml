@@ -2,20 +2,23 @@ name: Valerie Worfield
 
 origin: worldbreaker-018
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 → Flip Valerie
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: Prevent the first 1 damage that would be dealt to Valerie each turn.
 
 regulation:

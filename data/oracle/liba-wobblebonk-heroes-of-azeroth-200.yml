@@ -2,9 +2,12 @@ name: Liba Wobblebonk
 
 origin: heroes-of-azeroth-200
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, draw a card.
 
 regulation:

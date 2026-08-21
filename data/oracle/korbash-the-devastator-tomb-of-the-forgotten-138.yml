@@ -2,9 +2,12 @@ name: Korbash the Devastator
 
 origin: tomb-of-the-forgotten-138
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Conspicuous When this ally enters play, exhaust a target opposing hero or ally for each Ogre hero and ally you control. Characters exhausted that way can't ready this turn or next turn.
 
 regulation:

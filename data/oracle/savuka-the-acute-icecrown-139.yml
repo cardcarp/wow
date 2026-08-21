@@ -2,9 +2,12 @@ name: Savuka the Acute
 
 origin: icecrown-139
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -20,7 +23,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: While you control a Ranged weapon, this ally has Assault X and Long-Range , where X is the highest ATK among Ranged weapons you control.
 
 regulation:

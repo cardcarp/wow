@@ -2,9 +2,12 @@ name: Victimize
 
 origin: blood-of-gladiators-090
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target player discards two cards and you draw two cards.
 
 regulation:

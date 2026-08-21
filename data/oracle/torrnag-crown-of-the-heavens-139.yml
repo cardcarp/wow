@@ -2,9 +2,12 @@ name: Torr'nag
 
 origin: crown-of-the-heavens-139
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Frost
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Enrage When you reveal an ally this way, this ally has +2 ATK and Ferocity this turn. Smash
 
 regulation:

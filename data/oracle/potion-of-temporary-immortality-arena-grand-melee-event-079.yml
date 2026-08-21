@@ -2,12 +2,15 @@ name: Potion of Temporary Immortality
 
 origin: arena-grand-melee-event-079
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : Other cards can't leave play."
 
 regulation:

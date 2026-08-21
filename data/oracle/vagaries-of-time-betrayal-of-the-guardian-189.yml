@@ -2,9 +2,12 @@ name: Vagaries of Time
 
 origin: betrayal-of-the-guardian-189
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 , → Reveal the top card of your deck. You may place it into your resource row exhausted as an additional resource.
 
 regulation:

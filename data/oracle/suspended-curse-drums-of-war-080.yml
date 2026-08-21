@@ -2,9 +2,12 @@ name: Suspended Curse
 
 origin: drums-of-war-080
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ability, ally, or equipment. Ongoing : At the start of your turn, remove attached card from the game.'
 
 regulation:

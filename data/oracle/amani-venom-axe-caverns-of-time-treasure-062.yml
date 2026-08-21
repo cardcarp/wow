@@ -2,9 +2,12 @@ name: Amani Venom-Axe
 
 origin: caverns-of-time-treasure-062
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 more to strike with this weapon for each card in your hand.
 
 regulation:

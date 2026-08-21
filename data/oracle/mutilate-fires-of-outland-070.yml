@@ -2,9 +2,12 @@ name: Mutilate
 
 origin: fires-of-outland-070
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

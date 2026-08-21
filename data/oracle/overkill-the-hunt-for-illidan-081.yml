@@ -2,9 +2,12 @@ name: Overkill
 
 origin: the-hunt-for-illidan-081
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: As an additional cost to play, remove up to five Finishing Move cards in your graveyard from the game. Each opponent destroys that many of his equipment and discards that many cards, and your hero deals that much melee damage to each opposing hero and ally.
 
 regulation:

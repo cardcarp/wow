@@ -2,9 +2,12 @@ name: Garrosh Hellscream
 
 origin: scourgewar-175
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Each ally you control has Assault X , where X is its printed ATK.
 
 regulation:

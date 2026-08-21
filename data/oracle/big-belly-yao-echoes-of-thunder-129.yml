@@ -2,9 +2,11 @@ name: '"Big Belly" Yao'
 
 origin: echoes-of-thunder-129
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

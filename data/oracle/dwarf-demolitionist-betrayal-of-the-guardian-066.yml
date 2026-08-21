@@ -2,9 +2,12 @@ name: Dwarf Demolitionist
 
 origin: betrayal-of-the-guardian-066
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally deals combat damage to a defending hero, you may destroy this ally. If you do, it deals 7 fire damage to that hero.
 
 regulation:

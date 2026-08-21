@@ -2,9 +2,12 @@ name: Grounding Totem
 
 origin: drums-of-war-069
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Opposing cards and effects must target Grounding Totem if able. (Totems can be attacked or targeted like allies.)'
 
 regulation:

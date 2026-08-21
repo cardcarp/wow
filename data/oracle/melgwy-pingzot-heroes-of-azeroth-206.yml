@@ -2,9 +2,12 @@ name: Melgwy Pingzot
 
 origin: heroes-of-azeroth-206
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 5 , → Melgwy Pingzot deals 5 fire damage to target hero or ally.
 
 regulation:

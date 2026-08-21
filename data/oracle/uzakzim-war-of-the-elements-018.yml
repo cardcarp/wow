@@ -2,20 +2,23 @@ name: Uzak'zim
 
 origin: war-of-the-elements-018
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Uzak'zim
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: At the start of your turn, Uzak'zim deals 1 shadow damage to each opposing hero and ally that has an attachment you control.
 
 regulation:

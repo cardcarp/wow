@@ -2,9 +2,11 @@ name: Diffusing Mists
 
 origin: into-the-mists-052
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

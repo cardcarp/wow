@@ -2,9 +2,11 @@ name: Stephen the Strange
 
 origin: echoes-of-thunder-122
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

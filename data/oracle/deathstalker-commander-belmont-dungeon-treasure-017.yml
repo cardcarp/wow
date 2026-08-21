@@ -2,9 +2,12 @@ name: Deathstalker Commander Belmont
 
 origin: dungeon-treasure-017
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: → Allies you control with cost 4 or less have +2 ATK this turn.'
 
 regulation:

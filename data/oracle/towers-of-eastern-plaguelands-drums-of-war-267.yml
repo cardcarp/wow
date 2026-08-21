@@ -2,12 +2,15 @@ name: Towers of Eastern Plaguelands
 
 origin: drums-of-war-267
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opposing ally is destroyed, add a capture counter. , Remove four capture counters → Each opposing hero deals 4 nature damage to itself.
 
 regulation:

@@ -2,9 +2,12 @@ name: Disperse Magic
 
 origin: blood-of-gladiators-048
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Destroy Disperse Magic → Destroy target ability.'
 
 regulation:

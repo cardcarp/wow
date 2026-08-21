@@ -2,9 +2,12 @@ name: Faithseer Jasmina
 
 origin: throne-of-the-tides-108
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: If this ally would be dealt non-fatal damage, prevent it. When you play an ability, ally, or equipment, you may put a +1 / +1 counter on this ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Dread Pirate Ring
 
 origin: worldbreaker-230
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: "On your turn: 2 , Put this equipment into its owner's hand → Put a 1 / 1 Dread Pirate ally token named Bob into play. Stash : Add an heirloom counter to target equipment you control."
 
 regulation:

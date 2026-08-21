@@ -2,9 +2,12 @@ name: King Ymiron
 
 origin: icecrown-151
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Raid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scourge Hero Required When this ally enters play, for each Unlimited ally you control, you may search your deck for an ally with the same name as that Unlimited ally and put it into play.
 
 regulation:

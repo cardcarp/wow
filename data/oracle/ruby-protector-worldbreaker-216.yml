@@ -2,9 +2,12 @@ name: Ruby Protector
 
 origin: worldbreaker-216
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Allies you control have Protector .
 
 regulation:

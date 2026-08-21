@@ -2,9 +2,12 @@ name: Wooly White Rhino
 
 origin: icecrown-169
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Frost Resistance You pay 1 less to complete quests. When you place a resource face up, choose one: Your hero can't be protected against this turn; or the next time your hero would deal damage this turn, it's unpreventable. (Mounts can't attack or be attacked.)"
 
 regulation:

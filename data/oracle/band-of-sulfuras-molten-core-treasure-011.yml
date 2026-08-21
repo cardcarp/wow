@@ -2,9 +2,12 @@ name: Band of Sulfuras
 
 origin: molten-core-treasure-011
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: If a friendly hero or ally would deal damage to an Elemental, it deals that much damage +1 instead.
 
 regulation:

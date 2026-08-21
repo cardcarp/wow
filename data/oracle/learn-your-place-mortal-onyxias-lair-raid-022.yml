@@ -2,9 +2,12 @@ name: Learn Your Place, Mortal!
 
 origin: onyxias-lair-raid-022
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

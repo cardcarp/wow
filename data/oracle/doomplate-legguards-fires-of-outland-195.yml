@@ -2,9 +2,12 @@ name: Doomplate Legguards
 
 origin: fires-of-outland-195
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your weapons have +3 ATK while you have five or more equipment.
 
 regulation:

@@ -2,9 +2,11 @@ name: Ruby Raven
 
 origin: warlords-crafted-080
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

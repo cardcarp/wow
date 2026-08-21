@@ -2,9 +2,12 @@ name: Bedrock Talisman
 
 origin: worldbreaker-badges-of-justice-009
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to play this item for each 5 damage on your hero. Allies you control have Protector .
 
 regulation:

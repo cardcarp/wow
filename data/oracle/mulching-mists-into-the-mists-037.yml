@@ -2,9 +2,11 @@ name: Mulching Mists
 
 origin: into-the-mists-037
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

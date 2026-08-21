@@ -2,9 +2,12 @@ name: Reflex Blades
 
 origin: servants-of-the-betrayer-239
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an armor or weapon, ready Reflex Blades and your hero.
 
 regulation:

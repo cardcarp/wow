@@ -2,9 +2,12 @@ name: Noxel Shroudhaggle
 
 origin: fields-of-honor-112
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Escape Artist Your hero is Untargetable .
 
 regulation:

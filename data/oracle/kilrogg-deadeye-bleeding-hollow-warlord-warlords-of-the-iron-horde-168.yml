@@ -2,9 +2,11 @@ name: Kilrogg Deadeye Bleeding Hollow Warlord
 
 origin: warlords-of-the-iron-horde-168
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

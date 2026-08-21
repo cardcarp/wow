@@ -2,9 +2,12 @@ name: Vortex
 
 origin: throne-of-the-tides-052
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '0'
 

@@ -2,9 +2,12 @@ name: Spiritual Imbalance
 
 origin: crown-of-the-heavens-035
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

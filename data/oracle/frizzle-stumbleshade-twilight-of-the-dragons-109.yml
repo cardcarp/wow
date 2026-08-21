@@ -2,9 +2,12 @@ name: Frizzle Stumbleshade
 
 origin: twilight-of-the-dragons-109
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Untargetable
 
 regulation:

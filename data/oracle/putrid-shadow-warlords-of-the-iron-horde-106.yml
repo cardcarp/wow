@@ -2,9 +2,11 @@ name: Putrid Shadow
 
 origin: warlords-of-the-iron-horde-106
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

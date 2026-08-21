@@ -2,9 +2,12 @@ name: Nurgle Tinkfrost
 
 origin: wrathgate-126
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing heroes and allies can't attack unless their controller pays 1 for each attacker.
 
 regulation:

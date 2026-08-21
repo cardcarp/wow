@@ -2,9 +2,11 @@ name: Goblin Rocket Boots
 
 origin: warlords-crafted-042
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

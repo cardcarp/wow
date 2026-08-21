@@ -2,9 +2,12 @@ name: Errzig Cogflicker
 
 origin: drums-of-war-125
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Arcane Resistance
 
 regulation:

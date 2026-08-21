@@ -2,12 +2,15 @@ name: The Name of the Beast
 
 origin: march-of-the-legion-308
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 3 to complete this quest. Reward : Choose "ability," "ally," "equipment," or "quest." Reveal the top four cards of your deck. Put a revealed card of that kind into your hand and the rest on the bottom of your deck.'
 
 regulation:

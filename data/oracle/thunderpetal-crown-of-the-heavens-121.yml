@@ -2,9 +2,12 @@ name: Thunderpetal
 
 origin: crown-of-the-heavens-121
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Mend 1 When 1 or more damage is healed from a hero or ally you control, this ally deals 1 nature damage to target opposing hero.
 
 regulation:

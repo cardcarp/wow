@@ -2,9 +2,12 @@ name: Human Footman
 
 origin: betrayal-of-the-guardian-071
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 

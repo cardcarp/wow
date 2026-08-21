@@ -2,9 +2,12 @@ name: Oathbinder, Charge of the Ranger-General
 
 origin: assault-on-icecrown-citadel-treasure-022
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, your hero deals 1 nature damage to target hero for each ability, ally, and equipment you control.
 
 regulation:

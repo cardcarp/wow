@@ -2,9 +2,12 @@ name: Skymistress Taranna
 
 origin: servants-of-the-betrayer-179
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When another ally enters your party, draw a card.
 
 regulation:

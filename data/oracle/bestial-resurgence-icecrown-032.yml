@@ -2,9 +2,12 @@ name: Bestial Resurgence
 
 origin: icecrown-032
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put up to three target Pets with different names from your graveyard into your hand.
 
 regulation:

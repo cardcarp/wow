@@ -2,9 +2,11 @@ name: Mog Darr Shadow Council Heartless
 
 origin: warlords-of-the-iron-horde-heroic-012
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

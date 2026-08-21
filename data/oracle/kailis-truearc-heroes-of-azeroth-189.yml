@@ -2,9 +2,12 @@ name: Kailis Truearc
 
 origin: heroes-of-azeroth-189
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Kailis Truearc has +2 ATK and +2 health while there are four or more allies in your party.
 
 regulation:

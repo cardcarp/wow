@@ -2,9 +2,12 @@ name: Windtalkers Wristguards
 
 origin: fields-of-honor-164
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Reveal the top two cards of your deck, then put them on the bottom. If they have different card types, your hero deals 2 nature damage to target hero or ally.
 
 regulation:

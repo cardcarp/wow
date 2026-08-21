@@ -2,9 +2,12 @@ name: Earth Shock
 
 origin: fires-of-outland-076
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

@@ -2,9 +2,11 @@ name: Effigy of Xuen
 
 origin: into-the-mists-106
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

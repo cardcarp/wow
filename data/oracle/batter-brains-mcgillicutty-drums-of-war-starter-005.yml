@@ -2,9 +2,12 @@ name: '"Batter Brains" McGillicutty'
 
 origin: drums-of-war-starter-005
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally is destroyed, target player discards a card.
 
 regulation:

@@ -2,9 +2,11 @@ name: Virtuoso Inking Set
 
 origin: warlords-crafted-090
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

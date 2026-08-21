@@ -2,9 +2,12 @@ name: Troggbane, Axe of the Frostborne King
 
 origin: worldbreaker-247
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: x → This equipment has +X ATK this turn.
 
 regulation:

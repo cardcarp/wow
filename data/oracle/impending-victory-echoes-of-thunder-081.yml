@@ -2,9 +2,11 @@ name: Impending Victory
 
 origin: echoes-of-thunder-081
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

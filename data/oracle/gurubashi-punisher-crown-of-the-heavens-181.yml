@@ -2,9 +2,12 @@ name: Gurubashi Punisher
 
 origin: crown-of-the-heavens-181
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 6 less to strike with this weapon while you control an ally with 6 or more ATK.
 
 regulation:

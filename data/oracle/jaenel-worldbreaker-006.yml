@@ -2,20 +2,23 @@ name: Jaenel
 
 origin: worldbreaker-006
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Jaenel
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: Assault 1
 
 regulation:

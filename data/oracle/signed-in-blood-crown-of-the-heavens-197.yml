@@ -2,12 +2,15 @@ name: Signed in Blood
 
 origin: crown-of-the-heavens-197
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 1 to complete this quest. Reward : Turn target resource face down.'
 
 regulation:

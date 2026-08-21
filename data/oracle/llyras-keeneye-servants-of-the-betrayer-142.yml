@@ -2,9 +2,12 @@ name: Llyras Keeneye
 
 origin: servants-of-the-betrayer-142
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive Llyras has +1 ATK / +1 health for each ally in your party with cost 3 or more.
 
 regulation:

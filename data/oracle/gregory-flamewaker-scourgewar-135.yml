@@ -2,9 +2,12 @@ name: Gregory Flamewaker
 
 origin: scourgewar-135
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Assault 3
 
 regulation:

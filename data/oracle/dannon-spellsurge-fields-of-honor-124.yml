@@ -2,9 +2,12 @@ name: Dannon Spellsurge
 
 origin: fields-of-honor-124
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When you play an ability, Dannon has +2 ATK this turn.
 
 regulation:

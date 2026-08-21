@@ -2,9 +2,12 @@ name: Riptide
 
 origin: twilight-of-the-dragons-084
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Restoration Talent Your hero heals 5 damage from target hero or ally. Then, this ability enters play with a tide counter for each damage healed this way. Ongoing : , Remove a tide counter from this ability → Target hero or ally has Assault 1 this turn. If no tide counters remain, destroy this ability.'
 
 regulation:

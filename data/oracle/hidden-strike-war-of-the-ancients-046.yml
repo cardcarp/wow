@@ -2,9 +2,12 @@ name: Hidden Strike
 
 origin: war-of-the-ancients-046
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Reveal an ally from your hand. Your hero deals melee damage equal to that ally's ATK to target exhausted ally.
 
 regulation:

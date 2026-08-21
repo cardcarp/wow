@@ -2,9 +2,12 @@ name: Orono the Great
 
 origin: drums-of-war-starter-003
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 

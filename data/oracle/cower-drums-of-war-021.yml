@@ -2,9 +2,12 @@ name: Cower
 
 origin: drums-of-war-021
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

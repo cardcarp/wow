@@ -2,9 +2,11 @@ name: Fakar Sariq The Collector
 
 origin: warlords-of-the-iron-horde-heroic-019
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

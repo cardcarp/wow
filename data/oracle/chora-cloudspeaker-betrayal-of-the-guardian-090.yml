@@ -2,9 +2,12 @@ name: Chora Cloudspeaker
 
 origin: betrayal-of-the-guardian-090
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Tribe : When this or another Tauren ally enters play under your control, allies you control have +1 ATK this turn.'
 
 regulation:

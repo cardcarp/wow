@@ -2,9 +2,12 @@ name: Bizzazz
 
 origin: march-of-the-legion-138
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, draw a card.
 
 regulation:

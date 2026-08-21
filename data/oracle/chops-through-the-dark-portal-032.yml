@@ -2,9 +2,12 @@ name: Chops
 
 origin: through-the-dark-portal-032
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally attacks, you may exhaust target hero or ally.
 
 regulation:

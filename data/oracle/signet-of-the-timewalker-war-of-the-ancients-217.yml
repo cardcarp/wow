@@ -2,9 +2,12 @@ name: Signet of the Timewalker
 
 origin: war-of-the-ancients-217
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, add a time counter to this item. Then, if it has four or more time counters on it, destroy it. If you do, draw two cards.
 
 regulation:

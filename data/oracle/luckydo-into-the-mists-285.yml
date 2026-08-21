@@ -2,9 +2,11 @@ name: Luckydo
 
 origin: into-the-mists-285
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

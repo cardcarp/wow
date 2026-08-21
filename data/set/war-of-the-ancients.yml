@@ -1,6 +1,6 @@
 name: War of the Ancients
 
-type: set
+type: Standard
 
 index: '01'
 
@@ -8,6 +8,6 @@ subtotal: 240
 
 total: 240
 
-date_release: 2012-10
+date: 2012-10
 
 collection: Timewalker

@@ -2,9 +2,12 @@ name: Jonas Targan
 
 origin: fields-of-honor-104
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: → This ally deals 1 melee damage to target damaged hero or ally.
 
 regulation:

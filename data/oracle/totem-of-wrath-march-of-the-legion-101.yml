@@ -2,9 +2,12 @@ name: Totem of Wrath
 
 origin: march-of-the-legion-101
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

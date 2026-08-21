@@ -2,9 +2,12 @@ name: Breathstone-Infused Longbow
 
 origin: throne-of-the-tides-244
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Long-Range You pay 2 less to play allies with cost 6 or more.
 
 regulation:

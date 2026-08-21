@@ -2,9 +2,12 @@ name: Darkness
 
 origin: servants-of-the-betrayer-078
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Shadow Hero Required Target player discards his hand.
 
 regulation:

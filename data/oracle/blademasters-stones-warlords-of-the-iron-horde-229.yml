@@ -2,9 +2,11 @@ name: Blademasters Stones
 
 origin: warlords-of-the-iron-horde-229
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

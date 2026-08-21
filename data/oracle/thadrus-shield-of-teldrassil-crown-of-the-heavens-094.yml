@@ -2,9 +2,12 @@ name: Thadrus, Shield of Teldrassil
 
 origin: crown-of-the-heavens-094
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector This ally can't attack. When this ally deals damage to an ally, destroy that ally.
 
 regulation:

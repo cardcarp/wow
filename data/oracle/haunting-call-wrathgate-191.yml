@@ -2,9 +2,12 @@ name: Haunting Call
 
 origin: wrathgate-191
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , Exhaust your hero → Remove three target cards in one opposing graveyard from the game. Add a spirit counter for each ally removed this way. At the start of your turn, your hero deals 1 shadow damage to each opposing hero for each spirit counter.
 
 regulation:

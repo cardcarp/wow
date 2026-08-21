@@ -2,9 +2,12 @@ name: Anduin Lothar
 
 origin: timewalkers-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule: []
 

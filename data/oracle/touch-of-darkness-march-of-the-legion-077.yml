@@ -2,9 +2,12 @@ name: Touch of Darkness
 
 origin: march-of-the-legion-077
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 1 shadow damage to target hero or ally. If a hero is dealt damage this way, its controller discards a card.
 
 regulation:

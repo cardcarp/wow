@@ -2,9 +2,11 @@ name: Blazebound Chanter
 
 origin: echoes-of-thunder-171
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

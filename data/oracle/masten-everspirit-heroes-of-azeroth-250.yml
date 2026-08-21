@@ -2,9 +2,12 @@ name: Masten Everspirit
 
 origin: heroes-of-azeroth-250
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Masten Everspirit is destroyed, you may put him from your graveyard into your hand.
 
 regulation:

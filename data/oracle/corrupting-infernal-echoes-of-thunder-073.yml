@@ -2,9 +2,11 @@ name: Corrupting Infernal
 
 origin: echoes-of-thunder-073
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

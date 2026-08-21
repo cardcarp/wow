@@ -2,9 +2,12 @@ name: Anders Blankheart
 
 origin: march-of-the-legion-134
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive If damage would be dealt with an ability you control to a hero or ally it’s attached to, that much +1 is dealt instead.
 
 regulation:

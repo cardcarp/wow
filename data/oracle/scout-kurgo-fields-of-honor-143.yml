@@ -2,9 +2,12 @@ name: Scout Kurgo
 
 origin: fields-of-honor-143
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play Kurgo, you may search your deck and hand for any number of cards named Scout Kurgo and put them into play.
 
 regulation:

@@ -2,9 +2,12 @@ name: Darnassus Sentinels
 
 origin: through-the-dark-portal-161
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Darnassus Sentinels enters play, you may pay 1 . If you do, put a card named Darnassus Sentinels from your graveyard into your hand.
 
 regulation:

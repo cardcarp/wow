@@ -2,9 +2,12 @@ name: Kindred Spirits
 
 origin: march-of-the-legion-072
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : Your hero can't be destroyed while another friendly hero or ally is in play."
 
 regulation:

@@ -2,9 +2,11 @@ name: 'Spawn of Durumu '
 
 origin: echoes-of-thunder-215
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

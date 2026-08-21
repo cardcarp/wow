@@ -2,9 +2,12 @@ name: Soul Weaver
 
 origin: naxxramas-token-014
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 2
 
@@ -15,7 +18,7 @@ combat: Shadow
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: Melee Resistance When this ally enters play, put target non-hero raiding card into its owner's hand.
 
 regulation:

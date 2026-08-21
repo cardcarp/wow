@@ -2,9 +2,12 @@ name: Furan Rookbane
 
 origin: worldbreaker-137
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, reveal the top card of your deck. You may place it into your resource row exhausted as an additional resource.
 
 regulation:

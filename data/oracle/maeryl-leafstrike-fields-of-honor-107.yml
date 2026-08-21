@@ -2,9 +2,12 @@ name: Maeryl Leafstrike
 
 origin: fields-of-honor-107
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Maeryl has -2 ATK while exhausted.
 
 regulation:

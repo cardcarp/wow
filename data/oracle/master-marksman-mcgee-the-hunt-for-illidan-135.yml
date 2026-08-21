@@ -2,9 +2,12 @@ name: Master Marksman McGee
 
 origin: the-hunt-for-illidan-135
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: allies in your party have Long-Range .
 
 regulation:

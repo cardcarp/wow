@@ -2,9 +2,11 @@ name: Huojin Envoy
 
 origin: echoes-of-thunder-145
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

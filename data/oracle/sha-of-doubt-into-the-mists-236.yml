@@ -2,9 +2,11 @@ name: Sha of Doubt
 
 origin: into-the-mists-236
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

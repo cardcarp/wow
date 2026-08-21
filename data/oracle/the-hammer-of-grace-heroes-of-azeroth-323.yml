@@ -2,9 +2,12 @@ name: The Hammer of Grace
 
 origin: heroes-of-azeroth-323
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , , Exhaust your hero → Your hero heals 2 damage from target hero or ally.
 
 regulation:

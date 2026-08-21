@@ -2,17 +2,20 @@ name: Blaine Roberts
 
 origin: the-hunt-for-illidan-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 30
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Blaine → Destroy target armor or item.
 
 regulation:

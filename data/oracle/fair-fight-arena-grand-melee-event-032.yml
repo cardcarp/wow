@@ -2,12 +2,15 @@ name: Fair Fight
 
 origin: arena-grand-melee-event-032
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Name a face-up ability, ally, equipment, location, or quest in play. That card is banned. Each player reveals his deck and hand, then removes all cards with that name in all zones from the game.
 
 regulation:

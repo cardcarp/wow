@@ -1,6 +1,6 @@
 name: Onyxia's Lair Token
 
-type: raid
+type: Raid
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 1
 
 total: 1
 
-date_release: 2006-12
+date: 2006-12
 
 collection: Onyxia's Lair

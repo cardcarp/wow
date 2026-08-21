@@ -2,9 +2,12 @@ name: Blade Strike
 
 origin: reign-of-fire-057
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

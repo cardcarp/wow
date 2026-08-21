@@ -2,9 +2,12 @@ name: Eadric the Pure
 
 origin: icecrown-003
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
@@ -12,11 +15,11 @@ class:
   - Paladin
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Argent Crusade Reputation Flip Eadric, remove a Paladin in your graveyard from the game → Target friendly ally has Untargetable this turn.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: "Deckbuilding : You can only include either or cards, cards, Protection talents, neutral cards, and Argent Crusade cards. You can't include cards with other reputations or other text restrictions."
 
 regulation:

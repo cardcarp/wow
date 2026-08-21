@@ -2,9 +2,12 @@ name: Plunder
 
 origin: scourgewar-084
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target location or quest. Ongoing : You control attached resource.'
 
 regulation:

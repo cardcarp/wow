@@ -2,9 +2,12 @@ name: Velnoth
 
 origin: the-hunt-for-illidan-103
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -18,7 +21,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Velnoth can protect your hero. 2 → Velnoth heals all damage from himself.
 
 regulation:

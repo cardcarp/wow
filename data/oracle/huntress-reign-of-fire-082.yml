@@ -2,9 +2,12 @@ name: Huntress
 
 origin: reign-of-fire-082
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally deals combat damage to a defender, she may deal 1 ranged damage to a second target hero or ally.
 
 regulation:

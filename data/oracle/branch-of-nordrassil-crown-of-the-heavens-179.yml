@@ -2,9 +2,12 @@ name: Branch of Nordrassil
 
 origin: crown-of-the-heavens-179
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you draw a card, you may put a 1 / 1 Treant ally token into play.
 
 regulation:

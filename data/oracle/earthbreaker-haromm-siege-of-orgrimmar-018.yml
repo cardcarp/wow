@@ -2,9 +2,11 @@ name: Earthbreaker Haromm
 
 origin: siege-of-orgrimmar-018
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

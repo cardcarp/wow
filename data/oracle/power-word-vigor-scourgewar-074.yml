@@ -2,9 +2,12 @@ name: 'Power Word: Vigor'
 
 origin: scourgewar-074
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

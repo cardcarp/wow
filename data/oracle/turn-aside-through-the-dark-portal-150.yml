@@ -2,9 +2,12 @@ name: Turn Aside
 
 origin: through-the-dark-portal-150
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

@@ -2,9 +2,11 @@ name: Pursuit of Justice
 
 origin: echoes-of-thunder-050
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Touch of the Arcane
 
 origin: march-of-the-legion-053
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

@@ -2,17 +2,20 @@ name: Anchorite Kalinna
 
 origin: through-the-dark-portal-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 26
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: x , Flip Anchorite Kalinna → Destroy target ability with cost X.
 
 regulation:

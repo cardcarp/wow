@@ -2,9 +2,12 @@ name: Band of the Inevitable
 
 origin: the-hunt-for-illidan-218
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: x , Destroy Band of the Inevitable → Destroy each equipment with cost X or less. Use only on your turn.
 
 regulation:

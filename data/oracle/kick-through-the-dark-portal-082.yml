@@ -2,9 +2,12 @@ name: Kick
 
 origin: through-the-dark-portal-082
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

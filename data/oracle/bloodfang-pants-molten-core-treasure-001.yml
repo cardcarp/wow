@@ -2,9 +2,12 @@ name: Bloodfang Pants
 
 origin: molten-core-treasure-001
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play a ability, you may pay 1 . If you do, your hero deals 1 melee damage to target exhausted hero or ally.
 
 regulation:

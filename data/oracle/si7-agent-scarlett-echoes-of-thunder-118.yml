@@ -2,9 +2,11 @@ name: Si7 Agent Scarlett
 
 origin: echoes-of-thunder-118
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

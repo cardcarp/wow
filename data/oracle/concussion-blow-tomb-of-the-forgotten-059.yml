@@ -2,9 +2,12 @@ name: Concussion Blow
 
 origin: tomb-of-the-forgotten-059
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

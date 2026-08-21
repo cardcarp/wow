@@ -2,9 +2,12 @@ name: Butchers Cleaver
 
 origin: dungeon-treasure-046
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: This weapon has +2 ATK while your hero is attacking a hero with 15 or more damage.
 
 regulation:

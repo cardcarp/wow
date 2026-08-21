@@ -2,9 +2,12 @@ name: Arcane Explosion
 
 origin: march-of-the-legion-044
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 

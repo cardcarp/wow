@@ -2,9 +2,12 @@ name: Spiritual Domination
 
 origin: servants-of-the-betrayer-086
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required Put target ally card from an opponent's graveyard into play under your control.
 
 regulation:

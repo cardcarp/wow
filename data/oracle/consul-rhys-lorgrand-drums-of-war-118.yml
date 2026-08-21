@@ -2,9 +2,12 @@ name: Consul Rhys Lorgrand
 
 origin: drums-of-war-118
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Human Hero Required Diplomacy: allies Rhys has +1 ATK / +1 health for each different race among allies in your party other than Human. (Draenei, Dwarf, Gnome, and Night Elf.)'
 
 regulation:

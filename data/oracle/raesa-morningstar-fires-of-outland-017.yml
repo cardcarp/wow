@@ -2,17 +2,20 @@ name: Raesa Morningstar
 
 origin: fires-of-outland-017
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 26
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Raesa Morningstar → Put target ability into its owner's hand. Use only on your turn.
 
 regulation:

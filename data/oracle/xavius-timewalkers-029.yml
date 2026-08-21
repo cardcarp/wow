@@ -2,9 +2,12 @@ name: Xavius
 
 origin: timewalkers-029
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule: []
 

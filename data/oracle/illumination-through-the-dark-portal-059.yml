@@ -2,9 +2,12 @@ name: Illumination
 
 origin: through-the-dark-portal-059
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Holy Hero Required Ongoing : When your hero heals damage with an ability from a friendly hero or ally, you may ready up to X of your resources, where X is that ability's cost."
 
 regulation:

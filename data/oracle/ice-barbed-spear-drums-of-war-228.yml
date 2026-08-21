@@ -2,9 +2,12 @@ name: Ice Barbed Spear
 
 origin: drums-of-war-228
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each opponent can't draw cards unless he pays 1 for each card.
 
 regulation:

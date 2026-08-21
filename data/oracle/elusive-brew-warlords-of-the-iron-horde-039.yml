@@ -2,9 +2,11 @@ name: Elusive Brew
 
 origin: warlords-of-the-iron-horde-039
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

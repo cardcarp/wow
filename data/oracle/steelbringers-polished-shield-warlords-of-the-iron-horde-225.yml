@@ -2,9 +2,11 @@ name: Steelbringers Polished Shield
 
 origin: warlords-of-the-iron-horde-225
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

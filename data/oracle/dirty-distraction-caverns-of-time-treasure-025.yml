@@ -2,9 +2,12 @@ name: Dirty Distraction
 
 origin: caverns-of-time-treasure-025
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust each opposing ally and equipment with cost 4 or less. Those cards can't ready during their controller's next ready step.
 
 regulation:

@@ -2,9 +2,12 @@ name: Miranda McMiserson
 
 origin: blood-of-gladiators-113
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive → Name a card, then reveal the top card of your deck. If it has that name, draw it. Otherwise, put it on the bottom of your deck.
 
 regulation:

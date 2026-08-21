@@ -2,9 +2,12 @@ name: Kray'zin Firetusk
 
 origin: drums-of-war-178
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Troll Hero Required Berserking When Kray'zin or another ally enters your party, you may put any amount of non-fatal damage on it.
 
 regulation:

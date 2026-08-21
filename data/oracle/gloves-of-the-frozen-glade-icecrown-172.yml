@@ -2,9 +2,12 @@ name: Gloves of the Frozen Glade
 
 origin: icecrown-172
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: '3 , → Ready your hero and all Melee weapons you control. Death Rattle : Your hero has Stealth this turn.'
 
 regulation:

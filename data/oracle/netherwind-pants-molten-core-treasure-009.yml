@@ -2,9 +2,12 @@ name: Netherwind Pants
 
 origin: molten-core-treasure-009
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play a ability, you may pay 1 . If you do, you and target opponent each draw a card.
 
 regulation:

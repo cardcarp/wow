@@ -2,9 +2,12 @@ name: Emerald Soldier
 
 origin: worldbreaker-207
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a resource you control is turned face down, this ally heals 2 damage from target hero or ally.
 
 regulation:

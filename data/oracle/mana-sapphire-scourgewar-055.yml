@@ -2,9 +2,12 @@ name: Mana Sapphire
 
 origin: scourgewar-055
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : x , Destroy this ability → If X is 5 or less, draw X cards.'
 
 regulation:

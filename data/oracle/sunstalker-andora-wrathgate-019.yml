@@ -2,17 +2,20 @@ name: Sunstalker Andora
 
 origin: wrathgate-019
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: Flip Andora, discard a Rogue → When target ally is dealt damage this turn, destroy it.'
 
 regulation:

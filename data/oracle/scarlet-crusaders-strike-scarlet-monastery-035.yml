@@ -2,9 +2,11 @@ name: Scarlet Crusaders Strike
 
 origin: scarlet-monastery-035
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

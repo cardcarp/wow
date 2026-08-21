@@ -2,9 +2,12 @@ name: Preserve and Protect
 
 origin: crown-of-the-heavens-071
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

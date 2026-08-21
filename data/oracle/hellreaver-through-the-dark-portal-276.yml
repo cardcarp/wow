@@ -2,9 +2,12 @@ name: Hellreaver
 
 origin: through-the-dark-portal-276
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 3 less to strike with Hellreaver while your hero is defending.
 
 regulation:

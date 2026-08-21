@@ -2,17 +2,20 @@ name: Morova of the Sands
 
 origin: through-the-dark-portal-017
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 10 , Flip Morova → Morova deals 7 nature damage to target hero or ally.
 
 regulation:

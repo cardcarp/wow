@@ -2,9 +2,12 @@ name: Ymirheim Chosen Warrior
 
 origin: icecrown-161
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Raid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scourge Hero Required Protector When this ally enters play, you may search your deck for an ally with the same name, reveal it, and put it into your hand.
 
 regulation:

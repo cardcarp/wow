@@ -2,9 +2,12 @@ name: Shred Soul
 
 origin: through-the-dark-portal-114
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Remove target ally from the game.
 
 regulation:

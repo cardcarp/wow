@@ -2,9 +2,12 @@ name: Arcanist Doan
 
 origin: scarlet-monastery-005
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 4
 
@@ -15,7 +18,7 @@ combat: Fire
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Boss Detonation : When Doan attacks, he deals 1 fire damage to the MARKED hero for each resource its controller controls, then the MARKED hero's controller destroys a resource he controls."
 
 regulation:

@@ -2,9 +2,12 @@ name: Doom
 
 origin: icecrown-130
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Assault 4
 
 regulation:

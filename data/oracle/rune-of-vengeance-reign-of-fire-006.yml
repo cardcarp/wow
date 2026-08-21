@@ -2,9 +2,12 @@ name: Rune of Vengeance
 
 origin: reign-of-fire-006
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

@@ -1,25 +1,26 @@
 name: Alliance Warlock
 
-credit: Official Product
+format:
+  - Starter
 
-category: Preconstructed
+group: '2013'
 
-facet:
+theme:
   - Alliance
   - Starter
   - '2013'
 
-collection: '2013'
+complexity:
+
+division:
 
 highlight: alliance-warlock-2013-001
 
-description: 2013 Alliance Warlock Preconstructed
+tagline: 2013 Alliance Warlock Preconstructed
 
-context:
+description:
   - title: ''
     body: Introduction to the 2013 Alliance Warlock
-
-total: 61
 
 list:
   hero:

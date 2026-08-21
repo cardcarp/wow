@@ -2,9 +2,12 @@ name: Waylay
 
 origin: heroes-of-azeroth-105
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

@@ -2,9 +2,11 @@ name: Kor Kron Iron Star
 
 origin: siege-of-orgrimmar-031
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

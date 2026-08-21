@@ -2,9 +2,12 @@ name: Blood Guard Mal'wani
 
 origin: heroes-of-azeroth-230
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Blood Guard Mal'wani has +1 ATK for each damage on him.
 
 regulation:

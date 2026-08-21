@@ -2,9 +2,12 @@ name: Aurius
 
 origin: wrathgate-167
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a friendly Paladin is destroyed, it may deal 3 unpreventable holy damage to target hero or ally.
 
 regulation:

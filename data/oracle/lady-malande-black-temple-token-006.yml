@@ -2,9 +2,12 @@ name: Lady Malande
 
 origin: black-temple-token-006
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 2
 
@@ -15,7 +18,7 @@ combat: Holy
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, Malande heals 3 damage from target friendly ally.
 
 regulation:

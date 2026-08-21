@@ -2,9 +2,12 @@ name: Bottled Spite
 
 origin: throne-of-the-tides-237
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this item enters play, your hero deals 1 nature damage to each opposing hero and ally. On your turn: Exhaust a Monster hero or ally you control and destroy this item → Your hero deals 1 nature damage to each opposing hero and ally.'
 
 regulation:

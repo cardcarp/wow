@@ -2,9 +2,11 @@ name: Durotan Frostwolf Warlord
 
 origin: warlords-of-the-iron-horde-141
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

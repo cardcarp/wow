@@ -2,9 +2,12 @@ name: Anger Management
 
 origin: through-the-dark-portal-115
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Arms Hero Required Ongoing : When your hero deals combat damage with a weapon to a hero, put the top card of your deck into your resource row face down and exhausted.'
 
 regulation:

@@ -2,9 +2,12 @@ name: The Benefits of Practice
 
 origin: blood-of-gladiators-075
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

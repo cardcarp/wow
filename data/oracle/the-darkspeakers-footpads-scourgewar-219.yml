@@ -2,9 +2,12 @@ name: The Darkspeakers Footpads
 
 origin: scourgewar-219
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Ready a resource you control.
 
 regulation:

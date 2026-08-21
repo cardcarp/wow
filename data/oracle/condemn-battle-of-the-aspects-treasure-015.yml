@@ -2,9 +2,12 @@ name: Condemn
 
 origin: battle-of-the-aspects-treasure-015
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

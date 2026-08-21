@@ -2,14 +2,17 @@ name: Seize the Moment
 
 origin: onyxias-lair-event-027
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Raid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opponents choose a player. That player readies all of his cards.
 
 regulation:

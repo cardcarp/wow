@@ -2,9 +2,11 @@ name: Darkspear Pathfinder
 
 origin: into-the-mists-160
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

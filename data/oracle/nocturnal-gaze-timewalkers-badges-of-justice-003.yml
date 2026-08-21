@@ -2,9 +2,12 @@ name: Nocturnal Gaze
 
 origin: timewalkers-badges-of-justice-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: While you have no cards in your hand, your hero has Assault 2 .
 
 regulation:

@@ -2,9 +2,12 @@ name: Lilnas the Calm
 
 origin: through-the-dark-portal-176
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 , , Destroy Lilnas → Destroy all abilities.
 
 regulation:

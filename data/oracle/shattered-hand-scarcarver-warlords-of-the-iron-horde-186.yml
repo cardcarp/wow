@@ -2,9 +2,11 @@ name: Shattered Hand Scarcarver
 
 origin: warlords-of-the-iron-horde-186
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

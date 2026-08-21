@@ -2,9 +2,11 @@ name: Echoing Flames
 
 origin: into-the-mists-093
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Donatello
 
 origin: war-of-the-elements-041
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector
 
 regulation:

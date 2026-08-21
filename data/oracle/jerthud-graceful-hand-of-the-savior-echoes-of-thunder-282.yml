@@ -2,9 +2,11 @@ name: Jerthud, Graceful Hand of the Savior
 
 origin: echoes-of-thunder-282
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

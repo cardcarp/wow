@@ -2,9 +2,12 @@ name: Frimzy Fuzzbum
 
 origin: crown-of-the-heavens-084
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive → Target ally has Elusive this turn.
 
 regulation:

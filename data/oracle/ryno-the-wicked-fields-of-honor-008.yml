@@ -2,17 +2,20 @@ name: Ryno the Wicked
 
 origin: fields-of-honor-008
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 2 , Flip Ryno → Put a Felhunter Demon ally token into play with 1 ATK / 1 health and Pet (1).'
 
 regulation:

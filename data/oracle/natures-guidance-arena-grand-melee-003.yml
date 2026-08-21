@@ -2,9 +2,12 @@ name: Natures Guidance
 
 origin: arena-grand-melee-003
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Preparation Ongoing : You pay 1 less to play Feral abilities, to a minimum of 1 .'
 
 regulation:

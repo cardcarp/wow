@@ -2,9 +2,11 @@ name: Shieldwall Medic Rowan
 
 origin: into-the-mists-146
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Halberd of Smiting
 
 origin: through-the-dark-portal-275
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Halberd of Smiting enters play, you may destroy target ally with damage on it.
 
 regulation:

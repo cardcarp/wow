@@ -2,9 +2,12 @@ name: Kaelos Sunscream
 
 origin: the-hunt-for-illidan-158
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Destroy another ally in your party → Destroy target ability.
 
 regulation:

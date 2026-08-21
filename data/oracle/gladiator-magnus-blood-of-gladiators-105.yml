@@ -2,9 +2,12 @@ name: Gladiator Magnus
 
 origin: blood-of-gladiators-105
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -19,7 +22,7 @@ faction: Alliance
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Destroy an Arena ally in your party → Turn target resource face down.
 
 regulation:

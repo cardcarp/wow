@@ -2,9 +2,11 @@ name: Airoh Lotusblossom
 
 origin: monk-starter-056
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Call of the Wild
 
 origin: fires-of-outland-019
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

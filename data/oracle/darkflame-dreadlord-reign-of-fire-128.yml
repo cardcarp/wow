@@ -2,9 +2,12 @@ name: Darkflame Dreadlord
 
 origin: reign-of-fire-128
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When another ally you control is destroyed, this ally may deal 2 shadow damage to target hero.
 
 regulation:

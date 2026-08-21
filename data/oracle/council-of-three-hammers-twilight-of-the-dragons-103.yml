@@ -2,16 +2,19 @@ name: Council of Three Hammers
 
 origin: twilight-of-the-dragons-103
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '9'
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put a 5 / 5 Dwarf Warrior ally token named Muradin Bronzebeard with Protector and Muradin (1), a 5 / 5 Dwarf Priest ally token named Moira Thaurissian with Mend 5 and Moira (1), and a 5 / 5 Dwarf High Thane ally token named Falstad Wildhammer with Ferocity and Falstad (1) into play
 
 regulation:

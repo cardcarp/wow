@@ -2,9 +2,12 @@ name: Sword of Justice
 
 origin: wrathgate-198
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: This weapon enters play with a +1 ATK counter for each card in your hand. Remove a +1 ATK counter → Exhaust target ally.
 
 regulation:

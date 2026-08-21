@@ -2,9 +2,12 @@ name: Hauberk of Karabor
 
 origin: the-hunt-for-illidan-212
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has +1 health for each ability and equipment you control.
 
 regulation:

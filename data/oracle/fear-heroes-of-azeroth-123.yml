@@ -2,9 +2,12 @@ name: Fear
 
 origin: heroes-of-azeroth-123
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put target opposing ally into its owner's hand.
 
 regulation:

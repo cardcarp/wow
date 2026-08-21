@@ -2,9 +2,12 @@ name: Gerrunge the Sadist
 
 origin: crown-of-the-heavens-085
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he deals 4 shadow damage to your hero. When another ally you control is destroyed, this ally heals 4 damage from your hero.
 
 regulation:

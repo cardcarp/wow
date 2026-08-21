@@ -2,9 +2,11 @@ name: Stormstriker Euna
 
 origin: into-the-mists-202
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Dinomancer Akolik
 
 origin: echoes-of-thunder-001
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

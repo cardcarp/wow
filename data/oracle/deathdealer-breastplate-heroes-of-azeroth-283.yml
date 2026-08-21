@@ -2,9 +2,12 @@ name: Deathdealer Breastplate
 
 origin: heroes-of-azeroth-283
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your weapons have +2 ATK.
 
 regulation:

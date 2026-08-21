@@ -2,9 +2,12 @@ name: Hardpacked Snowball
 
 origin: feast-of-winter-veil-2007-001
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

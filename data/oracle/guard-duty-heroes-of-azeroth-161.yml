@@ -2,9 +2,12 @@ name: Guard Duty
 
 origin: heroes-of-azeroth-161
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

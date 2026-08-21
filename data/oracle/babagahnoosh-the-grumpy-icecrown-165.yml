@@ -2,9 +2,12 @@ name: Babagahnoosh the Grumpy
 
 origin: icecrown-165
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '0'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Frost
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, turn all resources you control face down and discard your hand.
 
 regulation:

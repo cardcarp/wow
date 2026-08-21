@@ -2,9 +2,12 @@ name: Illidari Archon
 
 origin: black-temple-raid-036
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Shadow
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required When Illidari Archon attacks, you may ready one of your resources.
 
 regulation:

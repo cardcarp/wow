@@ -2,9 +2,12 @@ name: Jaal
 
 origin: war-of-the-ancients-096
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Target ally you control has Assault 3 this turn.
 
 regulation:

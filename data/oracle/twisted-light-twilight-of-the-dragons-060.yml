@@ -2,9 +2,12 @@ name: Twisted Light
 
 origin: twilight-of-the-dragons-060
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

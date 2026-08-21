@@ -1,24 +1,25 @@
 name: Hogger
 
-credit: Official Product
+format:
+  - Starter
 
-category: Preconstructed
+group: champion
 
-facet:
+theme:
   - Champion
   - Starter
 
-collection: champion
+complexity:
+
+division:
 
 highlight: hogger-001
 
-description: Hogger Preconstructed
+tagline: Hogger Preconstructed
 
-context:
+description:
   - title: ''
     body: Introduction to the Hogger
-
-total: 61
 
 list:
   hero:

@@ -2,9 +2,12 @@ name: Sen'Jin
 
 origin: timewalkers-018
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule: []
 

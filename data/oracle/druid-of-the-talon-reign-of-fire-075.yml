@@ -2,9 +2,12 @@ name: Druid of the Talon
 
 origin: reign-of-fire-075
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive → If target hero or ally would be dealt damage this turn, it's dealt that much +1 instead.
 
 regulation:

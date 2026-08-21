@@ -2,9 +2,12 @@ name: Warlord Kalithresh
 
 origin: servants-of-the-betrayer-215
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 7
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required At the end of your turn, put a Naga Distiller ally token with 0 ATK / 1 health into play. At the start of your turn, destroy a Naga Distiller in your party. If you do, Kalithresh has +5 ATK this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Bloodstained Ravager Gauntlets
 
 origin: march-of-the-legion-256
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '7'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Double target weapon's ATK this turn.
 
 regulation:

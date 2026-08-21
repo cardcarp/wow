@@ -2,9 +2,12 @@ name: Essence of the Martyr
 
 origin: azeroth-badges-of-justice-002
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an ally in your party is destroyed, you may remove it from the game. If you do, Essence of the Martyr becomes a copy of that ally with this power, and you may remove all damage from it.
 
 regulation:

@@ -2,14 +2,17 @@ name: Explosions!
 
 origin: fires-of-outland-104
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 2 fire damage divided as you choose to any number of target allies.
 
 regulation:

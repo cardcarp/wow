@@ -2,9 +2,12 @@ name: Helena Demonfire
 
 origin: drums-of-war-129
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Diplomacy: Demons Opposing heroes and allies have -1 ATK / -1 health for each Demon in your party.'
 
 regulation:

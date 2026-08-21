@@ -2,9 +2,12 @@ name: Favor of the Light
 
 origin: twilight-of-the-dragons-056
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target friendly ally. Ongoing : Attached ally has Assault 2 . When attached ally is destroyed, your hero heals 5 damage from target hero or ally.'
 
 regulation:

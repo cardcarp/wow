@@ -2,9 +2,12 @@ name: Gavel of the Fleshcrafter
 
 origin: scourgewar-238
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Mend 3 .
 
 regulation:

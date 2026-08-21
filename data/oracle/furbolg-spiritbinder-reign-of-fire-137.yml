@@ -2,9 +2,12 @@ name: Furbolg Spiritbinder
 
 origin: reign-of-fire-137
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, if you have eight or more cards in your graveyard, this ally heals 8 damage from your hero.
 
 regulation:

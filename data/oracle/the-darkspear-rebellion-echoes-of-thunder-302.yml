@@ -2,9 +2,11 @@ name: The Darkspear Rebellion
 
 origin: echoes-of-thunder-302
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

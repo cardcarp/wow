@@ -2,9 +2,12 @@ name: Earth Elemental Totem
 
 origin: through-the-dark-portal-092
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

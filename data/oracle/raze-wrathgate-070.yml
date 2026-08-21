@@ -2,9 +2,12 @@ name: Raze
 
 origin: wrathgate-070
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Finishing Move Destroy each opposing ally and equipment with cost X.
 
 regulation:

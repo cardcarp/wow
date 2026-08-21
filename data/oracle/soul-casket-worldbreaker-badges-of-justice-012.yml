@@ -2,9 +2,12 @@ name: Soul Casket
 
 origin: worldbreaker-badges-of-justice-012
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: ', Discard an ally → Your hero deals 2 shadow damage to target hero or ally.'
 
 regulation:

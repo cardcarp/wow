@@ -2,9 +2,12 @@ name: Signet of Manifested Pain
 
 origin: naxxramas-treasure-025
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may put 2 damage on your hero. If you do, put a 2 / 2 ally token into play with the same class and race as your hero.
 
 regulation:

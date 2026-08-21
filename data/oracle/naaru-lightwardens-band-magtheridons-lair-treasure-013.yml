@@ -2,9 +2,12 @@ name: Naaru Lightwardens Band
 
 origin: magtheridons-lair-treasure-013
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Friendly heroes have +5 health.
 
 regulation:

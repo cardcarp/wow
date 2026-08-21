@@ -2,9 +2,12 @@ name: Sayge
 
 origin: darkmoon-faire-002
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, remove the top card of target opponent's deck from the game. If it's an ability, ally, or equipment card, you may play it this game. (Pay costs as normal.)
 
 regulation:

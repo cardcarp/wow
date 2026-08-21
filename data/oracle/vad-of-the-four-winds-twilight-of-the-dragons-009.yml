@@ -2,20 +2,23 @@ name: Vad of the Four Winds
 
 origin: twilight-of-the-dragons-009
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 30
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Vad face down.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: At the end of your turn, you may ready Vad.
 
 regulation:

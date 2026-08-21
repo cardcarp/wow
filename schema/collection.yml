@@ -2,16 +2,16 @@ name:
   type: string
   required: true
 
-type:
+type: # capitalize
   type: string
   required: true
-  allowed: ['set', 'raid', 'promo', 'starter', 'token', 'extra']
+  allowed: ['Set', 'Raid', 'Promo', 'Starter', 'Token', 'Extra']
 
-index:
+index: # release order across all collections
   type: string
   nullable: true
   coerce: str
 
 publisher:
   type: string
-  allowed: ['Blizzard', 'reborn']
+  allowed: ['Blizzard', 'Reborn']

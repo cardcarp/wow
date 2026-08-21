@@ -2,9 +2,12 @@ name: Banish
 
 origin: march-of-the-legion-103
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Remove target Demon ally or Elemental ally from the game.
 
 regulation:

@@ -2,9 +2,12 @@ name: Natural Genesis
 
 origin: march-of-the-legion-026
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Each player may place an additional resource during his turn.'
 
 regulation:

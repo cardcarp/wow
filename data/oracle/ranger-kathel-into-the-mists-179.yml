@@ -2,9 +2,11 @@ name: Ranger Kathel
 
 origin: into-the-mists-179
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

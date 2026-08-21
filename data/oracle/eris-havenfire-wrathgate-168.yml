@@ -2,9 +2,12 @@ name: Eris Havenfire
 
 origin: wrathgate-168
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this or another Priest ally enters play under your control, prevent all damage that would be dealt to target hero or ally this turn.
 
 regulation:

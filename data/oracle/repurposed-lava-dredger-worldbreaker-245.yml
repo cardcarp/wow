@@ -2,9 +2,12 @@ name: Repurposed Lava Dredger
 
 origin: worldbreaker-245
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: '3 , → Reveal the top card of your deck and an additional for each heirloom counter on this equipment. Place each revealed card into your resource row exhausted as an additional resource. Stash : Add an heirloom counter to target equipment you control.'
 
 regulation:

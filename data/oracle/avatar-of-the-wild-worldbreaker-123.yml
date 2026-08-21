@@ -2,9 +2,12 @@ name: Avatar of the Wild
 
 origin: worldbreaker-123
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: X
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put an X / X Tiger ally token into play with Ferocity .
 
 regulation:

@@ -2,9 +2,11 @@ name: Gods and Monsters
 
 origin: echoes-of-thunder-312
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

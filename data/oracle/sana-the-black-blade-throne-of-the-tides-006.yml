@@ -2,17 +2,20 @@ name: Sana the Black Blade
 
 origin: throne-of-the-tides-006
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 3 , Flip Sana → Sana deals 3 melee damage to target exhausted hero or ally.'
 
 regulation:

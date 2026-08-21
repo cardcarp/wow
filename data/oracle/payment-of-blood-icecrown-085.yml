@@ -2,9 +2,12 @@ name: Payment of Blood
 
 origin: icecrown-085
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy target equipment. If you do, put X damage on your hero and draw X cards, where X is that equipment's cost.
 
 regulation:

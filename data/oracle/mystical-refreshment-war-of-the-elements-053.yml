@@ -2,9 +2,12 @@ name: Mystical Refreshment
 
 origin: war-of-the-elements-053
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Draw a card for each ally you control.
 
 regulation:

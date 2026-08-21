@@ -2,14 +2,17 @@ name: Essence of Defense
 
 origin: crown-of-the-heavens-063
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'You pay 2 less to play this ability if you control a Death Knight hero or ally. You pay 2 less to play this ability if you control a Druid hero or ally. Attach to target ally. Ongoing : Attached ally has +2 / +2 and Protector .'
 
 regulation:

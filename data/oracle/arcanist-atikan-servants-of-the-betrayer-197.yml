@@ -2,9 +2,12 @@ name: Arcanist Atikan
 
 origin: servants-of-the-betrayer-197
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Scryer Reputation Sabotage: Side Deck When Atikan sabotages a side deck, cards in it can't leave that side deck this match."
 
 regulation:

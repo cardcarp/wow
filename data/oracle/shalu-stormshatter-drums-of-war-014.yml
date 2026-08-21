@@ -2,17 +2,20 @@ name: Shalu Stormshatter
 
 origin: drums-of-war-014
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Shalu → Destroy target ability that's not attached to a friendly hero or ally.
 
 regulation:

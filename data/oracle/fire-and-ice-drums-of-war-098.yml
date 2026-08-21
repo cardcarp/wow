@@ -2,9 +2,12 @@ name: Fire and Ice
 
 origin: drums-of-war-098
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

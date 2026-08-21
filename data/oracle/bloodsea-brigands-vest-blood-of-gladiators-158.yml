@@ -2,9 +2,12 @@ name: Bloodsea Brigands Vest
 
 origin: blood-of-gladiators-158
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , Destroy Bloodsea Brigand's Vest → Put the top two cards of your deck into your resource row face down and exhausted.
 
 regulation:

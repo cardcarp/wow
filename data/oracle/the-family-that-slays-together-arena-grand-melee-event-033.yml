@@ -2,12 +2,15 @@ name: The Family That Slays Together
 
 origin: arena-grand-melee-event-033
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each player draws a card for each husband, wife, brother, sister, son, daughter, father, and mother he has in the room.
 
 regulation:

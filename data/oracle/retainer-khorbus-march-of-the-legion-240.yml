@@ -2,9 +2,12 @@ name: Retainer Khorbus
 
 origin: march-of-the-legion-240
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scryer Reputation When Khorbus deals combat damage, put him from play into his owner's hand.
 
 regulation:

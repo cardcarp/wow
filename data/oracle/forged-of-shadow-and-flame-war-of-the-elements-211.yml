@@ -2,12 +2,15 @@ name: Forged of Shadow and Flame
 
 origin: war-of-the-elements-211
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If you control an equipment: Pay 3 to complete this quest. Reward : Draw a card.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Krumshal
 
 origin: crown-of-the-heavens-137
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Empower Monster : When this ally enters play, if you control another Monster hero or ally, target hero or ally has +3 ATK and Smash this turn.'
 
 regulation:

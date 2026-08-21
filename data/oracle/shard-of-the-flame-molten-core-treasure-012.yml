@@ -2,9 +2,12 @@ name: Shard of the Flame
 
 origin: molten-core-treasure-012
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a resource enters play under your control, your hero heals 2 damage from itself.
 
 regulation:

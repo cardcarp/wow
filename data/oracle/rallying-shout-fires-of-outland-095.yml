@@ -2,9 +2,12 @@ name: Rallying Shout
 
 origin: fires-of-outland-095
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

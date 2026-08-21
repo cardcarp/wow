@@ -2,9 +2,11 @@ name: Fenris Wolfbrother Thunderlord Warlord
 
 origin: warlords-of-the-iron-horde-142
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

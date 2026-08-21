@@ -2,9 +2,12 @@ name: Obsidium Executioner
 
 origin: horde-paladin-2011-024
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 

@@ -2,9 +2,11 @@ name: Dr. Ion Goldbloom
 
 origin: echoes-of-thunder-139
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

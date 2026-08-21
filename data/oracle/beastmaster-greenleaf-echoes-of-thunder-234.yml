@@ -2,9 +2,11 @@ name: Beastmaster Greenleaf
 
 origin: echoes-of-thunder-234
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

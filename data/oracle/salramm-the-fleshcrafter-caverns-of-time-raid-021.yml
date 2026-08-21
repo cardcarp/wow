@@ -2,9 +2,12 @@ name: Salramm the Fleshcrafter
 
 origin: caverns-of-time-raid-021
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 2
 
@@ -15,7 +18,7 @@ combat: Shadow
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Boss Salramm attacks the ally with the lowest remaining health if able. Caverns Hero 2+ : When Salramm deals fatal damage to a defending ally, put a 3 / 3 Ghoul ally token into play.'
 
 regulation:

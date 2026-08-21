@@ -2,9 +2,12 @@ name: Divine Redemption
 
 origin: tomb-of-the-forgotten-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '9'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Put target ally from your graveyard into play and attach this ability to it. Ongoing : Attached ally has +5 / +5, Protector and Invincible .'
 
 regulation:

@@ -2,9 +2,11 @@ name: Mr. Goldmines Wild ride
 
 origin: twilight-of-the-dragons-216
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

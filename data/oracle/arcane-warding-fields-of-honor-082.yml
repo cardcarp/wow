@@ -2,9 +2,12 @@ name: Arcane Warding
 
 origin: fields-of-honor-082
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

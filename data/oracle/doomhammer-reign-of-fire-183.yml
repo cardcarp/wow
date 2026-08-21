@@ -2,9 +2,12 @@ name: Doomhammer
 
 origin: reign-of-fire-183
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Allies you control with restriction tags have +3 / +3. (Examples of restriction tags on allies include Pet (1), Thrall (1), Totem (1) and Unique.)
 
 regulation:

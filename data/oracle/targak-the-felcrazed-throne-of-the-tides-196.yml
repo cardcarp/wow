@@ -2,9 +2,12 @@ name: Tar'gak the Felcrazed
 
 origin: throne-of-the-tides-196
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '9'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to play this ally for each Monster hero and ally you control.
 
 regulation:

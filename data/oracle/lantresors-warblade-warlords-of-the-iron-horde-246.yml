@@ -2,9 +2,11 @@ name: Lantresors Warblade
 
 origin: warlords-of-the-iron-horde-246
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

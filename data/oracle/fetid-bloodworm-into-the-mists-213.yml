@@ -2,9 +2,11 @@ name: Fetid Bloodworm
 
 origin: into-the-mists-213
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

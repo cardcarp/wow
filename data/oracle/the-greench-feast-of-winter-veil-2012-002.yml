@@ -2,9 +2,12 @@ name: The Greench
 
 origin: feast-of-winter-veil-2012-002
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Smash When the Greench enters play and when he attacks, search target opponent's deck for a card and remove it from the game.
 
 regulation:

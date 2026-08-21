@@ -2,14 +2,17 @@ name: Savage Beatdown
 
 origin: reign-of-fire-067
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target ally has +5 ATK and Smash this turn.
 
 regulation:

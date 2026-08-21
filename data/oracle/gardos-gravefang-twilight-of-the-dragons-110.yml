@@ -2,9 +2,12 @@ name: Gardos Gravefang
 
 origin: twilight-of-the-dragons-110
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When this ally is destroyed, you may put target card in a graveyard on the bottom of its owner's deck.
 
 regulation:

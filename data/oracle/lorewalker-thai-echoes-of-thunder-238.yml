@@ -2,9 +2,11 @@ name: Lorewalker Thai
 
 origin: echoes-of-thunder-238
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

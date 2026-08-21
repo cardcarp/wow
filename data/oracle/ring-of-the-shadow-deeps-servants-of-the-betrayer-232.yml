@@ -2,9 +2,12 @@ name: Ring of the Shadow Deeps
 
 origin: servants-of-the-betrayer-232
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: ', Destroy an ally in your party → Your hero has +2 ATK while attacking this turn.'
 
 regulation:

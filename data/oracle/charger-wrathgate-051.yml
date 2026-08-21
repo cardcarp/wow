@@ -2,9 +2,12 @@ name: Charger
 
 origin: wrathgate-051
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -18,7 +21,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to complete quests. When you place a resource face up, your hero deals 1 unpreventable holy damage to target hero or ally. Prevent the next 1 damage that would be dealt to a second target hero or ally this turn. (Mounts can't attack or be attacked.)
 
 regulation:

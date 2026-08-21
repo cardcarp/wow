@@ -2,9 +2,12 @@ name: Celestial Shard
 
 origin: fields-of-honor-019
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Your hero deals 3 arcane damage to target hero or ally. Ongoing : At the start of your turn, you may put Celestial Shard into its owner's hand."
 
 regulation:

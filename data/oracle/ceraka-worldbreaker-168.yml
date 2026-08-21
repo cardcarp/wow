@@ -2,9 +2,12 @@ name: Ceraka
 
 origin: worldbreaker-168
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 1 , Turn a quest you control face down → This ally deals 3 fire damage to target hero.'
 
 regulation:

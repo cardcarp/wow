@@ -2,9 +2,11 @@ name: Illenya, Trophy Hunter
 
 origin: echoes-of-thunder-103
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

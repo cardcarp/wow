@@ -2,9 +2,12 @@ name: Shield Bash
 
 origin: heroes-of-azeroth-147
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

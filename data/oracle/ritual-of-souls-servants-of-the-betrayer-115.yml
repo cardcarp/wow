@@ -2,9 +2,12 @@ name: Ritual of Souls
 
 origin: servants-of-the-betrayer-115
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Play only if two or more allies are in your party. Ongoing : Ritual of Souls enters play with four spirit counters. , Remove a spirit counter → Your hero heals 3 damage from target hero or ally. If no counters remain, destroy Ritual of Souls.'
 
 regulation:

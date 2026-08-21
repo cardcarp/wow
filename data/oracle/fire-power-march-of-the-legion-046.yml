@@ -2,9 +2,12 @@ name: Fire Power
 
 origin: march-of-the-legion-046
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Fire Talent Ongoing : When you play a Fire ability or card, your hero may deal 1 fire damage to target hero or ally.'
 
 regulation:

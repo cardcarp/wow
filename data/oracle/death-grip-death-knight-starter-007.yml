@@ -2,9 +2,12 @@ name: Death Grip
 
 origin: death-knight-starter-007
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : → This turn, target opposing hero or ally must attack if able and can attack only your hero if able.'
 
 regulation:

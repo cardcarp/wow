@@ -2,12 +2,15 @@ name: The Scourge of Lordaeron
 
 origin: reign-of-fire-194
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Pay 1 to complete this quest. Reward : Remove all cards in target player's graveyard from the game."
 
 regulation:

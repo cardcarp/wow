@@ -2,9 +2,12 @@ name: Icy Scale Chestguard
 
 origin: icecrown-175
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: If a friendly hero or ally would deal frost ( ) damage, it deals that much +1 instead.
 
 regulation:

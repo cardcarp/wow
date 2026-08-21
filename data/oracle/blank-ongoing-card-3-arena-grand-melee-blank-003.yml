@@ -2,9 +2,11 @@ name: Blank Ongoing Card 3
 
 origin: arena-grand-melee-blank-003
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

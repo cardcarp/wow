@@ -2,9 +2,12 @@ name: Zorm Stonefury
 
 origin: heroes-of-azeroth-274
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Allies in your party have +1 ATK while attacking.
 
 regulation:

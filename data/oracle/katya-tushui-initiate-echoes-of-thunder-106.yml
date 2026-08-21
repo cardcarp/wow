@@ -2,9 +2,11 @@ name: Katya, Tushui Initiate
 
 origin: echoes-of-thunder-106
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

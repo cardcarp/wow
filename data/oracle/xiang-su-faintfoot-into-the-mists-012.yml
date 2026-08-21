@@ -2,9 +2,11 @@ name: Xiang Su Faintfoot
 
 origin: into-the-mists-012
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

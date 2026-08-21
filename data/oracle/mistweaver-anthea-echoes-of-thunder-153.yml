@@ -2,9 +2,11 @@ name: Mistweaver Anthea
 
 origin: echoes-of-thunder-153
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

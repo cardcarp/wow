@@ -2,9 +2,12 @@ name: Ruby Stalker
 
 origin: worldbreaker-218
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Allies you control have Stealth .
 
 regulation:

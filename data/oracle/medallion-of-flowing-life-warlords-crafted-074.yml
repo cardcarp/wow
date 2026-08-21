@@ -2,9 +2,11 @@ name: Medallion Of Flowing Life
 
 origin: warlords-crafted-074
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

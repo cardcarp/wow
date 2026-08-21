@@ -2,15 +2,18 @@ name: Dralor
 
 origin: march-of-the-legion-005
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 , Flip Dralor → Look at target player's hand and choose an ally card. He discards that card. Use only on your turn.
 
 regulation:

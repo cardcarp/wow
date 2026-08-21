@@ -2,9 +2,12 @@ name: Spirit of Redemption
 
 origin: wrathgate-064
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 cost: '25'
 

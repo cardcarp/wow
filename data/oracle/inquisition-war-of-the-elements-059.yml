@@ -2,9 +2,12 @@ name: Inquisition
 
 origin: war-of-the-elements-059
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target ally deals unpreventable holy damage to itself equal to its ATK.
 
 regulation:

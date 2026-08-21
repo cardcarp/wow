@@ -2,9 +2,12 @@ name: Taunting Blows
 
 origin: the-hunt-for-illidan-113
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

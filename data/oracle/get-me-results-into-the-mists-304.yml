@@ -2,9 +2,11 @@ name: Get Me Results
 
 origin: into-the-mists-304
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Wand of the Demonsoul
 
 origin: war-of-the-ancients-231
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage with this weapon, it also heals 1 damage from itself.
 
 regulation:

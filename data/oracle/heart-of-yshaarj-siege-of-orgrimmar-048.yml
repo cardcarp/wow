@@ -2,9 +2,11 @@ name: Heart of Yshaarj
 
 origin: siege-of-orgrimmar-048
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

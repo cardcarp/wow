@@ -2,9 +2,12 @@ name: Sanva
 
 origin: drums-of-war-192
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: War Stomp
 
 regulation:

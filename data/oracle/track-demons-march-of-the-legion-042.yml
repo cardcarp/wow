@@ -2,9 +2,12 @@ name: Track Demons
 
 origin: march-of-the-legion-042
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the start of your turn, look at the top card of your deck. Either put it into your hand and put 3 damage on your hero, or put it on the bottom of your deck.'
 
 regulation:

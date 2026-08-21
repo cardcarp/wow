@@ -2,9 +2,12 @@ name: Wand Specialization
 
 origin: march-of-the-legion-054
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Arcane Hero Required Ongoing : Your wands have +2 ATK. When you strike with a Wand, your hero has Long-Range this combat.'
 
 regulation:

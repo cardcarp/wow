@@ -2,9 +2,12 @@ name: Wild Wrath
 
 origin: tomb-of-the-forgotten-019
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

@@ -2,9 +2,12 @@ name: The Omens of Terror
 
 origin: blood-of-gladiators-051
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

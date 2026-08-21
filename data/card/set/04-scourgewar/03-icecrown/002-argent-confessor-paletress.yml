@@ -1,3 +1,5 @@
+oracle: argent-confessor-paletress-icecrown-002
+
 index: '002'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"In the face of despair and hatred, we must continue to stand true to our beliefs and fight on."'
-
-oracle: argent-confessor-paletress-icecrown-002
 
 set: Icecrown

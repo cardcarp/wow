@@ -2,9 +2,12 @@ name: Dark Dissolution
 
 origin: caverns-of-time-treasure-001
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 

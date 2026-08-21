@@ -2,9 +2,12 @@ name: Moro, Timewalker Druid
 
 origin: betrayal-of-the-guardian-119
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 6
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector While you control two or more allies that share a or race, this ally has Sentinel .
 
 regulation:

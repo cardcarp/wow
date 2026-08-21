@@ -2,9 +2,12 @@ name: Shadowstrike
 
 origin: molten-core-treasure-027
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Destroy Shadowstrike → If your hero has Enchanting, draw two cards.
 
 regulation:

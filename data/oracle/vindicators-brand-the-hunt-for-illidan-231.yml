@@ -2,9 +2,12 @@ name: Vindicators Brand
 
 origin: the-hunt-for-illidan-231
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation When Vindicator's Brand is destroyed, you may destroy target ability or equipment.
 
 regulation:

@@ -2,9 +2,12 @@ name: Scarlet Monk
 
 origin: scarlet-monastery-017
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 3
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: Untargetable When this ally attacks, he deals 3 melee damage to a random Raiding hero.
 
 regulation:

@@ -2,9 +2,12 @@ name: Scimitar of the Nexus Stalkers
 
 origin: through-the-dark-portal-280
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 

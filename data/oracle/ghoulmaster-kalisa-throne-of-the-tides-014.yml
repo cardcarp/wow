@@ -2,17 +2,20 @@ name: Ghoulmaster Kalisa
 
 origin: throne-of-the-tides-014
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 2 , Discard an ally, flip Kalisa → Put a 3 / 3 Ghoul ally token into play.'
 
 regulation:

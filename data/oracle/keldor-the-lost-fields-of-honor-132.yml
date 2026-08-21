@@ -2,9 +2,12 @@ name: Keldor the Lost
 
 origin: fields-of-honor-132
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Pay 2 or remove an honor counter from a card you control → Interrupt target ally card. If you do, remove it from the game, and its owner puts it into his party at the start of his next turn.
 
 regulation:

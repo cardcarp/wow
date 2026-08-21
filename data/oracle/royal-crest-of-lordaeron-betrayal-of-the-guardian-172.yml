@@ -2,9 +2,12 @@ name: Royal Crest of Lordaeron
 
 origin: betrayal-of-the-guardian-172
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Protector . At the start of your turn, add a +1 counter to this armor for each ally you control. Your hero has Assault 10 while this armor has 10 or more .
 
 regulation:

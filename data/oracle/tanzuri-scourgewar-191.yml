@@ -2,9 +2,12 @@ name: Tanzuri
 
 origin: scourgewar-191
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has Assault 2 while an opposing ally with cost 4 or more is in play.
 
 regulation:

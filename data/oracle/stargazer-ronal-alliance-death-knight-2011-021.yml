@@ -2,9 +2,12 @@ name: Stargazer Ronal
 
 origin: alliance-death-knight-2011-021
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally is destroyed, you may shuffle target player's graveyard into his deck.
 
 regulation:

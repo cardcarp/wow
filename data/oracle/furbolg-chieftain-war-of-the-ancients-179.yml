@@ -2,9 +2,12 @@ name: Furbolg Chieftain
 
 origin: war-of-the-ancients-179
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: While you have eight or more cards in your graveyard, prevent all damage that attacking allies would deal to this ally.
 
 regulation:

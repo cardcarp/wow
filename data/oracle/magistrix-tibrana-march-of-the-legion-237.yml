@@ -2,9 +2,12 @@ name: Magistrix Tibrana
 
 origin: march-of-the-legion-237
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Arcane
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Scryer Reputation Sabotage: Attached Ability When Tibrana sabotages an ability, gain control of it. You may attach it to another hero or ally.'
 
 regulation:

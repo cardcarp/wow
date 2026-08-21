@@ -2,9 +2,12 @@ name: Harbinger Sefu
 
 origin: tomb-of-the-forgotten-122
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: While you control one or more equipment, this ally has Stealth . While you control two or more equipment, this ally has Ferocity . While you control three or more equipment, this ally has Sentinel .
 
 regulation:

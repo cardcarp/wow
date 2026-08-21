@@ -2,9 +2,12 @@ name: Blinky
 
 origin: march-of-the-legion-033
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 

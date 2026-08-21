@@ -2,9 +2,12 @@ name: Valithria Dreamwalker
 
 origin: assault-on-icecrown-citadel-raid-020
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 10
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Valithria Dreamwalker enters play with 3 damage. Emerald Vigor : At the start of your turn, draw a card if Valithria Dreamwalker is damaged. Valithria Dreamwalker can't attack or be attacked."
 
 regulation:

@@ -2,9 +2,12 @@ name: Tol'zin
 
 origin: war-of-the-elements-149
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'This ally has +2 / +2 for each token ally you control. Stash : Token allies you control have Assault 1 this turn.'
 
 regulation:

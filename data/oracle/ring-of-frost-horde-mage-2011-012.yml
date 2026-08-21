@@ -2,9 +2,12 @@ name: Ring of Frost
 
 origin: horde-mage-2011-012
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 2 frost damage to each ready opposing ally.
 
 regulation:

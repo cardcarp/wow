@@ -2,9 +2,12 @@ name: Sludgelauncher Krillzix
 
 origin: tomb-of-the-forgotten-111
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may reveal the top card of your deck. If you reveal an ability, ally, or equipment this way, this ally deals nature damage equal to that card's cost to each other hero and ally.
 
 regulation:

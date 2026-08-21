@@ -2,9 +2,12 @@ name: Deathlord Jones
 
 origin: icecrown-129
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: "When this ally enters play, put a 3 / 3 Unique Ghoul ally token named Brode into play exhausted with \"This ally can't ready during its controller's ready step.\" Once per turn, on your turn: 3 → This ally deals 3 shadow damage to target hero or ally. Ready a Ghoul you control."
 
 regulation:

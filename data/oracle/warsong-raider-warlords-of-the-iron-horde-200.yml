@@ -2,9 +2,11 @@ name: Warsong Raider
 
 origin: warlords-of-the-iron-horde-200
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

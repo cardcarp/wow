@@ -2,16 +2,19 @@ name: Viciousness
 
 origin: worldbreaker-125
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : 1 , → Target Worgen ally you control has Ferocity this turn.'
 
 regulation:

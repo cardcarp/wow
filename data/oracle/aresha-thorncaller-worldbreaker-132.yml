@@ -2,9 +2,12 @@ name: Aresha Thorncaller
 
 origin: worldbreaker-132
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector This ally has Nature Resistance while you control another ally.
 
 regulation:

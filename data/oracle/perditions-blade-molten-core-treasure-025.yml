@@ -2,9 +2,12 @@ name: Perditions Blade
 
 origin: molten-core-treasure-025
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Perdition's Blade enters play, your hero deals 1 fire damage to target hero or ally.
 
 regulation:

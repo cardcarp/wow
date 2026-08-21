@@ -2,17 +2,20 @@ name: Gwon Strongbark
 
 origin: blood-of-gladiators-004
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 , Flip Gwon → Ally tokens in your party have +2 ATK this turn.
 
 regulation:

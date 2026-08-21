@@ -2,9 +2,12 @@ name: Wild Hammer
 
 origin: war-of-the-elements-201
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Fury Talent Your hero has Two-Handed Dual Wield . While you control no ready resources, you pay 7 less to strike with Two-Handed weapons.
 
 regulation:

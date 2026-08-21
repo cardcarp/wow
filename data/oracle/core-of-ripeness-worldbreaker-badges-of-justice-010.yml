@@ -2,9 +2,12 @@ name: Core of Ripeness
 
 origin: worldbreaker-badges-of-justice-010
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this item enters play, reveal the top two cards of your deck, then place them into your resource row exhausted as additional resources. When this item leaves play, destroy three resources you control.
 
 regulation:

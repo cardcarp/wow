@@ -2,9 +2,12 @@ name: 'Power Word: Courage'
 
 origin: arena-grand-melee-007
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Preparation Ongoing : Allies in your party have +1 health.'
 
 regulation:

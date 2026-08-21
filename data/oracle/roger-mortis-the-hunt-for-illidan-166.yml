@@ -2,9 +2,12 @@ name: Roger Mortis
 
 origin: the-hunt-for-illidan-166
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Put 1 damage on another ally in your party → Roger deals 1 fire damage to target hero or ally. Use only on your turn.
 
 regulation:

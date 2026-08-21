@@ -2,9 +2,12 @@ name: Maw of the Dragonlord
 
 origin: battle-of-the-aspects-treasure-070
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to play this weapon for each quest you control. When you complete a quest, your hero heals 4 damage from itself.
 
 regulation:

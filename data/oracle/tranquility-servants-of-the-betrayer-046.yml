@@ -2,9 +2,12 @@ name: Tranquility
 
 origin: servants-of-the-betrayer-046
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: X
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero heals double X damage from each friendly hero and ally.
 
 regulation:

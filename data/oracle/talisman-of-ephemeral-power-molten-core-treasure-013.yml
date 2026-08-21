@@ -2,9 +2,12 @@ name: Talisman of Ephemeral Power
 
 origin: molten-core-treasure-013
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ability, you may pay 1 and put Talisman of Ephemeral Power into its owner's hand. If you do and your hero would deal damage with that ability this turn, it deals that much damage +1 instead.
 
 regulation:

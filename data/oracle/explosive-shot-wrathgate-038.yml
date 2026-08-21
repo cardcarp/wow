@@ -2,9 +2,12 @@ name: Explosive Shot
 
 origin: wrathgate-038
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

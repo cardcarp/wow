@@ -2,9 +2,12 @@ name: Frostweave Bandage
 
 origin: icecrown-181
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: '1 , Destroy this item → Your hero heals 4 damage from target hero or ally. Death Rattle : Target hero or ally has Frost Resistance this turn.'
 
 regulation:

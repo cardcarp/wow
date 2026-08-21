@@ -2,9 +2,12 @@ name: Wand of the Forgotten Star
 
 origin: blood-of-gladiators-188
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When combat damage is dealt with this weapon to a hero, that hero's controller puts that many cards from the top of his deck into his graveyard.
 
 regulation:

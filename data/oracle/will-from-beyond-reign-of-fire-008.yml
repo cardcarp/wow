@@ -2,9 +2,12 @@ name: Will from Beyond
 
 origin: reign-of-fire-008
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Warp Ongoing : Your hero has +10 and Protector .'
 
 regulation:

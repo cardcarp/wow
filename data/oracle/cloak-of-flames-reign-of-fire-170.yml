@@ -2,9 +2,12 @@ name: Cloak of Flames
 
 origin: reign-of-fire-170
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals damage to an opposing hero, it may deal 1 fire damage to target ally.
 
 regulation:

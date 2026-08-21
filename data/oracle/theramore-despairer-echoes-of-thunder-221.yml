@@ -2,9 +2,11 @@ name: Theramore Despairer
 
 origin: echoes-of-thunder-221
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

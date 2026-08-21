@@ -2,9 +2,12 @@ name: Discerning Eye of the Beast
 
 origin: worldbreaker-229
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: "2 , Put this equipment into its owner's hand → Draw a card. Stash : Add an heirloom counter to target equipment you control."
 
 regulation:

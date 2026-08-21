@@ -2,9 +2,11 @@ name: Flameglow
 
 origin: siege-of-orgrimmar-treasure-011
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

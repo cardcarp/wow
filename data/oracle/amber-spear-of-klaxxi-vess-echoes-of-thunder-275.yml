@@ -2,9 +2,11 @@ name: Amber Spear Of Klaxxi Vess
 
 origin: echoes-of-thunder-275
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

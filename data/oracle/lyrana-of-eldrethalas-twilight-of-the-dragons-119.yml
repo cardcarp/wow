@@ -2,9 +2,12 @@ name: Lyrana of Eldre'Thalas
 
 origin: twilight-of-the-dragons-119
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this ally enters play, she deals fire damage to each opposing hero and ally equal to the number of cards you control. Stash : Fire ( ) damage that your hero and allies you control would deal is unpreventable this turn.'
 
 regulation:

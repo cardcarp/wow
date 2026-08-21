@@ -2,9 +2,12 @@ name: Violet Proto-Drake
 
 origin: worldbreaker-crafting-012
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to play this ally for each different color among Dragonkin you control. Other Dragonkin you control have +2 / +2.
 
 regulation:

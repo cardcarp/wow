@@ -2,9 +2,12 @@ name: Gladiator Kinivus
 
 origin: blood-of-gladiators-102
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -19,7 +22,7 @@ faction: Alliance
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opposing card or effect causes you to discard an Arena ally card, you may put it from your graveyard into hand.
 
 regulation:

@@ -2,9 +2,12 @@ name: Enveloping Shadows
 
 origin: scourgewar-082
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Subtlety Hero Required Ongoing : → Target ally can't deal damage this turn."
 
 regulation:

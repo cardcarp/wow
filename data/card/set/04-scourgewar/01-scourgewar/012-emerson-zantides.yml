@@ -1,3 +1,5 @@
+oracle: emerson-zantides-scourgewar-012
+
 index: '012'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"Those who wish to fight against the Scourge must be willing to sacrifice life and limb."'
-
-oracle: emerson-zantides-scourgewar-012
 
 set: Scourgewar

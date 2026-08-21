@@ -2,9 +2,12 @@ name: Sacred Shield
 
 origin: worldbreaker-070
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

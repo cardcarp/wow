@@ -2,14 +2,17 @@ name: 'The Ring of Blood: The Warmaul Champion'
 
 origin: blood-of-gladiators-199
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'As a cost to place this quest face up, put the top three cards of your deck into your graveyard. Pay 3 to complete this quest. Reward : Draw a card.'
 
 regulation:

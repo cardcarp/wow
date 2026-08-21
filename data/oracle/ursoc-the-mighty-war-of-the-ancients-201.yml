@@ -2,9 +2,12 @@ name: Ursoc the Mighty
 
 origin: war-of-the-ancients-201
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ursoc can protect allies you control named Ursol the Wise. While you control Ursoc the Mighty and Ursol the Wise, if they would deal combat damage while attacking, they deal double that much instead.
 
 regulation:

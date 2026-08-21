@@ -2,9 +2,11 @@ name: Ji Firepaw
 
 origin: into-the-mists-169
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

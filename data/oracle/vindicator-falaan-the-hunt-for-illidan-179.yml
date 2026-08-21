@@ -2,9 +2,12 @@ name: Vindicator Falaan
 
 origin: the-hunt-for-illidan-179
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Aldor Reputation Inspire: All friendly heroes and allies with activated powers'
 
 regulation:

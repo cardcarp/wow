@@ -2,9 +2,12 @@ name: Lorraina the Red Harbinger
 
 origin: caverns-of-time-treasure-048
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters combat, she may deal 2 ranged damage to target attacker or defender. When this ally deals damage to a hero or ally, you may ready a resource you control.
 
 regulation:

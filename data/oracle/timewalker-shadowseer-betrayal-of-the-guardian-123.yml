@@ -2,9 +2,12 @@ name: Timewalker Shadowseer
 
 origin: betrayal-of-the-guardian-123
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Shadow
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, if you control two or more allies that share a or race, allies you control have Absorb this turn.
 
 regulation:

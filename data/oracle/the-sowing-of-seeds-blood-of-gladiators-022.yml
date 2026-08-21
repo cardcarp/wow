@@ -2,9 +2,12 @@ name: The Sowing of Seeds
 
 origin: blood-of-gladiators-022
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

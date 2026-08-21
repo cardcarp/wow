@@ -2,9 +2,12 @@ name: Plagued Mind
 
 origin: throne-of-the-tides-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target hero. Ongoing : When attached hero's controller draws a card, your hero deals 1 shadow damage to attached hero."
 
 regulation:

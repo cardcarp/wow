@@ -2,9 +2,12 @@ name: Wild Swipes
 
 origin: caverns-of-time-treasure-008
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Your hero has Assault 2 while you control a form.'
 
 regulation:

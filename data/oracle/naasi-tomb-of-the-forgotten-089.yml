@@ -2,9 +2,12 @@ name: Naasi
 
 origin: tomb-of-the-forgotten-089
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When this ally enters play, she heals 2 damage from target hero or ally.
 
 regulation:

@@ -2,17 +2,20 @@ name: Janvaru the Thunderspeaker
 
 origin: throne-of-the-tides-004
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: '4 , Flip Janvaru → Choose one: Janvaru deals 4 nature damage to target hero, or Janvaru heals 4 damage from himself.'
 
 regulation:

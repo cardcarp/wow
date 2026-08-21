@@ -2,12 +2,15 @@ name: The Storm Kings Vengeance
 
 origin: icecrown-217
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 3 to complete this quest. Reward : Reveal the top three cards of your deck. Put a revealed ability, ally, or equipment with cost less than or equal to the amount of damage on your hero into your hand, and the rest on the bottom of your deck.'
 
 regulation:

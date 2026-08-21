@@ -2,9 +2,11 @@ name: Furious Rage Potion
 
 origin: warlords-crafted-062
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

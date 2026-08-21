@@ -2,9 +2,12 @@ name: The Unbreakable Will
 
 origin: caverns-of-time-treasure-070
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: This weapon enters play with a +1 ATK counter for each face-up resource you control.
 
 regulation:

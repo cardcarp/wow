@@ -2,9 +2,12 @@ name: Banish Soul
 
 origin: crown-of-the-heavens-046
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

@@ -2,9 +2,12 @@ name: Webster
 
 origin: the-hunt-for-illidan-043
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, you may put a web counter on target ally. Allies with a web counter can't attack. When Webster leaves play, remove all web counters from opposing allies.
 
 regulation:

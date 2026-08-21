@@ -2,9 +2,12 @@ name: Landros Lichling
 
 origin: war-of-the-elements-176
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Frost
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may destroy this ally. If you do, target opponent chooses and ally he controls, and you gain control of it.
 
 regulation:

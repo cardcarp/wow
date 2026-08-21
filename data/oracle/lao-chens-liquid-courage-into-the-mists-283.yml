@@ -2,9 +2,11 @@ name: Lao Chens Liquid Courage
 
 origin: into-the-mists-283
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

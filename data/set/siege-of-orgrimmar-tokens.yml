@@ -1,6 +1,6 @@
 name: Siege of Orgrimmar Tokens
 
-type: raid
+type: Raid
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 8
 
 total: 8
 
-date_release: 2020-01
+date: 2020-01
 
 collection: Siege of Orgrimmar

@@ -2,9 +2,12 @@ name: Sindragosa, the Frost Queen
 
 origin: blizzard-employee-promotional-2009-001
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -15,7 +18,7 @@ health: 9
 combat: Frost
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scourge Hero Required At the start of each turn, you may remove five cards in one graveyard from the game. If you do, this ally deals 5 frost damage to target hero or ally. A character dealt damage this way can't attack or protect this turn.
 
 regulation:

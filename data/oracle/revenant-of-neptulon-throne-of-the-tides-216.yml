@@ -2,9 +2,12 @@ name: Revenant of Neptulon
 
 origin: throne-of-the-tides-216
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Frost
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play a Frost or card, this ally may deal 2 frost damage to target hero or ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Astani Dawngrace
 
 origin: wrathgate-130
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector , Assault 1 , Mend 1
 
 regulation:

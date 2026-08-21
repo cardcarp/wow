@@ -2,9 +2,11 @@ name: Cunning Leshang
 
 origin: into-the-mists-016
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

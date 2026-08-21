@@ -2,9 +2,12 @@ name: Crypt Fiend
 
 origin: icecrown-149
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Raid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scourge Hero Required Prevent all damage that and allies would deal to this ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Crystalline Brimstone Ring
 
 origin: aftermath-badges-of-justice-009
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Eternal If your hero would be destroyed, you may destroy this item instead. If you do, damage on your hero becomes equal to its printed minus the number of resources you control.
 
 regulation:

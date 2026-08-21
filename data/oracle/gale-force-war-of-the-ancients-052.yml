@@ -2,9 +2,12 @@ name: Gale Force
 
 origin: war-of-the-ancients-052
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target ally has Ferocity this turn.
 
 regulation:

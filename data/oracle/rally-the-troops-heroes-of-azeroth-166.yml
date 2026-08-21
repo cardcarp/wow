@@ -2,9 +2,12 @@ name: Rally the Troops
 
 origin: heroes-of-azeroth-166
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

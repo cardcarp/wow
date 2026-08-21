@@ -2,14 +2,17 @@ name: The Defias Brotherhood
 
 origin: heroes-of-azeroth-340
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'While there are four or more allies in your party, pay 1 to complete this quest. Reward : Draw two cards.'
 
 regulation:

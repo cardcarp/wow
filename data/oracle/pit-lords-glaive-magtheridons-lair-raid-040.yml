@@ -2,14 +2,17 @@ name: Pit Lords Glaive
 
 origin: magtheridons-lair-raid-040
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
 rule:
-  - type: ability
+  - type: Ability
     text: Play only if Magtheridon is Unleashed. When Magtheridon deals combat damage to a hero or ally, he also deals that much melee damage to a second target hero or ally.
 
 regulation:

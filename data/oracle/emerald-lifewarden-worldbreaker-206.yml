@@ -2,9 +2,12 @@ name: Emerald Lifewarden
 
 origin: worldbreaker-206
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: "You can place an additional resource on each of your turns. Stash : Reveal the top card of your deck. If it's a quest, put it into your hand."
 
 regulation:

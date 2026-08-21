@@ -2,16 +2,19 @@ name: Necrotic Plague
 
 origin: assault-on-icecrown-citadel-raid-028
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target hero. Ongoing : At the start of the Lich King's turn, he deals 1 shadow damage to attached hero for each ally in its controller's graveyard."
 
 regulation:

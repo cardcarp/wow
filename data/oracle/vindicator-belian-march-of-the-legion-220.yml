@@ -2,9 +2,12 @@ name: Vindicator Belian
 
 origin: march-of-the-legion-220
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation If an ally in your party other than Belian would be dealt damage, it's dealt to Belian instead.
 
 regulation:

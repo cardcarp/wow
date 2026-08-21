@@ -2,9 +2,12 @@ name: Edward the Odd
 
 origin: the-hunt-for-illidan-200
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Cards in opposing hands lose and can't have instant.
 
 regulation:

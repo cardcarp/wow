@@ -2,12 +2,15 @@ name: The Formation of Felbane
 
 origin: march-of-the-legion-303
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 7 to complete this quest. Reward : Reveal the top four cards of your deck. Put a revealed ability, ally, equipment, and quest card into your hand and the rest on the bottom of your deck.'
 
 regulation:

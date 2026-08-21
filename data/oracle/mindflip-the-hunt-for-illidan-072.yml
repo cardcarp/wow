@@ -2,9 +2,12 @@ name: Mindflip
 
 origin: the-hunt-for-illidan-072
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: You may choose an ally in your party and have target player gain control of it. If you do, gain control of target ally in his party.
 
 regulation:

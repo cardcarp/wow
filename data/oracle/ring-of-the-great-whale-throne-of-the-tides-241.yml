@@ -2,9 +2,12 @@ name: Ring of the Great Whale
 
 origin: throne-of-the-tides-241
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: If damage would be healed from a hero or ally you control, that much +2 is healed instead.
 
 regulation:

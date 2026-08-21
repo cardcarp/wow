@@ -2,9 +2,12 @@ name: Staff of Dominance
 
 origin: through-the-dark-portal-282
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Staff of Dominance enters play exhausted. x , , Destroy Staff of Dominance → Gain control of target ally with cost X. Use only on your turn.
 
 regulation:

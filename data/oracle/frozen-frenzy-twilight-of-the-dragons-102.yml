@@ -2,9 +2,12 @@ name: Frozen Frenzy
 
 origin: twilight-of-the-dragons-102
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Allies you control have Assault 6 this turn.
 
 regulation:

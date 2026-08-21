@@ -2,12 +2,15 @@ name: '"For the Fallen!"'
 
 origin: arena-grand-melee-event-037
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : When a player strikes with a weapon, he may act it out. If he does, he draws a card.'
 
 regulation:

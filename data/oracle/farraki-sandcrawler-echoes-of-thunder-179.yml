@@ -2,9 +2,11 @@ name: Farraki Sandcrawler
 
 origin: echoes-of-thunder-179
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

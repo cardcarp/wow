@@ -2,9 +2,12 @@ name: Holy Blaze
 
 origin: twilight-of-the-dragons-064
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 4 unpreventable holy damage to each of up to two target allies.
 
 regulation:

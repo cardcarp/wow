@@ -2,9 +2,12 @@ name: Ellie Tinkervoid
 
 origin: battle-of-the-aspects-treasure-033
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, discard a card. When this ally leaves play, draw a card.
 
 regulation:

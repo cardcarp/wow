@@ -1,3 +1,5 @@
+oracle: xerandaal-shade-servitor-scourgewar-010
+
 index: '010'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"I bring with me the darkness from the depths of the abyss. Look for yourself."'
-
-oracle: xerandaal-shade-servitor-scourgewar-010
 
 set: Scourgewar

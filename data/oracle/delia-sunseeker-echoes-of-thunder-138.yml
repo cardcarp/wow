@@ -2,9 +2,11 @@ name: Delia Sunseeker
 
 origin: echoes-of-thunder-138
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

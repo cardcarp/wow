@@ -2,9 +2,11 @@ name: Darkwoods Trickster
 
 origin: into-the-mists-211
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

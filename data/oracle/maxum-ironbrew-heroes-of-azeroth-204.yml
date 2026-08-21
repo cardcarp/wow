@@ -2,9 +2,12 @@ name: Maxum Ironbrew
 
 origin: heroes-of-azeroth-204
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Maxum Ironbrew defends, he heals 2 damage from himself.
 
 regulation:

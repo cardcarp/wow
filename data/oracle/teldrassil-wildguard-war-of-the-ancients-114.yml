@@ -2,9 +2,12 @@ name: Teldrassil Wildguard
 
 origin: war-of-the-ancients-114
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 

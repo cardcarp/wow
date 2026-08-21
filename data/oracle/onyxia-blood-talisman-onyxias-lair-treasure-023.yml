@@ -2,9 +2,12 @@ name: Onyxia Blood Talisman
 
 origin: onyxias-lair-treasure-023
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Friendly allies have +2 health.
 
 regulation:

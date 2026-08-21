@@ -2,12 +2,15 @@ name: The Fel and the Furious
 
 origin: the-hunt-for-illidan-241
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If your hero has more damage than an opposing hero: Pay 1 to complete this quest. Reward : Draw a card.'
 
 regulation:

@@ -2,9 +2,11 @@ name: Klaxxi Swarmsting
 
 origin: echoes-of-thunder-192
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

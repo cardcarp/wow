@@ -2,9 +2,12 @@ name: Dastrin Bowman
 
 origin: throne-of-the-tides-102
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Pets you control have Long-Range .
 
 regulation:

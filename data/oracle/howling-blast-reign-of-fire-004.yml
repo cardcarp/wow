@@ -2,9 +2,12 @@ name: Howling Blast
 
 origin: reign-of-fire-004
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: X
 

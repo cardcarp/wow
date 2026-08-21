@@ -2,9 +2,12 @@ name: Mortal Delights
 
 origin: through-the-dark-portal-110
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : 1 , Put 3 damage on your hero → Draw a card.'
 
 regulation:

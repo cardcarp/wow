@@ -2,9 +2,12 @@ name: Bottled Void
 
 origin: throne-of-the-tides-238
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this item enters play, your hero deals 3 shadow damage to target opposing hero and heals 1 damage from itself for each damage dealt this way. On your turn: Exhaust a Warlock hero or ally you control and destroy this item → Your hero deals 3 shadow damage to target opposing hero and heals 1 damage from itself for each damage dealt this way.'
 
 regulation:

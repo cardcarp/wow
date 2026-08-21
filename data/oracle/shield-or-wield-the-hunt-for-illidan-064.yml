@@ -2,9 +2,12 @@ name: Shield or Wield
 
 origin: the-hunt-for-illidan-064
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

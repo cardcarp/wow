@@ -2,9 +2,12 @@ name: Mana Tide Totem
 
 origin: through-the-dark-portal-099
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Restoration Hero Required Totem Ongoing : At the start of your turn, draw a card for each hero and ally in your party.'
 
 regulation:

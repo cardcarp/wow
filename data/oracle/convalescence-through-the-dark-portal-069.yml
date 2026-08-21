@@ -2,9 +2,12 @@ name: Convalescence
 
 origin: through-the-dark-portal-069
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

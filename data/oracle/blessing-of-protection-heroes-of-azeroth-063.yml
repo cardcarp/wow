@@ -2,9 +2,12 @@ name: Blessing of Protection
 
 origin: heroes-of-azeroth-063
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

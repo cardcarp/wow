@@ -2,9 +2,12 @@ name: Reverse Polarity
 
 origin: caverns-of-time-treasure-014
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

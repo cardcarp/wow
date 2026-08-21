@@ -2,9 +2,12 @@ name: Hurdan the Everlasting
 
 origin: wrathgate-116
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -20,7 +23,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play a ability, if this ally is in your graveyard, you may pay 2 . If you do, put him into play.
 
 regulation:

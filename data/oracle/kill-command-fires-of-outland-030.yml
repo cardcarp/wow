@@ -2,9 +2,12 @@ name: Kill Command
 
 origin: fires-of-outland-030
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

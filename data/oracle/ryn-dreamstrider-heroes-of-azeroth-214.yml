@@ -2,9 +2,12 @@ name: Ryn Dreamstrider
 
 origin: heroes-of-azeroth-214
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive → Target hero or ally has +2 ATK while attacking this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Bottled Knowledge
 
 origin: throne-of-the-tides-232
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this item enters play, draw two cards, then discard a card. On your turn: Exhaust a Mage hero or ally you control and destroy this item → Draw two cards, then discard a card.'
 
 regulation:

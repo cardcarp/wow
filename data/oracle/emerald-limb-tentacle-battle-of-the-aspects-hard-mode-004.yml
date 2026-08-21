@@ -2,9 +2,12 @@ name: Emerald Limb Tentacle
 
 origin: battle-of-the-aspects-hard-mode-004
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 0
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally can't leave play except by fatal damage. At the start of Deathwing's turn, this ally heals 3 damage from Deathwing. When this ally is destroyed, the Raiders choose a hero, and it heals 15 damage from itself.
 
 regulation:

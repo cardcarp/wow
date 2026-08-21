@@ -1,3 +1,5 @@
+oracle: emmi-sprinklestrike-arena-grand-melee-001
+
 index: '001'
 
 rarity: Rare
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"The best part of being small is that everyone is a bigger target!"'
-
-oracle: emmi-sprinklestrike-arena-grand-melee-001
 
 set: Arena Grand Melee

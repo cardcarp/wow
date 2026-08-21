@@ -2,9 +2,12 @@ name: Hota the Bloodsoaked
 
 origin: march-of-the-legion-188
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Hota has Protector while an opponent has more allies than you.
 
 regulation:

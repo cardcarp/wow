@@ -2,9 +2,11 @@ name: Gate of the Blue Sapphire
 
 origin: scourgewar-battleground-003
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

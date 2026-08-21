@@ -2,9 +2,12 @@ name: Fire Nova Totem
 
 origin: through-the-dark-portal-093
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Totem Ongoing : At the start of your turn, destroy Fire Nova Totem. If you do, it deals 3 fire damage to each opposing hero and ally.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Azami'tal the Flamebender
 
 origin: twilight-of-the-dragons-129
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this ally enters play, he deals X fire damage to target hero or ally, where X is the cost of another ally or equipment you control. Stash : If an opposing non-hero card would be destroyed this turn, remove it from the game instead.'
 
 regulation:

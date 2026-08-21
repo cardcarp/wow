@@ -2,9 +2,12 @@ name: Hellforged Halberd
 
 origin: fields-of-honor-184
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to play Hellforged Halberd if an ally with diplomacy is in your party. This is also true for Escape Artist , Inspiring Presence , Shadowmeld , and Find Treasure .
 
 regulation:

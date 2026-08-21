@@ -2,9 +2,12 @@ name: Seva Shadowdancer
 
 origin: heroes-of-azeroth-216
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive x , → This ally heals X damage from target hero or ally.
 
 regulation:

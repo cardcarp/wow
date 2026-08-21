@@ -2,9 +2,12 @@ name: Bladestorm
 
 origin: crown-of-the-heavens-052
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Arms Talent Attach to target weapon you control. Ongoing : Attached weapon has +3 ATK. When this ability enters play, your hero deals melee damage to each opposing ally equal to attached weapon's ATK."
 
 regulation:

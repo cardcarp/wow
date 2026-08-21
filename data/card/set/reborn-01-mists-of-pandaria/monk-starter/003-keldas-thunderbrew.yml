@@ -1,3 +1,5 @@
+oracle: keldas-thunderbrew-monk-starter-003
+
 index: '003'
 
 rarity: Common
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: ''
-
-oracle: keldas-thunderbrew-monk-starter-003
 
 set: Monk Starter

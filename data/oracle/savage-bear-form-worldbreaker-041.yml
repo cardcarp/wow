@@ -2,9 +2,12 @@ name: Savage Bear Form
 
 origin: worldbreaker-041
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

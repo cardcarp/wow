@@ -2,9 +2,11 @@ name: Bloodmaul Slag Mines
 
 origin: warlords-of-the-iron-horde-272
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

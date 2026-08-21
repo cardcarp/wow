@@ -2,9 +2,12 @@ name: Triton Legplates
 
 origin: throne-of-the-tides-225
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: "At the end of each opponent's turn, if your hero was not dealt damage this turn, you may add a triton counter to this armor. On your turn: , Remove five triton counters from this armor → Your hero has Assault 10 , and combat damage that it would deal is unpreventable this turn."
 
 regulation:

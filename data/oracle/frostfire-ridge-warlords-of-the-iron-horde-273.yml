@@ -2,9 +2,11 @@ name: Frostfire Ridge
 
 origin: warlords-of-the-iron-horde-273
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

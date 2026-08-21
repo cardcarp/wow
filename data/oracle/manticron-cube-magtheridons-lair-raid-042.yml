@@ -2,14 +2,17 @@ name: Manticron Cube
 
 origin: magtheridons-lair-raid-042
 
-layout: standard
+layout: Standard
 
-category: Misc
+category:
+  - Misc
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust a hero or ally in your party → Attach this Cube to that character while that character remains exhausted. Only a raiding player can use this power, and only on his turn.
 
 regulation:

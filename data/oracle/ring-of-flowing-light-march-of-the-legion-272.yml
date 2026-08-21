@@ -2,9 +2,12 @@ name: Ring of Flowing Light
 
 origin: march-of-the-legion-272
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: ', Exhaust X of your equipment → Your hero heals X damage from itself.'
 
 regulation:

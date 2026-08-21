@@ -2,9 +2,11 @@ name: Resolute Cape
 
 origin: warlords-crafted-047
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

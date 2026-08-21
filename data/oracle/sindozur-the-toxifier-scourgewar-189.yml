@@ -2,9 +2,12 @@ name: Sindo'zur the Toxifier
 
 origin: scourgewar-189
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally deals combat damage to a hero, you may put a Poison from your hand into play attached to that hero.
 
 regulation:

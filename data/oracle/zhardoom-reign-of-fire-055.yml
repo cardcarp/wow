@@ -2,9 +2,12 @@ name: Zhar'doom
 
 origin: reign-of-fire-055
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Remove three ability cards in your graveyard from the game → This ally deals 3 shadow damage to target hero and heals 3 damage from your hero.
 
 regulation:

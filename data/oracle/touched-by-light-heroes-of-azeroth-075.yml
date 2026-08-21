@@ -2,9 +2,12 @@ name: Touched by Light
 
 origin: heroes-of-azeroth-075
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero heals 1 damage from target hero or ally. Draw a card.
 
 regulation:

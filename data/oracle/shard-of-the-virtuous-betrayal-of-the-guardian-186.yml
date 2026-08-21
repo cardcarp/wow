@@ -2,9 +2,12 @@ name: Shard of the Virtuous
 
 origin: betrayal-of-the-guardian-186
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, your hero heals 1 damage from itself for each ally you control. This weapon has +3 ATK while your hero is undamaged.
 
 regulation:

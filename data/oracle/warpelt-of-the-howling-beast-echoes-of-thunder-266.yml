@@ -2,9 +2,11 @@ name: Warpelt of the Howling Beast
 
 origin: echoes-of-thunder-266
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

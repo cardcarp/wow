@@ -2,17 +2,20 @@ name: Pidge Filthfinder
 
 origin: drums-of-war-005
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: "On your turn: 4 , Flip Pidge → Look at target player's hand and remove a card in it from the game."
 
 regulation:

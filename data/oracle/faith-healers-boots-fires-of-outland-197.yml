@@ -2,9 +2,12 @@ name: Faith Healers Boots
 
 origin: fires-of-outland-197
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Put an ally card from your graveyard into your hand. Use only if your hero healed damage this turn.
 
 regulation:

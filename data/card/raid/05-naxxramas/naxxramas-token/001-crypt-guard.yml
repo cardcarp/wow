@@ -1,3 +1,5 @@
+oracle: crypt-guard-naxxramas-token-001
+
 index: '001'
 
 rarity: Common
@@ -7,7 +9,5 @@ artist: Andrea Uderzo
 variation: []
 
 flavor:
-
-oracle: crypt-guard-naxxramas-token-001
 
 set: Naxxramas Token

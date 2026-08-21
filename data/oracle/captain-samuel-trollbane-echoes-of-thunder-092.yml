@@ -2,9 +2,11 @@ name: Captain Samuel Trollbane
 
 origin: echoes-of-thunder-092
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

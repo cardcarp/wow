@@ -2,9 +2,12 @@ name: Heartrazor
 
 origin: fields-of-honor-175
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Destroy Heartrazor → Target hero can't deal damage this turn.
 
 regulation:

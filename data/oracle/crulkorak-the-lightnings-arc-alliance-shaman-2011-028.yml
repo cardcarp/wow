@@ -2,9 +2,12 @@ name: Crul'korak, the Lightnings Arc
 
 origin: alliance-shaman-2011-028
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: allies you control have Assault X , where X is the ATK of this weapon.
 
 regulation:

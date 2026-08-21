@@ -2,9 +2,12 @@ name: Ornate Adamantium Breastplate
 
 origin: through-the-dark-portal-259
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 

@@ -2,9 +2,12 @@ name: Rage of the Elements
 
 origin: crown-of-the-heavens-043
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target ally. Ongoing : Attached ally has Assault 2 and Smash . When attached ally is destroyed, if it was a Monster, put this ability from the graveyard into its owner's hand."
 
 regulation:

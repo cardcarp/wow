@@ -2,17 +2,20 @@ name: Kileana the Inferno
 
 origin: fields-of-honor-015
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Kileana → Kileana deals 2 fire damage to each ally in your party and 1 fire damage to each other ally.
 
 regulation:

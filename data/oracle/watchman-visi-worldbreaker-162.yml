@@ -2,9 +2,12 @@ name: Watchman Visi
 
 origin: worldbreaker-162
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has Assault 2 while an opposing hero is face down.
 
 regulation:

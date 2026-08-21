@@ -2,9 +2,12 @@ name: Hakkar The Houndmaster
 
 origin: timewalkers-022
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule: []
 

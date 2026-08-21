@@ -2,9 +2,12 @@ name: Seths Graphite Fishing Pole
 
 origin: blood-of-gladiators-183
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Put the card tenth from the top of your deck into hand.
 
 regulation:

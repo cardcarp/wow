@@ -2,17 +2,20 @@ name: Seadog Nally
 
 origin: servants-of-the-betrayer-017
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Nally, destroy a friendly ally → Nally deals ranged damage to target ally equal to that friendly ally's ATK. Southsea Freebooters
 
 regulation:

@@ -2,9 +2,12 @@ name: Mottled Drake
 
 origin: worldbreaker-219
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you place a resource into your resource row face up, ready target Dragonkin ally you control. Your hero heals all damage from it. (Mounts can't attack or be attacked.)
 
 regulation:

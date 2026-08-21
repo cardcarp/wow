@@ -2,9 +2,12 @@ name: High Prophet Barim
 
 origin: crown-of-the-heavens-160
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Other allies you control have +ATK equal to Barim's ATK and + equal to Barim's .
 
 regulation:

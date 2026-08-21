@@ -2,9 +2,11 @@ name: Visage of the Doomed
 
 origin: echoes-of-thunder-264
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -1,6 +1,6 @@
 name: Betrayal of the Guardian
 
-type: set
+type: Standard
 
 index: '02'
 
@@ -8,6 +8,6 @@ subtotal: 202
 
 total: 202
 
-date_release: 2013-02
+date: 2013-02
 
 collection: Timewalker

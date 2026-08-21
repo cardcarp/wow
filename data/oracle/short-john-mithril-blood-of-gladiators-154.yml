@@ -2,9 +2,12 @@ name: Short John Mithril
 
 origin: blood-of-gladiators-154
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: When John enters play, search your deck for an equipment card and reveal it. If it's an Arena card, put it into hand. Otherwise, put it on top of your deck.
 
 regulation:

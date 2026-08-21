@@ -2,9 +2,12 @@ name: Emelia Darkhand
 
 origin: scourgewar-172
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector This ally can't attack unless an opponent controls more allies than you.
 
 regulation:

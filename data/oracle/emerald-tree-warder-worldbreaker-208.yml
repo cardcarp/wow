@@ -2,9 +2,12 @@ name: Emerald Tree Warder
 
 origin: worldbreaker-208
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a resource you control is turned face down, you may draw a card.
 
 regulation:

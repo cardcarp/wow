@@ -2,12 +2,15 @@ name: Its a Sabotage
 
 origin: the-deadmines-044
 
-layout: standard
+layout: Standard
 
-category: Achievement
+category:
+  - Achievement
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put Helix Gearbreaker from the top of the Dungeon Deck into the graveyard.
 
 regulation:

@@ -2,9 +2,12 @@ name: Flamesinger Zara
 
 origin: crown-of-the-heavens-083
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive
 
 regulation:

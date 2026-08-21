@@ -2,14 +2,17 @@ name: Detonate Mana
 
 origin: naxxramas-raid-027
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target raider discards three random cards. The Boss deals 2 shadow damage to that raider's hero for each card discarded that way.
 
 regulation:

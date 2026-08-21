@@ -2,9 +2,12 @@ name: Bristleblitz Striker
 
 origin: caverns-of-time-treasure-063
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Long-Range When you play an ability, this weapon has +1 ATK this turn.
 
 regulation:

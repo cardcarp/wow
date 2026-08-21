@@ -2,9 +2,11 @@ name: Venerable Jeong Jeong
 
 origin: echoes-of-thunder-239
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

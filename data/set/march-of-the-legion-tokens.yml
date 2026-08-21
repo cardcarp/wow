@@ -1,6 +1,6 @@
 name: March of the Legion Tokens
 
-type: token
+type: Token
 
 index: 01a
 
@@ -8,6 +8,6 @@ subtotal: 1
 
 total: 1
 
-date_release: 2007-11
+date: 2007-11
 
 collection: Burning Crusade

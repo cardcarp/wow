@@ -2,9 +2,12 @@ name: Idra'kess Mistress
 
 origin: throne-of-the-tides-205
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Frost
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally attacks, she deals 1 frost damage to each and hero and ally.
 
 regulation:

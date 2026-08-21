@@ -2,9 +2,11 @@ name: Cyrus Stealer Of Antiquties
 
 origin: echoes-of-thunder-135
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

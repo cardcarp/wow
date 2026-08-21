@@ -2,9 +2,12 @@ name: Belt of the Black Eagle
 
 origin: wrathgate-crafting-001
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , , Turn a resource you control face down → Look at the top two cards of your deck. Put one into your hand and the other into your graveyard.
 
 regulation:

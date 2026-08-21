@@ -1,6 +1,6 @@
 name: Wrathgate
 
-type: set
+type: Standard
 
 index: '02'
 
@@ -8,6 +8,6 @@ subtotal: 220
 
 total: 220
 
-date_release: 2010-05
+date: 2010-05
 
 collection: Scourgewar

@@ -2,9 +2,11 @@ name: Warsong Wolfrider
 
 origin: warlords-of-the-iron-horde-201
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Rain of Fire
 
 origin: heroes-of-azeroth-129
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the start of your turn, pay 4 or destroy Rain of Fire. At the end of your turn, your hero deals 1 fire damage to each opposing hero and ally.'
 
 regulation:

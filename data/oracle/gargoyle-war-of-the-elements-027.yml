@@ -2,9 +2,12 @@ name: Gargoyle
 
 origin: war-of-the-elements-027
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -18,7 +21,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Unholy Talent Ferocity At the end of your turn, if this ally is undamaged, put him into his owner's hand.
 
 regulation:

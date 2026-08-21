@@ -2,9 +2,11 @@ name: Wolf
 
 origin: misc-tokens-024
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

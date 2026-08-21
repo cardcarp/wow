@@ -2,17 +2,20 @@ name: Maloduri
 
 origin: scourgewar-015
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 30
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'If you control another Warrior: Flip Maloduri → Target hero or ally has -2 ATK this turn.'
 
 regulation:

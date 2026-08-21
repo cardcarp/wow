@@ -2,9 +2,11 @@ name: Greater Judgement
 
 origin: into-the-mists-060
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Loremaster Jimo
 
 origin: into-the-mists-172
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Metamorphosis
 
 origin: icecrown-079
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 cost: '7'
 
@@ -20,8 +23,8 @@ class:
 type: Master
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Demonology Hero Required At the start of your turn, put your starting hero back into play unless you destroy an ally you control. If you destroyed an ally this way, your hero deals shadow damage equal to that ally's cost to target hero or ally.
 
 regulation:

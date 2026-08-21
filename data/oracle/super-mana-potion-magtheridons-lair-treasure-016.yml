@@ -2,9 +2,12 @@ name: Super Mana Potion
 
 origin: magtheridons-lair-treasure-016
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -18,7 +21,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 4 , Destroy Super Mana Potion → Draw four cards.
 
 regulation:

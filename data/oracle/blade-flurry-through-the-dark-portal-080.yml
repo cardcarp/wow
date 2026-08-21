@@ -2,9 +2,12 @@ name: Blade Flurry
 
 origin: through-the-dark-portal-080
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Combat Hero Required Ongoing : When your hero deals combat damage with a weapon to an ally, you may have your hero deal that much melee damage to another target hero or ally.'
 
 regulation:

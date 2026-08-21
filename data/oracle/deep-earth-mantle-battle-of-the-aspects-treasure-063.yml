@@ -2,9 +2,12 @@ name: Deep Earth Mantle
 
 origin: battle-of-the-aspects-treasure-063
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ability, your hero heals damage from itself equal to that ability's cost.
 
 regulation:

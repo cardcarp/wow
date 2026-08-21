@@ -2,9 +2,11 @@ name: The Inner Sanctum
 
 origin: siege-of-orgrimmar-057
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

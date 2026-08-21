@@ -2,9 +2,12 @@ name: Etched Dragonbone Girdle
 
 origin: worldbreaker-221
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: ', Destroy a Dragonkin you control → Draw two cards.'
 
 regulation:

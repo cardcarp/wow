@@ -2,9 +2,12 @@ name: Thrall the Earth-Warder
 
 origin: tomb-of-the-forgotten-009
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 cost: '10'
 
@@ -17,8 +20,8 @@ combat: Nature
 type: Master
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Assault 5 , Mend 5 When Thrall deals damage to an opposing hero, put a 5 / 5 Earth Elemental ally token into play with Protector .
 
 regulation:

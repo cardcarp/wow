@@ -1,24 +1,25 @@
 name: Sylvanas
 
-credit: Official Product
+format:
+  - Starter
 
-category: Preconstructed
+group: champion
 
-facet:
+theme:
   - Champion
   - Starter
 
-collection: champion
+complexity:
+
+division:
 
 highlight: sylvanas-001
 
-description: Sylvanas Preconstructed
+tagline: Sylvanas Preconstructed
 
-context:
+description:
   - title: ''
     body: Introduction to the Sylvanas
-
-total: 61
 
 list:
   hero:

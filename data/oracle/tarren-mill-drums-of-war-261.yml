@@ -2,14 +2,17 @@ name: Tarren Mill
 
 origin: drums-of-war-261
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 1 , → When target ally in your party next deals damage to an ally with higher cost this turn, draw a card.'
 
 regulation:

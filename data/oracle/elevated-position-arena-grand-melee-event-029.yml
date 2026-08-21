@@ -2,12 +2,15 @@ name: Elevated Position
 
 origin: arena-grand-melee-event-029
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Players skip their turns unless they are standing up. When a player sits down on his turn, end that turn.'
 
 regulation:

@@ -2,9 +2,11 @@ name: Style and Arms
 
 origin: into-the-mists-111
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

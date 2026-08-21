@@ -2,14 +2,17 @@ name: Bash and Slash
 
 origin: crown-of-the-heavens-069
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Empower Rogue : If you control a Rogue hero or ally, target ally has +3 ATK and Stealth this turn. Empower Warrior : If you control a Warrior hero or ally, if target ally would deal combat damage this turn, it deals double that much instead.'
 
 regulation:

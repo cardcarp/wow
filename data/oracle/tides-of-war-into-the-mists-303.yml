@@ -2,9 +2,11 @@ name: Tides of War
 
 origin: into-the-mists-303
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

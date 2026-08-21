@@ -2,9 +2,11 @@ name: Plunderer Zillo
 
 origin: into-the-mists-141
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

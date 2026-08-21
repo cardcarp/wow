@@ -2,9 +2,12 @@ name: Glaive of the Pit
 
 origin: magtheridons-lair-treasure-020
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '7'
 
@@ -14,7 +17,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing heroes have -5 health.
 
 regulation:

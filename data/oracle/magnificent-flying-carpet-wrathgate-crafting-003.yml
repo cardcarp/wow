@@ -2,9 +2,12 @@ name: Magnificent Flying Carpet
 
 origin: wrathgate-crafting-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Tailoring Hero Required You can control any number of locations. When you place a resource face up, you may ready all locations you control.
 
 regulation:

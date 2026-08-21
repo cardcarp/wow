@@ -2,9 +2,12 @@ name: Charkov
 
 origin: fields-of-honor-123
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Will of the Forsaken When Charkov enters play, each player puts an ally from his party into its owner's hand.
 
 regulation:

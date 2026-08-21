@@ -2,9 +2,12 @@ name: Vindron the Impure
 
 origin: scourgewar-197
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally attacks, he may deal shadow damage to target hero or ally equal to the number of Curses you control.
 
 regulation:

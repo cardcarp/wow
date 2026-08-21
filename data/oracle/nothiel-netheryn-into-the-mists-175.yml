@@ -2,9 +2,11 @@ name: Nothiel Netheryn
 
 origin: into-the-mists-175
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Emerald Emissary
 
 origin: worldbreaker-205
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to complete quests for each Druid and Hunter you control.
 
 regulation:

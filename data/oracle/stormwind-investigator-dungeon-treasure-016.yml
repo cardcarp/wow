@@ -2,9 +2,12 @@ name: Stormwind Investigator
 
 origin: dungeon-treasure-016
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may look at the top card of target player's deck. You may put that card into the graveyard.
 
 regulation:

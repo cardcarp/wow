@@ -2,20 +2,23 @@ name: Jasmia, Natures Chosen
 
 origin: twilight-of-the-dragons-004
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Jasmia face down.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: When an ally enters play under your control, Jasmia may heal all damage from another target ally.
 
 regulation:

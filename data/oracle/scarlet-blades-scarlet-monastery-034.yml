@@ -2,14 +2,17 @@ name: Scarlet Blades
 
 origin: scarlet-monastery-034
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Mograine deals combat damage to a Raiding hero this turn, he also deals that much melee damage to each ally in that hero's party.
 
 regulation:

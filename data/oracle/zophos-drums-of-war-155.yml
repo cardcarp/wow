@@ -2,9 +2,12 @@ name: Zophos
 
 origin: drums-of-war-155
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When Zophos defends, he deals 3 unpreventable holy damage to target attacking ally.
 
 regulation:

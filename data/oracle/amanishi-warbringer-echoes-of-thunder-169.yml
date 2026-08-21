@@ -2,9 +2,11 @@ name: Amanishi Warbringer
 
 origin: echoes-of-thunder-169
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

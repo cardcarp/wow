@@ -2,9 +2,12 @@ name: Barov Peasant Caller
 
 origin: heroes-of-azeroth-304
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , , Destroy Barov Peasant Caller → Put three Peasant ally tokens into play with 1 ATK / 1 health, ferocity, and “At end of turn, destroy this ally.”
 
 regulation:

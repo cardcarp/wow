@@ -2,9 +2,12 @@ name: Shiverspine
 
 origin: tomb-of-the-forgotten-146
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Holy
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this or another Murloc ally you control deals damage to an opposing hero, this ally heals that much damage from your hero.
 
 regulation:

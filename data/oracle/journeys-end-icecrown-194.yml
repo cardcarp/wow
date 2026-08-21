@@ -2,9 +2,12 @@ name: Journeys End
 
 origin: icecrown-194
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Hero : 1 , , Destroy a resource you control → Druids you control have Assault 2 and Stealth this turn. Hero : 1 , , Destroy a resource you control → Hunters you control have Assault 2 and Long-Range this turn.'
 
 regulation:

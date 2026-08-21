@@ -2,9 +2,12 @@ name: Phoenix
 
 origin: reign-of-fire-025
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, it deals 1 fire damage to each opposing hero and ally. When your hero deals fire ( ) damage while this ally is in your graveyard, you may put this ally from your graveyard into your hand.
 
 regulation:

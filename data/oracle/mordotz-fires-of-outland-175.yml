@@ -2,9 +2,12 @@ name: Mordotz
 
 origin: fires-of-outland-175
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Mordotz has +1 ATK and +1 health for each ability you control attached to opposing heroes and allies.
 
 regulation:

@@ -2,9 +2,12 @@ name: Mana-Etched Pantaloons
 
 origin: fires-of-outland-199
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Draw a card. Use only if you have seven or more cards in your hand.
 
 regulation:

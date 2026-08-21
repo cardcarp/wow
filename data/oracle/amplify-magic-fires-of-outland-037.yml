@@ -2,9 +2,12 @@ name: Amplify Magic
 
 origin: fires-of-outland-037
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

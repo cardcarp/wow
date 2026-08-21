@@ -2,9 +2,11 @@ name: Glimmering Mithril Insignia
 
 origin: warlords-crafted-063
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

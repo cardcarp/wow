@@ -2,9 +2,12 @@ name: Blustering Winds
 
 origin: wrathgate-030
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

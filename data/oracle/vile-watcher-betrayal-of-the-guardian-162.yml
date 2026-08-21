@@ -2,9 +2,12 @@ name: Vile Watcher
 
 origin: betrayal-of-the-guardian-162
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may look at the top card of each opponent's deck.
 
 regulation:

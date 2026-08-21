@@ -2,9 +2,12 @@ name: Scepter of Azshara
 
 origin: war-of-the-ancients-228
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may choose a or race and destroy this weapon. If you do, destroy all allies not of that race.
 
 regulation:

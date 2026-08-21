@@ -2,20 +2,23 @@ name: Kavar the Bloodthirsty
 
 origin: twilight-of-the-dragons-005
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Kavar face down.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: At the start of your turn, you may exhaust target card.
 
 regulation:

@@ -2,9 +2,11 @@ name: Gooey Shaling
 
 origin: into-the-mists-216
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

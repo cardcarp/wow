@@ -2,9 +2,12 @@ name: Feedback
 
 origin: reign-of-fire-045
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Elemental Talent Ongoing : When you play an ability, reveal the top card of your deck. If it has the same cost as that ability, you may put it into your hand.'
 
 regulation:

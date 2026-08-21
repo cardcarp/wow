@@ -1,3 +1,5 @@
+oracle: onyxia-onyxias-lair-raid-001
+
 index: '002'
 
 rarity: Rare
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor:
-
-oracle: onyxia-onyxias-lair-raid-001
 
 set: Onyxia's Lair Raid

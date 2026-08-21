@@ -2,9 +2,12 @@ name: Will of Cenarius
 
 origin: battle-of-the-aspects-treasure-007
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each player puts the top card of his deck into his resource row face down and exhausted.
 
 regulation:

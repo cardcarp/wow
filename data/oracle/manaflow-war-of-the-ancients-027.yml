@@ -2,9 +2,12 @@ name: Manaflow
 
 origin: war-of-the-ancients-027
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Draw cards equal to the highest cost among allies you control.
 
 regulation:

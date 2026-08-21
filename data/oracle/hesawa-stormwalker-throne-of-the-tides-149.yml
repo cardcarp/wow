@@ -2,9 +2,12 @@ name: Hesawa Stormwalker
 
 origin: throne-of-the-tides-149
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 

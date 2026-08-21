@@ -2,9 +2,12 @@ name: Merciless Gladiators Crossbow of the Phoenix
 
 origin: blood-of-gladiators-180
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Merciless Gladiator's Crossbow of the Phoenix has +X ATK, where X is the combined ATK of your Pets. When you strike with this weapon, your hero has Long-Range this combat.
 
 regulation:

@@ -2,9 +2,11 @@ name: Pandaren
 
 origin: misc-tokens-022
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

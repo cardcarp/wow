@@ -2,9 +2,12 @@ name: Field Commander Olinnae
 
 origin: through-the-dark-portal-163
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector All other allies in your party have Protector .
 
 regulation:

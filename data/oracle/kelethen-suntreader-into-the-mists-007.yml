@@ -2,9 +2,11 @@ name: Kelethen Suntreader
 
 origin: into-the-mists-007
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,12 +2,15 @@ name: Black Heart of Flame
 
 origin: crown-of-the-heavens-194
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 1 to complete this quest. Reward : Target hero or ally has Smash this turn.'
 
 regulation:

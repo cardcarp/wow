@@ -2,17 +2,20 @@ name: Keward the Ravager
 
 origin: fields-of-honor-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 30
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Keward → Opposing allies have -1 health while Keward is defending this turn.
 
 regulation:

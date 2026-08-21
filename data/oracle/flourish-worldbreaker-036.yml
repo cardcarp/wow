@@ -2,9 +2,12 @@ name: Flourish
 
 origin: worldbreaker-036
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Reveal the top card of your deck. You may place it into your resource row exhausted as an additional resource. Stash : Your hero heals 2 damage from itself.'
 
 regulation:

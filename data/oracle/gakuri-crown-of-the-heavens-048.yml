@@ -2,9 +2,12 @@ name: Gakuri
 
 origin: crown-of-the-heavens-048
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: ', Destroy another Monster or Demon ally you control → This ally deals 4 fire damage to target hero or ally.'
 
 regulation:

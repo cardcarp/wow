@@ -2,9 +2,11 @@ name: Sageblade
 
 origin: warlords-crafted-094
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

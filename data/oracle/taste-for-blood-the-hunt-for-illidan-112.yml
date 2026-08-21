@@ -2,9 +2,12 @@ name: Taste for Blood
 
 origin: the-hunt-for-illidan-112
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

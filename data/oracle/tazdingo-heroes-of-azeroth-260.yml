@@ -2,9 +2,12 @@ name: Taz'dingo
 
 origin: heroes-of-azeroth-260
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Taz'dingo enters play, he deals 1 ranged damage to target hero or ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Roon Plainswalker
 
 origin: the-hunt-for-illidan-167
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Nature Resistance
 
 regulation:

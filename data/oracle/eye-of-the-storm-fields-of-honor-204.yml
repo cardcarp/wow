@@ -2,12 +2,15 @@ name: Eye of the Storm
 
 origin: fields-of-honor-204
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play a card, add an honor counter. , Remove four honor counters → Exhaust up to four target heroes and/or allies.
 
 regulation:

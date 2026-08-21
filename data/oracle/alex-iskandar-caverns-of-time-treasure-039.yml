@@ -2,9 +2,12 @@ name: Alex Iskandar
 
 origin: caverns-of-time-treasure-039
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Unity : While you control three or more Human allies, opposing allies have -1 ATK.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Mind Freeze
 
 origin: death-knight-starter-010
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

@@ -2,9 +2,11 @@ name: Shadow Council Warlock
 
 origin: warlords-of-the-iron-horde-178
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

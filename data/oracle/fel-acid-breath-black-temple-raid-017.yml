@@ -2,9 +2,12 @@ name: Fel-Acid Breath
 
 origin: black-temple-raid-017
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required Target opponent chooses three allies in his party, in order. Your hero deals 3, 2, and 1 nature damage to them, respectively.
 
 regulation:

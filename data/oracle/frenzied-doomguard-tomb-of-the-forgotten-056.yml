@@ -2,9 +2,12 @@ name: Frenzied Doomguard
 
 origin: tomb-of-the-forgotten-056
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Smash If this ally would deal Smash damage, it deals that much +2 instead.
 
 regulation:

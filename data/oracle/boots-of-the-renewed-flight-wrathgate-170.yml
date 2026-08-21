@@ -2,9 +2,12 @@ name: Boots of the Renewed Flight
 
 origin: wrathgate-170
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor prevents damage, you may pay 4 . If you do, draw a card.
 
 regulation:

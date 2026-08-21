@@ -2,9 +2,12 @@ name: Choker of Vile Intent
 
 origin: servants-of-the-betrayer-229
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may destroy an ability, ally, or equipment you control. If you do, each opponent destroys a card of that kind he controls.
 
 regulation:

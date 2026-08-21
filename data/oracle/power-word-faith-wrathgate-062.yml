@@ -2,9 +2,12 @@ name: 'Power Word: Faith'
 
 origin: wrathgate-062
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

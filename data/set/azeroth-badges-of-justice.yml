@@ -1,6 +1,6 @@
 name: Azeroth Badges of Justice
 
-type: badge
+type: Badge
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 4
 
 total: 4
 
-date_release: 2006-10
+date: 2006-10
 
 collection: Azeroth

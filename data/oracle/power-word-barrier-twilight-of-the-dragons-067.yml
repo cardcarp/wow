@@ -2,9 +2,12 @@ name: 'Power Word: Barrier'
 
 origin: twilight-of-the-dragons-067
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

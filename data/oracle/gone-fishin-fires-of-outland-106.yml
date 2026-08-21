@@ -2,14 +2,17 @@ name: Gone Fishin'
 
 origin: fires-of-outland-106
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : 2 , → Draw three cards and skip your next turn. Use only on your turn.'
 
 regulation:

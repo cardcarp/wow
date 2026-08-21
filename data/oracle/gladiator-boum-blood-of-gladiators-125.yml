@@ -2,9 +2,12 @@ name: Gladiator Boum
 
 origin: blood-of-gladiators-125
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -19,7 +22,7 @@ faction: Horde
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: Arena allies in your party have Ferocity .
 
 regulation:

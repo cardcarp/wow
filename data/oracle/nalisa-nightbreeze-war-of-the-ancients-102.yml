@@ -2,9 +2,12 @@ name: Nalisa Nightbreeze
 
 origin: war-of-the-ancients-102
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 

@@ -2,17 +2,20 @@ name: Sen'zir Beastwalker
 
 origin: heroes-of-azeroth-014
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Sen'zir Beastwalker → Put a Pet card from your graveyard into your hand.
 
 regulation:

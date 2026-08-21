@@ -2,9 +2,12 @@ name: Lieutenant Horatio Laine
 
 origin: dungeon-treasure-013
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, target opponent reveals the top card of his deck. If it's an ally, remove it from the game. If it's a weapon, you may put it into play under your control.
 
 regulation:

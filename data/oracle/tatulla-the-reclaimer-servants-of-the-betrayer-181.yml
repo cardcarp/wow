@@ -2,9 +2,12 @@ name: Tatulla the Reclaimer
 
 origin: servants-of-the-betrayer-181
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Tatulla enters play, target player destroys an ability or equipment he controls.
 
 regulation:

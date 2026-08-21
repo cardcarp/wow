@@ -2,9 +2,12 @@ name: Bella Wilder
 
 origin: worldbreaker-135
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has Ferocity while you control another card.
 
 regulation:

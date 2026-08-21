@@ -2,9 +2,12 @@ name: Scorching Totem
 
 origin: battle-of-the-aspects-treasure-024
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

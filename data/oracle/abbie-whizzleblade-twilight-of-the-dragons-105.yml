@@ -2,9 +2,12 @@ name: Abbie Whizzleblade
 
 origin: twilight-of-the-dragons-105
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, target hero or ally has +1 ATK and a second target hero or ally has -1 ATK this turn.
 
 regulation:

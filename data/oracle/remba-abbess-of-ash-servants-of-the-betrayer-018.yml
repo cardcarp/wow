@@ -2,17 +2,20 @@ name: Remba, Abbess of Ash
 
 origin: servants-of-the-betrayer-018
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 26
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 , Flip Remba → Gain control of target ally with an attachment. Use only on your turn. Shadowforge
 
 regulation:

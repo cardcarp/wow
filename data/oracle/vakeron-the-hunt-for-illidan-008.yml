@@ -2,17 +2,20 @@ name: Vakeron
 
 origin: the-hunt-for-illidan-008
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 7 , Flip Vakeron → Vakeron deals 2 unpreventable holy damage to each opposing hero and ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Scryers Bloodgem
 
 origin: the-hunt-for-illidan-221
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scryer Reputation Heroes and allies in your party with sabotage also have Stealth .
 
 regulation:

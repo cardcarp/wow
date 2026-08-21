@@ -2,9 +2,12 @@ name: Shroud of the Nethermancer
 
 origin: crown-of-the-heavens-051
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to your hero. Ongoing : Attached hero has: → Your hero deals 2 shadow damage to target hero and heals 2 damage from itself. → Search your deck for a Demon, reveal it, and put it into your hand. → Your hero deals 1 fire damage to each ally.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Riveted Abomination Leggings
 
 origin: naxxramas-treasure-017
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Heroes and allies you control have Assault 2 and Conspicuous .
 
 regulation:

@@ -2,9 +2,11 @@ name: '"First You Take My WILL, Then My HAND, Now This!"'
 
 origin: arena-grand-melee-event-035
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

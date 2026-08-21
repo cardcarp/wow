@@ -2,9 +2,12 @@ name: Gauntlets of the Skullsplitter
 
 origin: march-of-the-legion-262
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an ally in your party attacks, you may exhaust target armor.
 
 regulation:

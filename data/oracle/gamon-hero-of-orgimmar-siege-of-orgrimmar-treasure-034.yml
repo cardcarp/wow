@@ -2,9 +2,11 @@ name: Gamon Hero Of Orgimmar
 
 origin: siege-of-orgrimmar-treasure-034
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

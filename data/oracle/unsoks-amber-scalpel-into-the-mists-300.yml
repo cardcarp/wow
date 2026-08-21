@@ -2,9 +2,11 @@ name: Unsoks Amber Scalpel
 
 origin: into-the-mists-300
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

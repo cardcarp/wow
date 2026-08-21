@@ -2,9 +2,12 @@ name: Eviscerate
 
 origin: heroes-of-azeroth-097
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

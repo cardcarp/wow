@@ -2,9 +2,12 @@ name: Collidus the Warp-Watcher
 
 origin: the-hunt-for-illidan-198
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Shadow
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Collidus enters play, put each other ally into its owner's hand.
 
 regulation:

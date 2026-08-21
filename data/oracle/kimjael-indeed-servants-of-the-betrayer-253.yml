@@ -2,12 +2,15 @@ name: Kim'jael Indeed!
 
 origin: servants-of-the-betrayer-253
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 1 to complete this quest. Reward : Reveal the top five cards of your deck. Put a revealed card with the same name as a card in play you control into your hand and the rest on the bottom of your deck.'
 
 regulation:

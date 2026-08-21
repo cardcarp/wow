@@ -2,9 +2,12 @@ name: Jadefire Satyr
 
 origin: crown-of-the-heavens-144
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: While an opposing hero has 15 or more damage on it, this ally has Assault 2 .
 
 regulation:

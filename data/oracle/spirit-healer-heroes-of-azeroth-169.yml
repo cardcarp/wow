@@ -2,14 +2,17 @@ name: Spirit Healer
 
 origin: heroes-of-azeroth-169
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '8'
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : At the end of each player's turn, that player may put an ally card from his graveyard into play with damage on it equal to its health minus 1."
 
 regulation:

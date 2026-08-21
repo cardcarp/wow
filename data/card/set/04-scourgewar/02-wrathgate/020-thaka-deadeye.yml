@@ -1,3 +1,5 @@
+oracle: thaka-deadeye-wrathgate-020
+
 index: '020'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"Patience is key for a successful shot, but you must be quick to take it when the chance presents itself."'
-
-oracle: thaka-deadeye-wrathgate-020
 
 set: Wrathgate

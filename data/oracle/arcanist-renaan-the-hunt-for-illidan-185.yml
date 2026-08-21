@@ -2,9 +2,12 @@ name: Arcanist Renaan
 
 origin: the-hunt-for-illidan-185
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Arcane
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scryer Reputation If you would draw a card, you may draw it from the bottom of your deck instead.
 
 regulation:

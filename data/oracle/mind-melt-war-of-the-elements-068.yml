@@ -2,9 +2,12 @@ name: Mind Melt
 
 origin: war-of-the-elements-068
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Shadow Talent Your hero deals 3 shadow damage to target hero or ally. That character's controller discards a card for each damage dealt this way.
 
 regulation:

@@ -2,9 +2,12 @@ name: Ritual Sacrifice
 
 origin: through-the-dark-portal-112
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Destroy an ally in your party → Your hero deals 1 shadow damage to target hero or ally.'
 
 regulation:

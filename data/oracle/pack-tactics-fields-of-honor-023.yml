@@ -2,9 +2,12 @@ name: Pack Tactics
 
 origin: fields-of-honor-023
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

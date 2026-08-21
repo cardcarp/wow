@@ -2,9 +2,12 @@ name: Thorns
 
 origin: through-the-dark-portal-028
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

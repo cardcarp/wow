@@ -2,9 +2,11 @@ name: Token Foul Slime
 
 origin: siege-of-orgrimmar-tokens-004
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Onslaught Girdle
 
 origin: through-the-dark-portal-258
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust one of your armor → Your weapons have +1 ATK this turn.
 
 regulation:

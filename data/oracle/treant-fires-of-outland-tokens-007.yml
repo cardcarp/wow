@@ -2,9 +2,11 @@ name: Treant
 
 origin: fires-of-outland-tokens-007
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

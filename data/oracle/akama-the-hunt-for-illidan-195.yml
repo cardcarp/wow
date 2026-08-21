@@ -2,9 +2,12 @@ name: Akama
 
 origin: the-hunt-for-illidan-195
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -15,7 +18,7 @@ health: 9
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Loyal Hero Required Protector , Stealth Other allies in your party are Untargetable . Traitor cards can't be played.
 
 regulation:

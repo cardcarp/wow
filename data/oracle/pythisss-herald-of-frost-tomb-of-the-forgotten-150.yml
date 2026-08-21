@@ -2,9 +2,12 @@ name: Pythisss, Herald of Frost
 
 origin: tomb-of-the-forgotten-150
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Frost
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Empower Mage : When this ally enters play, if you control another Mage hero or ally, you may draw two cards.'
 
 regulation:

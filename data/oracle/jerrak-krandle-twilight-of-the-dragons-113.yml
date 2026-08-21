@@ -2,9 +2,12 @@ name: Jerrak Krandle
 
 origin: twilight-of-the-dragons-113
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Protector Stash : Add an heirloom counter to target equipment you control.'
 
 regulation:

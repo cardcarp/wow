@@ -2,9 +2,12 @@ name: Twilight Corruptor
 
 origin: twilight-of-the-dragons-161
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Shadow
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, if an ability, ally, or equipment was destroyed this turn, this ally may deal 2 shadow damage to each opposing hero and ally.
 
 regulation:

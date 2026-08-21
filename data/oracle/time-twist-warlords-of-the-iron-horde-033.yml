@@ -2,9 +2,11 @@ name: Time Twist
 
 origin: warlords-of-the-iron-horde-033
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

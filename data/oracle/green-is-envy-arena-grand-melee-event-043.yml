@@ -2,12 +2,15 @@ name: Green Is Envy
 
 origin: arena-grand-melee-event-043
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy all opposing rare or epic cards.
 
 regulation:

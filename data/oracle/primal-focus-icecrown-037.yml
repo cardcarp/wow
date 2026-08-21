@@ -2,9 +2,12 @@ name: Primal Focus
 
 origin: icecrown-037
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the end of your turn, ready up to two resources you control.'
 
 regulation:

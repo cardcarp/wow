@@ -2,9 +2,12 @@ name: Sunfury Bow of the Phoenix
 
 origin: fires-of-outland-222
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with Sunfury Bow of the Phoenix, your hero has Long-Range this combat. → Your hero deals 1 ranged damage to target hero.
 
 regulation:

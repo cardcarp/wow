@@ -2,9 +2,12 @@ name: Empty the Stables
 
 origin: drums-of-war-027
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Search your deck for up to three Pet cards with different names, reveal them, and put them into hand.
 
 regulation:

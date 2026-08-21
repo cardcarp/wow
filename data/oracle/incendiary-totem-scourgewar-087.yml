@@ -2,9 +2,12 @@ name: Incendiary Totem
 
 origin: scourgewar-087
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the start of your turn, this ability deals 3 fire damage to target hero or ally. Death Rattle : Your hero deals 3 fire damage to target hero or ally.'
 
 regulation:

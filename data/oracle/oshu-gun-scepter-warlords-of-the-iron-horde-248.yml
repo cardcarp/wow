@@ -2,9 +2,11 @@ name: Oshu Gun Scepter
 
 origin: warlords-of-the-iron-horde-248
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

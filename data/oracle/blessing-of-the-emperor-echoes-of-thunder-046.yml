@@ -2,9 +2,11 @@ name: Blessing of the Emperor
 
 origin: echoes-of-thunder-046
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

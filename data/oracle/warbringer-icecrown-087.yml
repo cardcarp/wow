@@ -2,9 +2,12 @@ name: Warbringer
 
 origin: icecrown-087
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Protection Hero Required Ongoing : → abilities and equipment in your hand are instant this turn until you play a card.'
 
 regulation:

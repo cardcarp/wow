@@ -2,9 +2,11 @@ name: Titanic Strike
 
 origin: echoes-of-thunder-083
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

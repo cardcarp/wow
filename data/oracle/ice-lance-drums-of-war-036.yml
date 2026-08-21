@@ -2,9 +2,12 @@ name: Ice Lance
 
 origin: drums-of-war-036
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 2 frost damage to target ally, or 6 if that ally is ready.
 
 regulation:

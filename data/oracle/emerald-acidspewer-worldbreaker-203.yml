@@ -2,9 +2,12 @@ name: Emerald Acidspewer
 
 origin: worldbreaker-203
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a resource you control is turned face down, you may have target player shuffle his graveyard into his deck.
 
 regulation:

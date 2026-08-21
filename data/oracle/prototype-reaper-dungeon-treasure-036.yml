@@ -2,9 +2,12 @@ name: Prototype Reaper
 
 origin: dungeon-treasure-036
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, leaves play, exhausts, or readies, it may deal 1 melee damage to target ally.
 
 regulation:

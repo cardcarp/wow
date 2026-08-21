@@ -2,9 +2,12 @@ name: Defensive Breach
 
 origin: fires-of-outland-103
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 

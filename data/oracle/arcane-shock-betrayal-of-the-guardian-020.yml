@@ -2,9 +2,12 @@ name: Arcane Shock
 
 origin: betrayal-of-the-guardian-020
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

@@ -2,9 +2,12 @@ name: Gift of the Pious
 
 origin: wrathgate-095
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -13,7 +16,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Allies you control have +1 / +1 for each Druid and Paladin you control.'
 
 regulation:

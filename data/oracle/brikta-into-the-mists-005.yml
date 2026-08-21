@@ -2,9 +2,11 @@ name: Brikta
 
 origin: into-the-mists-005
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

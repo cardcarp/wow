@@ -2,18 +2,21 @@ name: Warlord Grok'thol
 
 origin: crown-of-the-heavens-004
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 type: Monster
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 8 → Flip Grok'thol face fown. You pay 8 less to flip Grok'thol if you control at least two allies each with 6 or more ATK.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: "Assault 3 , Smash Deckbuilding: You can't put or cards in your deck."
 
 regulation:

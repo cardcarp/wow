@@ -2,9 +2,12 @@ name: Fear and Loathing
 
 origin: crown-of-the-heavens-070
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

@@ -2,17 +2,20 @@ name: Velindra Sepulchre
 
 origin: drums-of-war-018
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 1 , Flip Velindra → This turn, target ally can't attack or protect, loses and can't have powers, and is also a Sheep.
 
 regulation:

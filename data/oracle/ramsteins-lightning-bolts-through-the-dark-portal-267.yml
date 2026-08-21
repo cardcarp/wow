@@ -2,9 +2,12 @@ name: Ramsteins Lightning Bolts
 
 origin: through-the-dark-portal-267
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , Destroy Ramstein's Lightning Bolts → Your hero deals 1 nature damage to each hero and ally.
 
 regulation:

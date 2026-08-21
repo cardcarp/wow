@@ -2,9 +2,12 @@ name: Conqueror Tristos
 
 origin: icecrown-128
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has Assault 2 and Long-Range while attacking Mages.
 
 regulation:

@@ -2,9 +2,12 @@ name: Salvation
 
 origin: servants-of-the-betrayer-084
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

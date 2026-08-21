@@ -2,9 +2,12 @@ name: Shadowstep
 
 origin: the-hunt-for-illidan-083
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

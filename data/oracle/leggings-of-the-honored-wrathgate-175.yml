@@ -2,9 +2,12 @@ name: Leggings of the Honored
 
 origin: wrathgate-175
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: This armor has +4 if an ally entered a graveyard this turn.
 
 regulation:

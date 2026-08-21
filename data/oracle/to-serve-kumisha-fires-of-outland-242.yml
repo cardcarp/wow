@@ -2,12 +2,15 @@ name: To Serve Kum'isha
 
 origin: fires-of-outland-242
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 2 to complete this quest. Reward : Reveal the top three cards of your deck. Put a revealed card with cost 3 or more into your hand and the rest on the bottom of your deck.'
 
 regulation:

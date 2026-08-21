@@ -2,17 +2,20 @@ name: Urrth
 
 origin: march-of-the-legion-017
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Urrth → Draw a card for each Totem you have.
 
 regulation:

@@ -2,9 +2,12 @@ name: '"Gigantique" Bag'
 
 origin: wrathgate-180
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: You have no maximum hand size. , Pay 1 for each card in your hand → Draw a card.
 
 regulation:

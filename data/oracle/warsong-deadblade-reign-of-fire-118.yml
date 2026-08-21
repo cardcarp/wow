@@ -2,9 +2,12 @@ name: Warsong Deadblade
 
 origin: reign-of-fire-118
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 

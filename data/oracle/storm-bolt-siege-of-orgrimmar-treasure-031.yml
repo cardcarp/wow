@@ -2,9 +2,11 @@ name: Storm Bolt
 
 origin: siege-of-orgrimmar-treasure-031
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

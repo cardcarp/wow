@@ -2,9 +2,12 @@ name: Ansem, Timewalker Deathblade
 
 origin: war-of-the-ancients-083
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector This ally has +4 / +3 while an opponent controls a or Monster hero.
 
 regulation:

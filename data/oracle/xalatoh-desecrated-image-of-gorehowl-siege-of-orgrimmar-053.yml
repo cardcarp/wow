@@ -2,9 +2,11 @@ name: Xal'atoh, Desecrated Image of Gorehowl
 
 origin: siege-of-orgrimmar-053
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

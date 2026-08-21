@@ -2,9 +2,12 @@ name: Arcanist Bartis
 
 origin: the-hunt-for-illidan-184
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Scryer Reputation Sabotage: Player When Bartis sabotages a player, that player discards a card or destroys an ally in his party.'
 
 regulation:

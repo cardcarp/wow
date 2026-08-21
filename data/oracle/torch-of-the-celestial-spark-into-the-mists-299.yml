@@ -2,9 +2,11 @@ name: Torch of the Celestial Spark
 
 origin: into-the-mists-299
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

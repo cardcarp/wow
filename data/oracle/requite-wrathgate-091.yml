@@ -2,9 +2,12 @@ name: Requite
 
 origin: wrathgate-091
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 4 melee damage to target damaged hero or ally.
 
 regulation:

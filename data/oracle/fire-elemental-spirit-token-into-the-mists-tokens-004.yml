@@ -2,9 +2,11 @@ name: Fire Elemental Spirit Token
 
 origin: into-the-mists-tokens-004
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

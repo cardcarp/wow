@@ -2,9 +2,11 @@ name: Void Shift
 
 origin: into-the-mists-070
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

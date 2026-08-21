@@ -2,9 +2,12 @@ name: Zoids Firelit Greatsword
 
 origin: tomb-of-the-forgotten-195
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust an ally you control → Add a charge counter to this weapon. While this weapon has six or more charge counters on it, it has +6 ATK.
 
 regulation:

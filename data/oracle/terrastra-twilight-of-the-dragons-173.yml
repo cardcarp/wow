@@ -2,9 +2,12 @@ name: Terrastra
 
 origin: twilight-of-the-dragons-173
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 9
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this or another card you control is destroyed, your hero has +1 ATK this turn. allies you own everywhere have "Stash: Put a 2 / 1 Earth Elemental ally token into play."'
 
 regulation:

@@ -2,9 +2,12 @@ name: Ozumat
 
 origin: throne-of-the-tides-215
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity , Eternal When Ozumat becomes targeted by an opposing card or effect, it deals 10 shadow damage to that opponent's hero.
 
 regulation:

@@ -2,9 +2,12 @@ name: Rysa the Earthcaller
 
 origin: servants-of-the-betrayer-154
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector At the start of your turn, put a Totem card from your graveyard into hand.
 
 regulation:

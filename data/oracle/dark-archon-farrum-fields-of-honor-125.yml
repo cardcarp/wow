@@ -2,9 +2,12 @@ name: Dark Archon Farrum
 
 origin: fields-of-honor-125
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Will of the Forsaken Your hero can protect Farrum.
 
 regulation:

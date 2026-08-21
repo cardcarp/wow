@@ -2,9 +2,12 @@ name: Lie in Wait
 
 origin: heroes-of-azeroth-163
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

@@ -2,9 +2,11 @@ name: Flying Monkey Kick
 
 origin: echoes-of-thunder-041
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

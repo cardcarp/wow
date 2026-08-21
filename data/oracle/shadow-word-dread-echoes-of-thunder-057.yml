@@ -2,9 +2,11 @@ name: 'Shadow Word: Dread'
 
 origin: echoes-of-thunder-057
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

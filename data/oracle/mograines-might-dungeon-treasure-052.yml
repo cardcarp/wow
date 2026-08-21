@@ -2,12 +2,15 @@ name: Mograines Might
 
 origin: dungeon-treasure-052
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Mograine strikes with this weapon the first time he attacks each turn. This weapon has ATK equal to double Mograine's level.
 
 regulation:

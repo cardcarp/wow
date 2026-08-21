@@ -1,3 +1,5 @@
+oracle: moala-stonebinder-fires-of-outland-005
+
 index: '005'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"The Broken have taught me that nothing is beyond saving."'
-
-oracle: moala-stonebinder-fires-of-outland-005
 
 set: Fires of Outland

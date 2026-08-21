@@ -2,9 +2,12 @@ name: Drillborer Disk
 
 origin: molten-core-treasure-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Drillborer Disk prevents damage, your hero deals 1 arcane damage to the source of that damage.
 
 regulation:

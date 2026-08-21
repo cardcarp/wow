@@ -2,14 +2,17 @@ name: 'Raid Warning: Annihilation'
 
 origin: caverns-of-time-raid-037
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : At the start of the Caverns hero's next turn, a random Raider destroys all abilities, allies, and equipment he controls, then remove this event from the game. Exhaust two friendly allies that share a or race → Destroy this event. Any Raider may use this power."
 
 regulation:

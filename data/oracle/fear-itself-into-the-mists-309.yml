@@ -2,9 +2,11 @@ name: Fear Itself
 
 origin: into-the-mists-309
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

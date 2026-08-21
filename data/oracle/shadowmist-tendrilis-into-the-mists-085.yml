@@ -2,9 +2,11 @@ name: Shadowmist Tendrilis
 
 origin: into-the-mists-085
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

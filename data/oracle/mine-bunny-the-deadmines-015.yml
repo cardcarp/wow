@@ -2,9 +2,12 @@ name: Mine Bunny
 
 origin: the-deadmines-015
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 3
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, each Raider discards a random card.
 
 regulation:

@@ -2,9 +2,12 @@ name: Lucky Strike Axe
 
 origin: the-hunt-for-illidan-228
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Lucky Strike Axe enters play with three +1 ATK counters if an opponent went first this game.
 
 regulation:

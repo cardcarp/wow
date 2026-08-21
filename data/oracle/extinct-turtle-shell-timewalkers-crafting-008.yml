@@ -2,9 +2,12 @@ name: Extinct Turtle Shell
 
 origin: timewalkers-crafting-008
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor enters play, put a 1 / 1 Turtle Beast Monster ally token named Tooga into play with Tooga (1). At the start of your turn, remove a Tooga you control from the game. If you do, draw two cards.
 
 regulation:

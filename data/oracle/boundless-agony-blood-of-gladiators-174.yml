@@ -2,9 +2,12 @@ name: Boundless Agony
 
 origin: blood-of-gladiators-174
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Damage can't be healed. Damage is unpreventable.
 
 regulation:

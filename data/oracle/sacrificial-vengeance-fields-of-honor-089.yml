@@ -2,9 +2,12 @@ name: Sacrificial Vengeance
 
 origin: fields-of-honor-089
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally in your party. Ongoing : When attached ally is destroyed, target opponent destroys an ally in his party.'
 
 regulation:

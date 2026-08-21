@@ -2,9 +2,12 @@ name: Elemental Purge
 
 origin: war-of-the-ancients-051
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

@@ -2,9 +2,11 @@ name: Garden Thief Hoptallus
 
 origin: into-the-mists-215
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

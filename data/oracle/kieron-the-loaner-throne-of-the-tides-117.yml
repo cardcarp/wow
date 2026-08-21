@@ -2,9 +2,12 @@ name: Kieron the Loaner
 
 origin: throne-of-the-tides-117
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, each opponent draws three cards. At the end of each turn, if an opponent has no cards in his hand, destroy his hero.
 
 regulation:

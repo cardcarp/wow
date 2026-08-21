@@ -2,9 +2,12 @@ name: Wentletrap Vest
 
 origin: throne-of-the-tides-226
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 

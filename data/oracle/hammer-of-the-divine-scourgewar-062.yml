@@ -2,9 +2,12 @@ name: Hammer of the Divine
 
 origin: scourgewar-062
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust all opposing heroes and allies. Each of them can't ready during its controller's next ready step. Draw a card.
 
 regulation:

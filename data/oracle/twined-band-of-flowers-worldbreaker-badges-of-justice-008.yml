@@ -2,9 +2,12 @@ name: Twined Band of Flowers
 
 origin: worldbreaker-badges-of-justice-008
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: → Your hero heals 1 damage from each ally you control and has Assault 1 this turn for each damage healed this way.'
 
 regulation:

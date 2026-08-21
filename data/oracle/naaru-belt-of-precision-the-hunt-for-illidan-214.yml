@@ -2,9 +2,12 @@ name: Naaru Belt of Precision
 
 origin: the-hunt-for-illidan-214
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Naaru Belt of Precision has +X DEF, where X is your hero's ATK.
 
 regulation:

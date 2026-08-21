@@ -2,9 +2,12 @@ name: Azizi Daggerflick
 
 origin: twilight-of-the-dragons-130
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Time is Money → Exhaust target ally with cost 4 or less.
 
 regulation:

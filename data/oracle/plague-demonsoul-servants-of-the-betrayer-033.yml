@@ -2,17 +2,20 @@ name: Plague Demonsoul
 
 origin: servants-of-the-betrayer-033
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Plague → If a Demon in your party would be dealt damage this turn, it's dealt to Plague instead. Shadowsworn
 
 regulation:

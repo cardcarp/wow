@@ -2,9 +2,11 @@ name: Zealous Violence
 
 origin: siege-of-orgrimmar-016
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

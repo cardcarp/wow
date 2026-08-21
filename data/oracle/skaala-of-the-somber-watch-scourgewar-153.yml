@@ -2,9 +2,12 @@ name: Skaala of the Somber Watch
 
 origin: scourgewar-153
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing heroes have "This hero has -1 ATK for each damage on it."
 
 regulation:

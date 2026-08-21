@@ -2,9 +2,12 @@ name: Cyclone
 
 origin: through-the-dark-portal-021
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

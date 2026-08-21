@@ -2,9 +2,12 @@ name: Nether Balance
 
 origin: throne-of-the-tides-079
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : When this ability enters play, your hero deals 5 shadow damage to target ally. When an opposing ally is destroyed, you may pay 2 . If you do, put a 2 / 2 Demon Skull Monster token into play.'
 
 regulation:

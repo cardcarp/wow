@@ -2,9 +2,11 @@ name: T03 Enchanting
 
 origin: warlords-of-the-iron-horde-trait-003
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

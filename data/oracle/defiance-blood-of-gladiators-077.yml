@@ -2,9 +2,12 @@ name: Defiance
 
 origin: blood-of-gladiators-077
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Protection Hero Required Ongoing : Only one character can attack on each opponent's turn."
 
 regulation:

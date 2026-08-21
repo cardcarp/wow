@@ -2,12 +2,15 @@ name: Cleaning House
 
 origin: crown-of-the-heavens-195
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If you control an ally with 6 or more ATK: Pay 2 to complete this quest. Reward : Draw a card.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Brain Freeze
 
 origin: heroes-of-azeroth-049
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

@@ -2,9 +2,12 @@ name: Hammer of the Grand Crusader
 
 origin: fires-of-outland-214
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: While your hero has no damage, Hammer of the Grand Crusader has +2 ATK and you pay 2 less to strike with it.
 
 regulation:

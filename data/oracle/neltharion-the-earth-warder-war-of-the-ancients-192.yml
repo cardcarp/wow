@@ -2,9 +2,12 @@ name: Neltharion the Earth-Warder
 
 origin: war-of-the-ancients-192
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Fire
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Smash As Neltharion enters play, you may destroy five non-hero cards you control. If you do, he enters play. Otherwise, put him into his owner's graveyard. (He doesn't enter play.)
 
 regulation:

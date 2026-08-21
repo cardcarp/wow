@@ -2,9 +2,12 @@ name: Claws of Torment
 
 origin: alliance-shaman-2011-027
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Dual Wield .
 
 regulation:

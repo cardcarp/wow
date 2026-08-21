@@ -2,9 +2,12 @@ name: Monstrous Intervention
 
 origin: tomb-of-the-forgotten-038
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 

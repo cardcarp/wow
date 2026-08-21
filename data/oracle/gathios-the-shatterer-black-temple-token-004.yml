@@ -2,9 +2,12 @@ name: Gathios the Shatterer
 
 origin: black-temple-token-004
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 5
 
@@ -15,7 +18,7 @@ combat: Holy
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector If Gathios would be dealt damage, prevent all but 1 of it.
 
 regulation:

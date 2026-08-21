@@ -2,9 +2,12 @@ name: Goetia
 
 origin: tomb-of-the-forgotten-082
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 

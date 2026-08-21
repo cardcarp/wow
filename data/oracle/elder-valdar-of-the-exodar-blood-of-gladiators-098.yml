@@ -2,9 +2,12 @@ name: Elder Valdar of the Exodar
 
 origin: blood-of-gladiators-098
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Inspiring Presence
 
 regulation:

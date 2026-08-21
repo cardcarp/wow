@@ -2,9 +2,12 @@ name: Orb of Darkness
 
 origin: reign-of-fire-178
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , {exhaust} → Target opponent puts the top three cards of his deck into his graveyard unless he chooses and discards a card.
 
 regulation:

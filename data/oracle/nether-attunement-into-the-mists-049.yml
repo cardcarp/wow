@@ -2,9 +2,11 @@ name: Nether Attunement
 
 origin: into-the-mists-049
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

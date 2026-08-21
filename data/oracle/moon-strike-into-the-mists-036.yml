@@ -2,9 +2,11 @@ name: Moon Strike
 
 origin: into-the-mists-036
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Dragonslayers Signet
 
 origin: onyxias-lair-treasure-021
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: If a friendly hero or ally would deal damage to a Dragon or Dragonkin, it deals that amount of damage +1 instead.
 
 regulation:

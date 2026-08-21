@@ -2,9 +2,12 @@ name: Kidney Shot
 
 origin: fields-of-honor-057
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

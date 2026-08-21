@@ -2,9 +2,12 @@ name: Anchorite Karja
 
 origin: servants-of-the-betrayer-185
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ health: 6
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation Ready allies in your party have +3 ATK / +3 health.
 
 regulation:

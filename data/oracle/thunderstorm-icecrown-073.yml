@@ -2,9 +2,12 @@ name: Thunderstorm
 
 origin: icecrown-073
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

@@ -2,9 +2,12 @@ name: Torturous Poison
 
 origin: reign-of-fire-043
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target hero or ally that was dealt combat damage by your hero this turn. Ongoing : At the start of your turn, add a poison counter to this ability. Then, your hero deals 1 nature damage to attached character for each poison counter on this ability.'
 
 regulation:

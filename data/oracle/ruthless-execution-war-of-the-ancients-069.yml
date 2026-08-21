@@ -2,9 +2,12 @@ name: Ruthless Execution
 
 origin: war-of-the-ancients-069
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy target damaged ally. Draw a card.
 
 regulation:

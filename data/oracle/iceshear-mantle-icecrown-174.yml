@@ -2,9 +2,12 @@ name: Iceshear Mantle
 
 origin: icecrown-174
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Target card has Assault 2 this turn.
 
 regulation:

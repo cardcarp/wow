@@ -2,9 +2,12 @@ name: Valytha Colton
 
 origin: war-of-the-elements-150
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 

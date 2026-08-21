@@ -2,9 +2,12 @@ name: Expose Armor
 
 origin: heroes-of-azeroth-098
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: As an additional cost to play Expose Armor, remove up to five Combo cards in your graveyard from the game. Destroy X target armor, where X is the number of Combo cards removed.
 
 regulation:

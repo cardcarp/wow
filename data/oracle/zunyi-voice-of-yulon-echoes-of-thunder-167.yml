@@ -2,9 +2,11 @@ name: Zunyi, Voice of Yu'lon
 
 origin: echoes-of-thunder-167
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

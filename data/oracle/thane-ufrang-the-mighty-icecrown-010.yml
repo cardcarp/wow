@@ -2,9 +2,11 @@ name: Thane Ufrang the Mighty
 
 origin: icecrown-010
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

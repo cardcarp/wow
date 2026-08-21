@@ -2,9 +2,11 @@ name: Shoulderpads of Fleshwerks
 
 origin: scourgewar-224
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

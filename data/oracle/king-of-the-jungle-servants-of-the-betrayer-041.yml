@@ -2,9 +2,12 @@ name: King of the Jungle
 
 origin: servants-of-the-betrayer-041
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 

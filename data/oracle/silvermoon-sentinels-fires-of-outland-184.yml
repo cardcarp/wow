@@ -2,9 +2,12 @@ name: Silvermoon Sentinels
 
 origin: fires-of-outland-184
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Silvermoon Sentinels enters play, it deals 1 holy damage to each hero for each ally named Silvermoon Sentinels in your party.
 
 regulation:

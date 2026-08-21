@@ -2,9 +2,11 @@ name: Guo, Tushui Master
 
 origin: echoes-of-thunder-097
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

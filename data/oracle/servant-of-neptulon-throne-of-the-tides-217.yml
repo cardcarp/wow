@@ -2,9 +2,12 @@ name: Servant of Neptulon
 
 origin: throne-of-the-tides-217
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Frost
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive → You pay 1 less to play your next Frost or card this turn. (A card is one with in its lower-left corner.)
 
 regulation:

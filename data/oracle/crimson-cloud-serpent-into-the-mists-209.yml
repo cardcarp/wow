@@ -2,9 +2,11 @@ name: Crimson Cloud Serpent
 
 origin: into-the-mists-209
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

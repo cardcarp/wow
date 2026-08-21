@@ -2,9 +2,12 @@ name: Meekway Humzinger
 
 origin: through-the-dark-portal-182
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive 1 , , Put Meekway Humzinger into her owner's hand → Draw a card.
 
 regulation:

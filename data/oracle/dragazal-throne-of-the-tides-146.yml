@@ -2,9 +2,12 @@ name: Draga'zal
 
 origin: throne-of-the-tides-146
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 

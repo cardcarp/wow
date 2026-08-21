@@ -2,9 +2,12 @@ name: Boots of Quel'Thalas
 
 origin: reign-of-fire-167
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If an ally you controlled was destroyed this turn: → Target hero or ally has Assault 2 this turn.'
 
 regulation:

@@ -2,12 +2,15 @@ name: A Striking Similarity
 
 origin: arena-grand-melee-event-097
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : You pay 1 less to play cards from the same set as your hero.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Arcane Breach
 
 origin: reign-of-fire-021
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 

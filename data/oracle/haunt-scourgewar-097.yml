@@ -2,9 +2,12 @@ name: Haunt
 
 origin: scourgewar-097
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

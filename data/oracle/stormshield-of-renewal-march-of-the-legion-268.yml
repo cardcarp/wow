@@ -2,9 +2,12 @@ name: Stormshield of Renewal
 
 origin: march-of-the-legion-268
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero heals damage from a friendly ally, it also heals that much from itself.
 
 regulation:

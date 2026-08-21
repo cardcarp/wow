@@ -2,9 +2,12 @@ name: Azjol-anak Acidspewer
 
 origin: scourgewar-202
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: Nerubian Reputation This ally has +1 / +1 while an equipment is in your graveyard.
 
 regulation:

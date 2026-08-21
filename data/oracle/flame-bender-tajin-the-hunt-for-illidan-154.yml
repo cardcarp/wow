@@ -2,9 +2,12 @@ name: Flame Bender Ta'jin
 
 origin: the-hunt-for-illidan-154
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Ta'jin enters play, gain control of target ability. If it's attached, you may reattach it.
 
 regulation:

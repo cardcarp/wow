@@ -2,9 +2,11 @@ name: Tabard of the Kirin Tor
 
 origin: echoes-of-thunder-271
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

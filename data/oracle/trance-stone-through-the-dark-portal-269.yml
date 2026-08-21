@@ -2,9 +2,12 @@ name: Trance Stone
 
 origin: through-the-dark-portal-269
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, if you didn't place a resource this turn, draw a card.
 
 regulation:

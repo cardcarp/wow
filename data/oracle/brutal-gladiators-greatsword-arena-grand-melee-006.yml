@@ -2,9 +2,12 @@ name: Brutal Gladiators Greatsword
 
 origin: arena-grand-melee-006
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: Preparation
 
 regulation:

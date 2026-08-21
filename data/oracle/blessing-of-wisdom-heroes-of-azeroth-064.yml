@@ -2,9 +2,12 @@ name: Blessing of Wisdom
 
 origin: heroes-of-azeroth-064
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 

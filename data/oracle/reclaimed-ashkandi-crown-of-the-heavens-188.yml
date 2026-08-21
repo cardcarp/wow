@@ -2,9 +2,12 @@ name: Reclaimed Ashkandi
 
 origin: crown-of-the-heavens-188
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Play only if you control three or more equipment. Your hero has Smash .
 
 regulation:

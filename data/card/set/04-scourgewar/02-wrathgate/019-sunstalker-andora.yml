@@ -1,3 +1,5 @@
+oracle: sunstalker-andora-wrathgate-019
+
 index: '019'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"Your death will come quickly, for all I need is a small opening in your defenses."'
-
-oracle: sunstalker-andora-wrathgate-019
 
 set: Wrathgate

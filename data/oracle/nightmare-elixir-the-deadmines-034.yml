@@ -2,14 +2,17 @@ name: Nightmare Elixir
 
 origin: the-deadmines-034
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach this ability to a Raiding hero of the Raiders' choice. Ongoing : Dungeon heroes and allies have Assault 5 while attacking attached hero."
 
 regulation:

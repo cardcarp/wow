@@ -2,9 +2,12 @@ name: Vengeance Wrap
 
 origin: scourgewar-226
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -18,7 +21,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor enters play, you may remove an ally in a graveyard from the game. → Your hero deals 1 melee damage to target hero or ally that shares a class or race with that ally.
 
 regulation:

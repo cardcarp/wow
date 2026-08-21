@@ -2,9 +2,11 @@ name: Sacrifical Pact
 
 origin: warlords-of-the-iron-horde-008
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

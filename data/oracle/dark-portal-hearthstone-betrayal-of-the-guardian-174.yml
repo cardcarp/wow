@@ -2,9 +2,12 @@ name: Dark Portal Hearthstone
 
 origin: betrayal-of-the-guardian-174
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Put target ally you control into its owner's hand.
 
 regulation:

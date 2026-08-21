@@ -2,14 +2,17 @@ name: Biding Her Time
 
 origin: the-deadmines-019
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each Raider chooses a non-hero card he controls and puts it on top of its owner's deck.
 
 regulation:

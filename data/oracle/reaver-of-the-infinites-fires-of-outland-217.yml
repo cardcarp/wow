@@ -2,9 +2,12 @@ name: Reaver of the Infinites
 
 origin: fires-of-outland-217
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -14,7 +17,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 15 → Reaver of the Infinites has +∞ ATK this turn.
 
 regulation:

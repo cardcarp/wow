@@ -2,9 +2,12 @@ name: Manaspark Gloves
 
 origin: march-of-the-legion-265
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, if a player has fewer cards in hand than each other player, he draws a card.
 
 regulation:

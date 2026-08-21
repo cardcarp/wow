@@ -2,9 +2,12 @@ name: Malfurions Gift
 
 origin: crown-of-the-heavens-012
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 

@@ -2,9 +2,12 @@ name: Roar of the Ages
 
 origin: betrayal-of-the-guardian-011
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '8'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Rift Ongoing : Allies you control have +3 / +3.'
 
 regulation:

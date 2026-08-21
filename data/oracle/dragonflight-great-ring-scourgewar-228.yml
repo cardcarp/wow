@@ -2,9 +2,12 @@ name: Dragonflight Great-Ring
 
 origin: scourgewar-228
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '13'
 
@@ -15,7 +18,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, destroy target hero.
 
 regulation:

@@ -2,9 +2,12 @@ name: Grim Campfire
 
 origin: worldbreaker-231
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opposing ally is destroyed, add a fuel counter to this equipment. At the end of your turn, your hero may heal 1 damage from each friendly hero and ally for each fuel counter.
 
 regulation:

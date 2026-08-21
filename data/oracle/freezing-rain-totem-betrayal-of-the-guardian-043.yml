@@ -2,9 +2,12 @@ name: Freezing Rain Totem
 
 origin: betrayal-of-the-guardian-043
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -20,7 +23,7 @@ class:
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : When this Totem enters play, it deals 1 frost damage to each opposing hero and ally. At the start of your turn, this totem deals 2 frost damage to target opposing hero. (Totems can't attack.)"
 
 regulation:

@@ -1,6 +1,6 @@
 name: Fires of Outland
 
-type: set
+type: Standard
 
 index: '03'
 
@@ -8,6 +8,6 @@ subtotal: 246
 
 total: 246
 
-date_release: 2007-08
+date: 2007-08
 
 collection: Azeroth

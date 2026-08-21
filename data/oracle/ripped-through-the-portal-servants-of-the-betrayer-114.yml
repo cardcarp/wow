@@ -2,9 +2,12 @@ name: Ripped through the Portal
 
 origin: servants-of-the-betrayer-114
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required Put an ally card that's removed from the game into play under your control.
 
 regulation:

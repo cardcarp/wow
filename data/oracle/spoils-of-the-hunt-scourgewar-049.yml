@@ -2,9 +2,12 @@ name: Spoils of the Hunt
 
 origin: scourgewar-049
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy all opposing allies that have or share the highest cost among opposing allies.
 
 regulation:

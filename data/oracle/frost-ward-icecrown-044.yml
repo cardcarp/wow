@@ -2,9 +2,12 @@ name: Frost Ward
 
 origin: icecrown-044
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

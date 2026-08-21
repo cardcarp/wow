@@ -2,9 +2,12 @@ name: Quickstrider Moccasins
 
 origin: blood-of-gladiators-165
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Ready another target card in play.
 
 regulation:

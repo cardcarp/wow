@@ -2,9 +2,11 @@ name: Nahari Farstride
 
 origin: monk-starter-009
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

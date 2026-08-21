@@ -2,9 +2,12 @@ name: Bonechewer Behemoth
 
 origin: black-temple-raid-031
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required When Bonechewer Behemoth enters play, he deals 4 fire damage to target hero.
 
 regulation:

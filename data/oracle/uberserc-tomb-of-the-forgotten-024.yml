@@ -2,9 +2,12 @@ name: Uberserc
 
 origin: tomb-of-the-forgotten-024
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Beast Mastery Talent This ally can attack two opposing heroes and/or allies at the same time. (This ally deals combat damage to both defenders, and both defenders deal combat damage back to this ally.)
 
 regulation:

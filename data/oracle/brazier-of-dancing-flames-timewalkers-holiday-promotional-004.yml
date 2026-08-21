@@ -2,9 +2,12 @@ name: Brazier of Dancing Flames
 
 origin: timewalkers-holiday-promotional-004
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 5 , → Put a 2 / 1 Fire Elemental ally token into play. When a Fire Elemental token ally you control deals combat damage to a defending hero, put a copy of that token into play exhausted.
 
 regulation:

@@ -2,9 +2,12 @@ name: Annihilate
 
 origin: wrathgate-065
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy target exhausted ally or exhausted equipment.
 
 regulation:

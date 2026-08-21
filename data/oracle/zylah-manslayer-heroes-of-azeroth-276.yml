@@ -2,9 +2,12 @@ name: Zy'lah Manslayer
 
 origin: heroes-of-azeroth-276
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When Zy'lah Manslayer deals combat damage to an ally, ready her.
 
 regulation:

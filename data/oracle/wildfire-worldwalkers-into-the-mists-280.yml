@@ -2,9 +2,11 @@ name: Wildfire Worldwalkers
 
 origin: into-the-mists-280
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

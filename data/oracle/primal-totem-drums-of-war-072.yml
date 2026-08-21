@@ -2,9 +2,12 @@ name: Primal Totem
 
 origin: drums-of-war-072
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

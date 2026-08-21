@@ -2,9 +2,12 @@ name: Muln Earthfury
 
 origin: crown-of-the-heavens-169
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: Harmonize , Protector When Muln enters play, reveal cards from the top of your deck equal to the number of cards with Harmonize you control. Put all revealed allies with cost 4 or more into your hand and the rest on the bottom of your deck.
 
 regulation:

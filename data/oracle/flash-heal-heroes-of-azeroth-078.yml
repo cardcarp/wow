@@ -2,9 +2,12 @@ name: Flash Heal
 
 origin: heroes-of-azeroth-078
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

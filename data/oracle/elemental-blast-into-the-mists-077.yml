@@ -2,9 +2,11 @@ name: Elemental Blast
 
 origin: into-the-mists-077
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

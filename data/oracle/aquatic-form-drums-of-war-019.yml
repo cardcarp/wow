@@ -2,9 +2,12 @@ name: Aquatic Form
 
 origin: drums-of-war-019
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

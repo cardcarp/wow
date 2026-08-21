@@ -2,9 +2,12 @@ name: Tania Falan
 
 origin: twilight-of-the-dragons-125
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may draw a card. If you do, discard a card.
 
 regulation:

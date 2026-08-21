@@ -2,9 +2,12 @@ name: Quigley Slipshade
 
 origin: servants-of-the-betrayer-150
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 → Quigley is Elusive this turn. 1 → Quigley is Untargetable this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Kiss of Death
 
 origin: war-of-the-ancients-047
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: As an additional cost to play, remove up to five abilities in your graveyard from the game. Weapons you control have +1 ATK this turn for each card removed this way.
 
 regulation:

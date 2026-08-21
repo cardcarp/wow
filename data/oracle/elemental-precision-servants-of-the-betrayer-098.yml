@@ -2,9 +2,12 @@ name: Elemental Precision
 
 origin: servants-of-the-betrayer-098
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Elemental Talent Ongoing : If a hero or ally you control would deal nature ( ) damage, it deals double that much instead.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Cleanse
 
 origin: heroes-of-azeroth-065
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

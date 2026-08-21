@@ -2,20 +2,23 @@ name: Trilik the Lights Spark
 
 origin: twilight-of-the-dragons-008
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 26
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Trilik face down.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: You pay 1 less to play your first ally each turn.
 
 regulation:

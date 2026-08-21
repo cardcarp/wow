@@ -2,9 +2,12 @@ name: Nozdormu the Timeless
 
 origin: war-of-the-elements-022
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 cost: '25'
 
@@ -17,8 +20,8 @@ combat: Melee
 type: Master
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: You may pay up to x less to play Nozdormu, where X is the combined cost of cards you control. When your hero becomes Nozdormu, if you control no ready resources, target player skips his next turn.
 
 regulation:

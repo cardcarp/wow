@@ -2,12 +2,15 @@ name: Mark V Is Alive!
 
 origin: blood-of-gladiators-192
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn, pay 5 to complete this quest. Reward : Put a Mechanical ally token named Mark V into play with 0 ATK / 1 health and "At the start of your turn, Mark V deals 5 melee damage to target hero or ally."'
 
 regulation:

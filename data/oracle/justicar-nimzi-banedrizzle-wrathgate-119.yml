@@ -2,9 +2,12 @@ name: Justicar Nimzi Banedrizzle
 
 origin: wrathgate-119
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -20,7 +23,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally leaves play, you may remove target Druid ally, ability, or equipment from the game.
 
 regulation:

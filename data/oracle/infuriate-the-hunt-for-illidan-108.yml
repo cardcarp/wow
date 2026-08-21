@@ -2,9 +2,12 @@ name: Infuriate
 
 origin: the-hunt-for-illidan-108
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : When your hero is dealt combat damage, ready up to that many of your resources.'
 
 regulation:

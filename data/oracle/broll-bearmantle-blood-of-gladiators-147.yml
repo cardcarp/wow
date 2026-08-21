@@ -2,9 +2,12 @@ name: Broll Bearmantle
 
 origin: blood-of-gladiators-147
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: Broll has +1 ATK / +1 health for each Arena card in play you control.
 
 regulation:

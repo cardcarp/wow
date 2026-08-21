@@ -2,9 +2,11 @@ name: Zilpix Imp Revenger
 
 origin: echoes-of-thunder-078
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

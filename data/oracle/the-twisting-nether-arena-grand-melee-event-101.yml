@@ -2,12 +2,15 @@ name: The Twisting Nether
 
 origin: arena-grand-melee-event-101
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Turn target player's deck over.
 
 regulation:

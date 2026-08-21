@@ -2,9 +2,12 @@ name: Foe Reaper 5000
 
 origin: the-deadmines-006
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 0
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Boss Assault 5 , Ferocity Overdrive : While Foe Reaper has 5 or more damage, he has an additional Assault 10 .'
 
 regulation:

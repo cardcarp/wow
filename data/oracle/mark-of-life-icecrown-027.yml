@@ -2,9 +2,12 @@ name: Mark of Life
 
 origin: icecrown-027
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

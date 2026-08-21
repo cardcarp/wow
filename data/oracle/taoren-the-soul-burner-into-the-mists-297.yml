@@ -2,9 +2,11 @@ name: Taoren, the Soul Burner
 
 origin: into-the-mists-297
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

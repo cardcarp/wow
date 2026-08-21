@@ -2,9 +2,12 @@ name: Mixi Crankhaven
 
 origin: battle-of-the-aspects-treasure-041
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ability, ally, or equipment, this ally deals 1 unpreventable holy damage to target opposing hero.
 
 regulation:

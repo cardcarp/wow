@@ -2,9 +2,12 @@ name: Lockjaw
 
 origin: worldbreaker-243
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Once per turn: 2 → Your hero heals 2 damage from target hero or ally.'
 
 regulation:

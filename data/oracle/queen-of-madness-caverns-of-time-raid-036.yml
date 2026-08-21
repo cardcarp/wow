@@ -2,14 +2,17 @@ name: Queen of Madness
 
 origin: caverns-of-time-raid-036
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: Flip an additional Caverns card for each Caverns hero that has been defeated. If Azshara is the Caverns hero, put four guard counters on her.
 
 regulation:

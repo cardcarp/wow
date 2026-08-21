@@ -2,9 +2,12 @@ name: Sava'gin the Reckless
 
 origin: worldbreaker-190
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'This ally attacks opposing heroes and allies at random. Stash : Your hero deals 2 nature damage to target random opposing hero or ally.'
 
 regulation:

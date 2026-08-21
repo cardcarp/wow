@@ -2,9 +2,12 @@ name: Sunstalker Maelan
 
 origin: tomb-of-the-forgotten-113
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 

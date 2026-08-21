@@ -2,9 +2,12 @@ name: Miniature Voodoo Mask
 
 origin: crown-of-the-heavens-176
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: As this item enters play, name an ability or equipment with cost 3 or less. Opposing cards in play with the chosen name lose and can't have powers.
 
 regulation:

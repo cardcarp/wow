@@ -2,9 +2,12 @@ name: Dark Intent
 
 origin: tomb-of-the-forgotten-054
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'As an additional cost to play, put 2 damage on your hero. Attach to target friendly ally. Ongoing : Attached ally has +2 / +2. If attached ally would deal fatal combat damage to an opposing ally, remove that ally from the game instead.'
 
 regulation:

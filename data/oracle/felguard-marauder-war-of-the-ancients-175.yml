@@ -2,9 +2,12 @@ name: Felguard Marauder
 
 origin: war-of-the-ancients-175
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 

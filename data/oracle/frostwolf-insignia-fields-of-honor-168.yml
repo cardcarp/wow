@@ -2,9 +2,12 @@ name: Frostwolf Insignia
 
 origin: fields-of-honor-168
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -23,7 +26,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play a card, add an honor counter. If there are six or more on Frostwolf Insignia, destroy it. When Frostwolf Insignia is destroyed this way, your hero heals 10 damage from target hero or ally.
 
 regulation:

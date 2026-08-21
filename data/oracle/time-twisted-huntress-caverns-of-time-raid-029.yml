@@ -2,9 +2,12 @@ name: Time-Twisted Huntress
 
 origin: caverns-of-time-raid-029
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 3
 
@@ -15,7 +18,7 @@ combat: Ranged
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: Prevent all damage that would be dealt to this ally by Raiding allies with an even cost.
 
 regulation:

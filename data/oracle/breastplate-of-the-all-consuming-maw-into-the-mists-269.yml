@@ -2,9 +2,11 @@ name: Breastplate of the All-consuming Maw
 
 origin: into-the-mists-269
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

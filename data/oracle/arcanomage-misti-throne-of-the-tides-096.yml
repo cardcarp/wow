@@ -2,9 +2,12 @@ name: Arcanomage Misti
 
 origin: throne-of-the-tides-096
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally deals damage to an opposing hero, draw that many cards.
 
 regulation:

@@ -2,9 +2,11 @@ name: Stormfang Cowl
 
 origin: warlords-of-the-iron-horde-226
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

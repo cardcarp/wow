@@ -2,9 +2,12 @@ name: Reawakening
 
 origin: worldbreaker-039
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put any number of allies from your graveyard into your resource row face down and exhausted.
 
 regulation:

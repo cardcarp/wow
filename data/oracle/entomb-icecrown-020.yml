@@ -2,9 +2,12 @@ name: Entomb
 
 origin: icecrown-020
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put target equipment on the bottom of its owner's deck.
 
 regulation:

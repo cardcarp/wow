@@ -2,17 +2,20 @@ name: Ringleader Kuma
 
 origin: the-hunt-for-illidan-015
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 , Flip Kuma → Heroes and allies in your party have +2 ATK while attacking heroes this turn.
 
 regulation:

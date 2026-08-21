@@ -2,9 +2,11 @@ name: Blademaster Ku Zon
 
 origin: monk-starter-007
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

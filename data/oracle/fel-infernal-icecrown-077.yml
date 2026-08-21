@@ -2,9 +2,12 @@ name: Fel Infernal
 
 origin: icecrown-077
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -18,7 +21,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you discard a card, you may pay 1 . If you do, this ally deals 1 fire damage to each opposing hero and ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Tonks the Tenacious
 
 origin: drums-of-war-147
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy Tonks → Target hero or ally can't attack this turn.
 
 regulation:

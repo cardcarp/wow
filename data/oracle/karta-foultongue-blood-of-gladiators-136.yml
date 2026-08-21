@@ -2,9 +2,12 @@ name: Karta Foultongue
 
 origin: blood-of-gladiators-136
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Hardiness 1 → This turn, target ally must attack if able and can attack only Karta if able.
 
 regulation:

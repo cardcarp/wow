@@ -2,9 +2,12 @@ name: Sun-Emblazoned Chestplate
 
 origin: wrathgate-177
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor prevents damage that would be dealt by an attacker, your hero deals that much unpreventable holy damage to that attacker.
 
 regulation:

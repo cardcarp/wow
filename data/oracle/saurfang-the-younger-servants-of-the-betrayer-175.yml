@@ -2,9 +2,12 @@ name: Saurfang the Younger
 
 origin: servants-of-the-betrayer-175
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When Saurfang enters combat with an ally with damage, destroy it and ready Saurfang.
 
 regulation:

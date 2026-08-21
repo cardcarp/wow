@@ -2,14 +2,17 @@ name: Darnassus
 
 origin: drums-of-war-257
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Night Elf Hero Required On your turn: 1 , → Ready target Night Elf in your party. It can't attack this turn."
 
 regulation:

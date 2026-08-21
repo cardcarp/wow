@@ -2,9 +2,12 @@ name: Reckless Abandon
 
 origin: fields-of-honor-080
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : → If target friendly ally would be dealt damage this turn, it's dealt to your hero instead."
 
 regulation:

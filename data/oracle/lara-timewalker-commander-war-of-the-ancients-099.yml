@@ -2,9 +2,12 @@ name: Lara, Timewalker Commander
 
 origin: war-of-the-ancients-099
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: This and other Human allies you control have +1 / +1 for each Human ally you control.
 
 regulation:

@@ -2,9 +2,12 @@ name: Iravar
 
 origin: fields-of-honor-103
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Pay 2 or remove an honor counter from a card you control → Iravar deals 1 holy damage to each opposing ally.
 
 regulation:

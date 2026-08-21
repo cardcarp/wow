@@ -2,9 +2,12 @@ name: Hood of the Exodus
 
 origin: wrathgate-174
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an ally you control with Assault deals combat damage to an opponent's hero, he discards a card.
 
 regulation:

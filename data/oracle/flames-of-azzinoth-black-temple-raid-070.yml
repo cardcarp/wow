@@ -2,14 +2,17 @@ name: Flames of Azzinoth
 
 origin: black-temple-raid-070
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 stage: 5
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'The Betrayer deals 5 fire damage to each of two target opposing heroes and/or allies. Ongoing : → Draw a card.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Atonement
 
 origin: blood-of-gladiators-040
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

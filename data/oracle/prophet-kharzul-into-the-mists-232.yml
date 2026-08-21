@@ -2,9 +2,11 @@ name: Prophet Khar'zul
 
 origin: into-the-mists-232
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

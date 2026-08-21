@@ -2,9 +2,12 @@ name: Furbolg Avenger
 
 origin: war-of-the-ancients-178
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: While you have six or more cards in your graveyard, this ally has +4 and Protector .
 
 regulation:

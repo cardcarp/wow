@@ -2,9 +2,12 @@ name: Smite
 
 origin: heroes-of-azeroth-089
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 4 holy damage to target hero or ally. That damage can't be prevented.
 
 regulation:

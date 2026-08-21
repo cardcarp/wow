@@ -2,9 +2,12 @@ name: Enslaved Red Dragon
 
 origin: betrayal-of-the-guardian-137
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: While an opponent controls an hero, this ally has +2 ATK and Spellshield .
 
 regulation:

@@ -2,9 +2,12 @@ name: Belt of Blasting
 
 origin: azeroth-crafting-009
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: x , Exhaust your hero → Your hero deals X arcane damage to target hero or ally.
 
 regulation:

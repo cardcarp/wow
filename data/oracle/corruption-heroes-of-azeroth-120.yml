@@ -2,9 +2,12 @@ name: Corruption
 
 origin: heroes-of-azeroth-120
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals 1 shadow damage to attached character. When attached character is destroyed, its controller discards a card.'
 
 regulation:

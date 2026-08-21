@@ -2,9 +2,12 @@ name: Revitalize
 
 origin: drums-of-war-103
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero heals 2 damage from attached character.'
 
 regulation:

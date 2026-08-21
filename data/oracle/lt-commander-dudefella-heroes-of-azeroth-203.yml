@@ -2,9 +2,12 @@ name: Lt. Commander Dudefella
 
 origin: heroes-of-azeroth-203
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , → Dudefella deals 1 frost damage to target hero or ally. A character dealt damage this way can't attack this turn.
 
 regulation:

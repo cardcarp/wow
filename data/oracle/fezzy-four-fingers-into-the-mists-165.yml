@@ -2,9 +2,11 @@ name: Fezzy "Four Fingers"
 
 origin: into-the-mists-165
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

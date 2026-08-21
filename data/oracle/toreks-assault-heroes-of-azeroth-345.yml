@@ -2,14 +2,17 @@ name: Toreks Assault
 
 origin: heroes-of-azeroth-345
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If an opposing hero was dealt damage this turn by an ally in your party, pay 1 to complete this quest. Reward : Draw a card.'
 
 regulation:

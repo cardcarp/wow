@@ -2,9 +2,12 @@ name: Karrok Scarrend
 
 origin: fires-of-outland-167
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 

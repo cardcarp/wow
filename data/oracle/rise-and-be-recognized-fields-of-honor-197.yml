@@ -2,12 +2,15 @@ name: Rise and Be Recognized
 
 origin: fields-of-honor-197
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: Pay 4 to complete this quest. Reward : Draw two cards.'
 
 regulation:

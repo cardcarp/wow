@@ -2,9 +2,12 @@ name: Sacred Moment
 
 origin: blood-of-gladiators-046
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: Cards in play can't ready until after your next turn.
 
 regulation:

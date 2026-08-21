@@ -2,9 +2,12 @@ name: Blood Knight Adrenna
 
 origin: twilight-of-the-dragons-132
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When this ally is destroyed, prevent all damage that would be dealt to target ally you control this turn.
 
 regulation:

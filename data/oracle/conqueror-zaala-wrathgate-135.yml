@@ -2,9 +2,12 @@ name: Conqueror Zaala
 
 origin: wrathgate-135
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -20,7 +23,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may remove another ally you control from the game. If you do, remove target Druid ally, ability, or equipment from the game.
 
 regulation:

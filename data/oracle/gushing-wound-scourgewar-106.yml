@@ -2,9 +2,12 @@ name: Gushing Wound
 
 origin: scourgewar-106
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 3 melee damage to attached hero. Attached hero's controller may draw a card."
 
 regulation:

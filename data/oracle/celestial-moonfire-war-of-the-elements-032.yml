@@ -2,9 +2,12 @@ name: Celestial Moonfire
 
 origin: war-of-the-elements-032
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

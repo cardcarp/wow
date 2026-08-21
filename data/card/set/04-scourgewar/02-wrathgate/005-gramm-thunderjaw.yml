@@ -1,3 +1,5 @@
+oracle: gramm-thunderjaw-wrathgate-005
+
 index: '005'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"The Scourge could learn a thing or two about strategy and cunning; I can see them coming from a mile away."'
-
-oracle: gramm-thunderjaw-wrathgate-005
 
 set: Wrathgate

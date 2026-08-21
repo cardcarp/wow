@@ -2,9 +2,12 @@ name: Ataraxis, Cudgel of the Warmaster
 
 origin: battle-of-the-aspects-treasure-067
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opponents pay 3 more to strike with weapons.
 
 regulation:

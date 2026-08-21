@@ -2,9 +2,11 @@ name: Arena Gladiator
 
 origin: misc-tokens-023
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

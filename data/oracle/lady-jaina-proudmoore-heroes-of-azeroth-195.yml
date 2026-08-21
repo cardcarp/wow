@@ -2,20 +2,23 @@ name: Lady Jaina Proudmoore
 
 origin: heroes-of-azeroth-195
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 35
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'Brilliance Aura : If Jaina would deal damage with an ability, she deals that much +1 instead. On your turn: 8 → Flip Jaina.'
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: 'Teleport : When Jaina flips to this side, you may search your deck for up to two allies and put them into play. Empowered Brilliance Aura : If Jaina would deal damage with an ability, she deals that much +2 instead.'
 
 regulation:

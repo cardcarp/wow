@@ -2,9 +2,12 @@ name: Joja'bee
 
 origin: drums-of-war-starter-006
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Joja'bee enters play, you may ready one of your resources.
 
 regulation:

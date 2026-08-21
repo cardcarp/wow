@@ -2,9 +2,12 @@ name: Betrayer of Humanity
 
 origin: naxxramas-treasure-029
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: As an additional cost to play this weapon, destroy a Human or Orc ally you control.
 
 regulation:

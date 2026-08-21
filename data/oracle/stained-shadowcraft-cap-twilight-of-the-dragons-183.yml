@@ -2,9 +2,12 @@ name: Stained Shadowcraft Cap
 
 origin: twilight-of-the-dragons-183
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn, if this armor has three or more heirloom counters: → Your hero deals 3 nature damage to target hero or ally. Stash : Add an heirloom counter to target equipment you control.'
 
 regulation:

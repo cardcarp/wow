@@ -2,17 +2,20 @@ name: 'six-Shot: Salli Wolfstone'
 
 origin: alliance-hunter-2013-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Salli → Pets you control have +2 ATK this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Voidfire Wand
 
 origin: servants-of-the-betrayer-242
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When combat damage is dealt by with Voidfire Wand to a hero, the next time that hero's controller would draw a card, he skips drawing it instead.
 
 regulation:

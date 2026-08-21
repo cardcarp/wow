@@ -2,9 +2,12 @@ name: Form of the Serpent
 
 origin: servants-of-the-betrayer-039
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

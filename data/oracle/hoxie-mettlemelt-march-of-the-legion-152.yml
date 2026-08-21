@@ -2,9 +2,12 @@ name: Hoxie Mettlemelt
 
 origin: march-of-the-legion-152
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, Hoxie deals 2 fire damage to target opposing hero or ally for each ally in your party.
 
 regulation:

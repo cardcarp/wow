@@ -2,9 +2,11 @@ name: Runic Corruption
 
 origin: echoes-of-thunder-016
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

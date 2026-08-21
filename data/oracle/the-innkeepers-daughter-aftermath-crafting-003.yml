@@ -2,9 +2,12 @@ name: The Innkeepers Daughter
 
 origin: aftermath-crafting-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'This item enters play with a hearth counter on it for each damage on your hero. On your turn: , Remove all hearth counters from this item and destroy it → Damage on your hero becomes equal to the number of hearth counters removed this way.'
 
 regulation:

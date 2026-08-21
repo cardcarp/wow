@@ -2,9 +2,12 @@ name: Arcane Shot
 
 origin: heroes-of-azeroth-033
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

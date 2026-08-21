@@ -2,9 +2,12 @@ name: Tiny Snowman
 
 origin: feast-of-winter-veil-2007-012
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 rule: []
 

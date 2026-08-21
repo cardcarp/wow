@@ -2,9 +2,12 @@ name: Tirion, the Ashbringer
 
 origin: assault-on-icecrown-citadel-treasure-014
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 6
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Other allies you control have +X / +X, where X is their cost. Prevent all damage that would be dealt to this ally by Scourge heroes and allies.
 
 regulation:

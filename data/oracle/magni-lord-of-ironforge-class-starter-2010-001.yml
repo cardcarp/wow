@@ -2,9 +2,12 @@ name: Magni, Lord of Ironforge
 
 origin: class-starter-2010-001
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When this ally is dealt combat damage by an attacking ally, you may put an ally with cost less than or equal to that attacking ally's cost from your hand into play.
 
 regulation:

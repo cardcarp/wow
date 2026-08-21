@@ -2,9 +2,12 @@ name: Tewa Wildmane
 
 origin: heroes-of-azeroth-261
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Tewa Wildmane has +1 ATK and +1 health for each face-down resource you have.
 
 regulation:

@@ -2,9 +2,11 @@ name: Shield Smash
 
 origin: warlords-of-the-iron-horde-092
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

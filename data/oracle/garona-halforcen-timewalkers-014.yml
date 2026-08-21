@@ -2,9 +2,12 @@ name: Garona Halforcen
 
 origin: timewalkers-014
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule: []
 

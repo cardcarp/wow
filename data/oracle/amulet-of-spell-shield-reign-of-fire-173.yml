@@ -2,9 +2,12 @@ name: Amulet of Spell Shield
 
 origin: reign-of-fire-173
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Spellshield .
 
 regulation:

@@ -2,9 +2,12 @@ name: Erama
 
 origin: war-of-the-elements-115
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 

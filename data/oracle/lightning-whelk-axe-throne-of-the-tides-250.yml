@@ -2,9 +2,12 @@ name: Lightning Whelk Axe
 
 origin: throne-of-the-tides-250
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 

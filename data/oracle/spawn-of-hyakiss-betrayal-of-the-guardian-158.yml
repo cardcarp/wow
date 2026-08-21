@@ -2,9 +2,12 @@ name: Spawn of Hyakiss
 
 origin: betrayal-of-the-guardian-158
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Spellshield This ally has +1 / +1 for each other Beast ally you control.
 
 regulation:

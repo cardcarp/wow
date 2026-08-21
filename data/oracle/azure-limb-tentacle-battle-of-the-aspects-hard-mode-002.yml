@@ -2,9 +2,12 @@ name: Azure Limb Tentacle
 
 origin: battle-of-the-aspects-hard-mode-002
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 0
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally can't leave play except by fatal damage. At the beginning of Deathwing's turn, roll a die. If the roll was even, flip an additional Deathwing card this turn. When this ally is destroyed, reach Raider may reveal the top card of his deck. If the revealed card has an even cost, that Raider may put it into his hand. (0 counts as even.)
 
 regulation:

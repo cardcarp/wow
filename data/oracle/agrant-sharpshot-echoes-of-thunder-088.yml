@@ -2,9 +2,11 @@ name: Agrant Sharpshot
 
 origin: echoes-of-thunder-088
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

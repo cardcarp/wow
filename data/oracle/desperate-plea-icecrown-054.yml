@@ -2,9 +2,12 @@ name: Desperate Plea
 
 origin: icecrown-054
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

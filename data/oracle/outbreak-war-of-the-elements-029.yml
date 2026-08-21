@@ -2,9 +2,12 @@ name: Outbreak
 
 origin: war-of-the-elements-029
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing allies have -X / -X this turn, where X is the cost of a Disease you control.
 
 regulation:

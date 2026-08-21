@@ -2,9 +2,12 @@ name: Aurastone Hammer
 
 origin: molten-core-treasure-014
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , → Put target ally from your party into its owner's hand. Use only on your turn.
 
 regulation:

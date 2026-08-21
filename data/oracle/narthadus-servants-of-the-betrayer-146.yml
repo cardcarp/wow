@@ -2,9 +2,12 @@ name: Narthadus
 
 origin: servants-of-the-betrayer-146
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive At the end of your turn, you may destroy target ability.
 
 regulation:

@@ -2,9 +2,12 @@ name: The Dragon Soul
 
 origin: battle-of-the-aspects-treasure-066
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: '→ Add an aspect counter to this item. On your turn: , Remove three aspect counters from this item → Destroy target non-hero card.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Neferset Shadowstalker
 
 origin: tomb-of-the-forgotten-132
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Sentinel When this ally attacks, another target hero or ally has +2 ATK this turn.
 
 regulation:

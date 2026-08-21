@@ -2,9 +2,12 @@ name: Wavestorm Totem
 
 origin: fields-of-honor-066
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : When an opposing ability, ally, or equipment readies, put it into its owner's hand. (Totems can be attacked or targeted like allies.)"
 
 regulation:

@@ -2,9 +2,12 @@ name: Tyrus Lionheart
 
 origin: blood-of-gladiators-118
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector This ally has +4 ATK while defending.
 
 regulation:

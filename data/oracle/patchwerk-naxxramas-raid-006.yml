@@ -2,18 +2,21 @@ name: Patchwerk
 
 origin: naxxramas-raid-006
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Conspicuous , Assault 10
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: Conspicuous , Assault 12 At the start of your turn, you may destroy target ally.
 
 regulation:

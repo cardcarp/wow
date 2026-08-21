@@ -2,14 +2,17 @@ name: The Exodar
 
 origin: blood-of-gladiators-206
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Draenei Hero Required 1 , → Draenei in your party have +1 ATK this turn.
 
 regulation:

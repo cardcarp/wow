@@ -2,9 +2,12 @@ name: Nimanda
 
 origin: war-of-the-ancients-062
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, gain control of target opposing ally. You control that ally while this ally remains under your control, and that ally can attack only heroes while you control it.
 
 regulation:

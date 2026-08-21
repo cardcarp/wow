@@ -2,9 +2,11 @@ name: Consuming Sha
 
 origin: echoes-of-thunder-174
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

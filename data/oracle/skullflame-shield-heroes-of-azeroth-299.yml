@@ -2,9 +2,12 @@ name: Skullflame Shield
 
 origin: heroes-of-azeroth-299
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero defends, it deals 1 fire damage to each opposing hero and ally.
 
 regulation:

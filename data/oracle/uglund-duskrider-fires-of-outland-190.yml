@@ -2,9 +2,12 @@ name: Uglund Duskrider
 
 origin: fires-of-outland-190
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Stealth When Uglund Duskrider attacks, target hero or ally has Stealth this turn.
 
 regulation:

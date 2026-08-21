@@ -2,9 +2,12 @@ name: Kelens Dagger of Escape
 
 origin: reign-of-fire-185
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 → Remove your hero from the game. If you do, put this weapon into its owner's hand.
 
 regulation:

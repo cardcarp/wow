@@ -2,9 +2,12 @@ name: Sister Colleen Tulley
 
 origin: wrathgate-164
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Argent Crusade Reputation This ally has Mend 1 for each Unique ally you control.
 
 regulation:

@@ -2,9 +2,12 @@ name: Despair
 
 origin: betrayal-of-the-guardian-179
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage with this weapon to a hero, its controller reveals the top three cards of his deck. Add a +1 ATK counter to this weapon for each revealed ally, then put all revealed cards into their owner's graveyard.
 
 regulation:

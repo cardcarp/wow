@@ -2,9 +2,12 @@ name: Swirling Flames
 
 origin: caverns-of-time-treasure-015
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: This turn, your hero has " 1 → Your hero deals 1 fire damage to target hero or ally."
 
 regulation:

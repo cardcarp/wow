@@ -2,9 +2,12 @@ name: High Warlord Cromush
 
 origin: dungeon-treasure-020
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector While Cromush has exactly 1 remaining , he has Assault 10 .
 
 regulation:

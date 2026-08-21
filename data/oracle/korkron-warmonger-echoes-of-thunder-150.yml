@@ -2,9 +2,11 @@ name: Korkron Warmonger
 
 origin: echoes-of-thunder-150
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

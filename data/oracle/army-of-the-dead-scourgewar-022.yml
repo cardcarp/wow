@@ -2,9 +2,12 @@ name: Army of the Dead
 
 origin: scourgewar-022
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy all allies. For each ally destroyed this way, you put a 3 / 3 Ghoul ally token into play.
 
 regulation:

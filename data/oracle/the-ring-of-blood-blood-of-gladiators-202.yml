@@ -2,12 +2,15 @@ name: The Ring of Blood
 
 origin: blood-of-gladiators-202
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: As a cost to place this location face up, reveal an Arena card from your hand. → You pay 2 less to complete your next quest this turn.
 
 regulation:

@@ -2,9 +2,11 @@ name: Marked For Death
 
 origin: echoes-of-thunder-062
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

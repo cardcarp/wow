@@ -2,9 +2,12 @@ name: Captain Swash
 
 origin: march-of-the-legion-179
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has +3 ATK while attacking an exhausted hero or ally.
 
 regulation:

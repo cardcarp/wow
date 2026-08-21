@@ -2,9 +2,11 @@ name: Burning Blade Flameseer
 
 origin: warlords-of-the-iron-horde-131
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

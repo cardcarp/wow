@@ -2,9 +2,12 @@ name: Hourglass of the Unraveller
 
 origin: servants-of-the-betrayer-230
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to play equipment, to a minimum of 1 .
 
 regulation:

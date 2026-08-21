@@ -2,9 +2,12 @@ name: Unstoppable Abomination
 
 origin: naxxramas-token-015
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 4
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally can't be protected against. Damage that this ally would deal is unpreventable.
 
 regulation:

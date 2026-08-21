@@ -2,9 +2,12 @@ name: Soul-Eaters Handwraps
 
 origin: magtheridons-lair-treasure-005
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an ability, ally, equipment, or hero readies, its controller puts the top card of his deck into his graveyard.
 
 regulation:

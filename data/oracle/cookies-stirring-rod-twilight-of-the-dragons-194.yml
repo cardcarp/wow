@@ -2,9 +2,12 @@ name: Cookies Stirring Rod
 
 origin: twilight-of-the-dragons-194
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Long-Range When your hero deals damage with this weapon, reveal the top card of your deck. If it's an card, put it into your hand.
 
 regulation:

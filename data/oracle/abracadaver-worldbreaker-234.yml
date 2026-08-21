@@ -2,9 +2,12 @@ name: Abracadaver
 
 origin: worldbreaker-234
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may put a 1 / 1 Cadaver ally token into play with Ferocity and Protector . At the end of your turn, for each Cadaver you control, destroy it unless you pay 1 .
 
 regulation:

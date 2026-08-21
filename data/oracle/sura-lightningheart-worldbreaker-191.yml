@@ -2,9 +2,12 @@ name: Sura Lightningheart
 
 origin: worldbreaker-191
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, if you control another card, she may deal 4 nature damage to target hero or ally.
 
 regulation:

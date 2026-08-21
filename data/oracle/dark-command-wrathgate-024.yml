@@ -2,9 +2,12 @@ name: Dark Command
 
 origin: wrathgate-024
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally. Ongoing : Attached ally has -3 ATK, must attack if able, and can attack only your hero if able.'
 
 regulation:

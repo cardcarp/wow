@@ -2,9 +2,12 @@ name: Blood Guard Gulmok
 
 origin: the-hunt-for-illidan-146
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '9'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When another ally enters your party, you may destroy target ally.
 
 regulation:

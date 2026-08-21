@@ -2,9 +2,12 @@ name: Darnassus Tabard
 
 origin: war-of-the-ancients-213
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -23,7 +26,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 → Target ally has +2 ATK this turn. You pay 1 less to use this power for each Night Elf ally you control.
 
 regulation:

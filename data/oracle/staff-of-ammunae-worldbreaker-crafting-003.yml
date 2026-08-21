@@ -2,9 +2,12 @@ name: Staff of Ammunae
 
 origin: worldbreaker-crafting-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Artifact When your hero is dealt 1 or more damage by an attacking hero or ally, you may put a 0 / 1 Seedling Pod ally token into play with Mend 1 .
 
 regulation:

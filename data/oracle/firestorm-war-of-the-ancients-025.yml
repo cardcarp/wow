@@ -2,9 +2,12 @@ name: Firestorm
 
 origin: war-of-the-ancients-025
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 

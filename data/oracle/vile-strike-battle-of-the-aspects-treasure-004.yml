@@ -2,9 +2,12 @@ name: Vile Strike
 
 origin: battle-of-the-aspects-treasure-004
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: X
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target hero has -X this turn.
 
 regulation:

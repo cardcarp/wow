@@ -2,9 +2,12 @@ name: Vengeful Gladiators Felshroud
 
 origin: blood-of-gladiators-167
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: On your turn, you can play ability cards that are removed from the game. → Put target opposing ally into its owner's hand.
 
 regulation:

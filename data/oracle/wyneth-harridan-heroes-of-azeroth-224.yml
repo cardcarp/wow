@@ -2,9 +2,12 @@ name: Wyneth Harridan
 
 origin: heroes-of-azeroth-224
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector 3 , → Destroy target Undead ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Rakzi the Earthgraced
 
 origin: war-of-the-elements-142
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'This ally has Assault 1 for each equipment you control. Stash : Target weapon you control has Assault 1 this turn.'
 
 regulation:

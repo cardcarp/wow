@@ -2,9 +2,12 @@ name: Alchemist Finklestein
 
 origin: icecrown-164
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: Argent Crusade Reputation 1 , Discard a Unique card → Draw a card.
 
 regulation:

@@ -2,9 +2,12 @@ name: Twilight Frost Evoker
 
 origin: battle-of-the-aspects-treasure-054
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Frost
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, she deals 1 frost damage to target opposing hero or ally for this and each other cards you control.
 
 regulation:

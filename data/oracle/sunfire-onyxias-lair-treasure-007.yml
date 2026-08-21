@@ -2,9 +2,12 @@ name: Sunfire
 
 origin: onyxias-lair-treasure-007
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals X arcane damage to target hero or ally, where X is the number of friendly heroes and allies. Draw a card.
 
 regulation:

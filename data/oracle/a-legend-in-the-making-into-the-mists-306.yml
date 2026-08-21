@@ -2,9 +2,11 @@ name: A Legend in the Making
 
 origin: into-the-mists-306
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

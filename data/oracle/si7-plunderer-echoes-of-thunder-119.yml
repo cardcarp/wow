@@ -2,9 +2,11 @@ name: Si7 Plunderer
 
 origin: echoes-of-thunder-119
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,16 +2,19 @@ name: Magtheridon's Lair
 
 origin: magtheridons-lair-raid-043
 
-layout: standard
+layout: Standard
 
-category: Misc
+category:
+  - Misc
+
+theme:
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: When Magtheridon's Lair flips to this side, put 2 damage on each hero and ally with an attached Cube, then detach all Cubes. At the end of your turn, flip Magtheridon's Lair.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: At the start of your turn, if one or more Cubes are unattached, Magtheridon deals 10 fire damage to each opposing hero or ally. At the end of your turn, flip Magtheridon's Lair.
 
 regulation:

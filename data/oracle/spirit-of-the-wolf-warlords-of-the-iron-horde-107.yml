@@ -2,9 +2,11 @@ name: Spirit Of The Wolf
 
 origin: warlords-of-the-iron-horde-107
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

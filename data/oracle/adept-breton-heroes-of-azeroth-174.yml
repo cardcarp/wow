@@ -2,9 +2,12 @@ name: Adept Breton
 
 origin: heroes-of-azeroth-174
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 , → Adept Breton deals 1 arcane damage to each opposing hero and ally.
 
 regulation:

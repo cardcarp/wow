@@ -2,9 +2,12 @@ name: Fists of Mukoa
 
 origin: blood-of-gladiators-162
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: While you have no weapons, your hero has +1 ATK while attacking.
 
 regulation:

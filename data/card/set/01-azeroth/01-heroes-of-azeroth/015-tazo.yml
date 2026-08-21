@@ -1,3 +1,5 @@
+oracle: tazo-heroes-of-azeroth-015
+
 index: '015'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"You play wit da fire, mon, you gonna get da burn!"'
-
-oracle: tazo-heroes-of-azeroth-015
 
 set: Heroes of Azeroth

@@ -2,9 +2,12 @@ name: Sacred Duty
 
 origin: heroes-of-azeroth-072
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Your hero has Protector . When your hero protects, it heals 1 damage from itself.'
 
 regulation:

@@ -2,12 +2,15 @@ name: A Rare Bean
 
 origin: drums-of-war-250
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 2 to complete this quest. Reward : Choose a rarity, then reveal the top three cards of your deck. Put a revealed card with that rarity into hand and the rest on the bottom of your deck.'
 
 regulation:

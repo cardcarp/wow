@@ -2,9 +2,12 @@ name: Alana the Hopebringer
 
 origin: reign-of-fire-068
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may draw the top half of your deck, rounded up.
 
 regulation:

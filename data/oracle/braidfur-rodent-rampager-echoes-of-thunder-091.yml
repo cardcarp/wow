@@ -2,9 +2,11 @@ name: Braidfur, Rodent Rampager
 
 origin: echoes-of-thunder-091
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

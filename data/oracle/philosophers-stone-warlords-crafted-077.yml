@@ -2,9 +2,11 @@ name: Philosophers Stone
 
 origin: warlords-crafted-077
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

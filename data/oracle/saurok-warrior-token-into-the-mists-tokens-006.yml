@@ -2,9 +2,11 @@ name: Saurok Warrior Token
 
 origin: into-the-mists-tokens-006
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

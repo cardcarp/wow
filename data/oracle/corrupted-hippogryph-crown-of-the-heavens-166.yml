@@ -2,9 +2,12 @@ name: Corrupted Hippogryph
 
 origin: crown-of-the-heavens-166
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opponents pay 1 more to complete quests. When an opponent places a resource face up into his resource row, this ally deals 3 nature damage to his hero. (Mounts can't attack or be attacked.)
 
 regulation:

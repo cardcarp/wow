@@ -2,9 +2,12 @@ name: Obfuscate
 
 origin: march-of-the-legion-084
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target hero or ally has +2 ATK while attacking and has Stealth this turn.
 
 regulation:

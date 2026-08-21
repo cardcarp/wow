@@ -2,9 +2,12 @@ name: Malfurion Stormrage
 
 origin: war-of-the-elements-177
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -15,7 +18,7 @@ health: 8
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector , Stealth , Untargetable At the start of your turn, you may put target ally with cost less than or equal to the number of resources you control from your graveyard into play.
 
 regulation:

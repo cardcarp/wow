@@ -2,9 +2,12 @@ name: Disarm
 
 origin: the-hunt-for-illidan-105
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy all of target player's weapons.
 
 regulation:

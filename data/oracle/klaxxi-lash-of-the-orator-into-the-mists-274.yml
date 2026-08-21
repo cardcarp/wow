@@ -2,9 +2,11 @@ name: Klaxxi Lash of the Orator
 
 origin: into-the-mists-274
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

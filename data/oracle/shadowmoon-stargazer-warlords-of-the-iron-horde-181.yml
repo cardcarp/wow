@@ -2,9 +2,11 @@ name: Shadowmoon Stargazer
 
 origin: warlords-of-the-iron-horde-181
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

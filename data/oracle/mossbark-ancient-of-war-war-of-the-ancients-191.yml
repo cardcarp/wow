@@ -2,9 +2,12 @@ name: Mossbark, Ancient of War
 
 origin: war-of-the-ancients-191
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Play this ally only if you control two or more Monster heroes and/or allies.
 
 regulation:

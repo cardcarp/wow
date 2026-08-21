@@ -2,9 +2,12 @@ name: Gnomish Flying Machine
 
 origin: betrayal-of-the-guardian-069
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive 1 , → Reveal the top card of your deck. If it's an ally, other allies you control have +1 ATK this turn.
 
 regulation:

@@ -2,9 +2,11 @@ name: Enchant Weapon Might
 
 origin: warlords-crafted-004
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Blade of the Empty Void
 
 origin: scourgewar-232
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: While this weapon is in your graveyard, your hero has Protector .
 
 regulation:

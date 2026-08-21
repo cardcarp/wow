@@ -2,9 +2,12 @@ name: Winters Grasp
 
 origin: heroes-of-azeroth-060
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : Opposing allies can't attack heroes or allies in your party unless their controller pays 1 for each attacker."
 
 regulation:

@@ -2,9 +2,12 @@ name: '"Cracklehands" Spigotgulp'
 
 origin: blood-of-gladiators-095
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: If you would draw a card, you may skip drawing it instead. When you skip drawing a card this way, Cracklehands deals 2 arcane damage to target ally.
 
 regulation:

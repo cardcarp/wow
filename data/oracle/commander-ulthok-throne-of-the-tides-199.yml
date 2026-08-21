@@ -2,9 +2,12 @@ name: Commander Ulthok
 
 origin: throne-of-the-tides-199
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Monster Hero Required When Ulthok enters play, name an ability, ally, or equipment. Then, search target opponent's deck, graveyard, and hand for all cards with that name and remove them from the game.
 
 regulation:

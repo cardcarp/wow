@@ -2,15 +2,18 @@ name: Aeonus
 
 origin: caverns-of-time-raid-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'Flip 2 , Assault 3 , Long-Range Entrance : A random Raider skips their next turn. When Aeonus flips the second Caverns card on his turn, if it does not share a type with the first Caverns card flipped this turn, flip an additional Caverns card.'
 
 regulation:

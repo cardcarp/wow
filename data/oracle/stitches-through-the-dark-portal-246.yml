@@ -2,9 +2,12 @@ name: Stitches
 
 origin: through-the-dark-portal-246
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 0
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Stitches has +1 ATK and +1 health for each ally card in your graveyard. When Stitches is dealt damage, remove that many ally cards in your graveyard from the game. Then, remove 1 damage from Stitches for each ally card you removed.
 
 regulation:

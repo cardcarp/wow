@@ -2,9 +2,12 @@ name: Ardon Almastor
 
 origin: throne-of-the-tides-097
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he deals 2 shadow damage to target ally you control.
 
 regulation:

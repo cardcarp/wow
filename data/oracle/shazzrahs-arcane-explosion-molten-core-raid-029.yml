@@ -2,9 +2,12 @@ name: Shazzrahs Arcane Explosion
 
 origin: molten-core-raid-029
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

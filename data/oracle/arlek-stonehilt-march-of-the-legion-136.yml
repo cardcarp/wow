@@ -2,9 +2,12 @@ name: Arlek Stonehilt
 
 origin: march-of-the-legion-136
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive Each of your armor has +5 DEF while your hero is defending.
 
 regulation:

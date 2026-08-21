@@ -2,14 +2,17 @@ name: Summon Boss
 
 origin: battle-of-the-aspects-raid-036
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: Reveal cards from the top of the Deathwing deck until you reveal a Boss. Put that ally into play, then shuffle the remaining cards into the Deathwing deck.
 
 regulation:

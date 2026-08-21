@@ -2,9 +2,12 @@ name: Moroes
 
 origin: betrayal-of-the-guardian-149
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Stealth , Spellshield When Moroes deals combat damage to a defending hero, choose one of the following at random and put it into play: 2 / 2 Priest Spirit Monster ally token with Absorb , 2 / 2 Paladin Spirit Monster ally token with Protector , 2 / 2 Warrior Spirit Monster ally token with Ferocity .'
 
 regulation:

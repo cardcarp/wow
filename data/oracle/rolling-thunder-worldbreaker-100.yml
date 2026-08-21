@@ -2,9 +2,12 @@ name: Rolling Thunder
 
 origin: worldbreaker-100
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elemental Hero Required Your hero deals nature damage to target hero or ally equal to 3 plus an additional 3 for each equipment in that character's party.
 
 regulation:

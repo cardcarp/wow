@@ -2,9 +2,12 @@ name: Grip of the Damned
 
 origin: worldbreaker-028
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put target opposing ally or weapon on the bottom of its owner's deck.
 
 regulation:

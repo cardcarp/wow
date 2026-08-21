@@ -1,6 +1,6 @@
 name: Assault on Icecrown Citadel Raid
 
-type: raid
+type: Raid
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 30
 
 total: 30
 
-date_release: 2011-03
+date: 2011-03
 
 collection: Assault on Icecrown Citadel

@@ -2,9 +2,12 @@ name: Dark Pact
 
 origin: heroes-of-azeroth-122
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Affliction Hero Required As an additional cost to play Dark Pact, destroy one of your Pets. Draw X cards, where X is the cost of the Pet you destroyed.
 
 regulation:

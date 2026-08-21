@@ -2,9 +2,12 @@ name: Multi-Shot
 
 origin: heroes-of-azeroth-041
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 

@@ -2,9 +2,12 @@ name: Apparatus of Khaz'goroth
 
 origin: tomb-of-the-forgotten-179
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Assault 1 .
 
 regulation:

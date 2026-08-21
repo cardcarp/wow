@@ -2,9 +2,12 @@ name: Fa'tafi
 
 origin: heroes-of-azeroth-236
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector At the start of each turn, Fa'tafi heals 1 damage from herself.
 
 regulation:

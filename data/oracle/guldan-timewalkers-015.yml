@@ -2,9 +2,12 @@ name: Gul'Dan
 
 origin: timewalkers-015
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule: []
 

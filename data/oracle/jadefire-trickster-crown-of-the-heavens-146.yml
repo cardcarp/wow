@@ -2,9 +2,12 @@ name: Jadefire Trickster
 
 origin: crown-of-the-heavens-146
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally can attack only heroes.
 
 regulation:

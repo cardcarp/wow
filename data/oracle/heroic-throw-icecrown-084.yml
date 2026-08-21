@@ -2,9 +2,12 @@ name: Heroic Throw
 
 origin: icecrown-084
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: You may discard a weapon rather than pay this ability's cost. Your hero deals 4 ranged damage to target hero or ally.
 
 regulation:

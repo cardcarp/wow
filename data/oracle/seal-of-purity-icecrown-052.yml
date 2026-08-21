@@ -2,9 +2,12 @@ name: Seal of Purity
 
 origin: icecrown-052
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : Weapons you control have Assault 1 . When your hero deals combat damage with a weapon, you may destroy target ability that's attached to a friendly card."
 
 regulation:

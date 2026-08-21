@@ -2,9 +2,12 @@ name: Orox Darkhorn
 
 origin: war-of-the-ancients-141
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Tribe : When this or another Tauren ally enters play under your control, you may remove the top card of target player's deck from the game."
 
 regulation:

@@ -2,9 +2,11 @@ name: Iron Horde Bruiser
 
 origin: warlords-of-the-iron-horde-159
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

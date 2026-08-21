@@ -2,20 +2,23 @@ name: Zazel the Greedy
 
 origin: twilight-of-the-dragons-020
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 6 → Flip Zazel face down.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: Assault 2
 
 regulation:

@@ -2,9 +2,11 @@ name: Olgra Barrelfist
 
 origin: monk-starter-010
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

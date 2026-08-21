@@ -2,9 +2,12 @@ name: Dominate
 
 origin: fields-of-honor-072
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: As an additional cost to play, destroy an ally in your party. Your hero deals shadow damage equal to that ally's ATK to each opposing hero and ally.
 
 regulation:

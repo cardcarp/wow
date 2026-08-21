@@ -1,3 +1,5 @@
+oracle: crab-champion-token-001
+
 index: '001'
 
 rarity:
@@ -7,7 +9,5 @@ artist:
 variation: []
 
 flavor:
-
-oracle: crab-champion-token-001
 
 set: Champion Token

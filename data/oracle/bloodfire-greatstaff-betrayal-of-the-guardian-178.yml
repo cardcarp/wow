@@ -2,9 +2,12 @@ name: Bloodfire Greatstaff
 
 origin: betrayal-of-the-guardian-178
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 , → Exhaust target ally.
 
 regulation:

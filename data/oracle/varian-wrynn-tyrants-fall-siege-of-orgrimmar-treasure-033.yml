@@ -2,9 +2,11 @@ name: Varian Wrynn, Tyrants Fall
 
 origin: siege-of-orgrimmar-treasure-033
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

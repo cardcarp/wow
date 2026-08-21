@@ -2,9 +2,12 @@ name: Shroud of the High Priest
 
 origin: crown-of-the-heavens-034
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to your hero. Ongoing : Attached hero has: → You pay 2 less to play your next card this turn. → Your hero heals 3 damage from each friendly hero and ally. → Remove the top five cards of target player's deck from the game."
 
 regulation:

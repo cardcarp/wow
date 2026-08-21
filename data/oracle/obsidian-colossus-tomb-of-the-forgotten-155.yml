@@ -2,9 +2,12 @@ name: Obsidian Colossus
 
 origin: tomb-of-the-forgotten-155
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector If this ally would be destroyed, remove all damage from it, exhaust it, and add three stone counters to it instead. At the start of your turn, remove a stone counter from this ally. If none remain, ready this ally. While this ally has a stone counter on it, it can't ready and has Invincible .
 
 regulation:

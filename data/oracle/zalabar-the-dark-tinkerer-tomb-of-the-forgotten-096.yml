@@ -2,9 +2,12 @@ name: Zalabar the Dark Tinkerer
 
 origin: tomb-of-the-forgotten-096
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive At the end of your turn, this ally deals 1 shadow damage to target hero for each ally in that hero's controller's graveyard, and then this ally heals that much damage from your hero.
 
 regulation:

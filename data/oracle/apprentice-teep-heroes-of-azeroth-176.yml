@@ -2,9 +2,12 @@ name: Apprentice Teep
 
 origin: heroes-of-azeroth-176
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive
 
 regulation:

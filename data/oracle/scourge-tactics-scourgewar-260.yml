@@ -2,12 +2,15 @@ name: Scourge Tactics
 
 origin: scourgewar-260
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'You pay 1 less to complete this quest for each ally in your graveyard. Pay 5 to complete this quest. Reward : Draw a card.'
 
 regulation:

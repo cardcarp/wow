@@ -2,9 +2,12 @@ name: Scarlet Sorcerer
 
 origin: scarlet-monastery-019
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 2
 
@@ -15,7 +18,7 @@ combat: Frost
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he deals 2 frost damage to each Raiding ally.
 
 regulation:

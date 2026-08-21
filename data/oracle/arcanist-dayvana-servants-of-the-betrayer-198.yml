@@ -2,9 +2,12 @@ name: Arcanist Dayvana
 
 origin: servants-of-the-betrayer-198
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Scryer Reputation Sabotage: Quest When Dayvana sabotages a quest, you may complete it this turn.'
 
 regulation:

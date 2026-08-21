@@ -2,9 +2,12 @@ name: Flight Form
 
 origin: fires-of-outland-021
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

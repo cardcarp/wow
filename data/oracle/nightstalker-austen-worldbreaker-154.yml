@@ -2,9 +2,12 @@ name: Nightstalker Austen
 
 origin: worldbreaker-154
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing allies lose and can't have Elusive .
 
 regulation:

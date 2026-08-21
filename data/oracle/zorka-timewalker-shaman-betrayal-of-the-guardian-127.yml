@@ -2,9 +2,12 @@ name: Zor'ka, Timewalker Shaman
 
 origin: betrayal-of-the-guardian-127
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'While you control two or more allies that share a or race: → This ally deals 2 nature damage divided as you choose to any number of target heroes and/or allies.'
 
 regulation:

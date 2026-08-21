@@ -2,9 +2,12 @@ name: Ogre Bodyguard
 
 origin: the-deadmines-016
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 2
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: While this ally is ready, prevent all damage that would be dealt to him.
 
 regulation:

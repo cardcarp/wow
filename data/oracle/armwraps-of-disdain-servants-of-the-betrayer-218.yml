@@ -2,9 +2,12 @@ name: Armwraps of Disdain
 
 origin: servants-of-the-betrayer-218
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy an ability you control → Your hero has +1 ATK while attacking this turn.
 
 regulation:

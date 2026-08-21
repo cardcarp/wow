@@ -2,9 +2,12 @@ name: Deathbringer Saurfang
 
 origin: assault-on-icecrown-citadel-raid-012
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Raid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Protector Blood Power : Deathbringer Saurfang has +1 ATK for each damage on him.'
 
 regulation:

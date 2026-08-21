@@ -2,9 +2,12 @@ name: Piercing Shots
 
 origin: betrayal-of-the-guardian-017
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Marksmanship Talent Ongoing : Damage that heroes and allies you control would deal is unpreventable. At the end of your turn, if an opposing hero was dealt 5 or more damage this turn, you may draw a card.'
 
 regulation:

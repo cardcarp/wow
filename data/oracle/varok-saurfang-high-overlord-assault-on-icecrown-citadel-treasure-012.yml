@@ -2,9 +2,12 @@ name: Varok Saurfang, High Overlord
 
 origin: assault-on-icecrown-citadel-treasure-012
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity When this ally would be dealt damage, prevent 1 of it for each damage on him.
 
 regulation:

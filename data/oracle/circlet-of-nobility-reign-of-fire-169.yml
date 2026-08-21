@@ -2,9 +2,12 @@ name: Circlet of Nobility
 
 origin: reign-of-fire-169
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor enters play, draw a card. Your hero has Assault 1 .
 
 regulation:

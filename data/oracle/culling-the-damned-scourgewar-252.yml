@@ -2,12 +2,15 @@ name: Culling the Damned
 
 origin: scourgewar-252
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Reveal any number of cards from your hand and pay 5 to complete this quest. Reward : If you revealed an ability, draw a card. If you revealed an ally, draw a card. If you revealed an equipment, draw a card.'
 
 regulation:

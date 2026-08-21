@@ -2,9 +2,11 @@ name: Mogu'dar, Blade of the Thousand Slaves
 
 origin: echoes-of-thunder-287
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

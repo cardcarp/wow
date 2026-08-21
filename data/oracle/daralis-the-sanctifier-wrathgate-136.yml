@@ -2,9 +2,12 @@ name: Daralis the Sanctifier
 
 origin: wrathgate-136
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -20,7 +23,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an Ongoing ability, this ally may deal 3 unpreventable holy damage to target hero or ally.
 
 regulation:

@@ -2,14 +2,17 @@ name: Hidden Reserves
 
 origin: onyxias-lair-event-016
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Raid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each opponent reveals the top two cards of his deck. He may put a revealed ally card into his hand and the rest on the bottom of his deck.
 
 regulation:

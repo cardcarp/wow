@@ -2,9 +2,12 @@ name: Cleave
 
 origin: heroes-of-azeroth-138
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals X melee damage to each of up to two target allies, where X is 1 plus the ATK of one of your Melee weapons.
 
 regulation:

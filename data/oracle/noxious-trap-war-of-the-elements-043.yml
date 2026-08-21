@@ -2,9 +2,12 @@ name: Noxious Trap
 
 origin: war-of-the-elements-043
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

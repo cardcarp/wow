@@ -2,9 +2,12 @@ name: Abyss Walkers Boots
 
 origin: march-of-the-legion-255
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Remove target card in a graveyard from the game.
 
 regulation:

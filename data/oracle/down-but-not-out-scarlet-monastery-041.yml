@@ -2,12 +2,15 @@ name: Down But Not Out
 
 origin: scarlet-monastery-041
 
-layout: standard
+layout: Standard
 
-category: Achievement
+category:
+  - Achievement
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Have 60 or more total damage on Raiding heroes with no Raiding heroes being destroyed by the damage.
 
 regulation:

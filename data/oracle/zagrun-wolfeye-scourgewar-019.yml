@@ -2,17 +2,20 @@ name: Zagrun Wolfeye
 
 origin: scourgewar-019
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'If you control another Shaman: Flip Zagrun → Put a +1 ATK counter on target Melee weapon.'
 
 regulation:

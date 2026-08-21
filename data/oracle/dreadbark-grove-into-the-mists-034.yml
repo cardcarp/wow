@@ -2,9 +2,11 @@ name: Dreadbark Grove
 
 origin: into-the-mists-034
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Hira
 
 origin: worldbreaker-140
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 

@@ -2,9 +2,11 @@ name: Arcane Singularity
 
 origin: siege-of-orgrimmar-treasure-010
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

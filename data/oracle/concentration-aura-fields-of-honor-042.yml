@@ -2,9 +2,12 @@ name: Concentration Aura
 
 origin: fields-of-honor-042
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

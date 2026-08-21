@@ -2,9 +2,12 @@ name: Tabard of the Legion
 
 origin: war-of-the-ancients-219
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 , → Look at the top card of your deck. You may put that card on the bottom of your deck. You pay 1 less to use this power for each Demon ally you control.
 
 regulation:

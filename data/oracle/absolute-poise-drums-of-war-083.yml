@@ -2,9 +2,12 @@ name: Absolute Poise
 
 origin: drums-of-war-083
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

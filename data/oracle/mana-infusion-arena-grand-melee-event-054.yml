@@ -2,12 +2,15 @@ name: Mana Infusion
 
 origin: arena-grand-melee-event-054
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Draw cards until you reach your maximum hand size.
 
 regulation:

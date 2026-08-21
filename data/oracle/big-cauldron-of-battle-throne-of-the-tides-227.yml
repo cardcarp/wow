@@ -2,9 +2,12 @@ name: Big Cauldron of Battle
 
 origin: throne-of-the-tides-227
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'At the start of your turn, choose one at random: Pain; Mind; Cunning; Power; or Time. Pain: Your hero deals 1 arcane damage to itself. Mind: Draw a card. Cunning: Each opponent discards a card. Power: Your hero deals 3 melee damage to each opposing hero and ally. Time: Repeat this process two more times.'
 
 regulation:

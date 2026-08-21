@@ -1,3 +1,5 @@
+oracle: jaenel-worldbreaker-006
+
 index: '006'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"One threat falls, and another rises; the work of the Light is without pause."'
-
-oracle: jaenel-worldbreaker-006
 
 set: Worldbreaker

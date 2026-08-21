@@ -2,9 +2,12 @@ name: Keeper Sharus
 
 origin: crown-of-the-heavens-156
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive While you control another Monster hero or ally, this ally has Harmonize .
 
 regulation:

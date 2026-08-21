@@ -2,9 +2,12 @@ name: Brelnor Mindbender
 
 origin: drums-of-war-115
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Brelnor enters play, gain control of target ally while Brelnor remains in your party.
 
 regulation:

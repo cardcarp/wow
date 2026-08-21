@@ -2,12 +2,15 @@ name: Seeing Double
 
 origin: arena-grand-melee-event-089
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Double all (non-damage) counters. The controller of each ally token puts another copy of that token into play.
 
 regulation:

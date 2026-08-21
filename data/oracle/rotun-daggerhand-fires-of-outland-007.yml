@@ -2,17 +2,20 @@ name: Rotun Daggerhand
 
 origin: fires-of-outland-007
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Rotun Daggerhand → Rotun deals 1 melee damage to target hero or ally. That damage counts as combat damage.
 
 regulation:

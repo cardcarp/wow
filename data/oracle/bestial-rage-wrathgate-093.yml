@@ -2,9 +2,12 @@ name: Bestial Rage
 
 origin: wrathgate-093
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Your hero has Assault 1 for each Hunter and Warrior you control.'
 
 regulation:

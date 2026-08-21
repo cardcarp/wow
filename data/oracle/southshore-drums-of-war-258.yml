@@ -2,14 +2,17 @@ name: Southshore
 
 origin: drums-of-war-258
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 1 , → When target ally in your party next deals damage to an ally with lower cost this turn, draw a card.'
 
 regulation:

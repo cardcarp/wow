@@ -2,17 +2,20 @@ name: Fallingstar
 
 origin: servants-of-the-betrayer-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 30
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 1 , Flip Fallingstar → Allies in your party with damage have +2 ATK this turn.
 
 regulation:

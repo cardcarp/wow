@@ -2,9 +2,12 @@ name: Magical Ogre Idol
 
 origin: crown-of-the-heavens-175
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'This item enters play exhausted. On your turn: , Destroy this item → This turn, your hero becomes an Ogre Monster hero and has +6 ATK and Smash .'
 
 regulation:

@@ -23,11 +23,17 @@ oracle_ban:
 
 oracle_restrict:
 
-oracle_limit: 4
-
-category_limit:
+oracle_exception:
   Hero: 1
 
-size_main: 60
+oracle_limit: 4
 
-size_side: 10
+list_limit:
+  hero:
+    minimum: 1
+    maximum: 1
+  main:
+    minimum: 60
+    maximum: 60
+  side:
+    maximum: 10

@@ -2,9 +2,11 @@ name: Spaulders of the Divided Mind
 
 origin: into-the-mists-276
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

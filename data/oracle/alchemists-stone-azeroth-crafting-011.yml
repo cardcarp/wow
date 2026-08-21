@@ -2,9 +2,12 @@ name: Alchemists Stone
 
 origin: azeroth-crafting-011
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Alchemy Hero Required → Reveal the top card of your deck. You may discard a card with a different type. If you do, put that revealed card into hand.
 
 regulation:

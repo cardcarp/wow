@@ -2,9 +2,12 @@ name: Anduin Wrynn
 
 origin: blood-of-gladiators-093
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Other friendly Humans can protect Anduin. On your turn: → Search your deck for a Human ally card and put it into play.'
 
 regulation:

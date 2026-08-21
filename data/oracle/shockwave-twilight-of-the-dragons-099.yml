@@ -2,9 +2,12 @@ name: Shockwave
 
 origin: twilight-of-the-dragons-099
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protection Talent Put target ally on top of its owner's deck. Your hero deals melee damage equal to that ally's cost to its controller's hero.
 
 regulation:

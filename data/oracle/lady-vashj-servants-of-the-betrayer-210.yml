@@ -2,9 +2,12 @@ name: Lady Vashj
 
 origin: servants-of-the-betrayer-210
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '9'
 
@@ -15,7 +18,7 @@ health: 9
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required At the end of each turn, roll a die. Put that many Naga ally tokens with 1 ATK / 1 health into play.
 
 regulation:

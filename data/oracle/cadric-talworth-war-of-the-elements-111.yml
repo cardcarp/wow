@@ -2,9 +2,12 @@ name: Cadric Talworth
 
 origin: war-of-the-elements-111
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aberration Ferocity
 
 regulation:

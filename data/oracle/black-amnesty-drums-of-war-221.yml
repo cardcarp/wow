@@ -2,9 +2,12 @@ name: Black Amnesty
 
 origin: drums-of-war-221
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Dual Wield . 1 , → If your hero is defending against an ally, remove your hero from combat.
 
 regulation:

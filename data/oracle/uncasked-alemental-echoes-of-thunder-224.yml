@@ -2,9 +2,11 @@ name: Uncasked Alemental
 
 origin: echoes-of-thunder-224
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

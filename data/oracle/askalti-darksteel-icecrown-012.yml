@@ -2,9 +2,12 @@ name: Askalti Darksteel
 
 origin: icecrown-012
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 class:
   - Warrior
@@ -13,11 +16,11 @@ class:
 type: Raid
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Flip Askalti, remove a Scourge ally in your graveyard from the game → Target ally has +1 / -1 this turn.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: "Deckbuilding : You can only include abilities, equipment, allies with ally type Death Knight, neutral quests and locations, and Scourge cards. You can't include cards with reputations or other text restrictions (like Demonology Hero Required ) ."
 
 regulation:

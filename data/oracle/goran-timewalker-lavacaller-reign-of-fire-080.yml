@@ -2,9 +2,12 @@ name: Goran, Timewalker Lavacaller
 
 origin: reign-of-fire-080
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play and when he is revealed from your deck, you may destroy target ability.
 
 regulation:

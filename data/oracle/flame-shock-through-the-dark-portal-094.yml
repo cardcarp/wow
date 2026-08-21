@@ -2,9 +2,12 @@ name: Flame Shock
 
 origin: through-the-dark-portal-094
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

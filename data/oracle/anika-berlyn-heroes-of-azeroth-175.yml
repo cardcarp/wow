@@ -2,9 +2,12 @@ name: Anika Berlyn
 
 origin: heroes-of-azeroth-175
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 

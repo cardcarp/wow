@@ -2,9 +2,12 @@ name: Trogun Smith
 
 origin: fires-of-outland-146
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may exhaust target armor.
 
 regulation:

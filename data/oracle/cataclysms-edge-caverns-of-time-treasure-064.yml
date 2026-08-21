@@ -2,9 +2,12 @@ name: Cataclysms Edge
 
 origin: caverns-of-time-treasure-064
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this weapon enters play, each player chooses one ability, weapon, armor and item he controls, then destroys the rest.
 
 regulation:

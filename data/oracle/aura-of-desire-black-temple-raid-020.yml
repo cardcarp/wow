@@ -2,14 +2,17 @@ name: Aura of Desire
 
 origin: black-temple-raid-020
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : , Discard a card → Your hero deals 2 shadow damage to target ally. , Discard two cards → Destroy target ability or equipment. , Discard five cards → Destroy all opposing abilities, allies, and equipment.'
 
 regulation:

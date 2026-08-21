@@ -2,9 +2,12 @@ name: Plagueborn Meatwall
 
 origin: through-the-dark-portal-228
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When Plagueborn Meatwall defends against an ally, remove all damage from Plagueborn Meatwall, and he deals that much melee damage to each attacking ally.
 
 regulation:

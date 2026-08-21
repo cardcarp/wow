@@ -2,9 +2,12 @@ name: Mojo Masher Shakko
 
 origin: fields-of-honor-134
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When another ally in your party is destroyed, you may destroy target ability.
 
 regulation:

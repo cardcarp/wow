@@ -2,9 +2,11 @@ name: Chandler Golragg
 
 origin: monk-starter-013
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

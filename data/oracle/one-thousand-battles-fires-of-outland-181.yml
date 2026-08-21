@@ -2,9 +2,12 @@ name: One-Thousand-Battles
 
 origin: fires-of-outland-181
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Protector At the start of your turn, an opponent chooses one: One-Thousand-Battles can't attack this turn; or One-Thousand-Battles must attack this turn if able."
 
 regulation:

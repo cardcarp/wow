@@ -2,14 +2,17 @@ name: Onslaught
 
 origin: worldbreaker-119
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: Dungeon allies have Ferocity this turn. If Mograine would deal damage while attacking this turn, he deals double that much instead.
 
 regulation:

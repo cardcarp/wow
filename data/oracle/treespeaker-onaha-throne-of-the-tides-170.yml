@@ -2,9 +2,12 @@ name: Treespeaker Onaha
 
 origin: throne-of-the-tides-170
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When damage is healed from this ally, put that many 1 / 1 Treant ally tokens into play.
 
 regulation:

@@ -2,9 +2,12 @@ name: Staff of Sinister Claws
 
 origin: scourgewar-244
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, target random ally you control has Assault 2 this turn.
 
 regulation:

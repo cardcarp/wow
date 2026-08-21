@@ -2,9 +2,12 @@ name: Focus Magic
 
 origin: throne-of-the-tides-047
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Arcane Talent Reveal the top card of your deck and put it into your hand. Then, search your deck for up to three cards with the same name as the revealed card, and put them into your hand.
 
 regulation:

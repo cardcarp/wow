@@ -2,9 +2,12 @@ name: Emberstone Staff
 
 origin: dungeon-treasure-049
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ability, you may add an emberstone counter to this weapon. This weapon has +1 ATK and you pay 1 less to strike with it for each emberstone counter on it.
 
 regulation:

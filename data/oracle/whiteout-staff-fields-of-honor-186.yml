@@ -2,9 +2,12 @@ name: Whiteout Staff
 
 origin: fields-of-honor-186
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an ally is dealt frost or damage, destroy it.
 
 regulation:

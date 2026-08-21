@@ -2,9 +2,12 @@ name: 'Shadow Word: Death'
 
 origin: through-the-dark-portal-078
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

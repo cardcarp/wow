@@ -2,9 +2,12 @@ name: Kindara Mindflayer
 
 origin: the-hunt-for-illidan-129
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Kindara has +2 ATK / +2 health while an opposing hero is face up.
 
 regulation:

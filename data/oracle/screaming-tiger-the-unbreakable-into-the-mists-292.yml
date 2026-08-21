@@ -2,9 +2,11 @@ name: Screaming Tiger, the Unbreakable
 
 origin: into-the-mists-292
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

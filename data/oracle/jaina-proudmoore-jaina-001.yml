@@ -2,20 +2,23 @@ name: Jaina Proudmoore
 
 origin: jaina-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 → Flip Jaina face down.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: 'Frost Focus : If Jaina would deal damage to an opposing hero or ally, she deals that much +1 instead.'
 
 regulation:

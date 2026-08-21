@@ -2,9 +2,12 @@ name: Jessa the Lifebound
 
 origin: twilight-of-the-dragons-114
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When this ally is destroyed, put three 1 / 1 Treant ally tokens into play.
 
 regulation:

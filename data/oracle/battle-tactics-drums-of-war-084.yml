@@ -2,9 +2,12 @@ name: Battle Tactics
 
 origin: drums-of-war-084
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Opposing heroes and allies must attack each turn if able. When an opponent proposes combat, you may change the proposed defender. (It must be a legal choice for the attacker.)'
 
 regulation:

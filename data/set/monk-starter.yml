@@ -1,6 +1,6 @@
 name: Monk Starter
 
-type: starter
+type: Starter
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 59
 
 total: 59
 
-date_release: 2022-12
+date: 2022-12
 
 collection: Mists of Pandaria

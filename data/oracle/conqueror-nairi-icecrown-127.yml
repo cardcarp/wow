@@ -2,9 +2,12 @@ name: Conqueror Nairi
 
 origin: icecrown-127
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: If an opposing Shaman would deal damage, prevent 2 of it.
 
 regulation:

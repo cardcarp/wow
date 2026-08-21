@@ -2,17 +2,20 @@ name: Jonas the Red
 
 origin: servants-of-the-betrayer-028
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Jonas → When target friendly ally deals combat damage to an ally this turn, destroy both. Burning Blade
 
 regulation:

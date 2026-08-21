@@ -2,9 +2,12 @@ name: Maurice Steelson
 
 origin: twilight-of-the-dragons-120
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When this ally enters play, your hero and allies you control have Assault 1 this turn.
 
 regulation:

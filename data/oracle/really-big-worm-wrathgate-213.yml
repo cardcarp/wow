@@ -2,12 +2,15 @@ name: Really Big Worm
 
 origin: wrathgate-213
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Exhaust ten cards you control to complete this quest. Reward : Draw three cards.'
 
 regulation:

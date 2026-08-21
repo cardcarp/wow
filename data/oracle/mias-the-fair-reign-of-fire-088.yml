@@ -2,9 +2,12 @@ name: Mias the Fair
 
 origin: reign-of-fire-088
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, draw a card.
 
 regulation:

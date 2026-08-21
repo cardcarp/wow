@@ -2,9 +2,12 @@ name: Robe of the Magi
 
 origin: reign-of-fire-172
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor enters play, choose "Demon", a race, or an race. When you play a non-Ongoing ability, if you control two or more allies of the chosen race, you may copy that ability. (You may choose new targets for the copy.)
 
 regulation:

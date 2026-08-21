@@ -2,9 +2,12 @@ name: Skeletal Warhorse
 
 origin: icecrown-140
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Undead Hero Required You pay 1 less to complete quests. When you place a resource face up, you may remove target card in a graveyard from the game. (Mounts can't attack or be attacked.)
 
 regulation:

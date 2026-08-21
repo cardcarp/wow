@@ -2,9 +2,12 @@ name: Pappy Ironbane
 
 origin: blood-of-gladiators-115
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector At the end of your turn, you may destroy target ability or equipment.
 
 regulation:

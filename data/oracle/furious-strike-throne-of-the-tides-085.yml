@@ -2,9 +2,12 @@ name: Furious Strike
 
 origin: throne-of-the-tides-085
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

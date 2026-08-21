@@ -2,14 +2,17 @@ name: Sinful Beam
 
 origin: black-temple-raid-027
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: X
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals X shadow damage to target opposing hero or ally and each other opposing hero and ally with the same class as that character.
 
 regulation:

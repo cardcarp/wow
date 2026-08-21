@@ -2,9 +2,11 @@ name: Gnaw
 
 origin: hogger-demo-003
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

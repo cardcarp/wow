@@ -2,9 +2,12 @@ name: Krazal the Eggregator
 
 origin: worldbreaker-holiday-promotional-003
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally is revealed from your deck, put a 1 / 1 Spring Rabbit ally token into play.
 
 regulation:

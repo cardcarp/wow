@@ -2,9 +2,12 @@ name: Mogor
 
 origin: blood-of-gladiators-152
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Mogor is destroyed, you may pay 3 . If you do, his owner puts him from his graveyard into his party.
 
 regulation:

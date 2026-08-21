@@ -2,12 +2,15 @@ name: Towers and Bunkers
 
 origin: fields-of-honor-199
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 3 to complete this quest. Reward : If you control a location, draw a card. If you control a quest, draw a card.'
 
 regulation:

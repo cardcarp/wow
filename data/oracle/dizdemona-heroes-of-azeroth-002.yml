@@ -2,17 +2,20 @@ name: Dizdemona
 
 origin: heroes-of-azeroth-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Dizdemona, put X damage on her → Dizdemona deals X shadow damage to target ally. Use only on your turn.
 
 regulation:

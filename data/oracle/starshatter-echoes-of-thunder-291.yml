@@ -2,9 +2,11 @@ name: Starshatter
 
 origin: echoes-of-thunder-291
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

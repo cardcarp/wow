@@ -2,9 +2,12 @@ name: Ghost Wolf
 
 origin: heroes-of-azeroth-110
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Exhaust your hero → If your hero is defending, remove all attacking allies from combat.'
 
 regulation:

@@ -2,9 +2,11 @@ name: Healing Rain
 
 origin: echoes-of-thunder-067
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

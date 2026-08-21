@@ -2,12 +2,15 @@ name: Resourcefulness
 
 origin: drums-of-war-030
 
-layout: standard
+layout: Standard
 
-category: Achievement
+category:
+  - Achievement
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Raiders control twenty or more total resources.
 
 regulation:

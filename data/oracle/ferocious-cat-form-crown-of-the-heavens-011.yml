@@ -2,9 +2,12 @@ name: Ferocious Cat Form
 
 origin: crown-of-the-heavens-011
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

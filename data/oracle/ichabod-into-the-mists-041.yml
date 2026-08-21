@@ -2,9 +2,11 @@ name: Ichabod
 
 origin: into-the-mists-041
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

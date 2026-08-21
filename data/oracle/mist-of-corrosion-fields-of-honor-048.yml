@@ -2,9 +2,12 @@ name: Mist of Corrosion
 
 origin: fields-of-honor-048
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Choose "ability," "ally," or "equipment." Target opponent destroys a card of that kind he controls unless he discards a card of that kind.
 
 regulation:

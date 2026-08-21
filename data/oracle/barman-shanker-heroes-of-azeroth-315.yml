@@ -2,9 +2,12 @@ name: Barman Shanker
 
 origin: heroes-of-azeroth-315
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: This weapon has +2 ATK while your hero is attacking an exhausted hero or ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Tor Earthwalker
 
 origin: crown-of-the-heavens-122
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you attach an ability to a hero or ally, you may put two 1 / 1 Treant ally tokens into play.
 
 regulation:

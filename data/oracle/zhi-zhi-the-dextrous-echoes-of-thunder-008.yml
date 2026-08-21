@@ -2,9 +2,11 @@ name: Zhi-Zhi, the Dextrous
 
 origin: echoes-of-thunder-008
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

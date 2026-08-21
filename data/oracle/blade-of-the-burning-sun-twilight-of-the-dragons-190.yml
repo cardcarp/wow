@@ -2,9 +2,12 @@ name: Blade of the Burning Sun
 
 origin: twilight-of-the-dragons-190
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: ", Exhaust your hero → Reveal the top card of your deck. If it's a ally or equipment, your allies have Assault X this turn, where X is the cost of the revealed card."
 
 regulation:

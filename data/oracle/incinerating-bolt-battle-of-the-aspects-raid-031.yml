@@ -2,14 +2,17 @@ name: Incinerating Bolt
 
 origin: battle-of-the-aspects-raid-031
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each Raider puts the top three cards of his deck into his graveyard. Then each Raider removes the ally with the highest cost in his graveyard from the game. Deathwing deals fire damage to each Raider's hero equal to the cost of the ally he removed this way.
 
 regulation:

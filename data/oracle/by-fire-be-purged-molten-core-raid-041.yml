@@ -2,14 +2,17 @@ name: '"BY FIRE BE PURGED"'
 
 origin: molten-core-raid-041
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Choose two: Destroy all opposing abilities; destroy all opposing allies; or destroy all opposing equipment.'
 
 regulation:

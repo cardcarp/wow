@@ -2,16 +2,19 @@ name: Cannibalize
 
 origin: through-the-dark-portal-136
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Undead Hero Required Remove any number of ally cards in graveyards from the game. Your hero heals 2 damage from itself for each card removed.
 
 regulation:

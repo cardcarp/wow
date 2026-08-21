@@ -2,9 +2,12 @@ name: Korthas Greybeard
 
 origin: through-the-dark-portal-174
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector → Prevent the next 1 damage that would be dealt to target hero or ally this turn.
 
 regulation:

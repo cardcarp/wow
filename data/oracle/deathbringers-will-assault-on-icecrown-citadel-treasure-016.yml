@@ -2,9 +2,12 @@ name: Deathbringers Will
 
 origin: assault-on-icecrown-citadel-treasure-016
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -18,7 +21,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage to an opposing hero, you may put a 1 / 1 Spirit of Northrend token into play with Ferocity , Stealth , and "At end of turn, destroy this ally."
 
 regulation:

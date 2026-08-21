@@ -2,9 +2,12 @@ name: Lionheart Helm
 
 origin: heroes-of-azeroth-297
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Damage dealt by your hero can't be prevented.
 
 regulation:

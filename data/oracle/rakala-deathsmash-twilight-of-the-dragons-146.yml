@@ -2,9 +2,12 @@ name: Rakala Deathsmash
 
 origin: twilight-of-the-dragons-146
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally is destroyed, target opposing ally has -3 ATK this turn.
 
 regulation:

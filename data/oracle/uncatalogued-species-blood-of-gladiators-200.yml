@@ -2,12 +2,15 @@ name: Uncatalogued Species
 
 origin: blood-of-gladiators-200
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 1 to complete this quest. Reward : Name a standard race, then reveal the top four cards of your deck. Put a revealed ally card of that race into hand and the rest on the bottom of your deck.'
 
 regulation:

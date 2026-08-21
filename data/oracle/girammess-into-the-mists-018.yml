@@ -2,9 +2,11 @@ name: Girammess
 
 origin: into-the-mists-018
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

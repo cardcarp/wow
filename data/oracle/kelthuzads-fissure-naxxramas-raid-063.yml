@@ -2,16 +2,19 @@ name: Kel'Thuzads Fissure
 
 origin: naxxramas-raid-063
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Raid
 
 stage: 3
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the end of your turn, target up to one raiding ability, up to one raiding ally, and up to one raiding equipment. Remove them from the game.'
 
 regulation:

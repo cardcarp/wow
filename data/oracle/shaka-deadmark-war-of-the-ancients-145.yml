@@ -2,9 +2,12 @@ name: Shaka Deadmark
 
 origin: war-of-the-ancients-145
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, target an opposing hero. Orc allies you control have +3 ATK while in combat with that hero this turn.
 
 regulation:

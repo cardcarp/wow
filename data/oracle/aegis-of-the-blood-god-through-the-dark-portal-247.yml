@@ -2,9 +2,12 @@ name: Aegis of the Blood God
 
 origin: through-the-dark-portal-247
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aegis of the Blood God has +1 DEF for each damage on your hero.
 
 regulation:

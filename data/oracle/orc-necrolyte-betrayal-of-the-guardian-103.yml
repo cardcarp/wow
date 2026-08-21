@@ -2,9 +2,12 @@ name: Orc Necrolyte
 
 origin: betrayal-of-the-guardian-103
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, it deals 2 shadow damage to target opposing hero and heals 2 damage from your hero.
 
 regulation:

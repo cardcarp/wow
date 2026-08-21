@@ -2,9 +2,12 @@ name: Howl from Beyond
 
 origin: reign-of-fire-058
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

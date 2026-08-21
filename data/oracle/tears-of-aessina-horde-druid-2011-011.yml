@@ -2,9 +2,12 @@ name: Tears of Aessina
 
 origin: horde-druid-2011-011
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

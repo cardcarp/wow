@@ -2,9 +2,12 @@ name: Mistletoe
 
 origin: feast-of-winter-veil-2007-008
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: You and another friendly player each exhaust their heroes → You and that player each draw a card.
 
 regulation:

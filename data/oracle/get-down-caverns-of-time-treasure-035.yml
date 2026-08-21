@@ -2,9 +2,12 @@ name: Get Down!
 
 origin: caverns-of-time-treasure-035
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

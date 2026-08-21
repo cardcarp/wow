@@ -2,9 +2,12 @@ name: Voidmaven Christie Noone
 
 origin: scourgewar-161
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 3 , Exhaust a Demon you control → Target player discards a card.'
 
 regulation:

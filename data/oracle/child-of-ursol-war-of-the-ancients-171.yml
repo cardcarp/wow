@@ -2,9 +2,12 @@ name: Child of Ursol
 
 origin: war-of-the-ancients-171
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Mend 1
 
 regulation:

@@ -2,9 +2,11 @@ name: Primordial Ooze
 
 origin: echoes-of-thunder-204
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

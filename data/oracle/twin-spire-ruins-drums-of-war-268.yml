@@ -2,12 +2,15 @@ name: Twin Spire Ruins
 
 origin: drums-of-war-268
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When an opposing ally is destroyed, add a capture counter. On your turn: 2 , , Remove two capture counters → Put an ally card with cost 2 or less from your graveyard into play.'
 
 regulation:

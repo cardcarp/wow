@@ -2,9 +2,11 @@ name: 'Zandalari Colossus '
 
 origin: echoes-of-thunder-230
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

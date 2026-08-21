@@ -2,9 +2,12 @@ name: Dawns Grace
 
 origin: drums-of-war-051
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

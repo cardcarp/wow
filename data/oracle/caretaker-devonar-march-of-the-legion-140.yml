@@ -2,9 +2,12 @@ name: Caretaker Devonar
 
 origin: march-of-the-legion-140
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Devonar is Elusive while ready.
 
 regulation:

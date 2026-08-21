@@ -2,9 +2,11 @@ name: Ordos, Fire-God of the Yaungol
 
 origin: echoes-of-thunder-202
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

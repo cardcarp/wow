@@ -2,9 +2,12 @@ name: Greaves of the Martyr
 
 origin: caverns-of-time-treasure-056
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: This armor enters play with two +1 counters on it. Remove a +1 counter from this armor → You pay 2 less to strike with Melee weapons this turn.
 
 regulation:

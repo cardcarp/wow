@@ -2,9 +2,11 @@ name: Shakuum
 
 origin: into-the-mists-086
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

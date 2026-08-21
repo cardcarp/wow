@@ -2,9 +2,12 @@ name: The Oathkeeper
 
 origin: drums-of-war-233
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: "When The Oathkeeper enters play, choose an oath: \"I won't play cards;\" or \"I won't draw cards.\" You can't break that oath."
 
 regulation:

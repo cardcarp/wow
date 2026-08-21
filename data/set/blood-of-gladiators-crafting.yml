@@ -1,6 +1,6 @@
 name: Blood of Gladiators Crafting
 
-type: craft
+type: Craft
 
 index: 02a
 
@@ -8,6 +8,6 @@ subtotal: 3
 
 total: 3
 
-date_release: 2009-03
+date: 2009-03
 
 collection: Drums of War

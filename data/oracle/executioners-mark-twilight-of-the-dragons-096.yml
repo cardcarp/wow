@@ -2,9 +2,12 @@ name: Executioners Mark
 
 origin: twilight-of-the-dragons-096
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally. Ongoing : When attached ally is dealt damage, destroy it.'
 
 regulation:

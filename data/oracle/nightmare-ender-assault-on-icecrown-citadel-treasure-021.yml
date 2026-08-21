@@ -2,9 +2,12 @@ name: Nightmare Ender
 
 origin: assault-on-icecrown-citadel-treasure-021
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: Destroy this weapon → Shuffle your hand into your deck, then draw that many cards.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Debros Cousin-to-Moon
 
 origin: through-the-dark-portal-206
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Debros Cousin-to-Moon has +1 ATK for each resource you have.
 
 regulation:

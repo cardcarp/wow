@@ -2,9 +2,11 @@ name: Dark Ranger Siren Ghostsong
 
 origin: warlords-of-the-iron-horde-heroic-006
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Twilight Assassin
 
 origin: battle-of-the-aspects-treasure-053
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, draw a card for each other player unless that player chooses and discards a card.
 
 regulation:

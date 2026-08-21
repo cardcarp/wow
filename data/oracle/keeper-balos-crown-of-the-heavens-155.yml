@@ -2,9 +2,12 @@ name: Keeper Balos
 
 origin: crown-of-the-heavens-155
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Harmonize
 
 regulation:

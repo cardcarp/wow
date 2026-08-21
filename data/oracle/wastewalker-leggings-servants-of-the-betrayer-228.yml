@@ -2,9 +2,12 @@ name: Wastewalker Leggings
 
 origin: servants-of-the-betrayer-228
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opposing hero or ally becomes exhausted, your hero deals 1 melee damage to it.
 
 regulation:

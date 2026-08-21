@@ -2,14 +2,17 @@ name: Do or Die
 
 origin: the-deadmines-026
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: "The MARKED hero's controller chooses one: He discards three random cards; or he chooses and destroys three allies he controls."
 
 regulation:

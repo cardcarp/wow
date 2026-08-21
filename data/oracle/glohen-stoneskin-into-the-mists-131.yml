@@ -2,9 +2,11 @@ name: Glohen Stoneskin
 
 origin: into-the-mists-131
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

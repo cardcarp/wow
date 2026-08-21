@@ -2,9 +2,12 @@ name: Jin'rohk, The Great Apocalypse
 
 origin: fields-of-honor-177
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a hero is dealt damage with Jin'rohk, destroy up to that many target non-hero cards controlled by that hero's controller.
 
 regulation:

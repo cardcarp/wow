@@ -2,9 +2,12 @@ name: Slimefin
 
 origin: tomb-of-the-forgotten-147
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: This and other Murloc allies you control can't be targeted by opponents.
 
 regulation:

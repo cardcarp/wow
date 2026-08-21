@@ -2,12 +2,15 @@ name: No One to Save You
 
 origin: wrathgate-210
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If your hero was dealt 5 or more damage this turn: Pay 2 to complete this quest. Reward : Draw a card.'
 
 regulation:

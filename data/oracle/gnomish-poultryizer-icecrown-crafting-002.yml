@@ -2,9 +2,12 @@ name: Gnomish Poultryizer
 
 origin: icecrown-crafting-002
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Engineering Hero Required 3 , → Add a feather counter, and this turn, target ally can't attack or protect, loses and can't have powers, and is also a Chicken. Chickens have -1 / -1 for each feather counter.
 
 regulation:

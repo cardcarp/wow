@@ -2,9 +2,11 @@ name: Mountain King Huginn Doomforge
 
 origin: warlords-of-the-iron-horde-heroic-002
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

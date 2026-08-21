@@ -2,9 +2,12 @@ name: Ruby Flameblade
 
 origin: worldbreaker-215
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: Allies you control have Assault 1 .
 
 regulation:

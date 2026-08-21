@@ -2,9 +2,11 @@ name: Sky Golem
 
 origin: warlords-crafted-034
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

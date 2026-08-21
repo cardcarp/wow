@@ -2,9 +2,12 @@ name: Platinum Shield of the Valorous
 
 origin: march-of-the-legion-266
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: This armor has +1 for each face-down resource you control.
 
 regulation:

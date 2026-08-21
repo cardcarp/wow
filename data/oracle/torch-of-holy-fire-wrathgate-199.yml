@@ -2,9 +2,12 @@ name: Torch of Holy Fire
 
 origin: wrathgate-199
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Exhaust your hero → Reveal a random card from your hand. If it's a card, your hero deals 2 unpreventable holy damage to target hero or ally and heals 2 damage from itself.
 
 regulation:

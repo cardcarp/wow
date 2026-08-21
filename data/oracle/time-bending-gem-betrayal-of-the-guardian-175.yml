@@ -2,9 +2,12 @@ name: Time-Bending Gem
 
 origin: betrayal-of-the-guardian-175
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -18,7 +21,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you place a resource face up into your resource row, your hero has Assault 1 this turn.
 
 regulation:

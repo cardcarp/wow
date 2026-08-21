@@ -2,9 +2,11 @@ name: Claw and Fist Style
 
 origin: into-the-mists-104
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

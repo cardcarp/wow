@@ -2,9 +2,12 @@ name: Reanimators Hacker
 
 origin: scourgewar-241
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , Destroy this weapon → Put target ally from your graveyard into your hand.
 
 regulation:

@@ -2,9 +2,11 @@ name: A Witness to History
 
 origin: echoes-of-thunder-304
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

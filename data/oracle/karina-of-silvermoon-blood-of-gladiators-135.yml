@@ -2,9 +2,12 @@ name: Karina of Silvermoon
 
 origin: blood-of-gladiators-135
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Arcane Torrent At the start of your turn, you may put Karina into her owner's hand.
 
 regulation:

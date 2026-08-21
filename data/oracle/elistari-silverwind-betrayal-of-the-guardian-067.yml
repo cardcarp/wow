@@ -2,9 +2,12 @@ name: Elistari Silverwind
 
 origin: betrayal-of-the-guardian-067
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive → This ally deals 1 ranged damage to target hero or ally.
 
 regulation:

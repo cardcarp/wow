@@ -2,9 +2,12 @@ name: Demolish
 
 origin: drums-of-war-095
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy target equipment.
 
 regulation:

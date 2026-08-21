@@ -2,9 +2,11 @@ name: Sam the Wise
 
 origin: echoes-of-thunder-240
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Purifying Brew
 
 origin: monk-starter-025
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

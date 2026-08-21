@@ -2,9 +2,12 @@ name: Marius Jator
 
 origin: worldbreaker-152
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Long-Range Once on each of your turns: 1 → This ally has Assault 3 and loses and can't have Long-Range this turn."
 
 regulation:

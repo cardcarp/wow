@@ -2,9 +2,12 @@ name: Power Returns
 
 origin: magtheridons-lair-raid-019
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

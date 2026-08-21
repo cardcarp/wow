@@ -2,9 +2,12 @@ name: Sunseeker Astromage
 
 origin: servants-of-the-betrayer-214
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Arcane
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required When another ally named Sunseeker Astromage in your party is destroyed, draw a card.
 
 regulation:

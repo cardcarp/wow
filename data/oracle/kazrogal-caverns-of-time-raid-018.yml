@@ -2,9 +2,12 @@ name: Kaz'rogal
 
 origin: caverns-of-time-raid-018
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 1
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Boss When Kaz'rogal enters play, he deals 4 shadow damage to the hero of each Raider that controls no ready resources. Caverns Hero 2+ : Kaz'rogal has Assault 1 for each exhausted resource the MARKED hero controls."
 
 regulation:

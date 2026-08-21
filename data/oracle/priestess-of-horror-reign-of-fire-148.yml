@@ -2,9 +2,12 @@ name: Priestess of Horror
 
 origin: reign-of-fire-148
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Absorb
 
 regulation:

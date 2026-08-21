@@ -2,9 +2,12 @@ name: Fury of the Ages
 
 origin: betrayal-of-the-guardian-057
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Rift Ongoing : Allies you control have Ferocity .'
 
 regulation:

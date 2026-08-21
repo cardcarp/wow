@@ -2,9 +2,12 @@ name: Life-Binders Locket
 
 origin: wrathgate-183
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: ', Discard a card → Hero : If a friendly hero or ally would be dealt damage this turn, prevent 1 of it. Hero : The next time target hero or ally would be dealt damage this turn, prevent it.'
 
 regulation:

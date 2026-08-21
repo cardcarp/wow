@@ -2,9 +2,12 @@ name: Tremor Totem
 
 origin: fires-of-outland-081
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

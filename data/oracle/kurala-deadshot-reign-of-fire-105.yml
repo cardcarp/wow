@@ -2,9 +2,12 @@ name: Kurala Deadshot
 
 origin: reign-of-fire-105
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally attacks, you may reveal the top card of your deck. If it's an Orc ally, put a 2 / 2 Orc Warrior ally token into play with Ferocity and "This ally can attack only heroes."
 
 regulation:

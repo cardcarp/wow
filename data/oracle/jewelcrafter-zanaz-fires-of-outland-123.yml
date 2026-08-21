@@ -2,9 +2,12 @@ name: Jewelcrafter Zanaz
 
 origin: fires-of-outland-123
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 

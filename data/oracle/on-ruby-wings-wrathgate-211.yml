@@ -2,12 +2,15 @@ name: On Ruby Wings
 
 origin: wrathgate-211
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: Pay 3 to complete this quest. Reward : Put a 0 / 3 Wyrmrest Vanquisher ally token into play with Mount (1) and "When you place a resource face up, you may draw a card."'
 
 regulation:

@@ -2,9 +2,12 @@ name: Warcaller Zin'bawa
 
 origin: through-the-dark-portal-240
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Troll Hero Required Protector Warcaller Zin'bawa has +1 ATK for each damage on allies in your party.
 
 regulation:

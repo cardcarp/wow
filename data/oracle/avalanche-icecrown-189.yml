@@ -2,9 +2,12 @@ name: Avalanche
 
 origin: icecrown-189
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with this weapon, your hero has Long-Range this combat. When your hero deals combat damage with this weapon to a hero, your hero deals that much frost damage to target ally in that hero's party.
 
 regulation:

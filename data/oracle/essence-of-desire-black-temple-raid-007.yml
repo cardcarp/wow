@@ -2,9 +2,11 @@ name: Essence of Desire
 
 origin: black-temple-raid-007
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

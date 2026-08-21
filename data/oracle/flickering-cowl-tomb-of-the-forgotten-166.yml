@@ -2,9 +2,12 @@ name: Flickering Cowl
 
 origin: tomb-of-the-forgotten-166
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 1 , → Target ally has +1 / -1 this turn.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Prazo Whiptrick
 
 origin: throne-of-the-tides-166
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 3 less to play this ally if you played an equipment this turn.
 
 regulation:

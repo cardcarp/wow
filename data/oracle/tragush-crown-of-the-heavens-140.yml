@@ -2,9 +2,12 @@ name: Trag'ush
 
 origin: crown-of-the-heavens-140
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Conspicuous
 
 regulation:

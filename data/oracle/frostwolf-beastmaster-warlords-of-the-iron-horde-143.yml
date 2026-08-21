@@ -2,9 +2,11 @@ name: Frostwolf Beastmaster
 
 origin: warlords-of-the-iron-horde-143
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

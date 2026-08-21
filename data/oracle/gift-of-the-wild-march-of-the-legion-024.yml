@@ -2,9 +2,12 @@ name: Gift of the Wild
 
 origin: march-of-the-legion-024
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 

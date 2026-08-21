@@ -2,9 +2,12 @@ name: Spectral Death Knight
 
 origin: naxxramas-token-009
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 2
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally deals combat damage to a hero or ally, he also deals 1 melee damage to each other hero and ally in that character's party.
 
 regulation:

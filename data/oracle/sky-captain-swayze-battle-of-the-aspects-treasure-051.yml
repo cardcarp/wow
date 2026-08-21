@@ -2,9 +2,12 @@ name: Sky Captain Swayze
 
 origin: battle-of-the-aspects-treasure-051
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Ranged
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive → Ready another target card. 5 → Swayze deals 5 ranged damage to target opposing hero.
 
 regulation:

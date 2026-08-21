@@ -2,9 +2,12 @@ name: Barims Main Gauche
 
 origin: tomb-of-the-forgotten-183
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: This weapon has +3 ATK for each ally you control with 6 or more ATK.
 
 regulation:

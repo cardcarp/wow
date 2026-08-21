@@ -2,9 +2,12 @@ name: Guardian of the Ages
 
 origin: betrayal-of-the-guardian-028
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -18,7 +21,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: Rift Protector
 
 regulation:

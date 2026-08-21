@@ -2,9 +2,12 @@ name: Child of Aviana
 
 origin: war-of-the-ancients-167
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Monster heroes can protect this ally.
 
 regulation:

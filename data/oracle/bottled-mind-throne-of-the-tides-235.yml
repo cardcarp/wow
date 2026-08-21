@@ -2,9 +2,12 @@ name: Bottled Mind
 
 origin: throne-of-the-tides-235
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this item enters play, target opponent discards a card. On your turn: Exhaust a Priest hero or ally you control and destroy this item → Target opponent discards a card.'
 
 regulation:

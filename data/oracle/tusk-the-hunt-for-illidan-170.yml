@@ -2,9 +2,12 @@ name: Tusk
 
 origin: the-hunt-for-illidan-170
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity When Tusk deals combat damage to a hero or ally, other heroes and allies in your party have Long-Range while attacking that character this turn.
 
 regulation:

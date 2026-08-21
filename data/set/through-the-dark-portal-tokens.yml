@@ -1,6 +1,6 @@
 name: Through the Dark Portal Tokens
 
-type: token
+type: Token
 
 index: 02a
 
@@ -8,6 +8,6 @@ subtotal: 4
 
 total: 4
 
-date_release: 2007-04
+date: 2007-04
 
 collection: Azeroth

@@ -2,9 +2,11 @@ name: The Dread Wastes
 
 origin: echoes-of-thunder-331
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Detonate Soul
 
 origin: scourgewar-095
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target opposing ally. Ongoing : At the start of your turn, remove attached ally and all other opposing allies from the game.'
 
 regulation:

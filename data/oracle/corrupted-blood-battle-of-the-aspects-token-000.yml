@@ -2,9 +2,12 @@ name: Corrupted Blood
 
 origin: battle-of-the-aspects-token-000
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 1
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity
 
 regulation:

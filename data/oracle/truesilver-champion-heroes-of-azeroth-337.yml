@@ -2,9 +2,12 @@ name: Truesilver Champion
 
 origin: heroes-of-azeroth-337
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with Truesilver Champion, prevent the next 3 damage that would be dealt to your hero this combat.
 
 regulation:

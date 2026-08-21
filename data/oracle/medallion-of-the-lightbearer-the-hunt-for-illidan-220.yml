@@ -2,9 +2,12 @@ name: Medallion of the Lightbearer
 
 origin: the-hunt-for-illidan-220
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation Heroes and allies in your party with inspire are also Protector s.
 
 regulation:

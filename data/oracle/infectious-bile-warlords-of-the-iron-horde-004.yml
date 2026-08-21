@@ -2,9 +2,11 @@ name: Infectious Bile
 
 origin: warlords-of-the-iron-horde-004
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

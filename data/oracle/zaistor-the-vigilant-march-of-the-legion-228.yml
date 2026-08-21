@@ -2,9 +2,12 @@ name: Zaistor the Vigilant
 
 origin: march-of-the-legion-228
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation 1 , Destroy Zaistor → Target hero or ally can't be destroyed this turn.
 
 regulation:

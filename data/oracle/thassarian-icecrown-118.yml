@@ -2,9 +2,12 @@ name: Thassarian
 
 origin: icecrown-118
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Protector Once per turn: Turn a resource you control face down → Target ally has -5 ATK this turn.'
 
 regulation:

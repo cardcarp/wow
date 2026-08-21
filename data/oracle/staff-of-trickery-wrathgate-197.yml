@@ -2,9 +2,12 @@ name: Staff of Trickery
 
 origin: wrathgate-197
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust your hero, discard a card → Ready or exhaust target card if it shares a card type with the card you discarded.
 
 regulation:

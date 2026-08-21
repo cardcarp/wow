@@ -2,9 +2,12 @@ name: Akiko the Alert
 
 origin: icecrown-098
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -20,7 +23,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Pets you control have +2 / +2.
 
 regulation:

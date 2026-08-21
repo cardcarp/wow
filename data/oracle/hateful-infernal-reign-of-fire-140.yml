@@ -2,9 +2,12 @@ name: Hateful Infernal
 
 origin: reign-of-fire-140
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he deals 2 fire damage to each opposing Human ally.
 
 regulation:

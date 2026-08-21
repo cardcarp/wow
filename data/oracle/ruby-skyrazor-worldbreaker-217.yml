@@ -2,9 +2,12 @@ name: Ruby Skyrazor
 
 origin: worldbreaker-217
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: Allies you control have Untargetable .
 
 regulation:

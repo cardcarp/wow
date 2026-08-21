@@ -2,17 +2,20 @@ name: Auryna the Lightsworn
 
 origin: scourgewar-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'If you control another Paladin: Flip Auryna → Auryna deals 2 unpreventable holy damage to each opposing hero and ally that dealt damage this turn.'
 
 regulation:

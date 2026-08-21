@@ -2,14 +2,17 @@ name: Hammer of Ragnaros
 
 origin: molten-core-raid-047
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy target ability, ally, or equipment. Its controller destroys another one of his abilities, allies, or equipment.
 
 regulation:

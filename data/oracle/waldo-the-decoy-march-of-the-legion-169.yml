@@ -2,9 +2,12 @@ name: Waldo the Decoy
 
 origin: march-of-the-legion-169
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust your hero → Exhaust target ally.
 
 regulation:

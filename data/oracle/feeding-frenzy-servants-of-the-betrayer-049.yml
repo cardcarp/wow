@@ -2,9 +2,12 @@ name: Feeding Frenzy
 
 origin: servants-of-the-betrayer-049
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required As an additional cost to play, destroy any number of allies in your party. Target Pet in your party has +2 ATK this turn for each ally destroyed this way.
 
 regulation:

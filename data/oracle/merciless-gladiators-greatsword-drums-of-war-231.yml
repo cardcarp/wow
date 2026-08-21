@@ -2,9 +2,12 @@ name: Merciless Gladiators Greatsword
 
 origin: drums-of-war-231
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Merciless Gladiator's Greatsword enters play or you strike with it, your hero deals 1 melee damage to each opposing hero and ally.
 
 regulation:

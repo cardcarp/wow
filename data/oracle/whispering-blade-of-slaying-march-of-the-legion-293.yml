@@ -2,9 +2,12 @@ name: Whispering Blade of Slaying
 
 origin: march-of-the-legion-293
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your other Daggers have +1 ATK. Your hero has Dual Wield .
 
 regulation:

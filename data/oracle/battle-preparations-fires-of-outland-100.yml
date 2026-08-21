@@ -2,12 +2,15 @@ name: Battle Preparations
 
 origin: fires-of-outland-100
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Each player can play his first card on each of his turns without paying its cost.'
 
 regulation:

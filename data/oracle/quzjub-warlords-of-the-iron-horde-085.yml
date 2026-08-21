@@ -2,9 +2,11 @@ name: Quzjub
 
 origin: warlords-of-the-iron-horde-085
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

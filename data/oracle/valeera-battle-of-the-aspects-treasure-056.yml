@@ -2,9 +2,12 @@ name: Valeera
 
 origin: battle-of-the-aspects-treasure-056
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Valeera enters play, reveal the top three cards of your deck. Place all revealed quests and locations into your resource row exhausted as additional resources, and put the rest on the bottom of your deck.
 
 regulation:

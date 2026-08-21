@@ -2,9 +2,12 @@ name: The Natural Order
 
 origin: servants-of-the-betrayer-043
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy target ability or equipment.
 
 regulation:

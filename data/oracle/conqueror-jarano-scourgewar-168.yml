@@ -2,9 +2,12 @@ name: Conqueror Jarano
 
 origin: scourgewar-168
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -20,7 +23,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may destroy target ability or equipment.
 
 regulation:

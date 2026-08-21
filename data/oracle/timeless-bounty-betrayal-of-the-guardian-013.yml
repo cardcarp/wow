@@ -2,9 +2,12 @@ name: Timeless Bounty
 
 origin: betrayal-of-the-guardian-013
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

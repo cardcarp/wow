@@ -2,9 +2,11 @@ name: Corrupted Pandaren
 
 origin: echoes-of-thunder-175
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

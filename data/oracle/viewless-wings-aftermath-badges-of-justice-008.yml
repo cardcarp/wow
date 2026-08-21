@@ -2,9 +2,12 @@ name: Viewless Wings
 
 origin: aftermath-badges-of-justice-008
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Allies you control have Assault 1 for each ally you control.
 
 regulation:

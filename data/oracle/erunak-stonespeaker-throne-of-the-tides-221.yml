@@ -2,9 +2,12 @@ name: Erunak Stonespeaker
 
 origin: throne-of-the-tides-221
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When Erunak enters play, put a 0 / 2 Air, Earth, Fire, or Water Totem token into play. Exhaust a totem you control → Air: Ready Erunak. Earth: Erunak has Protector this turn. Fire: Erunak has +5 ATK this turn. Water: Erunak heals 5 damage from himself.'
 
 regulation:

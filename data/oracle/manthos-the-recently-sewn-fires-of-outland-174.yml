@@ -2,9 +2,12 @@ name: Manthos the Recently Sewn
 
 origin: fires-of-outland-174
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Manthos enters play with 3 damage.
 
 regulation:

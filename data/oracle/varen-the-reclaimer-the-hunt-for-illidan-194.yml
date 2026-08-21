@@ -2,9 +2,12 @@ name: Varen the Reclaimer
 
 origin: the-hunt-for-illidan-194
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -15,7 +18,7 @@ health: 8
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Scryer Reputation Sabotage: Game When Varen sabotages a game, the winner of this game also wins the next game.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Violet Signet of the Grand Restorer
 
 origin: timewalkers-badges-of-justice-006
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Put target card from your graveyard on the bottom of your deck. Then, your hero heals damage from itself equal to that card's cost.
 
 regulation:

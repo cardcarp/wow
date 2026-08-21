@@ -2,9 +2,12 @@ name: Enslave Demon
 
 origin: the-hunt-for-illidan-100
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target Demon ally. Ongoing : You control attached ally.'
 
 regulation:

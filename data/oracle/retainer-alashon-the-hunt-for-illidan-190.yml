@@ -2,9 +2,12 @@ name: Retainer Alashon
 
 origin: the-hunt-for-illidan-190
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Scryer Reputation Sabotage: All keywords When Alashon sabotages keywords, opposing cards everywhere lose and can't have keyword powers while he remains in your party."
 
 regulation:

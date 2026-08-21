@@ -2,9 +2,11 @@ name: The Vale of Eternal Blossoms
 
 origin: echoes-of-thunder-332
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

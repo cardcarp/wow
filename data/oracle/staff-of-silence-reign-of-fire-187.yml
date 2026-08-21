@@ -2,9 +2,12 @@ name: Staff of Silence
 
 origin: reign-of-fire-187
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opponent plays an ability, add a silence counter to this weapon. Opponents pay 1 more to play abilities for each silence counter on this weapon.
 
 regulation:

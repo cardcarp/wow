@@ -2,9 +2,12 @@ name: Faerlinas Madness
 
 origin: naxxramas-treasure-013
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: , Turn a resource you control face down → Turn target opposing resource face down.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Abyssal
 
 origin: magtheridons-lair-raid-033
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 6
 

@@ -2,12 +2,15 @@ name: Brother Against Brother
 
 origin: fires-of-outland-231
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'While you control three or more abilities, pay 1 to complete this quest. Reward : Draw a card.'
 
 regulation:

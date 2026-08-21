@@ -2,9 +2,12 @@ name: Eel Cutter
 
 origin: throne-of-the-tides-249
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , → Allies you control have Assault 1 this turn.
 
 regulation:

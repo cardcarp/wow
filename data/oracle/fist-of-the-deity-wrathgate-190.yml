@@ -2,9 +2,12 @@ name: Fist of the Deity
 
 origin: wrathgate-190
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 

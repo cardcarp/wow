@@ -2,9 +2,12 @@ name: Magistrix Fyalenn
 
 origin: march-of-the-legion-235
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 6
 combat: Arcane
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scryer Reputation You can't discard cards.
 
 regulation:

@@ -2,12 +2,15 @@ name: Legacy of the Damned
 
 origin: reign-of-fire-192
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Destroy an ally you control and pay 4 to complete this quest. Reward : Draw two cards.'
 
 regulation:

@@ -2,9 +2,11 @@ name: Historian Helena
 
 origin: echoes-of-thunder-100
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

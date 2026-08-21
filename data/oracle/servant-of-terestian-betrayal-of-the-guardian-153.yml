@@ -2,9 +2,12 @@ name: Servant of Terestian
 
 origin: betrayal-of-the-guardian-153
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Fire
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive
 
 regulation:

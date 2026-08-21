@@ -2,9 +2,12 @@ name: Mind Vision
 
 origin: through-the-dark-portal-075
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Choose an opponent. Ongoing : That opponent plays with his hand revealed. When you play a card, destroy Mind Vision. If you do, draw a card.'
 
 regulation:

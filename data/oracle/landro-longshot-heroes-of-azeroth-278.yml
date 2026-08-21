@@ -2,9 +2,12 @@ name: Landro Longshot
 
 origin: heroes-of-azeroth-278
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , , Discard a card → Flip a coin. If you win the flip, draw two cards. If you lose the flip, you may pay 2 to reflip.
 
 regulation:

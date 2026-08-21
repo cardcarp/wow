@@ -2,12 +2,15 @@ name: Clothed in Arcana
 
 origin: arena-grand-melee-event-015
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Each non-ongoing ability card becomes ongoing, and it is also an armor with DEF equal to its cost. When Clothed in Arcana leaves play, destroy all armor.'
 
 regulation:

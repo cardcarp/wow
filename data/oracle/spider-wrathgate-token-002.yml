@@ -2,9 +2,11 @@ name: Spider
 
 origin: wrathgate-token-002
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Arcing Smash
 
 origin: black-temple-raid-019
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required Destroy target opposing equipment and all opposing equipment with the same cost as that equipment.
 
 regulation:

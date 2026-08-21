@@ -2,12 +2,15 @@ name: Just a Friendly Duel
 
 origin: arena-grand-melee-event-050
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: The Arena heals damage from each hero equal to the number of combined years that hero's controller has been friends with other players in this game.
 
 regulation:

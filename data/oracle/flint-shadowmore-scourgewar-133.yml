@@ -2,9 +2,12 @@ name: Flint Shadowmore
 
 origin: scourgewar-133
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: If this ally would deal combat damage, he may deal that much divided as you choose among any number of opposing heroes and/or allies instead.
 
 regulation:

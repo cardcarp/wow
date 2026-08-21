@@ -1,24 +1,25 @@
 name: Deadmines
 
-credit: Official Product
+format:
+  - Raid
 
-category: Raid
+group: dungeon
 
-facet:
+theme:
   - Dungeon
   - Raid
 
-collection: dungeon
+complexity:
+
+division:
 
 highlight: the-deadmines-001
 
-description: Deadmines
+tagline: Deadmines
 
-context:
+description:
   - title: ''
     body: Introduction to the Deadmines
-
-total: 70
 
 list:
   hero:

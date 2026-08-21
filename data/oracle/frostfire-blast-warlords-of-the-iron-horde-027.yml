@@ -2,9 +2,11 @@ name: Frostfire Blast
 
 origin: warlords-of-the-iron-horde-027
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

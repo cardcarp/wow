@@ -2,9 +2,12 @@ name: Xela the Tormentor
 
 origin: the-hunt-for-illidan-171
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Xela enters play, you may put a Pet card from your graveyard into play if its cost is less than or equal to the number of resources you have.
 
 regulation:

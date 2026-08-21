@@ -2,9 +2,12 @@ name: Maiev Shadowsong
 
 origin: the-hunt-for-illidan-202
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Ranged
 
 rule:
-  - type: ability
+  - type: Ability
     text: Loyal Hero Required Elusive , Ferocity , Long-Range , Protector , Stealth , Untargetable
 
 regulation:

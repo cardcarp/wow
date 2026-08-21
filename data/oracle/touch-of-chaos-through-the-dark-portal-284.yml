@@ -2,9 +2,12 @@ name: Touch of Chaos
 
 origin: through-the-dark-portal-284
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Touch of Chaos enters play, remove all ability cards in your graveyard from the game. At the start of your turn, choose at random one of the ability cards you removed this way and put it into your hand.
 
 regulation:

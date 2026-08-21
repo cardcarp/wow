@@ -2,9 +2,12 @@ name: Lei of Lilies
 
 origin: heroes-of-azeroth-306
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, if you have four or more cards in your hand, your hero heals 1 damage from itself. 1 , Destroy Lei of Lilies → Your hero heals 1 damage from itself for each card in your hand.
 
 regulation:

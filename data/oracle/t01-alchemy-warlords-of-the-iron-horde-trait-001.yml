@@ -2,9 +2,11 @@ name: T01 Alchemy
 
 origin: warlords-of-the-iron-horde-trait-001
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

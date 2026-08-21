@@ -2,9 +2,12 @@ name: Metalmorph
 
 origin: servants-of-the-betrayer-064
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target equipment. Ongoing : Attached equipment loses and can't have powers and can't be exhausted."
 
 regulation:

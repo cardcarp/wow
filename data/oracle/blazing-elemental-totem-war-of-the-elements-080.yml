@@ -2,9 +2,12 @@ name: Blazing Elemental Totem
 
 origin: war-of-the-elements-080
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -20,7 +23,7 @@ class:
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : When this card enters play, put two 2 / 1 Fire Elemental ally tokens into play. allies you control have Ferocity . (Totems can't attack.)"
 
 regulation:

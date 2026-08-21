@@ -2,9 +2,12 @@ name: Krogar the Colossal
 
 origin: crown-of-the-heavens-136
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Conspicuous Empower Monster : When this ally enters play, if you control another Monster hero or ally, you may shout "ME BIGGEST!" while pounding your fists on the table. If you do, this ally and target opposing ally deal melee damage to each other equal to their respective ATK.'
 
 regulation:

@@ -2,9 +2,11 @@ name: Keldas Thunderbrew
 
 origin: monk-starter-003
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

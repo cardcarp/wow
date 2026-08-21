@@ -2,9 +2,12 @@ name: Elwynn Huntsman
 
 origin: reign-of-fire-077
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Unity : While you control three or more Human allies, this ally has Assault 2 and Sentinel .'
 
 regulation:

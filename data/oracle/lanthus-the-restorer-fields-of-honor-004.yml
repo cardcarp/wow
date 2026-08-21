@@ -2,17 +2,20 @@ name: Lanthus the Restorer
 
 origin: fields-of-honor-004
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Lanthus → Exhaust target ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Kedan Burstbeard
 
 origin: tomb-of-the-forgotten-087
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, if you control an equipment, this ally may deal 1 arcane damage to each opposing hero and ally.
 
 regulation:

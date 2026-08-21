@@ -2,9 +2,12 @@ name: Eye of Rend
 
 origin: heroes-of-azeroth-288
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your weapons have +1 ATK.
 
 regulation:

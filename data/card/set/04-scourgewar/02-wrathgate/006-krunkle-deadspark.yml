@@ -1,3 +1,5 @@
+oracle: krunkle-deadspark-wrathgate-006
+
 index: '006'
 
 rarity:
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor:
-
-oracle: krunkle-deadspark-wrathgate-006
 
 set: Wrathgate

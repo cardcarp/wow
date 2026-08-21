@@ -2,9 +2,12 @@ name: Uruka the Cutthroat
 
 origin: wrathgate-153
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this ally is dealt damage, target opponent reveals his hand. Death Rattle : You may choose "ability," "ally," or "equipment." If you do, target opponent reveals his hand, and this ally deals 1 melee damage to his hero for each revealed card of that kind.'
 
 regulation:

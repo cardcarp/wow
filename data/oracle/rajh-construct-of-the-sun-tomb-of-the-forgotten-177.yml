@@ -2,9 +2,12 @@ name: Rajh, Construct of the Sun
 
 origin: tomb-of-the-forgotten-177
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Protector . At the start of your turn and when you play an ally, add a power counter to this item. At the end of your turn, if this item has five ore more power counters on it, destroy it. If you do, put a 6 / 6 Construct ally token into play with Protector .
 
 regulation:

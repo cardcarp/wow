@@ -2,9 +2,11 @@ name: Malgosh Shadow Council Necrolyte
 
 origin: warlords-of-the-iron-horde-heroes-006
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

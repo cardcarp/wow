@@ -2,9 +2,12 @@ name: 'Power Word: Absorb'
 
 origin: twilight-of-the-dragons-066
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

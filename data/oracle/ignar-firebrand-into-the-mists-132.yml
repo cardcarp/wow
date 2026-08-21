@@ -2,9 +2,11 @@ name: Ignar Firebrand
 
 origin: into-the-mists-132
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

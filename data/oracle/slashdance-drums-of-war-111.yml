@@ -2,9 +2,12 @@ name: Slashdance
 
 origin: drums-of-war-111
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

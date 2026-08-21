@@ -2,9 +2,12 @@ name: Last Stand
 
 origin: heroes-of-azeroth-143
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

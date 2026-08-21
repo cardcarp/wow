@@ -2,9 +2,12 @@ name: Dead Weight
 
 origin: scourgewar-079
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally or equipment. Ongoing : When attached card exhausts, destroy it.'
 
 regulation:

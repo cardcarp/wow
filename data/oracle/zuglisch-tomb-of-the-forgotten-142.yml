@@ -2,9 +2,12 @@ name: Zuglisch
 
 origin: tomb-of-the-forgotten-142
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 

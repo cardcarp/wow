@@ -2,9 +2,12 @@ name: Concussive Barrage
 
 origin: throne-of-the-tides-042
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

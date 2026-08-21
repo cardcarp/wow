@@ -2,9 +2,12 @@ name: Word of Blight
 
 origin: scourgewar-122
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals shadow damage to target ally equal to the number of allies in your graveyard.
 
 regulation:

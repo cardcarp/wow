@@ -2,9 +2,12 @@ name: Celadon Pendant
 
 origin: worldbreaker-badges-of-justice-002
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 

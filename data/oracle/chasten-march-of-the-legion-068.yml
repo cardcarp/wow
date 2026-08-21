@@ -2,9 +2,12 @@ name: Chasten
 
 origin: march-of-the-legion-068
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

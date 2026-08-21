@@ -2,9 +2,12 @@ name: Siamat, Lord of the South Wind
 
 origin: tomb-of-the-forgotten-159
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '9'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Monster Hero Required When Siamat enters play, exhaust all and allies. and allies can't ready. At the start of your turn, put a 2 / 1 Air Elemental ally token into play for each exhausted and ally.
 
 regulation:

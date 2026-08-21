@@ -2,9 +2,12 @@ name: Volin Netherburn
 
 origin: march-of-the-legion-208
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ability, Volin deals 2 shadow damage to target hero or ally and 2 shadow damage to himself.
 
 regulation:

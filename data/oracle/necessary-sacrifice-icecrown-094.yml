@@ -2,9 +2,12 @@ name: Necessary Sacrifice
 
 origin: icecrown-094
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

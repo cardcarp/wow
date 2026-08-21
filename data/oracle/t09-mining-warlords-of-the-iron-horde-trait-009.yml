@@ -2,9 +2,11 @@ name: T09 Mining
 
 origin: warlords-of-the-iron-horde-trait-009
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

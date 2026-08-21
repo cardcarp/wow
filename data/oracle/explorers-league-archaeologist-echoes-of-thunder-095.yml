@@ -2,9 +2,11 @@ name: Explorers League Archaeologist
 
 origin: echoes-of-thunder-095
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

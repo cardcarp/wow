@@ -2,9 +2,11 @@ name: Chao Blossomwind
 
 origin: echoes-of-thunder-093
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Brann, Bronzebeard Explorer
 
 origin: into-the-mists-123
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Corphelius Graveward
 
 origin: monk-starter-008
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

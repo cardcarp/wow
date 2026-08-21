@@ -2,14 +2,17 @@ name: Foolish Mortals!
 
 origin: onyxias-lair-raid-016
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Destroy Foolish Mortals! → Prevent the next 5 damage that would be dealt to Onyxia this turn.'
 
 regulation:

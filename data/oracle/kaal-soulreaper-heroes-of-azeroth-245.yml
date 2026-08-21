@@ -2,9 +2,12 @@ name: Kaal Soulreaper
 
 origin: heroes-of-azeroth-245
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 7 , Remove Kaal Soulreaper from the game → Players put all ally cards from their graveyards into play.
 
 regulation:

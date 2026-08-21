@@ -2,9 +2,12 @@ name: Drek'Thar, Frostwolf General
 
 origin: reign-of-fire-099
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Bloodrush : At the start of your turn, if an opposing hero has more damage on it than your hero, put X 1 / 1 Wolf Beast Monster ally tokens into play with Ferocity , where X is the difference in damage between your hero and the opposing hero with the most damage.'
 
 regulation:

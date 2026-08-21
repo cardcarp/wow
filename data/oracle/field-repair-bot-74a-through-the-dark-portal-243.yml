@@ -2,9 +2,12 @@ name: Field Repair Bot 74A
 
 origin: through-the-dark-portal-243
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Friendly heroes have " 1 , → Put an equipment card from your graveyard into your hand."
 
 regulation:

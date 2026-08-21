@@ -2,17 +2,20 @@ name: High Magus Olvek
 
 origin: throne-of-the-tides-003
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 1 , Flip Olvek → Choose "ability", "ally", or "equipment", then reveal the top card of your deck. If it has the chosen type, put it into your hand.
 
 regulation:

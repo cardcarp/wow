@@ -2,9 +2,11 @@ name: Forgotten Technique
 
 origin: echoes-of-thunder-042
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

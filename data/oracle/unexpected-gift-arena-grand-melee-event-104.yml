@@ -2,12 +2,15 @@ name: Unexpected Gift
 
 origin: arena-grand-melee-event-104
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put Unexpected Gift into your hand. Discard Unexpected Gift → Destroy target ability, ally, equipment, or resource.
 
 regulation:

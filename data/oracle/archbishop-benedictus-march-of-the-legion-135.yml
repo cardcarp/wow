@@ -2,9 +2,12 @@ name: Archbishop Benedictus
 
 origin: march-of-the-legion-135
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Heroes and allies can't attack.
 
 regulation:

@@ -2,9 +2,12 @@ name: Dakota
 
 origin: reign-of-fire-016
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero can't be destroyed.
 
 regulation:

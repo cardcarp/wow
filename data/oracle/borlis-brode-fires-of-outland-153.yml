@@ -2,9 +2,12 @@ name: Borlis Brode
 
 origin: fires-of-outland-153
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Borlis Brode can't ready during your ready step.
 
 regulation:

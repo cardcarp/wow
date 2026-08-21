@@ -2,14 +2,17 @@ name: Heroic Sacrifice
 
 origin: shadowfang-keep-025
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Raiders choose one: Godfrey deal 4 melee damage to each Raiding hero and ally; or the Raiders choose a Raider, and Godfrey deals 8 melee damage to each hero and ally he controls.'
 
 regulation:

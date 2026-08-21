@@ -2,9 +2,11 @@ name: Drakkari Frostweaver
 
 origin: echoes-of-thunder-177
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

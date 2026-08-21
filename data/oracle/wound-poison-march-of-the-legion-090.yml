@@ -2,9 +2,12 @@ name: Wound Poison
 
 origin: march-of-the-legion-090
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

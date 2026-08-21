@@ -2,9 +2,12 @@ name: 'Magraff sparroweye: Ironhammer'
 
 origin: fires-of-outland-128
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 → Magraff "Sparroweye" Ironhammer has Long-Range this turn.
 
 regulation:

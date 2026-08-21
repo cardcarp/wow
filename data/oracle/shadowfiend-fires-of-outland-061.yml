@@ -2,9 +2,12 @@ name: Shadowfiend
 
 origin: fires-of-outland-061
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -18,7 +21,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity When this ally deals combat damage to a hero, ready a resource you control. At the end of your turn, put this ally into its owner's hand.
 
 regulation:

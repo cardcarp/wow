@@ -2,9 +2,12 @@ name: High Inquisitor Whitemane
 
 origin: dungeon-treasure-029
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 8
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Whitemane attacks, you may put target ally from your graveyard on top of your deck. If you do, she heals damage from your hero equal to the cost of that ally.
 
 regulation:

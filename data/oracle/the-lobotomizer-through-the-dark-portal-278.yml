@@ -2,9 +2,12 @@ name: The Lobotomizer
 
 origin: through-the-dark-portal-278
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When The Lobotomizer enters play, each player destroys one of his resources.
 
 regulation:

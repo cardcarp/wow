@@ -2,9 +2,12 @@ name: Boots of Utter Darkness
 
 origin: scourgewar-crafting-001
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Leatherworking Hero Required While you control an ability, your hero has Untargetable . While you control an ally, your hero has Elusive . While you control a weapon, your hero has Stealth .
 
 regulation:

@@ -2,9 +2,12 @@ name: Azure Enforcer
 
 origin: war-of-the-elements-157
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Arcane
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ability, this ally may deal 1 arcane damage to target ally.
 
 regulation:

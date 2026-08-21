@@ -2,9 +2,12 @@ name: Envoy Samantha Dillon
 
 origin: drums-of-war-124
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Diplomacy: Night Elves → Ready another target ally in your party. It can't attack this turn."
 
 regulation:

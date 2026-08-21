@@ -2,9 +2,12 @@ name: Obsidium Cleaver
 
 origin: tomb-of-the-forgotten-190
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 3 less to strike with this weapon while you control an ally with an ability attached to it.
 
 regulation:

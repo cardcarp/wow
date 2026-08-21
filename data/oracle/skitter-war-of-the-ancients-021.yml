@@ -2,9 +2,12 @@ name: Skitter
 
 origin: war-of-the-ancients-021
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive When this ally deals combat damage to a hero, add a venom counter to that hero. At the start of your turn, destroy each opposing hero with three or more venom counters on it.
 
 regulation:

@@ -2,9 +2,12 @@ name: Extract of Necromantic Power
 
 origin: scourgewar-229
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'As each turn starts, Hero : Prevent the next 3 melee ( ) damage that would be dealt to your hero this turn. Hero : Prevent the next 3 non-melee damage that would be dealt to your hero this turn.'
 
 regulation:

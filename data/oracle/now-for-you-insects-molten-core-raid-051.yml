@@ -2,9 +2,12 @@ name: '"NOW FOR YOU, INSECTS!"'
 
 origin: molten-core-raid-051
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

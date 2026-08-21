@@ -2,9 +2,11 @@ name: Garrosh, Avatar of Yshaarj
 
 origin: siege-of-orgrimmar-003
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

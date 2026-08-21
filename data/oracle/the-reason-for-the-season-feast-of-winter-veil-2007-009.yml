@@ -2,12 +2,15 @@ name: The Reason for the Season
 
 origin: feast-of-winter-veil-2007-009
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "During your turn, pay 3 to complete this quest. Reward : Draw a card. If it's December, draw another card."
 
 regulation:

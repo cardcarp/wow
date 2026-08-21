@@ -2,9 +2,12 @@ name: Scarlet Renegade
 
 origin: dungeon-treasure-015
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has Assault 1 for each Scarlet Renegade you and other friendly players control (including himself) .
 
 regulation:

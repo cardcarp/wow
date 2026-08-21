@@ -2,9 +2,11 @@ name: Si-Yun Cleverhands
 
 origin: echoes-of-thunder-117
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

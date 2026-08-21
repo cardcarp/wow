@@ -1,23 +1,38 @@
+# A card as the rules know it, independent of printing,
+# shared by every reprint and by both faces of a two-sided card.
+
 name:
   type: string
   required: true
 
-origin: # the printing this oracle first appeared in, as '{set}-{index}'. Names
-        # are not unique (six cards are called "Deathwing the Destroyer"), so
-        # the id is derived from name + origin. Anchored to the earliest
-        # printing so adding reprints never changes an existing id.
+origin: # The printing this oracle first appeared in, as '{set}-{index}'. 
+        # Name alone cannot identify an oracle (six cards are called "Deathwing the Destroyer"), 
+        # So the id is derived from name + origin. 
+        # Anchored to the earliest printing so it stays stable as reprints are added.
   type: string
   required: true
 
 layout:
   type: string
   required: true
+  nullable: false
+  allowed: ['Standard', 'Transform']
 
 category:
-  type: string
+  type: list
   required: true
-  allowed: ['Ally', 'Hero', 'Master Hero', 'Ability', 'Equipment', 'Location', 'Event', 'Quest', 'Achievement', 'Token', 'Craft', 'Dungeon', 'Badge', 'Misc']
   nullable: true
+  schema:
+    type: string
+    allowed: ['Ally', 'Hero', 'Master Hero', 'Ability', 'Equipment', 'Location', 'Event', 'Quest', 'Achievement', 'Token', 'Craft', 'Dungeon', 'Badge', 'Misc']
+
+theme: # A catch-all to categorize/tag. Kept disjoint from category: a theme
+       # never reuses a category's name, so oracle_exception can match on either.
+  type: list
+  required: true
+  nullable: true
+  schema:
+    type: string
 
 cost:
   type: string
@@ -72,7 +87,7 @@ rule:
       type:
         type: string
         required: false
-      position:
+      position: # which face of a transform card the rule sits on
         type: string
         required: false
       text:

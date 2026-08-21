@@ -2,9 +2,12 @@ name: Paladin Training
 
 origin: march-of-the-legion-062
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target friendly ally. Ongoing : When attached ally deals combat damage, it also heals that much from target hero or ally.'
 
 regulation:

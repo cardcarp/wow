@@ -2,9 +2,12 @@ name: Barador Wildhammer Timewalker
 
 origin: timewalkers-003
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule: []
 

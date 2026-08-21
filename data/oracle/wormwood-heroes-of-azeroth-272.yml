@@ -2,9 +2,12 @@ name: Wormwood
 
 origin: heroes-of-azeroth-272
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Put 1 damage on Wormwood → Put target ally into its owner's hand.
 
 regulation:

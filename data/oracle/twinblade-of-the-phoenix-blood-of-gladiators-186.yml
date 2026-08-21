@@ -2,9 +2,12 @@ name: Twinblade of the Phoenix
 
 origin: blood-of-gladiators-186
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: You can play Twinblade of the Phoenix from your graveyard.
 
 regulation:

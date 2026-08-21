@@ -2,9 +2,12 @@ name: Mass Redemption
 
 origin: reign-of-fire-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '10'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put all allies from your graveyard into play.
 
 regulation:

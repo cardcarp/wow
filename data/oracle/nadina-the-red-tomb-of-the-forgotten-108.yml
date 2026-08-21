@@ -2,9 +2,12 @@ name: Nadina the Red
 
 origin: tomb-of-the-forgotten-108
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector At the end of each opponent's turn, if your hero wasn't dealt damage this turn, you may draw a card.
 
 regulation:

@@ -2,12 +2,15 @@ name: Practice Makes Perfect
 
 origin: arena-grand-melee-event-080
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the end of each turn, turn all quests completed this turn face up.'
 
 regulation:

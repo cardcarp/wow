@@ -1,6 +1,6 @@
 name: Heroes of Azeroth Tokens
 
-type: token
+type: Token
 
 index: 01a
 
@@ -8,6 +8,6 @@ subtotal: 3
 
 total: 3
 
-date_release: 2006-10
+date: 2006-10
 
 collection: Azeroth

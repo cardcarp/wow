@@ -2,9 +2,12 @@ name: Split Open
 
 origin: fields-of-honor-081
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

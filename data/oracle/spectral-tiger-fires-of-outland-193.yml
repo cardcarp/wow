@@ -2,9 +2,12 @@ name: Spectral Tiger
 
 origin: fires-of-outland-193
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: ': Elusive allies in your party have +1 health. : Allies with Ferocity in your party have +1 ATK.'
 
 regulation:

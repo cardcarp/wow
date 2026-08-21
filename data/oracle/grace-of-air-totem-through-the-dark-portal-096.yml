@@ -2,9 +2,12 @@ name: Grace of Air Totem
 
 origin: through-the-dark-portal-096
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Totem Ongoing : Opposing allies can't attack your heroes, allies, or Totems unless their controller pays 1 for each attacker."
 
 regulation:

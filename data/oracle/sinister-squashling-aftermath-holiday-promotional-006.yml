@@ -2,9 +2,12 @@ name: Sinister Squashling
 
 origin: aftermath-holiday-promotional-006
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, reveal the top card of your deck. If you revealed an ability, ally, or equipment this turn, this ally has +ATK this turn equal to the cost of that revealed card.
 
 regulation:

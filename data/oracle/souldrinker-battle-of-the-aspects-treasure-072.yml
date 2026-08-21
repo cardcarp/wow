@@ -2,9 +2,12 @@ name: Souldrinker
 
 origin: battle-of-the-aspects-treasure-072
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a Monster hero deals combat damage with this weapon, it also heals that much damage from itself, and then add a +1 ATK counter to this weapon.
 
 regulation:

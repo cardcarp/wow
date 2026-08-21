@@ -2,9 +2,12 @@ name: Delrach the Vile
 
 origin: servants-of-the-betrayer-161
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Delrach attacks, destroy any number of allies with an attachment.
 
 regulation:

@@ -2,9 +2,11 @@ name: Thunderlord Garb
 
 origin: warlords-of-the-iron-horde-227
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

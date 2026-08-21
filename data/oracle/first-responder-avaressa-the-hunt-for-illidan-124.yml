@@ -2,9 +2,12 @@ name: First Responder Avaressa
 
 origin: the-hunt-for-illidan-124
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector At the start of your turn, Avaressa heals 2 damage from target hero or ally.
 
 regulation:

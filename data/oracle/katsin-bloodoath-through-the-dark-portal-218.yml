@@ -2,9 +2,12 @@ name: Katsin Bloodoath
 
 origin: through-the-dark-portal-218
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector 3 → Prevent all combat damage that would be dealt to and dealt by target friendly ally this turn.
 
 regulation:

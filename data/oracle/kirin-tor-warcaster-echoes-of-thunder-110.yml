@@ -2,9 +2,11 @@ name: Kirin Tor Warcaster
 
 origin: echoes-of-thunder-110
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

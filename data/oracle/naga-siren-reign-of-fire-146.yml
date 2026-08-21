@@ -2,9 +2,12 @@ name: Naga Siren
 
 origin: reign-of-fire-146
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Frost
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust two Monster heroes and/or allies you control → Exhaust target hero or ally.
 
 regulation:

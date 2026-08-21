@@ -2,9 +2,12 @@ name: Hateful Seductress
 
 origin: reign-of-fire-141
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may remove target Tauren ally from the game.
 
 regulation:

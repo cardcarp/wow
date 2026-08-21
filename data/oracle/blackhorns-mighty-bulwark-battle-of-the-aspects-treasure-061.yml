@@ -2,9 +2,12 @@ name: Blackhorns Mighty Bulwark
 
 origin: battle-of-the-aspects-treasure-061
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of each player's turn, ready this armor.
 
 regulation:

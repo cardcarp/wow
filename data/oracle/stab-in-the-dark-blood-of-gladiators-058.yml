@@ -2,9 +2,12 @@ name: Stab in the Dark
 
 origin: blood-of-gladiators-058
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Look at target opponent's hand and choose an ally card. He discards that card.
 
 regulation:

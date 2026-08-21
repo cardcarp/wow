@@ -2,9 +2,12 @@ name: Muradin, Bronzebeard Adventurer
 
 origin: reign-of-fire-089
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Protector Once per game: 5 , Say "For Khaz Modan!" → Muradin has +4 / +4, Smash , and Spellshield , until he leaves play.'
 
 regulation:

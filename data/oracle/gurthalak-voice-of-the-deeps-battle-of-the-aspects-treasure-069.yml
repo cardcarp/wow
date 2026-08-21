@@ -2,9 +2,12 @@ name: Gurthalak, Voice of the Deeps
 
 origin: battle-of-the-aspects-treasure-069
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: While you have no cards in your hand, this weapon has +2 ATK, and you pay 2 less to strike with it.
 
 regulation:

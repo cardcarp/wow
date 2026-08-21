@@ -2,9 +2,12 @@ name: Sandbox Tiger
 
 origin: blood-of-gladiators-153
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Sandbox Tiger has +1 ATK / +1 health for each Loot card in play you control.
 
 regulation:

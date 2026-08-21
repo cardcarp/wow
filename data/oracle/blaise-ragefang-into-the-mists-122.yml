@@ -2,9 +2,11 @@ name: Blaise Ragefang
 
 origin: into-the-mists-122
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

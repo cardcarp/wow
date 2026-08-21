@@ -2,9 +2,12 @@ name: Corpse Explosion
 
 origin: scourgewar-023
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Unholy Hero Required Remove target ally in a graveyard from the game. If you do, your hero deals 4 shadow damage to each opposing hero and ally.
 
 regulation:

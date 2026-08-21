@@ -2,9 +2,12 @@ name: Sustain or Reclaim
 
 origin: march-of-the-legion-029
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

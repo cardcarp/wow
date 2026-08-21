@@ -2,17 +2,20 @@ name: Brahu Starsear
 
 origin: blood-of-gladiators-012
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 4 , Flip Brahu → Put two Treant ally tokens into play with 1 ATK / 1 health.'
 
 regulation:

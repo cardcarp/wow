@@ -2,9 +2,12 @@ name: Curse of Midnight
 
 origin: blood-of-gladiators-069
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

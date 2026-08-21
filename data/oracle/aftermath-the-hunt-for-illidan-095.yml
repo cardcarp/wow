@@ -2,9 +2,12 @@ name: Aftermath
 
 origin: the-hunt-for-illidan-095
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

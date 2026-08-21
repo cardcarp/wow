@@ -2,9 +2,12 @@ name: Goblin Tinker
 
 origin: reign-of-fire-163
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 6
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: Time is Money 1 , → This ally deals 1 fire damage to target hero or ally. 1 , → Draw a card, then choose and discard a card. 1 , → Ready another target card. 1 → Ready this ally.
 
 regulation:

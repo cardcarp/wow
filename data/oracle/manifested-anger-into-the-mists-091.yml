@@ -2,9 +2,11 @@ name: Manifested Anger
 
 origin: into-the-mists-091
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

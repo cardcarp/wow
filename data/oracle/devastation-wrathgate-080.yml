@@ -2,9 +2,12 @@ name: Devastation
 
 origin: wrathgate-080
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destruction Hero Required As an additional cost to play, choose "ability," "ally," or "equipment" and destroy a card you control of that kind. Destroy all opposing cards of that kind.
 
 regulation:

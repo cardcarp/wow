@@ -2,14 +2,17 @@ name: Tentacle Swipe
 
 origin: battle-of-the-aspects-raid-038
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: Raiders choose and destroy three cards from among all abilities, allies, and/or equipment they control.
 
 regulation:

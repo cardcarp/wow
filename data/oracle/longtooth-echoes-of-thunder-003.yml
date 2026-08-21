@@ -2,9 +2,11 @@ name: Longtooth
 
 origin: echoes-of-thunder-003
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: A Taste of Infinity
 
 origin: siege-of-orgrimmar-treasure-019
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

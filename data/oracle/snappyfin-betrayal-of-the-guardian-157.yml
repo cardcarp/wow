@@ -2,9 +2,12 @@ name: Snappyfin
 
 origin: betrayal-of-the-guardian-157
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 

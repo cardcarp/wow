@@ -2,9 +2,12 @@ name: Moccasins of Verdurous Glooms
 
 origin: aftermath-badges-of-justice-002
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an ally you control exhausts, you may pay 1 . If you do, your hero has Assault 1 this turn.
 
 regulation:

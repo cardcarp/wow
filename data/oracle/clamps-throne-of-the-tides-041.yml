@@ -2,9 +2,12 @@ name: Clamps
 
 origin: throne-of-the-tides-041
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , → Exhaust up to two target allies.
 
 regulation:

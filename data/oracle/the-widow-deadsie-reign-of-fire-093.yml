@@ -2,9 +2,12 @@ name: The Widow Deadsie
 
 origin: reign-of-fire-093
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Unity : While you control three or more Human allies, prevent all damage that would be dealt to this ally.'
 
 regulation:

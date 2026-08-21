@@ -2,12 +2,15 @@ name: A Ration of Chaos
 
 origin: arena-grand-melee-event-083
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Starting with the player to your left, each player flips one Arena card.
 
 regulation:

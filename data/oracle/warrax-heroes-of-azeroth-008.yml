@@ -2,17 +2,20 @@ name: Warrax
 
 origin: heroes-of-azeroth-008
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 30
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 1 , Flip Warrax → Warrax has Protector this turn.
 
 regulation:

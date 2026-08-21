@@ -2,17 +2,20 @@ name: Moala Stonebinder
 
 origin: fires-of-outland-005
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Moala Stonebinder → Your weapons can't be destroyed this turn.
 
 regulation:

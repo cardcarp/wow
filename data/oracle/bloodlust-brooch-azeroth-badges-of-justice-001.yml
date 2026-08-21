@@ -2,9 +2,12 @@ name: Bloodlust Brooch
 
 origin: azeroth-badges-of-justice-001
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage, put that many Fanatic ally tokens into play with 1 ATK / 1 health.
 
 regulation:

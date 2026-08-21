@@ -2,9 +2,12 @@ name: Frostwolf
 
 origin: betrayal-of-the-guardian-142
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: This and other allies you control have +1 ATK while attacking heroes and allies.
 
 regulation:

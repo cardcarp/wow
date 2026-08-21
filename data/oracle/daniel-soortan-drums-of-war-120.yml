@@ -2,9 +2,12 @@ name: Daniel Soortan
 
 origin: drums-of-war-120
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Diplomacy: Dwarves → Target player puts the top two cards of his deck into his graveyard.'
 
 regulation:

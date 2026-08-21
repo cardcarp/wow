@@ -2,9 +2,12 @@ name: Slay the Feeble
 
 origin: drums-of-war-065
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 3 melee damage to target exhausted hero or ally.
 
 regulation:

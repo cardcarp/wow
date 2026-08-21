@@ -2,9 +2,12 @@ name: Raena the Unpredictable
 
 origin: the-hunt-for-illidan-137
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, choose whether Raena is Elusive or a Protector until the end of your next turn.
 
 regulation:

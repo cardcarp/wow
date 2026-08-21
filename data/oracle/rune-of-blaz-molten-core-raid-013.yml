@@ -2,14 +2,17 @@ name: Rune of Blaz
 
 origin: molten-core-raid-013
 
-layout: standard
+layout: Standard
 
-category: Misc
+category:
+  - Misc
+
+theme:
 
 type: Raid
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, destroy all opposing abilities.
 
 regulation:

@@ -2,9 +2,12 @@ name: Celerity
 
 origin: fields-of-honor-083
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : → If your hero is defending against an ally, remove your hero from combat.'
 
 regulation:

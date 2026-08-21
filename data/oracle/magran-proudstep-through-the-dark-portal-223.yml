@@ -2,9 +2,12 @@ name: Magran Proudstep
 
 origin: through-the-dark-portal-223
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity Long-Range
 
 regulation:

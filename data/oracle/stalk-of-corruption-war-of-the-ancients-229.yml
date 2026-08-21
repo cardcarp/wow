@@ -2,9 +2,12 @@ name: Stalk of Corruption
 
 origin: war-of-the-ancients-229
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 6 , → Your hero deals 2 shadow damage divided as you choose to any number of target heroes and/or allies.
 
 regulation:

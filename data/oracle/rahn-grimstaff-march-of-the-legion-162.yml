@@ -2,9 +2,12 @@ name: Rahn Grimstaff
 
 origin: march-of-the-legion-162
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Target hero or ally has -1 health this turn.
 
 regulation:

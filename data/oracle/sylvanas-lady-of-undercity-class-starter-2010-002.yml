@@ -2,9 +2,12 @@ name: Sylvanas, Lady of Undercity
 
 origin: class-starter-2010-002
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Long-Range When this ally deals fatal damage to a defending ally, you may put target ally with cost less than or equal to that defending ally's cost from your graveyard into play.
 
 regulation:

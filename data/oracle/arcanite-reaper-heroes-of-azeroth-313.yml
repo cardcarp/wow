@@ -2,9 +2,12 @@ name: Arcanite Reaper
 
 origin: heroes-of-azeroth-313
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '7'
 

@@ -2,9 +2,12 @@ name: X-51 Nether-Rocket
 
 origin: servants-of-the-betrayer-216
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , → Target ally in your party has Ferocity this turn. At the end of turn, destroy it. 1 , → Target ally in your party can use powers this turn. At the end of turn, destroy it.
 
 regulation:

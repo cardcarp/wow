@@ -2,14 +2,17 @@ name: Fortune Telling
 
 origin: through-the-dark-portal-143
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '8'
 
 rule:
-  - type: ability
+  - type: Ability
     text: Turn your deck over.
 
 regulation:

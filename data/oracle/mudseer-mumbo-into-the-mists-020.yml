@@ -2,9 +2,11 @@ name: Mudseer Mumbo
 
 origin: into-the-mists-020
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Revealing Strike
 
 origin: twilight-of-the-dragons-073
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Combat Talent Target opponent reveals the top card of his deck, and then he reveals his hand and discards all cards that share a card type with the revealed card.
 
 regulation:

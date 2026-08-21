@@ -2,9 +2,12 @@ name: Scimitar of the Sirocco
 
 origin: worldbreaker-crafting-002
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Artifact When you strike with this weapon, allies you control have Ferocity this turn.
 
 regulation:

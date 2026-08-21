@@ -2,9 +2,12 @@ name: Mekkatorque, King of the Gnomes
 
 origin: throne-of-the-tides-123
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may put target equipment from any graveyard into play under your control. Mekkatorque has +2 / +2 for each equipment you control.
 
 regulation:

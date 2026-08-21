@@ -2,9 +2,12 @@ name: Decimate
 
 origin: war-of-the-ancients-067
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy up to two target equipment.
 
 regulation:

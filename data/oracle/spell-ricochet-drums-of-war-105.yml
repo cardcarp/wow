@@ -2,9 +2,12 @@ name: Spell Ricochet
 
 origin: drums-of-war-105
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

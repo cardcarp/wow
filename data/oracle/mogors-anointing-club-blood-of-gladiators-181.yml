@@ -2,9 +2,12 @@ name: Mogors Anointing Club
 
 origin: blood-of-gladiators-181
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: , Destroy an ally in your party → Put an ally card with lower cost than that ally from your graveyard into play.'
 
 regulation:

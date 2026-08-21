@@ -2,9 +2,11 @@ name: Feast Of Great Winter
 
 origin: holiday-2006-001
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

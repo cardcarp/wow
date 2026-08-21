@@ -2,9 +2,11 @@ name: Tweets Lightsprocket
 
 origin: echoes-of-thunder-124
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

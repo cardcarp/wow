@@ -2,9 +2,12 @@ name: Cuffs of Devastation
 
 origin: blood-of-gladiators-161
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Cuffs of Devastation enters play, your hero deals 4 arcane damage to target opposing ally.
 
 regulation:

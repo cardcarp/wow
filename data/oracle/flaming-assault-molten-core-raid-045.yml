@@ -2,9 +2,12 @@ name: Flaming Assault
 
 origin: molten-core-raid-045
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

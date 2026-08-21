@@ -1,6 +1,6 @@
 name: 'Showdown: Goblins of Anarchy'
 
-type: promo
+type: Promo
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 4
 
 total: 4
 
-date_release: 2011-10
+date: 2011-10
 
 collection: Showdown

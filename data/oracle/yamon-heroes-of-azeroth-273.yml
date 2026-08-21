@@ -2,9 +2,12 @@ name: Ya'mon
 
 origin: heroes-of-azeroth-273
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ya'mon has +1 ATK for each damage on him.
 
 regulation:

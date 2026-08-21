@@ -2,9 +2,12 @@ name: Bor Breakfist
 
 origin: reign-of-fire-097
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Target orc ally has Ferocity this turn.
 
 regulation:

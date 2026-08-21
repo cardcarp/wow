@@ -2,9 +2,12 @@ name: Lead Astray
 
 origin: fields-of-honor-058
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust target hero or ally. It can't ready during its controller's next ready step. Its controller discards a card.
 
 regulation:

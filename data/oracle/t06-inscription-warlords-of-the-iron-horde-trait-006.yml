@@ -2,9 +2,11 @@ name: T06 Inscription
 
 origin: warlords-of-the-iron-horde-trait-006
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

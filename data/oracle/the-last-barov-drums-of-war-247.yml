@@ -2,12 +2,15 @@ name: The Last Barov
 
 origin: drums-of-war-247
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 3 to complete this quest. Reward : Draw a card, or two cards if two or more allies have the same name.'
 
 regulation:

@@ -2,16 +2,19 @@ name: Debilitating Nausea
 
 origin: naxxramas-raid-046
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Raid
 
 stage: 6
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target raider can't play cards this turn. If you're in the Plague Quarter, he also can't play cards on his next turn.
 
 regulation:

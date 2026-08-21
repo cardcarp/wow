@@ -2,9 +2,12 @@ name: Malfunction
 
 origin: through-the-dark-portal-147
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

@@ -2,17 +2,20 @@ name: Grindel Hellbringer
 
 origin: the-hunt-for-illidan-010
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Grindel → Grindel deals 1 fire damage to each hero and ally. Use only on your turn.
 
 regulation:

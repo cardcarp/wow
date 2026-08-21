@@ -2,9 +2,12 @@ name: The Staff of Twin Worlds
 
 origin: drums-of-war-234
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Other cards in play have their printed text a second time. (For example, if a card has the text, "Allies have +1 ATK," treat it as though it says that twice.)
 
 regulation:

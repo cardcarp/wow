@@ -2,9 +2,11 @@ name: Tokala Gloomwhisper
 
 origin: into-the-mists-008
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

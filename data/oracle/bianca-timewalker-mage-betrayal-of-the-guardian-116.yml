@@ -2,9 +2,12 @@ name: Bianca, Timewalker Mage
 
 origin: betrayal-of-the-guardian-116
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Frost
 
 rule:
-  - type: ability
+  - type: Ability
     text: "While you control two or more allies that share a or race: → Target ally can't attack or exhaust this turn."
 
 regulation:

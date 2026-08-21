@@ -2,9 +2,12 @@ name: Crown of Destruction
 
 origin: through-the-dark-portal-252
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of each player's turn, that player destroys one of his abilities, allies, or equipment.
 
 regulation:

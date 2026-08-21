@@ -2,9 +2,12 @@ name: Bitey
 
 origin: betrayal-of-the-guardian-014
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Smash
 
 regulation:

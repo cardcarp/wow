@@ -2,9 +2,12 @@ name: Ferociousness
 
 origin: the-hunt-for-illidan-028
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

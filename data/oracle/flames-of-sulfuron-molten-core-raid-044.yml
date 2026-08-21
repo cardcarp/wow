@@ -2,9 +2,12 @@ name: Flames of Sulfuron
 
 origin: molten-core-raid-044
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

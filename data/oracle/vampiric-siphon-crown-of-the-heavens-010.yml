@@ -2,9 +2,12 @@ name: Vampiric Siphon
 
 origin: crown-of-the-heavens-010
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy up to two target allies. Your hero heals damage from itself equal to the combined remaining health of allies destroyed this way.
 
 regulation:

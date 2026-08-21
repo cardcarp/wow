@@ -2,9 +2,12 @@ name: Prismatic Shield
 
 origin: black-temple-raid-026
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

@@ -2,9 +2,11 @@ name: The Ballad of Liu Lang
 
 origin: into-the-mists-315
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

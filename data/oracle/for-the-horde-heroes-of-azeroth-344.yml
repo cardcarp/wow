@@ -2,14 +2,17 @@ name: For the Horde!
 
 origin: heroes-of-azeroth-344
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 1 to complete this quest. Reward : Horde allies in your party have +1 ATK while attacking this turn.'
 
 regulation:

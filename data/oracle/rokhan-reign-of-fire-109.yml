@@ -2,9 +2,12 @@ name: Rokhan
 
 origin: reign-of-fire-109
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: As Rokhan enters play, name a card. Opposing cards in play with that name lose and can't have powers.
 
 regulation:

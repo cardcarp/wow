@@ -2,9 +2,12 @@ name: Tyrygosa the Blue
 
 origin: battle-of-the-aspects-treasure-055
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ health: 10
 combat: Arcane
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Tyrygosa enters play, you may remove a non-Ongoing ability in your hand from the game. At the start of your turn, you may copy that ability. If you do, you may play the copy without paying it's cost.
 
 regulation:

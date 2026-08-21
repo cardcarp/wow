@@ -2,9 +2,12 @@ name: Endure
 
 origin: war-of-the-ancients-019
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '0'
 

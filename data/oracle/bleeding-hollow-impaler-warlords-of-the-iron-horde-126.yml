@@ -2,9 +2,11 @@ name: Bleeding Hollow Impaler
 
 origin: warlords-of-the-iron-horde-126
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

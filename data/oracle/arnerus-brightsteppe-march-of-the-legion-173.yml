@@ -2,9 +2,12 @@ name: Arnerus Brightsteppe
 
 origin: march-of-the-legion-173
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each of your armor has +5 DEF while your hero is attacking.
 
 regulation:

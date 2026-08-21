@@ -2,9 +2,12 @@ name: Earthshaper Javuun
 
 origin: scourgewar-130
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Shadow Resistance Mend 2
 
 regulation:

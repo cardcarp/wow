@@ -2,12 +2,15 @@ name: Arathi Basin
 
 origin: fields-of-honor-203
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play a card, add an honor counter. , Remove five honor counters → Draw a card.
 
 regulation:

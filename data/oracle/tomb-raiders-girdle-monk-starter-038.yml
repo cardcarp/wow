@@ -2,9 +2,11 @@ name: Tomb Raiders Girdle
 
 origin: monk-starter-038
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

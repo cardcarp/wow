@@ -2,9 +2,11 @@ name: Swelling Pride
 
 origin: siege-of-orgrimmar-011
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Arthas Menethil
 
 origin: timewalkers-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule: []
 

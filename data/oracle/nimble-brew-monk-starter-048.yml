@@ -2,9 +2,11 @@ name: Nimble Brew
 
 origin: monk-starter-048
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Quest - Put Me on the Table
 
 origin: hogger-demo-004
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

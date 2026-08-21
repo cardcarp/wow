@@ -2,9 +2,12 @@ name: Aegwynn, Guardian of Tirisfal
 
 origin: betrayal-of-the-guardian-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 cost: '8'
 
@@ -17,8 +20,8 @@ combat: Arcane
 type: Master
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'When your hero becomes Aegwynn, add three tirisfal counters to her. , Remove a tirisfal counter → Target ally has Elusive this turn. , Remove a tirisfal counter → Draw a card, then discard a card. While Aegwynn has no tirisfal counters on her: → Put a token copy of each ally you control into play.'
 
 regulation:

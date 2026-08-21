@@ -2,9 +2,12 @@ name: Psychic Horror
 
 origin: betrayal-of-the-guardian-036
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Shadow Talent Target up to one each of an opposing ability, ally, and equipment, and put those cards into their owners' hands.
 
 regulation:

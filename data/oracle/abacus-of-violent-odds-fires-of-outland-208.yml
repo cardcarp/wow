@@ -2,9 +2,12 @@ name: Abacus of Violent Odds
 
 origin: fires-of-outland-208
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero attacks, roll a die. If it's even, remove your hero from combat. If it's odd, ready your hero and all of your weapons at the end of this combat.
 
 regulation:

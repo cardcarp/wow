@@ -2,9 +2,12 @@ name: Subdue
 
 origin: battle-of-the-aspects-treasure-019
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target opposing ally. Draw a card. Ongoing : Attached ally can only attack heroes.'
 
 regulation:

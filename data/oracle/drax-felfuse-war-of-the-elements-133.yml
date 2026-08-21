@@ -2,9 +2,12 @@ name: Drax Felfuse
 
 origin: war-of-the-elements-133
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive When a Dragonkin enters play under your control, this ally has +2 ATK this turn.
 
 regulation:

@@ -2,9 +2,11 @@ name: Seasoned Soldier
 
 origin: echoes-of-thunder-082
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

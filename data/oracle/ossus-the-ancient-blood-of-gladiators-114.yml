@@ -2,9 +2,12 @@ name: Ossus the Ancient
 
 origin: blood-of-gladiators-114
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Draenei Hero Required Inspiring Presence Prevent all combat damage that would be dealt.
 
 regulation:

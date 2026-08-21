@@ -2,9 +2,12 @@ name: Razak Ironsides
 
 origin: servants-of-the-betrayer-152
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opposing hero or ally readies, Razak deals 4 ranged damage to it.
 
 regulation:

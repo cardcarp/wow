@@ -2,9 +2,12 @@ name: Statue Generator
 
 origin: wrathgate-185
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this item enters play, remove target ally from the game. If you do, add three marble counters, and that ally's owner puts it into play under his control when this item leaves play. At the start of your turn, remove a marble counter. If none remain, destroy this item.
 
 regulation:

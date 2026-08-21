@@ -2,9 +2,12 @@ name: Hateful Darkweaver
 
 origin: reign-of-fire-138
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing Night Elf allies lose and can't have Stealth and have Conspicuous .
 
 regulation:

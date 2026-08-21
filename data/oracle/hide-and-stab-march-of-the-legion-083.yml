@@ -2,9 +2,12 @@ name: Hide and Stab
 
 origin: march-of-the-legion-083
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Your hero has Stealth . When your hero deals damage, destroy Hide and Stab. Destroy Hide and Stab → Exhaust target hero or ally.'
 
 regulation:

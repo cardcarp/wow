@@ -2,12 +2,15 @@ name: Deaths Gaze
 
 origin: scourgewar-254
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 2 to complete this quest. Reward : If you have fewer cards in your hand than in your graveyard, draw a card.'
 
 regulation:

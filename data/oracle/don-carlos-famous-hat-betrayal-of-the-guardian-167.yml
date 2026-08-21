@@ -2,9 +2,12 @@ name: Don Carlos' Famous Hat
 
 origin: betrayal-of-the-guardian-167
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor enters play, put a 4 / 4 Coyote Spirit Monster ally token into play. This armor can prevent damage that would be dealt to Coyote allies you control.
 
 regulation:

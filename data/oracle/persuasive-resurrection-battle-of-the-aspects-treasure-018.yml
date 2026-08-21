@@ -2,9 +2,12 @@ name: Persuasive Resurrection
 
 origin: battle-of-the-aspects-treasure-018
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : At the start of your turn, you may put target ally from an opponent's graveyard into play under your control."
 
 regulation:

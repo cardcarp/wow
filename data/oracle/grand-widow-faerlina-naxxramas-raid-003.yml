@@ -2,18 +2,21 @@ name: Grand Widow Faerlina
 
 origin: naxxramas-raid-003
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'Assault 5 At the start of your turn, Faerlina deals 3 fire damage to each raiding hero. On your turn: 6 → Flip Faerlina face down.'
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: Assault 8 2 → Ready Faerlina.
 
 regulation:

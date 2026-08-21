@@ -2,9 +2,12 @@ name: Downfall Hammer
 
 origin: throne-of-the-tides-248
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with this weapon, you may exhaust target hero or ally. (A protector exhausted this way can't protect this combat.)
 
 regulation:

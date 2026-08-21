@@ -2,9 +2,12 @@ name: Kiani De'nara
 
 origin: fires-of-outland-169
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: You may destroy four of your resources rather than pay Kiani De'nara's cost.
 
 regulation:

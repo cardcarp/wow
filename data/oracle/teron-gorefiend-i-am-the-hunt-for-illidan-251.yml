@@ -2,9 +2,11 @@ name: Teron Gorefiend, I Am
 
 origin: the-hunt-for-illidan-251
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

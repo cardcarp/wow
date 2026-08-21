@@ -1,3 +1,5 @@
+oracle: haedis-worldbreaker-005
+
 index: '005'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"Even those who once served the Light can succumb to the will of the dead."'
-
-oracle: haedis-worldbreaker-005
 
 set: Worldbreaker

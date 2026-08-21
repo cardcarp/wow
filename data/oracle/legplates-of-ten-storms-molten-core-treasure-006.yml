@@ -2,9 +2,12 @@ name: Legplates of Ten Storms
 
 origin: molten-core-treasure-006
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play a ability, you may pay 1 . If you do, your hero deals 2 nature damage divided as you choose to up to two target heroes and/or allies.
 
 regulation:

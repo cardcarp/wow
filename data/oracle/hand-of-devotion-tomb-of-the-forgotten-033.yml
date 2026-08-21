@@ -2,9 +2,12 @@ name: Hand of Devotion
 
 origin: tomb-of-the-forgotten-033
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

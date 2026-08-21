@@ -2,9 +2,12 @@ name: Smites Reaver
 
 origin: dungeon-treasure-054
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with this weapon, you may exhaust target hero or ally. When you strike with this weapon for the first time each turn, at the end of this combat, you may ready it and your hero.
 
 regulation:

@@ -2,9 +2,12 @@ name: Gladiator Sepirion
 
 origin: blood-of-gladiators-130
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -19,7 +22,7 @@ faction: Horde
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: When each Arena ally in your party attacks for the first time each turn, you may pay 1 . If you do, ready it.
 
 regulation:

@@ -2,9 +2,12 @@ name: Greater Fleshbeast
 
 origin: betrayal-of-the-guardian-145
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 

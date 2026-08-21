@@ -2,9 +2,12 @@ name: Nether Fissure
 
 origin: fields-of-honor-037
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

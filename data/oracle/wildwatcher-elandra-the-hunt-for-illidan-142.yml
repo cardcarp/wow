@@ -2,9 +2,12 @@ name: Wildwatcher Elandra
 
 origin: the-hunt-for-illidan-142
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Elandra enters play, target player shuffles his graveyard into his deck.
 
 regulation:

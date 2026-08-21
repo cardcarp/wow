@@ -2,9 +2,12 @@ name: Robe of the Waking Nightmare
 
 origin: worldbreaker-224
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Dragonkin you control have +1 / +1.
 
 regulation:

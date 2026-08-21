@@ -2,9 +2,12 @@ name: Retainer Salvan
 
 origin: march-of-the-legion-243
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Scryer Reputation Sabotage: Armor When Salvan sabotages a player's armor, exhaust all of that player's armor."
 
 regulation:

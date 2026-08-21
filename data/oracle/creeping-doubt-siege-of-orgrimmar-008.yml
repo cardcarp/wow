@@ -2,9 +2,11 @@ name: Creeping Doubt
 
 origin: siege-of-orgrimmar-008
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

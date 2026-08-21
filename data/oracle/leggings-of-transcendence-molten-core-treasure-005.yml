@@ -2,9 +2,12 @@ name: Leggings of Transcendence
 
 origin: molten-core-treasure-005
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play a ability, you may pay 1 . If you do, your hero heals 2 damage from each friendly ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Whiteout
 
 origin: icecrown-045
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Your hero deals 3 frost damage to each opposing hero and ally. Ongoing : Opposing heroes and allies can't attack unless their controller pays 1 for each attacker."
 
 regulation:

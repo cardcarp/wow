@@ -2,9 +2,11 @@ name: Quest - Start Your Journey Here!
 
 origin: hogger-demo-001
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

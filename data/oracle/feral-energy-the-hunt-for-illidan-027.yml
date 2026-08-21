@@ -2,9 +2,12 @@ name: Feral Energy
 
 origin: the-hunt-for-illidan-027
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : While in Cat Form , when your hero deals combat damage to a defending hero, you may pay 1 . If you do, its controller discards a card.'
 
 regulation:

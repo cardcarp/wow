@@ -2,9 +2,12 @@ name: Hemet Nesingwary
 
 origin: icecrown-167
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Ranged
 
 rule:
-  - type: ability
+  - type: Ability
     text: Hunters you control can be exhausted to pay costs as though they were resources.
 
 regulation:

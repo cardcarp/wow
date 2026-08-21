@@ -2,9 +2,12 @@ name: Celee Cogfreeze
 
 origin: fires-of-outland-114
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ability, you may draw a card. If you do, discard a card.
 
 regulation:

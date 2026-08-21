@@ -2,17 +2,20 @@ name: Gorebelly
 
 origin: heroes-of-azeroth-009
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 30
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 1 , Flip Gorebelly → You pay 3 less the next time you strike with a Melee weapon this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Fade
 
 origin: servants-of-the-betrayer-081
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

@@ -2,9 +2,12 @@ name: Gispax the Mixologist
 
 origin: worldbreaker-173
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Time is Money , Discard a card → Search your deck for a card, reveal it, and put it into your hand.
 
 regulation:

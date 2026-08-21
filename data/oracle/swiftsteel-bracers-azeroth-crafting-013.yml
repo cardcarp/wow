@@ -2,9 +2,12 @@ name: Swiftsteel Bracers
 
 origin: azeroth-crafting-013
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 5 less to strike with weapons.
 
 regulation:

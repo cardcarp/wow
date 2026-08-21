@@ -2,9 +2,12 @@ name: Frenzyfin
 
 origin: war-of-the-ancients-177
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Arcane
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may search your deck for a Murloc ally and put it into play.
 
 regulation:

@@ -2,9 +2,12 @@ name: Agile Cat Form
 
 origin: reign-of-fire-009
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

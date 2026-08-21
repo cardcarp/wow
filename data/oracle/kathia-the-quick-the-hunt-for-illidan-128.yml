@@ -2,9 +2,12 @@ name: Kathia the Quick
 
 origin: the-hunt-for-illidan-128
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Kathia becomes exhausted, she deals 1 ranged damage to target hero or ally.
 
 regulation:

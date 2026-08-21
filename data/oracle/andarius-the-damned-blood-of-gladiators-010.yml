@@ -2,17 +2,20 @@ name: Andarius the Damned
 
 origin: blood-of-gladiators-010
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Andarius → Put an attachment you control into its owner's hand.
 
 regulation:

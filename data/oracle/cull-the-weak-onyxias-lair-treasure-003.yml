@@ -2,9 +2,12 @@ name: Cull the Weak
 
 origin: onyxias-lair-treasure-003
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

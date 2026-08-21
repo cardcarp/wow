@@ -2,9 +2,11 @@ name: Kirin Tor Arcanist
 
 origin: into-the-mists-135
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

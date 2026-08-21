@@ -2,17 +2,20 @@ name: Kintara Wintermoon
 
 origin: march-of-the-legion-008
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 26
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: "On your turn: 3 , Flip Kintara → Target player puts an ally he controls into its owner's hand."
 
 regulation:

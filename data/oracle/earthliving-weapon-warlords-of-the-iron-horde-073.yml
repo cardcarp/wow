@@ -2,9 +2,11 @@ name: Earthliving Weapon
 
 origin: warlords-of-the-iron-horde-073
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

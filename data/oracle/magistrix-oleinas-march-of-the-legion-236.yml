@@ -2,9 +2,12 @@ name: Magistrix Oleinas
 
 origin: march-of-the-legion-236
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Arcane
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scryer Reputation Ally cards in your hand are instant.
 
 regulation:

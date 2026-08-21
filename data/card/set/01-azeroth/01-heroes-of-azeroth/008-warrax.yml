@@ -1,3 +1,5 @@
+oracle: warrax-heroes-of-azeroth-008
+
 index: '008'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"So long as I stand, you shall not pass."'
-
-oracle: warrax-heroes-of-azeroth-008
 
 set: Heroes of Azeroth

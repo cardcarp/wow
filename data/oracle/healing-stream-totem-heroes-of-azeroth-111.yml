@@ -2,9 +2,12 @@ name: Healing Stream Totem
 
 origin: heroes-of-azeroth-111
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

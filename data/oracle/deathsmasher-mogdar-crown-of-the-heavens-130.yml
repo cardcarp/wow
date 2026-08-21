@@ -2,9 +2,12 @@ name: Deathsmasher Mogdar
 
 origin: crown-of-the-heavens-130
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 

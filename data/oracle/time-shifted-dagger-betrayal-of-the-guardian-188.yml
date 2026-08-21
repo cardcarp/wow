@@ -2,9 +2,12 @@ name: Time-Shifted Dagger
 
 origin: betrayal-of-the-guardian-188
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this weapon enters play, switch the ATK and of target ally this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Death's Decree
 
 origin: war-of-the-ancients-004
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy target ally. Put a 3 / 3 Ghoul ally token into play.
 
 regulation:

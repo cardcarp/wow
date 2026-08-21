@@ -2,9 +2,12 @@ name: Historian Firana
 
 origin: the-hunt-for-illidan-188
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scryer Reputation Stealth Opponents play with their hands revealed.
 
 regulation:

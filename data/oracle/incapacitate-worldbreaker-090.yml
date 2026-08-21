@@ -2,9 +2,12 @@ name: Incapacitate
 
 origin: worldbreaker-090
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target resource. Ongoing : Attached resource can't ready."
 
 regulation:

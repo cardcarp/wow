@@ -2,9 +2,12 @@ name: Lightning Storm
 
 origin: through-the-dark-portal-098
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: 2+X
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals X nature damage divided as you choose to any number of target allies.
 
 regulation:

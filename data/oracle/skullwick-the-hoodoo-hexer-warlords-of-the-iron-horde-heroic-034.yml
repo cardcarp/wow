@@ -2,9 +2,11 @@ name: Skullwick The Hoodoo Hexer
 
 origin: warlords-of-the-iron-horde-heroic-034
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Panax the Unstable
 
 origin: heroes-of-azeroth-255
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: x , Destroy Panax → Panax deals X arcane damage to each ally.
 
 regulation:

@@ -2,17 +2,20 @@ name: Emek the Equalizer
 
 origin: fields-of-honor-013
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 26
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: Flip Emek → You and target opponent each discard a card.'
 
 regulation:

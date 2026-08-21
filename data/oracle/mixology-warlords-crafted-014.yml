@@ -2,9 +2,11 @@ name: Mixology
 
 origin: warlords-crafted-014
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

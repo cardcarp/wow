@@ -2,17 +2,20 @@ name: Shaii, Strategist Supreme
 
 origin: drums-of-war-006
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'If Shaii is defending: , Flip Shaii → Shaii deals 1 melee damage to target attacker.'
 
 regulation:

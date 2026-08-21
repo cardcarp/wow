@@ -2,9 +2,12 @@ name: Death Gate
 
 origin: icecrown-019
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy a resource you control. If you do, search your deck for a location and put it into play face up and exhausted.
 
 regulation:

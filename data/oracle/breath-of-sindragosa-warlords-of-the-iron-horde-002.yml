@@ -2,9 +2,11 @@ name: Breath Of Sindragosa
 
 origin: warlords-of-the-iron-horde-002
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

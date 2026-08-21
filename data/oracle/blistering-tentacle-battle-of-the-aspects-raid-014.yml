@@ -2,14 +2,17 @@ name: Blistering Tentacle
 
 origin: battle-of-the-aspects-raid-014
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Put two Corrupted Blood ally tokens into play. Ongoing : At the end of Deathwing's turn, he deals fire damage to each Raiding hero equal to the number of Corrupted Blood allies Deathwing controls. If Deathwing is dealt 8 or more damage in one turn, destroy this ability."
 
 regulation:

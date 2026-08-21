@@ -2,9 +2,12 @@ name: Earthseer Dambrak
 
 origin: tomb-of-the-forgotten-080
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Harmonize When you play another ally with cost 4 or more, you may pay 1 . If you do, draw a card.
 
 regulation:

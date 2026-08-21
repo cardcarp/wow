@@ -2,9 +2,12 @@ name: Stoneclaw Totem
 
 origin: march-of-the-legion-100
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : Opposing heroes and allies can attack only Stoneclaw Totem if able. When a hero or ally deals combat damage to Stoneclaw Totem, that character can't ready during its controller's next ready step. (Totems can be attacked or targeted like allies.)"
 
 regulation:

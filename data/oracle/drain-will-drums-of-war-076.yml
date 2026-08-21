@@ -2,9 +2,12 @@ name: Drain Will
 
 origin: drums-of-war-076
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target player discards a card and you draw a card.
 
 regulation:

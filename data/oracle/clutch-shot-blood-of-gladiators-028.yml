@@ -2,9 +2,12 @@ name: Clutch Shot
 
 origin: blood-of-gladiators-028
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

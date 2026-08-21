@@ -2,9 +2,11 @@ name: Cascade
 
 origin: echoes-of-thunder-052
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

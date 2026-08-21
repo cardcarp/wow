@@ -2,9 +2,12 @@ name: United Front
 
 origin: fields-of-honor-052
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

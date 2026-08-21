@@ -2,9 +2,12 @@ name: Steal Steel
 
 origin: worldbreaker-092
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: As an additional cost to play this ability, remove up to five abilities in your graveyard from the game. Search target opponent's deck for an equipment with cost less than or equal to the number of cards removed this way and put it into play under your control.
 
 regulation:

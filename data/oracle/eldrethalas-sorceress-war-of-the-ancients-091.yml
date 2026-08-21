@@ -2,9 +2,12 @@ name: Eldre'Thalas Sorceress
 
 origin: war-of-the-ancients-091
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Haste 3 When this ally enters play, draw a card.
 
 regulation:

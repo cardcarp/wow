@@ -2,9 +2,11 @@ name: The Monkey King
 
 origin: into-the-mists-243
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

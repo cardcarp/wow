@@ -2,17 +2,20 @@ name: Kristoff Manchester
 
 origin: blood-of-gladiators-007
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Kristoff → When Kristoff deals damage with an attachment this turn, he heals that much from himself.
 
 regulation:

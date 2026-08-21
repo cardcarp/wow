@@ -2,12 +2,15 @@ name: Legendary Heroes
 
 origin: fields-of-honor-195
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 1 to complete this quest. Reward : Draw a card unless target opponent turns his hero or one of his resources face down.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Insect Swarm
 
 origin: the-hunt-for-illidan-030
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Balance Hero Required Attach to target hero or ally, and your hero deals 2 nature damage to it. Ongoing : Attached character has -2 ATK.'
 
 regulation:

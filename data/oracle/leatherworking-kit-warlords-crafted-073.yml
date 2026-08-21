@@ -2,9 +2,11 @@ name: Leatherworking Kit
 
 origin: warlords-crafted-073
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

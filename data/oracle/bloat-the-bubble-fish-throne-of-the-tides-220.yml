@@ -2,9 +2,12 @@ name: Bloat the Bubble Fish
 
 origin: throne-of-the-tides-220
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive 1 → This ally has +1 ATK this turn.
 
 regulation:

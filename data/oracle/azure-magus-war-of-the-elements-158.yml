@@ -2,9 +2,12 @@ name: Azure Magus
 
 origin: war-of-the-elements-158
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Arcane
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ability, target ally has Ferocity this turn.
 
 regulation:

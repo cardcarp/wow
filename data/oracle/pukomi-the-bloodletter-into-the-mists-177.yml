@@ -2,9 +2,11 @@ name: Pukomi the Bloodletter
 
 origin: into-the-mists-177
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

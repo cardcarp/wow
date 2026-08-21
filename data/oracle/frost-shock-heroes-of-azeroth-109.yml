@@ -2,9 +2,12 @@ name: Frost Shock
 
 origin: heroes-of-azeroth-109
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

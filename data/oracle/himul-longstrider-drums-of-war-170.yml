@@ -2,9 +2,12 @@ name: Himul Longstrider
 
 origin: drums-of-war-170
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: War Stomp
 
 regulation:

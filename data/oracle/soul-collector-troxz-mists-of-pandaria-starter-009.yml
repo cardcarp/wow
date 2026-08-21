@@ -2,9 +2,11 @@ name: Soul Collector Troxz
 
 origin: mists-of-pandaria-starter-009
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

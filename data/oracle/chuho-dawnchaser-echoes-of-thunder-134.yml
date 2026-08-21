@@ -2,9 +2,11 @@ name: Chuho Dawnchaser
 
 origin: echoes-of-thunder-134
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Lose Control
 
 origin: drums-of-war-100
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target player discards a random card.
 
 regulation:

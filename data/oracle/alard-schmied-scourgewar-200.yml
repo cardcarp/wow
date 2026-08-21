@@ -2,9 +2,12 @@ name: Alard Schmied
 
 origin: scourgewar-200
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has +X , where X is the combined of Plate armor you control.
 
 regulation:

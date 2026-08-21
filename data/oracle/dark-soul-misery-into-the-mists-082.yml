@@ -2,9 +2,11 @@ name: 'Dark Soul: Misery'
 
 origin: into-the-mists-082
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

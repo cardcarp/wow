@@ -2,9 +2,12 @@ name: Lava Spawn
 
 origin: molten-core-token-004
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 1
 
@@ -15,7 +18,7 @@ combat: Fire
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, put a Lava Spawn into play.
 
 regulation:

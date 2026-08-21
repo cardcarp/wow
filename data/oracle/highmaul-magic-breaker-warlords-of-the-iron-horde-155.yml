@@ -2,9 +2,11 @@ name: Highmaul Magic Breaker
 
 origin: warlords-of-the-iron-horde-155
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

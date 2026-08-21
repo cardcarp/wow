@@ -2,9 +2,12 @@ name: Muruna the Savage
 
 origin: wrathgate-143
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Allies you control have +2 while you control a Form.
 
 regulation:

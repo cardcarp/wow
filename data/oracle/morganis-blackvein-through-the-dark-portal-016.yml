@@ -2,17 +2,20 @@ name: Morganis Blackvein
 
 origin: through-the-dark-portal-016
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 , Flip Morganis Blackvein → Opponents can't draw cards this turn.
 
 regulation:

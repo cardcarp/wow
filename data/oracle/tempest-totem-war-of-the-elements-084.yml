@@ -2,9 +2,12 @@ name: Tempest Totem
 
 origin: war-of-the-elements-084
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -20,7 +23,7 @@ class:
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : When this card enters play, you may put target Totem from your graveyard into your hand. You pay 1 less to play Totems, to a minimum of 1 . (Totems can't attack.)"
 
 regulation:

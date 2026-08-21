@@ -2,9 +2,11 @@ name: Misha
 
 origin: through-the-dark-portal-tokens-003
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

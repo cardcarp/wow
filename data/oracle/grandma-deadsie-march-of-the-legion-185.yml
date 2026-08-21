@@ -2,9 +2,12 @@ name: Grandma Deadsie
 
 origin: march-of-the-legion-185
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Prevent all damage that would be dealt to this ally.
 
 regulation:

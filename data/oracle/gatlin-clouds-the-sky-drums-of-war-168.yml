@@ -2,9 +2,12 @@ name: Gatlin Clouds-the-Sky
 
 origin: drums-of-war-168
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Gatlin has Long-Range while attacking exhausted heroes and allies.
 
 regulation:

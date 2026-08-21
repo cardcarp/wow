@@ -2,9 +2,12 @@ name: Yertle
 
 origin: crown-of-the-heavens-020
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector , Eternal This ally has +1 for each resource you control. When this ally is destroyed, put a Shell armor token into play with equal to the number of resources you controlled as this ally way destroyed.
 
 regulation:

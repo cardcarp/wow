@@ -2,9 +2,12 @@ name: Trollwoven Spaulders
 
 origin: icecrown-crafting-001
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, your hero has Berserking and Conspicuous this turn.
 
 regulation:

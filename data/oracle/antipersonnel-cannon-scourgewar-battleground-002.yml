@@ -2,9 +2,11 @@ name: Antipersonnel Cannon
 
 origin: scourgewar-battleground-002
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

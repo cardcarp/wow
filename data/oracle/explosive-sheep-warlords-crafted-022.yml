@@ -2,9 +2,11 @@ name: Explosive Sheep
 
 origin: warlords-crafted-022
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

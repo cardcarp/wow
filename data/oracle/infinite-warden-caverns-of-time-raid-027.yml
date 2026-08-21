@@ -2,9 +2,12 @@ name: Infinite Warden
 
 origin: caverns-of-time-raid-027
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 2
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally attacks the Raiding ally with the lowest remaining health if able.
 
 regulation:

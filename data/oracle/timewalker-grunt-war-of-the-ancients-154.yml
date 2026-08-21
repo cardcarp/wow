@@ -2,9 +2,12 @@ name: Timewalker Grunt
 
 origin: war-of-the-ancients-154
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Assault 1 At the start of your turn, this ally may deal 1 melee damage to target hero for each Orc ally you control.
 
 regulation:

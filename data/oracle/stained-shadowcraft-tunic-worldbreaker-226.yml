@@ -2,9 +2,12 @@ name: Stained Shadowcraft Tunic
 
 origin: worldbreaker-226
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: '→ Target hero or ally has Stealth this turn. Stash : Target hero or ally has Stealth this turn.'
 
 regulation:

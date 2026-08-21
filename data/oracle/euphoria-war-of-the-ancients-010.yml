@@ -2,9 +2,12 @@ name: Euphoria
 
 origin: war-of-the-ancients-010
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Balance Talent Ongoing : → Reveal the top card of your deck. If it's cost is 4 or more, add a bliss counter to this ability. While there are three or more bliss counters on this ability, you pay 4 less to play cards."
 
 regulation:

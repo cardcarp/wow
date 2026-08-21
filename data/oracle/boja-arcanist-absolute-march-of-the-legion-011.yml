@@ -2,17 +2,20 @@ name: Bo'ja, Arcanist Absolute
 
 origin: march-of-the-legion-011
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 5 , Flip Bo'ja → Target player readies all of his resources.
 
 regulation:

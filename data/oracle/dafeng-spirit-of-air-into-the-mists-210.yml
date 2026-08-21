@@ -2,9 +2,11 @@ name: Dafeng, Spirit of Air
 
 origin: into-the-mists-210
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

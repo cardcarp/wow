@@ -2,9 +2,12 @@ name: Lesson of the Call
 
 origin: wrathgate-089
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: You max exhaust a non-hero Warrior you control rather than pay this ability's cost. Put target ally on top of its owner's deck.
 
 regulation:

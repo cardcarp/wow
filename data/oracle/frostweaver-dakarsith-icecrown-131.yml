@@ -2,9 +2,12 @@ name: Frostweaver Dakarsith
 
 origin: icecrown-131
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing heroes and allies can't attack unless their controller exhausts two other cards he controls for each attacker.
 
 regulation:

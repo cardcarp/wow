@@ -2,9 +2,12 @@ name: Master Mathias Shaw
 
 origin: through-the-dark-portal-181
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Stealth When an ally in your party deals combat damage to a defending hero, draw a card.
 
 regulation:

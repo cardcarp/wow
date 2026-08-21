@@ -2,9 +2,12 @@ name: Horace Shadowfall
 
 origin: servants-of-the-betrayer-137
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing heroes and allies can attack only Demons in your party if able.
 
 regulation:

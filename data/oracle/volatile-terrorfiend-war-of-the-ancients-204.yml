@@ -2,9 +2,12 @@ name: Volatile Terrorfiend
 
 origin: war-of-the-ancients-204
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an ally you control is destroyed for the first time on each of your turns, this ally has +3 ATK and Smash this turn.
 
 regulation:

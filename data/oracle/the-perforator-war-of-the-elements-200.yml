@@ -2,9 +2,12 @@ name: The Perforator
 
 origin: war-of-the-elements-200
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: This weapon has +X ATK, where X is the highest cost among Dragonkin allies you control.
 
 regulation:

@@ -2,9 +2,12 @@ name: Master of the Hunt
 
 origin: heroes-of-azeroth-040
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Pets you control have +2 / +2.'
 
 regulation:

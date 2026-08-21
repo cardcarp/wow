@@ -2,9 +2,11 @@ name: Thunderlord Predator
 
 origin: warlords-of-the-iron-horde-193
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

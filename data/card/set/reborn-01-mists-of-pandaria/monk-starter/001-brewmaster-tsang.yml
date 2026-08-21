@@ -1,3 +1,5 @@
+oracle: brewmaster-tsang-monk-starter-001
+
 index: '001'
 
 rarity: Common
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: ''
-
-oracle: brewmaster-tsang-monk-starter-001
 
 set: Monk Starter

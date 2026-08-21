@@ -2,9 +2,12 @@ name: Akamas Sash
 
 origin: the-hunt-for-illidan-204
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Loyal Hero Required If your hero would deal damage with an ability, it deals that much unpreventable damage +1 instead. When an ally is destroyed by fatal damage dealt with an ability you control, remove that ally from the game.
 
 regulation:

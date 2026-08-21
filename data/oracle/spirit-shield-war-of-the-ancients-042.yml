@@ -2,9 +2,12 @@ name: Spirit Shield
 
 origin: war-of-the-ancients-042
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

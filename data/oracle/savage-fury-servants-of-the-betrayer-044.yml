@@ -2,9 +2,12 @@ name: Savage Fury
 
 origin: servants-of-the-betrayer-044
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Feral Hero Required Ongoing : When you play a Feral ability, if you control a Form, your hero may deal 2 melee damage to target ally.'
 
 regulation:

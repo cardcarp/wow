@@ -2,9 +2,11 @@ name: Thief in the Mist
 
 origin: into-the-mists-076
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

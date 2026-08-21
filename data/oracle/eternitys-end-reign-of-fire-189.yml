@@ -2,14 +2,17 @@ name: Eternitys End
 
 origin: reign-of-fire-189
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 2 to complete this quest. Reward : Put any number of cards from your hand on the bottom of your deck, then draw that many cards.'
 
 regulation:

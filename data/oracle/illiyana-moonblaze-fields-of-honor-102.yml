@@ -2,9 +2,12 @@ name: Illiyana Moonblaze
 
 origin: fields-of-honor-102
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, each opponent destroys a card he controls.
 
 regulation:

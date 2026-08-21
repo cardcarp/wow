@@ -2,9 +2,12 @@ name: Bloody Slaughter
 
 origin: icecrown-088
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals X melee damage to target exhausted hero or ally, where X is the cost of a non-hero Druid or Rogue you control.
 
 regulation:

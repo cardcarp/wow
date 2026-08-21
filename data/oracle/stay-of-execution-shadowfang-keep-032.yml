@@ -2,14 +2,17 @@ name: Stay of Execution
 
 origin: shadowfang-keep-032
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Each Raider destroys an ally he controls. Ongoing : 7 → Destroy this ability. Any Raider may use this power. When this ability is destroyed, each Raider may put an ally from his graveyard into play under his control.'
 
 regulation:

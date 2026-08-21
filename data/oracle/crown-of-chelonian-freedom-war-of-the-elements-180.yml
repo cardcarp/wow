@@ -2,9 +2,12 @@ name: Crown of Chelonian Freedom
 
 origin: war-of-the-elements-180
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor enters play, put X +1 counters on it, where X is the cost of a non- , non- ally you control. This armor can prevent damage to non- , non- allies you control.
 
 regulation:

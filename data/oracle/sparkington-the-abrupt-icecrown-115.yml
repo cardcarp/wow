@@ -2,9 +2,12 @@ name: Sparkington the Abrupt
 
 origin: icecrown-115
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -20,7 +23,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Mages and cards in your hand are instant.
 
 regulation:

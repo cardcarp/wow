@@ -2,9 +2,12 @@ name: Vicious Strike
 
 origin: twilight-of-the-dragons-077
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

@@ -2,9 +2,11 @@ name: Preparing to Strike
 
 origin: echoes-of-thunder-315
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,17 +2,20 @@ name: Vaaros the Venerable
 
 origin: alliance-shaman-2013-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Vaaros → Target ally has +3 ATK this turn.
 
 regulation:

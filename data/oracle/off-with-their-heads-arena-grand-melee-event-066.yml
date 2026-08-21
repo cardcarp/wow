@@ -2,12 +2,15 @@ name: Off With Their Heads!
 
 origin: arena-grand-melee-event-066
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an ally is dealt damage this turn, destroy it.
 
 regulation:

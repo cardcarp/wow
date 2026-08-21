@@ -2,12 +2,15 @@ name: Traitors!
 
 origin: tomb-of-the-forgotten-201
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 1 to complete this quest. Reward : An opponent chooses one: You draw a card; or your hero heals 3 damage from itself.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Totem from Beyond
 
 origin: reign-of-fire-049
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -20,7 +23,7 @@ class:
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Warp Ongoing : At the start of your turn, this Totem deals 2 fire damage to target opposing hero or ally.'
 
 regulation:

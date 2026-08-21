@@ -2,9 +2,12 @@ name: Vylokx
 
 origin: crown-of-the-heavens-148
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he deals 2 shadow damage to each non-Demon, non-Monster hero and ally. Other Demon and Monster allies you control have +2 / +2.
 
 regulation:

@@ -2,9 +2,12 @@ name: Netherpocalypse
 
 origin: war-of-the-ancients-060
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Each opponent chooses one: Your hero deals 10 shadow damage to his hero; or destroy all resources he controls; or destroy all abilities, allies, and equipment he controls.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Bad Mojo Mask
 
 origin: heroes-of-azeroth-281
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of each player's turn, that player discards a card.
 
 regulation:

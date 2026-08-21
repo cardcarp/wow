@@ -2,9 +2,12 @@ name: Dark Cleric Jocasta
 
 origin: heroes-of-azeroth-233
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may put target ally from your graveyard into your hand.
 
 regulation:

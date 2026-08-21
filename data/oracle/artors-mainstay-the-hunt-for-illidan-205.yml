@@ -2,9 +2,12 @@ name: Ar'tors Mainstay
 
 origin: the-hunt-for-illidan-205
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals damage with an ability, you may ready one of your resources.
 
 regulation:

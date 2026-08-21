@@ -2,9 +2,12 @@ name: Savina Greysky
 
 origin: fires-of-outland-142
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive Savina Greysky has +2 ATK while you control a Form.
 
 regulation:

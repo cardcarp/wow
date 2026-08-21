@@ -2,17 +2,20 @@ name: Joren the Martyr
 
 origin: the-hunt-for-illidan-011
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 26
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Joren → The next time target hero or ally would be dealt damage this turn, prevent it.
 
 regulation:

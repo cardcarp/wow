@@ -2,9 +2,12 @@ name: Tree of Life
 
 origin: fires-of-outland-026
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

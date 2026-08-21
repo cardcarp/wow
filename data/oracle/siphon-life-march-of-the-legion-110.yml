@@ -2,9 +2,12 @@ name: Siphon Life
 
 origin: march-of-the-legion-110
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 

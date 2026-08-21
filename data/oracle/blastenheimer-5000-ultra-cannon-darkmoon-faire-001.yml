@@ -2,14 +2,17 @@ name: Blastenheimer 5000 Ultra Cannon
 
 origin: darkmoon-faire-001
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : 3 , → You may put an ally card from your hand into play. If you do, destroy it at the start of the next turn.'
 
 regulation:

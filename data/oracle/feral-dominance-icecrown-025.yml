@@ -2,9 +2,12 @@ name: Feral Dominance
 
 origin: icecrown-025
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : 1 , → Target Druid you control has Assault 1 or Protector this turn.'
 
 regulation:

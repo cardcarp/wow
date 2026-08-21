@@ -2,9 +2,11 @@ name: Gate of the Purple Amethyst
 
 origin: scourgewar-battleground-005
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

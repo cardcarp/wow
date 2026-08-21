@@ -2,9 +2,12 @@ name: Bandits Insignia
 
 origin: naxxramas-treasure-022
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: → Target opponent puts a card from his hand into his resource row face down and exhausted.'
 
 regulation:

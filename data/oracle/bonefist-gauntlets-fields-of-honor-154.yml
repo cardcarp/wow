@@ -2,9 +2,12 @@ name: Bonefist Gauntlets
 
 origin: fields-of-honor-154
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: → You pay 2 less the next time you strike with a weapon this turn.
 
 regulation:

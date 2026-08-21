@@ -2,9 +2,12 @@ name: Eskhandars Right Claw
 
 origin: molten-core-treasure-021
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: You may remove an equipment card in your hand from the game rather than pay Eskhandar's Right Claw's cost.
 
 regulation:

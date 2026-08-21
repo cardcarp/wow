@@ -2,9 +2,12 @@ name: Flametongue Weapon
 
 origin: through-the-dark-portal-095
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

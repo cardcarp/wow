@@ -2,9 +2,11 @@ name: Hope is Lost
 
 origin: the-deadmines-028
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

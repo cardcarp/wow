@@ -2,9 +2,12 @@ name: The Promises of Darkness
 
 origin: blood-of-gladiators-073
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

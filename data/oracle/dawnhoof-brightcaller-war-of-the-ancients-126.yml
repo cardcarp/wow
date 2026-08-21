@@ -2,9 +2,12 @@ name: Dawnhoof Brightcaller
 
 origin: war-of-the-ancients-126
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 

@@ -2,9 +2,12 @@ name: Gravebound
 
 origin: reign-of-fire-003
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally you control. Ongoing : Attached ally has Assault 3 . When attached ally is destroyed, put a 3 / 3 Ghoul ally token into play.'
 
 regulation:

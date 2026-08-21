@@ -1,3 +1,5 @@
+oracle: disarm-trap-scourgewar-081
+
 index: '081'
 
 rarity: Common
@@ -7,7 +9,5 @@ artist: Efrem Palacios
 variation: []
 
 flavor: "\"At least cover it with leaves or something, Azarak. It's like you're not even trying.\" - Dralor"
-
-oracle: disarm-trap-scourgewar-081
 
 set: Scourgewar

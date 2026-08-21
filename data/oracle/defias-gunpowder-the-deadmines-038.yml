@@ -2,12 +2,15 @@ name: Defias Gunpowder
 
 origin: the-deadmines-038
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "When this item enters play, the MARKED hero's controller gains control of it. On your turn: Roll a die, destroy this item → Your hero deals that much fire damage to target hero or ally."
 
 regulation:

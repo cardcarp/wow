@@ -2,9 +2,12 @@ name: Natural Selection
 
 origin: heroes-of-azeroth-027
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

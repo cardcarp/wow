@@ -2,9 +2,12 @@ name: Prince Keleseth
 
 origin: assault-on-icecrown-citadel-raid-017
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Raid
 
 rule:
-  - type: ability
+  - type: Ability
     text: "When Prince Keleseth enters play, search your deck and/or hand for a card named Prince Valanar and a second card named Prince Taldaram and put them into play. Invocation of Blood : Opposing equipment lose and can't have powers."
 
 regulation:

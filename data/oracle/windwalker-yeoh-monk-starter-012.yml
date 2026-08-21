@@ -2,9 +2,11 @@ name: Windwalker Yeoh
 
 origin: monk-starter-012
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

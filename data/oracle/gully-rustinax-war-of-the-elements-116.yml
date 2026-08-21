@@ -2,9 +2,12 @@ name: Gully Rustinax
 
 origin: war-of-the-elements-116
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Elusive
 
 regulation:

@@ -2,9 +2,11 @@ name: Bleeding Hollow Grunt
 
 origin: warlords-of-the-iron-horde-124
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

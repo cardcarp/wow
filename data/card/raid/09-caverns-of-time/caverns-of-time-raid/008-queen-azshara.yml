@@ -1,3 +1,5 @@
+oracle: queen-azshara-timewalkers-027
+
 index: '008'
 
 rarity: Rare
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"I am unimpressed."'
-
-oracle: queen-azshara-timewalkers-027
 
 set: Caverns of Time Raid

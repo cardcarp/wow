@@ -2,9 +2,12 @@ name: Eternium Runed Blade
 
 origin: azeroth-crafting-008
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Players can't play allies. Allies can't be destroyed.
 
 regulation:

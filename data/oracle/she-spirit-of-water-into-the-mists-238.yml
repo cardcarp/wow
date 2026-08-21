@@ -2,9 +2,11 @@ name: She Spirit Of Water
 
 origin: into-the-mists-238
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

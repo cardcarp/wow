@@ -2,9 +2,12 @@ name: Cloak of Subjugated Power
 
 origin: drums-of-war-206
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 1 , , Destroy an ally in your party with cost X → Gain control of target ally with cost less than X.'
 
 regulation:

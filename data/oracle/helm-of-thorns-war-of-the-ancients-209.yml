@@ -2,9 +2,12 @@ name: Helm of Thorns
 
 origin: war-of-the-ancients-209
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 → Exhaust target ally with cost 2 or less.
 
 regulation:

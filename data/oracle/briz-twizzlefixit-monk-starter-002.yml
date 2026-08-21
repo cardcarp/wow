@@ -2,9 +2,11 @@ name: Briz Twizzlefixit
 
 origin: monk-starter-002
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

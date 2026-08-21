@@ -2,9 +2,12 @@ name: 'Holy Word: Hope'
 
 origin: betrayal-of-the-guardian-033
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

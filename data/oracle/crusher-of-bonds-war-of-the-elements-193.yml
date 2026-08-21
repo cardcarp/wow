@@ -2,9 +2,12 @@ name: Crusher of Bonds
 
 origin: war-of-the-elements-193
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 

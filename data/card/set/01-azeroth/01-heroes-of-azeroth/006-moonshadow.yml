@@ -1,3 +1,5 @@
+oracle: moonshadow-heroes-of-azeroth-006
+
 index: '006'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: 'Life, death, rebirth: all of nature is a cycle.'
-
-oracle: moonshadow-heroes-of-azeroth-006
 
 set: Heroes of Azeroth

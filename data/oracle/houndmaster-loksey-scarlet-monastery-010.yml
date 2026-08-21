@@ -2,9 +2,12 @@ name: Houndmaster Loksey
 
 origin: scarlet-monastery-010
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 6
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Boss Bloodlust : When Loksey attacks, ready Mograine. The next time Mograine attacks this turn, he attacks a random non-MARKED hero.'
 
 regulation:

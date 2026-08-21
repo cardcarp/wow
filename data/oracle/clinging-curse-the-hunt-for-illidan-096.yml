@@ -2,9 +2,12 @@ name: Clinging Curse
 
 origin: the-hunt-for-illidan-096
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

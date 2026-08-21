@@ -1,3 +1,5 @@
+oracle: bonewall-simms-blood-of-gladiators-011
+
 index: '011'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"We will lose everything unless we fight together!"'
-
-oracle: bonewall-simms-blood-of-gladiators-011
 
 set: Blood of Gladiators

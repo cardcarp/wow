@@ -2,9 +2,12 @@ name: Crackling Staff
 
 origin: fields-of-honor-183
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a ally is dealt nature or damage, destroy it.
 
 regulation:

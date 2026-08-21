@@ -2,9 +2,12 @@ name: The Cruel Hand of Timmy
 
 origin: heroes-of-azeroth-317
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage with The Cruel Hand of Timmy to a hero, that hero's controller destroys one of his resources.
 
 regulation:

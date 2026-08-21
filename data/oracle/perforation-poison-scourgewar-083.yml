@@ -2,9 +2,12 @@ name: Perforation Poison
 
 origin: scourgewar-083
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

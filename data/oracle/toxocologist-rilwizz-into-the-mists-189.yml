@@ -2,9 +2,11 @@ name: Toxocologist Rilwizz
 
 origin: into-the-mists-189
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

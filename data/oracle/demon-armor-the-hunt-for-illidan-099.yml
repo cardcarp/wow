@@ -2,9 +2,12 @@ name: Demon Armor
 
 origin: the-hunt-for-illidan-099
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : 1 , Remove an ability card in your graveyard from the game → Your hero heals 2 damage from itself.'
 
 regulation:

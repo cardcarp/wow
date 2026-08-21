@@ -2,9 +2,12 @@ name: Premeditation
 
 origin: heroes-of-azeroth-101
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Subtlety Hero Required Search your deck for up to two Combo cards, reveal them, and put them into your hand.
 
 regulation:

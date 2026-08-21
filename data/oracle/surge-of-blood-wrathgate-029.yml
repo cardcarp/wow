@@ -2,9 +2,12 @@ name: Surge of Blood
 
 origin: wrathgate-029
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 2 melee damage to target hero or ally. Weapons you control have Assault 2 this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Skullstealer Greataxe
 
 origin: crown-of-the-heavens-189
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: This weapon has +1 ATK for each Monster hero and ally you control.
 
 regulation:

@@ -2,9 +2,12 @@ name: Sky-Hunter Swift Boots
 
 origin: fires-of-outland-204
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Untargetable
 
 regulation:

@@ -2,9 +2,11 @@ name: Noxious Poison
 
 origin: siege-of-orgrimmar-treasure-023
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Portal Master Arion
 
 origin: into-the-mists-142
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

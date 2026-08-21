@@ -2,12 +2,15 @@ name: Play the Hand You're Dealt
 
 origin: arena-grand-melee-event-074
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ignoring heroes and resources, count how many cards in play each player controls, then shuffle them all together. Deal each player the number of cards he controlled, and he puts them into play.
 
 regulation:

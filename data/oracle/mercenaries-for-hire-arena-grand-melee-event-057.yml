@@ -2,12 +2,15 @@ name: Mercenaries for Hire
 
 origin: arena-grand-melee-event-057
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Starting with the player to your left, each player chooses an ally in the party of the player to his right. Then, each player gains control of the ally he choose.
 
 regulation:

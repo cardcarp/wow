@@ -2,9 +2,11 @@ name: Trickster Momo
 
 origin: into-the-mists-153
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

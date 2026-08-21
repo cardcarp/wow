@@ -2,9 +2,12 @@ name: Conqueror Vun'jin
 
 origin: wrathgate-134
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, target an opposing Paladin ally. You control it and it gains Protector while this ally remains under your control.
 
 regulation:

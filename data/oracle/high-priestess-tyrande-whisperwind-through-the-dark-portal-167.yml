@@ -2,9 +2,12 @@ name: High Priestess Tyrande Whisperwind
 
 origin: through-the-dark-portal-167
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a Night Elf in your party is destroyed, put a Wisp ally token with 0 ATK and 1 health into play. 1 , Destroy a Wisp in your party → That Wisp deals 1 nature damage to each opposing hero and ally.
 
 regulation:

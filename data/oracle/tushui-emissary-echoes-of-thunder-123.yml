@@ -2,9 +2,11 @@ name: Tushui Emissary
 
 origin: echoes-of-thunder-123
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

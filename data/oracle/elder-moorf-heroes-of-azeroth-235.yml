@@ -2,9 +2,12 @@ name: Elder Moorf
 
 origin: heroes-of-azeroth-235
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 → Target ally has +2 ATK this turn. Use only once per turn.
 
 regulation:

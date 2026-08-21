@@ -1,3 +1,5 @@
+oracle: nuvon-dawnfury-wrathgate-017
+
 index: '017'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: "\"The Nexus War places everything we've worked for at risk. Our very way of life will cease to be!\""
-
-oracle: nuvon-dawnfury-wrathgate-017
 
 set: Wrathgate

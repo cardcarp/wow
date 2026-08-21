@@ -2,12 +2,15 @@ name: Outland Sucks!
 
 origin: drums-of-war-249
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 3 to complete this quest. Reward : Draw a card, or two cards if an opponent has a Blood Elf, Draenei, or Demon in his party.'
 
 regulation:

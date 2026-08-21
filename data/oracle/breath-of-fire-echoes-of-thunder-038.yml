@@ -2,9 +2,11 @@ name: Breath of Fire
 
 origin: echoes-of-thunder-038
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

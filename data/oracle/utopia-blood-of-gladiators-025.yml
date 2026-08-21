@@ -2,9 +2,12 @@ name: Utopia
 
 origin: blood-of-gladiators-025
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy all tokens. Put each other ability, ally, and equipment into its owner's resource row face down, then exhaust them.
 
 regulation:

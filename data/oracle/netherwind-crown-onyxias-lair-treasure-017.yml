@@ -2,9 +2,12 @@ name: Netherwind Crown
 
 origin: onyxias-lair-treasure-017
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , → Your hero deals 1 arcane damage to target ally. When you play a ability, ready Netherwind Crown.
 
 regulation:

@@ -2,9 +2,12 @@ name: Unholy Rune
 
 origin: scourgewar-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'As an additional cost to play, remove an ally in your graveyard from the game. Ongoing : → You pay 1 less to play your next card this turn.'
 
 regulation:

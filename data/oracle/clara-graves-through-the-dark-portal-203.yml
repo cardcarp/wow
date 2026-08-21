@@ -2,9 +2,12 @@ name: Clara Graves
 
 origin: through-the-dark-portal-203
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: You may remove four ally cards in your graveyard from the game rather than pay Clara Graves's cost.
 
 regulation:

@@ -2,9 +2,11 @@ name: Ensorcellor Auridae
 
 origin: warlords-crafted-021
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

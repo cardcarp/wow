@@ -2,9 +2,12 @@ name: Boundless Rage
 
 origin: crown-of-the-heavens-053
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Eternal Target ally has +1 ATK this turn for each resource you control.
 
 regulation:

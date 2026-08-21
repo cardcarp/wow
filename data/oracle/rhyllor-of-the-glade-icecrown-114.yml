@@ -2,9 +2,12 @@ name: Rhyllor of the Glade
 
 origin: icecrown-114
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector , Assault 1 , Mend 1
 
 regulation:

@@ -2,9 +2,12 @@ name: Spark of Rage
 
 origin: war-of-the-ancients-055
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the start of your turn, destroy this ability. If you do, allies you control have +3 ATK and Smash this turn. (This also affects allies that enter play later this turn.)'
 
 regulation:

@@ -2,9 +2,11 @@ name: Wavebinder Kardris
 
 origin: siege-of-orgrimmar-045
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

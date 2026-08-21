@@ -2,17 +2,20 @@ name: Riley Sizzleswitch
 
 origin: scourgewar-008
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'If you control another Mage: Flip Riley → Riley deals 2 fire damage to target ally.'
 
 regulation:

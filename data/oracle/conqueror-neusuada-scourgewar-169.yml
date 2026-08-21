@@ -2,9 +2,12 @@ name: Conqueror Neusuada
 
 origin: scourgewar-169
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -20,7 +23,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally attacks, you may destroy target non-hero Warlock or equipment.
 
 regulation:

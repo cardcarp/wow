@@ -2,9 +2,12 @@ name: Ingrid Shadowstorm
 
 origin: march-of-the-legion-153
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing heroes lose and can't have flip powers.
 
 regulation:

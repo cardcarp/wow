@@ -2,9 +2,11 @@ name: Bracers of Defiled Earth
 
 origin: into-the-mists-268
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

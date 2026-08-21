@@ -2,9 +2,12 @@ name: Bloody Grip
 
 origin: scourgewar-114
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target weapon. Ongoing : As this ability enters play, choose one: This ability has "Attached weapon has +3 ATK"; or this ability has "You pay 3 less to strike with attached weapon."'
 
 regulation:

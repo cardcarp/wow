@@ -2,9 +2,12 @@ name: Calamitys Grasp
 
 origin: naxxramas-treasure-030
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 

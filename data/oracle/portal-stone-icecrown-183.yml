@@ -2,9 +2,12 @@ name: Portal Stone
 
 origin: icecrown-183
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 1 , → Remove target ally you control from the game. On your turn: 1 , → Put an ally removed by a card named Portal Stone into play under your control.'
 
 regulation:

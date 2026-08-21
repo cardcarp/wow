@@ -2,9 +2,12 @@ name: Righteous Cleanse
 
 origin: throne-of-the-tides-058
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

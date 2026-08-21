@@ -1,6 +1,6 @@
 name: Azeroth Crafting
 
-type: craft
+type: Craft
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 14
 
 total: 14
 
-date_release: 2006-10
+date: 2006-10
 
 collection: Azeroth

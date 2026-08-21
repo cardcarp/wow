@@ -2,9 +2,12 @@ name: Cult Master Kel'Thuzad
 
 origin: reign-of-fire-126
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 → Target player puts the top card of his deck into his graveyard. 2 → You may play target ally in a graveyard this turn. (Pay costs as normal.)
 
 regulation:

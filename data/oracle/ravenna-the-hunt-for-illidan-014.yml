@@ -2,17 +2,20 @@ name: Ravenna
 
 origin: the-hunt-for-illidan-014
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Flip Ravenna → Target ally you control has Stealth this turn.
 
 regulation:

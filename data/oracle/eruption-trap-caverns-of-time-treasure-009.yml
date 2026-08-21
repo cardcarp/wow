@@ -2,9 +2,12 @@ name: Eruption Trap
 
 origin: caverns-of-time-treasure-009
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

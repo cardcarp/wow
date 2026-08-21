@@ -2,9 +2,12 @@ name: Seeping Poison
 
 origin: throne-of-the-tides-068
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

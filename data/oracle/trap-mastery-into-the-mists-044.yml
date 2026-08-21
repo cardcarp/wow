@@ -2,9 +2,11 @@ name: Trap Mastery
 
 origin: into-the-mists-044
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

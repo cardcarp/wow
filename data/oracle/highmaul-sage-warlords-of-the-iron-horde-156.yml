@@ -2,9 +2,11 @@ name: Highmaul Sage
 
 origin: warlords-of-the-iron-horde-156
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

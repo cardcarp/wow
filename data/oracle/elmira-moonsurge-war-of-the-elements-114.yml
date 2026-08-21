@@ -2,9 +2,12 @@ name: Elmira Moonsurge
 
 origin: war-of-the-elements-114
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive At the start of your turn, this ally may deal 1 arcane damage to target hero or ally for each card you control.
 
 regulation:

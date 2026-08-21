@@ -1,24 +1,25 @@
 name: Jaina
 
-credit: Official Product
+format:
+  - Starter
 
-category: Preconstructed
+group: champion
 
-facet:
+theme:
   - Champion
   - Starter
 
-collection: champion
+complexity:
+
+division:
 
 highlight: jaina-001
 
-description: Jaina Preconstructed
+tagline: Jaina Preconstructed
 
-context:
+description:
   - title: ''
     body: Introduction to the Jaina
-
-total: 61
 
 list:
   hero:

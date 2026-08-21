@@ -2,9 +2,12 @@ name: Vengeful Gladiators Piercing Touch
 
 origin: blood-of-gladiators-187
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Remove an ability card in your graveyard from the game → Vengeful Gladiator's Piercing Touch has +1 ATK this turn.
 
 regulation:

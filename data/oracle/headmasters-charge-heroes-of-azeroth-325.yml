@@ -2,9 +2,12 @@ name: Headmasters Charge
 
 origin: heroes-of-azeroth-325
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ability, you may exhaust a hero or ally in your party. If you do, draw a card.
 
 regulation:

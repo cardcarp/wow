@@ -2,9 +2,11 @@ name: Spirit Binding Totem
 
 origin: echoes-of-thunder-068
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

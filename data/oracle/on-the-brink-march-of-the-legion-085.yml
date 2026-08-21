@@ -2,9 +2,12 @@ name: On the Brink
 
 origin: march-of-the-legion-085
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally. Ongoing : When attached ally becomes exhausted, destroy it.'
 
 regulation:

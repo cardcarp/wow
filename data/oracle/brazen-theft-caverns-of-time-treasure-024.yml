@@ -2,9 +2,12 @@ name: Brazen Theft
 
 origin: caverns-of-time-treasure-024
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Play only if your hero dealt combat damage to an opposing hero this turn. Look at target player's hand and choose a card. That player discards that card.
 
 regulation:

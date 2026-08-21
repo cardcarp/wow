@@ -2,9 +2,12 @@ name: Benethor Draigo
 
 origin: heroes-of-azeroth-228
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 

@@ -2,12 +2,15 @@ name: Blackout
 
 origin: twilight-of-the-dragons-206
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: Pay 2 to complete this quest. Reward : Target up to two face-up resources. Turn the first face down. If you control a Black or Twilight Dragonkin, turn the second face down.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Elizabeth Crowley
 
 origin: drums-of-war-166
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , Discard a card → Elizabeth heals 4 damage from target hero or ally.
 
 regulation:

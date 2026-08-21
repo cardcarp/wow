@@ -2,12 +2,15 @@ name: Divine Intercession
 
 origin: arena-grand-melee-event-025
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Choose a race and remove all damage from heroes and allies of that race. The player to your left chooses a class and removes all damage from heroes and allies of that class.
 
 regulation:

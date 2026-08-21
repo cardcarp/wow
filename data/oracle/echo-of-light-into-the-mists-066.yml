@@ -2,9 +2,11 @@ name: Echo of Light
 
 origin: into-the-mists-066
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

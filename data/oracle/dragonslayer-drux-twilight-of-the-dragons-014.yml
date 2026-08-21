@@ -2,20 +2,23 @@ name: Dragonslayer Drux
 
 origin: twilight-of-the-dragons-014
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Drux face down.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: When an opposing ally is destroyed, Drux may deal 1 frost damage to target hero.
 
 regulation:

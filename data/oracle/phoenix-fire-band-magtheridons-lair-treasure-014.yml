@@ -2,9 +2,12 @@ name: Phoenix-fire Band
 
 origin: magtheridons-lair-treasure-014
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Destroy Phoenix-fire Band → Prevent all fire ( ) damage that would be dealt to target hero or ally this turn.
 
 regulation:

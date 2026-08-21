@@ -2,9 +2,12 @@ name: Shelter
 
 origin: wrathgate-056
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

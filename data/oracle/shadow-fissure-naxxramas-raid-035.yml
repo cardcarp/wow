@@ -2,14 +2,17 @@ name: Shadow Fissure
 
 origin: naxxramas-raid-035
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target up to one raiding ability, up to one raiding ally, and up to one raiding equipment. Remove them from the game.
 
 regulation:

@@ -2,9 +2,12 @@ name: Herod, The Scarlet Champion
 
 origin: dungeon-treasure-028
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'At the start of your turn, choose one: This turn, Herod has +3 ATK and attacks opposing heroes and allies at random; or Herod attacks normally this turn.'
 
 regulation:

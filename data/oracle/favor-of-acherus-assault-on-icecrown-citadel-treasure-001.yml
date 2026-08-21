@@ -2,9 +2,12 @@ name: Favor of Acherus
 
 origin: assault-on-icecrown-citadel-treasure-001
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Allies and weapons you control have Assault 1 for each Disease attached to opposing heroes.'
 
 regulation:

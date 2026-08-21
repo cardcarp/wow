@@ -2,9 +2,12 @@ name: Korialstrasz
 
 origin: worldbreaker-211
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 6
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ally, put X 1 / 1 Red Dragonkin ally tokens into play, where X is that ally's cost.
 
 regulation:

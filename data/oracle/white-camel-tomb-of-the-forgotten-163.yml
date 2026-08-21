@@ -2,9 +2,12 @@ name: White Camel
 
 origin: tomb-of-the-forgotten-163
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive When you play a resource face up into your resource row, this ally has +3 ATK and Sentinel this turn.
 
 regulation:

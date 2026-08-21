@@ -2,9 +2,11 @@ name: Jun Wei The Shadowmancer
 
 origin: siege-of-orgrimmar-025
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

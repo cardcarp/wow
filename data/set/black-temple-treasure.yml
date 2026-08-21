@@ -1,6 +1,6 @@
 name: Black Temple Treasure
 
-type: raid
+type: Raid
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 12
 
 total: 12
 
-date_release: 2008-09
+date: 2008-09
 
 collection: Black Temple

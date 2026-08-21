@@ -2,9 +2,12 @@ name: General Lightsbane
 
 origin: icecrown-006
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 class:
   - Death Knight
@@ -12,11 +15,11 @@ class:
 type: Raid
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: Flip Lightsbane, remove a Death Knight in your graveyard from the game → Target ally has -4 ATK this turn.'
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: "Deckbuilding : You can only include either or cards, cards, Frost talents, neutral cards, and Scourge cards. You can't include cards with reputations or other text restrictions."
 
 regulation:

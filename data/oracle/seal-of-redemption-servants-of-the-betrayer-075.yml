@@ -2,9 +2,12 @@ name: Seal of Redemption
 
 origin: servants-of-the-betrayer-075
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : When your hero deals combat damage with a weapon, put an ally card from your graveyard into your hand. 1 , Destroy Seal of Redemption → Put an ally card from your graveyard into hand.'
 
 regulation:

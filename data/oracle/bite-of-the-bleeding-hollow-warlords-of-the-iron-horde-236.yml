@@ -2,9 +2,11 @@ name: Bite Of The Bleeding Hollow
 
 origin: warlords-of-the-iron-horde-236
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

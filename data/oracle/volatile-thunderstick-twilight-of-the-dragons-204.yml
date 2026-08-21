@@ -2,9 +2,12 @@ name: Volatile Thunderstick
 
 origin: twilight-of-the-dragons-204
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Long-Range When you strike with this or another Ranged weapon, your hero deals 1 nature damage to target hero or ally.
 
 regulation:

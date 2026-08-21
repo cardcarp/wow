@@ -2,9 +2,12 @@ name: Fossilized Raptor
 
 origin: aftermath-crafting-002
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to complete quests for each ally in your graveyard. (Mounts can't attack or be attacked.)
 
 regulation:

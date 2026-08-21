@@ -2,9 +2,12 @@ name: Singing Crystal Axe
 
 origin: march-of-the-legion-289
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Singing Crystal Axe enters play with four slow counters. You pay 1 more to strike with Singing Crystal Axe for each slow counter. When you strike with Singing Crystal Axe, remove a slow counter.
 
 regulation:

@@ -2,9 +2,11 @@ name: Sha of Despair
 
 origin: into-the-mists-235
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

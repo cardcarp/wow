@@ -2,12 +2,15 @@ name: The Overseers Shadow
 
 origin: scourgewar-262
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 4 to complete this quest. Reward : If you control an ability, draw a card. If you control an ally, draw a card. If you control an equipment, draw a card.'
 
 regulation:

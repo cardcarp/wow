@@ -2,17 +2,20 @@ name: Gramm Thunderjaw
 
 origin: wrathgate-005
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Flip Gramm, discard a Hunter → This turn, target ally has +2 ATK, and a second target ally has -2 ATK.
 
 regulation:

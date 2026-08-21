@@ -2,9 +2,12 @@ name: Bound Rumbler
 
 origin: war-of-the-elements-170
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When this ally is destroyed, put a 2 / 1 Earth Elemental ally token into play.
 
 regulation:

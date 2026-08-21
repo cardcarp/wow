@@ -2,9 +2,12 @@ name: Kil'rek
 
 origin: betrayal-of-the-guardian-148
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Fire
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive → Kil'rek deals 1 fire damage to target opposing hero for each demon you control.
 
 regulation:

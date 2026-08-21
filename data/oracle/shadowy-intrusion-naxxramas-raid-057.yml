@@ -2,16 +2,19 @@ name: Shadowy Intrusion
 
 origin: naxxramas-raid-057
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Raid
 
 stage: 17
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'The raid leader chooses one: He discards three cards; or each raider discards a card.'
 
 regulation:

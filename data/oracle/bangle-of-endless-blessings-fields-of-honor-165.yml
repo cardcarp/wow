@@ -2,9 +2,12 @@ name: Bangle of Endless Blessings
 
 origin: fields-of-honor-165
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '12'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Bangle of Endless Blessings enters play, put each face-down resource into its owner's hand. Players can't place resources face down.
 
 regulation:

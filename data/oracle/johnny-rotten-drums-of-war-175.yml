@@ -2,9 +2,12 @@ name: Johnny Rotten
 
 origin: drums-of-war-175
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he may deal 3 melee damage to target exhausted hero or ally. Shadow Resistance
 
 regulation:

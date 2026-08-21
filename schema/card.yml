@@ -1,3 +1,7 @@
+oracle: # the original first appearance of this card's exact mechanicals
+  type: string
+  required: true
+  
 index:
   type: string
   required: true
@@ -5,14 +9,15 @@ index:
 
 rarity:
   type: string
+  required: true
   nullable: true
-  allowed: ['Common', 'Uncommon', 'Rare', 'Epic', 'Legendary', 'Token']
 
 artist:
   type: string
+  required: true
   nullable: true
 
-variation:
+variation: # how this printing differs physically, e.g. Flip for a double-faced card
   type: list
   schema:
     type: string
@@ -20,10 +25,6 @@ variation:
 flavor:
   type: string
   nullable: true
-
-oracle:
-  type: string
-  required: true
 
 set:
   type: string

@@ -2,9 +2,12 @@ name: Tracker Gallen
 
 origin: heroes-of-azeroth-219
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Tracker Gallen has +1 ATK for each ally in your party.
 
 regulation:

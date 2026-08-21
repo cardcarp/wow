@@ -2,9 +2,11 @@ name: The Blood Mist
 
 origin: into-the-mists-032
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

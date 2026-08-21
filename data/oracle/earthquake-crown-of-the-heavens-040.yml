@@ -2,9 +2,12 @@ name: Earthquake
 
 origin: crown-of-the-heavens-040
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

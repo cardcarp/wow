@@ -2,9 +2,12 @@ name: Valathar Blackstorm
 
 origin: battle-of-the-aspects-treasure-037
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive This ally has +1 ATK for each ally in all graveyards.
 
 regulation:

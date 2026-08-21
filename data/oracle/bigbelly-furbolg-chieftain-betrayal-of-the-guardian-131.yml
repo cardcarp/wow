@@ -2,9 +2,12 @@ name: Bigbelly, Furbolg Chieftain
 
 origin: betrayal-of-the-guardian-131
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has +1 / +1 for each card in all graveyards.
 
 regulation:

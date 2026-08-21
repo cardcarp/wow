@@ -2,9 +2,12 @@ name: Brogre
 
 origin: crown-of-the-heavens-129
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 2 → Target Ogre ally has +3 ATK this turn.'
 
 regulation:

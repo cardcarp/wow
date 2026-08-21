@@ -2,9 +2,12 @@ name: Gifts from the Past
 
 origin: the-hunt-for-illidan-088
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put any number of target equipment cards from your graveyard into play if their combined cost is less than or equal to the number of resources you have.
 
 regulation:

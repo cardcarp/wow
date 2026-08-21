@@ -2,9 +2,12 @@ name: Tyrandes Favorite Doll
 
 origin: timewalkers-crafting-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this item enters play, name a card. Friendly players pay 1 less to play cards with that name, to a minimum of 1 .
 
 regulation:

@@ -2,9 +2,12 @@ name: Treebole
 
 origin: fields-of-honor-152
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, each player chooses an ally in his party. Destroy all other allies.
 
 regulation:

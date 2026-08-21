@@ -2,20 +2,23 @@ name: Ayaka Winterhoof
 
 origin: worldbreaker-011
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 30
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Ayaka
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: When Ayaka deals 1 or more damage, she heals 1 damage from herself.
 
 regulation:

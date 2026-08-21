@@ -2,9 +2,12 @@ name: Dun'zarg
 
 origin: tomb-of-the-forgotten-136
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Fire
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally attacks for the first time each turn, he has +4 ATK this turn while you control another Ogre hero or ally.
 
 regulation:

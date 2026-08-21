@@ -2,17 +2,20 @@ name: Gurzak of Orgrimmar
 
 origin: horde-warrior-2011-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 30
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 2 , Flip Gurzak → Target weapon has +2 ATK this turn.'
 
 regulation:

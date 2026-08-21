@@ -2,9 +2,12 @@ name: Blessing of Might
 
 origin: heroes-of-azeroth-062
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

@@ -2,9 +2,12 @@ name: Life Arc
 
 origin: fires-of-outland-079
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

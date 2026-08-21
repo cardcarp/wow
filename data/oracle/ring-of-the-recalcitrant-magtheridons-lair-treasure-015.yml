@@ -2,9 +2,12 @@ name: Ring of the Recalcitrant
 
 origin: magtheridons-lair-treasure-015
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Friendly heroes have +1 ATK while attacking.
 
 regulation:

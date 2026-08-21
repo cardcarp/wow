@@ -2,9 +2,11 @@ name: Mikasi Drunken Brawler
 
 origin: into-the-mists-173
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

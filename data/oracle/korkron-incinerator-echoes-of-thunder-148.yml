@@ -2,9 +2,11 @@ name: Kor'kron Incinerator
 
 origin: echoes-of-thunder-148
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

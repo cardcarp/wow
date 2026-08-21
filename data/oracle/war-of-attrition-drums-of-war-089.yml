@@ -2,9 +2,12 @@ name: War of Attrition
 
 origin: drums-of-war-089
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put any amount of damage divided as you choose on allies in your party. Each opponent divides that much damage among allies in his party. Players can't put more than fatal damage on an ally this way.
 
 regulation:

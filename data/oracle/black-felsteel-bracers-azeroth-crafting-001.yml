@@ -2,9 +2,12 @@ name: Black Felsteel Bracers
 
 origin: azeroth-crafting-001
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Put a +1 ATK counter on target weapon.
 
 regulation:

@@ -2,9 +2,11 @@ name: Shadowfae Madcap
 
 origin: echoes-of-thunder-210
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

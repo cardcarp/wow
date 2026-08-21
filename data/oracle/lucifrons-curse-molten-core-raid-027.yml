@@ -2,9 +2,12 @@ name: Lucifrons Curse
 
 origin: molten-core-raid-027
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

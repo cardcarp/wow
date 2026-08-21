@@ -2,9 +2,12 @@ name: Gladiator Kileana
 
 origin: blood-of-gladiators-129
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -19,7 +22,7 @@ faction: Horde
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Kileana or another Arena ally enters your party, it may deal 1 fire damage to each other hero and ally other than itself.
 
 regulation:

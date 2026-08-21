@@ -2,9 +2,11 @@ name: Keeper Anathalos
 
 origin: mists-of-pandaria-starter-002
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

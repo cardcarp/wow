@@ -2,9 +2,12 @@ name: Arcane Binding
 
 origin: icecrown-039
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target hero. Ongoing : As this ability enters play, choose \"ability,\" \"ally,\" or \"equipment.\" Attached hero's controller can't play more than one card of the chosen kind per turn."
 
 regulation:

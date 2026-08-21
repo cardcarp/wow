@@ -2,9 +2,12 @@ name: Stormrage Signet Ring
 
 origin: black-temple-treasure-006
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , → Put target equipment into its owner's hand. Use only on your turn.
 
 regulation:

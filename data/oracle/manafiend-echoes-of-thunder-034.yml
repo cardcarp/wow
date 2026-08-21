@@ -2,9 +2,11 @@ name: Manafiend
 
 origin: echoes-of-thunder-034
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

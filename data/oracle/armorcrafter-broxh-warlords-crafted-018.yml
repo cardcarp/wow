@@ -2,9 +2,11 @@ name: Armorcrafter Broxh
 
 origin: warlords-crafted-018
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

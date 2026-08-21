@@ -2,9 +2,12 @@ name: Dire Bear Form
 
 origin: wrathgate-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

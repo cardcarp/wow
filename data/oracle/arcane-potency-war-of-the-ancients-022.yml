@@ -2,9 +2,12 @@ name: Arcane Potency
 
 origin: war-of-the-ancients-022
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Arcane Talent Ongoing : This ability enters play exhausted. This ability can be exhausted to pay the cost of abilities as though it were a resource.'
 
 regulation:

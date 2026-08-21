@@ -2,9 +2,12 @@ name: Primalist Naseth
 
 origin: through-the-dark-portal-186
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Primalist Naseth deals 4 nature damage to target hero or ally and heals 4 damage from another hero or ally.
 
 regulation:

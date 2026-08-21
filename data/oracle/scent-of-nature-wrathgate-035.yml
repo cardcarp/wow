@@ -2,9 +2,12 @@ name: Scent of Nature
 
 origin: wrathgate-035
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

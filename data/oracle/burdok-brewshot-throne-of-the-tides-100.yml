@@ -2,9 +2,12 @@ name: Burdok Brewshot
 
 origin: throne-of-the-tides-100
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 

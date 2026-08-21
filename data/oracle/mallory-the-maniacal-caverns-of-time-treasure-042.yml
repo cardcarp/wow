@@ -2,9 +2,12 @@ name: Mallory the Maniacal
 
 origin: caverns-of-time-treasure-042
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally enters play with 2 damage on her. This ally has Assault 4 and Spellshield while undamaged.
 
 regulation:

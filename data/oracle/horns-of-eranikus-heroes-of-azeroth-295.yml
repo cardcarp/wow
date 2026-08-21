@@ -2,9 +2,12 @@ name: Horns of Eranikus
 
 origin: heroes-of-azeroth-295
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may pay 1 . If you do, draw a card.
 
 regulation:

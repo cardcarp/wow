@@ -2,9 +2,12 @@ name: Champion Stance
 
 origin: servants-of-the-betrayer-119
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : If your hero would deal damage, it deals that much +1 instead. If your hero would be dealt damage, prevent 1 of it.'
 
 regulation:

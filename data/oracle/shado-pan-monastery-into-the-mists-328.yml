@@ -2,9 +2,11 @@ name: Shado-Pan Monastery
 
 origin: into-the-mists-328
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

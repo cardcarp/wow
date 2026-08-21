@@ -2,9 +2,12 @@ name: Morfiel
 
 origin: through-the-dark-portal-109
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -18,7 +21,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opponents pay 1 more to play abilities.
 
 regulation:

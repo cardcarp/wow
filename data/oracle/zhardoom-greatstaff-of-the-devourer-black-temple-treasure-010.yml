@@ -2,9 +2,12 @@ name: Zhar'doom, Greatstaff of the Devourer
 
 origin: black-temple-treasure-010
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Exhaust your hero, remove three ability cards in your graveyard from the game → Your hero deals 3 shadow damage to target hero or ally and heals 3 damage from itself.
 
 regulation:

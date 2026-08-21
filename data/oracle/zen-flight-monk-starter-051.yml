@@ -2,9 +2,11 @@ name: Zen Flight
 
 origin: monk-starter-051
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

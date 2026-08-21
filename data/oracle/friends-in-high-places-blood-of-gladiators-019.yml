@@ -2,9 +2,12 @@ name: Friends in High Places
 
 origin: blood-of-gladiators-019
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

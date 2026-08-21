@@ -2,9 +2,12 @@ name: Cunning
 
 origin: showdown-goblins-of-anarchy-001
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Time is Money On your turn: → This ally deals 1 nature damage to each opposing hero and ally for each Biker you control.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Farseer Nobundo
 
 origin: crown-of-the-heavens-167
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 8
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: You may look at the top card of any opponent's deck at any time. At the start of your turn, guess whether the top card of your deck has a higher or lower cost than the top card of target opponent's deck. Then, both players reveal the top card of their deck. If you guessed correctly, draw a card.
 
 regulation:

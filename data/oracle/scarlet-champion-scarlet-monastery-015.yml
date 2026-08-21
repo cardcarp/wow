@@ -2,9 +2,12 @@ name: Scarlet Champion
 
 origin: scarlet-monastery-015
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 4
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has Assault 4 while the Dungeon controls a ally.
 
 regulation:

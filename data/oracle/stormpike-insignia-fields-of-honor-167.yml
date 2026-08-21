@@ -2,9 +2,12 @@ name: Stormpike Insignia
 
 origin: fields-of-honor-167
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -23,7 +26,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play a card, add an honor counter. If there are six or more on Stormpike Insignia, destroy it. When Stormpike Insignia is destroyed this way, your hero deals 5 frost damage to target hero or ally.
 
 regulation:

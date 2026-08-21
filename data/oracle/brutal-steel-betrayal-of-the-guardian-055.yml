@@ -2,9 +2,12 @@ name: Brutal Steel
 
 origin: betrayal-of-the-guardian-055
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target weapon. Ongoing : Attached weapon has +10 ATK.'
 
 regulation:

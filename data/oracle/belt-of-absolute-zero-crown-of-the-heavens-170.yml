@@ -2,9 +2,12 @@ name: Belt of Absolute Zero
 
 origin: crown-of-the-heavens-170
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Weapons you control have +1 ATK.
 
 regulation:

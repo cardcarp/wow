@@ -2,9 +2,12 @@ name: Psychic Screech
 
 origin: throne-of-the-tides-063
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

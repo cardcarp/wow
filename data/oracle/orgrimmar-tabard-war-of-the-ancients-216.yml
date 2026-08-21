@@ -2,9 +2,12 @@ name: Orgrimmar Tabard
 
 origin: war-of-the-ancients-216
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -23,7 +26,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 , → Your hero deals 4 melee damage to target opposing hero. You pay 1 less to use this power for each Orc ally you control.
 
 regulation:

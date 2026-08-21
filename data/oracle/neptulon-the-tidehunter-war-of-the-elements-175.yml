@@ -2,9 +2,12 @@ name: Neptulon the Tidehunter
 
 origin: war-of-the-elements-175
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Frost
 
 rule:
-  - type: ability
+  - type: Ability
     text: Water Elementals you control have Elusive . At the start of your turn, put a 2 / 1 Water Elemental ally token into play. Exhaust a Water Elemental you control → Your hero heals 2 damage from target hero or ally.
 
 regulation:

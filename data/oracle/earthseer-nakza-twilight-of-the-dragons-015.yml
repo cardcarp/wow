@@ -2,20 +2,23 @@ name: Earthseer Nakza
 
 origin: twilight-of-the-dragons-015
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Nazka face down.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: At the start of your turn, Nakza may heal all damage from target ally you control.
 
 regulation:

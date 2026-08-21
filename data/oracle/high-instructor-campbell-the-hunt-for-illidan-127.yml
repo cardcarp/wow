@@ -2,9 +2,12 @@ name: High Instructor Campbell
 
 origin: the-hunt-for-illidan-127
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Campbell enters play, you may put target Talent card from your graveyard into hand.
 
 regulation:

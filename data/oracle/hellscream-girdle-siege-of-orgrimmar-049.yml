@@ -2,9 +2,11 @@ name: Hellscream Girdle
 
 origin: siege-of-orgrimmar-049
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

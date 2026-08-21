@@ -2,14 +2,17 @@ name: Shattering Scales
 
 origin: onyxias-lair-raid-025
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy all opposing abilities and equipment.
 
 regulation:

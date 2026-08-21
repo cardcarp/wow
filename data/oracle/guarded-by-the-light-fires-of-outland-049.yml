@@ -2,9 +2,12 @@ name: Guarded by the Light
 
 origin: fires-of-outland-049
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

@@ -2,9 +2,12 @@ name: Sogoridon the Savage
 
 origin: reign-of-fire-154
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Monster Hero Required This ally has +7 / +7 while an opponent controls a or hero.
 
 regulation:

@@ -2,9 +2,12 @@ name: Ruala the Spotter
 
 origin: march-of-the-legion-200
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust your hero → Target ally has +3 ATK this turn.
 
 regulation:

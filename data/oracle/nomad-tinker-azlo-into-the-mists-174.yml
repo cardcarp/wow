@@ -2,9 +2,11 @@ name: Nomad Tinker Azlo
 
 origin: into-the-mists-174
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

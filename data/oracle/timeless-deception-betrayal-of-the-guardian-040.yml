@@ -2,9 +2,12 @@ name: Timeless Deception
 
 origin: betrayal-of-the-guardian-040
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Echo Target opponent chooses and discards a card.
 
 regulation:

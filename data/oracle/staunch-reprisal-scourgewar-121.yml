@@ -2,9 +2,12 @@ name: Staunch Reprisal
 
 origin: scourgewar-121
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Your hero has Protector . When your hero protects, it may deal 2 melee damage to target attacker.'
 
 regulation:

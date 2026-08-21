@@ -2,9 +2,12 @@ name: Nozdormu the Timeless One
 
 origin: battle-of-the-aspects-choas-mode-heroes-004
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 class:
   - Warrior
@@ -13,11 +16,11 @@ class:
 type: Monster
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: (Allies you control can protect this hero.) 7 , Flip Nozdormu face down → Look at the bottom card of your deck. If its an ability, ally, or equipment, you may play it immediately without paying its cost.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: "At the start of each opponent's turn, you may ready up to one ability, ally, and equipment you control. Deckbuilding : You can include either or cards, and , , and Neutral cards. You can't include more than one of each card."
 
 regulation:

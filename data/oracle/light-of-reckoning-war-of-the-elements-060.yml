@@ -2,9 +2,12 @@ name: Light of Reckoning
 
 origin: war-of-the-elements-060
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

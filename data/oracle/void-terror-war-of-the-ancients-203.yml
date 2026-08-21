@@ -2,9 +2,12 @@ name: Void Terror
 
 origin: war-of-the-ancients-203
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 

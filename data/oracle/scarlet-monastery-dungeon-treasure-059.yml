@@ -2,12 +2,15 @@ name: Scarlet Monastery
 
 origin: dungeon-treasure-059
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 → Target hero or ally that was healed this turn has Assault 2 this turn.
 
 regulation:

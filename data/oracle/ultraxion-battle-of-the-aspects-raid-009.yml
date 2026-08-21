@@ -2,9 +2,12 @@ name: Ultraxion
 
 origin: battle-of-the-aspects-raid-009
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 2
 
@@ -15,7 +18,7 @@ combat: Shadow
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Boss Raiding heroes and allies can't be healed. Hour of Twilight (Deathwing Stages 2+) : At the start of Deathwing's turn, each Raider chooses and destroys an ability, ally, or equipment he controls. If he can't, Ultraxion deals 5 shadow damage to that Raider's hero."
 
 regulation:

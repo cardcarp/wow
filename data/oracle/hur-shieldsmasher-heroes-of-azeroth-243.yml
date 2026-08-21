@@ -2,9 +2,12 @@ name: Hur Shieldsmasher
 
 origin: heroes-of-azeroth-243
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Hur Shieldsmasher enters play, you may destroy target armor.
 
 regulation:

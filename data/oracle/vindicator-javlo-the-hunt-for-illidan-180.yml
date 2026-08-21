@@ -2,9 +2,12 @@ name: Vindicator Javlo
 
 origin: the-hunt-for-illidan-180
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation When an ally in your party is inspired, draw a card.
 
 regulation:

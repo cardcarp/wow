@@ -2,9 +2,12 @@ name: Spirit Link Totem
 
 origin: war-of-the-ancients-056
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -20,7 +23,7 @@ class:
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Restoration Talent Ongoing : When an ally you control deals damage to an opposing hero, this Totem heals that much damage from your hero. (Totems can't attack.)"
 
 regulation:

@@ -2,9 +2,12 @@ name: Sprint
 
 origin: march-of-the-legion-087
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

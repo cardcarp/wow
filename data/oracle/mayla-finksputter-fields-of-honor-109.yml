@@ -2,9 +2,12 @@ name: Mayla Finksputter
 
 origin: fields-of-honor-109
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Escape Artist When Mayla leaves play, you may draw a card.
 
 regulation:

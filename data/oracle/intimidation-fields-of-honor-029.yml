@@ -2,9 +2,12 @@ name: Intimidation
 
 origin: fields-of-honor-029
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Beast Mastery Hero Required Ongoing : Each opposing hero and ally can't ready during its controller's ready step while you have a Pet."
 
 regulation:

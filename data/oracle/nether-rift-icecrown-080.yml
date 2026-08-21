@@ -2,9 +2,12 @@ name: Nether Rift
 
 origin: icecrown-080
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Search your deck for a Felhunter, Imp, Succubus, and Voidwalker ally and reveal them. If you revealed four cards this way, put them into your hand. Otherwise, shuffle them into your deck.
 
 regulation:

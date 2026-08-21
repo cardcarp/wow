@@ -2,9 +2,12 @@ name: Blacksoul Polearm
 
 origin: war-of-the-elements-192
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: You can't strike with this weapon on your turn.
 
 regulation:

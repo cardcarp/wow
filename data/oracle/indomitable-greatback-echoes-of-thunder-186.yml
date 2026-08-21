@@ -2,9 +2,11 @@ name: Indomitable Greatback
 
 origin: echoes-of-thunder-186
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

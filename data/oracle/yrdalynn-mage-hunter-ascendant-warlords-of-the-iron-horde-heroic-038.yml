@@ -2,9 +2,11 @@ name: Yrdalynn Mage Hunter Ascendant
 
 origin: warlords-of-the-iron-horde-heroic-038
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

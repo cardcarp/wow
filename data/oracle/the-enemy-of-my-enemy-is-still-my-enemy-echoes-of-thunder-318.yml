@@ -2,9 +2,11 @@ name: The Enemy of My Enemy... is Still My Enemy!
 
 origin: echoes-of-thunder-318
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

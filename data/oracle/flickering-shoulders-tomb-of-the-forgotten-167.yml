@@ -2,9 +2,12 @@ name: Flickering Shoulders
 
 origin: tomb-of-the-forgotten-167
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: → Target ally has Smash this turn.'
 
 regulation:

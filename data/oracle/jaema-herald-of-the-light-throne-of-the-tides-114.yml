@@ -2,9 +2,12 @@ name: Jaema, Herald of the Light
 
 origin: throne-of-the-tides-114
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Empower Paladin : When this ally enters play, if you control another Paladin hero or ally, this ally heals 4 damage from target hero or ally, and you draw a card.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Pyromaniac
 
 origin: twilight-of-the-dragons-051
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '10'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Fire Talent You pay 1 less to play this ability for each card you control. Your hero deals 10 fire damage to target hero or ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Retainer Kai
 
 origin: the-hunt-for-illidan-192
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scryer Reputation When Kai or another Scryer ally enters your party, opposing heroes and allies can't protect this turn.
 
 regulation:

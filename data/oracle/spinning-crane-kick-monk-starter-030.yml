@@ -2,9 +2,11 @@ name: Spinning Crane Kick
 
 origin: monk-starter-030
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

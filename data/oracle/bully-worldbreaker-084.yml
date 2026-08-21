@@ -2,9 +2,12 @@ name: Bully
 
 origin: worldbreaker-084
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy target ally or equipment with cost 4 or less.
 
 regulation:

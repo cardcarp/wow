@@ -2,9 +2,12 @@ name: Super Simian Sphere
 
 origin: icecrown-186
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Hero : Your hero has Pet (1). Hero : Your hero is also a Demon.'
 
 regulation:

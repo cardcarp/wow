@@ -2,9 +2,11 @@ name: Alister
 
 origin: hogger-demo-002
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

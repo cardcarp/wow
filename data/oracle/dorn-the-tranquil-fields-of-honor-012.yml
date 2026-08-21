@@ -2,17 +2,20 @@ name: Dorn the Tranquil
 
 origin: fields-of-honor-012
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Dorn → Dorn heals 2 damage from each friendly hero and ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Lightwell
 
 origin: through-the-dark-portal-073
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Holy Hero Required Ongoing : Friendly heroes and allies have " → This character heals 2 damage from itself."'
 
 regulation:

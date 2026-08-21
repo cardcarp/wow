@@ -2,14 +2,17 @@ name: The Skybreaker
 
 origin: icecrown-220
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When a quest you control turns face down, add a cannonball counter. On your turn: 1 , , Remove two cannonball counters → Your hero deals 4 ranged damage to target hero.'
 
 regulation:

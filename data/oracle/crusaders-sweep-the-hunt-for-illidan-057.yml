@@ -2,9 +2,12 @@ name: Crusaders Sweep
 
 origin: the-hunt-for-illidan-057
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

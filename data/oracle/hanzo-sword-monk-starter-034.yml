@@ -2,9 +2,11 @@ name: Hanzo Sword
 
 origin: monk-starter-034
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

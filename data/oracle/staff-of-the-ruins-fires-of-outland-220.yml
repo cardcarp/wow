@@ -2,9 +2,12 @@ name: Staff of the Ruins
 
 origin: fires-of-outland-220
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: → You pay 1 less to play your next ability this turn for each card in your graveyard with the same name as that ability.
 
 regulation:

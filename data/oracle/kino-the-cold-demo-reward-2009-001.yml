@@ -2,9 +2,12 @@ name: Kino the Cold
 
 origin: demo-reward-2009-001
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Hardiness
 
 regulation:

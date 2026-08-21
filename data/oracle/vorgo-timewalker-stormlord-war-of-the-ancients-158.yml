@@ -2,9 +2,12 @@ name: Vorgo, Timewalker Stormlord
 
 origin: war-of-the-ancients-158
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: X
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'This ally enters play with X +1 / +1 counters on him. If this ally would be dealt damage, remove that many +1 / +1 counters from him instead. Then, if none remain, destroy this ally. Bloodrush : At the start of your turn, if an opposing hero has more damage on it than your hero, double the number of +1 / +1 counters on this ally.'
 
 regulation:

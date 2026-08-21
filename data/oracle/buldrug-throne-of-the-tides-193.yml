@@ -2,9 +2,12 @@ name: Buldrug
 
 origin: throne-of-the-tides-193
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Enrage When you reveal an ally this way, this ally has +2 ATK and Ferocity this turn.
 
 regulation:

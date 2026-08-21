@@ -2,9 +2,12 @@ name: Maelstrom of Steel
 
 origin: arena-grand-melee-009
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Preparation Ongoing : You pay 1 less to strike with weapons.'
 
 regulation:

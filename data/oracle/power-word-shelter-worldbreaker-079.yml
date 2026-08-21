@@ -2,9 +2,12 @@ name: 'Power Word: Shelter'
 
 origin: worldbreaker-079
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

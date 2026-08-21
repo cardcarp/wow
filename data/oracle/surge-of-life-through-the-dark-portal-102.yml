@@ -2,9 +2,12 @@ name: Surge of Life
 
 origin: through-the-dark-portal-102
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

@@ -2,9 +2,12 @@ name: Explosive Flames
 
 origin: wrathgate-044
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : If an opposing ally was destroyed this turn: 1 , → Your hero deals 1 fire damage to each opposing hero and ally.'
 
 regulation:

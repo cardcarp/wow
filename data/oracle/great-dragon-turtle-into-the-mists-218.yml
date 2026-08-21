@@ -2,9 +2,11 @@ name: Great Dragon Turtle
 
 origin: into-the-mists-218
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

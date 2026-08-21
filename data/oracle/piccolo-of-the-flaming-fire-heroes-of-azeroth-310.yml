@@ -2,9 +2,12 @@ name: Piccolo of the Flaming Fire
 
 origin: heroes-of-azeroth-310
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , → Exhaust all heroes and allies. Use only on your turn.
 
 regulation:

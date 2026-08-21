@@ -2,9 +2,12 @@ name: Greater Chain Heal
 
 origin: blood-of-gladiators-064
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target up to five heroes and/or allies. Your hero heals 5, 4, 3, 2, and 1 damage from them, respectively.
 
 regulation:

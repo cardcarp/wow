@@ -2,9 +2,12 @@ name: Ice Trap
 
 origin: the-hunt-for-illidan-037
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

@@ -2,9 +2,12 @@ name: Ashtongue Blade
 
 origin: the-hunt-for-illidan-223
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Loyal Hero Required Untargetable
 
 regulation:

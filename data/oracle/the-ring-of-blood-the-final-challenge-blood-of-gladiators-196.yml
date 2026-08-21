@@ -2,14 +2,17 @@ name: 'The Ring of Blood: The Final Challenge'
 
 origin: blood-of-gladiators-196
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'As a cost to place this quest face up, put 2 damage on your hero. Pay 2 to complete this quest. Reward : Draw a card.'
 
 regulation:

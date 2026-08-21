@@ -2,9 +2,12 @@ name: Windstriker Larun
 
 origin: fields-of-honor-147
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each ally has ATK equal to its printed ATK, has health equal to its printed health, and can't gain or lose ATK or health.
 
 regulation:

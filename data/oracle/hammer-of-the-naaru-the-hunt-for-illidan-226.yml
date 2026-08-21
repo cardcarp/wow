@@ -2,9 +2,12 @@ name: Hammer of the Naaru
 
 origin: the-hunt-for-illidan-226
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '8'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero attacks, exhaust all opposing heroes and allies. Damage that would be dealt with Hammer of the Naaru is unpreventable.
 
 regulation:

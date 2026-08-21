@@ -2,9 +2,12 @@ name: Decisive Strike
 
 origin: tomb-of-the-forgotten-042
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

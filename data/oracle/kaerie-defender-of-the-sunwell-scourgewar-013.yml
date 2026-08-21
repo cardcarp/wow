@@ -2,17 +2,20 @@ name: Kaerie, Defender of the Sunwell
 
 origin: scourgewar-013
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'If you control another Paladin: Flip Kaerie → Kaerie deals 3 unpreventable holy damage to target ally that dealt damage this turn.'
 
 regulation:

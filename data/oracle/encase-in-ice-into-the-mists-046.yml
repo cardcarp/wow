@@ -2,9 +2,11 @@ name: Encase In Ice
 
 origin: into-the-mists-046
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Lightning Arc
 
 origin: the-hunt-for-illidan-089
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 3 nature damage divided as you choose to any number of target heroes and/or allies.
 
 regulation:

@@ -2,9 +2,12 @@ name: Murloc Coastrunner
 
 origin: throne-of-the-tides-188
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 

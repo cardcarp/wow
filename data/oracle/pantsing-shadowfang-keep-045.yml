@@ -2,12 +2,15 @@ name: Pantsing
 
 origin: shadowfang-keep-045
 
-layout: standard
+layout: Standard
 
-category: Achievement
+category:
+  - Achievement
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy Godfrey's Britches or Godfrey's Belt.
 
 regulation:

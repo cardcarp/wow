@@ -2,9 +2,11 @@ name: Forgotten Fear
 
 origin: echoes-of-thunder-054
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

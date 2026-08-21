@@ -2,9 +2,12 @@ name: Bolton
 
 origin: blood-of-gladiators-027
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Long-Range
 
 regulation:

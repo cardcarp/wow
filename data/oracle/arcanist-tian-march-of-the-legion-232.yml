@@ -2,9 +2,12 @@ name: Arcanist Tian
 
 origin: march-of-the-legion-232
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Arcane
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scryer Reputation You may look at the top card of your deck at any time.
 
 regulation:

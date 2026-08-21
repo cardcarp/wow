@@ -2,9 +2,12 @@ name: Gorz Blazefist
 
 origin: worldbreaker-174
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity
 
 regulation:

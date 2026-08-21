@@ -2,9 +2,12 @@ name: Vendetta
 
 origin: throne-of-the-tides-069
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Assassination Talent Destroy target exhausted ally, or gain control of it if you have no cards in your hand.
 
 regulation:

@@ -2,9 +2,12 @@ name: Spaulders of the Scarred Lady
 
 origin: crown-of-the-heavens-174
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Assault 2 for each ally you control with 6 or more ATK.
 
 regulation:

@@ -2,9 +2,12 @@ name: All Aboard for Undercity!
 
 origin: scourgewar-124
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

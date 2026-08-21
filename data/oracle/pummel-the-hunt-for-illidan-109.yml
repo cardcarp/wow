@@ -2,9 +2,12 @@ name: Pummel
 
 origin: the-hunt-for-illidan-109
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

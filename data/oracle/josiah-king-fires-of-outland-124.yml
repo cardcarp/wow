@@ -2,9 +2,12 @@ name: Josiah King
 
 origin: fires-of-outland-124
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 5 , Destroy this ally → This ally deals 3 arcane damage to target hero or ally.
 
 regulation:

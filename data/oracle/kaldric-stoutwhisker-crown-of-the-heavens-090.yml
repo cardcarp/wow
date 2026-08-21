@@ -2,9 +2,12 @@ name: Kaldric Stoutwhisker
 
 origin: crown-of-the-heavens-090
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When 1 or more damage is healed from a hero or ally you control, this ally has Assault 2 this turn.
 
 regulation:

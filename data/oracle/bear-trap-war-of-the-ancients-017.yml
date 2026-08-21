@@ -2,9 +2,12 @@ name: Bear Trap
 
 origin: war-of-the-ancients-017
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

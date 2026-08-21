@@ -2,12 +2,15 @@ name: The Boon of A'dal
 
 origin: icecrown-209
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "On an opponent's turn: Pay 7 to complete this quest. Reward : Draw three cards."
 
 regulation:

@@ -2,14 +2,17 @@ name: Lessons in Lurking
 
 origin: through-the-dark-portal-146
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally. Ongoing : Attached ally has Stealth .'
 
 regulation:

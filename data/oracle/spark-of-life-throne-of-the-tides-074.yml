@@ -2,9 +2,12 @@ name: Spark of Life
 
 origin: throne-of-the-tides-074
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Restoration Talent Put target ally from your graveyard into play if its cost is less than or equal to the number of resources you control. If you do, attach this ability to it. Ongoing : Attached ally has "When this ally attacks for the first time this turn, ready it." When this ability leaves play, destroy attached ally.'
 
 regulation:

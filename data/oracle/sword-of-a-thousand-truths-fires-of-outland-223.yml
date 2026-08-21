@@ -2,9 +2,12 @@ name: Sword of a Thousand Truths
 
 origin: fires-of-outland-223
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '8'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage with Sword of a Thousand Truths to a hero, that hero's controller discards his hand.
 
 regulation:

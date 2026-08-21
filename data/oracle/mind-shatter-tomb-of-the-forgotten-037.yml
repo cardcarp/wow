@@ -2,9 +2,12 @@ name: Mind Shatter
 
 origin: tomb-of-the-forgotten-037
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 3 shadow damage to target hero or ally. If a hero was dealt damage this way, its controller discards a card.
 
 regulation:

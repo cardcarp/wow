@@ -2,9 +2,11 @@ name: Archmage Aethas Sunreaver
 
 origin: echoes-of-thunder-128
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

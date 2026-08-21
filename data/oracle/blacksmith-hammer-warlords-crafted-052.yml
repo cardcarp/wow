@@ -2,9 +2,11 @@ name: Blacksmith Hammer
 
 origin: warlords-crafted-052
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

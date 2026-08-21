@@ -2,9 +2,11 @@ name: Cloud Serpent Token
 
 origin: into-the-mists-tokens-002
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

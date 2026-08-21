@@ -2,9 +2,11 @@ name: Laedris Starshadow
 
 origin: into-the-mists-138
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

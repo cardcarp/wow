@@ -2,18 +2,21 @@ name: Elderlimb
 
 origin: elderlimb-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 type: Monster
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Elderlimb face down.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: "Ancient's Lore : At the start of your turn, Elderlimb heals 4 damage from himself if you control a Treant. Deckbuilding: You can't put or cards in your deck."
 
 regulation:

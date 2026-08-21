@@ -2,12 +2,15 @@ name: Cookies Stirring Stick
 
 origin: the-deadmines-040
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: The Dungeon hero strikes with this weapon the first time it attacks each turn. When this weapon enters play, the Dungeon hero heals 5 damage from itself.
 
 regulation:

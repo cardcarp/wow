@@ -2,9 +2,12 @@ name: Crushing Strike
 
 origin: worldbreaker-114
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy target opposing equipment. If you do, your hero may deal 3 melee damage to its controller's hero.
 
 regulation:

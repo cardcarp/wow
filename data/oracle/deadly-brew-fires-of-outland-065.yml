@@ -2,9 +2,12 @@ name: Deadly Brew
 
 origin: fires-of-outland-065
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Choose a Poison attached to a hero or ally. Search your deck for a card with the same name and attach it to that character.
 
 regulation:

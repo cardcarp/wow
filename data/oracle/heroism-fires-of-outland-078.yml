@@ -2,9 +2,12 @@ name: Heroism
 
 origin: fires-of-outland-078
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Alliance Hero Required Heroes and allies in your party have +2 ATK while attacking allies this turn.
 
 regulation:

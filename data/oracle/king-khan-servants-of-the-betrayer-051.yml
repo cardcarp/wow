@@ -2,9 +2,12 @@ name: King Khan
 
 origin: servants-of-the-betrayer-051
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When King Khan enters combat, he deals 2 nature damage to each opposing ally.
 
 regulation:

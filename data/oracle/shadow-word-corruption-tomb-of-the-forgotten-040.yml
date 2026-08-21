@@ -2,9 +2,12 @@ name: 'Shadow Word: Corruption'
 
 origin: tomb-of-the-forgotten-040
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target friendly Monster ally. Ongoing : Attached ally has +1 / +1. When attached ally deals combat damage to a hero, remove the top three cards of that hero's controller's deck from the game."
 
 regulation:

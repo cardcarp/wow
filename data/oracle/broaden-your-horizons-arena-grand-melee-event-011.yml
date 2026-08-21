@@ -2,12 +2,15 @@ name: Broaden Your Horizons
 
 origin: arena-grand-melee-event-011
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 1 arcane damage to target hero or ally for each different set among cards in play you control.
 
 regulation:

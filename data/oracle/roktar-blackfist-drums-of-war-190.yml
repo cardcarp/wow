@@ -2,9 +2,12 @@ name: Roktar Blackfist
 
 origin: drums-of-war-190
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Roktar enters play, destroy target resource if its controller has more resources than you.
 
 regulation:

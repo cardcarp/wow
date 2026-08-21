@@ -2,9 +2,12 @@ name: Slayers Waistguard
 
 origin: blood-of-gladiators-166
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 3 less to strike with weapons while your hero is defending.
 
 regulation:

@@ -2,9 +2,12 @@ name: Lord Kur'talos Ravencrest
 
 origin: war-of-the-ancients-101
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Spellshield Kur'talos has +ATK equal to the combined cost of other allies you control.
 
 regulation:

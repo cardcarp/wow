@@ -2,9 +2,12 @@ name: Adyen the Lightwarden
 
 origin: march-of-the-legion-212
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation Cards can't leave opposing graveyards.
 
 regulation:

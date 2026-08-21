@@ -2,12 +2,15 @@ name: Demonic Contamination
 
 origin: march-of-the-legion-297
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'During your turn, put 1 damage on each of three different allies in your party and pay 1 to complete this quest. Reward : Draw two cards.'
 
 regulation:

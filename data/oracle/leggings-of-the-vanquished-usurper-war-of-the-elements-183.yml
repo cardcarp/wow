@@ -2,9 +2,12 @@ name: Leggings of the Vanquished Usurper
 
 origin: war-of-the-elements-183
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , → Non- , non- allies you control have Assault 2 this turn.
 
 regulation:

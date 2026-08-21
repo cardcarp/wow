@@ -2,9 +2,12 @@ name: Lord of Icecrown
 
 origin: blizzard-employee-promotional-2010-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 cost: '11'
 
@@ -20,8 +23,8 @@ class:
 type: Raid
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Scourge or Hero Required At the start of each player's turn, put target ally from that player's graveyard into play under your control. Allies you control are also Scourge allies.
 
 regulation:

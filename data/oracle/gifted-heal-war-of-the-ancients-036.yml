@@ -2,9 +2,12 @@ name: Gifted Heal
 
 origin: war-of-the-ancients-036
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

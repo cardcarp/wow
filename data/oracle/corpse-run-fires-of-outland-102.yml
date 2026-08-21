@@ -2,14 +2,17 @@ name: Corpse Run
 
 origin: fires-of-outland-102
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : When an ally in your party is destroyed during your turn, you may put it from its owner's graveyard into his hand at end of turn."
 
 regulation:

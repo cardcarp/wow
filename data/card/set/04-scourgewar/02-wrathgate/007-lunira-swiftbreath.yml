@@ -1,3 +1,5 @@
+oracle: lunira-swiftbreath-wrathgate-007
+
 index: '007'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"We must push the Scourge back into Icecrown, or the land itself may never recover."'
-
-oracle: lunira-swiftbreath-wrathgate-007
 
 set: Wrathgate

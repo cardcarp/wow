@@ -2,9 +2,12 @@ name: Periwinkle Cloak
 
 origin: throne-of-the-tides-223
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 2 , → Choose one: Each player discards a card; or each player draws a card.'
 
 regulation:

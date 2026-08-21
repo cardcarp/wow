@@ -2,9 +2,12 @@ name: Puzzle Box of Yogg-Saron
 
 origin: aftermath-crafting-004
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '7'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Players play with the top card of their decks revealed. At the start of each player's turn, if the top card of his deck is a master hero, ability, ally, or equipment, he may play it without paying its cost. → Shuffle target player's deck.
 
 regulation:

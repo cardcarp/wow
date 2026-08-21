@@ -2,9 +2,11 @@ name: Revelations Of Y Shaarj
 
 origin: siege-of-orgrimmar-treasure-041
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

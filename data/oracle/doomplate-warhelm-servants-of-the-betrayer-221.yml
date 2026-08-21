@@ -2,9 +2,12 @@ name: Doomplate Warhelm
 
 origin: servants-of-the-betrayer-221
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each of your armor has +3 DEF while you have five or more equipment.
 
 regulation:

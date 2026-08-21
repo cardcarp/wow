@@ -2,9 +2,12 @@ name: Azure-Shield of Coldarra
 
 origin: servants-of-the-betrayer-219
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: If your hero would be dealt damage, prevent all but 3 of it.
 
 regulation:

@@ -2,9 +2,12 @@ name: Julia Graves
 
 origin: through-the-dark-portal-216
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: You may remove two ally cards in your graveyard from the game rather than pay Julia Graves's cost.
 
 regulation:

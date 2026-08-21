@@ -2,9 +2,11 @@ name: Warsong Worg
 
 origin: warlords-of-the-iron-horde-213
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Earth and Moon
 
 origin: worldbreaker-033
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Balance Talent Ongoing : If a hero or an ally you control would deal arcane ( ) or nature ( ) damage, it deals that much +2 instead.'
 
 regulation:

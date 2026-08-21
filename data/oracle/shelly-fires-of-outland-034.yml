@@ -2,9 +2,12 @@ name: Shelly
 
 origin: fires-of-outland-034
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: If Shelly would be dealt combat damage, prevent 1 of that damage.
 
 regulation:

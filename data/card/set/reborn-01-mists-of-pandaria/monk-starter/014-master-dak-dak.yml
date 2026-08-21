@@ -1,3 +1,5 @@
+oracle: master-dak-dak-monk-starter-014
+
 index: '014'
 
 rarity: Common
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: ''
-
-oracle: master-dak-dak-monk-starter-014
 
 set: Monk Starter

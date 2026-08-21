@@ -2,9 +2,11 @@ name: Sha of Hatred
 
 origin: echoes-of-thunder-208
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

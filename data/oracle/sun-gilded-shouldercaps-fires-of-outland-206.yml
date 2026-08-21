@@ -2,9 +2,12 @@ name: Sun-Gilded Shouldercaps
 
 origin: fires-of-outland-206
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 

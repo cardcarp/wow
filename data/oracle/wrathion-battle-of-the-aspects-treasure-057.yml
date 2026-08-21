@@ -2,9 +2,12 @@ name: Wrathion
 
 origin: battle-of-the-aspects-treasure-057
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Shadow
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of each player's turn, that player chooses and destroys a card he controls.
 
 regulation:

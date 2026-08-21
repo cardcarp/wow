@@ -2,9 +2,12 @@ name: Antonidass Aegis of Rapt Concentration
 
 origin: blood-of-gladiators-157
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 

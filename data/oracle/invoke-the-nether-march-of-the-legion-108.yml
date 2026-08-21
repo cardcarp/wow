@@ -2,9 +2,12 @@ name: Invoke the Nether
 
 origin: march-of-the-legion-108
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Remove all allies from the game.
 
 regulation:

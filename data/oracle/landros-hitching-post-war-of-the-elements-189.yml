@@ -2,9 +2,12 @@ name: Landros Hitching Post
 
 origin: war-of-the-elements-189
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: You can control any number of Mounts.
 
 regulation:

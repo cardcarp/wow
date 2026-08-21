@@ -2,9 +2,12 @@ name: Hellscream Slicer
 
 origin: betrayal-of-the-guardian-181
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Dual Wield When this weapon enters play, if an opponent controls an hero, add a +1 ATK counter to this and each other weapon you control.
 
 regulation:

@@ -2,9 +2,11 @@ name: Moira Thaurissan
 
 origin: siege-of-orgrimmar-treasure-032
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

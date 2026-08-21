@@ -2,9 +2,12 @@ name: Ambush
 
 origin: through-the-dark-portal-079
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

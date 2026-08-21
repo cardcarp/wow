@@ -2,9 +2,11 @@ name: Gladiator Stance
 
 origin: warlords-of-the-iron-horde-087
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

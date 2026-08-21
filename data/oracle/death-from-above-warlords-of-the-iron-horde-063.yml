@@ -2,9 +2,11 @@ name: Death From Above
 
 origin: warlords-of-the-iron-horde-063
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

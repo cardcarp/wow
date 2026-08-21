@@ -2,9 +2,11 @@ name: Finality
 
 origin: into-the-mists-090
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

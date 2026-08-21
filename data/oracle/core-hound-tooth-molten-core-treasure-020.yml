@@ -2,9 +2,12 @@ name: Core Hound Tooth
 
 origin: molten-core-treasure-020
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, put a +1 ATK counter on Core Hound Tooth. When your hero deals combat damage with Core Hound Tooth, remove all +1 ATK counters from Core Hound Tooth.
 
 regulation:

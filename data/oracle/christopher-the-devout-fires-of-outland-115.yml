@@ -2,9 +2,12 @@ name: Christopher the Devout
 
 origin: fires-of-outland-115
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 

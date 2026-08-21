@@ -2,9 +2,12 @@ name: Magnetic Totem
 
 origin: reign-of-fire-047
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

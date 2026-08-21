@@ -2,9 +2,12 @@ name: Vindicator Zalreth
 
 origin: march-of-the-legion-226
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation , Protector When Zalreth is destroyed, you may remove him from the game. If you do, put an ally card from your graveyard into play if its cost is less than or equal to the number of resources you have.
 
 regulation:

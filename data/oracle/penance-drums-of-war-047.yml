@@ -2,9 +2,12 @@ name: Penance
 
 origin: drums-of-war-047
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each ally deals holy damage to itself equal to its ATK.
 
 regulation:

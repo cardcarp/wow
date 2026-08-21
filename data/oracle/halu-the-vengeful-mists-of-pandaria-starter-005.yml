@@ -2,9 +2,11 @@ name: Halu The Vengeful
 
 origin: mists-of-pandaria-starter-005
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

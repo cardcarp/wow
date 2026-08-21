@@ -2,9 +2,12 @@ name: Run to Ground
 
 origin: servants-of-the-betrayer-054
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the start of your turn, target an opposing hero or ally. Allies in your party have +3 ATK while attacking that character this turn.'
 
 regulation:

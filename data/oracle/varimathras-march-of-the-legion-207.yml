@@ -2,9 +2,12 @@ name: Varimathras
 
 origin: march-of-the-legion-207
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '9'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, Varimathras deals 5 shadow damage to target opposing hero or ally. When that character is destroyed this turn, its controller discards a card.
 
 regulation:

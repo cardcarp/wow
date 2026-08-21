@@ -2,9 +2,12 @@ name: Excessive Force
 
 origin: worldbreaker-088
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target ally has +3 ATK this turn. Target ally has -3 ATK this turn.
 
 regulation:

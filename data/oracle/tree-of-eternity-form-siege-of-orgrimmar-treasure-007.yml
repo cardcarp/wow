@@ -2,9 +2,11 @@ name: Tree of Eternity Form
 
 origin: siege-of-orgrimmar-treasure-007
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

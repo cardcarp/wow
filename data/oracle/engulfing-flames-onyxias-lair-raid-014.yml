@@ -2,14 +2,17 @@ name: Engulfing Flames
 
 origin: onyxias-lair-raid-014
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target opposing hero or ally, and Onyxia deals 5 fire damage to it. Ongoing : At the start of your turn, Onyxia deals X fire damage to attached character, where X is the current stage.'
 
 regulation:

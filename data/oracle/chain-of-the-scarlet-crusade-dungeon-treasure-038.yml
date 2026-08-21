@@ -2,9 +2,12 @@ name: Chain of the Scarlet Crusade
 
 origin: dungeon-treasure-038
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, add a scarlet counter to this armor. Your hero and allies you control have Assault 1 for each scarlet counter.
 
 regulation:

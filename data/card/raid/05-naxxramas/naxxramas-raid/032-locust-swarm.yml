@@ -1,3 +1,5 @@
+oracle: locust-swarm-naxxramas-raid-032
+
 index: '032'
 
 rarity: Uncommon
@@ -7,7 +9,5 @@ artist: Brandon Kitkouski
 variation: []
 
 flavor: "\"Yes, run! It makes the blood pump faster!\" - Anub'Rekhan"
-
-oracle: locust-swarm-naxxramas-raid-032
 
 set: Naxxramas Raid

@@ -2,9 +2,12 @@ name: Harnum Firebelly
 
 origin: the-hunt-for-illidan-126
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Frost Resistance
 
 regulation:

@@ -2,20 +2,23 @@ name: Caleb Pavish
 
 origin: worldbreaker-004
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 → Flip Caleb
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: At the start of your turn, Caleb deals 1 melee damage to target hero.
 
 regulation:

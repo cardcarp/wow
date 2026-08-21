@@ -2,17 +2,20 @@ name: Zomm Hopeslayer
 
 origin: fires-of-outland-018
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: x , Flip Zomm Hopeslayer → Put X Combo cards from your removed from game zone into your graveyard.
 
 regulation:

@@ -2,12 +2,15 @@ name: 'WANTED: Tauren'
 
 origin: arena-grand-melee-event-108
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: The first player to hit the ceiling with a World of Warcraft® TCG card he owns may put it into his hand.
 
 regulation:

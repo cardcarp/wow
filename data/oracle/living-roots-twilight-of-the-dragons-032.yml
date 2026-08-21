@@ -2,9 +2,12 @@ name: Living Roots
 
 origin: twilight-of-the-dragons-032
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target ally. Ongoing : Attached ally can't attack or exhaust unless its controller pays 2 ."
 
 regulation:

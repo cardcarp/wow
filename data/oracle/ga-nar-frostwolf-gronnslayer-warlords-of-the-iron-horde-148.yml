@@ -2,9 +2,11 @@ name: Ga Nar Frostwolf Gronnslayer
 
 origin: warlords-of-the-iron-horde-148
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

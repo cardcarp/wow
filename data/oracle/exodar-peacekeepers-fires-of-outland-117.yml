@@ -2,9 +2,12 @@ name: Exodar Peacekeepers
 
 origin: fires-of-outland-117
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Exodar Peacekeepers enters play, it heals 1 damage from target hero or ally for each ally named Exodar Peacekeepers in your party.
 
 regulation:

@@ -2,9 +2,12 @@ name: Hood of Hidden Flesh
 
 origin: timewalkers-badges-of-justice-001
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this armor enters play, look at the top three cards of your deck. Remove one from the game face down and put the rest on the bottom of your deck. If you control seven or more resources: → Put the card you removed this way into your hand.'
 
 regulation:

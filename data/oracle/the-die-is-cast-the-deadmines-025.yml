@@ -2,14 +2,17 @@ name: The Die Is Cast
 
 origin: the-deadmines-025
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : As this ability enters play, the MARKED hero's controller gains control of it. 1 , Destroy this ability → Interrupt target Dungeon ability."
 
 regulation:

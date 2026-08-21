@@ -2,9 +2,12 @@ name: Defias Envoker
 
 origin: the-deadmines-010
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 5
 
@@ -15,7 +18,7 @@ combat: Fire
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: Long-Range
 
 regulation:

@@ -2,9 +2,12 @@ name: Besora Galefeather
 
 origin: scourgewar-164
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Assault 2
 
 regulation:

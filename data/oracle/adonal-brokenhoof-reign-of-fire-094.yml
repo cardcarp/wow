@@ -2,9 +2,12 @@ name: Adonal Brokenhoof
 
 origin: reign-of-fire-094
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '0'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector
 
 regulation:

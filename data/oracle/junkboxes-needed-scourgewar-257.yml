@@ -2,9 +2,12 @@ name: Junkboxes Needed
 
 origin: scourgewar-257
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 class:
   - Rogue
@@ -12,7 +15,7 @@ class:
 type: Class Restriction
 
 rule:
-  - type: ability
+  - type: Ability
     text: "On your turn: Choose \"ability,\" \"ally,\" or \"equipment,\" and pay 2 to complete this quest. Reward : Look at target opponent's hand and choose a card of that kind. He discards that card."
 
 regulation:

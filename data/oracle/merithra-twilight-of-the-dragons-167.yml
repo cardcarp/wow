@@ -2,9 +2,12 @@ name: Merithra
 
 origin: twilight-of-the-dragons-167
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a resource you control is turned face down, this ally deals nature damage to target hero or ally equal to the number of Green Dragonkin you control.
 
 regulation:

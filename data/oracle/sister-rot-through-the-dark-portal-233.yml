@@ -2,9 +2,12 @@ name: Sister Rot
 
 origin: through-the-dark-portal-233
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may destroy target ability.
 
 regulation:

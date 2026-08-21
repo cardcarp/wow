@@ -2,9 +2,12 @@ name: Magma Totem
 
 origin: the-hunt-for-illidan-090
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

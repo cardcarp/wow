@@ -2,9 +2,12 @@ name: Searing Light
 
 origin: fields-of-honor-049
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Holy Hero Required Ongoing : 2 , Discard an ability card → Your hero deals 3 unpreventable holy damage to target hero or ally. Destroy Searing Light → Your hero deals 3 unpreventable holy damage to target hero or ally.'
 
 regulation:

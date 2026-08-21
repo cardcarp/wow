@@ -2,9 +2,11 @@ name: Thunder Focus Tea
 
 origin: monk-starter-032
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

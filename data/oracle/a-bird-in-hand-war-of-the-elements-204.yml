@@ -2,12 +2,15 @@ name: A Bird in Hand
 
 origin: war-of-the-elements-204
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Pay 2 to complete this quest. Reward : Reveal the top card of your deck. If it's an ally, put it into your hand."
 
 regulation:

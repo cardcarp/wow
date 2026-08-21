@@ -2,9 +2,12 @@ name: Chaotic Rush
 
 origin: worldbreaker-113
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Put target ally on top of its owner's deck. Ongoing : Opposing allies enter play exhausted."
 
 regulation:

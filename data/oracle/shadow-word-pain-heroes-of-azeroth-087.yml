@@ -2,9 +2,12 @@ name: 'Shadow Word: Pain'
 
 origin: heroes-of-azeroth-087
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

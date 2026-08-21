@@ -2,9 +2,12 @@ name: Shamanistic Rage
 
 origin: fires-of-outland-080
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Enhancement Hero Required Ongoing : When your hero deals combat damage with one or more Melee weapons for the first time each turn, ready up to X of your resources, where X is the combined strike cost of those weapons.'
 
 regulation:

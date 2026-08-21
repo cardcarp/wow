@@ -2,14 +2,17 @@ name: '"MY FATE IS MY OWN!"'
 
 origin: the-deadmines-033
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to the Dungeon ally with the highest printed . Ongoing : When attached ally deals damage to a Raiding hero, that hero's controller discards two random cards."
 
 regulation:

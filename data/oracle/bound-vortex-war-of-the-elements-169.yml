@@ -2,9 +2,12 @@ name: Bound Vortex
 
 origin: war-of-the-elements-169
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: Untargetable When this ally exhausts, put a 2 / 1 Air Elemental ally token into play.
 
 regulation:

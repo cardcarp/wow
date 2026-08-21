@@ -2,17 +2,20 @@ name: Ressa the Leper Queen
 
 origin: servants-of-the-betrayer-016
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Ressa → Target player destroys one of his equipment. Leper Gnome
 
 regulation:

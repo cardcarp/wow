@@ -2,9 +2,12 @@ name: Sword of Zeal
 
 origin: onyxias-lair-treasure-032
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage with Sword of Zeal, target player may ready that many of his resources.
 
 regulation:

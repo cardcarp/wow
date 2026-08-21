@@ -2,9 +2,12 @@ name: Murphy Watson
 
 origin: wrathgate-142
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has Assault 3 while an ally is in your graveyard.
 
 regulation:

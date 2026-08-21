@@ -2,9 +2,12 @@ name: Odo the Blindwatcher
 
 origin: shadowfang-keep-014
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 3
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, if Godfrey or any other Dungeon ally would deal damage this turn, it deals double that much instead.
 
 regulation:

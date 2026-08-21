@@ -2,9 +2,12 @@ name: Wrath of the Ages
 
 origin: betrayal-of-the-guardian-019
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Rift This turn, double the ATK of target ally, and it has Smash .
 
 regulation:

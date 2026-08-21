@@ -2,9 +2,12 @@ name: Resolute Aura
 
 origin: fields-of-honor-045
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : For each armor you control, your weapons have +1 ATK and you pay 1 less to strike with them.'
 
 regulation:

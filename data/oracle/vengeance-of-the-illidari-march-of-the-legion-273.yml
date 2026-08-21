@@ -2,9 +2,12 @@ name: Vengeance of the Illidari
 
 origin: march-of-the-legion-273
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ability, ready your hero.
 
 regulation:

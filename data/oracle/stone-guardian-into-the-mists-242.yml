@@ -2,9 +2,11 @@ name: Stone Guardian
 
 origin: into-the-mists-242
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

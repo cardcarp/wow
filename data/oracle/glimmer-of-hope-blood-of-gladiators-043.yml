@@ -2,9 +2,12 @@ name: Glimmer of Hope
 
 origin: blood-of-gladiators-043
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

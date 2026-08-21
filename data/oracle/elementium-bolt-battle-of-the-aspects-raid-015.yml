@@ -2,14 +2,17 @@ name: Elementium Bolt
 
 origin: battle-of-the-aspects-raid-015
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: "This ability enters play with an elementium counter on it. Ongoing : At the start of Deathwing's turn, remove an elementium counter from this ability, and Deathwing deals 3 unpreventable fire damage to each Raiding hero and ally. If you didn't, each Raider discards a card. If Deathwing is dealt 8 or more damage in one turn, destroy this ability."
 
 regulation:

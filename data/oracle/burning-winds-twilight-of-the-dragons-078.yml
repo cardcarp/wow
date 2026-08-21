@@ -2,9 +2,12 @@ name: Burning Winds
 
 origin: twilight-of-the-dragons-078
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: If you control one or more non-token allies, put an X / X Fire Elemental ally token into play, where X is the highest cost among allies you control. If you control one or more non-token allies, put an X / X Air Elemental ally token into play, where X is the highest cost among allies you control.
 
 regulation:

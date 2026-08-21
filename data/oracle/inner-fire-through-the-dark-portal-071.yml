@@ -2,9 +2,12 @@ name: Inner Fire
 
 origin: through-the-dark-portal-071
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Inner Fire enters play with three charge counters on it. Ongoing : Prevent all damage that would be dealt to your hero. When damage is prevented this way, remove a charge counter from Inner Fire. If you removed the last one, destroy Inner Fire.'
 
 regulation:

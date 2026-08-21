@@ -2,20 +2,23 @@ name: Kadus Frosthand
 
 origin: worldbreaker-007
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 6 → Flip Kadus
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: → Target ally can't attack this turn.
 
 regulation:

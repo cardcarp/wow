@@ -2,9 +2,12 @@ name: Treewatcher Kursha
 
 origin: icecrown-144
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally readies, you may target ability and/or equipment.
 
 regulation:

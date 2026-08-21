@@ -2,9 +2,12 @@ name: Hurlorn Battlechaser
 
 origin: fires-of-outland-163
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Long-Range When Hurlorn Battlechaser enters play, he deals 2 ranged damage to target hero or ally.
 
 regulation:

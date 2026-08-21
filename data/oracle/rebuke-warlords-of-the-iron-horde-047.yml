@@ -2,9 +2,11 @@ name: Rebuke
 
 origin: warlords-of-the-iron-horde-047
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

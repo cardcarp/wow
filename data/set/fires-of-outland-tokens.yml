@@ -1,6 +1,6 @@
 name: Fires of Outland Tokens
 
-type: token
+type: Token
 
 index: 03a
 
@@ -8,6 +8,6 @@ subtotal: 3
 
 total: 3
 
-date_release: 2007-08
+date: 2007-08
 
 collection: Azeroth

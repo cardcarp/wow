@@ -2,14 +2,17 @@ name: Fordragon Hold
 
 origin: wrathgate-218
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: '→ Target hero or ally you control has Assault 1 this turn. If you control an ally with Bolvar in its name: → heroes and allies you control have Assault 1 this turn.'
 
 regulation:

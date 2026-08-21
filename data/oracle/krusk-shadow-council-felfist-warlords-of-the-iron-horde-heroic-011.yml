@@ -2,9 +2,11 @@ name: Krusk Shadow Council Felfist
 
 origin: warlords-of-the-iron-horde-heroic-011
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

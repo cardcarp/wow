@@ -2,9 +2,12 @@ name: Mantle of Master Cho
 
 origin: tomb-of-the-forgotten-171
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: ', Name a standard class → Target ally you control has that class and loses all other classes this turn.'
 
 regulation:

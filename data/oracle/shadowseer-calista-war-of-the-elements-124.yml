@@ -2,9 +2,12 @@ name: Shadowseer Calista
 
 origin: war-of-the-elements-124
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: "When this ally enters play, target player puts an ally he controls into its owner's hand. Stash : Put an ally you control into its owner's hand."
 
 regulation:

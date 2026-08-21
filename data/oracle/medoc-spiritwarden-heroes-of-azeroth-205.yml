@@ -2,9 +2,12 @@ name: Medoc Spiritwarden
 
 origin: heroes-of-azeroth-205
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Put target ally card from your graveyard into your hand.
 
 regulation:

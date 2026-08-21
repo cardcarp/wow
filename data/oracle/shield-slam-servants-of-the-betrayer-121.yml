@@ -2,9 +2,12 @@ name: Shield Slam
 
 origin: servants-of-the-betrayer-121
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

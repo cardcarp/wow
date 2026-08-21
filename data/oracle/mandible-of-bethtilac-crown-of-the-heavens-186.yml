@@ -2,9 +2,12 @@ name: Mandible of Beth'tilac
 
 origin: crown-of-the-heavens-186
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 

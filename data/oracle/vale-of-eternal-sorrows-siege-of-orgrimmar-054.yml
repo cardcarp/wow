@@ -2,9 +2,11 @@ name: Vale Of Eternal Sorrows
 
 origin: siege-of-orgrimmar-054
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Shan'ze Battlemaster
 
 origin: echoes-of-thunder-212
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

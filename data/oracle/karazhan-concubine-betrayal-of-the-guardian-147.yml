@@ -2,9 +2,12 @@ name: Karazhan Concubine
 
 origin: betrayal-of-the-guardian-147
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may exhaust target ally. If can't ready during its controller's next ready step.
 
 regulation:

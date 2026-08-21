@@ -2,9 +2,12 @@ name: King Mukla
 
 origin: through-the-dark-portal-244
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: When King Mukla enters play, you may gain control of target ally with cost 3 or less.
 
 regulation:

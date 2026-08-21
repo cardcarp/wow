@@ -2,9 +2,12 @@ name: Wall of the Dead
 
 origin: heroes-of-azeroth-302
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Remove an ally card in your graveyard from the game → Put a bone counter on Wall of the Dead. Wall of the Dead has +1 DEF for each bone counter on it.
 
 regulation:

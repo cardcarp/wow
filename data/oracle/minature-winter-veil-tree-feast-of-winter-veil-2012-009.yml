@@ -2,9 +2,11 @@ name: Minature Winter Veil Tree
 
 origin: feast-of-winter-veil-2012-009
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

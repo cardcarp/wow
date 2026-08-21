@@ -2,9 +2,12 @@ name: Tinker Bixy Blue
 
 origin: drums-of-war-144
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If Bixy is undamaged: → Target player discards a card and you draw a card.'
 
 regulation:

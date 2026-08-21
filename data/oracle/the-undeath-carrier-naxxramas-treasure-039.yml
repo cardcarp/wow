@@ -2,9 +2,12 @@ name: The Undeath Carrier
 
 origin: naxxramas-treasure-039
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a non-Undead ally you control is destroyed, put it into play, and it's also an Undead.
 
 regulation:

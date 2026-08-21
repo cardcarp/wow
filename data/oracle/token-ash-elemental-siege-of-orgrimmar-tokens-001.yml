@@ -2,9 +2,11 @@ name: Token Ash Elemental
 
 origin: siege-of-orgrimmar-tokens-001
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

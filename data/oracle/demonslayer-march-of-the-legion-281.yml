@@ -2,9 +2,12 @@ name: Demonslayer
 
 origin: march-of-the-legion-281
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with Demonslayer, you may destroy target Demon ally.
 
 regulation:

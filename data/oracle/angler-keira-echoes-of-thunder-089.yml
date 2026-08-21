@@ -2,9 +2,11 @@ name: Angler Keira
 
 origin: echoes-of-thunder-089
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

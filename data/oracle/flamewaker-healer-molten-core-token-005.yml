@@ -2,9 +2,12 @@ name: Flamewaker Healer
 
 origin: molten-core-token-005
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 1
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Flamewaker Healer deals 1 shadow damage to each hero and ally in target opponent's party.
 
 regulation:

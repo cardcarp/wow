@@ -2,9 +2,12 @@ name: Elwynn Burglar
 
 origin: reign-of-fire-076
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Unity : When this ally deals combat damage to a hero, if you control three or more Human allies, that hero's controller chooses and discards a card."
 
 regulation:

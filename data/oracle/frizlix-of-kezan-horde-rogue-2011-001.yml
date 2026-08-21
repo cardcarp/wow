@@ -2,17 +2,20 @@ name: Frizlix of Kezan
 
 origin: horde-rogue-2011-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 2 , Flip Frizlix → Exhaust target hero or ally.'
 
 regulation:

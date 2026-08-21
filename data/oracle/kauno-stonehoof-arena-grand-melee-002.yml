@@ -2,20 +2,23 @@ name: Kauno Stonehoof
 
 origin: arena-grand-melee-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 5 → You may flip Kauno.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: Kauno has 40 .
 
 regulation:

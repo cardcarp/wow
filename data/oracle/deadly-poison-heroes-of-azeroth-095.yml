@@ -2,9 +2,12 @@ name: Deadly Poison
 
 origin: heroes-of-azeroth-095
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

@@ -2,9 +2,12 @@ name: Circle of Healing
 
 origin: the-hunt-for-illidan-065
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

@@ -2,9 +2,12 @@ name: Quickdraw
 
 origin: blood-of-gladiators-030
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

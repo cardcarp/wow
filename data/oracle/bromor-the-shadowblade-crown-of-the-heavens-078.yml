@@ -2,9 +2,12 @@ name: Bromor the Shadowblade
 
 origin: crown-of-the-heavens-078
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Stealth When your hero strikes with a weapon, add a +1 ATK counter to that weapon.
 
 regulation:

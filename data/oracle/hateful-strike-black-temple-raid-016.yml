@@ -2,9 +2,12 @@ name: Hateful Strike
 
 origin: black-temple-raid-016
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

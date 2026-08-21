@@ -2,14 +2,17 @@ name: Rallying Cry of the Dragonslayer
 
 origin: throne-of-the-tides-093
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally. Ongoing : Attached ally has +1 / +1.'
 
 regulation:

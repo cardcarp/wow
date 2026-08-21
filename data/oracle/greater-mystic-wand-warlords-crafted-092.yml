@@ -2,9 +2,11 @@ name: Greater Mystic Wand
 
 origin: warlords-crafted-092
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

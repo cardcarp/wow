@@ -2,9 +2,12 @@ name: Terokks Quill
 
 origin: march-of-the-legion-291
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -14,7 +17,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Terokk's Quill has +4 ATK while your hero is defending.
 
 regulation:

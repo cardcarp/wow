@@ -2,12 +2,15 @@ name: Seeds of Their Demise
 
 origin: throne-of-the-tides-258
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 0 to complete this quest. Reward : Delve'
 
 regulation:

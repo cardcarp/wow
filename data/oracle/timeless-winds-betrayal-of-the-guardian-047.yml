@@ -2,9 +2,12 @@ name: Timeless Winds
 
 origin: betrayal-of-the-guardian-047
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

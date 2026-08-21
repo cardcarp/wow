@@ -2,9 +2,12 @@ name: Arm Blade of Augelmir
 
 origin: scourgewar-231
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 

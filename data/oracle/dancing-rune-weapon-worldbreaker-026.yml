@@ -2,9 +2,12 @@ name: Dancing Rune Weapon
 
 origin: worldbreaker-026
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Blood Hero Required Put a weapon with cost less than or equal to the number of resources you control from your hand into play. At the end of this turn, put that weapon from play into your hand.
 
 regulation:

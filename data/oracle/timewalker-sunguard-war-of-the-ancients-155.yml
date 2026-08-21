@@ -2,9 +2,12 @@ name: Timewalker Sunguard
 
 origin: war-of-the-ancients-155
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector This ally has +1 for each other Tauren ally you control.
 
 regulation:

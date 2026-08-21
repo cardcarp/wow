@@ -2,9 +2,12 @@ name: Aegis of the Scarlet Commander
 
 origin: dungeon-treasure-037
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor prevents damage, your hero deals 2 unpreventable holy damage to target opposing hero.
 
 regulation:

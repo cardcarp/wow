@@ -2,9 +2,12 @@ name: Potentates Letter Opener
 
 origin: throne-of-the-tides-251
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 2 , , Exhaust your hero → Your hero deals 2 fire damage to target hero or ally.'
 
 regulation:

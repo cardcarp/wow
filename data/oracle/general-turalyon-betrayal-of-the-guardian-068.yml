@@ -2,9 +2,12 @@ name: General Turalyon
 
 origin: betrayal-of-the-guardian-068
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When Turalyon enters play, put a 4 / 4 Spirit ally token named Lothar into play with Ferocity and Lothar (1). Turalyon has Invincible while you control an ally named Lothar.
 
 regulation:

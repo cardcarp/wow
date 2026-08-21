@@ -2,9 +2,12 @@ name: Keward Rocksalt
 
 origin: drums-of-war-131
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Opposing allies have -1 health while Keward is defending.
 
 regulation:

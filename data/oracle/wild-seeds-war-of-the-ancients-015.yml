@@ -2,9 +2,12 @@ name: Wild Seeds
 
 origin: war-of-the-ancients-015
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 1 nature damage to each of up to three target allies. Put a 1 / 1 Treant ally token into play for each ally that was dealt fatal damage this way.
 
 regulation:

@@ -2,9 +2,12 @@ name: Boundless Hellfire
 
 origin: tomb-of-the-forgotten-053
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Eternal Your hero deals 1 fire damage to each hero and ally for each resource you control.
 
 regulation:

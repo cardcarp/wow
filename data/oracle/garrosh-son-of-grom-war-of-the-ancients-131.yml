@@ -2,9 +2,12 @@ name: Garrosh, Son of Grom
 
 origin: war-of-the-ancients-131
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity Garrosh can attack only heroes. At the start of your turn, for this and each other Orc ally you control, put a 2 / 2 Orc Warrior ally token into play with Ferocity and "This ally can attack only heroes."
 
 regulation:

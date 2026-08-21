@@ -2,9 +2,12 @@ name: Ruthless Gladiators Decapitator
 
 origin: tomb-of-the-forgotten-192
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '7'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with this weapon, you may remove target ally in a graveyard from the game. If you do, this weapon has +ATK this turn equal to the ATK of the removed ally.
 
 regulation:

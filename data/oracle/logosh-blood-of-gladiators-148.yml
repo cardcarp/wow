@@ -2,9 +2,12 @@ name: Lo'Gosh
 
 origin: blood-of-gladiators-148
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Opposing heroes and allies have -1 ATK / -1 health while in combat with Lo'Gosh for each Arena ally in your party.
 
 regulation:

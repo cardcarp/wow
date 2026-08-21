@@ -1,6 +1,6 @@
 name: Fields of Honor
 
-type: set
+type: Standard
 
 index: '03'
 
@@ -8,6 +8,6 @@ subtotal: 208
 
 total: 208
 
-date_release: 2009-06
+date: 2009-06
 
 collection: Drums of War

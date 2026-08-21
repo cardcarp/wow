@@ -2,9 +2,12 @@ name: Gakmat
 
 origin: drums-of-war-078
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -18,7 +21,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive x , → Gakmat deals X fire damage to target ally and itself.
 
 regulation:

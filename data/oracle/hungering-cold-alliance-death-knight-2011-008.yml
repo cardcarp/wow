@@ -2,9 +2,12 @@ name: Hungering Cold
 
 origin: alliance-death-knight-2011-008
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Frost Talent Ongoing : When an opposing hero or ally exhausts, your hero deals 1 frost damage to it.'
 
 regulation:

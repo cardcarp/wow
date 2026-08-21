@@ -2,9 +2,12 @@ name: Freya Lightsworn
 
 origin: heroes-of-azeroth-183
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Freya Lightsworn heals 3 damage from target hero or ally.
 
 regulation:

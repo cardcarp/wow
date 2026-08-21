@@ -2,9 +2,12 @@ name: Watsun, Timewalker Lightshield
 
 origin: betrayal-of-the-guardian-126
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Protector At the start of your turn, choose one: this ally heals damage from your hero equal to this ally's ATK; or this ally deals unpreventable holy damage to target hero equal to this ally's ATK. If you control two or more allies that share a or race, you may choose both."
 
 regulation:

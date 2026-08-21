@@ -2,9 +2,12 @@ name: Hersirs Greatspear
 
 origin: worldbreaker-242
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an ally enters play under your control, your hero may deal 1 nature damage to target hero or ally.
 
 regulation:

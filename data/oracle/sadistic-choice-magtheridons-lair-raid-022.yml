@@ -2,9 +2,12 @@ name: Sadistic Choice
 
 origin: magtheridons-lair-raid-022
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

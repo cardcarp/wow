@@ -2,9 +2,12 @@ name: Torrid Abyssal
 
 origin: reign-of-fire-158
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 

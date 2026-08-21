@@ -2,12 +2,15 @@ name: Defias Cannon
 
 origin: the-deadmines-039
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this item enters play, the MARKED hero's controller gains control of it. When an ally enters play under your control, it may deal 2 fire damage to target Dungeon ally.
 
 regulation:

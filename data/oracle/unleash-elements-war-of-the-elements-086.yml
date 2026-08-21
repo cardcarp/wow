@@ -2,9 +2,12 @@ name: Unleash Elements
 
 origin: war-of-the-elements-086
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put a copy of each token ally you control into play.
 
 regulation:

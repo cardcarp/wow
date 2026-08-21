@@ -2,9 +2,12 @@ name: Thornwood Staff
 
 origin: caverns-of-time-treasure-068
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: "→ Exhaust target card. On an opponent's turn: → Ready another target card."
 
 regulation:

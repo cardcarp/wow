@@ -1,6 +1,6 @@
 name: Demo Reward (2009)
 
-type: promo
+type: Promo
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 2
 
 total: 2
 
-date_release: 2009-01
+date: 2009-01
 
 collection: Demo Reward

@@ -2,9 +2,12 @@ name: Fel Geyser
 
 origin: black-temple-raid-011
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Traitor Hero Required Ongoing : Opposing quests have "As an additional cost to complete, turn another one of your quests face down."'
 
 regulation:

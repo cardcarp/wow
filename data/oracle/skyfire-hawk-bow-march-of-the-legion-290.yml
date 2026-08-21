@@ -2,9 +2,12 @@ name: Skyfire Hawk-Bow
 
 origin: march-of-the-legion-290
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with Skyfire Hawk-Bow, your hero has Long-Range this combat.
 
 regulation:

@@ -2,9 +2,11 @@ name: Garrosh Hellscream Warsong Warlord
 
 origin: warlords-of-the-iron-horde-150
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

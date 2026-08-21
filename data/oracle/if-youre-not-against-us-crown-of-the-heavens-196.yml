@@ -2,9 +2,11 @@ name: If You're Not Against Us...
 
 origin: crown-of-the-heavens-196
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

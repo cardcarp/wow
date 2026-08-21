@@ -2,9 +2,12 @@ name: Acolyte Kemistra
 
 origin: the-hunt-for-illidan-117
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Put 2 damage on Kemistra → Draw a card.
 
 regulation:

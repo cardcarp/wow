@@ -2,9 +2,12 @@ name: Seraxa Brightmix
 
 origin: tomb-of-the-forgotten-110
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive Each ally you control with an ability attached to it has +2 / +2.
 
 regulation:

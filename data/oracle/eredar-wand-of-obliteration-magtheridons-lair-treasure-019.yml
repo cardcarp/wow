@@ -2,9 +2,12 @@ name: Eredar Wand of Obliteration
 
 origin: magtheridons-lair-treasure-019
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals shadow ( ) damage to an opponent's hero, you may destroy an ability, ally, or equipment you control. If you do, that opponent destroys an ability, ally, or equipment he controls.
 
 regulation:

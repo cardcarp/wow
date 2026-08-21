@@ -2,9 +2,12 @@ name: Blademistress Lyss
 
 origin: march-of-the-legion-139
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When an opposing hero or ally deals damage to Lyss, ready up to that many of your resources.
 
 regulation:

@@ -2,9 +2,12 @@ name: Hammer of Wrath
 
 origin: through-the-dark-portal-058
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

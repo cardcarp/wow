@@ -2,9 +2,12 @@ name: The Darkeater
 
 origin: march-of-the-legion-145
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Other allies have +2 ATK / +2 health. Non- allies have -2 ATK / -2 health.
 
 regulation:

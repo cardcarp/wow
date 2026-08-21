@@ -2,9 +2,12 @@ name: Caught Off-Guard
 
 origin: heroes-of-azeroth-158
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

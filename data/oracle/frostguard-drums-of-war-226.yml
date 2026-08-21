@@ -2,9 +2,12 @@ name: Frostguard
 
 origin: drums-of-war-226
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Allies in your party have Frost Resistance .
 
 regulation:

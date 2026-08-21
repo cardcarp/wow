@@ -2,9 +2,12 @@ name: Terokks Shadowstaff
 
 origin: servants-of-the-betrayer-240
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , Destroy Terokk's Shadowstaff → Target opponent chooses an ally in his party, and you gain control of it.
 
 regulation:

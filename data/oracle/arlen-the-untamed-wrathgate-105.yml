@@ -2,9 +2,12 @@ name: Arlen the Untamed
 
 origin: wrathgate-105
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Allies you control have Assault 1 while you control a Form.
 
 regulation:

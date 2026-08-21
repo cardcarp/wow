@@ -2,9 +2,12 @@ name: Karuzak
 
 origin: battle-of-the-aspects-treasure-028
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -20,7 +23,7 @@ class:
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'At the start of your turn, each opponent chooses one: This ally deals 6 shadow damage to his hero; or you draw two cards.'
 
 regulation:

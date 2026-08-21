@@ -2,9 +2,12 @@ name: Sinister Set-up
 
 origin: scourgewar-085
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

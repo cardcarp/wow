@@ -2,9 +2,12 @@ name: Rituals of Power
 
 origin: icecrown-204
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 class:
   - Mage
@@ -12,7 +15,7 @@ class:
 type: Class Restriction
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Pay 1 to complete this quest. Reward : Target opposing card loses and can't have powers this turn."
 
 regulation:

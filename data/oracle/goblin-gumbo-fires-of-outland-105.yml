@@ -2,9 +2,12 @@ name: Goblin Gumbo
 
 origin: fires-of-outland-105
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

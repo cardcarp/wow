@@ -2,9 +2,12 @@ name: Tactical Mastery
 
 origin: reign-of-fire-060
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

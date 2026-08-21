@@ -2,9 +2,12 @@ name: Prayer of Healing
 
 origin: heroes-of-azeroth-084
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero heals 3 damage from each hero and ally you control.
 
 regulation:

@@ -2,9 +2,12 @@ name: Explosive Hunt
 
 origin: twilight-of-the-dragons-041
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

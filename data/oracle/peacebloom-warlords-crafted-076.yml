@@ -2,9 +2,11 @@ name: Peacebloom
 
 origin: warlords-crafted-076
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

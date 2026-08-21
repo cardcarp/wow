@@ -2,9 +2,12 @@ name: Chen Stormstout
 
 origin: fires-of-outland-192
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 

@@ -2,9 +2,11 @@ name: Fist Of The Spiritbinder
 
 origin: monk-starter-039
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

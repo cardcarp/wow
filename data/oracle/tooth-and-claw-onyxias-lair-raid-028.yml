@@ -2,14 +2,17 @@ name: Tooth and Claw
 
 origin: onyxias-lair-raid-028
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Onyxia has +5 ATK while attacking.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Hugh Mann
 
 origin: war-of-the-ancients-094
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Other Human allies you control have +1 / +1.
 
 regulation:

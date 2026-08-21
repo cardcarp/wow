@@ -2,9 +2,12 @@ name: Netherbreath Spellblade
 
 origin: scourgewar-240
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: If you would draw a card, you may skip drawing it instead. When you first skip drawing a card this way on each of your turns, put target ability from your graveyard into your hand.
 
 regulation:

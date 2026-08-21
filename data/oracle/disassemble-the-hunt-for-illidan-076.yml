@@ -2,9 +2,12 @@ name: Disassemble
 
 origin: the-hunt-for-illidan-076
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

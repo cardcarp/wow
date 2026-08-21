@@ -2,9 +2,11 @@ name: Edrick Felmane
 
 origin: into-the-mists-128
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

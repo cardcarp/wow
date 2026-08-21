@@ -2,9 +2,12 @@ name: Hope Ender
 
 origin: fields-of-honor-176
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, if Hope Ender is ready, put two +1 ATK counters on it.
 
 regulation:

@@ -2,12 +2,15 @@ name: The Divine Trinity
 
 origin: arena-grand-melee-event-026
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : When an attacker enters combat with a defender, their controllers play Rock-Paper-Scissors. The loser's character deals no damage this combat."
 
 regulation:

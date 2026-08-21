@@ -2,9 +2,12 @@ name: Shock of the Elements
 
 origin: throne-of-the-tides-073
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

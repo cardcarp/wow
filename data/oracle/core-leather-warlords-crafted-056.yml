@@ -2,9 +2,11 @@ name: Core Leather
 
 origin: warlords-crafted-056
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

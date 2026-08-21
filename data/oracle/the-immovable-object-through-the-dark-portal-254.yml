@@ -2,9 +2,12 @@ name: The Immovable Object
 
 origin: through-the-dark-portal-254
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy The Immovable Object → Destroy all weapons named The Unstoppable Force.
 
 regulation:

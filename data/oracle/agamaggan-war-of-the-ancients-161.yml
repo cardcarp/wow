@@ -2,9 +2,12 @@ name: Agamaggan
 
 origin: war-of-the-ancients-161
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Monster Hero Required Smash When Agamaggan deals combat damage to an exhausted ally, ready Agamaggan. 3 → Exhaust target ally.
 
 regulation:

@@ -2,9 +2,11 @@ name: Zhung Stonestream
 
 origin: into-the-mists-015
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

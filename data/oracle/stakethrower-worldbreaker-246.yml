@@ -2,9 +2,12 @@ name: Stakethrower
 
 origin: worldbreaker-246
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: This weapon enters play with a stake counter. Long-Range Remove a stake counter → This weapon has +3 ATK this combat.
 
 regulation:

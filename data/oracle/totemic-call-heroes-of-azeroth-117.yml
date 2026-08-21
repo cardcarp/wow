@@ -2,9 +2,12 @@ name: Totemic Call
 
 origin: heroes-of-azeroth-117
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

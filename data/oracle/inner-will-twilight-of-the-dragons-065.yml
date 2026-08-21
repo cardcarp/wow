@@ -2,9 +2,12 @@ name: Inner Will
 
 origin: twilight-of-the-dragons-065
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay x less to play your next card this turn, where X is the highest cost among abilities, allies, and equipment you control.
 
 regulation:

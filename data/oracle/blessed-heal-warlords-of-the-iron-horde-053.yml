@@ -2,9 +2,11 @@ name: Blessed Heal
 
 origin: warlords-of-the-iron-horde-053
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

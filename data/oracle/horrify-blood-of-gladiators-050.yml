@@ -2,9 +2,12 @@ name: Horrify
 
 origin: blood-of-gladiators-050
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target player destroys an ally in his party. If he does, your hero heals damage from itself equal to that ally's cost.
 
 regulation:

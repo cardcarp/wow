@@ -2,12 +2,15 @@ name: Skywall
 
 origin: war-of-the-elements-220
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn, if a hero or ally you controlled dealt nature ( ) damage this turn: 2 , → Put a 2 / 1 Air Elemental ally token into play. When an Air Elemental enters play under your control, you may exhaust target ally.'
 
 regulation:

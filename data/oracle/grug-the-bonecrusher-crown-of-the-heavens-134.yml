@@ -2,9 +2,12 @@ name: Grug the Bonecrusher
 
 origin: crown-of-the-heavens-134
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Conspicuous
 
 regulation:

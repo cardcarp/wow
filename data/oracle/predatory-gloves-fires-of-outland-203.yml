@@ -2,9 +2,12 @@ name: Predatory Gloves
 
 origin: fires-of-outland-203
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Predatory Gloves enters play, target opponent discards a card and you draw a card.
 
 regulation:

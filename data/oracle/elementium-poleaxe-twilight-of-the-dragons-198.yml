@@ -2,9 +2,12 @@ name: Elementium Poleaxe
 
 origin: twilight-of-the-dragons-198
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Your hero has Assault 1 this turn for each token ally you control.
 
 regulation:

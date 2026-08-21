@@ -2,9 +2,12 @@ name: Roger Ulric
 
 origin: alliance-rogue-2011-018
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 

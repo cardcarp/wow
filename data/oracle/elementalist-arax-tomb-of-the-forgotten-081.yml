@@ -2,9 +2,12 @@ name: Elementalist Arax
 
 origin: tomb-of-the-forgotten-081
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has Assault 1 and Mend 1 for each equipment you control.
 
 regulation:

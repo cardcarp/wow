@@ -2,14 +2,17 @@ name: 'Wanted: "Hogger"'
 
 origin: through-the-dark-portal-299
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Human Hero Required During your turn, pay 1 to complete this quest. Reward : Target opponent puts a Gnoll ally token named Hogger with 2 ATK and 2 health into play. When Hogger leaves play, draw two cards.'
 
 regulation:

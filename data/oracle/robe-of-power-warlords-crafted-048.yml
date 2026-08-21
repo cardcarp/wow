@@ -2,9 +2,11 @@ name: Robe Of Power
 
 origin: warlords-crafted-048
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

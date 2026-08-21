@@ -2,9 +2,11 @@ name: Windfury Regalia
 
 origin: echoes-of-thunder-267
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

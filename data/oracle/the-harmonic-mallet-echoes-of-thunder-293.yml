@@ -2,9 +2,11 @@ name: The Harmonic Mallet
 
 origin: echoes-of-thunder-293
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

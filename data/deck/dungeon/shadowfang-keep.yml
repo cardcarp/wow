@@ -1,24 +1,25 @@
 name: Shadowfang Keep
 
-credit: Official Product
+format:
+  - Raid
 
-category: Raid
+group: dungeon
 
-facet:
+theme:
   - Dungeon
   - Raid
 
-collection: dungeon
+complexity:
+
+division:
 
 highlight: shadowfang-keep-001
 
-description: Shadowfang Keep
+tagline: Shadowfang Keep
 
-context:
+description:
   - title: ''
     body: Introduction to the Shadowfang Keep
-
-total: 70
 
 list:
   hero:

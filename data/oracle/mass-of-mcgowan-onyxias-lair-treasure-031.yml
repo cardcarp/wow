@@ -2,9 +2,12 @@ name: Mass of McGowan
 
 origin: onyxias-lair-treasure-031
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Mass of McGowan has +2 ATK while your hero is attacking an ally.
 
 regulation:

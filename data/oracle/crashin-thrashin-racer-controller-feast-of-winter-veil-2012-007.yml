@@ -2,9 +2,12 @@ name: Crashin' Thrashin' Racer Controller
 
 origin: feast-of-winter-veil-2012-007
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, put a 1 / 1 Crashin' Thrashin' Racer ally token into play with Ferocity . When a Racer ally you control deals combat damage to an opposing hero, put a credit counter on this item. , Remove ten credit counters from this item → Destroy target hero.
 
 regulation:

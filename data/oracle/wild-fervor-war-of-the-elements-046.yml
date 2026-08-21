@@ -2,9 +2,12 @@ name: Wild Fervor
 
 origin: war-of-the-elements-046
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target ally has Assault 2 , Ferocity , and Long-Range this turn.
 
 regulation:

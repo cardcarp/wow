@@ -2,9 +2,12 @@ name: Arc Heal
 
 origin: tomb-of-the-forgotten-049
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

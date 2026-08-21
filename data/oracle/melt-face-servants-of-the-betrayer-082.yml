@@ -2,9 +2,12 @@ name: Melt Face
 
 origin: servants-of-the-betrayer-082
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target player destroys an ally he controls.
 
 regulation:

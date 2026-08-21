@@ -2,9 +2,12 @@ name: Thrandis the Venomous
 
 origin: worldbreaker-193
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 

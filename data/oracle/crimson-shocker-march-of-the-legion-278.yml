@@ -2,9 +2,12 @@ name: Crimson Shocker
 
 origin: march-of-the-legion-278
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this weapon enters play, your hero may deal 2 fire damage to target hero or ally.
 
 regulation:

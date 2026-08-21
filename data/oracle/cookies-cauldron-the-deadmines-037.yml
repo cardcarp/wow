@@ -2,12 +2,15 @@ name: Cookies Cauldron
 
 origin: the-deadmines-037
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Dungeon allies have Assault 3 .
 
 regulation:

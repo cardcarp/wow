@@ -2,9 +2,12 @@ name: Violet Signet of the Great Protector
 
 origin: timewalkers-badges-of-justice-007
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Protector . While you control five or more allies, your hero has +12 .
 
 regulation:

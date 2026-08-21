@@ -2,9 +2,11 @@ name: Bronzehide Terrapin
 
 origin: into-the-mists-207
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

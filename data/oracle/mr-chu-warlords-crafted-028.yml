@@ -2,9 +2,11 @@ name: Mr Chu
 
 origin: warlords-crafted-028
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

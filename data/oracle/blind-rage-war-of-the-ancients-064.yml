@@ -2,9 +2,12 @@ name: Blind Rage
 
 origin: war-of-the-ancients-064
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally. Ongoing : Attached ally has +3 / +3, attacks opposing hero and allies at random, and must attack each turn if able.'
 
 regulation:

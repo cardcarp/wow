@@ -2,9 +2,12 @@ name: Punishing Shot
 
 origin: battle-of-the-aspects-treasure-009
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 3 ranged damage to target ally. If that ally is dealt fatal damage this way, your hero deals ranged damage equal to that ally's cost to its controller's hero.
 
 regulation:

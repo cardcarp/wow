@@ -2,17 +2,20 @@ name: Daspien Bladedancer
 
 origin: through-the-dark-portal-013
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 5 , Flip Daspien Bladedancer → Daspien deals X melee damage to target hero or ally, where X is the combined ATK of your Melee weapons.
 
 regulation:

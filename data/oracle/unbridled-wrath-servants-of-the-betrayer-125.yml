@@ -2,9 +2,12 @@ name: Unbridled Wrath
 
 origin: servants-of-the-betrayer-125
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Fury Hero Required Ongoing : 1 → Target weapon you control has +1 ATK this turn.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Arctic Blast
 
 origin: icecrown-017
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 2 frost damage to each opposing ally. Allies dealt damage this way have -2 ATK this turn.
 
 regulation:

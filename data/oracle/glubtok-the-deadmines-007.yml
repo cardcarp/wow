@@ -2,9 +2,12 @@ name: Glubtok
 
 origin: the-deadmines-007
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 0
 
@@ -15,7 +18,7 @@ combat: Arcane
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Boss Arcane Power : When Glubtok attacks, roll two six-sided dice. He has Assault X this turn, where X is the sum of those rolls.'
 
 regulation:

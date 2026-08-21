@@ -2,12 +2,15 @@ name: Lightning in a Bottle
 
 origin: war-of-the-elements-213
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If you control an ability: Pay 3 to complete this quest. Reward : Draw a card.'
 
 regulation:

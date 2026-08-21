@@ -2,20 +2,23 @@ name: Jumo'zin
 
 origin: worldbreaker-014
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Jumo'zin
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: When Jumo'zin is dealt combat damage while defending, he deals 1 nature damage to the source of that damage.
 
 regulation:

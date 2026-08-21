@@ -2,17 +2,20 @@ name: Meganna the Stalker
 
 origin: fields-of-honor-007
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Meganna → This turn, heroes and allies in your party have Stealth , and they can attack Elusive heroes and allies.
 
 regulation:

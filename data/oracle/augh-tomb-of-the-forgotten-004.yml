@@ -2,15 +2,18 @@ name: Augh
 
 origin: tomb-of-the-forgotten-004
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 type: Monster
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: "Deckbuilding: You can't put , or Talent cards in your deck."
 
 regulation:

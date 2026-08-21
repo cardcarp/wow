@@ -2,9 +2,11 @@ name: Azuka Bladefury Burning Blade Warlord
 
 origin: warlords-of-the-iron-horde-112
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

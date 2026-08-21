@@ -2,9 +2,12 @@ name: Demon Hunters Aspect
 
 origin: war-of-the-ancients-214
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has +1 ATK while attacking heroes, or +2 ATK while attacking Demon heroes.
 
 regulation:

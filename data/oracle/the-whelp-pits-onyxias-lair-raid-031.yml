@@ -2,14 +2,17 @@ name: The Whelp Pits
 
 origin: onyxias-lair-raid-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : At the start of your turn, if it's stage 2, roll a die and put that many Whelps into play. Destroy The Whelp Pits → Roll a die and put that many Whelps into play."
 
 regulation:

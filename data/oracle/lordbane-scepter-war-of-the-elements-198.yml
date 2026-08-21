@@ -2,9 +2,12 @@ name: Lordbane Scepter
 
 origin: war-of-the-elements-198
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ability, this weapon has +2 ATK this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Crushing Shadows
 
 origin: black-temple-raid-015
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required Each opponent discards a random card, and your hero deals shadow damage to his hero equal to that card's cost.
 
 regulation:

@@ -2,9 +2,12 @@ name: Arcane Barrage
 
 origin: war-of-the-elements-047
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Arcane Talent This ability can't be interrupted. Your hero deals 4 arcane damage to target hero or ally. You may play this ability from your graveyard. If you do, the next time it would enter a graveyard from anywhere, remove it from the game instead.
 
 regulation:

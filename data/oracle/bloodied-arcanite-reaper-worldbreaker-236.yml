@@ -2,9 +2,12 @@ name: Bloodied Arcanite Reaper
 
 origin: worldbreaker-236
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'This equipment has +3 ATK for each heirloom counter on it. Stash : Add an heirloom counter to target equipment you control.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Citadel Enforcers Claymore
 
 origin: worldbreaker-238
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 

@@ -2,9 +2,12 @@ name: Flare of the Heavens
 
 origin: icecrown-179
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Hero : At the start of your turn, you may look at the top card of an opponent's deck. You may put it into his graveyard. Hero : At the start of your turn, you may look at the top card of your deck. You may put it into your graveyard."
 
 regulation:

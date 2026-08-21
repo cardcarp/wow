@@ -2,9 +2,11 @@ name: Thrall of Vanity
 
 origin: into-the-mists-244
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

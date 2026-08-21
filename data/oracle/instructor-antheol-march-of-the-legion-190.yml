@@ -2,9 +2,12 @@ name: Instructor Antheol
 
 origin: march-of-the-legion-190
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 → This turn, target ally can't attack or protect, loses and can't have powers, and is a Boar. Use only once per turn.
 
 regulation:

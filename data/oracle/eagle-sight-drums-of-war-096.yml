@@ -2,9 +2,12 @@ name: Eagle Sight
 
 origin: drums-of-war-096
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

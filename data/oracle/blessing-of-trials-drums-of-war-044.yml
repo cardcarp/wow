@@ -2,9 +2,12 @@ name: Blessing of Trials
 
 origin: drums-of-war-044
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

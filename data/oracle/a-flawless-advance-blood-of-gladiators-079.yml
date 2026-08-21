@@ -2,9 +2,12 @@ name: A Flawless Advance
 
 origin: blood-of-gladiators-079
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : When an ally with cost equal to the number of resources you control enters your party, put a strength counter on A Flawless Advance. Allies in your party have +1 ATK / +1 health for each strength counter.'
 
 regulation:

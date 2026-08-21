@@ -2,9 +2,12 @@ name: Interrogator Vishas
 
 origin: scarlet-monastery-011
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 3
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Boss Stealth Torture : When Vishas attacks, each opponent reveals the top card of his deck and puts it into his graveyard. Vishas has +3 ATK this turn for each different card type revealed this way.'
 
 regulation:

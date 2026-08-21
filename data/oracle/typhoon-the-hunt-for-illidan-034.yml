@@ -2,9 +2,12 @@ name: Typhoon
 
 origin: the-hunt-for-illidan-034
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : Typhoon enters play with two wind counters. Opposing heroes and allies can't attack or protect. At the start of your turn, remove a wind counter. If none remain, destroy Typhoon."
 
 regulation:

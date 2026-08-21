@@ -2,9 +2,12 @@ name: Klannoc Macleod
 
 origin: scourgewar-210
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Put 1 damage on a Warrior you control → It has +1 ATK this turn.
 
 regulation:

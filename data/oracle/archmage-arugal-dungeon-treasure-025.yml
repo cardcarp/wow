@@ -2,9 +2,12 @@ name: Archmage Arugal
 
 origin: dungeon-treasure-025
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Shadow
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive When Arugal enters play, gain control of target opposing ally while Arugal remains under your control. While you control that ally, it has +4 / +4.
 
 regulation:

@@ -2,9 +2,11 @@ name: Raoshen, the Flameclaw
 
 origin: echoes-of-thunder-160
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

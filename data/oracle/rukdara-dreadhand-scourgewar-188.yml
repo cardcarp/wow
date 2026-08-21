@@ -2,9 +2,12 @@ name: Rukdara Dreadhand
 
 origin: scourgewar-188
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Discard a card → This turn, opposing allies have "This ally has -1 ATK for each damage on it."
 
 regulation:

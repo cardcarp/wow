@@ -2,9 +2,12 @@ name: Ancient Bear Form
 
 origin: war-of-the-ancients-009
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

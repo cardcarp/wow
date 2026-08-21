@@ -2,9 +2,12 @@ name: Wyndarr Shadefist
 
 origin: wrathgate-128
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has Stealth while an opponent controls an ally with cost 4 or less.
 
 regulation:

@@ -1,24 +1,25 @@
 name: Murkdeep
 
-credit: Official Product
+format:
+  - Starter
 
-category: Preconstructed
+group: champion
 
-facet:
+theme:
   - Champion
   - Starter
 
-collection: champion
+complexity:
+
+division:
 
 highlight: murkdeep-001
 
-description: Murkdeep Preconstructed
+tagline: Murkdeep Preconstructed
 
-context:
+description:
   - title: ''
     body: Introduction to the Murkdeep
-
-total: 61
 
 list:
   hero:

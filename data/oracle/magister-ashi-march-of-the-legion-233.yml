@@ -2,9 +2,12 @@ name: Magister Ashi
 
 origin: march-of-the-legion-233
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scryer Reputation Stealth When Ashi enters play, look at the top card of your deck. You may put it on the bottom of your deck.
 
 regulation:

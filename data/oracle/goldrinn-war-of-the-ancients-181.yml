@@ -2,9 +2,12 @@ name: Goldrinn
 
 origin: war-of-the-ancients-181
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ferocity , Stealth Once per turn: Howl or Growl → If an opposing hero was dealt 10 or more damage this turn, put five 1 / 1 Wolf Beast Monster ally tokens into play.'
 
 regulation:

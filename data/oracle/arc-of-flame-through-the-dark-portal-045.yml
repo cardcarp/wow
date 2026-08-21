@@ -2,9 +2,12 @@ name: Arc of Flame
 
 origin: through-the-dark-portal-045
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Choose one: Your hero deals 4 fire damage to target ally; or your hero deals 2 fire damage to each of two target allies.'
 
 regulation:

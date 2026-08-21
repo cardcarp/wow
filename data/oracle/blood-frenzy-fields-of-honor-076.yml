@@ -2,9 +2,12 @@ name: Blood Frenzy
 
 origin: fields-of-honor-076
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Arms Hero Required Ongoing : Heroes and allies in your party have +1 ATK while in combat with heroes and allies with an attachment.'
 
 regulation:

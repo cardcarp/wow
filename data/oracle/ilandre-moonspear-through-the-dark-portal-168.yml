@@ -2,9 +2,12 @@ name: Ilandre Moonspear
 
 origin: through-the-dark-portal-168
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Night Elf Hero Required Elusive → Put your hand on the bottom of your deck, then draw that many cards.
 
 regulation:

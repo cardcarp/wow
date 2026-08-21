@@ -2,17 +2,20 @@ name: Kirox Butcherblade
 
 origin: cataclysm-collectors-edition-promotional-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 4 , Flip Kirox → Kirox deals 4 melee damage to target exhausted ally.'
 
 regulation:

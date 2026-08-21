@@ -2,9 +2,11 @@ name: T10 Skinning
 
 origin: warlords-of-the-iron-horde-trait-010
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,17 +2,20 @@ name: Bildros Nullvoid
 
 origin: march-of-the-legion-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Bildros → Pet cards in your hand are instant this turn.
 
 regulation:

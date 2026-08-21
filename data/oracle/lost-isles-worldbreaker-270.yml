@@ -2,14 +2,17 @@ name: Lost Isles
 
 origin: worldbreaker-270
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , → Target Goblin you control has Assault 1 this turn for each equipment you control.
 
 regulation:

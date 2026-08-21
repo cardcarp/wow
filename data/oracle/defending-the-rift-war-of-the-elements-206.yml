@@ -2,12 +2,15 @@ name: Defending the Rift
 
 origin: war-of-the-elements-206
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Pay 2 to complete this quest. Reward : Reveal the top card of your deck. If it's an ability, put it into your hand."
 
 regulation:

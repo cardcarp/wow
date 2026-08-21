@@ -2,9 +2,11 @@ name: Ancient of the Vale
 
 origin: into-the-mists-206
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Wyrmrest Captain
 
 origin: battle-of-the-aspects-treasure-058
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, reveal the top card of your deck. This ally has +ATK this turn equal to the cost of that revealed card.
 
 regulation:

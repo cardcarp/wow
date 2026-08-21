@@ -2,9 +2,12 @@ name: Venomous Wounds
 
 origin: betrayal-of-the-guardian-041
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Assassination Talent Ongoing : At the end of your turn, if your hero dealt combat damage to a hero this turn, trigger each Poison you control.'
 
 regulation:

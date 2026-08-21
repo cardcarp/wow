@@ -2,9 +2,12 @@ name: Sorrows End
 
 origin: throne-of-the-tides-252
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Play with the top card of your deck revealed. While a card with cost 3 or more is revealed this way, this weapon has +3 ATK. While a card with cost 3 or less is revealed this way, you pay 3 less to strike with this weapon.
 
 regulation:

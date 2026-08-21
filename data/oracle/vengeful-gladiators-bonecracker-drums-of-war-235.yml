@@ -2,9 +2,12 @@ name: Vengeful Gladiators Bonecracker
 
 origin: drums-of-war-235
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a resource enters play under your control, put a +1 ATK counter on Vengeful Gladiator's Bonecracker.
 
 regulation:

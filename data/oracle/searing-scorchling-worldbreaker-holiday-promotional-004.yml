@@ -2,9 +2,12 @@ name: Searing Scorchling
 
 origin: worldbreaker-holiday-promotional-004
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity When this ally is destroyed, it may deal 2 fire damage to target hero.
 
 regulation:

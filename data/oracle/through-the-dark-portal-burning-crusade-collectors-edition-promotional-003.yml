@@ -2,12 +2,15 @@ name: Through the Dark Portal
 
 origin: burning-crusade-collectors-edition-promotional-003
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'During your turn, pay 13 to complete this quest. Reward : Remove your deck and graveyard from the game. Build a new ten-card deck using cards from your entire collection.'
 
 regulation:

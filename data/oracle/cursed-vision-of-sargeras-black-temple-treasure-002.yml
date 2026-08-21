@@ -2,9 +2,12 @@ name: Cursed Vision of Sargeras
 
 origin: black-temple-treasure-002
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: → If you completed a quest this turn, turn target resource face down.
 
 regulation:

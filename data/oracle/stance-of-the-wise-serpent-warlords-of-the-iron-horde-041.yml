@@ -2,9 +2,11 @@ name: Stance Of The Wise Serpent
 
 origin: warlords-of-the-iron-horde-041
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Fall Back
 
 origin: heroes-of-azeroth-160
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

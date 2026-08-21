@@ -2,9 +2,11 @@ name: T08 Leatherworking
 
 origin: warlords-of-the-iron-horde-trait-008
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

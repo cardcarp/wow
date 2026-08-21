@@ -2,9 +2,12 @@ name: Makuna Hatada
 
 origin: betrayal-of-the-guardian-099
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 5 → This and other allies you control have +5 ATK, Absorb , and Smash this turn.
 
 regulation:

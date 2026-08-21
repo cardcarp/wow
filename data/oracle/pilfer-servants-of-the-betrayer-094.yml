@@ -2,9 +2,12 @@ name: Pilfer
 
 origin: servants-of-the-betrayer-094
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target opponent discards his hand, then draws that many cards. Your hero deals 1 melee damage to that opponent's hero for each card discarded this way.
 
 regulation:

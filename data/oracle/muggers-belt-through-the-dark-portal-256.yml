@@ -2,9 +2,12 @@ name: Muggers Belt
 
 origin: through-the-dark-portal-256
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage to a hero, that hero's controller discards a card and you draw a card.
 
 regulation:

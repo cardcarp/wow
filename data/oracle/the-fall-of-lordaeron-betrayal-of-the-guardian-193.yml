@@ -2,14 +2,17 @@ name: The Fall of Lordaeron
 
 origin: betrayal-of-the-guardian-193
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 2 to complete this quest. Reward : allies you control have +1 ATK this turn.'
 
 regulation:

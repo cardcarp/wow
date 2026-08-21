@@ -2,9 +2,12 @@ name: Valanos
 
 origin: through-the-dark-portal-193
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 

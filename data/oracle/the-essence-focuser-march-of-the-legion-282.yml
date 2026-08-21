@@ -2,9 +2,12 @@ name: The Essence Focuser
 
 origin: march-of-the-legion-282
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: If a hero or ally in your party would heal damage, it heals that much +1 instead.
 
 regulation:

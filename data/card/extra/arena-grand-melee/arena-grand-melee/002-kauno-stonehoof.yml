@@ -1,3 +1,5 @@
+oracle: kauno-stonehoof-arena-grand-melee-002
+
 index: '002'
 
 rarity: Rare
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"You cannot stop me - you can only hope to contain me!"'
-
-oracle: kauno-stonehoof-arena-grand-melee-002
 
 set: Arena Grand Melee

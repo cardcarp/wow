@@ -2,9 +2,12 @@ name: Tendrils of Darkness
 
 origin: throne-of-the-tides-064
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 5 shadow damage to target ally. When that ally is destroyed this turn, its controller discards a card.
 
 regulation:

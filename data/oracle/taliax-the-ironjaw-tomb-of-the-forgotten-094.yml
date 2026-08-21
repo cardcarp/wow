@@ -2,9 +2,12 @@ name: Taliax the Ironjaw
 
 origin: tomb-of-the-forgotten-094
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector While you control a weapon, double this ally's ATK. While you control an armor, double this ally's .
 
 regulation:

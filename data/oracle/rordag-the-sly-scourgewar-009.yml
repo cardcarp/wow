@@ -2,17 +2,20 @@ name: Rordag the Sly
 
 origin: scourgewar-009
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: "If you control another Rogue: Flip Rordag → Target hero or ally can't ready during its controller's next ready step."
 
 regulation:

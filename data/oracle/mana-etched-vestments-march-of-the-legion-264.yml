@@ -2,9 +2,12 @@ name: Mana-Etched Vestments
 
 origin: march-of-the-legion-264
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Your hero deals 1 arcane damage to target hero or ally. Use only if you have seven or more cards in hand.
 
 regulation:

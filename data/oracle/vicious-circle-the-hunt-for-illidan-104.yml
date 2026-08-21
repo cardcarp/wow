@@ -2,9 +2,12 @@ name: Vicious Circle
 
 origin: the-hunt-for-illidan-104
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: You may put an ally card from your hand into play. If you do, destroy a second target ally in your party, then put a third ally card from your graveyard into hand.
 
 regulation:

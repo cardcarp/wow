@@ -2,9 +2,11 @@ name: Warbringer Lojah
 
 origin: echoes-of-thunder-007
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

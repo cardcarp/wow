@@ -2,9 +2,11 @@ name: Staffmaster Kaliyah
 
 origin: into-the-mists-184
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Vakus the Inferno
 
 origin: twilight-of-the-dragons-126
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aberration , Ferocity This ally can attack only heroes. At the end of your turn, destroy this ally.
 
 regulation:

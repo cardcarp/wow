@@ -1,3 +1,5 @@
+oracle: teina-cloudstalker-scourgewar-017
+
 index: '017'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"The Earth Mother weeps at the devastation caused by the Scourge. I have no choice but to punish your transgressions."'
-
-oracle: teina-cloudstalker-scourgewar-017
 
 set: Scourgewar

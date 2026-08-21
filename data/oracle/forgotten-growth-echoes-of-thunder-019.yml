@@ -2,9 +2,11 @@ name: Forgotten Growth
 
 origin: echoes-of-thunder-019
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Visage Of The Prowler
 
 origin: warlords-crafted-050
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

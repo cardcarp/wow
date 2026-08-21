@@ -2,9 +2,11 @@ name: Gnoll
 
 origin: champion-token-003
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

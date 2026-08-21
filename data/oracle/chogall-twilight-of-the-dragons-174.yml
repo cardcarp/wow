@@ -2,20 +2,23 @@ name: Cho'gall
 
 origin: twilight-of-the-dragons-174
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Cho'gall's Command 2 , Flip Cho'gall → You and target opponent each reveal the top card of your decks. If your card has a higher cost, put it into your hand.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: "Cho'gall's Fury Once per game: 6 → Cho'gall has +4 ATK and Smash this turn."
 
 regulation:

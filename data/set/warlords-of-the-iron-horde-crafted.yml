@@ -1,6 +1,6 @@
 name: Warlords of the Iron Horde Crafted
 
-type: craft
+type: Craft
 
 index: 01a
 
@@ -8,6 +8,6 @@ subtotal: 96
 
 total: 96
 
-date_release: 2024-09
+date: 2024-09
 
 collection: Warlords of the Iron Horde

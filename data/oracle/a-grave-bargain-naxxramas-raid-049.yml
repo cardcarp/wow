@@ -2,16 +2,19 @@ name: A Grave Bargain
 
 origin: naxxramas-raid-049
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Raid
 
 stage: 9
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to play cards this turn.
 
 regulation:

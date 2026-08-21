@@ -2,9 +2,12 @@ name: Entangling Growth
 
 origin: worldbreaker-034
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

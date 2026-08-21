@@ -2,9 +2,11 @@ name: Staff of the Hidden Master
 
 origin: into-the-mists-296
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

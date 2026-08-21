@@ -2,9 +2,12 @@ name: Justicar Ularu
 
 origin: wrathgate-120
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters combat for the first time on each of your turns, ready him if a Priest is defending.
 
 regulation:

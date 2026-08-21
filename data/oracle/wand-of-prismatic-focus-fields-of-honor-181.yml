@@ -2,9 +2,12 @@ name: Wand of Prismatic Focus
 
 origin: fields-of-honor-181
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Wand of Prismatic Focus enters play, your hero deals 1 arcane, 1 fire, 1 frost, 1 nature, and 1 shadow damage to target ally.
 
 regulation:

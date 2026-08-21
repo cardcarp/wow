@@ -2,9 +2,12 @@ name: '"Tubs" Klankbopple'
 
 origin: wrathgate-103
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he may deal 4 melee damage to target ally with cost 4 or less.
 
 regulation:

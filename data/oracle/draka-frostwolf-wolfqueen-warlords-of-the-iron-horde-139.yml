@@ -2,9 +2,11 @@ name: Draka Frostwolf Wolfqueen
 
 origin: warlords-of-the-iron-horde-139
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

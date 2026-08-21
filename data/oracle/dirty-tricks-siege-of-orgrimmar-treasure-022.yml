@@ -2,9 +2,11 @@ name: Dirty Tricks
 
 origin: siege-of-orgrimmar-treasure-022
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

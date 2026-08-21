@@ -2,9 +2,12 @@ name: Boraks Belt of Bravery
 
 origin: the-hunt-for-illidan-206
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Borak's Belt of Bravery prevents damage, put 1 damage on your hero.
 
 regulation:

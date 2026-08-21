@@ -2,9 +2,11 @@ name: Furious Charge
 
 origin: warlords-of-the-iron-horde-086
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

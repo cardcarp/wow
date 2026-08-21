@@ -2,9 +2,12 @@ name: Parasitic Shadowfiend
 
 origin: black-temple-raid-025
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

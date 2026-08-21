@@ -2,9 +2,12 @@ name: Brel Blazebeard
 
 origin: alliance-warlock-2011-014
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive When your hero or another ally you control deals fire ( ) damage, this ally has Assault 2 this turn.
 
 regulation:

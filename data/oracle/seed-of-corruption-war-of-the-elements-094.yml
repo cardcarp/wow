@@ -2,9 +2,12 @@ name: Seed of Corruption
 
 origin: war-of-the-elements-094
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

@@ -2,9 +2,12 @@ name: Tidal Elemental
 
 origin: war-of-the-elements-054
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -18,7 +21,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive 2 , → Exhaust target ally.
 
 regulation:

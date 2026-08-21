@@ -2,9 +2,12 @@ name: Frenzy
 
 origin: worldbreaker-027
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : → Target ally you control has Assault 1 this turn.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Polished Spaulders of Valor
 
 origin: war-of-the-elements-184
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'You pay 1 less to play equipment, and an additional 1 less for each heirloom counter on this armor, to a minimum of 1 . Stash : Add an heirloom counter to target equipment you control.'
 
 regulation:

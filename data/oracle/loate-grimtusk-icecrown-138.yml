@@ -2,9 +2,12 @@ name: Loate Grimtusk
 
 origin: icecrown-138
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Long-Range When this ally attacks, put him into his owner's hand at the end of this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Lava Spine
 
 origin: twilight-of-the-dragons-199
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this weapon is destroyed, you may destroy target equipment.
 
 regulation:

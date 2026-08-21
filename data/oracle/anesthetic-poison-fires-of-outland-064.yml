@@ -2,9 +2,12 @@ name: Anesthetic Poison
 
 origin: fires-of-outland-064
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

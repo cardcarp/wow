@@ -2,9 +2,12 @@ name: Durotar Flamecaster
 
 origin: war-of-the-ancients-128
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 

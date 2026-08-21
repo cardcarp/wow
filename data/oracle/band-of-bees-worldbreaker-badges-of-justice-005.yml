@@ -2,9 +2,12 @@ name: Band of Bees
 
 origin: worldbreaker-badges-of-justice-005
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Protector . When your hero protects, you may put a 1 / 1 Bee ally token into play.
 
 regulation:

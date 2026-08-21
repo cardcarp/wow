@@ -2,9 +2,12 @@ name: Corrupted Furbolg
 
 origin: war-of-the-ancients-172
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has -1 / -1 for each card in opposing graveyards.
 
 regulation:

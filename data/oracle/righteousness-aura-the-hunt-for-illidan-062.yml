@@ -2,9 +2,12 @@ name: Righteousness Aura
 
 origin: the-hunt-for-illidan-062
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : If a hero or ally in your party would deal damage, it deals that much +1 instead.'
 
 regulation:

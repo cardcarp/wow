@@ -2,9 +2,12 @@ name: Strong-Handed Ring
 
 origin: naxxramas-treasure-026
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -16,7 +19,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Assault 5 while you have five or more cards in your hand.
 
 regulation:

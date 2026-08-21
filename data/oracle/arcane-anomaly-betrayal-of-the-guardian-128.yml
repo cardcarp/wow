@@ -2,9 +2,12 @@ name: Arcane Anomaly
 
 origin: betrayal-of-the-guardian-128
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Arcane
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has +1 ATK for each card in your hand.
 
 regulation:

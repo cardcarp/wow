@@ -1,3 +1,5 @@
+oracle: maloduri-scourgewar-015
+
 index: '015'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: "\"Nothin' gonna stop the Horde from takin' down the Lich King. Not frost wyrms, not vrykul ... NOTHIN'!\""
-
-oracle: maloduri-scourgewar-015
 
 set: Scourgewar

@@ -2,9 +2,12 @@ name: Neophyte Morandi
 
 origin: march-of-the-legion-219
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation If an ally in your party other than Morandi would be dealt damage, it's dealt to Morandi instead.
 
 regulation:

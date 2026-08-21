@@ -2,9 +2,12 @@ name: Dog Whistle
 
 origin: dungeon-treasure-043
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this item enters play, put a 2 / 2 Hound ally token into play with Protector . On your turn: 4 , → Put a 2 / 2 Hound ally token into play with Protector .'
 
 regulation:

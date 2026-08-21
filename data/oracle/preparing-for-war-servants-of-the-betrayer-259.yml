@@ -2,12 +2,15 @@ name: Preparing for War
 
 origin: servants-of-the-betrayer-259
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Pay x to complete this quest. Reward : Shuffle X target cards from any number of graveyards into their owners' decks."
 
 regulation:

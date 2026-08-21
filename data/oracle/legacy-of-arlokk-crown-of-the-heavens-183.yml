@@ -2,9 +2,12 @@ name: Legacy of Arlokk
 
 origin: crown-of-the-heavens-183
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 2 , , Exhaust your hero → Your hero deals 1 fire damage to target ally. On your turn: 8 , , Exhaust your hero → Your hero deals 4 fire damage to target hero.'
 
 regulation:

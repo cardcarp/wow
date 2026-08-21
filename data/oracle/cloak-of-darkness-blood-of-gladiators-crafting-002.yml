@@ -2,9 +2,12 @@ name: Cloak of Darkness
 
 origin: blood-of-gladiators-crafting-002
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Put a +1 DEF counter on Cloak of Darkness. , Remove all +1 DEF counters → Your hero deals 1 shadow damage to target hero or ally for each counter removed this way.
 
 regulation:

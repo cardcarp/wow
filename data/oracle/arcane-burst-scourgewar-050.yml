@@ -2,9 +2,12 @@ name: Arcane Burst
 
 origin: scourgewar-050
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 1 arcane damage to each opposing hero and ally.
 
 regulation:

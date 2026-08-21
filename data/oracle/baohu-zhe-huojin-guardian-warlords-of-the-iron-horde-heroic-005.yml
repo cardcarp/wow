@@ -2,9 +2,11 @@ name: Baohu Zhe Huojin Guardian
 
 origin: warlords-of-the-iron-horde-heroic-005
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

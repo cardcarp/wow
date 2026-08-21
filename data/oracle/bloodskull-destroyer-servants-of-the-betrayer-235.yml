@@ -2,9 +2,12 @@ name: Bloodskull Destroyer
 
 origin: servants-of-the-betrayer-235
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Destroy Bloodskull Destroyer → Destroy target ally with Protector .
 
 regulation:

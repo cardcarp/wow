@@ -2,9 +2,11 @@ name: Haomi Surestrike
 
 origin: mists-of-pandaria-starter-007
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Roanauk Icemist
 
 origin: wrathgate-144
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, put a 1 / 1 Taunka ally token into play. Taunka you control have Assault 1 .
 
 regulation:

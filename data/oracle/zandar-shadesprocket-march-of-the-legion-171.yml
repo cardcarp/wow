@@ -2,9 +2,12 @@ name: Zandar Shadesprocket
 
 origin: march-of-the-legion-171
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive When Zandar is dealt damage, also put that much on your hero.
 
 regulation:

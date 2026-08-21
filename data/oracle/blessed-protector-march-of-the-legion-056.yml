@@ -2,9 +2,12 @@ name: Blessed Protector
 
 origin: march-of-the-legion-056
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

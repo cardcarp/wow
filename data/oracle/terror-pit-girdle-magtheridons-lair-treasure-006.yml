@@ -2,9 +2,12 @@ name: Terror Pit Girdle
 
 origin: magtheridons-lair-treasure-006
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero is untargetable while an ally is in your party.
 
 regulation:

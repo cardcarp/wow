@@ -2,9 +2,12 @@ name: Gift of the Elven Magi
 
 origin: heroes-of-azeroth-322
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , , Exhaust your hero → Look at the top card of your deck. If it's an ability card, you may reveal it and put it into your hand.
 
 regulation:

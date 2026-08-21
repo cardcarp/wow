@@ -2,9 +2,12 @@ name: Kalam'ti
 
 origin: throne-of-the-tides-155
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, it deals 3 fire damage to each opposing hero and ally that was dealt damage this turn.
 
 regulation:

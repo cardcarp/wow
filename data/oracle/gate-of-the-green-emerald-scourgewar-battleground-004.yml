@@ -2,9 +2,11 @@ name: Gate of the Green Emerald
 
 origin: scourgewar-battleground-004
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

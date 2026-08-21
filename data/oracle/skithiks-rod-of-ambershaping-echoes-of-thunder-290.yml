@@ -2,9 +2,11 @@ name: Ski'thiks Rod of Ambershaping
 
 origin: echoes-of-thunder-290
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

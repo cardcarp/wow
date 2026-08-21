@@ -2,9 +2,12 @@ name: Rak Skyfury
 
 origin: heroes-of-azeroth-257
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Rak Skyfury enters play, ready your hero and one of your weapons.
 
 regulation:

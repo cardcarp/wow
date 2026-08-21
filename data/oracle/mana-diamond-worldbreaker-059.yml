@@ -2,9 +2,12 @@ name: Mana Diamond
 
 origin: worldbreaker-059
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the start of your turn, add a mana counter to this ability. Then, you may destroy this ability. If you do, draw a card for each mana counter.'
 
 regulation:

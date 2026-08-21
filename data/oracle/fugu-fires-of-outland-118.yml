@@ -2,9 +2,12 @@ name: Fugu
 
 origin: fires-of-outland-118
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Gain control of target ally until end of turn.
 
 regulation:

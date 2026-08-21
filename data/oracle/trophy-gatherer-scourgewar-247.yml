@@ -2,9 +2,12 @@ name: Trophy Gatherer
 
 origin: scourgewar-247
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 3 less to strike with this weapon while your hero is in combat with an ally with cost 4 or more. When you strike with this weapon, your hero has Long-Range this combat.
 
 regulation:

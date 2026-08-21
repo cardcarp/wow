@@ -2,20 +2,23 @@ name: Flame Keeper Rizzli
 
 origin: twilight-of-the-dragons-016
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 5 → Flip Rizzli face down.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: At the start of your turn, Rizzli may deal fire damage to target hero or ally equal to the ATK of a ally you control.
 
 regulation:

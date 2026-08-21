@@ -2,12 +2,15 @@ name: The Dying Balance
 
 origin: through-the-dark-portal-315
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 2 to complete this quest. Reward : Reveal the top two cards of your deck. If they have different card types, put one into your hand and the other on the bottom of your deck. Otherwise, put both on the bottom of your deck.'
 
 regulation:

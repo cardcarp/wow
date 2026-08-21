@@ -2,9 +2,12 @@ name: Soulseeker Huulo
 
 origin: scourgewar-154
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has Assault 1 while you control another hero or ally with Assault , and Mend 1 while you control another hero or ally with Mend .
 
 regulation:

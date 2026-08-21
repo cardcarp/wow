@@ -2,9 +2,12 @@ name: Core Rager
 
 origin: molten-core-token-003
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 5
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector At the end of your turn, ready Core Rager.
 
 regulation:

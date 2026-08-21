@@ -2,14 +2,17 @@ name: Elementium Armor
 
 origin: battle-of-the-aspects-raid-017
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: This armor enters play with four +1 counters on it. When this armor prevents damage, remove a +1 counter from it. If none remain, destroy this armor. This armor exhausts to prevent the first damage Deathwing would be dealt each turn. Deathwing has Assault 1 for each counter on this armor.
 
 regulation:

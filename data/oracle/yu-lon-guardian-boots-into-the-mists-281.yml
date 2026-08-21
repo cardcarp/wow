@@ -2,9 +2,11 @@ name: Yu Lon Guardian Boots
 
 origin: into-the-mists-281
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

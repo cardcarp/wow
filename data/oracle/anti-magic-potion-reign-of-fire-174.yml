@@ -2,9 +2,12 @@ name: Anti-magic Potion
 
 origin: reign-of-fire-174
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 

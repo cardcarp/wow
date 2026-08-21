@@ -2,9 +2,12 @@ name: Nyn'jahs Tabi Boots
 
 origin: drums-of-war-213
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Other players can't use payment (→) powers during your turn. You can use the payment powers of any cards in play during your turn (including opposing cards) .
 
 regulation:

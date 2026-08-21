@@ -2,9 +2,12 @@ name: Lord Jorach Ravenholdt
 
 origin: scourgewar-212
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Exhaust a Rogue you control → Exhaust target hero or ally.
 
 regulation:

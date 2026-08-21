@@ -2,9 +2,11 @@ name: Dagger in the Dark
 
 origin: into-the-mists-308
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

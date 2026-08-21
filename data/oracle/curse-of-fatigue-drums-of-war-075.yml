@@ -2,9 +2,12 @@ name: Curse of Fatigue
 
 origin: drums-of-war-075
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

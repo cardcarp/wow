@@ -2,14 +2,17 @@ name: Dark Archangel Form
 
 origin: shadowfang-keep-021
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach this to the Dungeon ally with the highest printed . Ongoing : Attached ally has +10 / +10.'
 
 regulation:

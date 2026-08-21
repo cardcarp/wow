@@ -2,13 +2,16 @@ name: Deathwing the Destroyer
 
 origin: battle-of-the-aspects-raid-004
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Flip 4 Assault 20 , Long-Range
 
 regulation:

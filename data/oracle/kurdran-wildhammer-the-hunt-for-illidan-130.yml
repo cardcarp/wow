@@ -2,9 +2,12 @@ name: Kurdran Wildhammer
 
 origin: the-hunt-for-illidan-130
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive When Kurdran becomes exhausted, he may deal 4 nature damage to target hero or ally.
 
 regulation:

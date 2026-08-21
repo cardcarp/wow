@@ -2,9 +2,11 @@ name: Lu'lin, Mistress of Solitude
 
 origin: echoes-of-thunder-196
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

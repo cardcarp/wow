@@ -2,14 +2,17 @@ name: Landros Gift
 
 origin: wrathgate-102
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
 rule:
-  - type: ability
+  - type: Ability
     text: Search your deck for a Loot card, reveal it, and put it on top of your deck. Then, if an opponent went first this game, draw a card.
 
 regulation:

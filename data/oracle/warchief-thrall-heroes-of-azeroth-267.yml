@@ -2,9 +2,12 @@ name: Warchief Thrall
 
 origin: heroes-of-azeroth-267
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '9'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Other Horde allies in your party have +3 ATK and +3 health.
 
 regulation:

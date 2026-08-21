@@ -2,9 +2,11 @@ name: Might Of The Warchief
 
 origin: into-the-mists-305
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

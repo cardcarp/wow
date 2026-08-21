@@ -2,9 +2,12 @@ name: Ian Lanstrick
 
 origin: crown-of-the-heavens-110
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opponent completes a quest, this ally deals 2 fire damage to his hero.
 
 regulation:

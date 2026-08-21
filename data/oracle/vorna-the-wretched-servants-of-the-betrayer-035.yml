@@ -2,17 +2,20 @@ name: Vor'na the Wretched
 
 origin: servants-of-the-betrayer-035
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Vor'na → At the end of this turn, the player whose turn it is destroys each ally in his party that neither attacked nor entered play this turn. Wretched
 
 regulation:

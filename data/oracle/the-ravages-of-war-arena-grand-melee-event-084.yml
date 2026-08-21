@@ -2,12 +2,15 @@ name: The Ravages of War
 
 origin: arena-grand-melee-event-084
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: The Arena deals 5 collateral damage to each hero in the room.
 
 regulation:

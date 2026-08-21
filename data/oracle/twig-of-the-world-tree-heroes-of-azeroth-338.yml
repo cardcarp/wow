@@ -2,9 +2,12 @@ name: Twig of the World Tree
 
 origin: heroes-of-azeroth-338
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy one of your resources → You pay 3 less the next time you strike with Twig of the World Tree.
 
 regulation:

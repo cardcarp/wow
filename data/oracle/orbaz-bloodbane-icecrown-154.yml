@@ -2,9 +2,12 @@ name: Orbaz Bloodbane
 
 origin: icecrown-154
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Raid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Scourge Hero Required Put 3 damage on this ally, destroy a quest or location you control → Target player destroys a card of that type he controls. Death Rattle : Your hero has Assault 1 this turn.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Zeherahs Dragonskull Crown
 
 origin: timewalkers-badges-of-justice-004
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 → Target ally has Assault 1 this turn. 2 → Target ally has Ferocity this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Blazing Infernal
 
 origin: war-of-the-ancients-165
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Fire
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he deals 1 fire damage to each other ally.
 
 regulation:

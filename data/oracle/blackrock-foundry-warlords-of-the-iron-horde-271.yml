@@ -2,9 +2,11 @@ name: Blackrock Foundry
 
 origin: warlords-of-the-iron-horde-271
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

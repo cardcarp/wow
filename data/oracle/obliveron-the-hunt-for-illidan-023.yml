@@ -2,18 +2,21 @@ name: Obliveron
 
 origin: the-hunt-for-illidan-023
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: You can have any number of Pets.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: You can have any number of Pets. You can include only neutral quests, any Traitor cards, and any Demon allies. You can't include cards with reputation or other text restrictions (like Fire Hero Required ) .
 
 regulation:

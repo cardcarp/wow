@@ -2,9 +2,12 @@ name: Greaves of Ancient Evil
 
 origin: scourgewar-220
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When damage is prevented with this armor, Hero : Ready a weapon you control. Hero : Ready another armor you control. Hero : Ready your hero.'
 
 regulation:

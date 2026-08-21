@@ -2,9 +2,12 @@ name: '"Chillhands" Spigotgulp'
 
 origin: blood-of-gladiators-094
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: If you would draw a card, you may skip drawing it instead. When you skip drawing a card this way, target ally can't attack this turn.
 
 regulation:

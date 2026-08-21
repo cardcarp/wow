@@ -2,9 +2,12 @@ name: Bloodthirsty Ghoul
 
 origin: shadowfang-keep-010
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 8
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, put all Bloodthirsty Ghouls from the graveyard into play.
 
 regulation:

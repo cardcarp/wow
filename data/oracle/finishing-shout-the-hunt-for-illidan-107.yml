@@ -2,9 +2,12 @@ name: Finishing Shout
 
 origin: the-hunt-for-illidan-107
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 

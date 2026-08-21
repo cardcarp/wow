@@ -2,9 +2,11 @@ name: Confession
 
 origin: into-the-mists-065
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

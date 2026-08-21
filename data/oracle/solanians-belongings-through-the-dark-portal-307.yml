@@ -2,14 +2,17 @@ name: Solanians Belongings
 
 origin: through-the-dark-portal-307
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 4 to complete this quest. Reward : Choose one: Put an ability card from your graveyard on top of your deck; or draw a card. If your hero is a Blood Elf, you may choose both.'
 
 regulation:

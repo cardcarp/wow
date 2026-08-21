@@ -1,6 +1,6 @@
 name: Aftermath Holiday Promotional
 
-type: promo
+type: Promo
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 6
 
 total: 6
 
-date_release: 2011-10
+date: 2011-10
 
 collection: Aftermath

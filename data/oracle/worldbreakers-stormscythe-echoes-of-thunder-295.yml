@@ -2,9 +2,11 @@ name: Worldbreakers Stormscythe
 
 origin: echoes-of-thunder-295
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

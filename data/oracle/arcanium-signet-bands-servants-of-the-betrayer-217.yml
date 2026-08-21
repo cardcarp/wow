@@ -2,9 +2,12 @@ name: Arcanium Signet Bands
 
 origin: servants-of-the-betrayer-217
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: → If target ally would be dealt damage this turn, it's dealt double that much instead.
 
 regulation:

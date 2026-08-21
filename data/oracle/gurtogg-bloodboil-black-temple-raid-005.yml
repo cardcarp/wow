@@ -2,20 +2,23 @@ name: Gurtogg Bloodboil
 
 origin: black-temple-raid-005
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 type: Boss
 
 stage: 5
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Gurtogg has +5 ATK while attacking. At the end of your turn, destroy up to five non- allies and flip Gurtogg.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: Untargetable At the start of your turn, choose a random opposing hero, and it heals 5 damage from itself. Gurtogg can attack only that hero and has +15 ATK while attacking this turn. At the end of your turn, flip Gurtogg.
 
 regulation:

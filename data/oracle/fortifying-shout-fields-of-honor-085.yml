@@ -2,9 +2,12 @@ name: Fortifying Shout
 
 origin: fields-of-honor-085
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Heroes and allies in your party have +2 health.'
 
 regulation:

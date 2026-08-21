@@ -2,9 +2,12 @@ name: Shield of Light
 
 origin: war-of-the-ancients-035
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

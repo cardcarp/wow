@@ -2,17 +2,20 @@ name: Tahanu Brinkrunner
 
 origin: the-hunt-for-illidan-016
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 , Flip Tahanu → Put target ally card from your graveyard into hand.
 
 regulation:

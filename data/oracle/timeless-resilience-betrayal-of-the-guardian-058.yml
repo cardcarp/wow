@@ -2,9 +2,12 @@ name: Timeless Resilience
 
 origin: betrayal-of-the-guardian-058
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

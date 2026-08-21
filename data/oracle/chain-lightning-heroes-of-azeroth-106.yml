@@ -2,9 +2,12 @@ name: Chain Lightning
 
 origin: heroes-of-azeroth-106
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target up to three heroes and/or allies. Your hero deals 3, 2, and 1 nature damage to them, respectively.
 
 regulation:

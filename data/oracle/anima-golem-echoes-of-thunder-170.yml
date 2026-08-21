@@ -2,9 +2,11 @@ name: Anima Golem
 
 origin: echoes-of-thunder-170
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

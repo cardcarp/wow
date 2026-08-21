@@ -2,12 +2,15 @@ name: Battle of Darrowshire
 
 origin: heroes-of-azeroth-347
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Remove three ally cards in your graveyard from the game and pay 1 to complete this quest. Reward : Draw a card.'
 
 regulation:

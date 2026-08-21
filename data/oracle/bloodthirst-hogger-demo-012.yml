@@ -2,9 +2,11 @@ name: Bloodthirst
 
 origin: hogger-demo-012
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Roshen the Oathsworn
 
 origin: wrathgate-145
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector You pay 1 less to play Auras, Blessings, and Seals.
 
 regulation:

@@ -2,9 +2,12 @@ name: Unbalance
 
 origin: servants-of-the-betrayer-096
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust all opposing heroes and allies. If you have an equipment, each of them can't ready during its controller's next ready step.
 
 regulation:

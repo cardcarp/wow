@@ -2,9 +2,12 @@ name: Valthak Spiritdrinker
 
 origin: heroes-of-azeroth-263
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero can't be destroyed.
 
 regulation:

@@ -2,9 +2,12 @@ name: Elaar
 
 origin: the-hunt-for-illidan-123
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , → Gain control of target ally.
 
 regulation:

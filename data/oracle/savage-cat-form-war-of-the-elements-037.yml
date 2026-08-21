@@ -2,9 +2,12 @@ name: Savage Cat Form
 
 origin: war-of-the-elements-037
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

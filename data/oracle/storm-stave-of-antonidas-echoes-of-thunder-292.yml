@@ -2,9 +2,11 @@ name: Storm-Stave of Antonidas
 
 origin: echoes-of-thunder-292
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

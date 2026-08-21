@@ -1,6 +1,6 @@
 name: Timewalkers
 
-type: starter
+type: Starter
 
 index: '00'
 
@@ -8,6 +8,6 @@ subtotal: 30
 
 total: 60
 
-date_release: 2012-10
+date: 2012-10
 
 collection: Timewalker

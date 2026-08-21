@@ -2,9 +2,11 @@ name: Kor'kron Reaver
 
 origin: echoes-of-thunder-193
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

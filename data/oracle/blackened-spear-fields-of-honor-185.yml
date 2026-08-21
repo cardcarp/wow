@@ -2,9 +2,12 @@ name: Blackened Spear
 
 origin: fields-of-honor-185
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Blackened Spear has +1 ATK if an ally with Arcane Torrent is in your party. This is also true for Berserking , Hardiness , War Stomp , and Will of the Forsaken .
 
 regulation:

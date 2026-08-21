@@ -2,9 +2,12 @@ name: Lord Darion Mograine
 
 origin: scourgewar-211
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 6
 combat: Frost
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Destroy a Death Knight you control → Put a 3 / 3 Ghoul ally token into play.
 
 regulation:

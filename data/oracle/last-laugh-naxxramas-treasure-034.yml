@@ -2,9 +2,12 @@ name: Last Laugh
 
 origin: naxxramas-treasure-034
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this weapon enters play, target opponent gains control of it until the start of your next turn.
 
 regulation:

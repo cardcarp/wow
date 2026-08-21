@@ -2,9 +2,12 @@ name: Stalagg
 
 origin: naxxramas-token-004
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 0
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: Conspicuous , Assault 5 When this ally enters play, raiding heroes and allies have -5 ATK this turn. At the start of the Boss player's turn, if Feugen is not in play, he puts him into play.
 
 regulation:

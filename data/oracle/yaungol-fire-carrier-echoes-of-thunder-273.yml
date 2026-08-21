@@ -2,9 +2,11 @@ name: Yaungol Fire Carrier
 
 origin: echoes-of-thunder-273
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

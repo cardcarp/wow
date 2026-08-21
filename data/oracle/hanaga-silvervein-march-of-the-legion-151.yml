@@ -2,9 +2,12 @@ name: Hanaga Silvervein
 
 origin: march-of-the-legion-151
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive Your hero has +5 health.
 
 regulation:

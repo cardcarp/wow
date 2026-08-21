@@ -2,9 +2,12 @@ name: Kalaan
 
 origin: tomb-of-the-forgotten-086
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 

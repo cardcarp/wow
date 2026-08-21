@@ -2,9 +2,11 @@ name: Flame of Azzinoth 2
 
 origin: misc-tokens-020
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

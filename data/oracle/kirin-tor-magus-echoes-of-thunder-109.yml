@@ -2,9 +2,11 @@ name: Kirin Tor Magus
 
 origin: echoes-of-thunder-109
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

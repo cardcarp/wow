@@ -2,9 +2,12 @@ name: Gutbuster
 
 origin: worldbreaker-241
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you deal fatal damage to an ally with this equipment, ready your hero, this equipment, and up to two resources you control.
 
 regulation:

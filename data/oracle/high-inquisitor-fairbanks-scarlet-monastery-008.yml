@@ -2,9 +2,12 @@ name: High Inquisitor Fairbanks
 
 origin: scarlet-monastery-008
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 6
 
@@ -15,7 +18,7 @@ combat: Holy
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Boss Ferocity Holy Word : When Fairbanks enters play, if he was the first Dungeon card flipped this turn, he deals 6 unpreventable holy damage to the MARKED hero. Then, shuffle him back into the Dungeon deck.'
 
 regulation:

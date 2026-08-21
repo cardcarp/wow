@@ -2,9 +2,12 @@ name: Crusader Lord Dalfors
 
 origin: wrathgate-161
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Argent Crusade Reputation If a Unique ally you control would be dealt damage, prevent 1 of it.
 
 regulation:

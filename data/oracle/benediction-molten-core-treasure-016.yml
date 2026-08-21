@@ -2,9 +2,12 @@ name: Benediction
 
 origin: molten-core-treasure-016
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero heals damage with an ability, draw a card. Exhaust your hero → Put a card named Anathema from your graveyard into play.
 
 regulation:

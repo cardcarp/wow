@@ -2,9 +2,12 @@ name: Mooncloth Robe
 
 origin: heroes-of-azeroth-298
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , , Exhaust your hero → Draw a card.
 
 regulation:

@@ -2,9 +2,12 @@ name: Nox the Lifedrainer
 
 origin: crown-of-the-heavens-116
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has +1 / +1 for each damage on opposing heroes.
 
 regulation:

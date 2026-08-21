@@ -2,9 +2,12 @@ name: Swift Hawkstrider
 
 origin: wrathgate-150
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Blood Elf Hero Required You pay 1 less to complete quests. When you place a resource face up, target opposing card in play loses and can't have powers this turn. (Mounts can't attack or be attacked.)
 
 regulation:

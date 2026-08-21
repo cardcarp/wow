@@ -2,9 +2,12 @@ name: Arcanist Alathana
 
 origin: servants-of-the-betrayer-196
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Scryer Reputation Sabotage: Ability When Alathana sabotages an ability, put a depletion counter on it. Abilities with depletion counters lose and can't have powers."
 
 regulation:

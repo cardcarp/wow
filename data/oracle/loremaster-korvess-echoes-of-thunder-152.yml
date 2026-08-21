@@ -2,9 +2,11 @@ name: Loremaster Korvess
 
 origin: echoes-of-thunder-152
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

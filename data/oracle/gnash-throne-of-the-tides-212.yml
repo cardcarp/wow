@@ -2,9 +2,12 @@ name: Gnash
 
 origin: throne-of-the-tides-212
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Frost
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Gnash enters play, destroy all allies with cost 3 or less.
 
 regulation:

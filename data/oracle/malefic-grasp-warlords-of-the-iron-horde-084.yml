@@ -2,9 +2,11 @@ name: Malefic Grasp
 
 origin: warlords-of-the-iron-horde-084
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

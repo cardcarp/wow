@@ -2,18 +2,21 @@ name: Magtheridon
 
 origin: magtheridons-lair-raid-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 100
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Magtheridon has +1 ATK while attacking for each Blood in play. When the tenth Blood enters play, flip Magtheridon.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: Magtheridon has +2 ATK while attacking for each Blood in play.
 
 regulation:

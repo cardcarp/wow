@@ -2,9 +2,12 @@ name: Chains of Ice
 
 origin: worldbreaker-025
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target opposing ally. Search your deck for a Disease, reveal it, and put it into your hand. Ongoing : Attached ally can't attack."
 
 regulation:

@@ -2,9 +2,12 @@ name: Protective Barricade of the Light
 
 origin: wrathgate-176
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Hero : This armor has +2 . Hero : You pay 2 less to play this armor.'
 
 regulation:

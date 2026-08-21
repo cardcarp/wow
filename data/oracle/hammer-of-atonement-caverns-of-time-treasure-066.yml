@@ -2,9 +2,12 @@ name: Hammer of Atonement
 
 origin: caverns-of-time-treasure-066
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If your hero would heal damage, it heals double that much instead. While your hero is undamaged: 4 , → Put a 4 / 4 Guardian Spirit ally token into play with Protector .'
 
 regulation:

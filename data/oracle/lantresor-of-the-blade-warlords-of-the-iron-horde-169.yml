@@ -2,9 +2,11 @@ name: Lantresor Of The Blade
 
 origin: warlords-of-the-iron-horde-169
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

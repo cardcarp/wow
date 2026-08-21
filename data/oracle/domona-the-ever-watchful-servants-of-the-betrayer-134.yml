@@ -2,9 +2,12 @@ name: Domona the Ever-Watchful
 
 origin: servants-of-the-betrayer-134
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Domona deals 2 frost damage to target hero or ally. When an opposing hero or ally attacks, ready Domona.
 
 regulation:

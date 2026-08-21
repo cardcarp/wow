@@ -2,9 +2,12 @@ name: Veterans Dreadweave Belt
 
 origin: fields-of-honor-163
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Players pay 2 more to play cards.
 
 regulation:

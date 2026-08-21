@@ -2,9 +2,12 @@ name: Gorlash, Herald of the Elements
 
 origin: tomb-of-the-forgotten-137
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Empower Shaman : When this ally enters play, if you control another Shaman hero or ally, this ally deals 4 nature damage divided as you choose to any number of target heroes and/or allies.'
 
 regulation:

@@ -2,9 +2,11 @@ name: Overlord Runthak
 
 origin: echoes-of-thunder-156
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

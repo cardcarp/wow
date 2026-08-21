@@ -2,9 +2,12 @@ name: Rockbiter Weapon
 
 origin: heroes-of-azeroth-115
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

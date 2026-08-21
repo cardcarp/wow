@@ -2,9 +2,12 @@ name: Elemental Shield
 
 origin: icecrown-068
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : This ability enters play with three water counters. → Ready a resource you control for each water counter, then remove a water counter. If none remain, destroy this ability.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Gobloz
 
 origin: servants-of-the-betrayer-113
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -18,7 +21,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive When an ally in your party is dealt damage, Gobloz may deal 1 fire damage to the source of that damage.
 
 regulation:

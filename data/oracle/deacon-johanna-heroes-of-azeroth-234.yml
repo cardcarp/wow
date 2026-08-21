@@ -2,9 +2,12 @@ name: Deacon Johanna
 
 origin: heroes-of-azeroth-234
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 → Deacon Johanna heals 2 damage from target hero or ally. Use only once per turn.
 
 regulation:

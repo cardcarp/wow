@@ -2,14 +2,17 @@ name: Death's Deal
 
 origin: battle-of-the-aspects-raid-023
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Each Raider chooses one: Discard two cards; Deathwing deals 5 fire damage to that Raider's hero; or Deathwing deals 5 fire damage to each ally that Raider controls."
 
 regulation:

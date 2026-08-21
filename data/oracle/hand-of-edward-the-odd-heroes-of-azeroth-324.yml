@@ -2,9 +2,12 @@ name: Hand of Edward the Odd
 
 origin: heroes-of-azeroth-324
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ability, ally, and equipment cards in your hand are instant.
 
 regulation:

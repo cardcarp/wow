@@ -2,9 +2,12 @@ name: Felsteel Reaper
 
 origin: azeroth-crafting-005
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '8'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Felsteel Reaper has +1 ATK for each resource you have.
 
 regulation:

@@ -2,9 +2,12 @@ name: Presence of the Divine
 
 origin: wrathgate-054
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : When an attacking ally deals damage to an ally you control, you may destroy that attacker.'
 
 regulation:

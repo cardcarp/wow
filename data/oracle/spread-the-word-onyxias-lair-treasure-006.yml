@@ -2,9 +2,12 @@ name: Spread the Word
 
 origin: onyxias-lair-treasure-006
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : Damage dealt by friendly heroes can't be prevented."
 
 regulation:

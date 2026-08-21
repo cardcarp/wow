@@ -2,9 +2,12 @@ name: Prayer of Spirit
 
 origin: icecrown-057
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : → Ready a resource you control for each ally you control.'
 
 regulation:

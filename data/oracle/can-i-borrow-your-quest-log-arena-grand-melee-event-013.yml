@@ -2,9 +2,11 @@ name: '"Can I Borrow Your Quest Log"'
 
 origin: arena-grand-melee-event-013
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

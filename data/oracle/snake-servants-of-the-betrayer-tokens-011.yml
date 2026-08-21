@@ -2,9 +2,11 @@ name: Snake
 
 origin: servants-of-the-betrayer-tokens-011
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

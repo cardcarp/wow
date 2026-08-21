@@ -2,9 +2,12 @@ name: Lucy Elizabeth
 
 origin: crown-of-the-heavens-091
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector
 
 regulation:

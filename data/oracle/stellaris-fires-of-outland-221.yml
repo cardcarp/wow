@@ -2,9 +2,12 @@ name: Stellaris
 
 origin: fires-of-outland-221
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust an ally in your party → You pay 1 less the next time you strike with Stellaris this turn.
 
 regulation:

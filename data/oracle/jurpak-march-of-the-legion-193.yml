@@ -2,9 +2,12 @@ name: Jurpak
 
 origin: march-of-the-legion-193
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 → Target ally has Ferocity this turn.
 
 regulation:

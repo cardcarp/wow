@@ -2,9 +2,12 @@ name: Grim Fate
 
 origin: battle-of-the-aspects-treasure-003
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each player puts the top card of his deck into his graveyard. Put a 3 / 3 Ghoul ally token into play for each ally put into a graveyard this way.
 
 regulation:

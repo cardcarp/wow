@@ -2,9 +2,12 @@ name: Chakra
 
 origin: throne-of-the-tides-060
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Holy Talent Ongoing : If your hero or an ally you control would deal damage, it deals that much +1 instead. If your hero or an ally you control would heal damage, it heals that much +1 instead.'
 
 regulation:

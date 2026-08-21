@@ -2,9 +2,12 @@ name: Drain Soul
 
 origin: tomb-of-the-forgotten-055
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 2 shadow damage to target ally and heals 2 damage from itself.
 
 regulation:

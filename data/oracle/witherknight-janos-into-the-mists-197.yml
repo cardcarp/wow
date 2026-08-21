@@ -2,9 +2,11 @@ name: Witherknight Janos
 
 origin: into-the-mists-197
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Ancient Amani Longbow
 
 origin: echoes-of-thunder-276
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

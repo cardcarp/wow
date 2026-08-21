@@ -2,9 +2,12 @@ name: Plagued Warrior
 
 origin: naxxramas-token-012
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 1
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally deals combat damage to a hero, he also deals that much melee damage to each other raiding hero.
 
 regulation:

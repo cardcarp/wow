@@ -2,9 +2,12 @@ name: Strangling Roots
 
 origin: march-of-the-legion-028
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target ally and exhaust it. Ongoing : Attached ally can't ready during its controller's ready step. At the start of your turn, your hero deals 2 nature damage to attached ally."
 
 regulation:

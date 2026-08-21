@@ -2,9 +2,11 @@ name: Yaungol Mist-Shaman
 
 origin: into-the-mists-254
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

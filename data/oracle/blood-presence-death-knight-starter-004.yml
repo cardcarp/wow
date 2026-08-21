@@ -2,9 +2,12 @@ name: Blood Presence
 
 origin: death-knight-starter-004
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : If your hero would deal damage, it deals that much +1 instead. When your hero deals damage it heals 1 damage from itself.'
 
 regulation:

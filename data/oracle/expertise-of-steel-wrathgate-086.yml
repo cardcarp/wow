@@ -2,9 +2,12 @@ name: Expertise of Steel
 
 origin: wrathgate-086
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Your hero has Dual Wield . Axes you control have +2 ATK. You pay 2 less to strike with Swords.'
 
 regulation:

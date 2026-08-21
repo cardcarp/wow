@@ -2,9 +2,12 @@ name: Blessing of the Devoted
 
 origin: crown-of-the-heavens-027
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target ally. If that ally's cost is 2 or less, draw a card. Ongoing : Attached ally has +3 / +3."
 
 regulation:

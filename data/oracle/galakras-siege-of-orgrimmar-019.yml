@@ -2,9 +2,11 @@ name: Galakras
 
 origin: siege-of-orgrimmar-019
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

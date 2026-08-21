@@ -2,9 +2,12 @@ name: Greatsword of Horrid Dreams
 
 origin: march-of-the-legion-283
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: As an ally enters play under an opponent's control, it loses and can't have powers until the start of that opponent's next turn.
 
 regulation:

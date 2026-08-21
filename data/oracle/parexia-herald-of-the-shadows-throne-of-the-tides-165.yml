@@ -2,9 +2,12 @@ name: Parexia, Herald of the Shadows
 
 origin: throne-of-the-tides-165
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Empower Priest : When this ally enters play, if you control another Priest hero or ally, target opponent discards two random cards.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Spellbreakers Buckler
 
 origin: fires-of-outland-205
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , , Discard an equipment card → Interrupt target ability card.
 
 regulation:

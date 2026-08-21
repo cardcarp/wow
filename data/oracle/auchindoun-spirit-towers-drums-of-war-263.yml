@@ -2,12 +2,15 @@ name: Auchindoun Spirit Towers
 
 origin: drums-of-war-263
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you draw a card, add a capture counter. , Remove five capture counters → Turn target resource face down.
 
 regulation:

@@ -2,9 +2,12 @@ name: Rayder
 
 origin: heroes-of-azeroth-045
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Allies in your party have +2 ATK while attacking this turn.
 
 regulation:

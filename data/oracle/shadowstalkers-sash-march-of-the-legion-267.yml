@@ -2,9 +2,12 @@ name: Shadowstalkers Sash
 
 origin: march-of-the-legion-267
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Friendly Druids and Rogues have Stealth .
 
 regulation:

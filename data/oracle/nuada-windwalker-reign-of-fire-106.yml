@@ -2,9 +2,11 @@ name: Nuada Windwalker
 
 origin: reign-of-fire-106
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Execution Sentence
 
 origin: warlords-of-the-iron-horde-045
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

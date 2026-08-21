@@ -2,9 +2,12 @@ name: Bolin Moonflare
 
 origin: war-of-the-ancients-084
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When another Night Elf ally enters play under your control, this ally deals fire damage to target opposing hero equal to that ally's cost.
 
 regulation:

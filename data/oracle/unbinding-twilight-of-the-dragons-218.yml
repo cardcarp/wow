@@ -2,12 +2,15 @@ name: Unbinding
 
 origin: twilight-of-the-dragons-218
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "On your turn: Pay 1 to complete this quest. Reward : Look at the top card of target opponent's deck. You may remove that card from the game or leave it on top."
 
 regulation:

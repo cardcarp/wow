@@ -2,9 +2,11 @@ name: War Crimes
 
 origin: warlords-of-the-iron-horde-270
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

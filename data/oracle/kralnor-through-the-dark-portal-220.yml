@@ -2,9 +2,12 @@ name: Kralnor
 
 origin: through-the-dark-portal-220
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Kralnor enters play, you may search your deck for a Staff card and let everyone LOOK IT OVER. If you do, shuffle your deck and put that card on top.
 
 regulation:

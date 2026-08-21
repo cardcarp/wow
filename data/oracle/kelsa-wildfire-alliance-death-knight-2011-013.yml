@@ -2,9 +2,12 @@ name: Kelsa Wildfire
 
 origin: alliance-death-knight-2011-013
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity
 
 regulation:

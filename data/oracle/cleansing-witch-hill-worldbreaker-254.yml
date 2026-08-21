@@ -2,12 +2,15 @@ name: Cleansing Witch Hill
 
 origin: worldbreaker-254
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: Pay 4 to complete this quest. Reward : Turn target resource face down. Draw a card.'
 
 regulation:

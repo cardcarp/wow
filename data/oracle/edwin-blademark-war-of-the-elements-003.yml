@@ -2,20 +2,23 @@ name: Edwin Blademark
 
 origin: war-of-the-elements-003
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Edwin
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: Allies you control have Stealth .
 
 regulation:

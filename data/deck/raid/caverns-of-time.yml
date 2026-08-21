@@ -1,19 +1,22 @@
 name: Caverns of Time
 
-credit: Official Product
-
-category: Raid
-
-facet:
+format:
   - Raid
 
-collection: raid
+group: raid
+
+theme:
+  - Raid
+
+complexity:
+
+division:
 
 highlight: caverns-of-time-raid-001
 
-description: Co-op Raid Experience
+tagline: Co-op Raid Experience
 
-context:
+description:
   - title: The Experience
     body: Face off against the Infinite Dragonflight in a fully co-op, 1–5 player raid experience.
   - title: The Mastermind
@@ -22,8 +25,6 @@ context:
     body: Includes a complete 110-card Encounter Deck, Oversized Raid Hero Cards, and Treasure Packs.
   - title: Why It Matters
     body: This is the ultimate "boss battle" experience that brings the MMO raid experience to the tabletop, making it a highly collectible, out-of-print item.
-
-total: 70
 
 list:
   hero:

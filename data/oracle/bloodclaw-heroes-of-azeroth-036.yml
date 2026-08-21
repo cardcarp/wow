@@ -2,9 +2,12 @@ name: Bloodclaw
 
 origin: heroes-of-azeroth-036
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 

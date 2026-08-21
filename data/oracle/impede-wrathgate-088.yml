@@ -2,9 +2,12 @@ name: Impede
 
 origin: wrathgate-088
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put target , , or ally or weapon on top of its owner's deck.
 
 regulation:

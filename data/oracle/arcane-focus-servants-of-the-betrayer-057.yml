@@ -2,9 +2,12 @@ name: Arcane Focus
 
 origin: servants-of-the-betrayer-057
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Arcane Hero Required Ongoing : → Ready one of your resources. Use only if you've played another Arcane or card this turn."
 
 regulation:

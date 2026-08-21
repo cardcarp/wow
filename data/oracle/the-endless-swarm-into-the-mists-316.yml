@@ -2,9 +2,11 @@ name: The Endless Swarm
 
 origin: into-the-mists-316
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

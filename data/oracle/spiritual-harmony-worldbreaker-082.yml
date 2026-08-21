@@ -2,9 +2,12 @@ name: Spiritual Harmony
 
 origin: worldbreaker-082
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put target ally from your graveyard into your hand. If you do, your hero heals damage from itself equal to that ally's cost.
 
 regulation:

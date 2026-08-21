@@ -2,9 +2,12 @@ name: Tilu Plainstalker
 
 origin: war-of-the-ancients-153
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opposing ally with cost 4 or more attacks, this ally deals 1 ranged damage to it.
 
 regulation:

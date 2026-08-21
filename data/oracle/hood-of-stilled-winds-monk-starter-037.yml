@@ -2,9 +2,11 @@ name: Hood Of Stilled Winds
 
 origin: monk-starter-037
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

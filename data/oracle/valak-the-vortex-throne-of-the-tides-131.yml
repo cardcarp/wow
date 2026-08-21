@@ -2,9 +2,12 @@ name: Valak the Vortex
 
 origin: throne-of-the-tides-131
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally attacks, you may discard an ability. If you do, he deals arcane damage to target ally equal to the cost of that ability.
 
 regulation:

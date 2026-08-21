@@ -2,20 +2,23 @@ name: Famish the Binder
 
 origin: the-hunt-for-illidan-020
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Destroy three allies in your party → Flip Famish face down.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: allies in your party have Ferocity .
 
 regulation:

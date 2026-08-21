@@ -2,9 +2,12 @@ name: Deuce
 
 origin: icecrown-034
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Beast Mastery Talent While this ally is in your graveyard, you can control an additional Pet.
 
 regulation:

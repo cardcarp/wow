@@ -2,9 +2,12 @@ name: Belt of Deep Shadow
 
 origin: azeroth-crafting-010
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Stealth . If your hero would deal combat damage, it deals that much +2 instead.
 
 regulation:

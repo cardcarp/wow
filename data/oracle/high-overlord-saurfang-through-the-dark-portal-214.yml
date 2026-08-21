@@ -2,9 +2,12 @@ name: High Overlord Saurfang
 
 origin: through-the-dark-portal-214
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When an ally enters combat with High Overlord Saurfang, destroy that ally.
 
 regulation:

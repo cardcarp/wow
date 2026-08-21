@@ -2,9 +2,12 @@ name: Huroshal Gutwrench
 
 origin: scourgewar-180
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally is dealt damage, you may destroy target ability.
 
 regulation:

@@ -2,9 +2,12 @@ name: Gladiators Maul
 
 origin: fields-of-honor-173
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: You can place the top card of your deck face down (as your one resource per turn) .
 
 regulation:

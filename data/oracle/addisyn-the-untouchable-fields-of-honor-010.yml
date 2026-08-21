@@ -2,17 +2,20 @@ name: Addisyn the Untouchable
 
 origin: fields-of-honor-010
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Addisyn → Choose arcane, fire, frost, nature, or shadow. Addisyn has the chosen resistance this turn.
 
 regulation:

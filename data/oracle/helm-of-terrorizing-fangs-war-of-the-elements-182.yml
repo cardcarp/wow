@@ -2,9 +2,12 @@ name: Helm of Terrorizing Fangs
 
 origin: war-of-the-elements-182
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a non- , non- ally you control is destroyed, add a fang counter to this armor. Remove a fang counter from this armor → Target ally has Assault 1 this turn.
 
 regulation:

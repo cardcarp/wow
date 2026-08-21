@@ -2,12 +2,15 @@ name: Cycle of Life
 
 origin: wrathgate-207
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If an ally entered play and an ally left play this turn: Pay 2 to complete this quest. Reward : Draw a card.'
 
 regulation:

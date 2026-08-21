@@ -2,9 +2,12 @@ name: Curse of Contagion
 
 origin: march-of-the-legion-104
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

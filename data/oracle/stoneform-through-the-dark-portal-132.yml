@@ -2,9 +2,12 @@ name: Stoneform
 
 origin: through-the-dark-portal-132
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

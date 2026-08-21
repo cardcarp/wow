@@ -2,9 +2,12 @@ name: Timewalker Vanguard
 
 origin: betrayal-of-the-guardian-125
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, if you control two or more allies that share a or race, this ally deals 3 melee damage to target hero.
 
 regulation:

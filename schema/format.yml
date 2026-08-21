@@ -1,11 +1,12 @@
-set_allow: # empty means this format does not admit cards by set at all
-  type: list
-  required: false
-  nullable: true
-  schema:
-    type: string
+# Rules are listed in the order the compiler applies them: 
+# - first what a format admits, 
+# -- then what it removes, 
+# --- then how many copies survive, 
+# ---- then the whole-deck size check.
 
-regulation_allow: # empty means this format does not admit cards by regulation at all
+set_allow:  # set ids admitted;
+            # "*" means every set;
+            # Empty admits nothing.
   type: list
   required: false
   nullable: true
@@ -13,39 +14,75 @@ regulation_allow: # empty means this format does not admit cards by regulation a
     type: string
     coerce: str
 
-oracle_ban:
+regulation_allow: # regulation marks admitted;
+                  # "*" means every mark;
+                  # Empty admits nothing.
+  type: list
+  required: false
+  nullable: true
+  schema:
+    type: string
+    coerce: str
+
+oracle_ban: # Oracle ids banned outright.
+            # Checked before oracle_restrict and wins over it: a banned oracle
+            # is never legal, whatever else names it.
   type: list
   required: false
   nullable: true
   schema:
     type: string
 
-oracle_restrict:
-  type: list
-  required: false
-  nullable: true
-  schema:
-    type: string
-
-oracle_limit:
-  type: integer
-  required: false
-  min: 1
-
-category_limit:
+oracle_restrict:  # Oracle id to the copies a deck may hold;
+                  # Overrides oracle_exception and oracle_limit, but not oracle_ban.
+                  # This occurs when designers don't want to outright ban an oracle.
   type: dict
   required: false
   nullable: true
   valuesrules:
     type: integer
+    min: 0
 
-size_main:
-  type: integer
-  required: false
-  min: 0
-
-size_side:
-  type: integer
+oracle_exception: # A category or theme value, to the copies a deck may hold of
+                  # any oracle carrying it. Overrides oracle_limit, and is itself
+                  # overridden by oracle_restrict.
+                  # Flat because the two vocabularies are kept disjoint: a theme
+                  # never reuses a category's name. Nothing enforces that at
+                  # compile time, so keep it in mind when adding a theme.
+                  # Here it caps the hero slot, which allows a single card.
+  type: dict
   required: false
   nullable: true
-  min: 0
+  valuesrules:
+    type: integer
+    min: 0
+
+oracle_limit: # Copies of any one oracle a deck may hold.
+              # The default, applied when nothing more specific above matched.
+  type: integer
+  required: false
+  min: 1
+
+list_limit: # Total cards per list-group required to qualify as format legal.
+            # Keyed by the deck list zone, so the rules nest one level down.
+            # Non-declared values will be interpretted as 0. 
+            # An absent zone admits no cards, and an absent bound is unenforced at that end.
+  type: dict
+  required: false
+  nullable: true
+  keysrules:
+    type: string
+    allowed: ['hero', 'main', 'side', 'auxiliary']
+  valuesrules:
+    type: dict
+    schema:
+      minimum:
+        type: integer
+        required: false
+        nullable: true
+        min: 0
+      maximum:
+        type: integer
+        required: false
+        nullable: true
+        min: 0

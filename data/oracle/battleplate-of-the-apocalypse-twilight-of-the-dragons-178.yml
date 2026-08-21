@@ -2,9 +2,12 @@ name: Battleplate of the Apocalypse
 
 origin: twilight-of-the-dragons-178
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: → When target ally you control deals damage to an opposing ally this turn, destroy both allies.'
 
 regulation:

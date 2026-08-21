@@ -2,9 +2,12 @@ name: Claws of Attack
 
 origin: reign-of-fire-181
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Dual Wield Assault 6
 
 regulation:

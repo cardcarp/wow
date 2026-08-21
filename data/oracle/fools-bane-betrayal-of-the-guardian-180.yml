@@ -2,9 +2,12 @@ name: Fools Bane
 
 origin: betrayal-of-the-guardian-180
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '0'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 more to play this weapon for each card in opposing hands.
 
 regulation:

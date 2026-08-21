@@ -2,9 +2,12 @@ name: Phase Hound
 
 origin: blood-of-gladiators-087
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -19,7 +22,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Stealth
 
 regulation:

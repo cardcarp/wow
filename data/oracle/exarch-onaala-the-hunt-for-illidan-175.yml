@@ -2,9 +2,12 @@ name: Exarch Onaala
 
 origin: the-hunt-for-illidan-175
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -15,7 +18,7 @@ health: 8
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation 5 → Onaala deals 4 unpreventable holy damage to target hero or ally. Use only on your turn. 4 → Onaala heals 14 damage from target hero or ally. Use only on your turn.
 
 regulation:

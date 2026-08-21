@@ -2,9 +2,12 @@ name: Mok'Nathal Wildercloak
 
 origin: drums-of-war-212
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opposing ally is destroyed, put a +1 DEF counter on Mok'Nathal Wildercloak.
 
 regulation:

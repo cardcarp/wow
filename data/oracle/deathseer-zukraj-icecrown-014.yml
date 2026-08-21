@@ -2,9 +2,12 @@ name: Deathseer Zuk'raj
 
 origin: icecrown-014
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 class:
   - Druid
@@ -13,11 +16,11 @@ class:
 type: Raid
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Flip Zuk'raj, remove a Scourge ally in your graveyard from the game → The next time Zuk'raj would deal nature damage this turn, he deals that much +1 instead.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: "Deckbuilding : You can only include abilities, equipment, allies with ally type Death Knight, neutral quests and locations, and Scourge cards. You can't include cards with reputations or other text restrictions (like Balance Hero Required ) ."
 
 regulation:

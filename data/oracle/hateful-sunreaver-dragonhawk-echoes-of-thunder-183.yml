@@ -2,9 +2,11 @@ name: Hateful Sunreaver Dragonhawk
 
 origin: echoes-of-thunder-183
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Nethershard
 
 origin: blood-of-gladiators-182
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 2 , Exhaust your hero → Target opponent removes a card in his hand from the game.'
 
 regulation:

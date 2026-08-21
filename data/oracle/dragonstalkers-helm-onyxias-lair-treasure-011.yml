@@ -2,9 +2,11 @@ name: Dragonstalkers Helm
 
 origin: onyxias-lair-treasure-011
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

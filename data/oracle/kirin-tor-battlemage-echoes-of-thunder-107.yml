@@ -2,9 +2,11 @@ name: Kirin Tor Battlemage
 
 origin: echoes-of-thunder-107
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

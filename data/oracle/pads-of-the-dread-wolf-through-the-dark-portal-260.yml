@@ -2,9 +2,12 @@ name: Pads of the Dread Wolf
 
 origin: through-the-dark-portal-260
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 

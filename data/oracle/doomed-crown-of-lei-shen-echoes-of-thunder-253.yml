@@ -2,9 +2,11 @@ name: Doomed Crown of Lei Shen
 
 origin: echoes-of-thunder-253
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

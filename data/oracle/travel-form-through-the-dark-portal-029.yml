@@ -2,9 +2,12 @@ name: Travel Form
 
 origin: through-the-dark-portal-029
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

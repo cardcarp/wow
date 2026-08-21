@@ -2,9 +2,12 @@ name: Bash
 
 origin: heroes-of-azeroth-017
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

@@ -2,9 +2,12 @@ name: Peroth'arns Belt
 
 origin: caverns-of-time-treasure-058
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: This armor enters play with two +1 counters on it. Remove a +1 counter from this armor → Target hero or ally has Stealth this turn.
 
 regulation:

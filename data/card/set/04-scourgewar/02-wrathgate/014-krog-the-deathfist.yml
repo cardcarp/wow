@@ -1,3 +1,5 @@
+oracle: krog-the-deathfist-wrathgate-014
+
 index: '014'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"The Lich King and his wretched minions will soon regret their decision to defile what was once my honorable death."'
-
-oracle: krog-the-deathfist-wrathgate-014
 
 set: Wrathgate

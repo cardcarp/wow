@@ -2,9 +2,12 @@ name: Strength of Battle
 
 origin: wrathgate-101
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: This turn, weapons you control have Assault 1 for each Shaman and Warrior you control.
 
 regulation:

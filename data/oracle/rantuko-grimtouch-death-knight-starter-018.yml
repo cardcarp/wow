@@ -2,9 +2,12 @@ name: Rantuko Grimtouch
 
 origin: death-knight-starter-018
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Rantuko readies, he deals 1 shadow damage to each opposing ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Zul'jin
 
 origin: betrayal-of-the-guardian-115
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Stealth Zul'jin has +1 ATK for each damage on him. Once per turn: Put 1 damage on Zul'jin → Ready Zul'jin."
 
 regulation:

@@ -2,9 +2,11 @@ name: Battleplate of the Holy Warrior
 
 origin: echoes-of-thunder-248
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

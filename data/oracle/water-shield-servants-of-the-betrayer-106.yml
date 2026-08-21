@@ -2,9 +2,12 @@ name: Water Shield
 
 origin: servants-of-the-betrayer-106
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Water Shield enters play with three mana counters. When an opposing hero or ally deals damage to your hero, ready up to three of your resources and remove a mana counter. If none remain, destroy Water Shield.'
 
 regulation:

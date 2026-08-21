@@ -2,9 +2,12 @@ name: Commander Springvale
 
 origin: shadowfang-keep-007
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 2
 
@@ -15,7 +18,7 @@ combat: Shadow
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Boss Desecration : When Springvale attacks, if the MARKED hero's controller controls no ready resources, Springvale deals 10 shadow damage to the MARKED hero."
 
 regulation:

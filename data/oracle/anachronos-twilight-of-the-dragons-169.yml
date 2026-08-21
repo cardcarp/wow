@@ -2,9 +2,12 @@ name: Anachronos
 
 origin: twilight-of-the-dragons-169
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, you may ready a resource you control for each Bronze Dragonkin you control.
 
 regulation:

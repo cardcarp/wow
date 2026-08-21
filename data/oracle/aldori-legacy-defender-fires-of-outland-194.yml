@@ -2,9 +2,12 @@ name: Aldori Legacy Defender
 
 origin: fires-of-outland-194
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Target hero or ally has -2 ATK this turn.
 
 regulation:

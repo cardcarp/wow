@@ -2,9 +2,12 @@ name: How Fortuitous!
 
 origin: onyxias-lair-raid-019
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

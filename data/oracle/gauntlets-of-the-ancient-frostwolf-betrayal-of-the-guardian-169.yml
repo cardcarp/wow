@@ -2,9 +2,12 @@ name: Gauntlets of the Ancient Frostwolf
 
 origin: betrayal-of-the-guardian-169
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , → Target ally you control has +2 ATK and Smash this turn.
 
 regulation:

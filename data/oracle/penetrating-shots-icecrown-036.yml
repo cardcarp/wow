@@ -2,9 +2,12 @@ name: Penetrating Shots
 
 origin: icecrown-036
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: X
 

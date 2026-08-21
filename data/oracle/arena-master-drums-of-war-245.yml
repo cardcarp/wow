@@ -2,14 +2,17 @@ name: Arena Master
 
 origin: drums-of-war-245
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 4 to complete this quest. Reward : Each player chooses an ally in his party. If you chose the ally with the highest ATK, draw two cards.'
 
 regulation:

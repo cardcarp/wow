@@ -2,9 +2,11 @@ name: Kirin Tor Gryphon
 
 origin: echoes-of-thunder-191
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Vixton Pinchwhistle
 
 origin: drums-of-war-202
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Reveal the top three cards of your deck. Put a revealed Arena card into hand and the rest on the bottom of your deck.
 
 regulation:

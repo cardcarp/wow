@@ -2,9 +2,12 @@ name: Swifteye
 
 origin: tomb-of-the-forgotten-148
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Frost
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has +3 / +3 for this and each other Murloc hero and ally you control.
 
 regulation:

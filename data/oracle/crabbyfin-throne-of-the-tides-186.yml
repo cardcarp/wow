@@ -2,9 +2,12 @@ name: Crabbyfin
 
 origin: throne-of-the-tides-186
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Frost
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this or another Murloc ally enters play under your control, you may put a 1 / 1 Crab Monster ally token into play.
 
 regulation:

@@ -2,9 +2,12 @@ name: Eskhandars Collar
 
 origin: onyxias-lair-treasure-022
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has +1 ATK while in combat with an opposing hero. Opposing heroes have -1 ATK while in combat with your hero.
 
 regulation:

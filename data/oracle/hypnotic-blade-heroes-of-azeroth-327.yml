@@ -2,9 +2,12 @@ name: Hypnotic Blade
 
 origin: heroes-of-azeroth-327
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 , , Exhaust your hero → Target player discards a card. Use only on your turn.
 
 regulation:

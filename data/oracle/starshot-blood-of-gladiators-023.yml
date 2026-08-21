@@ -2,9 +2,12 @@ name: Starshot
 
 origin: blood-of-gladiators-023
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 3 arcane damage to target ally. Draw a card.
 
 regulation:

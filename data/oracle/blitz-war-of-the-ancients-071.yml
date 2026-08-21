@@ -2,9 +2,12 @@ name: Blitz
 
 origin: war-of-the-ancients-071
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 3 melee damage to target hero or ally.
 
 regulation:

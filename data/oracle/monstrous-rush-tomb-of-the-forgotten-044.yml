@@ -2,9 +2,12 @@ name: Monstrous Rush
 
 origin: tomb-of-the-forgotten-044
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

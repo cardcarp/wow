@@ -2,9 +2,12 @@ name: Lights Justice
 
 origin: drums-of-war-229
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a ally in your party deals damage, it also heals that much from your hero.
 
 regulation:

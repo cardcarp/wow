@@ -2,9 +2,12 @@ name: Brainsplinter
 
 origin: crown-of-the-heavens-178
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Dual Wield When your hero strikes with this weapon, target ally has Stealth this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Aspect of the Cheetah
 
 origin: march-of-the-legion-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : You pay 1 less to complete quests, to a minimum of 1 . When your hero is dealt damage, put Aspect of the Cheetah from play into its owner's hand."
 
 regulation:

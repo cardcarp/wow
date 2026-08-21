@@ -2,9 +2,12 @@ name: Eredar Strategist
 
 origin: reign-of-fire-132
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Once per turn: Destroy another ally you control → Demon allies you control have +2 ATK this turn.'
 
 regulation:

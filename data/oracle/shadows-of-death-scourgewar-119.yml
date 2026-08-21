@@ -2,9 +2,12 @@ name: Shadows of Death
 
 origin: scourgewar-119
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : 1 , Destroy a Demon or Ghoul you control → Your hero deals 3 shadow damage to target hero or ally.'
 
 regulation:

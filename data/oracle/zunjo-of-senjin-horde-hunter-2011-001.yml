@@ -2,17 +2,20 @@ name: Zunjo of Sen'jin
 
 origin: horde-hunter-2011-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 2 , Flip Zunjo → Target ally has -4 ATK this turn.'
 
 regulation:

@@ -2,9 +2,11 @@ name: Brom Snowbrow
 
 origin: into-the-mists-001
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

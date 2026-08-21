@@ -2,9 +2,12 @@ name: Soulstealer Adams
 
 origin: tomb-of-the-forgotten-112
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally deals fatal combat damage while attacking, draw a card.
 
 regulation:

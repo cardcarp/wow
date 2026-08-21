@@ -2,12 +2,15 @@ name: Confusion Contagion
 
 origin: arena-grand-melee-event-017
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : When an ally is dealt damage, its controller's hero may deal that much nature damage to target undamaged ally."
 
 regulation:

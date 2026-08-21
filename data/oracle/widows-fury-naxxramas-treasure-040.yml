@@ -2,9 +2,12 @@ name: Widows Fury
 
 origin: naxxramas-treasure-040
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: This weapon has +3 ATK if an ally you controlled was destroyed this turn.
 
 regulation:

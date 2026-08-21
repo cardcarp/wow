@@ -2,9 +2,12 @@ name: Prowl
 
 origin: fires-of-outland-025
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : Your hero has Stealth while in cat form. When your hero deals damage, put Prowl into its owner's hand."
 
 regulation:

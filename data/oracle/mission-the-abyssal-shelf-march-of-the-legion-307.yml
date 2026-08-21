@@ -2,12 +2,15 @@ name: 'Mission: The Abyssal Shelf'
 
 origin: march-of-the-legion-307
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 6 to complete this quest. Reward : Roll six dice one at a time from 6 inches above play. For each die that lands on an opposing ally, put damage on it equal to that roll.'
 
 regulation:

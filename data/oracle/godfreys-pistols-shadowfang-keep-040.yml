@@ -2,12 +2,15 @@ name: Godfreys Pistols
 
 origin: shadowfang-keep-040
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Godfrey strikes with this weapon the first time he attacks each turn. Level 3+ : When this weapon enters play, ready Godfrey when he attacks for the first time this turn.'
 
 regulation:

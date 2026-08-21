@@ -2,9 +2,12 @@ name: Seal of Blood
 
 origin: fires-of-outland-053
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Horde Hero Required Ongoing : When your hero deals combat damage with a weapon to a hero or ally, your hero also deals 2 holy damage to that character and 1 holy damage to itself. 1 , Destroy Seal of Blood → Your hero deals 2 holy damage to target hero or ally and 1 holy damage to itself.'
 
 regulation:

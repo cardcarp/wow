@@ -2,9 +2,12 @@ name: Elven Chain Boots
 
 origin: through-the-dark-portal-253
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 

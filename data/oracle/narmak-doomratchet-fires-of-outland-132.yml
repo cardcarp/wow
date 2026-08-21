@@ -2,9 +2,12 @@ name: Narmak Doomratchet
 
 origin: fires-of-outland-132
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive , Put X damage on your hero → Narmak Doomratchet deals X shadow damage to target ally.
 
 regulation:

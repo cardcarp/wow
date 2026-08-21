@@ -2,9 +2,12 @@ name: Mark of Restoration
 
 origin: tomb-of-the-forgotten-015
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target friendly ally. Ongoing : Attached ally has +2 / +2. When attached ally attacks, it heals damage equal to its ATK from each other friendly hero and ally.'
 
 regulation:

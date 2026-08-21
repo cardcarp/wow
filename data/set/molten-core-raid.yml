@@ -1,6 +1,6 @@
 name: Molten Core Raid
 
-type: raid
+type: Raid
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 53
 
 total: 53
 
-date_release: 2007-05
+date: 2007-05
 
 collection: Molten Core

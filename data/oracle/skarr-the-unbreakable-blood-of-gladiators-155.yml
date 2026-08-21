@@ -2,9 +2,12 @@ name: Skarr the Unbreakable
 
 origin: blood-of-gladiators-155
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Prevent all damage that Arena allies would deal to Skarr.
 
 regulation:

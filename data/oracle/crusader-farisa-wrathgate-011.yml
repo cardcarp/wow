@@ -2,17 +2,20 @@ name: Crusader Farisa
 
 origin: wrathgate-011
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: Flip Farisa, discard a Paladin → Farisa heals 3 damage from target ally. Draw a card.'
 
 regulation:

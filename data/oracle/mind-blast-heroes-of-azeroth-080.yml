@@ -2,9 +2,12 @@ name: Mind Blast
 
 origin: heroes-of-azeroth-080
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 2 shadow damage to target hero or ally. Its controller discards a card for each damage dealt.
 
 regulation:

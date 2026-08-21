@@ -2,9 +2,12 @@ name: Aviana the Reborn
 
 origin: war-of-the-ancients-162
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Nature
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive → Another target Monster ally you control has Assault 2 and Smash this turn. → Another target Monster ally you control has Protector this turn.
 
 regulation:

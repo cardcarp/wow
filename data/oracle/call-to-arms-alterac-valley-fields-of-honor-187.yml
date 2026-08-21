@@ -2,9 +2,11 @@ name: Call To Arms Alterac Valley
 
 origin: fields-of-honor-187
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Medallion of the Alliance
 
 origin: drums-of-war-219
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -22,7 +25,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Put Medallion of the Alliance on the bottom of your deck → Interrupt target ability card that's targeting your hero if it was played by a player. (This item can prevent damage like an armor.)
 
 regulation:

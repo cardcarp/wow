@@ -2,9 +2,12 @@ name: Corvus Promaethon
 
 origin: fields-of-honor-095
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Remove target ability or equipment from the game.
 
 regulation:

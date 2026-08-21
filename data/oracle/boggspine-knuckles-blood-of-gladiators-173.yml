@@ -2,9 +2,12 @@ name: Boggspine Knuckles
 
 origin: blood-of-gladiators-173
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 

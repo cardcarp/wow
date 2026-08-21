@@ -2,9 +2,12 @@ name: Fixate
 
 origin: black-temple-raid-024
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

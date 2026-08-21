@@ -2,9 +2,12 @@ name: Arcane Spikes
 
 origin: drums-of-war-091
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: X
 
@@ -13,7 +16,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals X arcane damage to target ally.
 
 regulation:

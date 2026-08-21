@@ -2,16 +2,19 @@ name: Blood and Thunder!
 
 origin: war-of-the-ancients-077
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put two 2 / 2 Orc Warrior ally tokens into play with Ferocity and "This ally can attack only heroes."
 
 regulation:

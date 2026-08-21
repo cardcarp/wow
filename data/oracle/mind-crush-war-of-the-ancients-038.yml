@@ -2,9 +2,12 @@ name: Mind Crush
 
 origin: war-of-the-ancients-038
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target opponent chooses and destroys an ally he controls. Remove cards from the top of that player's deck from the game equal to the ATK of that destroyed ally.
 
 regulation:

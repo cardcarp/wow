@@ -2,9 +2,12 @@ name: Overpowered Chicken Splitter
 
 origin: tomb-of-the-forgotten-191
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this weapon enters play, you pay 4 less to strike with it this turn.
 
 regulation:

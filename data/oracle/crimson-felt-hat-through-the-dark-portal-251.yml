@@ -2,9 +2,12 @@ name: Crimson Felt Hat
 
 origin: through-the-dark-portal-251
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ability, you may exhaust target armor.
 
 regulation:

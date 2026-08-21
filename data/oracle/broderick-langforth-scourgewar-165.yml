@@ -2,9 +2,12 @@ name: Broderick Langforth
 
 origin: scourgewar-165
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: While this ally is in your graveyard, your hero has Assault 1 .
 
 regulation:

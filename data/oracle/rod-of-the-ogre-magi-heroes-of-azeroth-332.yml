@@ -2,9 +2,12 @@ name: Rod of the Ogre Magi
 
 origin: heroes-of-azeroth-332
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , , Exhaust your hero → Your hero deals 1 damage to target hero or ally.
 
 regulation:

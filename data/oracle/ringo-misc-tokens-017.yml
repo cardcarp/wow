@@ -2,9 +2,11 @@ name: Ringo
 
 origin: misc-tokens-017
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

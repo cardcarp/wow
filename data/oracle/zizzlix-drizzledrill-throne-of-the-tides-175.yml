@@ -2,9 +2,12 @@ name: Zizzlix Drizzledrill
 
 origin: throne-of-the-tides-175
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opponents can't target this ally.
 
 regulation:

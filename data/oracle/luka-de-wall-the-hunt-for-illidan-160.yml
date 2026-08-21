@@ -2,9 +2,11 @@ name: Lu'ka de Wall
 
 origin: the-hunt-for-illidan-160
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

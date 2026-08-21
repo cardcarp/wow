@@ -2,9 +2,12 @@ name: Totemic Cleanse
 
 origin: battle-of-the-aspects-treasure-025
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

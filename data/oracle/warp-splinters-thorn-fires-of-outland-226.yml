@@ -2,9 +2,12 @@ name: Warp Splinters Thorn
 
 origin: fires-of-outland-226
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Dual Wield . 1 , Destroy one of your Daggers → Your hero deals 2 ranged damage to target ally.
 
 regulation:

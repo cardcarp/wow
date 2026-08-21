@@ -2,9 +2,12 @@ name: Juggernaut
 
 origin: worldbreaker-118
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Arms Talent Exhaust all opposing heroes and allies. Your hero has Assault 3 this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Naroku Sunsteppe
 
 origin: battle-of-the-aspects-treasure-042
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector This ally has +2 / +2 while you control another ally, an ability, and an equipment.
 
 regulation:

@@ -2,12 +2,15 @@ name: Throne of the Tides
 
 origin: throne-of-the-tides-263
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , → Delve
 
 regulation:

@@ -2,9 +2,12 @@ name: Mind Wipe
 
 origin: battle-of-the-aspects-treasure-017
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Choose "ability", "ally", or "equipment,", and then target player discards a random card. If he discarded a card that has the chosen type, he discards another random card.
 
 regulation:

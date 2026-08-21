@@ -2,14 +2,17 @@ name: Flame Breath
 
 origin: onyxias-lair-raid-015
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
 rule:
-  - type: ability
+  - type: Ability
     text: Onyxia deals X fire damage to each opposing hero and ally, where X is the current stage.
 
 regulation:

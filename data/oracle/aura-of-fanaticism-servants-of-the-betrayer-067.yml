@@ -2,9 +2,12 @@ name: Aura of Fanaticism
 
 origin: servants-of-the-betrayer-067
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Traitor Hero Required Ongoing : Your hero has +1 ATK for each ally in your party. Allies in your party have -1 health.'
 
 regulation:

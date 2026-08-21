@@ -2,9 +2,12 @@ name: Tempest, Son-of-Storms
 
 origin: fires-of-outland-188
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 

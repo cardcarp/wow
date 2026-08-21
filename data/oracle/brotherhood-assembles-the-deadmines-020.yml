@@ -2,9 +2,11 @@ name: Brotherhood Assembles
 
 origin: the-deadmines-020
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

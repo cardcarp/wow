@@ -2,9 +2,11 @@ name: Master Shang Xi
 
 origin: into-the-mists-264
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

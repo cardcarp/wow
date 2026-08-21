@@ -2,9 +2,11 @@ name: Siphon Soul
 
 origin: echoes-of-thunder-077
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

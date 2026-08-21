@@ -2,20 +2,23 @@ name: Vorix Zorbuzz
 
 origin: worldbreaker-019
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 → Flip Vorix
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: If Vorix would deal melee damage, he deals that much nature damage +1 instead.
 
 regulation:

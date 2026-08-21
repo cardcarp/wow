@@ -2,9 +2,12 @@ name: Crown of the Ogre King
 
 origin: crown-of-the-heavens-171
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Heroes and allies you control with Smash have Assault 3 .
 
 regulation:

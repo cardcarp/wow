@@ -2,9 +2,12 @@ name: Atani of the Watch
 
 origin: servants-of-the-betrayer-187
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aldor Reputation If damage would be dealt to your hero, it's dealt to Atani instead.
 
 regulation:

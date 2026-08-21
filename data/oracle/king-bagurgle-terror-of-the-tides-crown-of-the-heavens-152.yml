@@ -2,9 +2,12 @@ name: King Bagurgle, Terror of the Tides
 
 origin: crown-of-the-heavens-152
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: This and other Murloc allies you control have +2 / +2. At the start of your turn, put a 1 / 1 Murloc Monster ally token into play.
 
 regulation:

@@ -2,9 +2,11 @@ name: Frozen Veins
 
 origin: siege-of-orgrimmar-treasure-003
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

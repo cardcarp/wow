@@ -2,9 +2,12 @@ name: Alethar the Blightspreader
 
 origin: reign-of-fire-069
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Haste 3 If an ally you controlled dealt damage to an opposing hero this turn, you can play this ally from your graveyard.
 
 regulation:

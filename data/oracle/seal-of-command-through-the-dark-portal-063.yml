@@ -2,9 +2,12 @@ name: Seal of Command
 
 origin: through-the-dark-portal-063
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Retribution Hero Required Ongoing : When your hero deals combat damage with a weapon to a hero or ally, your hero then deals 2 holy damage to that character. 1 , Destroy Seal of Command → Your hero deals 4 holy damage to target exhausted hero or ally.'
 
 regulation:

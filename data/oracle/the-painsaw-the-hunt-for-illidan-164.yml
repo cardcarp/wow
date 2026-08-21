@@ -2,9 +2,12 @@ name: '"The Painsaw"'
 
 origin: the-hunt-for-illidan-164
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When The Painsaw enters play, you may destroy target ready weapon.
 
 regulation:

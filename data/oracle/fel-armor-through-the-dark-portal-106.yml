@@ -2,9 +2,12 @@ name: Fel Armor
 
 origin: through-the-dark-portal-106
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '8'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : If your hero would deal damage with an ability, it deals that much damage +2 instead. If a hero or ally would heal damage from your hero, it heals that much damage +2 instead.'
 
 regulation:

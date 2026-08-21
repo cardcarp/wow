@@ -2,9 +2,12 @@ name: Chain Heal
 
 origin: fires-of-outland-074
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target up to three heroes and/or allies. Your hero heals 3, 2, and 1 damage from them, respectively.
 
 regulation:

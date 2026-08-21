@@ -2,9 +2,11 @@ name: 'Sha-lymorph: Rabbit'
 
 origin: echoes-of-thunder-036
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

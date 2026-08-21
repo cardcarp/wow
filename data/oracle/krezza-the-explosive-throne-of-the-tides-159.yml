@@ -2,9 +2,12 @@ name: Krezza the Explosive
 
 origin: throne-of-the-tides-159
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally deals damage to an opposing hero, she also deals 2 arcane damage to target opposing ally.
 
 regulation:

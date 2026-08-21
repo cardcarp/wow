@@ -2,9 +2,12 @@ name: Flame Imps
 
 origin: molten-core-raid-035
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 2
 

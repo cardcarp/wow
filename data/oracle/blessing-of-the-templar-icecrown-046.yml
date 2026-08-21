@@ -2,9 +2,12 @@ name: Blessing of the Templar
 
 origin: icecrown-046
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target hero. Ongoing : Attached hero has Assault 3 and Mend 3 .'
 
 regulation:

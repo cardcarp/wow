@@ -2,9 +2,12 @@ name: Robes of Arugal
 
 origin: dungeon-treasure-041
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an ally enters play under your control or a friendly player's control, it may deal 1 arcane damage to target hero.
 
 regulation:

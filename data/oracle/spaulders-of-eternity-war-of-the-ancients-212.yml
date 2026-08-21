@@ -2,9 +2,12 @@ name: Spaulders of Eternity
 
 origin: war-of-the-ancients-212
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor enters play, your hero has +1 ATK this turn for each ally you control.
 
 regulation:

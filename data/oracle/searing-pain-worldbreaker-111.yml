@@ -2,9 +2,12 @@ name: Searing Pain
 
 origin: worldbreaker-111
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 2 fire damage to target hero or ally, plus an additional 2 for each card you control.
 
 regulation:

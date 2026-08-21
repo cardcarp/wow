@@ -2,9 +2,12 @@ name: Pit Lords Destroyer
 
 origin: war-of-the-ancients-227
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage with this weapon, if you control a Monster hero or ally, you may add a +1 ATK counter to this weapon.
 
 regulation:

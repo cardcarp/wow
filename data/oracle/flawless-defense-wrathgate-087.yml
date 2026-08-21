@@ -2,9 +2,12 @@ name: Flawless Defense
 
 origin: wrathgate-087
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Your hero has Protector . Your hero has +1 ATK while defending.'
 
 regulation:

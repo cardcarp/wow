@@ -2,9 +2,12 @@ name: Night Elf Arcanist
 
 origin: betrayal-of-the-guardian-080
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Haste 3
 
 regulation:

@@ -2,9 +2,12 @@ name: Wasteland Tallstrider
 
 origin: throne-of-the-tides-219
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity When this ally attacks, you may reveal the top card of your deck. If you revealed a quest or location this way, this and other allies you control have +2 ATK and Ferocity this turn.
 
 regulation:

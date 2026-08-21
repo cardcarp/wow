@@ -2,9 +2,11 @@ name: Warlords Arsenal
 
 origin: warlords-of-the-iron-horde-110
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

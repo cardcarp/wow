@@ -2,9 +2,12 @@ name: Cold Bones
 
 origin: icecrown-033
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Frost Resistance Your hero has Frost Resistance .
 
 regulation:

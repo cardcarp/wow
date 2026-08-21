@@ -2,9 +2,12 @@ name: Aura of Anger
 
 origin: black-temple-raid-014
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Traitor Hero Required Ongoing : Heroes and allies in your party have +1 ATK when attacking damaged heroes and allies.'
 
 regulation:

@@ -2,17 +2,20 @@ name: Savin Lightguard
 
 origin: through-the-dark-portal-006
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 6 , Flip Savin Lightguard → Destroy all allies that dealt combat damage to Savin this turn.
 
 regulation:

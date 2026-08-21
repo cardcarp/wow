@@ -2,9 +2,12 @@ name: Chief Researcher Kartos
 
 origin: drums-of-war-117
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you complete your first quest each turn, you may ready all resources exhausted to complete it.
 
 regulation:

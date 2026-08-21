@@ -1,6 +1,6 @@
 name: Caverns of Time Token
 
-type: raid
+type: Raid
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 2
 
 total: 2
 
-date_release: 2013-04
+date: 2013-04
 
 collection: Caverns of Time

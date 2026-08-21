@@ -2,15 +2,18 @@ name: Echo of Sylvanas
 
 origin: caverns-of-time-raid-003
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: "Flip 2 , Assault 3 , Long-Range Entrance : Put a 3 / 3 Ghoul ally token into play for each Caverns hero that has been defeated. At the start of Sylvanas' turn, put a 3 / 3 Ghoul ally token into play. Then, if she controls five or more Ghouls, she deals 10 shadow damage to each Raiding hero."
 
 regulation:

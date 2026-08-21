@@ -2,9 +2,12 @@ name: Enduring Winter
 
 origin: worldbreaker-053
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Frost Hero Required Attach to target ability or equipment. Ongoing : Attached card can't be destroyed."
 
 regulation:

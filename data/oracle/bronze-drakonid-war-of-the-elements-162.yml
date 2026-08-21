@@ -2,9 +2,12 @@ name: Bronze Drakonid
 
 origin: war-of-the-elements-162
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Arcane
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, if you control no ready resources, you may ready target ally.
 
 regulation:

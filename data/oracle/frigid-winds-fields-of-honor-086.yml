@@ -2,9 +2,12 @@ name: Frigid Winds
 
 origin: fields-of-honor-086
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

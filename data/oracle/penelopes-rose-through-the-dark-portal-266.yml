@@ -2,9 +2,12 @@ name: Penelopes Rose
 
 origin: through-the-dark-portal-266
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you complete a quest, draw a card.
 
 regulation:

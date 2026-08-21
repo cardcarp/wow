@@ -2,9 +2,12 @@ name: Chief Apothecary Hildagard
 
 origin: the-hunt-for-illidan-149
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Hildagard deals combat damage to a hero, destroy that hero.
 
 regulation:

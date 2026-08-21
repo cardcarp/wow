@@ -2,9 +2,12 @@ name: Roke the Ice Baron
 
 origin: servants-of-the-betrayer-153
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive allies you control have " → Target ally can't attack this turn."
 
 regulation:

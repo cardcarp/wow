@@ -2,9 +2,12 @@ name: Ashenvale Archer
 
 origin: reign-of-fire-071
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, if you control an ally with cost 4 or more, this ally deals 2 ranged damage to target hero.
 
 regulation:

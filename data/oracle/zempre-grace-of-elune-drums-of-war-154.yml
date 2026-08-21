@@ -2,9 +2,12 @@ name: Zempre, Grace of Elune
 
 origin: drums-of-war-154
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Night Elf Hero Required Shadowmeld Prevent all damage that would be dealt to your hero while Zempre is exhausted.
 
 regulation:

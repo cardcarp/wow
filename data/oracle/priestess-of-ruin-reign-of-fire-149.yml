@@ -2,9 +2,12 @@ name: Priestess of Ruin
 
 origin: reign-of-fire-149
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, Portal .
 
 regulation:

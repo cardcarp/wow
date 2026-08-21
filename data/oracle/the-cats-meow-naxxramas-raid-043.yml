@@ -2,16 +2,19 @@ name: The Cats Meow
 
 origin: naxxramas-raid-043
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Raid
 
 stage: 3
 
 rule:
-  - type: ability
+  - type: Ability
     text: If Mr. Bigglesworth is in play, he heals 5 damage from each raiding hero, and each raider draws a card. Otherwise, the Boss deals 5 meowlee damage to each raiding hero, and each raider discards a card.
 
 regulation:

@@ -2,9 +2,12 @@ name: Nessera Gildenrose
 
 origin: war-of-the-elements-121
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 → Another target ally has Assault 1 this turn.
 
 regulation:

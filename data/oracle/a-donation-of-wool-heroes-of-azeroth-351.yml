@@ -2,12 +2,15 @@ name: A Donation of Wool
 
 origin: heroes-of-azeroth-351
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 1 to complete this quest. Reward : Draw a card, then discard a card.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Superior Mana Oil
 
 origin: magtheridons-lair-treasure-017
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -18,7 +21,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Superior Mana Oil enters play attached to one of your weapons. At the start of your turn, you may reveal the top card of your deck. If it's an ability card, put it into your hand. Otherwise, put it into your graveyard.
 
 regulation:

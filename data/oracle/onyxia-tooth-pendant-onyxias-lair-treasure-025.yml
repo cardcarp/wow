@@ -2,9 +2,12 @@ name: Onyxia Tooth Pendant
 
 origin: onyxias-lair-treasure-025
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Friendly allies have +2 ATK while attacking.
 
 regulation:

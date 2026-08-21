@@ -2,9 +2,11 @@ name: Templars Verdict
 
 origin: warlords-of-the-iron-horde-050
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

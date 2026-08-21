@@ -2,9 +2,12 @@ name: Curse of Exhaustion
 
 origin: the-hunt-for-illidan-098
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '9'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Affliction Hero Required Target player skips his next turn.
 
 regulation:

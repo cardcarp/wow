@@ -2,9 +2,12 @@ name: Nasala Silvertree
 
 origin: battle-of-the-aspects-treasure-036
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of each player's turn, put a 1 / 1 Treant ally token into play.
 
 regulation:

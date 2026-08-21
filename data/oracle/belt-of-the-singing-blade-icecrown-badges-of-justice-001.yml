@@ -2,9 +2,12 @@ name: Belt of the Singing Blade
 
 origin: icecrown-badges-of-justice-001
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you draw a card, add a verse counter. , Remove three verse counters → Target weapon has Assault 3 this turn.
 
 regulation:

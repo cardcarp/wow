@@ -2,9 +2,12 @@ name: Biting Wind
 
 origin: tomb-of-the-forgotten-184
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 , → Your hero deals 1 frost damage to target hero or ally. A character dealt damage this way can't attack or protect this turn.
 
 regulation:

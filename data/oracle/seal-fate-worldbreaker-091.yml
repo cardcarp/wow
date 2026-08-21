@@ -2,9 +2,12 @@ name: Seal Fate
 
 origin: worldbreaker-091
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Assassination Hero Required As an additional cost to play this ability, put the top five cards of your deck into your graveyard. Your hero deals melee damage to target hero or ally equal to the number of abilities put into your graveyard this way.
 
 regulation:

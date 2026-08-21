@@ -2,9 +2,11 @@ name: Blood Guard Pugg
 
 origin: echoes-of-thunder-131
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

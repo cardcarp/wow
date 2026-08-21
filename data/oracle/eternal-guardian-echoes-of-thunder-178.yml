@@ -2,9 +2,11 @@ name: Eternal Guardian
 
 origin: echoes-of-thunder-178
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Wrathtide Longbow
 
 origin: servants-of-the-betrayer-244
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with Wrathtide Longbow, your hero has Long-Range this combat. When an opposing ally enters play, your hero deals 1 ranged damage to it.
 
 regulation:

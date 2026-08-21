@@ -2,9 +2,12 @@ name: Wraith Scythe
 
 origin: heroes-of-azeroth-339
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage, it heals that amount of damage from itself.
 
 regulation:

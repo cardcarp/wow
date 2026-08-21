@@ -2,20 +2,23 @@ name: Aric Stonejack
 
 origin: war-of-the-elements-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 7 → Flip Aric
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: At the end of your turn, if you do not control a Ghoul, put a 3 / 3 Ghoul ally token into play.
 
 regulation:

@@ -2,9 +2,12 @@ name: Loraala
 
 origin: drums-of-war-135
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Loraala can't attack. → Loraala deals 3 fire damage to target hero.
 
 regulation:

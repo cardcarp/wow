@@ -2,9 +2,12 @@ name: Alyna Sunshower
 
 origin: crown-of-the-heavens-102
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive Mend 1
 
 regulation:

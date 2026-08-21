@@ -2,9 +2,12 @@ name: Touch of Ice
 
 origin: march-of-the-legion-052
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

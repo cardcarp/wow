@@ -2,9 +2,11 @@ name: Ignite Weapon
 
 origin: warlords-of-the-iron-horde-088
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

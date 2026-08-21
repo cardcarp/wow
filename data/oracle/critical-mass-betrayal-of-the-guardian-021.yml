@@ -2,9 +2,12 @@ name: Critical Mass
 
 origin: betrayal-of-the-guardian-021
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Fire Talent Reveal cards from the top of your deck until you reveal two cards with the same cost. Your hero deals 1 fire damage to each opposing hero and ally for each card revealed this way. Then shuffle those revealed cards in your deck.
 
 regulation:

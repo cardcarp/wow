@@ -2,9 +2,11 @@ name: Thok The Bloodthirsty
 
 origin: siege-of-orgrimmar-043
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

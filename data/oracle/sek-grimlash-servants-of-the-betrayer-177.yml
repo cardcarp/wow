@@ -2,9 +2,12 @@ name: Sek Grimlash
 
 origin: servants-of-the-betrayer-177
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , Destroy another ally in your party → Put a Demon ally card from your graveyard into play if its cost is less than or equal to the number of resources you have.
 
 regulation:

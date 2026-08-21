@@ -2,9 +2,11 @@ name: Tresven the Unyielding
 
 origin: into-the-mists-190
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

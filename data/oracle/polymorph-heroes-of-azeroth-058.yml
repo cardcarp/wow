@@ -2,9 +2,12 @@ name: Polymorph
 
 origin: heroes-of-azeroth-058
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target ally. Ongoing : Attached ally can't attack or protect, loses and can't have powers, and is also a Sheep."
 
 regulation:

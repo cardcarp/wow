@@ -2,9 +2,11 @@ name: Domination Keep
 
 origin: into-the-mists-326
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

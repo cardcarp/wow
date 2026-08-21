@@ -2,9 +2,12 @@ name: Greathelm of the Scourge Champion
 
 origin: death-knight-starter-021
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Greathelm of the Scourge Champion is destroyed, you may put it from its owner's graveyard into his hand at the start of the next turn.
 
 regulation:

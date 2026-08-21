@@ -2,9 +2,12 @@ name: Tempest of Chaos
 
 origin: blood-of-gladiators-185
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, target a random opposing hero or ally. Put a chaos counter on Tempest of Chaos, and then your hero deals 1 fire damage to that character for each chaos counter.
 
 regulation:

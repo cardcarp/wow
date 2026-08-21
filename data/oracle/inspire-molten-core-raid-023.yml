@@ -2,9 +2,12 @@ name: Inspire
 
 origin: molten-core-raid-023
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

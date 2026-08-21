@@ -1,3 +1,5 @@
+oracle: xera-monk-starter-006
+
 index: '006'
 
 rarity: Common
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: ''
-
-oracle: xera-monk-starter-006
 
 set: Monk Starter

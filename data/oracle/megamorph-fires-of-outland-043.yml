@@ -2,9 +2,12 @@ name: Megamorph
 
 origin: fires-of-outland-043
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '8'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Target any number of allies in one party. Ongoing : Those allies can't attack or protect, lose all powers, and are Sheep."
 
 regulation:

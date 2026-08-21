@@ -2,9 +2,11 @@ name: 'Battlefield: Barrens'
 
 origin: echoes-of-thunder-307
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

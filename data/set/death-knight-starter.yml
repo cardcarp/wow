@@ -1,6 +1,6 @@
 name: Death Knight Starter
 
-type: starter
+type: Starter
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 27
 
 total: 27
 
-date_release: 2009-06
+date: 2009-06
 
 collection: Death Knight Starter

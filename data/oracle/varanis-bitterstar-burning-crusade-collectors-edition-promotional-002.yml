@@ -2,17 +2,20 @@ name: Varanis Bitterstar
 
 origin: burning-crusade-collectors-edition-promotional-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 , Flip Varanis Bitterstar → Varanis deals 2 arcane damage to target hero or ally. Draw a card. Use only on your turn.
 
 regulation:

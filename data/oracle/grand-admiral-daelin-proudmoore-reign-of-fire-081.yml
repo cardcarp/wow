@@ -2,9 +2,12 @@ name: Grand Admiral Daelin Proudmoore
 
 origin: reign-of-fire-081
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector While you control a Jaina ally, allies you control have Assault 1 for each exhausted opposing resource.
 
 regulation:

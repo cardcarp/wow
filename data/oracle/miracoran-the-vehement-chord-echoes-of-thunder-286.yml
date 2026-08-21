@@ -2,9 +2,11 @@ name: Miracoran, the Vehement Chord
 
 origin: echoes-of-thunder-286
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

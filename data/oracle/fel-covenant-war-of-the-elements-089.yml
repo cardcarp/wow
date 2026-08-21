@@ -2,9 +2,12 @@ name: Fel Covenant
 
 origin: war-of-the-elements-089
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

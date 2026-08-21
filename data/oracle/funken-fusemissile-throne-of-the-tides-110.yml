@@ -2,9 +2,12 @@ name: Funken Fusemissile
 
 origin: throne-of-the-tides-110
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 

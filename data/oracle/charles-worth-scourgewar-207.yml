@@ -2,9 +2,12 @@ name: Charles Worth
 
 origin: scourgewar-207
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Arcane
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has Mend X , where X is the combined of Cloth armor you control.
 
 regulation:

@@ -2,9 +2,12 @@ name: Mirror Image
 
 origin: scourgewar-056
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put three 0 / 1 Mirror ally tokens into play with "If damage would be dealt to your hero, it's dealt to a random hero or Mirror you control instead."
 
 regulation:

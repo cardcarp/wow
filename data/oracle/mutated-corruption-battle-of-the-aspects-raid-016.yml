@@ -2,14 +2,17 @@ name: Mutated Corruption
 
 origin: battle-of-the-aspects-raid-016
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to the MARKED hero. Its controller chooses and exhausts two resources he controls. Ongoing : The chosen resources can't ready. At the start of Deathwing's turn, he deals 3 melee damage to attached hero. If Deathwing is dealt 8 or more damage in one turn, destroy this ability."
 
 regulation:

@@ -2,9 +2,11 @@ name: Crimson Tempest
 
 origin: into-the-mists-074
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

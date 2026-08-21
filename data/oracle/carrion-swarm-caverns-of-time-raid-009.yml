@@ -2,14 +2,17 @@ name: Carrion Swarm
 
 origin: caverns-of-time-raid-009
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: "The Caverns hero deals 4 shadow damage to each Raiding hero, and 2 shadow damage to each Raiding ally. Ongoing : Raiding heroes and allies can't be healed. When a Caverns hero is defeated, destroy this ability."
 
 regulation:

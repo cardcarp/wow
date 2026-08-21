@@ -2,9 +2,12 @@ name: Evasion
 
 origin: servants-of-the-betrayer-091
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Prevent all combat damage that would be dealt to your hero.'
 
 regulation:

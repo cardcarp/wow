@@ -2,9 +2,12 @@ name: Cryptfiends Bite
 
 origin: naxxramas-treasure-031
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with this weapon on an opponent's turn, put two 1 / 1 Scarab ally tokens into play.
 
 regulation:

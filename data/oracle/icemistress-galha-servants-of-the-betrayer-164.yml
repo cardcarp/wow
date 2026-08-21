@@ -2,9 +2,12 @@ name: Icemistress Gal'ha
 
 origin: servants-of-the-betrayer-164
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each opponent's maximum hand size is reduced by one for each ally in your party.
 
 regulation:

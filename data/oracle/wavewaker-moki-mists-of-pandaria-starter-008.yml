@@ -2,9 +2,11 @@ name: Wavewaker Moki
 
 origin: mists-of-pandaria-starter-008
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

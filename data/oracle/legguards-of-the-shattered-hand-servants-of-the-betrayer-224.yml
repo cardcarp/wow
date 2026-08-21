@@ -2,9 +2,12 @@ name: Legguards of the Shattered Hand
 
 origin: servants-of-the-betrayer-224
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Destroy target ally with damage.
 
 regulation:

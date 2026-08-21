@@ -2,9 +2,11 @@ name: Vordraka
 
 origin: into-the-mists-247
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Heros Surrender
 
 origin: icecrown-173
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing heroes lose and can't have powers. Your hero can protect against opposing heroes.
 
 regulation:

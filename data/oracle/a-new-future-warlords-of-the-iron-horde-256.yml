@@ -2,9 +2,11 @@ name: A New Future
 
 origin: warlords-of-the-iron-horde-256
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

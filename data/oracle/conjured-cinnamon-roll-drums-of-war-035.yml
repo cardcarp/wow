@@ -2,9 +2,12 @@ name: Conjured Cinnamon Roll
 
 origin: drums-of-war-035
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : 1 , Destroy Conjured Cinnamon Roll → Your hero heals 1 damage from itself for each of your resources. 1 → Target player gains control of Conjured Cinnamon Roll.'
 
 regulation:

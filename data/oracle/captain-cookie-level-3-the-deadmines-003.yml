@@ -2,9 +2,12 @@ name: Captain Cookie - Level 3
 
 origin: the-deadmines-003
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 damage: 0
 
@@ -15,8 +18,8 @@ combat: Nature
 type: Dungeon
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'Level Up: Dead Flip 3 Assault 10 , Long-Range'
 
 regulation:

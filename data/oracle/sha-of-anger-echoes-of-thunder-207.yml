@@ -2,9 +2,11 @@ name: Sha of Anger
 
 origin: echoes-of-thunder-207
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

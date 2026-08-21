@@ -2,9 +2,12 @@ name: Aileen the Thunderblessed
 
 origin: worldbreaker-128
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Exhaust a card you control → This ally deals nature damage to target hero or ally equal to that card's ATK.
 
 regulation:

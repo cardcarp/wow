@@ -2,12 +2,15 @@ name: The Well of Eternity
 
 origin: war-of-the-ancients-239
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If you control two or more allies that share a or race: Pay 2 to complete this quest. Reward : Draw a card.'
 
 regulation:

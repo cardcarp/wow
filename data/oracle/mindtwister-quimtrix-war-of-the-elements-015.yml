@@ -2,20 +2,23 @@ name: Mindtwister Quimtrix
 
 origin: war-of-the-elements-015
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 26
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 → Flip Quimtrix
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: When an ally you control is destroyed, Quimtrix max deal 1 shadow damage to target ally.
 
 regulation:

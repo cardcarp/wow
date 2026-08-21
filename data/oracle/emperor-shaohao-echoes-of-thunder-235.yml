@@ -2,9 +2,11 @@ name: Emperor Shaohao
 
 origin: echoes-of-thunder-235
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

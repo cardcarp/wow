@@ -2,9 +2,11 @@ name: Sha of Pride
 
 origin: siege-of-orgrimmar-039
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Phan'zazt
 
 origin: siege-of-orgrimmar-treasure-028
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Gretta Grindstone
 
 origin: tomb-of-the-forgotten-083
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

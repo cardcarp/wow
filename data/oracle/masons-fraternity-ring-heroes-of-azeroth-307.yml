@@ -2,9 +2,12 @@ name: Masons Fraternity Ring
 
 origin: heroes-of-azeroth-307
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has +1 ATK while attacking.
 
 regulation:

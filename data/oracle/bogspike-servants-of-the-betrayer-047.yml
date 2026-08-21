@@ -2,9 +2,12 @@ name: Bogspike
 
 origin: servants-of-the-betrayer-047
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he may deal 1 melee damage to target ally.
 
 regulation:

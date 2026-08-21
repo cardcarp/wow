@@ -2,9 +2,12 @@ name: Sunhoof Consecrator
 
 origin: caverns-of-time-treasure-050
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ready allies you control have +2 ATK and Spellshield .
 
 regulation:

@@ -2,12 +2,15 @@ name: As the Crow Flies
 
 origin: through-the-dark-portal-312
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Pay 1 to complete this quest. Reward : Look at target player's hand."
 
 regulation:

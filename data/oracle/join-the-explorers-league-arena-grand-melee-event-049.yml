@@ -2,12 +2,15 @@ name: "\"Join the Explorers' League!\""
 
 origin: arena-grand-melee-event-049
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: You can place any number of locations and quests this turn.
 
 regulation:

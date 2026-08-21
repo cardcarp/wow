@@ -2,9 +2,12 @@ name: Deathbringer
 
 origin: onyxias-lair-treasure-029
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage with Deathbringer to an ally, your hero deals that amount of shadow damage to target hero in that ally's party.
 
 regulation:

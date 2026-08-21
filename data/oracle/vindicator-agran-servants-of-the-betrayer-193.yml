@@ -2,9 +2,12 @@ name: Vindicator Agran
 
 origin: servants-of-the-betrayer-193
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Aldor Reputation Protector Inspire: Protector'
 
 regulation:

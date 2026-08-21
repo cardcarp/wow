@@ -1,19 +1,22 @@
 name: Battle of the Aspects
 
-credit: Official Product
-
-category: Raid
-
-facet:
+format:
   - Raid
 
-collection: raid
+group: raid
+
+theme:
+  - Raid
+
+complexity:
+
+division:
 
 highlight: battle-of-the-aspects-raid-001
 
-description: Co-op Automated Raid Experience
+tagline: Co-op Automated Raid Experience
 
-context:
+description:
   - title: The Ultimate Showdown
     body: Team up to challenge an automated Raid Deck representing Deathwing the Destroyer.
   - title: Play as the Aspects
@@ -22,8 +25,6 @@ context:
     body: The set includes Tentacle cards that can be added to ratchet up the difficulty for experienced players, making it flexible for varied skill levels.
   - title: New "Chaos Format" Variant
     body: This set introduces a "Chaos" format, which operates similar to a Commander format with single-copy restrictions, allowing for fresh deck-building strategies.
-
-total: 63
 
 list:
   main:

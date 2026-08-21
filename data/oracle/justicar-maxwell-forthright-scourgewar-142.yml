@@ -2,9 +2,12 @@ name: Justicar Maxwell Forthright
 
 origin: scourgewar-142
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing Rogues have -2 / -2.
 
 regulation:

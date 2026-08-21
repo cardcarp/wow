@@ -2,9 +2,12 @@ name: Val'kyr Shadowguard
 
 origin: assault-on-icecrown-citadel-raid-024
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Raid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Grab and Drop : When this ally enters play, you may destroy target ally.'
 
 regulation:

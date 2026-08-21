@@ -2,9 +2,12 @@ name: Axe of Cenarius
 
 origin: war-of-the-ancients-222
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with this weapon, your hero and this weapon can't ready during your next ready step.
 
 regulation:

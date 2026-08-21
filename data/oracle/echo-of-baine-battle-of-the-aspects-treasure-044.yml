@@ -2,9 +2,12 @@ name: Echo of Baine
 
 origin: battle-of-the-aspects-treasure-044
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Fire
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: While there is an Echo of Baine in your graveyard, prevent all damage that would be dealt to this ally, and he has Ferocity .
 
 regulation:

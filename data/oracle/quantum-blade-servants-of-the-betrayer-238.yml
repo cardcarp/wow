@@ -2,9 +2,12 @@ name: Quantum Blade
 
 origin: servants-of-the-betrayer-238
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Remove the top ten cards of your deck from the game → You pay 5 less the next time you strike with Quantum Blade this turn.
 
 regulation:

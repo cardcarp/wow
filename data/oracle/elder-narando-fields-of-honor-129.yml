@@ -2,9 +2,12 @@ name: Elder Narando
 
 origin: fields-of-honor-129
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Narando readies, he has +2 ATK this turn.
 
 regulation:

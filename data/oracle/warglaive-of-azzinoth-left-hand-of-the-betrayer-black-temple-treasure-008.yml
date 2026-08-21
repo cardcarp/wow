@@ -2,9 +2,12 @@ name: Warglaive of Azzinoth, Left Hand of the Betrayer
 
 origin: black-temple-treasure-008
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Dual Wield while you have another Warglaive. When Warglaive of Azzinoth leaves play, put a Demon ally token named Flame of Azzinoth into play with 3 ATK / 3 health and Ferocity .
 
 regulation:

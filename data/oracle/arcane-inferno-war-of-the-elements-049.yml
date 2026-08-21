@@ -2,9 +2,12 @@ name: Arcane Inferno
 
 origin: war-of-the-elements-049
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Exhaust an ally you control → You pay 1 less to play your next ability this turn, to a minimum of 1 . Exhaust a ally you control → The next time your hero would deal damage with an ability this turn, it deals that much +1 instead.'
 
 regulation:

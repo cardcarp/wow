@@ -2,9 +2,12 @@ name: Iceshriekers Touch
 
 origin: icecrown-193
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: "When your hero turns face down, it deals 1 frost damage to each opposing hero and ally. A character dealt damage this way can't attack or exhaust this turn. Death Rattle : Each player turns his hero face up."
 
 regulation:

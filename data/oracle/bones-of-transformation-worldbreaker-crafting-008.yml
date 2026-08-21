@@ -2,9 +2,12 @@ name: Bones of Transformation
 
 origin: worldbreaker-crafting-008
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Naga allies you control have Assault 3 . On your turn: → Target ally you control is also a Naga this turn, and if it would deal any type of damage this turn, it deals frost damage instead.'
 
 regulation:

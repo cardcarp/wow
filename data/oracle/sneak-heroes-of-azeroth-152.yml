@@ -2,9 +2,12 @@ name: Sneak
 
 origin: heroes-of-azeroth-152
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

@@ -2,9 +2,12 @@ name: Shadows from Beyond
 
 origin: reign-of-fire-035
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Warp Your hero deals 3 shadow damage to target ally. If fatal damage is dealt this way, its controller chooses and discards a card.
 
 regulation:

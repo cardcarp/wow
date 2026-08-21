@@ -2,9 +2,12 @@ name: Vaerik Proudhoof
 
 origin: heroes-of-azeroth-262
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 

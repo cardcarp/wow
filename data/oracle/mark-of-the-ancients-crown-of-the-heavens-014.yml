@@ -2,9 +2,12 @@ name: Mark of the Ancients
 
 origin: crown-of-the-heavens-014
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally you control. Ongoing : Attached ally has +1 / +1 and Harmonize .'
 
 regulation:

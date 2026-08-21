@@ -2,12 +2,15 @@ name: Protect the Master
 
 origin: through-the-dark-portal-038
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : Each deck is also an ally with Protector and 0 ATK / X health, where X is the number of cards in that deck. When a deck is dealt damage, put that many of its cards into its owner's graveyard, then remove that much damage from it. A deck can't leave its owner's party."
 
 regulation:

@@ -2,9 +2,12 @@ name: Jin'dos Judgement
 
 origin: through-the-dark-portal-277
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When a player draws a card, put 1 damage on that player's hero.
 
 regulation:

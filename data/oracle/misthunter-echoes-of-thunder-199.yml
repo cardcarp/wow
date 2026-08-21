@@ -2,9 +2,11 @@ name: Misthunter
 
 origin: echoes-of-thunder-199
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

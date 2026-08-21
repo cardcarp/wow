@@ -2,9 +2,11 @@ name: Sansyrus Coldbones
 
 origin: into-the-mists-182
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

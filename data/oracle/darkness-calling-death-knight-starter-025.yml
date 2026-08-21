@@ -2,12 +2,15 @@ name: Darkness Calling
 
 origin: death-knight-starter-025
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 3 to complete this quest. Reward : Draw two cards, then discard a card.'
 
 regulation:

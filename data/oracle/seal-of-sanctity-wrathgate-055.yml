@@ -2,9 +2,12 @@ name: Seal of Sanctity
 
 origin: wrathgate-055
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : When your hero deals combat damage with a weapon, add a purity counter. Your hero has Mend 1 for each purity counter.'
 
 regulation:

@@ -2,14 +2,17 @@ name: In Defense of Halaa
 
 origin: drums-of-war-240
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 3 to complete this quest. Reward : Draw a card. You may choose a counter on target card in play and add another of those counters to it.'
 
 regulation:

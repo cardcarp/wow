@@ -2,9 +2,12 @@ name: Annihilator
 
 origin: heroes-of-azeroth-312
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Combat damage that your hero would deal with this weapon is unpreventable.
 
 regulation:

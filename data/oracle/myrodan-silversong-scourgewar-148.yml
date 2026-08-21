@@ -2,9 +2,12 @@ name: Myrodan Silversong
 
 origin: scourgewar-148
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally can't attack heroes.
 
 regulation:

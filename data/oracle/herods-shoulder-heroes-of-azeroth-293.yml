@@ -2,9 +2,12 @@ name: Herods Shoulder
 
 origin: heroes-of-azeroth-293
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Herod's Shoulder enters play, you may search your deck for a weapon card and reveal it. If you do, shuffle your deck and put that card on top.
 
 regulation:

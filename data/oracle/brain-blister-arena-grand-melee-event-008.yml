@@ -2,12 +2,15 @@ name: Brain Blister
 
 origin: arena-grand-melee-event-008
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: The Arena deals 1 slap damage to each hero for each card in that hero's controller's hand.
 
 regulation:

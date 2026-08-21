@@ -2,9 +2,12 @@ name: Legacy of Stormrage
 
 origin: war-of-the-ancients-073
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
@@ -13,7 +16,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : When an ally enters play under your control, you may put X 1 / 1 Treant ally tokens into play, where X is that ally's cost. When you play a non-Ongoing ability, you may copy it. (You may choose new targets for the copy.)"
 
 regulation:

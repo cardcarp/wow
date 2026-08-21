@@ -2,9 +2,11 @@ name: Amani Divining Staff
 
 origin: echoes-of-thunder-274
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

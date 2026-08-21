@@ -2,9 +2,12 @@ name: Barnathrum, Lord of Pain
 
 origin: through-the-dark-portal-155
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , → Double the damage on each ally.
 
 regulation:

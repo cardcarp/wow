@@ -1,6 +1,6 @@
 name: The Hunt for Illidan
 
-type: set
+type: Standard
 
 index: '03'
 
@@ -8,6 +8,6 @@ subtotal: 252
 
 total: 252
 
-date_release: 2008-06
+date: 2008-06
 
 collection: Burning Crusade

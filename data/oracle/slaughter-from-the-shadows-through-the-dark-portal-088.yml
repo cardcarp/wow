@@ -2,9 +2,12 @@ name: Slaughter from the Shadows
 
 origin: through-the-dark-portal-088
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Play only if your hero has stealth. Destroy all exhausted allies.
 
 regulation:

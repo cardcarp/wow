@@ -2,9 +2,11 @@ name: Brewmaster Tsang
 
 origin: monk-starter-001
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

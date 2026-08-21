@@ -2,9 +2,12 @@ name: Bloodseeker
 
 origin: drums-of-war-222
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with Bloodseeker, your hero has Long-Range this combat. At the end of your turn, if no damage was dealt with Bloodseeker this turn, put 3 damage on your hero.
 
 regulation:

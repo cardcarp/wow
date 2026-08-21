@@ -2,9 +2,12 @@ name: Windguard Totem
 
 origin: throne-of-the-tides-075
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -20,7 +23,7 @@ class:
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : At the start of each opponent's turn, you may ready all allies you control. (Totems can't attack.)"
 
 regulation:

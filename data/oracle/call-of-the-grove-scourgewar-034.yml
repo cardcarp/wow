@@ -2,9 +2,12 @@ name: Call of the Grove
 
 origin: scourgewar-034
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : Each turn, you can place an additional resource if you've placed a quest that turn. Death Rattle : Reveal the top three cards of your deck. Put a revealed quest in your hand and the rest of the bottom of your deck."
 
 regulation:

@@ -2,12 +2,15 @@ name: In Excess
 
 origin: arena-grand-melee-event-045
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : When an ally is dealt damage in excess of its health, put damage on its controller's hero equal to the amount of excess damage dealt."
 
 regulation:

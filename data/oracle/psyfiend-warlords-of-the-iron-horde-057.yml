@@ -2,9 +2,11 @@ name: Psyfiend
 
 origin: warlords-of-the-iron-horde-057
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,20 +2,23 @@ name: Huntsman Gorwal
 
 origin: war-of-the-elements-006
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 5 → Flip Gorwal
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: Pets you control have Ferocity .
 
 regulation:

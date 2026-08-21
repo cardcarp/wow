@@ -2,9 +2,12 @@ name: Mercenary Dominic
 
 origin: dungeon-treasure-031
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Once per turn: 2 → Your hero has Assault 2 this turn.'
 
 regulation:

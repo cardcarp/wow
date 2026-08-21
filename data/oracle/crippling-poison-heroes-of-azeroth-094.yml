@@ -2,9 +2,12 @@ name: Crippling Poison
 
 origin: heroes-of-azeroth-094
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

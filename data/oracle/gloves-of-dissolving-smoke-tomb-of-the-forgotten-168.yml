@@ -2,9 +2,12 @@ name: Gloves of Dissolving Smoke
 
 origin: tomb-of-the-forgotten-168
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an ally you control attacks, your hero has +1 ATK this turn.
 
 regulation:

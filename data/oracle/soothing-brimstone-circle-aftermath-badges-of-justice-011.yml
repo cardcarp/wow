@@ -2,9 +2,12 @@ name: Soothing Brimstone Circle
 
 origin: aftermath-badges-of-justice-011
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: ', Exhaust an ally you control → You pay x less to complete target quest this turn, where X is the cost of that exhausted ally.'
 
 regulation:

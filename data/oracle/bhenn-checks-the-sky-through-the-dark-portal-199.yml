@@ -2,9 +2,12 @@ name: Bhenn Checks-the-Sky
 
 origin: through-the-dark-portal-199
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 

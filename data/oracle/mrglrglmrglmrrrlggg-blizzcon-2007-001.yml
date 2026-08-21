@@ -2,9 +2,12 @@ name: Mrglrglmrglmrrrlggg
 
 origin: blizzcon-2007-001
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Mrglrglmrglmrrrlggg attacks, say "Mrglrglmrglmrrrlggg!" Then, put two Murloc ally tokens with +1 ATK, 1 health, and Ferocity into play.
 
 regulation:

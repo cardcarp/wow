@@ -2,9 +2,12 @@ name: Gavel of Peroth'arn
 
 origin: war-of-the-ancients-225
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ally with cost equal to the number of resources you control, you pay 3 less to strike with this weapon this turn.
 
 regulation:

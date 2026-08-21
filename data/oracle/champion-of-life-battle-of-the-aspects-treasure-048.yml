@@ -2,9 +2,12 @@ name: Champion of Life
 
 origin: battle-of-the-aspects-treasure-048
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: When another ally enters play under your control, this ally heals damage from your hero equal to that ally's cost.
 
 regulation:

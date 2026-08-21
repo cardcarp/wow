@@ -2,9 +2,12 @@ name: Dampen Magic
 
 origin: through-the-dark-portal-048
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

@@ -2,9 +2,12 @@ name: Lothars Edge
 
 origin: betrayal-of-the-guardian-182
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -16,7 +19,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this weapon enters play, if an opponent controls a hero, you pay 3 less to strike with this weapon this turn.
 
 regulation:

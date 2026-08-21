@@ -1,3 +1,5 @@
+oracle: graccus-heroes-of-azeroth-004
+
 index: '004'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: The greatest battles are won not by strength of arm, but strength of will.
-
-oracle: graccus-heroes-of-azeroth-004
 
 set: Heroes of Azeroth

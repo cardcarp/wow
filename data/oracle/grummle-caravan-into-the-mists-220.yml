@@ -2,9 +2,11 @@ name: Grummle Caravan
 
 origin: into-the-mists-220
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

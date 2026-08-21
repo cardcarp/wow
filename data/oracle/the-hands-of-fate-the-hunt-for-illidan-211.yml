@@ -2,9 +2,12 @@ name: The Hands of Fate
 
 origin: the-hunt-for-illidan-211
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: The Hands of Fate enters play with three +1 DEF counters if an opponent went first this game.
 
 regulation:

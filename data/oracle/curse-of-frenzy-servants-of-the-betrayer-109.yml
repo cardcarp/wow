@@ -2,9 +2,12 @@ name: Curse of Frenzy
 
 origin: servants-of-the-betrayer-109
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally. Ongoing : Attached ally must attack if able and can attack only allies if able.'
 
 regulation:

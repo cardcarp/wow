@@ -2,9 +2,11 @@ name: Undead
 
 origin: champion-token-005
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

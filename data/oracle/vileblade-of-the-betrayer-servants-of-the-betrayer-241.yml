@@ -2,9 +2,12 @@ name: Vileblade of the Betrayer
 
 origin: servants-of-the-betrayer-241
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: You may remove a Poison card in hand from the game rather than pay Vileblade of the Betrayer's cost.
 
 regulation:

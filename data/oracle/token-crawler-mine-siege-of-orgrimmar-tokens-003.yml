@@ -2,9 +2,11 @@ name: Token Crawler Mine
 
 origin: siege-of-orgrimmar-tokens-003
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

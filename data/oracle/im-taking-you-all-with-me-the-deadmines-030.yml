@@ -2,14 +2,17 @@ name: "\"I'm Taking You All With Me!\""
 
 origin: the-deadmines-030
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each Raider discards his hand. For each card he discarded this way, that Raider draws a card and the Dungeon hero deals 1 fire damage to his hero.
 
 regulation:

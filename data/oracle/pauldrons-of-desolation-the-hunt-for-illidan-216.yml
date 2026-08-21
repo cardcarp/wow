@@ -2,9 +2,12 @@ name: Pauldrons of Desolation
 
 origin: the-hunt-for-illidan-216
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with a weapon, target ally in your party has Long-Range this turn.
 
 regulation:

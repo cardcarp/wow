@@ -2,9 +2,12 @@ name: Crippling Strike
 
 origin: scourgewar-115
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : → Target ally has -3 ATK while in combat with your hero this turn.'
 
 regulation:

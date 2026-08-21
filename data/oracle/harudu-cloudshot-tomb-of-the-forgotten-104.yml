@@ -2,9 +2,12 @@ name: Harudu Cloudshot
 
 origin: tomb-of-the-forgotten-104
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has +4 ATK while attacking an ally with cost 4 or more.
 
 regulation:

@@ -2,9 +2,11 @@ name: Contal Titanbane
 
 origin: into-the-mists-159
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

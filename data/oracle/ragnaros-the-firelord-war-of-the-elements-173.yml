@@ -2,9 +2,12 @@ name: Ragnaros the Firelord
 
 origin: war-of-the-elements-173
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ health: 6
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: Fire Elementals you control have Ferocity . At the start of your turn, put a 2 / 1 Fire Elemental ally token into play. Destroy a Fire Elemental you control → This ally deals 1 fire damage to target hero or ally.
 
 regulation:

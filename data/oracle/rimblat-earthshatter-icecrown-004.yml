@@ -2,9 +2,12 @@ name: Rimblat Earthshatter
 
 origin: icecrown-004
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
@@ -12,11 +15,11 @@ class:
   - Shaman
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Argent Crusade Reputation Flip Rimblat, remove a Shaman in your graveyard from the game → Destroy target ability that's not attached to a friendly card.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: "Deckbuilding : You can only include either or cards, cards, Elemental talents, neutral cards, and Argent Crusade cards. You can't include cards with other reputations or other text restrictions."
 
 regulation:

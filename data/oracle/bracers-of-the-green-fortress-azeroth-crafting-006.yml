@@ -2,9 +2,12 @@ name: Bracers of the Green Fortress
 
 origin: azeroth-crafting-006
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each of your face-down resources is also an armor with 1 DEF.
 
 regulation:

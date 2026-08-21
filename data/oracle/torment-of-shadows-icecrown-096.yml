@@ -2,9 +2,12 @@ name: Torment of Shadows
 
 origin: icecrown-096
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target hero or ally. Ongoing : At the start of your turn, your hero deals X shadow damage to attached character, where X is the cost of a non-hero Priest or Warlock you control.'
 
 regulation:

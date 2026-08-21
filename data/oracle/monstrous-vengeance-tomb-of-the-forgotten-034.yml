@@ -2,9 +2,12 @@ name: Monstrous Vengeance
 
 origin: tomb-of-the-forgotten-034
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

@@ -2,9 +2,12 @@ name: Lady Naz'jar
 
 origin: throne-of-the-tides-206
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Frost
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 , Exhaust two Naga heroes and/or allies you control → Naz'jar deals 5 frost damage to target hero or ally. A character dealt damage this way can't attack or exhaust this turn.
 
 regulation:

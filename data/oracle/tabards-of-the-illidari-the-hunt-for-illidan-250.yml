@@ -2,12 +2,15 @@ name: Tabards of the Illidari
 
 origin: the-hunt-for-illidan-250
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If you control an ally: Pay 2 to complete this quest. Reward : Draw a card.'
 
 regulation:

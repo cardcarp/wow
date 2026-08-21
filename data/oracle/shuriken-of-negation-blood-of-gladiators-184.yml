@@ -2,9 +2,12 @@ name: Shuriken of Negation
 
 origin: blood-of-gladiators-184
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 

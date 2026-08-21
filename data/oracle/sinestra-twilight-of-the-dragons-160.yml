@@ -2,9 +2,12 @@ name: Sinestra
 
 origin: twilight-of-the-dragons-160
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ferocity On your turn: Destroy another non-token ability, ally, or equipment you control → Put two 1 / 1 Twilight Dragonkin ally tokens into play with Ferocity .'
 
 regulation:

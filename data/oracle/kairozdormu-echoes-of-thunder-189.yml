@@ -2,9 +2,11 @@ name: Kairozdormu
 
 origin: echoes-of-thunder-189
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Kolorath
 
 origin: throne-of-the-tides-213
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Frost
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Kolorath enters play, put all non- allies into their owners' hands.
 
 regulation:

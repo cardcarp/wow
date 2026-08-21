@@ -2,17 +2,20 @@ name: Marlowe Christophers
 
 origin: servants-of-the-betrayer-004
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 6 , Flip Marlowe → Target hero or ally has -5 this turn.'
 
 regulation:

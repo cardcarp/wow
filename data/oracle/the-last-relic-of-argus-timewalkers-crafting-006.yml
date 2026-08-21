@@ -2,9 +2,12 @@ name: The Last Relic of Argus
 
 origin: timewalkers-crafting-006
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to complete quests. When you complete a quest, your hero heals 3 damage from itself.
 
 regulation:

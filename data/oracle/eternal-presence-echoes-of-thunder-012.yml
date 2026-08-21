@@ -2,9 +2,11 @@ name: Eternal Presence
 
 origin: echoes-of-thunder-012
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

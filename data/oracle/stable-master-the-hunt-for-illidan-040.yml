@@ -2,9 +2,12 @@ name: Stable Master
 
 origin: the-hunt-for-illidan-040
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : You can control an additional Pet.'
 
 regulation:

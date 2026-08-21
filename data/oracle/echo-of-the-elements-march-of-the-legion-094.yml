@@ -2,9 +2,12 @@ name: Echo of the Elements
 
 origin: march-of-the-legion-094
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : When your hero heals damage, it also deals that much nature damage to target opposing ally.'
 
 regulation:

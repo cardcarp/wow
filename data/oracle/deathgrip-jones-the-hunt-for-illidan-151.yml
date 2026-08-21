@@ -2,9 +2,12 @@ name: '"Deathgrip" Jones'
 
 origin: the-hunt-for-illidan-151
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Your weapons can't be targeted by opponents.
 
 regulation:

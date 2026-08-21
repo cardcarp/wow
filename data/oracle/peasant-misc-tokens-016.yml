@@ -2,9 +2,11 @@ name: Peasant
 
 origin: misc-tokens-016
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,17 +2,20 @@ name: Kayleitha
 
 origin: heroes-of-azeroth-011
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Kayleitha → While Kayleitha is stealthed, prevent all combat damage that would be dealt to her this turn.
 
 regulation:

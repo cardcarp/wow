@@ -2,9 +2,12 @@ name: Karaborian Talisman
 
 origin: magtheridons-lair-treasure-012
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you complete a quest, you may destroy Karaborian Talisman. If you do, turn that quest face up.
 
 regulation:

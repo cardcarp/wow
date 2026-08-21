@@ -2,9 +2,12 @@ name: Stormwind Tabard
 
 origin: war-of-the-ancients-218
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -23,7 +26,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 , → Put a 1 / 1 Human Warrior ally token into play with Protector . You pay 1 less to use this power for each Human ally you control.
 
 regulation:

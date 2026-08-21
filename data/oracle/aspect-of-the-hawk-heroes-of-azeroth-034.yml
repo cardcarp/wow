@@ -2,9 +2,12 @@ name: Aspect of the Hawk
 
 origin: heroes-of-azeroth-034
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : If your hero would deal ranged damage, it deals that amount of damage plus 1 instead.'
 
 regulation:

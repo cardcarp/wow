@@ -2,9 +2,12 @@ name: Necklace of Black Dragons Teeth
 
 origin: timewalkers-badges-of-justice-010
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: All allies have Smash and "This ally can attack only allies if able." At the end of each turn, each player may choose an ally that was put into his graveyard from play this turn. Put those allies into play under their owners' control.
 
 regulation:

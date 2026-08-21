@@ -2,14 +2,17 @@ name: Leader of the Pack
 
 origin: worldbreaker-251
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Worgen Hero Required On your turn: Pay 6 to complete this quest. Reward : Put four 1 / 1 Mastiff ally tokens into play with Ferocity .'
 
 regulation:

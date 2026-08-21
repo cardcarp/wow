@@ -2,12 +2,15 @@ name: Gurok the Usurper
 
 origin: march-of-the-legion-304
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Choose one of your quests. Gurok the Usurper has that quest's powers this turn.
 
 regulation:

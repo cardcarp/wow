@@ -2,9 +2,12 @@ name: Fimlet Sparklight
 
 origin: war-of-the-ancients-093
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he deals 8 damage from each hero.
 
 regulation:

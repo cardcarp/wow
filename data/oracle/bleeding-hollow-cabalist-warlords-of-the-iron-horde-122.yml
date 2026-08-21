@@ -2,9 +2,11 @@ name: Bleeding Hollow Cabalist
 
 origin: warlords-of-the-iron-horde-122
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

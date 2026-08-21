@@ -2,9 +2,12 @@ name: Azure Skyrazor
 
 origin: war-of-the-elements-159
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ability, heroes and allies you control have Assault 2 this turn.
 
 regulation:

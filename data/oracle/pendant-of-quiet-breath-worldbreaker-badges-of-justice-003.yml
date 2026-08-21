@@ -2,9 +2,12 @@ name: Pendant of Quiet Breath
 
 origin: worldbreaker-badges-of-justice-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, if your hero didn't attack this turn, add a tactics counter to this item. Your hero has Assault 1 for each tactics counter.
 
 regulation:

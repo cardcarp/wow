@@ -2,9 +2,12 @@ name: Mooncaller Jynalla Nightpath
 
 origin: scourgewar-147
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has +3 / +3 and Protector while you control a Shout.
 
 regulation:

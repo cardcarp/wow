@@ -2,16 +2,19 @@ name: Berserking
 
 origin: through-the-dark-portal-134
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Troll Hero Required Ongoing : When your hero is dealt damage, put a berserk counter on Berserking. When your hero attacks, remove all berserk counters from Berserking. Your hero has +1 ATK this combat for each counter you removed.'
 
 regulation:

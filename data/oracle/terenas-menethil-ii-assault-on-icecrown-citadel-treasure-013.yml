@@ -2,9 +2,12 @@ name: Terenas Menethil II
 
 origin: assault-on-icecrown-citadel-treasure-013
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 12
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally enters play with 4 damage. Mend 2 This ally has +8 ATK while undamaged.
 
 regulation:

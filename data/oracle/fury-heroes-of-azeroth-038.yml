@@ -2,9 +2,12 @@ name: Fury
 
 origin: heroes-of-azeroth-038
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity
 
 regulation:

@@ -2,17 +2,20 @@ name: Statia the Preserver
 
 origin: blood-of-gladiators-009
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Statia → Prevent all damage that would be dealt to target Totem this turn.
 
 regulation:

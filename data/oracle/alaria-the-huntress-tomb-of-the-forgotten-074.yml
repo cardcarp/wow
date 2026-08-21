@@ -2,9 +2,12 @@ name: Alaria the Huntress
 
 origin: tomb-of-the-forgotten-074
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has +4 ATK while attacking a hero.
 
 regulation:

@@ -2,17 +2,20 @@ name: Sharpeye Yan'ja
 
 origin: blood-of-gladiators-015
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: "On your turn: 2 , Flip Yan'ja → Yan'ja deals ranged damage to target ally equal to 1 plus the combined ATK of your Ranged weapons."
 
 regulation:

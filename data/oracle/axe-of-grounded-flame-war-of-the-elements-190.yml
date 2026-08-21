@@ -2,9 +2,12 @@ name: Axe of Grounded Flame
 
 origin: war-of-the-elements-190
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'This weapon enters play with three +1 ATK counters. On your turn: Remove a +1 ATK counter from this weapon → Target ally has Arcane , Fire , or Nature Resistance this turn.'
 
 regulation:

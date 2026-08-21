@@ -1,6 +1,6 @@
 name: Through the Dark Portal
 
-type: set
+type: Standard
 
 index: '02'
 
@@ -8,6 +8,6 @@ subtotal: 319
 
 total: 319
 
-date_release: 2007-04
+date: 2007-04
 
 collection: Azeroth

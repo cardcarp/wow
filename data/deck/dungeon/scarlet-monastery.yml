@@ -1,24 +1,25 @@
 name: Scarlet Monastery
 
-credit: Official Product
+format:
+  - Raid
 
-category: Raid
+group: dungeon
 
-facet:
+theme:
   - Dungeon
   - Raid
 
-collection: dungeon
+complexity:
+
+division:
 
 highlight: scarlet-monastery-001
 
-description: Scarlet Monastery
+tagline: Scarlet Monastery
 
-context:
+description:
   - title: ''
     body: Introduction to the Scarlet Monastery
-
-total: 70
 
 list:
   hero:

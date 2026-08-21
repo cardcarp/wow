@@ -2,9 +2,12 @@ name: Myrmidons Signet
 
 origin: heroes-of-azeroth-308
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has +5 health.
 
 regulation:

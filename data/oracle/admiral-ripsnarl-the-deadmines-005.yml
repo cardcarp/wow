@@ -2,9 +2,12 @@ name: Admiral Ripsnarl
 
 origin: the-deadmines-005
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity , Stealth At the end of each turn, if Ripsnarl is damaged, you may put him into his owner's hand.
 
 regulation:

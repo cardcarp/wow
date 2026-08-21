@@ -2,9 +2,12 @@ name: Ancient Amber
 
 origin: timewalkers-crafting-007
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may destroy this item. If you do, reveal the top card of your deck. If its cost is odd, put a 7 / 7 Devilsaur Beast Monster ally token into play with Ferocity and Smash . Otherwise, put a 1 / 1 Frog Beast Monster ally token into play.
 
 regulation:

@@ -2,9 +2,12 @@ name: Throat Slasher
 
 origin: throne-of-the-tides-253
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Dual Wield This weapon has +1 ATK while your hero is attacking an exhausted hero or ally.
 
 regulation:

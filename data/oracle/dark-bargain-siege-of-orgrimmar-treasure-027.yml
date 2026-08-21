@@ -2,9 +2,11 @@ name: Dark Bargain
 
 origin: siege-of-orgrimmar-treasure-027
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

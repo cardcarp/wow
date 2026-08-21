@@ -2,17 +2,20 @@ name: Cerripha Sunstreak
 
 origin: blood-of-gladiators-013
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 1 , Flip Cerripha → Cerripha deals 3 fire damage to target hero.
 
 regulation:

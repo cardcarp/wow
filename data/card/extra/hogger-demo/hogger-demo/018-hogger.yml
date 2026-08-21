@@ -1,3 +1,5 @@
+oracle: hogger-hogger-demo-018
+
 index: '018'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"Forest just setback!"'
-
-oracle: hogger-hogger-demo-018
 
 set: Hogger Demo

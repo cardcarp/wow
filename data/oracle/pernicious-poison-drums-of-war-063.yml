@@ -2,9 +2,12 @@ name: Pernicious Poison
 
 origin: drums-of-war-063
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

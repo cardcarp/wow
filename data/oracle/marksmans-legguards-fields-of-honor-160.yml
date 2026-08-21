@@ -2,9 +2,12 @@ name: Marksmans Legguards
 
 origin: fields-of-honor-160
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Destroy Marksman's Legguards → Target ally has Long-Range this turn.
 
 regulation:

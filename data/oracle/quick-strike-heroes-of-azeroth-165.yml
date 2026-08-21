@@ -2,9 +2,12 @@ name: Quick Strike
 
 origin: heroes-of-azeroth-165
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

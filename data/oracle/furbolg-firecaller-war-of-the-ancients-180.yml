@@ -2,9 +2,12 @@ name: Furbolg Firecaller
 
 origin: war-of-the-ancients-180
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: While you have four or more cards in your graveyard, this ally has Assault 2 and Smash .
 
 regulation:

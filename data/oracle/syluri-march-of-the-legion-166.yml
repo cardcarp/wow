@@ -2,9 +2,12 @@ name: Syluri
 
 origin: march-of-the-legion-166
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector , Destroy Syluri → Destroy target equipment.
 
 regulation:

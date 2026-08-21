@@ -2,9 +2,12 @@ name: Crushing Death
 
 origin: war-of-the-ancients-003
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy target equipment with cost less than or equal to the number of cards in it's controller's graveyard.
 
 regulation:

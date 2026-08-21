@@ -2,9 +2,12 @@ name: Fierce Cat Form
 
 origin: twilight-of-the-dragons-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

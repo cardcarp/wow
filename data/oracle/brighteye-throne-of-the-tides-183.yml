@@ -2,9 +2,12 @@ name: Brighteye
 
 origin: throne-of-the-tides-183
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this or another Murloc ally enters play under your control, this ally heals 3 damage from target hero or ally.
 
 regulation:

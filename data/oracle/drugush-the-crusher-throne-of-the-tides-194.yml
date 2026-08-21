@@ -2,9 +2,12 @@ name: Drugush the Crusher
 
 origin: throne-of-the-tides-194
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 

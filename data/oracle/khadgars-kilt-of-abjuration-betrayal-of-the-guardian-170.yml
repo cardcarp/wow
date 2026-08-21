@@ -2,9 +2,12 @@ name: Khadgars Kilt of Abjuration
 
 origin: betrayal-of-the-guardian-170
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , → Opposing allies lose and can't have powers this turn.
 
 regulation:

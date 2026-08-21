@@ -2,9 +2,12 @@ name: Burly Bellow
 
 origin: blood-of-gladiators-083
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

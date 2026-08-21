@@ -2,9 +2,12 @@ name: Bronze Limb Tentacle
 
 origin: battle-of-the-aspects-hard-mode-003
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 0
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally can't leave play except by fatal damage. At the beginning of Deathwing's turn, put a Corrupted Blood ally token into play. When this ally is destroyed, each Raider may put the top card of his deck into his resource row face down and exhausted.
 
 regulation:

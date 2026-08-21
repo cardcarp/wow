@@ -2,9 +2,12 @@ name: Earthen Might
 
 origin: throne-of-the-tides-071
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero heals 3 damage from target hero or ally. Then, if that character is undamaged, it also has +3 ATK this turn.
 
 regulation:

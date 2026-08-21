@@ -2,9 +2,11 @@ name: The Greatest Prank
 
 origin: echoes-of-thunder-319
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

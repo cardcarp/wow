@@ -2,16 +2,19 @@ name: Onyxia
 
 origin: onyxias-lair-raid-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Onyxia has +3 ATK while attacking. 20 , Flip Onyxia → Destroy all opposing heroes.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: Onyxia has +3 ATK while attacking.
 
 regulation:

@@ -2,16 +2,19 @@ name: Heroic Presence
 
 origin: through-the-dark-portal-130
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Draenei Hero Required Ongoing : 2 → Allies in your party have +1 ATK this turn.'
 
 regulation:

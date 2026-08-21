@@ -1,6 +1,6 @@
 name: Warlords of the Iron Horde Trait
 
-type: starter
+type: Starter
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 11
 
 total: 11
 
-date_release: 2024-09
+date: 2024-09
 
 collection: Warlords of the Iron Horde

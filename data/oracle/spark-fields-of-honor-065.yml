@@ -2,9 +2,12 @@ name: Spark
 
 origin: fields-of-honor-065
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: This turn, your hero has "Exhaust a card in play you control → This hero deals 1 fire damage to target hero or ally."
 
 regulation:

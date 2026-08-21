@@ -2,9 +2,12 @@ name: Bottled Elements
 
 origin: throne-of-the-tides-231
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this item enters play, ready target hero or ally. On your turn: Exhaust a Shaman hero or ally you control and destroy this item → Ready target hero or ally.'
 
 regulation:

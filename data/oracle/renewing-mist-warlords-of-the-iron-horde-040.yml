@@ -2,9 +2,11 @@ name: Renewing Mist
 
 origin: warlords-of-the-iron-horde-040
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

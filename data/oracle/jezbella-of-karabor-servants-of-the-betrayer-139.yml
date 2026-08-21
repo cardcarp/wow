@@ -2,9 +2,12 @@ name: Jezbella of Karabor
 
 origin: servants-of-the-betrayer-139
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Long-Range Exhaust an ally in your party → Jezbella has +1 ATK this turn.
 
 regulation:

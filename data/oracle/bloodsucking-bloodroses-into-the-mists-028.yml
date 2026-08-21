@@ -2,9 +2,11 @@ name: Bloodsucking Bloodroses
 
 origin: into-the-mists-028
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

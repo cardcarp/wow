@@ -2,9 +2,12 @@ name: Fleshwerk Throwing Glaive
 
 origin: scourgewar-237
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Thrown Hero : This weapon has +1 ATK. Hero : You pay 1 less to strike with this weapon.'
 
 regulation:

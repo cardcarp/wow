@@ -2,9 +2,12 @@ name: Scarlet Kris
 
 origin: heroes-of-azeroth-333
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 

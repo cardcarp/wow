@@ -2,17 +2,20 @@ name: Halavar
 
 origin: march-of-the-legion-006
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 30
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Flip Halavar → You pay 1 less to play your next Two-Handed weapon this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Ner'Zhul
 
 origin: timewalkers-026
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule: []
 

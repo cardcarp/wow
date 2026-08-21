@@ -2,9 +2,12 @@ name: Fight or Blight
 
 origin: the-hunt-for-illidan-078
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

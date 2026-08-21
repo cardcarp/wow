@@ -2,12 +2,15 @@ name: Samophlange
 
 origin: through-the-dark-portal-318
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Exhaust one of your equipment and pay 2 to complete this quest. Reward : Draw a card.'
 
 regulation:

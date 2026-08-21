@@ -2,9 +2,12 @@ name: Shield of Distortion
 
 origin: scourgewar-120
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

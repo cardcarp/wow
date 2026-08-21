@@ -2,9 +2,12 @@ name: Temple Concubine
 
 origin: black-temple-raid-042
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required If Temple Concubine would be dealt 3 or more damage, prevent it.
 
 regulation:

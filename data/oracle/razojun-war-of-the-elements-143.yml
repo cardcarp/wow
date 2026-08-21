@@ -2,9 +2,12 @@ name: Razo'jun
 
 origin: war-of-the-elements-143
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity When this ally enters play, put a 2 / 1 Fire Elemental ally token into play.
 
 regulation:

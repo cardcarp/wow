@@ -2,17 +2,20 @@ name: Kamu of Thunder Bluff
 
 origin: horde-druid-2011-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 4 , Flip Kamu → Kamu deals 1 arcane damage to target hero or ally for each hero and ally you control.'
 
 regulation:

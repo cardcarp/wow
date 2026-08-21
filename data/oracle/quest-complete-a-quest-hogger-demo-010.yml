@@ -2,9 +2,11 @@ name: Quest - Complete a Quest!
 
 origin: hogger-demo-010
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

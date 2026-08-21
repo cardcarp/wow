@@ -2,9 +2,12 @@ name: Grovewarden Daviak
 
 origin: crown-of-the-heavens-087
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When this ally is dealt damage, it heals that much damage from your hero.
 
 regulation:

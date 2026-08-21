@@ -2,9 +2,12 @@ name: Barak the Shamed
 
 origin: heroes-of-azeroth-227
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Barak enters play, each player secretly chooses a number. The player who chooses the highest number gains control of Barak, and you put that amount of damage on that player's hero. If there's a tie, you choose the outcome.
 
 regulation:

@@ -2,9 +2,12 @@ name: Night Elf Moon Priestess
 
 origin: betrayal-of-the-guardian-083
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 

@@ -2,9 +2,12 @@ name: Amani Mask of Death
 
 origin: drums-of-war-203
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of each turn, destroy all abilities, allies, and equipment with the same name as another card in play.
 
 regulation:

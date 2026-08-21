@@ -2,9 +2,12 @@ name: Bath'rah the Windwatcher
 
 origin: icecrown-166
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: When each Shaman you control exhausts for the first time each turn, you may ready it.
 
 regulation:

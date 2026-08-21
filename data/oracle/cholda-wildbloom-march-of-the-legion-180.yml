@@ -2,9 +2,12 @@ name: Cholda Wildbloom
 
 origin: march-of-the-legion-180
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Cholda enters play, you and target opponent each put the top card of your decks into your resource rows face down and exhausted.
 
 regulation:

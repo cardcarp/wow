@@ -2,9 +2,12 @@ name: Soul Cleave
 
 origin: throne-of-the-tides-080
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: As an additional cost to play this ability, destroy an ally you control. Destroy up to two target allies.
 
 regulation:

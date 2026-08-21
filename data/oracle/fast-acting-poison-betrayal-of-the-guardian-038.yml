@@ -2,9 +2,12 @@ name: Fast-Acting Poison
 
 origin: betrayal-of-the-guardian-038
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '0'
 

@@ -2,12 +2,15 @@ name: Judged by the Light
 
 origin: scarlet-monastery-044
 
-layout: standard
+layout: Standard
 
-category: Achievement
+category:
+  - Achievement
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Deal fatal damage to Thalanos with holy ( ) damage.
 
 regulation:

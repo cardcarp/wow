@@ -2,9 +2,12 @@ name: Kristina Soulcinder
 
 origin: blood-of-gladiators-110
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, target ally has +2 ATK / -2 health this turn.
 
 regulation:

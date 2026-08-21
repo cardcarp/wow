@@ -2,12 +2,15 @@ name: Waking the Beast
 
 origin: throne-of-the-tides-261
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Pay 1 to complete this quest. Reward : Reveal the top card of your deck. If it's a Monster ally, put it into your hand. Otherwise, leave it on top of your deck."
 
 regulation:

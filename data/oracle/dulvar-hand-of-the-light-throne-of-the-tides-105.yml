@@ -2,9 +2,12 @@ name: Dulvar, Hand of the Light
 
 origin: throne-of-the-tides-105
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Prevent all damage attackers would deal to this ally. When this ally deals damage to an opposing hero, he heals that much damage from your hero.
 
 regulation:

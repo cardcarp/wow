@@ -2,9 +2,12 @@ name: Bracers of the Eclipse
 
 origin: through-the-dark-portal-250
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Remove Bracers of the Eclipse from the Game → Remove your deck from the game. Shuffle your graveyard face down. It is now your deck.
 
 regulation:

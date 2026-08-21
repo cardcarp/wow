@@ -2,9 +2,11 @@ name: Manic Montague
 
 origin: echoes-of-thunder-198
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

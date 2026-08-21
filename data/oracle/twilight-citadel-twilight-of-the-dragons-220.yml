@@ -2,12 +2,15 @@ name: Twilight Citadel
 
 origin: twilight-of-the-dragons-220
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 1 , → Put a 1 / 1 Twilight Dragonkin ally token into play.'
 
 regulation:

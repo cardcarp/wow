@@ -2,9 +2,12 @@ name: Command Decision
 
 origin: icecrown-081
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : 1 , → Target ally you control has Protector this turn.'
 
 regulation:

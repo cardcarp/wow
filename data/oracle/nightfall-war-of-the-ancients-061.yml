@@ -2,9 +2,12 @@ name: Nightfall
 
 origin: war-of-the-ancients-061
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: X
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Affliction Talent Your hero deals X shadow damage to target opposing hero or ally and heals X damage from itself.
 
 regulation:

@@ -2,9 +2,11 @@ name: Tao Long The Cyclone
 
 origin: monk-starter-058
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

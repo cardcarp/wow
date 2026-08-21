@@ -2,9 +2,11 @@ name: Krunkle Deadspark
 
 origin: wrathgate-006
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

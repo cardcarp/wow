@@ -2,9 +2,12 @@ name: Spire of Sunset
 
 origin: wrathgate-196
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 2 , Exhaust your hero → Your hero deals fire damage to target hero or ally equal to the number of different classes among heroes and allies you control.'
 
 regulation:

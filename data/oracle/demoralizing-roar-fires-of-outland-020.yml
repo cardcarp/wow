@@ -2,9 +2,12 @@ name: Demoralizing Roar
 
 origin: fires-of-outland-020
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 

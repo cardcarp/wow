@@ -2,9 +2,12 @@ name: Plasu
 
 origin: scourgewar-152
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 2
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Shadow Resistance This ally has Assault 2 while an opponent controls a card.
 
 regulation:

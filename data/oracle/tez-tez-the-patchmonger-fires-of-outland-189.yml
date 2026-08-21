@@ -2,9 +2,12 @@ name: Tez Tez the Patchmonger
 
 origin: fires-of-outland-189
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, target opposing ally has -3 ATK this turn.
 
 regulation:

@@ -1,3 +1,5 @@
+oracle: jaina-proudmoore-jaina-001
+
 index: '001'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor:
-
-oracle: jaina-proudmoore-jaina-001
 
 set: Jaina

@@ -2,9 +2,12 @@ name: Rexxar
 
 origin: through-the-dark-portal-231
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Rexxar enters play, put a unique Bear ally token named Misha with 3 ATK, 3 health, and Ferocity into play. Rexxar has +3 ATK and +3 health while Misha is in your party.
 
 regulation:

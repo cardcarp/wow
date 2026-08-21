@@ -2,9 +2,11 @@ name: Dalaran Brilliance
 
 origin: echoes-of-thunder-031
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

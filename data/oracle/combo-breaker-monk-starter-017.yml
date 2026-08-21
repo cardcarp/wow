@@ -2,9 +2,11 @@ name: Combo Breaker
 
 origin: monk-starter-017
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

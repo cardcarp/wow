@@ -2,9 +2,11 @@ name: Steelskin, the Impervious
 
 origin: into-the-mists-277
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

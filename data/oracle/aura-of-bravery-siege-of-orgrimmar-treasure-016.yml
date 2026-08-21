@@ -2,9 +2,11 @@ name: Aura of Bravery
 
 origin: siege-of-orgrimmar-treasure-016
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

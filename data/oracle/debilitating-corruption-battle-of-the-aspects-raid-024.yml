@@ -2,14 +2,17 @@ name: Debilitating Corruption
 
 origin: battle-of-the-aspects-raid-024
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put a Corrupted Blood ally token into play. If Deathwing deals combat damage to a Raiding hero this turn, allies Deathwing controls have +1 ATK this turn.
 
 regulation:

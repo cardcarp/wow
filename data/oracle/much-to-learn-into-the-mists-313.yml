@@ -2,9 +2,11 @@ name: Much to Learn
 
 origin: into-the-mists-313
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

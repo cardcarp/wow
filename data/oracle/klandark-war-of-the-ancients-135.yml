@@ -2,9 +2,12 @@ name: Klandark
 
 origin: war-of-the-ancients-135
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Bloodrush : When this ally deals combat damage while attacking for the first time each turn, if an opposing hero has more damage on it than your hero, ready this ally.'
 
 regulation:

@@ -2,17 +2,20 @@ name: Loraala the Frigid
 
 origin: fields-of-honor-005
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Loraala → Loraala deals 3 frost damage to target hero. A hero dealt damage this way can't attack this turn.
 
 regulation:

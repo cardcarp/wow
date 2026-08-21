@@ -2,9 +2,12 @@ name: Stevrona Forgemender
 
 origin: war-of-the-elements-126
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Token allies you control have +1 / +1. Stash : Ready target token ally.'
 
 regulation:

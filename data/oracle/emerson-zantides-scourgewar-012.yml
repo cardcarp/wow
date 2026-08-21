@@ -2,17 +2,20 @@ name: Emerson Zantides
 
 origin: scourgewar-012
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 26
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'If you control another Priest: Flip Emerson → Emerson deals 2 shadow damage to target hero or ally and 2 shadow damage to himself.'
 
 regulation:

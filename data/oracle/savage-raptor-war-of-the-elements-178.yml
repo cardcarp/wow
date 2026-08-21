@@ -2,9 +2,12 @@ name: Savage Raptor
 
 origin: war-of-the-elements-178
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '9'
 
@@ -15,7 +18,7 @@ health: 15
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity This ally has +1 ATK for each damage on it.
 
 regulation:

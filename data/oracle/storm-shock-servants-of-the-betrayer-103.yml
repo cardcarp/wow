@@ -2,9 +2,12 @@ name: Storm Shock
 
 origin: servants-of-the-betrayer-103
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

@@ -2,9 +2,12 @@ name: Spring Rabbit
 
 origin: aftermath-holiday-promotional-003
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Exhaust this and another Rabbit ally you control → Put a 1 / 1 Bunny Egg ally token into play.
 
 regulation:

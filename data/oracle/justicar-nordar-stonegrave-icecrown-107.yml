@@ -2,9 +2,12 @@ name: Justicar Nordar Stonegrave
 
 origin: icecrown-107
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -20,7 +23,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing Hunters and Pets have -2 ATK.
 
 regulation:

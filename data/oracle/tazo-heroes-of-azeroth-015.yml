@@ -2,17 +2,20 @@ name: Ta'zo
 
 origin: heroes-of-azeroth-015
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Ta'zo → Ta'zo deals 3 fire damage to target hero or ally. Use only on your turn.
 
 regulation:

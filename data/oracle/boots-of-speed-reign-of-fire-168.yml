@@ -2,9 +2,12 @@ name: Boots of Speed
 
 origin: reign-of-fire-168
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 → Put this card into your resource row face down and exhausted.
 
 regulation:

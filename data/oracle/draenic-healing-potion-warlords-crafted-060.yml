@@ -2,9 +2,11 @@ name: Draenic Healing Potion
 
 origin: warlords-crafted-060
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

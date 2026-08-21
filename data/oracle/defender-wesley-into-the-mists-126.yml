@@ -2,9 +2,11 @@ name: Defender Wesley
 
 origin: into-the-mists-126
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

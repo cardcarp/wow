@@ -2,9 +2,11 @@ name: Siegecrafter Blackfuse
 
 origin: siege-of-orgrimmar-041
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Baelgond Soulgrace
 
 origin: fields-of-honor-093
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Baelgond enters play, reveal the top three cards of your deck. Put a revealed ability card into hand and the rest on the bottom of your deck.
 
 regulation:

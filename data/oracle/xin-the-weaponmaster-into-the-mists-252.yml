@@ -2,9 +2,11 @@ name: Xin the Weaponmaster
 
 origin: into-the-mists-252
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

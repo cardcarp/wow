@@ -2,9 +2,12 @@ name: Renewal of Life
 
 origin: scourgewar-badges-of-justice-002
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may destroy this item. If you do, each player puts all allies from his graveyard into play.
 
 regulation:

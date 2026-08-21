@@ -1,3 +1,5 @@
+oracle: baron-rivendare-naxxramas-raid-016
+
 index: '016'
 
 rarity: Rare
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor:
-
-oracle: baron-rivendare-naxxramas-raid-016
 
 set: Naxxramas Raid

@@ -2,9 +2,12 @@ name: Cloak of the Shadowed Sun
 
 origin: wrathgate-171
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Your hero has Protector . Hero : Opposing allies have -1 ATK. Hero : Opposing allies have -1 .'
 
 regulation:

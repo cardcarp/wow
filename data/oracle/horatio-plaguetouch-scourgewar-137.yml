@@ -2,9 +2,12 @@ name: Horatio Plaguetouch
 
 origin: scourgewar-137
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Assault 2
 
 regulation:

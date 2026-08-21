@@ -2,9 +2,12 @@ name: Guardians Endurance
 
 origin: tomb-of-the-forgotten-061
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Your hero has Protector . Your hero has +5 while you control an equipment.'
 
 regulation:

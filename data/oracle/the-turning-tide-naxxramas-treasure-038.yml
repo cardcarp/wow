@@ -2,9 +2,12 @@ name: The Turning Tide
 
 origin: naxxramas-treasure-038
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 2 less to play allies while you control fewer allies than an opponent.
 
 regulation:

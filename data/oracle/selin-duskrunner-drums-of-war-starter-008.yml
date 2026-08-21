@@ -2,9 +2,12 @@ name: Selin Duskrunner
 
 origin: drums-of-war-starter-008
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play an ability, Selin deals 1 shadow damage to target hero or ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Flesh Eating Poison
 
 origin: wrathgate-066
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

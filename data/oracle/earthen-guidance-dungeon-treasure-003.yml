@@ -2,14 +2,17 @@ name: Earthen Guidance
 
 origin: dungeon-treasure-003
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : When a Shaman ally enters play under your control or a friendly player's control, it deals 2 nature damage to target opposing ally."
 
 regulation:

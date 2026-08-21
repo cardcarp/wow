@@ -2,17 +2,20 @@ name: Randolphe Mortimer
 
 origin: death-knight-starter-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Randolphe → Each opposing hero and ally has -1 ATK this turn for each damage on it.
 
 regulation:

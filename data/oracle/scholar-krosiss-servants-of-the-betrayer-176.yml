@@ -2,9 +2,12 @@ name: Scholar Krosiss
 
 origin: servants-of-the-betrayer-176
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Krosiss has +2 ATK / +2 health while you have seven or more cards in hand.
 
 regulation:

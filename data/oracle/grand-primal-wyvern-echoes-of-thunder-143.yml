@@ -2,9 +2,11 @@ name: Grand Primal Wyvern
 
 origin: echoes-of-thunder-143
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Fianna Spellbinder
 
 origin: heroes-of-azeroth-237
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Remove Fianna Spellbinder from the game → Players can't draw cards this turn.
 
 regulation:

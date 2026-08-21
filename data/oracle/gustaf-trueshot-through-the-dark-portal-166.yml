@@ -2,9 +2,12 @@ name: Gustaf Trueshot
 
 origin: through-the-dark-portal-166
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Dwarf Hero Required Long-Range 1 → Look at the top card of your deck. You may put it into your graveyard.
 
 regulation:

@@ -2,9 +2,11 @@ name: Templar Garak
 
 origin: into-the-mists-023
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

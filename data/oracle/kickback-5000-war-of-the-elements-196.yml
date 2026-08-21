@@ -2,9 +2,12 @@ name: Kickback 5000
 
 origin: war-of-the-elements-196
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Long-Range This weapon enters play with two +1 ATK counters. When your hero deals combat damage with this weapon, remove all +1 ATK counters from this weapon. 4 → Add two +1 ATK counters to this weapon.
 
 regulation:

@@ -2,9 +2,12 @@ name: Veliana Felblood
 
 origin: tomb-of-the-forgotten-116
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, you may destroy another ally you control. If you do, this ally deals 5 fire damage to target opposing hero.
 
 regulation:

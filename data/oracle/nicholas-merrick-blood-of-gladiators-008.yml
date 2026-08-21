@@ -2,17 +2,20 @@ name: Nicholas Merrick
 
 origin: blood-of-gladiators-008
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 3 , Flip Nicholas → Nicholas deals 2 fire damage to each opposing ally.'
 
 regulation:

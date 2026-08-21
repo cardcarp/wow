@@ -2,9 +2,12 @@ name: Titan-forged Rune of Cruelty
 
 origin: icecrown-187
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, each hero deals melee damage to itself equal to the number of cards in its controller's hand.
 
 regulation:

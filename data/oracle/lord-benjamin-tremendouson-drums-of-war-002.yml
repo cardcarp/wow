@@ -2,17 +2,20 @@ name: Lord Benjamin Tremendouson
 
 origin: drums-of-war-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 30
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 4 , Flip Benjamin → Opposing allies have -1 health this turn.'
 
 regulation:

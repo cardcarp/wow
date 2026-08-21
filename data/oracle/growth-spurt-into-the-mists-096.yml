@@ -2,9 +2,11 @@ name: Growth Spurt
 
 origin: into-the-mists-096
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Blade Twisting
 
 origin: servants-of-the-betrayer-087
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Combat Hero Required Ongoing : When your hero deals combat damage to an ally, destroy it, and its controller discards a card.'
 
 regulation:

@@ -2,17 +2,20 @@ name: Lunira Swiftbreath
 
 origin: wrathgate-007
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Flip Lunira, discard a Druid → You pay 1 less to play your next ally this turn.
 
 regulation:

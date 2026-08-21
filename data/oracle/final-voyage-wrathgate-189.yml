@@ -2,9 +2,12 @@ name: Final Voyage
 
 origin: wrathgate-189
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with this weapon, your hero has Long-Range this combat. This weapon has Assault 1 for each card in opposing hands.
 
 regulation:

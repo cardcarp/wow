@@ -2,9 +2,11 @@ name: Venom Zest
 
 origin: warlords-of-the-iron-horde-068
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

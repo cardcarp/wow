@@ -2,9 +2,12 @@ name: Don Alejandros Money Belt
 
 origin: fields-of-honor-156
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: → You may reveal an equipment card from your hand. If you do, put it into your resource row face down and exhausted.
 
 regulation:

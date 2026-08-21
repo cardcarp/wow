@@ -2,9 +2,12 @@ name: Great Kodo
 
 origin: scourgewar-177
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Tauren Hero Required You pay 1 to complete quests. When you place a resource face up, you may exhaust target card in play. (Mounts can't attack or be attacked.)
 
 regulation:

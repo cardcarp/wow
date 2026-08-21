@@ -2,17 +2,20 @@ name: Warden Stormclaw
 
 origin: servants-of-the-betrayer-027
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Stormclaw, destroy a Form you control → Destroy target ally. Use only on your turn.
 
 regulation:

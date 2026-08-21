@@ -2,9 +2,12 @@ name: Nargle, Fang of the Swarm
 
 origin: tomb-of-the-forgotten-144
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of an opponent's turn, remove this ally from the game. If you do, destroy all non-Murloc allies, then players put all Murloc allies from their graveyards into play.
 
 regulation:

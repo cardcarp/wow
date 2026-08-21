@@ -2,9 +2,12 @@ name: Zin'rokh, Destroyer of Worlds
 
 origin: through-the-dark-portal-288
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '7'
 
@@ -14,7 +17,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage with Zin'rohk, destroy all other abilities, allies, equipment, and resources.
 
 regulation:

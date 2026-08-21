@@ -2,17 +2,20 @@ name: Saria of Stormwind
 
 origin: alliance-paladin-2011-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 5 , Flip Saria → Target opposing ally deals melee damage to itself equal to its ATK.'
 
 regulation:

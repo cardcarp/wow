@@ -2,9 +2,12 @@ name: Lorekeeper Darian
 
 origin: heroes-of-azeroth-202
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: x , → Target player puts the top X cards of his deck into his graveyard.
 
 regulation:

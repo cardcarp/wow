@@ -2,9 +2,12 @@ name: Lesson of the Divine
 
 origin: wrathgate-053
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

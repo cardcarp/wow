@@ -1,3 +1,5 @@
+oracle: patchwerk-naxxramas-raid-006
+
 index: '006'
 
 rarity: Rare
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"Patchwerk want to play!"'
-
-oracle: patchwerk-naxxramas-raid-006
 
 set: Naxxramas Raid

@@ -2,9 +2,12 @@ name: Maazhum
 
 origin: war-of-the-elements-093
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -18,7 +21,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he deals 3 shadow damage to target hero and heals 3 damage from your hero.
 
 regulation:

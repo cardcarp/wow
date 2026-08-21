@@ -2,9 +2,11 @@ name: Human Warrior
 
 origin: war-of-the-ancients-token-001
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

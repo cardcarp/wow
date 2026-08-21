@@ -2,9 +2,12 @@ name: Retainer Kedryn
 
 origin: march-of-the-legion-239
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scryer Reputation Stealth When Kedryn deals combat damage to an ally, destroy that ally.
 
 regulation:

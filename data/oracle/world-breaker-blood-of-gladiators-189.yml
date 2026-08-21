@@ -2,9 +2,12 @@ name: World Breaker
 
 origin: blood-of-gladiators-189
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 6 , , Destroy World Breaker → Destroy all resources.'
 
 regulation:

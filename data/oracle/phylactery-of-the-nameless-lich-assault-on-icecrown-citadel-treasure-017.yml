@@ -2,9 +2,12 @@ name: Phylactery of the Nameless Lich
 
 origin: assault-on-icecrown-citadel-treasure-017
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, you may put an Unlimited ally from your hand into play if its cost is less than or equal to the cost of an Unlimited ally you control.
 
 regulation:

@@ -2,9 +2,12 @@ name: Al'lanora
 
 origin: drums-of-war-112
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Shadowmeld → Interrupt target card unless its controller pays 1 .
 
 regulation:

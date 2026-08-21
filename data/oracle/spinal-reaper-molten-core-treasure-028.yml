@@ -2,9 +2,12 @@ name: Spinal Reaper
 
 origin: molten-core-treasure-028
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals fatal combat damage with Spinal Reaper, draw a card.
 
 regulation:

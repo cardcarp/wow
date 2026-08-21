@@ -2,9 +2,12 @@ name: Magiskull Cuffs
 
 origin: through-the-dark-portal-255
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: → You pay 1 less to play your next ability this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Misdirection
 
 origin: fires-of-outland-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : At the start of each opponent's turn, choose an ally in your party. Opposing allies can attack only that ally this turn if able."
 
 regulation:

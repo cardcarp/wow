@@ -2,9 +2,12 @@ name: Ranthus Adler
 
 origin: fires-of-outland-139
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Destroy Ranthus Adler → Put target ally into its owner's hand.
 
 regulation:

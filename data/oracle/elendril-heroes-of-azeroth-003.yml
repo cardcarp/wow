@@ -2,17 +2,20 @@ name: Elendril
 
 origin: heroes-of-azeroth-003
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 1 , Flip Elendril → Your Ranged weapons have +3 ATK this turn.
 
 regulation:

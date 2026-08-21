@@ -2,17 +2,20 @@ name: Marlowe the Felsworn
 
 origin: servants-of-the-betrayer-013
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Marlowe, destroy a friendly ally → Target hero or ally has -X health this turn, where X is that friendly ally's health. Use only on your turn. Cult of the Dark Strand
 
 regulation:

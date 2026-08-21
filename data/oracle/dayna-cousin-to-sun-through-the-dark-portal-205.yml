@@ -2,9 +2,12 @@ name: Dayna Cousin-to-Sun
 
 origin: through-the-dark-portal-205
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Dayna Cousin-to-Sun has +1 health for each resource you have.
 
 regulation:

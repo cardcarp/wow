@@ -2,9 +2,12 @@ name: Canissa the Shadow
 
 origin: blood-of-gladiators-121
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 

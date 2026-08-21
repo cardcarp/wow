@@ -2,9 +2,12 @@ name: Kil'jaeden the Deceiver
 
 origin: reign-of-fire-002
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 cost: '10'
 
@@ -17,8 +20,8 @@ combat: Shadow
 type: Master
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: At the start of your turn, each player draws a card. Opponents play with their hands revealed and can't play cards during your turn. You can play cards in opposing hands during your turn.
 
 regulation:

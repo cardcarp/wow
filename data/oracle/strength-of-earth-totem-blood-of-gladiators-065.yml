@@ -2,9 +2,12 @@ name: Strength of Earth Totem
 
 origin: blood-of-gladiators-065
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

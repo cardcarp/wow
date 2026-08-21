@@ -2,9 +2,12 @@ name: Grim Reach
 
 origin: blood-of-gladiators-071
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Affliction Hero Required Opposing heroes and allies have -1 health this turn for each ongoing ability you control.
 
 regulation:

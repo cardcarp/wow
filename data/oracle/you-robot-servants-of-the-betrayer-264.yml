@@ -2,12 +2,15 @@ name: You, Robot
 
 origin: servants-of-the-betrayer-264
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 1 to complete this quest. Reward : Equipment cards in your hand are instant this turn.'
 
 regulation:

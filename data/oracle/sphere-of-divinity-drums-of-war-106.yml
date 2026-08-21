@@ -2,9 +2,12 @@ name: Sphere of Divinity
 
 origin: drums-of-war-106
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

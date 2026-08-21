@@ -2,9 +2,12 @@ name: Belt of Giant Strength
 
 origin: reign-of-fire-166
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor enters play, choose "Demon", a race, or an race. Allies you control of the chosen race have +2 . Your hero can protect allies you control of the chosen race.
 
 regulation:

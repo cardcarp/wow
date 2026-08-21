@@ -2,9 +2,12 @@ name: Pacify
 
 origin: caverns-of-time-treasure-021
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target ally. Ongoing : You control attached ally. Attached ally can't attack."
 
 regulation:

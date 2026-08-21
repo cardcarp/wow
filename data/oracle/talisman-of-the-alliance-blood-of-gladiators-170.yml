@@ -2,9 +2,12 @@ name: Talisman of the Alliance
 
 origin: blood-of-gladiators-170
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -22,7 +25,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: ', Destroy this item → Destroy all abilities and equipment that have or share the lowest cost among abilities and equipment in play.'
 
 regulation:

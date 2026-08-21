@@ -2,9 +2,12 @@ name: Earthen Blast
 
 origin: worldbreaker-095
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Your hero deals 5 nature damage to target ally. Stash : Your hero deals 2 nature damage to target hero.'
 
 regulation:

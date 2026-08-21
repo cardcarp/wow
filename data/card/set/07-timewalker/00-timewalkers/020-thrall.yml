@@ -1,3 +1,5 @@
+oracle: thrall-timewalkers-020
+
 index: '020'
 
 rarity: Rare
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: ''
-
-oracle: thrall-timewalkers-020
 
 set: Timewalkers

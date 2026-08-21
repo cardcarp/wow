@@ -2,9 +2,12 @@ name: Icy Torment
 
 origin: scourgewar-027
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 1 frost damage to attached hero. When damage is dealt this way, target ally in attached hero's party has -2 ATK this turn."
 
 regulation:

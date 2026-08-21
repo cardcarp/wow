@@ -2,9 +2,12 @@ name: Tight Quarters
 
 origin: molten-core-raid-030
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

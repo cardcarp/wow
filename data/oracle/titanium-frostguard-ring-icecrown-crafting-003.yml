@@ -2,9 +2,12 @@ name: Titanium Frostguard Ring
 
 origin: icecrown-crafting-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Your hero has Frost Resistance . On your turn: 6 , → Put a 10 / 10 Unique Frozen Elemental ally token into play with Frost Resistance .'
 
 regulation:

@@ -2,9 +2,12 @@ name: Mo'arg Doomsmith
 
 origin: war-of-the-ancients-189
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he may deal 4 damage to another ally you control. If he does, your hero has Assault 4 this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Ginza Darktusk
 
 origin: scourgewar-176
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector This ally can't attack unless and opponent controls more allies than you.
 
 regulation:

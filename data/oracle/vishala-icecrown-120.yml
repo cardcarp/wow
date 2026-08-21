@@ -2,9 +2,12 @@ name: Vishala
 
 origin: icecrown-120
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Frost Resistance → Target ally can't attack or protect this turn.
 
 regulation:

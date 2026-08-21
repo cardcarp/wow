@@ -2,9 +2,12 @@ name: Steal Essence
 
 origin: heroes-of-azeroth-134
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

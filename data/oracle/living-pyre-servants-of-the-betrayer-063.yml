@@ -2,9 +2,12 @@ name: Living Pyre
 
 origin: servants-of-the-betrayer-063
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

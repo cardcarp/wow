@@ -2,9 +2,12 @@ name: Cunning Crypt Fiend
 
 origin: reign-of-fire-127
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may destroy target ally with ATK 2 or less.
 
 regulation:

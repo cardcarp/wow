@@ -2,17 +2,20 @@ name: Mythen of the Wild
 
 origin: servants-of-the-betrayer-005
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Mythen → Mythen heals 2 damage from target hero or ally for each quest you control.
 
 regulation:

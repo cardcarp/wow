@@ -2,9 +2,12 @@ name: Urn of Lost Memories
 
 origin: naxxramas-treasure-027
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: , Destroy an ability or equipment you control with cost X → Put target ally with cost X or less from your graveyard into play.'
 
 regulation:

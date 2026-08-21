@@ -2,9 +2,12 @@ name: Band of the Ranger-General
 
 origin: fires-of-outland-209
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to strike with weapons for each weapon you have.
 
 regulation:

@@ -2,9 +2,11 @@ name: Li Ting Farsky
 
 origin: into-the-mists-010
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

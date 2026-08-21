@@ -2,9 +2,11 @@ name: Fearsome Pon-shu
 
 origin: echoes-of-thunder-141
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Winter Veil Disguise Kit
 
 origin: aftermath-holiday-promotional-001
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Target ally you control is also a Snowman this turn. When a Snowman you control defends against a non- hero or ally, remove it from combat.
 
 regulation:

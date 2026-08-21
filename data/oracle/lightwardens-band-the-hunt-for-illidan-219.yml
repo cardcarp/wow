@@ -2,9 +2,12 @@ name: Lightwardens Band
 
 origin: the-hunt-for-illidan-219
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Aldor Reputation Your hero has " Inspire: Ability, ally, equipment, hero, or resource ."'
 
 regulation:

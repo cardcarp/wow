@@ -2,9 +2,12 @@ name: Jainas Staff
 
 origin: caverns-of-time-treasure-067
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this weapon enters play, remove the top four cards of your deck from the game. → Choose an ability removed this way. You may play that ability this turn. (Pay costs as normal.) When you do, copy each other non-Ongoing ability removed this way. You may play those copies without paying their costs.
 
 regulation:

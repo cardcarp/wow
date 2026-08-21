@@ -2,9 +2,12 @@ name: Tinkmaster Overspark
 
 origin: fires-of-outland-144
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may put an equipment card from your graveyard into play.
 
 regulation:

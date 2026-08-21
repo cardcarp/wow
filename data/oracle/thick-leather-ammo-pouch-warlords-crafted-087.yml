@@ -2,9 +2,11 @@ name: Thick Leather Ammo Pouch
 
 origin: warlords-crafted-087
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

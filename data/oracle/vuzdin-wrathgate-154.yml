@@ -2,9 +2,12 @@ name: Vuz'din
 
 origin: wrathgate-154
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing Ongoing abilities lose and can't have powers.
 
 regulation:

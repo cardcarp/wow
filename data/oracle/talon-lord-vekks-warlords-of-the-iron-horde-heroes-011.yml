@@ -2,9 +2,11 @@ name: Talon Lord Vekks
 
 origin: warlords-of-the-iron-horde-heroes-011
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

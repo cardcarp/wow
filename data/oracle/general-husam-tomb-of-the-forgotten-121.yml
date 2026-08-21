@@ -2,9 +2,12 @@ name: General Husam
 
 origin: tomb-of-the-forgotten-121
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector , Sentinel Husam enters play with four +1 / +1 counters. When an ally you control attacks, add a +1 / +1 counter to Husam. If Husam would be dealt damage, remove that many +1 / +1 counters from him instead.
 
 regulation:

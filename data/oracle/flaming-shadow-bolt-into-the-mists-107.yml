@@ -2,9 +2,11 @@ name: Flaming Shadow Bolt
 
 origin: into-the-mists-107
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

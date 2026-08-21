@@ -2,9 +2,12 @@ name: Draconic Flames
 
 origin: war-of-the-elements-051
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target a hero or ally, and you may target an additional character for each Dragonkin you control. Your hero deals 5 fire damage to each target.
 
 regulation:

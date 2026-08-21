@@ -2,9 +2,12 @@ name: Tyrande Whisperwind
 
 origin: timewalkers-009
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Kel'Thuzad
 
 origin: scourgewar-021
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 cost: '10'
 
@@ -24,8 +27,8 @@ class:
 type: Master
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: ", , , , or Hero Required When your hero becomes Kel'Thuzad, target an opponent. Gain control of an ally he controls. Search his zones for one ally each and put any number of them into play."
 
 regulation:

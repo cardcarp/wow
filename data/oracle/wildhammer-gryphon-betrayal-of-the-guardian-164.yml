@@ -2,9 +2,12 @@ name: Wildhammer Gryphon
 
 origin: betrayal-of-the-guardian-164
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: While an opponent controls a hero, this ally has +2 ATK and Elusive .
 
 regulation:

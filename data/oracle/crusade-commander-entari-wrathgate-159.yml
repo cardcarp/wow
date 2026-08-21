@@ -2,9 +2,12 @@ name: Crusade Commander Entari
 
 origin: wrathgate-159
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: Argent Crusade Reputation At the end of your turn, this ally deals 1 unpreventable holy damage to each opposing hero and ally for each Unique ally you control.
 
 regulation:

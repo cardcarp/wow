@@ -2,9 +2,12 @@ name: Big Love Rocket
 
 origin: timewalkers-holiday-promotional-002
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 8
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , , Reveal the top card of your deck → If it's a location or quest, ready another target ally you control, and that ally has +2 ATK this turn. (Mounts can't attack or be attacked.)
 
 regulation:

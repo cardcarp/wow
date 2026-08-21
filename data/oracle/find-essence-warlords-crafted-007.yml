@@ -2,9 +2,11 @@ name: Find Essence
 
 origin: warlords-crafted-007
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

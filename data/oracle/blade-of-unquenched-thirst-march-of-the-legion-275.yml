@@ -2,9 +2,12 @@ name: Blade of Unquenched Thirst
 
 origin: march-of-the-legion-275
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, if no damage was dealt with Blade of Unquenched Thirst this turn, destroy it.
 
 regulation:

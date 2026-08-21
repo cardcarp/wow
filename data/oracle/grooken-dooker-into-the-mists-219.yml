@@ -2,9 +2,11 @@ name: Grooken Dooker
 
 origin: into-the-mists-219
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

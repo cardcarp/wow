@@ -2,9 +2,12 @@ name: Tinker Art Seaclock
 
 origin: drums-of-war-143
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Fire
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Art has Long-Range while he's undamaged.
 
 regulation:

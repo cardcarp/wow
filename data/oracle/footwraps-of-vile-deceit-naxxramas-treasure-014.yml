@@ -2,9 +2,12 @@ name: Footwraps of Vile Deceit
 
 origin: naxxramas-treasure-014
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor enters play, target an opposing equipment. You control it while this armor remains under your control.
 
 regulation:

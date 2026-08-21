@@ -2,9 +2,11 @@ name: Grozzie Blitzbolt
 
 origin: into-the-mists-167
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

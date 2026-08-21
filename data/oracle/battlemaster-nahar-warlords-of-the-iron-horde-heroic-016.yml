@@ -2,9 +2,11 @@ name: Battlemaster Nahar
 
 origin: warlords-of-the-iron-horde-heroic-016
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

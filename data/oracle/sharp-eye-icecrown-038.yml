@@ -2,9 +2,12 @@ name: Sharp Eye
 
 origin: icecrown-038
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target hero or ally you control has Assault 2 and Long-Range this turn.
 
 regulation:

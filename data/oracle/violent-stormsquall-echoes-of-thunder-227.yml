@@ -2,9 +2,11 @@ name: Violent Stormsquall
 
 origin: echoes-of-thunder-227
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

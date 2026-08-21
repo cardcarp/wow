@@ -2,9 +2,12 @@ name: Army of Undeath
 
 origin: battle-of-the-aspects-treasure-002
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : On your turn: , Remove three cards in an opposing graveyard from the game → Put a 3 / 3 Ghoul ally token into play. Ghouls you control have Assault 2 .'
 
 regulation:

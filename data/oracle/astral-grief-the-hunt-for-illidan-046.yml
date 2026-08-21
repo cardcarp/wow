@@ -2,9 +2,12 @@ name: Astral Grief
 
 origin: the-hunt-for-illidan-046
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

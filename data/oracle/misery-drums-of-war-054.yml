@@ -2,9 +2,12 @@ name: Misery
 
 origin: drums-of-war-054
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Shadow Hero Required Ongoing : x , → Target player puts the top X cards of his deck into his graveyard.'
 
 regulation:

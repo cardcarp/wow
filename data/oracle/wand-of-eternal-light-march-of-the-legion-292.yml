@@ -2,9 +2,12 @@ name: Wand of Eternal Light
 
 origin: march-of-the-legion-292
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Damage that would be dealt with this weapon is unpreventable.
 
 regulation:

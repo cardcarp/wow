@@ -2,9 +2,12 @@ name: Weapon Mastery
 
 origin: drums-of-war-090
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Fury Hero Required Ongoing : When you play a Melee weapon, put a strength counter on Weapon Mastery. Your Melee weapons have +1 ATK for each strength counter.'
 
 regulation:

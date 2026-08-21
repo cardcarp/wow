@@ -2,9 +2,11 @@ name: The Wandering Isle
 
 origin: into-the-mists-330
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

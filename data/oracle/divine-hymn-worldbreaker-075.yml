@@ -2,9 +2,12 @@ name: Divine Hymn
 
 origin: worldbreaker-075
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Ongoing : At the start of your turn, your hero heals 2 damage from each hero and ally you control. At the end of your turn, destroy this ability if you don't control an ally."
 
 regulation:

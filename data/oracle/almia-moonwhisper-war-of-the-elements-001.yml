@@ -2,20 +2,23 @@ name: Almia Moonwhisper
 
 origin: war-of-the-elements-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 5 → Flip Almia
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: At the start of your turn, if you control an ally, you may draw a card.
 
 regulation:

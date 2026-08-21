@@ -2,9 +2,12 @@ name: Naisha
 
 origin: reign-of-fire-090
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: As this ally enters play, name a card. Opponents can't play cards with that name.
 
 regulation:

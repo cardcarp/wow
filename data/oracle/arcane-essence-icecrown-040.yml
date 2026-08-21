@@ -2,9 +2,12 @@ name: Arcane Essence
 
 origin: icecrown-040
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust all resources you control. Draw two cards.
 
 regulation:

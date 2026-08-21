@@ -2,9 +2,12 @@ name: Predatory Strikes
 
 origin: heroes-of-azeroth-029
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Feral Hero Required Ongoing : While your hero is in bear form or cat form, it has +2 ATK while attacking.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Fortified Defenses
 
 origin: betrayal-of-the-guardian-056
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Your hero has Protector . While you control five or more allies: → Ready target hero or ally.'
 
 regulation:

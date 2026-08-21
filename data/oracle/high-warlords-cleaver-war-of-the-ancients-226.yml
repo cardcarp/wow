@@ -2,9 +2,12 @@ name: High Warlords Cleaver
 
 origin: war-of-the-ancients-226
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -19,7 +22,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: While your hero is attacking an hero, this weapon has +3 ATK.
 
 regulation:

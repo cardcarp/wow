@@ -2,9 +2,12 @@ name: Warglaive of Azzinoth
 
 origin: betrayal-of-the-guardian-190
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Dual Wield When your hero deals combat damage with this weapon to a hero, put a 3 / 3 Demon Monster ally token into play named Flame of Azzinoth. At the start of your turn, if you control two or more allies named Flame of Azzinoth, this weapon has +10 ATK this turn.
 
 regulation:

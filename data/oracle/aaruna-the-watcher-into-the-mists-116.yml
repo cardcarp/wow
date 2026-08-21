@@ -2,9 +2,11 @@ name: Aaruna the Watcher
 
 origin: into-the-mists-116
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

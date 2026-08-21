@@ -2,9 +2,11 @@ name: Pinata
 
 origin: fields-of-honor-166
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

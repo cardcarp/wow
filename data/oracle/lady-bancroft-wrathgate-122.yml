@@ -2,9 +2,12 @@ name: Lady Bancroft
 
 origin: wrathgate-122
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Prevent all damage that opposing heroes would deal to this ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Coordinated Attack
 
 origin: onyxias-lair-treasure-002
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Friendly heroes have " → This hero deals 1 ranged damage to target hero or ally."'
 
 regulation:

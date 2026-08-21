@@ -2,9 +2,12 @@ name: Rupture
 
 origin: fields-of-honor-059
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

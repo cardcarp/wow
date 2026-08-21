@@ -2,9 +2,12 @@ name: Champions Shout
 
 origin: tomb-of-the-forgotten-058
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Allies you control have +1 / +1 for each equipment you control.'
 
 regulation:

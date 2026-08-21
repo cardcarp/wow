@@ -2,9 +2,12 @@ name: Precognition
 
 origin: drums-of-war-055
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: X
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target opponent reveals his hand and chooses an ally card in it with cost X or less. Put that card into your party.
 
 regulation:

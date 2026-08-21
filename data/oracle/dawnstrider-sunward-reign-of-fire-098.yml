@@ -2,9 +2,12 @@ name: Dawnstrider Sunward
 
 origin: reign-of-fire-098
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 

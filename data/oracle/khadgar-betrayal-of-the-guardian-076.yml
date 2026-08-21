@@ -2,9 +2,12 @@ name: Khadgar
 
 origin: betrayal-of-the-guardian-076
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 2 less to play abilities, to a minimum of 1 . When you play an ability, you may ready Khadgar.
 
 regulation:

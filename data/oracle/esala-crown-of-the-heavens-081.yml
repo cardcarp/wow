@@ -2,9 +2,12 @@ name: Esala
 
 origin: crown-of-the-heavens-081
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: While this ally is undamaged, she has Assault 4 .
 
 regulation:

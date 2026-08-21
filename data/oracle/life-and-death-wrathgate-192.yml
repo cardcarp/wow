@@ -2,9 +2,11 @@ name: Life... and Death
 
 origin: wrathgate-192
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

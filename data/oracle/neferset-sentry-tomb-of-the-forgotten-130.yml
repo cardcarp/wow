@@ -2,9 +2,12 @@ name: Neferset Sentry
 
 origin: tomb-of-the-forgotten-130
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: Exhaust another ally you control → This ally has +2 ATK this turn.'
 
 regulation:

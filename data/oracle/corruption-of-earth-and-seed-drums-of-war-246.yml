@@ -2,12 +2,15 @@ name: Corruption of Earth and Seed
 
 origin: drums-of-war-246
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'You pay 1 less to complete this quest for each ally in your party. Pay 3 to complete this quest. Reward : Draw a card.'
 
 regulation:

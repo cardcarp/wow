@@ -2,17 +2,20 @@ name: Obora the Wise
 
 origin: servants-of-the-betrayer-006
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 , Flip Obora → When you play an ability this turn, draw a card.
 
 regulation:

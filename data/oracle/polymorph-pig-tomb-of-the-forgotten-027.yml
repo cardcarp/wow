@@ -2,9 +2,12 @@ name: 'Polymorph: Pig'
 
 origin: tomb-of-the-forgotten-027
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target opposing ally. Ongoing : Attached ally becomes 1 / 1 and is also a Pig. When attached ally is destroyed, your hero heals 3 damage from itself.'
 
 regulation:

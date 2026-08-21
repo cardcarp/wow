@@ -2,12 +2,15 @@ name: Sacrifices Must Be Made
 
 origin: scourgewar-259
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 5 to complete this quest. Reward : Draw three cards, then discard two cards unless you discard an ally.'
 
 regulation:

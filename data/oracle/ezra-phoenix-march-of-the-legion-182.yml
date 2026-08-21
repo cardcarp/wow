@@ -2,9 +2,12 @@ name: Ezra Phoenix
 
 origin: march-of-the-legion-182
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity When Ezra readies, he deals 2 ranged damage to target hero or ally.
 
 regulation:

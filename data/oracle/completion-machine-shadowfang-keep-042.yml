@@ -2,12 +2,15 @@ name: Completion Machine
 
 origin: shadowfang-keep-042
 
-layout: standard
+layout: Standard
 
-category: Achievement
+category:
+  - Achievement
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: A Raider controls at least eight face-down resources.
 
 regulation:

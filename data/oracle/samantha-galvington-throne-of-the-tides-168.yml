@@ -2,9 +2,12 @@ name: Samantha Galvington
 
 origin: throne-of-the-tides-168
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 

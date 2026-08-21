@@ -2,17 +2,20 @@ name: Joleera
 
 origin: throne-of-the-tides-017
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 2 , Flip Joleera → Joleera has +2 ATK this turn.'
 
 regulation:

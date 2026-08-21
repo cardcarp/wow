@@ -2,17 +2,20 @@ name: Sinthya Flabberghast
 
 origin: drums-of-war-015
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Sinthya → When Sinthya next deals combat damage to a hero or ally this turn, she also deals that much melee damage to a second target hero or ally.
 
 regulation:

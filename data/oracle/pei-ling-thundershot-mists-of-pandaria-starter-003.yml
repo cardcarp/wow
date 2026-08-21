@@ -2,9 +2,11 @@ name: Pei Ling Thundershot
 
 origin: mists-of-pandaria-starter-003
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Armed to the Teeth
 
 origin: servants-of-the-betrayer-117
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

@@ -2,9 +2,11 @@ name: Gladekeeper Lisbeth
 
 origin: into-the-mists-130
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

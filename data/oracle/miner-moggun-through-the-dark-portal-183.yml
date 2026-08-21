@@ -2,9 +2,12 @@ name: Miner Moggun
 
 origin: through-the-dark-portal-183
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive → Put the top two cards of your deck into your graveyard.
 
 regulation:

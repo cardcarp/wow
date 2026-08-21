@@ -2,12 +2,15 @@ name: Deathwing the Destroyer
 
 origin: twilight-of-the-dragons-021
 
-layout: standard
+layout: Standard
 
-category: Master Hero
+category:
+  - Master Hero
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: As an additional cost to play, destroy any number of cards you control. You pay less to play Deathwing for each card destroyed this way. Assault 5. At the start of your turn, target opponent destroys two cards he controls.
 
 regulation:

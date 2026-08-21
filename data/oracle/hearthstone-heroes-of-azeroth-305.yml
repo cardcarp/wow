@@ -2,9 +2,12 @@ name: Hearthstone
 
 origin: heroes-of-azeroth-305
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 6 , , Concede the game → Players can keep any of their equipment and start the next game with those cards in play.
 
 regulation:

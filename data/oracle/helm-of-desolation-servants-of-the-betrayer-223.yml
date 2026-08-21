@@ -2,9 +2,12 @@ name: Helm of Desolation
 
 origin: servants-of-the-betrayer-223
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with a weapon, target ally in your party has +2 ATK this turn.
 
 regulation:

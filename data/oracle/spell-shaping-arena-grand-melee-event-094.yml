@@ -2,12 +2,15 @@ name: Spell Shaping
 
 origin: arena-grand-melee-event-094
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Each non-ongoing ability can be played as though it were a copy of any other non-ongoing ability card with the same cost.'
 
 regulation:

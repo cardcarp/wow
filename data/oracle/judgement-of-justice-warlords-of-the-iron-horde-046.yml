@@ -2,9 +2,11 @@ name: Judgement Of Justice
 
 origin: warlords-of-the-iron-horde-046
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

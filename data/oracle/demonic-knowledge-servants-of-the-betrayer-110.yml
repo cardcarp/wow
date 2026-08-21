@@ -2,9 +2,12 @@ name: Demonic Knowledge
 
 origin: servants-of-the-betrayer-110
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Demonology Hero Required Ongoing : , Destroy a Demon in your party → Draw two cards.'
 
 regulation:

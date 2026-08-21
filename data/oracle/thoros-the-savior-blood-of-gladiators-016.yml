@@ -2,17 +2,20 @@ name: Thoros the Savior
 
 origin: blood-of-gladiators-016
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 29
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 , Flip Thoros → Thoros heals 2 damage from target hero or ally. Draw a card.
 
 regulation:

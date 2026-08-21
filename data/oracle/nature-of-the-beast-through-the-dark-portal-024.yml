@@ -2,9 +2,12 @@ name: Nature of the Beast
 
 origin: through-the-dark-portal-024
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Your hero has +1 ATK while attacking in bear or cat form.'
 
 regulation:

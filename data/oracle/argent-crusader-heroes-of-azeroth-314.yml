@@ -2,9 +2,12 @@ name: Argent Crusader
 
 origin: heroes-of-azeroth-314
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you and target opponent each draw a card.
 
 regulation:

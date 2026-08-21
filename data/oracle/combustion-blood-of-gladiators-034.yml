@@ -2,9 +2,12 @@ name: Combustion
 
 origin: blood-of-gladiators-034
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Fire Hero Required Your hero deals X fire damage to each hero and ally, where X is target ally's health.
 
 regulation:

@@ -2,12 +2,15 @@ name: Shadowfang Keep
 
 origin: dungeon-treasure-060
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: ', Destroy an ally you control → You pay 2 less to play your next ally this turn.'
 
 regulation:

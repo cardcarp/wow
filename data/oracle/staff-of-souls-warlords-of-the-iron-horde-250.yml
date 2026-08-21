@@ -2,9 +2,11 @@ name: Staff Of Souls
 
 origin: warlords-of-the-iron-horde-250
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

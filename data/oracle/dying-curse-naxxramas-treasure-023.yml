@@ -2,9 +2,12 @@ name: Dying Curse
 
 origin: naxxramas-treasure-023
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -14,7 +17,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , → Destroy target attachment. If you do, it's controller draws a card.
 
 regulation:

@@ -2,9 +2,12 @@ name: Moroes' Lucky Pocket Watch
 
 origin: betrayal-of-the-guardian-176
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 2 , → Reveal the top card of your deck. The next time your hero would be dealt damage this turn, prevent damage equal to the cost of the revealed card.
 
 regulation:

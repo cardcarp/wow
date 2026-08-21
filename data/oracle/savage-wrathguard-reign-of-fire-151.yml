@@ -2,9 +2,12 @@ name: Savage Wrathguard
 
 origin: reign-of-fire-151
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Smash
 
 regulation:

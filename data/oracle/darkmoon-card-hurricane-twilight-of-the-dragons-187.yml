@@ -2,9 +2,12 @@ name: 'Darkmoon Card: Hurricane'
 
 origin: twilight-of-the-dragons-187
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -18,7 +21,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this item enters or leaves play, your hero deals 1 nature damage to each opposing ally.
 
 regulation:

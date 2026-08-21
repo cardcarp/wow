@@ -2,9 +2,11 @@ name: Pouncing Cat Form
 
 origin: warlords-of-the-iron-horde-014
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

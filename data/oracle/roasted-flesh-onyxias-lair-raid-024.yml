@@ -2,9 +2,12 @@ name: Roasted Flesh
 
 origin: onyxias-lair-raid-024
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

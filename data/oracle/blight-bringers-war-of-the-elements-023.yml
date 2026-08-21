@@ -2,9 +2,12 @@ name: Blight Bringers
 
 origin: war-of-the-elements-023
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Up to three target allies have -3 ATK this turn.
 
 regulation:

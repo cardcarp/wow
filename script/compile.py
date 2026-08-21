@@ -132,7 +132,7 @@ def compile_base_jsons():
         return to_kebab_case(f"{record.get('set')}-{record.get('index')}")
 
     def deck_id(record):
-        return to_kebab_case(f"{record.get('collection')}-{record.get('name')}")
+        return to_kebab_case(f"{record.get('group')}-{record.get('name')}")
 
     mappings = [
         ('data/oracle', 'dist/oracle.json', 'oracle', oracle_id, None),
@@ -176,9 +176,9 @@ def compile_base_jsons():
 
 MAX_REPORTED_PROBLEMS = 25
 
-# Deck 'collection' is a folder grouping ('2013', 'raid'), not a reference to
+# Deck 'group' is a folder grouping ('2013', 'raid'), not a reference to
 # data/collection, so it is deliberately not checked here.
-DECK_LIST_SECTIONS = ('hero', 'main', 'reserve', 'token')
+DECK_LIST_SECTIONS = ('hero', 'main', 'side', 'auxiliary')
 
 
 def check_references(cards, oracles, sets, collections, formats, decks):
@@ -195,7 +195,7 @@ def check_references(cards, oracles, sets, collections, formats, decks):
         check(f"card {card_id}", 'set', record.get('set_id'), sets, 'set')
 
     for set_id, record in sets.items():
-        check(f"set {set_id}", 'collection', record.get('collection'), collections, 'collection')
+        check(f"set {set_id}", 'collection', record.get('collection_id'), collections, 'collection')
 
     for deck_id, record in decks.items():
         check(f"deck {deck_id}", 'highlight', record.get('highlight'), cards, 'card')
@@ -204,6 +204,11 @@ def check_references(cards, oracles, sets, collections, formats, decks):
             if isinstance(entries, dict):
                 for card_ref in entries:
                     check(f"deck {deck_id} list.{section}", 'card', card_ref, cards, 'card')
+
+    vocabulary = set()
+    for record in oracles.values():
+        vocabulary.update(record.get('category') or [])
+        vocabulary.update(record.get('theme') or [])
 
     for format_id, record in formats.items():
         # '*' is the wildcard meaning "every set"
@@ -217,6 +222,13 @@ def check_references(cards, oracles, sets, collections, formats, decks):
             for value in (entries.keys() if isinstance(entries, dict) else entries):
                 check(f"format {format_id}", field, value, oracles, 'oracle')
 
+        # oracle_exception is keyed by a category or theme value rather than an
+        # id, so the schema cannot constrain it to a closed list. A key that
+        # matches nothing would silently never apply, so it is checked here
+        # against the vocabulary the oracles actually use.
+        for value in (record.get('oracle_exception') or {}):
+            check(f"format {format_id}", 'oracle_exception', value, vocabulary, 'category or theme')
+
     if problems:
         print(f"Error: {len(problems)} reference(s) do not resolve:")
         for problem in problems[:MAX_REPORTED_PROBLEMS]:
@@ -226,6 +238,20 @@ def check_references(cards, oracles, sets, collections, formats, decks):
         sys.exit(1)
 
     print("  All references resolve.")
+
+
+def exception_limit(table, categories, themes):
+    # oracle_exception is flat: a key is matched against an oracle's categories
+    # and its themes alike. Nothing here keeps the two vocabularies apart, so a
+    # theme must never reuse a category's name.
+    if not table:
+        return None
+
+    for value in (*categories, *themes):
+        if value in table:
+            return table[value]
+
+    return None
 
 
 def compile_joined_database():
@@ -286,14 +312,17 @@ def compile_joined_database():
                 if key not in record: record[key] = v
 
         # Calculate Legality
-        record["format"] = {}
+        # 'legality' is keyed by format name; 'format' is reserved for naming a
+        # format, the way a deck's own 'format' does.
+        record["legality"] = {}
         record["legal"] = []
         record["ban"] = []
         record["restrict"] = []
         c_set_id = record.get("set_id")
         c_reg = record.get("regulation")
         c_oid = record.get("oracle_id")
-        c_cat = record.get("category")
+        c_cat = record.get("category") or []
+        c_theme = record.get("theme") or []
 
         for f_name, f_rules in formats.items():
             legal, limit = False, 0
@@ -312,16 +341,16 @@ def compile_joined_database():
 
             if (by_set or by_regulation) and c_oid not in bans:
                 restricts = f_rules.get("oracle_restrict")
-                cat_limits = f_rules.get("category_limit")
+                exception = exception_limit(f_rules.get("oracle_exception"), c_cat, c_theme)
                 if restricts and c_oid in restricts:
                     legal, limit = True, restricts[c_oid]
                     record["restrict"].append(f_name)
-                elif cat_limits and c_cat in cat_limits:
-                    legal, limit = True, cat_limits[c_cat]
+                elif exception is not None:
+                    legal, limit = True, exception
                 else:
                     legal, limit = True, f_rules.get("oracle_limit", 4)
                 record["legal"].append(f_name)
-            record["format"][f_name] = {"legal": legal, "limit": limit}
+            record["legality"][f_name] = {"legal": legal, "limit": limit}
 
         # Add it al together
         card_complete_dict[card_id] = record

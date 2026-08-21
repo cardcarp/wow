@@ -5,19 +5,19 @@ name:
 type:
   type: string
   required: true
-  allowed: ['set', 'raid', 'starter', 'promo', 'craft', 'dungeon', 'badge', 'token']
+  allowed: ['Standard', 'Raid', 'Starter', 'Promo', 'Craft', 'Dungeon', 'Badge', 'Token']
 
-index:
+index: # release order within the collection
   type: string
   nullable: true
 
-subtotal:
+subtotal: # total as printed on the card (new sets lie to have 'surprise' secret art cards)
   type: integer
 
 total:
   type: integer
 
-date_release:
+date:
   type: string
   regex: '^[0-9]{4}-[0-9]{2}$'
 

@@ -2,9 +2,12 @@ name: Tiny
 
 origin: scourgewar-215
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you place a resource face up, you pay 2 less to complete your next quest this turn. (Mounts can't attack or be attacked.)
 
 regulation:

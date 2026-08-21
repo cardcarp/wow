@@ -2,9 +2,12 @@ name: Taluret, Herald of Faith
 
 origin: tomb-of-the-forgotten-135
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Holy
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Empower Priest : When this ally enters play, if you control another Priest hero or ally, you may have target player shuffle all allies from his graveyard into his deck.'
 
 regulation:

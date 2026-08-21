@@ -2,9 +2,12 @@ name: Blessing of the Heavens
 
 origin: blood-of-gladiators-082
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

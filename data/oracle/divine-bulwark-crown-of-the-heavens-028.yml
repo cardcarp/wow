@@ -2,9 +2,12 @@ name: Divine Bulwark
 
 origin: crown-of-the-heavens-028
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally. Ongoing : Attached ally has +4 / +4. If attached ally would be destroyed, destroy this ability instead. If you do, your hero heals all damage from that ally.'
 
 regulation:

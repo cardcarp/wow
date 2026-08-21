@@ -2,9 +2,12 @@ name: Forsaken Royal Dreadguard
 
 origin: dungeon-treasure-019
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, this ally deals 1 melee damage to target hero for each Forsaken Royal Dreadguard you and other friendly players control (including himself) .
 
 regulation:

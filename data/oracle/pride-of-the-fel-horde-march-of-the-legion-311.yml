@@ -2,12 +2,15 @@ name: Pride of the Fel Horde
 
 origin: march-of-the-legion-311
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 2 to complete this quest. Reward : If you have no ready resources, draw a card.'
 
 regulation:

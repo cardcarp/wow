@@ -2,9 +2,11 @@ name: Tiralesh
 
 origin: monk-starter-011
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

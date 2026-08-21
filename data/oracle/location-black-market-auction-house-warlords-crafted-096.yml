@@ -2,9 +2,11 @@ name: Location Black Market Auction House
 
 origin: warlords-crafted-096
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

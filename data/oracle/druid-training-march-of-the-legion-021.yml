@@ -2,9 +2,12 @@ name: Druid Training
 
 origin: march-of-the-legion-021
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target friendly ally. Ongoing : Attached ally has " → Exhaust target ally."'
 
 regulation:

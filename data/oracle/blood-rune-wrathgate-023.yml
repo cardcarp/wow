@@ -2,9 +2,12 @@ name: Blood Rune
 
 origin: wrathgate-023
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'As an additional cost to play, remove an equipment in your graveyard from the game. Ongoing : → You pay 1 less to play your next card this turn.'
 
 regulation:

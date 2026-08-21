@@ -2,9 +2,11 @@ name: Squirrel Beast Token
 
 origin: into-the-mists-tokens-010
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

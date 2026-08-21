@@ -1,25 +1,26 @@
 name: Alliance Warrior
 
-credit: Official Product
+format:
+  - Starter
 
-category: Preconstructed
+group: '2011'
 
-facet:
+theme:
   - Alliance
   - Starter
   - '2011'
 
-collection: '2011'
+complexity:
+
+division:
 
 highlight: alliance-warrior-2011-001
 
-description: 2011 Alliance Warrior Preconstructed
+tagline: 2011 Alliance Warrior Preconstructed
 
-context:
+description:
   - title: ''
     body: Introduction to the 2011 Alliance Warrior
-
-total: 61
 
 list:
   hero:

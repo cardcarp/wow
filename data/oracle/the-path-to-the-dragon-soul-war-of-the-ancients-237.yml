@@ -2,12 +2,15 @@ name: The Path to the Dragon Soul
 
 origin: war-of-the-ancients-237
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 1 to complete this quest. Reward : Draw a card, then choose and discard a card.'
 
 regulation:

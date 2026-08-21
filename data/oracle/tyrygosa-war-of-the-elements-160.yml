@@ -2,9 +2,12 @@ name: Tyrygosa
 
 origin: war-of-the-elements-160
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 8
 combat: Ranged
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, reveal the top card of your deck. If it's an ability, you can play it immediately without paying its cost. (If it has X in its cost, X is 0).
 
 regulation:

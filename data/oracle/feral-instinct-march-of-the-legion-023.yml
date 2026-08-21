@@ -2,9 +2,12 @@ name: Feral Instinct
 
 origin: march-of-the-legion-023
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

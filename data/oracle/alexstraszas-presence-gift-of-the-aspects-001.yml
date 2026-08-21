@@ -2,14 +2,17 @@ name: Alexstraszas Presence
 
 origin: gift-of-the-aspects-001
 
-layout: standard
+layout: Standard
 
-category: Misc
+category:
+  - Misc
+
+theme:
 
 type: Gift
 
 rule:
-  - type: ability
+  - type: Ability
     text: "If a Raider's hero was destroyed while he had twenty or more cards in his graveyard, gain this Gift. Use this Gift: Each Raider may shuffle any number of cards from his graveyard into his deck."
 
 regulation:

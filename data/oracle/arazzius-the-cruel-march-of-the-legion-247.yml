@@ -2,9 +2,12 @@ name: Arazzius the Cruel
 
 origin: march-of-the-legion-247
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Arazzius attacks, each player destroys an ally in his party.
 
 regulation:

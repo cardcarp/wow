@@ -2,9 +2,11 @@ name: Silver Covenant Spellblade
 
 origin: echoes-of-thunder-121
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

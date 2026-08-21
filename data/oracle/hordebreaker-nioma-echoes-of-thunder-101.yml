@@ -2,9 +2,11 @@ name: Hordebreaker Nioma
 
 origin: echoes-of-thunder-101
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

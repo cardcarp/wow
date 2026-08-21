@@ -2,9 +2,11 @@ name: Spiritsever
 
 origin: into-the-mists-295
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

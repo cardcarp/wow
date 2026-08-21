@@ -2,9 +2,12 @@ name: Edgemasters Handguards
 
 origin: heroes-of-azeroth-286
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to strike with weapons.
 
 regulation:

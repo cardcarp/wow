@@ -2,9 +2,11 @@ name: Disabling Strike
 
 origin: monk-starter-018
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

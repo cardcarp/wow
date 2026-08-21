@@ -2,9 +2,12 @@ name: Landros Lil' XT
 
 origin: worldbreaker-220
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may destroy target item. At the start of your turn, this ally deals 1 nature damage to each hero and ally.
 
 regulation:

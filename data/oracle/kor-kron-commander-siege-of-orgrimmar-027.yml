@@ -2,9 +2,11 @@ name: Kor Kron Commander
 
 origin: siege-of-orgrimmar-027
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

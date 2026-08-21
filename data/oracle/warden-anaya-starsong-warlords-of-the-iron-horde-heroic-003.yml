@@ -2,9 +2,11 @@ name: Warden Anaya Starsong
 
 origin: warlords-of-the-iron-horde-heroic-003
 
-layout: transform
+layout: Transform
 
 category:
+
+theme:
 
 rule: []
 

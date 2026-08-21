@@ -2,17 +2,20 @@ name: Harona Proudmane
 
 origin: wrathgate-012
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Flip Harona, discard a Druid → Harona heals 6 damage from target hero.
 
 regulation:

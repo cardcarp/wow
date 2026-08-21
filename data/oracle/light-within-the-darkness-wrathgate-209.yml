@@ -2,12 +2,15 @@ name: Light Within the Darkness
 
 origin: wrathgate-209
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If a hero or ally you controlled dealt holy ( ) damage this turn: Pay 1 to complete this quest. Reward : Draw a card.'
 
 regulation:

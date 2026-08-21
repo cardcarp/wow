@@ -2,9 +2,11 @@ name: Blood Of Mannoroth
 
 origin: warlords-of-the-iron-horde-095
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

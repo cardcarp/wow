@@ -2,9 +2,12 @@ name: Scalp of the Bandit Prince
 
 origin: tomb-of-the-forgotten-174
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play a card with cost 6 or more, add a scalp counter to this armor. At the start of your turn, if this armor has three or more scalp counters on it, your hero deals 6 melee damage to target hero.
 
 regulation:

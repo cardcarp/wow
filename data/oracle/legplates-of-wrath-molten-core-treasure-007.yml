@@ -2,9 +2,12 @@ name: Legplates of Wrath
 
 origin: molten-core-treasure-007
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play a ability, you may pay 1 . If you do, ready target armor.
 
 regulation:

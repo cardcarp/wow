@@ -1,6 +1,6 @@
 name: Naxxramas Token
 
-type: raid
+type: Raid
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 17
 
 total: 17
 
-date_release: 2009-12
+date: 2009-12
 
 collection: Naxxramas

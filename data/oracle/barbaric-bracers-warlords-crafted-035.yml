@@ -2,9 +2,11 @@ name: Barbaric Bracers
 
 origin: warlords-crafted-035
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

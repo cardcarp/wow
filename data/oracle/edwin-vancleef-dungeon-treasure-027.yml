@@ -2,9 +2,12 @@ name: Edwin VanCleef
 
 origin: dungeon-treasure-027
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 3
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Stealth , Untargetable When Edwin enters play, put two 1 / 1 Defias Thug ally tokens into play with "This ally can protect allies with VanCleef in their names." When Edwin is destroyed, you may put an ally named Vanessa VanCleef from your hand into play.
 
 regulation:

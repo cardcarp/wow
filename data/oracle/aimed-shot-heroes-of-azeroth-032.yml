@@ -2,9 +2,12 @@ name: Aimed Shot
 
 origin: heroes-of-azeroth-032
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: 1+X
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Marksmanship Hero Required Your hero deals X ranged damage to target hero or ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Wisp
 
 origin: through-the-dark-portal-197
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, if Wisp is in your graveyard, you may pay 1 . If you do, put Wisp into your hand.
 
 regulation:

@@ -2,9 +2,12 @@ name: Treads of Fleeting Joy
 
 origin: aftermath-badges-of-justice-004
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: If your hero would deal 5 or more combat damage while attacking, it deals that much +5 instead.
 
 regulation:

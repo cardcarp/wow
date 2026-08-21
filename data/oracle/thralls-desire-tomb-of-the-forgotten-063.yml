@@ -2,14 +2,17 @@ name: Thralls Desire
 
 origin: tomb-of-the-forgotten-063
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : On your turn: Exhaust an Aspect of Thrall ability you control → Your hero heals 1 damage from target hero or ally.'
 
 regulation:

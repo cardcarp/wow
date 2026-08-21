@@ -1,24 +1,25 @@
 name: Elderlimb
 
-credit: Official Product
+format:
+  - Starter
 
-category: Preconstructed
+group: champion
 
-facet:
+theme:
   - Champion
   - Starter
 
-collection: champion
+complexity:
+
+division:
 
 highlight: elderlimb-001
 
-description: Elderlimb Preconstructed
+tagline: Elderlimb Preconstructed
 
-context:
+description:
   - title: ''
     body: Introduction to the Elderlimb
-
-total: 61
 
 list:
   hero:

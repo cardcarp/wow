@@ -2,9 +2,11 @@ name: Shadowmane Charger
 
 origin: warlords-of-the-iron-horde-211
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

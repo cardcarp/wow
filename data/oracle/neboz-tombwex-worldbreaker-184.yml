@@ -2,9 +2,12 @@ name: Neboz Tombwex
 
 origin: worldbreaker-184
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Protector On your turn: 5 → Put target equipment on the bottom of its owner's deck."
 
 regulation:

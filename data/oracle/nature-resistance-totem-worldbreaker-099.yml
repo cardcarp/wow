@@ -2,9 +2,12 @@ name: Nature Resistance Totem
 
 origin: worldbreaker-099
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

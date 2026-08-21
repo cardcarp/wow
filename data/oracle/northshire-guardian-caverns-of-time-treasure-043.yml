@@ -2,9 +2,12 @@ name: Northshire Guardian
 
 origin: caverns-of-time-treasure-043
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When an attacker deals combat damage to this ally, that attacking character can't ready during it's controller's next ready step.
 
 regulation:

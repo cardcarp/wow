@@ -2,9 +2,11 @@ name: In Sprite of Everything
 
 origin: into-the-mists-312
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Cookies Tenderizer
 
 origin: dungeon-treasure-048
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -16,7 +19,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage to a hero or ally with this weapon, allies you control have +1 ATK while attacking that character this turn.
 
 regulation:

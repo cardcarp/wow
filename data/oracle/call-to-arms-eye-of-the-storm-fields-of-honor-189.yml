@@ -2,12 +2,15 @@ name: Call to Arms' Eye of the Storm
 
 origin: fields-of-honor-189
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "On your turn, pay 3 to complete this quest. Reward : Draw a card, and target hero or ally can't ready during its controller's next ready step. You may add an honor counter to a Battleground card you control."
 
 regulation:

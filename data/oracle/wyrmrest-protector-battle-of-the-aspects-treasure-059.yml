@@ -2,9 +2,12 @@ name: Wyrmrest Protector
 
 origin: battle-of-the-aspects-treasure-059
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: Allies you control have "When this ally deals damage to an opposing hero, this ally also heals that much damage from your hero."
 
 regulation:

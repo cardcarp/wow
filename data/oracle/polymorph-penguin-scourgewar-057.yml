@@ -2,9 +2,12 @@ name: 'Polymorph: Penguin'
 
 origin: scourgewar-057
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

@@ -2,9 +2,12 @@ name: Weakening Poison
 
 origin: wrathgate-071
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

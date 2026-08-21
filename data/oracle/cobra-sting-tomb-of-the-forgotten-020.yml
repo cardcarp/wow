@@ -2,9 +2,12 @@ name: Cobra Sting
 
 origin: tomb-of-the-forgotten-020
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target opposing hero. Ongoing : At the start of your turn, your hero deals 1 nature damage to attached hero. At the end of your turn, if attached hero was dealt 5 or more damage this turn, ready all resources you control.'
 
 regulation:

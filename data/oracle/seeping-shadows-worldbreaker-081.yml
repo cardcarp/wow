@@ -2,9 +2,12 @@ name: Seeping Shadows
 
 origin: worldbreaker-081
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target hero. Ongoing : At the start of your turn, your hero deals 2 shadow damage to attached hero. Its controller puts a card from the top of his deck into his graveyard for each damage dealt this way.'
 
 regulation:

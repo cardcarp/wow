@@ -2,9 +2,12 @@ name: spider Legs' McGillicutty
 
 origin: march-of-the-legion-204
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector When Spider Legs is destroyed, you may exhaust target hero or ally.
 
 regulation:

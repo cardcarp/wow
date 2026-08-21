@@ -2,14 +2,17 @@ name: Pit Lords Armor
 
 origin: magtheridons-lair-raid-039
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
 rule:
-  - type: ability
+  - type: Ability
     text: Play only if Magtheridon is Unleashed. Destroy a Blood → This turn, Magtheridon can't be targeted by raiding players, and your cards can't be interrupted.
 
 regulation:

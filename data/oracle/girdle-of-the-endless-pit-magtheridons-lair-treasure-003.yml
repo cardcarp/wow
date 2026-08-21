@@ -2,9 +2,12 @@ name: Girdle of the Endless Pit
 
 origin: magtheridons-lair-treasure-003
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, put 1 damage on your hero.
 
 regulation:

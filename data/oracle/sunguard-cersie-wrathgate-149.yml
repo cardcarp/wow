@@ -2,9 +2,12 @@ name: Sunguard Cersie
 
 origin: wrathgate-149
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Protector Once per turn: 1 → Prevent the next 1 damage that would be dealt to target hero or ally this turn.'
 
 regulation:

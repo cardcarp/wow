@@ -2,16 +2,19 @@ name: Kel'Thuzads Detonation
 
 origin: naxxramas-raid-062
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Raid
 
 stage: 2
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the end of your turn, each raider destroys three resources he controls.'
 
 regulation:

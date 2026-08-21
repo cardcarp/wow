@@ -2,9 +2,12 @@ name: '"Acid Hands" McGillicutty'
 
 origin: march-of-the-legion-172
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Acid Hands is destroyed, you may destroy target equipment.
 
 regulation:

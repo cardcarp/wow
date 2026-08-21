@@ -2,9 +2,11 @@ name: Dragonmaw Skybreaker
 
 origin: warlords-of-the-iron-horde-138
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

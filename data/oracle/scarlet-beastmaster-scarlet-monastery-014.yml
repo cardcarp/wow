@@ -2,9 +2,12 @@ name: Scarlet Beastmaster
 
 origin: scarlet-monastery-014
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 2
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, she deals 4 fire damage to the Raiding ally with the highest cost. (Raiders choose in case of ties.)
 
 regulation:

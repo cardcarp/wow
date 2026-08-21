@@ -2,9 +2,12 @@ name: Eye of Magtheridon
 
 origin: magtheridons-lair-treasure-010
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: If 1 would be rolled on a die, you may change it to any value on that die instead.
 
 regulation:

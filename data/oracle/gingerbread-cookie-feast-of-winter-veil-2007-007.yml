@@ -2,9 +2,12 @@ name: Gingerbread Cookie
 
 origin: feast-of-winter-veil-2007-007
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -20,7 +23,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy Gingerbread Cookie → Each hero heals 7 damage from itself.
 
 regulation:

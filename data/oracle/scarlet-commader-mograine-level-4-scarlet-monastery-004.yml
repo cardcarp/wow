@@ -2,9 +2,11 @@ name: Scarlet Commader Mograine - Level 4
 
 origin: scarlet-monastery-004
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

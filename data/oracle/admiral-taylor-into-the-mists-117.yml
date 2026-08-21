@@ -2,9 +2,11 @@ name: Admiral Taylor
 
 origin: into-the-mists-117
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

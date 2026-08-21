@@ -1,6 +1,6 @@
 name: Wrathgate Token
 
-type: token
+type: Token
 
 index: 02c
 
@@ -8,6 +8,6 @@ subtotal: 2
 
 total: 2
 
-date_release: 2010-05
+date: 2010-05
 
 collection: Scourgewar

@@ -2,9 +2,12 @@ name: Tim
 
 origin: through-the-dark-portal-192
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive → Tim deals 1 arcane damage to target hero or ally.
 
 regulation:

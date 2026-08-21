@@ -2,9 +2,11 @@ name: Kilruk The Windreaver
 
 origin: siege-of-orgrimmar-026
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Merciless Gladiators Raiment
 
 origin: fields-of-honor-161
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '8'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each hero and ally in your party has +X health, where X is its printed health. → Target opponent puts three allies from his party into their owners' hands.
 
 regulation:

@@ -2,9 +2,12 @@ name: Grimdron
 
 origin: heroes-of-azeroth-125
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -18,7 +21,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive 1 , → Grimdron deals 1 fire damage to target hero or ally.
 
 regulation:

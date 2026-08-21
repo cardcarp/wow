@@ -2,16 +2,19 @@ name: Inevitable Failure
 
 origin: naxxramas-raid-052
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 type: Raid
 
 stage: 12
 
 rule:
-  - type: ability
+  - type: Ability
     text: Look at target raider's hand and choose a card. He discards that card.
 
 regulation:

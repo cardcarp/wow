@@ -2,9 +2,12 @@ name: Brutality Blade
 
 origin: molten-core-treasure-019
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy Brutality Blade → Opposing heroes and allies can't be healed this turn.
 
 regulation:

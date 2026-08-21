@@ -2,9 +2,12 @@ name: Al'Akir the Windlord
 
 origin: war-of-the-elements-168
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Nature
 
 rule:
-  - type: ability
+  - type: Ability
     text: Air Elementals you control have Untargetable . At the start of your turn, put a 2 / 1 Air Elemental ally token into play. Exhaust an Air Elemental you control → Exhaust target ally.
 
 regulation:

@@ -2,9 +2,12 @@ name: Dirty Work
 
 origin: the-hunt-for-illidan-075
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : If your hero would deal non-combat damage, it deals combat damage instead.'
 
 regulation:

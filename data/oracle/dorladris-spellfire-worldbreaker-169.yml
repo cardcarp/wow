@@ -2,9 +2,12 @@ name: Dorladris Spellfire
 
 origin: worldbreaker-169
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 4 → Draw a card.
 
 regulation:

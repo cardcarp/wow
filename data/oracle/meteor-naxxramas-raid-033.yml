@@ -2,14 +2,17 @@ name: Meteor
 
 origin: naxxramas-raid-033
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
 rule:
-  - type: ability
+  - type: Ability
     text: The Boss deals 15 fire damage, divided as the raid leader chooses, to any number of raiding heroes. When a hero is dealt damage this way, its controller destroys an ability, ally, or equipment he controls.
 
 regulation:

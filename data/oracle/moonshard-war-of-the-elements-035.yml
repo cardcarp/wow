@@ -2,9 +2,12 @@ name: Moonshard
 
 origin: war-of-the-elements-035
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 4 arcane damage to target ally.
 
 regulation:

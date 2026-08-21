@@ -2,9 +2,12 @@ name: Kalecgos
 
 origin: war-of-the-elements-021
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 cost: '21'
 
@@ -17,8 +20,8 @@ combat: Ranged
 type: Master
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: You pay 3 less to play Kalecgos for each ability you played this turn. When you play a non-Ongoing ability, copy it. (You may choose new targets for the copy.)
 
 regulation:

@@ -2,9 +2,11 @@ name: Bozzle Spellwind
 
 origin: echoes-of-thunder-132
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

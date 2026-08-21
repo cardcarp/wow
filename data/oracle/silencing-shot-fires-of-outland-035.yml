@@ -2,9 +2,12 @@ name: Silencing Shot
 
 origin: fires-of-outland-035
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

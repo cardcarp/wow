@@ -2,14 +2,17 @@ name: Protect Lord Godfrey!
 
 origin: shadowfang-keep-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: Reveal cards from the top of the Dungeon deck until you reveal a Boss ally. Put that ally into play and the rest on the bottom.
 
 regulation:

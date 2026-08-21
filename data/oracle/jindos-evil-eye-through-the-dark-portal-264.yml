@@ -2,9 +2,12 @@ name: Jin'dos Evil Eye
 
 origin: through-the-dark-portal-264
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of each player's turn, the first opponent to that player's left names a card. That card can't be played this turn.
 
 regulation:

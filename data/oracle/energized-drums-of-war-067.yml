@@ -2,9 +2,12 @@ name: Energized
 
 origin: drums-of-war-067
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

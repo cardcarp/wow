@@ -2,9 +2,11 @@ name: Gear Smash
 
 origin: into-the-mists-095
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

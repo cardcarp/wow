@@ -2,9 +2,12 @@ name: Spurious Sarcophagus
 
 origin: tomb-of-the-forgotten-181
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Remove target card in your graveyard from the game. If you do, add a revive counter to this item. , Remove five revive counters from this item → Put target card that was removed from the game this way in your hand.
 
 regulation:

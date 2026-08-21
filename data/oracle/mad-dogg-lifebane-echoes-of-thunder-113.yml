@@ -2,9 +2,11 @@ name: '"Mad Dogg" Lifebane'
 
 origin: echoes-of-thunder-113
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

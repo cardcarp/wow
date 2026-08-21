@@ -2,9 +2,12 @@ name: Glacial Blade
 
 origin: drums-of-war-238
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destroy Glacial Blade → Your hero deals 1 frost damage to target hero or ally. If a hero is dealt damage this way, its controller skips drawing his next card this turn.
 
 regulation:

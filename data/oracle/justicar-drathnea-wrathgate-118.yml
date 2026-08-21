@@ -2,9 +2,12 @@ name: Justicar Drathnea
 
 origin: wrathgate-118
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally deals damage to a Paladin, that Paladin's controller discards a card.
 
 regulation:

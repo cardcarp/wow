@@ -2,9 +2,11 @@ name: Yulons Gift
 
 origin: into-the-mists-038
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

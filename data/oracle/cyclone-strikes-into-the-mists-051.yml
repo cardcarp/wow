@@ -2,9 +2,11 @@ name: Cyclone Strikes
 
 origin: into-the-mists-051
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

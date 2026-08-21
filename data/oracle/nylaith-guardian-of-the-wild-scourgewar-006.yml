@@ -2,17 +2,20 @@ name: Nylaith, Guardian of the Wild
 
 origin: scourgewar-006
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'If you control another Druid: Flip Nylaith → Nylaith has Protector this turn.'
 
 regulation:

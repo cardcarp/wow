@@ -2,9 +2,12 @@ name: Scheming Watcher
 
 origin: reign-of-fire-152
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, you may draw two cards. If you do, put two cards from your hand on top of your deck in any order.
 
 regulation:

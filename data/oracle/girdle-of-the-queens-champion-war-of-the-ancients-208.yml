@@ -2,9 +2,12 @@ name: Girdle of the Queens Champion
 
 origin: war-of-the-ancients-208
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -14,7 +17,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: This armor enters play exhausted.
 
 regulation:

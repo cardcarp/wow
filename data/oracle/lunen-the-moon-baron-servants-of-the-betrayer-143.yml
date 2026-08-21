@@ -2,9 +2,12 @@ name: Lunen the Moon Baron
 
 origin: servants-of-the-betrayer-143
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive allies in your party have " → Draw a card."
 
 regulation:

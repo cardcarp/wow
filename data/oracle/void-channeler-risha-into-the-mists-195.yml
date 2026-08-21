@@ -2,9 +2,11 @@ name: Void Channeler Risha
 
 origin: into-the-mists-195
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

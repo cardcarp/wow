@@ -2,9 +2,12 @@ name: Farseer Horgath
 
 origin: betrayal-of-the-guardian-094
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Bloodrush : At the start of your turn, if an opposing hero has more damage on it than your hero, you may put this ally from your graveyard into your hand.'
 
 regulation:

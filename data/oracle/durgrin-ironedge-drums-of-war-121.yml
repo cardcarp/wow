@@ -2,9 +2,12 @@ name: Durgrin Ironedge
 
 origin: drums-of-war-121
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Durgrin enters play, you may exhaust target equipment. That equipment can't ready during its controller's ready step while Durgrin remains in your party.
 
 regulation:

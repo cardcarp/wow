@@ -2,9 +2,11 @@ name: Crystalheart Pulse-Staff
 
 origin: magtheridons-lair-treasure-018
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

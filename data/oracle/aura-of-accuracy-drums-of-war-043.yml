@@ -2,9 +2,12 @@ name: Aura of Accuracy
 
 origin: drums-of-war-043
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : You pay 1 less to play cards and effects with one or more targets, to a minimum of 1 .'
 
 regulation:

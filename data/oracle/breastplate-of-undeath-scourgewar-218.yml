@@ -2,9 +2,12 @@ name: Breastplate of Undeath
 
 origin: scourgewar-218
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: This armor enters play with five +1 counters. At the start of your turn, remove a +1 counter. If none remain, destroy this armor.
 
 regulation:

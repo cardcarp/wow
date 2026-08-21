@@ -2,9 +2,12 @@ name: Boundless Concentration
 
 origin: icecrown-089
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -13,7 +16,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ready up to X resources you control, where X is the cost of target non-hero Hunter or Mage you control.
 
 regulation:

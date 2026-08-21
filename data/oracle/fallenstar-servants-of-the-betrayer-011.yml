@@ -2,17 +2,20 @@ name: Fallenstar
 
 origin: servants-of-the-betrayer-011
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 30
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 , Flip Fallenstar → Fallenstar deals 2 melee damage to target hero or ally without damage. Use only on your turn. Tortured Spirit
 
 regulation:

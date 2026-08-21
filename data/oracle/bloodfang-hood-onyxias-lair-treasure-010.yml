@@ -2,9 +2,12 @@ name: Bloodfang Hood
 
 origin: onyxias-lair-treasure-010
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Exhaust target hero or ally. Use only on your turn. When you play a ability, ready Bloodfang Hood.
 
 regulation:

@@ -2,9 +2,12 @@ name: Sympathy
 
 origin: wrathgate-178
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: If an ally you control would be dealt damage, 1 of it is dealt to your hero instead.
 
 regulation:

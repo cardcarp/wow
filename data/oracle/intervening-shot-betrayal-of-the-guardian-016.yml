@@ -2,9 +2,12 @@ name: Intervening Shot
 
 origin: betrayal-of-the-guardian-016
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

@@ -2,9 +2,11 @@ name: Spirit Shell
 
 origin: into-the-mists-069
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

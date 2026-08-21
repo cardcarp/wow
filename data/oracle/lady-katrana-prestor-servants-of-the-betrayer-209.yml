@@ -2,9 +2,12 @@ name: Lady Katrana Prestor
 
 origin: servants-of-the-betrayer-209
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 5
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required 15 → Remove all of your cards in all zones from the game and start an Onyxia Raid.
 
 regulation:

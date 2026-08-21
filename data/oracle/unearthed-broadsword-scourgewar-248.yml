@@ -2,9 +2,12 @@ name: Unearthed Broadsword
 
 origin: scourgewar-248
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, if this weapon is in your graveyard, you may pay 1 . If you do, put it into your hand.
 
 regulation:

@@ -2,9 +2,12 @@ name: Spore
 
 origin: naxxramas-token-013
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 0
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally can't attack. Raiding heroes and allies can't be healed. When this ally is dealt fatal damage by a hero or ally, attach Fungal Creep to that character's controller's hero.
 
 regulation:

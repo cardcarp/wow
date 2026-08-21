@@ -2,9 +2,12 @@ name: Mannoroth the Flayer
 
 origin: caverns-of-time-treasure-054
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '8'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Other allies you control have Assault 2 . Non- allies opponents control have -2 ATK.
 
 regulation:

@@ -2,9 +2,12 @@ name: Barnacle-Coated Greataxe
 
 origin: war-of-the-elements-191
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '8'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to play this weapon for each equipment you control. This weapon has +1 ATK for each equipment you control.
 
 regulation:

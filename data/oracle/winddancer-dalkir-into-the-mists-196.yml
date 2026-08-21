@@ -2,9 +2,11 @@ name: Winddancer Dal'kir
 
 origin: into-the-mists-196
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

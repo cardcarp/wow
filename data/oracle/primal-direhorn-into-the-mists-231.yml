@@ -2,9 +2,11 @@ name: Primal Direhorn
 
 origin: into-the-mists-231
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

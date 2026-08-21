@@ -2,17 +2,20 @@ name: Timmo Shadestep
 
 origin: heroes-of-azeroth-007
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 5 , Flip Timmo → Destroy target exhausted ally.'
 
 regulation:

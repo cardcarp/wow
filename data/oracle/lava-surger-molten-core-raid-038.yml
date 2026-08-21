@@ -2,9 +2,12 @@ name: Lava Surger
 
 origin: molten-core-raid-038
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 4
 
@@ -13,7 +16,7 @@ health: 1
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Lava Surger deals combat damage to a hero, ready Lava Surger. It can't attack that hero this turn.
 
 regulation:

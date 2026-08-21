@@ -2,9 +2,12 @@ name: Giant Infernal
 
 origin: caverns-of-time-raid-025
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 4
 
@@ -15,7 +18,7 @@ combat: Fire
 type: Boss
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of the Caverns hero's turn, this ally deals 10 fire damage to the MARKED hero.
 
 regulation:

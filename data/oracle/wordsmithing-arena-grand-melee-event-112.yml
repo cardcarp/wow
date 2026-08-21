@@ -2,12 +2,15 @@ name: Wordsmithing
 
 origin: arena-grand-melee-event-112
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Players may read their cards that say "or" as if they said "and."'
 
 regulation:

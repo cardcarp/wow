@@ -2,9 +2,12 @@ name: Poisonfire Greatsword
 
 origin: war-of-the-elements-199
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust an ally you control → This weapon has +2 ATK this turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Brutal Bear Form
 
 origin: war-of-the-elements-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

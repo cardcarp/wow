@@ -1,3 +1,5 @@
+oracle: illidan-stormrage-black-temple-treasure-001
+
 index: 005a
 
 rarity: Rare
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: ''
-
-oracle: illidan-stormrage-black-temple-treasure-001
 
 set: Timewalkers

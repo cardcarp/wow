@@ -2,9 +2,12 @@ name: Echo Totem
 
 origin: blood-of-gladiators-062
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the start of your turn, you may remove a non-ongoing ability card in your graveyard from the game. If you do, you can play that card without paying its cost this turn. (Totems can be attacked or targeted like allies.)'
 
 regulation:

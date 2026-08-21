@@ -2,9 +2,12 @@ name: Tidus the Relentless
 
 origin: war-of-the-elements-127
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Aberration , Ferocity This ally has +1 ATK for each exhausted resource you control.
 
 regulation:

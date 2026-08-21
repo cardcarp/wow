@@ -2,9 +2,11 @@ name: Empowering Mist
 
 origin: monk-starter-044
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Mogu Taskmaster
 
 origin: into-the-mists-229
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Mithran the Sniper
 
 origin: wrathgate-124
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an opposing ability, ally, or equipment enters play, destroy this ally. If you do, destroy that opposing card.
 
 regulation:

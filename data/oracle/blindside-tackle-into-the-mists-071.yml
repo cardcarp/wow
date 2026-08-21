@@ -2,9 +2,11 @@ name: Blindside Tackle
 
 origin: into-the-mists-071
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Golden Lotus Guardians
 
 origin: echoes-of-thunder-236
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

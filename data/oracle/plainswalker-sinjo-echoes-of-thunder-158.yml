@@ -2,9 +2,11 @@ name: Plainswalker Sinjo
 
 origin: echoes-of-thunder-158
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

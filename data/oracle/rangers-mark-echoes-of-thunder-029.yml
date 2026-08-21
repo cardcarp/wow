@@ -2,9 +2,11 @@ name: Rangers Mark
 
 origin: echoes-of-thunder-029
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

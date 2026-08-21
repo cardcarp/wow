@@ -2,9 +2,11 @@ name: Gate of the Red Sun
 
 origin: scourgewar-battleground-006
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Berserking Bear Form
 
 origin: siege-of-orgrimmar-treasure-005
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

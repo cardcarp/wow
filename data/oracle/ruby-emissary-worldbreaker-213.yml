@@ -2,9 +2,12 @@ name: Ruby Emissary
 
 origin: worldbreaker-213
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 4
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 2 less to play Priests and Paladins, to a minimum of 1 .
 
 regulation:

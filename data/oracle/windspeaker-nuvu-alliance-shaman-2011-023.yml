@@ -2,9 +2,12 @@ name: Windspeaker Nuvu
 
 origin: alliance-shaman-2011-023
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally attacks for the first time each turn, ready him.
 
 regulation:

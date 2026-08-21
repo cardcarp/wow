@@ -2,9 +2,12 @@ name: Sanguine Presence
 
 origin: war-of-the-elements-030
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

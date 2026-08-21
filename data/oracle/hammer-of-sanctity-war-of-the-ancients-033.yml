@@ -2,9 +2,12 @@ name: Hammer of Sanctity
 
 origin: war-of-the-ancients-033
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust up to two target opposing heroes and/or allies. Characters exhausted this way can't ready during their controller's next ready step.
 
 regulation:

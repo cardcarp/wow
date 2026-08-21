@@ -2,9 +2,12 @@ name: Inner Rage
 
 origin: icecrown-093
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Assault X this turn, where X is the cost of target non-hero Druid or Warrior you control.
 
 regulation:

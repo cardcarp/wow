@@ -2,9 +2,11 @@ name: Desecrated Ground
 
 origin: into-the-mists-030
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

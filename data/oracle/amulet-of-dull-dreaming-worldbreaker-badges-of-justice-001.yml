@@ -2,9 +2,12 @@ name: Amulet of Dull Dreaming
 
 origin: worldbreaker-badges-of-justice-001
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, you may put a resource you control into your hand.
 
 regulation:

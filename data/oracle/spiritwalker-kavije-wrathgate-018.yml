@@ -2,17 +2,20 @@ name: Spiritwalker Kavi'je
 
 origin: wrathgate-018
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Flip Kavi'je, discard a Shaman → You pay 2 less to play your next Totem this turn.
 
 regulation:

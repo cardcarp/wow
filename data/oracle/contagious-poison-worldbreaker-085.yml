@@ -2,9 +2,12 @@ name: Contagious Poison
 
 origin: worldbreaker-085
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

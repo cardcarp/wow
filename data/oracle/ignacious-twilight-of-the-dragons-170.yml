@@ -2,9 +2,12 @@ name: Ignacious
 
 origin: twilight-of-the-dragons-170
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -15,7 +18,7 @@ health: 6
 combat: Fire
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this or another card you control is destroyed, you may turn target resource face down. allies you own everywhere have " Stash : Put a 2 / 1 Fire Elemental ally token into play."'
 
 regulation:

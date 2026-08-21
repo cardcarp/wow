@@ -2,9 +2,11 @@ name: Toughness
 
 origin: warlords-crafted-016
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

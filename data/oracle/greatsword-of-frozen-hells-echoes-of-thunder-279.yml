@@ -2,9 +2,11 @@ name: Greatsword of Frozen Hells
 
 origin: echoes-of-thunder-279
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

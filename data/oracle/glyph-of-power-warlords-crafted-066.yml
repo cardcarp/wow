@@ -2,9 +2,11 @@ name: Glyph Of Power
 
 origin: warlords-crafted-066
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

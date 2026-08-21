@@ -2,14 +2,17 @@ name: Rescue the Survivors!
 
 origin: through-the-dark-portal-297
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Draenei Hero Required During your turn, pay 3 to complete this quest. Reward : Put two Draenei Survivor ally tokens into play with 0 ATK, 1 health, and "Exhaust your hero, remove this ally from the game → Draw a card."'
 
 regulation:

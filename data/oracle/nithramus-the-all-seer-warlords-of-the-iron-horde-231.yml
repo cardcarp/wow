@@ -2,9 +2,11 @@ name: Nithramus The All Seer
 
 origin: warlords-of-the-iron-horde-231
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

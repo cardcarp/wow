@@ -2,9 +2,12 @@ name: Hemets Elekk Gun
 
 origin: march-of-the-legion-284
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Hemet's Elekk Gun has +4 ATK while your hero is in combat with an ally with cost 5 or more. When you strike with Hemet's Elekk Gun, your hero has Long-Range this combat.
 
 regulation:

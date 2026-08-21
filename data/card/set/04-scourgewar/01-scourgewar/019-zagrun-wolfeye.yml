@@ -1,3 +1,5 @@
+oracle: zagrun-wolfeye-scourgewar-019
+
 index: '019'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"The Warchief has made his declaration. Northrend must be purged of the plague of undeath and all those who carry it!"'
-
-oracle: zagrun-wolfeye-scourgewar-019
 
 set: Scourgewar

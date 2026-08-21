@@ -2,9 +2,12 @@ name: Enfea Contha
 
 origin: fires-of-outland-116
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Enfea Contha heals all damage from target friendly ally, then deals that much nature damage to target opposing ally.
 
 regulation:

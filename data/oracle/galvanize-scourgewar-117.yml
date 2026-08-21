@@ -2,9 +2,12 @@ name: Galvanize
 
 origin: scourgewar-117
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -13,7 +16,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : → Choose one: Ally tokens you control have +1 ATK this turn; or target ally token you control has +3 ATK this turn.'
 
 regulation:

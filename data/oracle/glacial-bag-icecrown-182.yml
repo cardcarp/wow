@@ -2,9 +2,12 @@ name: Glacial Bag
 
 origin: icecrown-182
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: Exhaust a Bag you control → Add a thaw counter. , Remove four thaw counters → Draw three cards.
 
 regulation:

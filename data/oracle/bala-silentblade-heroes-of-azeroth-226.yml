@@ -2,9 +2,12 @@ name: Bala Silentblade
 
 origin: heroes-of-azeroth-226
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Bala Silentblade has +3 ATK while attacking an exhausted hero or ally.
 
 regulation:

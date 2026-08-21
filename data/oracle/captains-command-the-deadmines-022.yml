@@ -2,9 +2,11 @@ name: Captains Command
 
 origin: the-deadmines-022
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

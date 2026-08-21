@@ -2,9 +2,12 @@ name: Plainswatcher Taro
 
 origin: fields-of-honor-140
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector While you control four or more cards in play with the same name, you may play this ally without paying his cost.
 
 regulation:

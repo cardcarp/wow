@@ -2,9 +2,12 @@ name: Justicar Gavin Shadesticker
 
 origin: scourgewar-141
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -20,7 +23,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Opposing Warlocks and cards can't ready.
 
 regulation:

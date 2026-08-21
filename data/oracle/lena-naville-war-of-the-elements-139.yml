@@ -2,9 +2,12 @@ name: Lena Naville
 
 origin: war-of-the-elements-139
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Mend 2 Stash : Your hero heals 2 damage from target ally.'
 
 regulation:

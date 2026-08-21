@@ -2,18 +2,21 @@ name: Dark Pharaoh Tekahn
 
 origin: tomb-of-the-forgotten-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 type: Monster
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 8 → Flip Tekahn face down. You pay 8 less to flip Tekahn if you have seven or more allies in your graveyard.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: "At the start of your turn, put two 1 / 1 Tol'vir Ritualist Monster ally tokens into play. Deckbuilding: You can't put or cards in your deck."
 
 regulation:

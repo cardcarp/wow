@@ -2,9 +2,12 @@ name: Child of Goldrinn
 
 origin: war-of-the-ancients-168
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity Stealth
 
 regulation:

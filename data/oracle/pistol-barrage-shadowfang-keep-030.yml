@@ -2,14 +2,17 @@ name: Pistol Barrage
 
 origin: shadowfang-keep-030
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: Godfrey deals 1 shadow damage to each Raiding hero and ally, plus an additional 1 for each Pistol Barrage in the Dungeon graveyard.
 
 regulation:

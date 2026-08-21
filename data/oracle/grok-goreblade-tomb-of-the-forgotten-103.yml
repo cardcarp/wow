@@ -2,9 +2,12 @@ name: Grok Goreblade
 
 origin: tomb-of-the-forgotten-103
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: This ally has +2 / +2 while you control an equipment.
 
 regulation:

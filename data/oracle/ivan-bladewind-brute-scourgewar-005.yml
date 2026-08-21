@@ -2,17 +2,20 @@ name: Ivan, Bladewind Brute
 
 origin: scourgewar-005
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 30
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'If you control another Warrior: Flip Ivan → Ivan deals 2 melee damage to target damaged hero or ally.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Faceless Watcher
 
 origin: throne-of-the-tides-201
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Play this ally only if you control three or more Monster heroes and/or allies.
 
 regulation:

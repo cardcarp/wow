@@ -2,9 +2,11 @@ name: Dragonmaw Flamedrake
 
 origin: warlords-of-the-iron-horde-207
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

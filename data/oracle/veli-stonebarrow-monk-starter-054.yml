@@ -2,9 +2,11 @@ name: Veli Stonebarrow
 
 origin: monk-starter-054
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

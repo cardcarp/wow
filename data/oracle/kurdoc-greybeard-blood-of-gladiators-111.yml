@@ -2,9 +2,12 @@ name: Kurdoc Greybeard
 
 origin: blood-of-gladiators-111
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Exhaust your hero → Target attacking ally has -3 ATK this turn.
 
 regulation:

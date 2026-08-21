@@ -2,9 +2,12 @@ name: Barkskin
 
 origin: march-of-the-legion-019
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

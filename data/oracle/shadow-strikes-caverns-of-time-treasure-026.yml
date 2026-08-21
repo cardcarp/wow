@@ -2,9 +2,12 @@ name: Shadow Strikes
 
 origin: caverns-of-time-treasure-026
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Add a +1 ATK counter to each weapon you control. Your hero deals shadow damage to target hero or ally equal to the combined ATK of Melee weapons you control.
 
 regulation:

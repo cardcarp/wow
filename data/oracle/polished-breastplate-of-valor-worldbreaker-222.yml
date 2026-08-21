@@ -2,9 +2,12 @@ name: Polished Breastplate of Valor
 
 origin: worldbreaker-222
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: '3 → Add a +1 counter to target armor you control. Stash : Add a +1 ATK counter to target weapon you control.'
 
 regulation:

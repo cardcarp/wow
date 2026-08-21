@@ -2,9 +2,12 @@ name: Wand of Mana Stealing
 
 origin: reign-of-fire-188
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage with this weapon to a hero, that hero's controller chooses and discards a card and you draw a card.
 
 regulation:

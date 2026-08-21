@@ -2,9 +2,12 @@ name: Braxxis' Staff of Slumber
 
 origin: march-of-the-legion-276
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: While you control a Form, your hero has +2 ATK while attacking and each of your armor has +2 DEF.
 
 regulation:

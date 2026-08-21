@@ -2,9 +2,12 @@ name: Buzz
 
 origin: scourgewar-042
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -18,7 +21,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this ally enters play, you may destroy target equipment. Death Rattle : You may destroy target weapon.'
 
 regulation:

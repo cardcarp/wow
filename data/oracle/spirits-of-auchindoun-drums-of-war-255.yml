@@ -2,12 +2,15 @@ name: Spirits of Auchindoun
 
 origin: drums-of-war-255
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Turn one of your other face-up resources face down to complete this quest. Reward : Draw a card.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Banshee
 
 origin: reign-of-fire-122
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally deals combat damage to a hero, you may destroy this ally. If you do, gain control of target ally that hero's controller controls.
 
 regulation:

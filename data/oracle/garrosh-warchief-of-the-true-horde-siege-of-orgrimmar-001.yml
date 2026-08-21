@@ -2,9 +2,11 @@ name: Garrosh Warchief Of The True Horde
 
 origin: siege-of-orgrimmar-001
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

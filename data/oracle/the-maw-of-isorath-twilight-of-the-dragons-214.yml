@@ -2,12 +2,15 @@ name: The Maw of Iso'rath
 
 origin: twilight-of-the-dragons-214
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'If three or more allies you controlled dealt damage this turn: Pay 2 to complete this quest. Reward : Draw a card.'
 
 regulation:

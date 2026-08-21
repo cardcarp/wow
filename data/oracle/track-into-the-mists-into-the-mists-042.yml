@@ -2,9 +2,11 @@ name: Track Into the Mists
 
 origin: into-the-mists-042
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

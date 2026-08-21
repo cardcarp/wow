@@ -2,9 +2,11 @@ name: Vial Of The Sands
 
 origin: warlords-crafted-089
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

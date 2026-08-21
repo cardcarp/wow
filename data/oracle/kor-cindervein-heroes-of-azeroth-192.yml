@@ -2,9 +2,12 @@ name: Kor Cindervein
 
 origin: heroes-of-azeroth-192
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 

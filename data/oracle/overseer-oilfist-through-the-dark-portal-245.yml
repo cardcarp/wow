@@ -2,9 +2,12 @@ name: Overseer Oilfist
 
 origin: through-the-dark-portal-245
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Overseer Oilfist enters play, reveal the top four cards of your deck. Put a revealed equipment card into your hand and the rest on the bottom of your deck.
 
 regulation:

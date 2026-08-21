@@ -2,9 +2,12 @@ name: A Final Sacrifice
 
 origin: blood-of-gladiators-078
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

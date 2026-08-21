@@ -2,9 +2,12 @@ name: Inferno Totem
 
 origin: alliance-shaman-2011-009
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -20,7 +23,7 @@ class:
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, this Totem deals 4 fire damage to target opposing hero.
 
 regulation:

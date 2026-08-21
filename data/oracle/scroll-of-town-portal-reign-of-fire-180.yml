@@ -2,9 +2,12 @@ name: Scroll of Town Portal
 
 origin: reign-of-fire-180
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '1'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 1 , Destroy this item → Put target ally you control into its owner's hand.
 
 regulation:

@@ -2,9 +2,12 @@ name: Ravage
 
 origin: icecrown-030
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 2 melee damage to target ally, or 4 if you control a Form.
 
 regulation:

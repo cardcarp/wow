@@ -2,12 +2,15 @@ name: Choose Wisely
 
 origin: arena-grand-melee-event-014
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each player secretly puts 1 to 6 counters into his hand, and then all players reveal their numbers. Each player with a number that no other player shares puts up to that much damage on any number of heroes and/or allies, divided as he chooses.
 
 regulation:

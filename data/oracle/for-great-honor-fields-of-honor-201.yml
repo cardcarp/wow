@@ -2,14 +2,17 @@ name: For Great Honor
 
 origin: fields-of-honor-201
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 1 to complete this quest. Reward : Reveal the top three cards of your deck. Put a revealed card with an odd cost of 1 or more into hand and the rest on the bottom of your deck.'
 
 regulation:

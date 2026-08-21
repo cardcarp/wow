@@ -2,9 +2,12 @@ name: Gravelord Adams
 
 origin: crown-of-the-heavens-107
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Shadow
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play this ally, you may pay 1 any number of times. Put a 3 / 3 Ghoul ally token into play for each 1 paid this way.
 
 regulation:

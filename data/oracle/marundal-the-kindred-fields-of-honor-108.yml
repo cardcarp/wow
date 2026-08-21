@@ -2,9 +2,12 @@ name: Marundal the Kindred
 
 origin: fields-of-honor-108
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Each ally has ATK and equal to its cost, and can't gain or lose ATK or .
 
 regulation:

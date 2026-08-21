@@ -2,9 +2,12 @@ name: Anchorite Kilandra
 
 origin: the-hunt-for-illidan-174
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Holy
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Aldor Reputation When Kilandra enters play, name a card in play you control. Inspire: Card with that name'
 
 regulation:

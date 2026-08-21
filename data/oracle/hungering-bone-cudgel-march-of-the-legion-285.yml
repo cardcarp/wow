@@ -2,9 +2,12 @@ name: Hungering Bone Cudgel
 
 origin: march-of-the-legion-285
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the end of your turn, if no damage was dealt with Hungering Bone Cudgel this turn, destroy it.
 
 regulation:

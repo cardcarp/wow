@@ -2,9 +2,12 @@ name: Hunters Mark
 
 origin: drums-of-war-029
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

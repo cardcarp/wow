@@ -2,9 +2,12 @@ name: Warden Maiev
 
 origin: reign-of-fire-092
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '10'
 
@@ -17,7 +20,7 @@ combat: Ranged
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive , Ferocity , Long-Range , Protector , Spellshield , Stealth Haste X , where X is the highest cost among allies you controlled that dealt damage to an opposing hero this turn.
 
 regulation:

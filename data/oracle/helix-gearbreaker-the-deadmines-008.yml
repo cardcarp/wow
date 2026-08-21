@@ -2,9 +2,12 @@ name: Helix Gearbreaker
 
 origin: the-deadmines-008
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 6
 
@@ -15,7 +18,7 @@ combat: Fire
 type: Dungeon
 
 rule:
-  - type: ability
+  - type: Ability
     text: Boss Helix has Elusive , Ferocity , and Untargetable while Lumbering Oaf is in play.
 
 regulation:

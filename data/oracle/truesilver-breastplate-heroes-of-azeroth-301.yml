@@ -2,9 +2,12 @@ name: Truesilver Breastplate
 
 origin: heroes-of-azeroth-301
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '6'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero defends, it heals 1 damage from itself.
 
 regulation:

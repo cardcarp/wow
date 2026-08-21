@@ -2,9 +2,12 @@ name: Dementia
 
 origin: wrathgate-058
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: Target player puts the top two cards of his deck into his graveyard. If they're both abilities, both allies, or both equipment, that player discards two cards.
 
 regulation:

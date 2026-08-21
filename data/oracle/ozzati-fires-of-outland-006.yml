@@ -2,17 +2,20 @@ name: Ozzati
 
 origin: fires-of-outland-006
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 25
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 4 , Flip Ozzati → Ozzati deals 1 fire damage to each opposing hero and ally. Use only on your turn.
 
 regulation:

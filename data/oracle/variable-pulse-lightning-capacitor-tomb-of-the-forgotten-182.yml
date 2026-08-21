@@ -2,9 +2,12 @@ name: Variable Pulse Lightning Capacitor
 
 origin: tomb-of-the-forgotten-182
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When you play an ability, you may add an overload counter to this item. On your turn: 2 , , Destroy this item → Destroy all abilities, allies, and equipment with cost less than or equal to the number of overload counters on this item.'
 
 regulation:

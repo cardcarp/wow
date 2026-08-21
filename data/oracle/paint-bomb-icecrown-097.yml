@@ -2,14 +2,17 @@ name: Paint Bomb
 
 origin: icecrown-097
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target ally. Ongoing : As this ability enters play, name a class. Allies in attached ally's party have that class and lose all other classes."
 
 regulation:

@@ -2,14 +2,17 @@ name: Gehennass Shadowbolt
 
 origin: molten-core-raid-021
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 4 shadow damage to target opposing hero or ally. If your hero is Gehennas, each opponent discards a card.
 
 regulation:

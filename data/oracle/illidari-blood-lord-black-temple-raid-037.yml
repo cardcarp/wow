@@ -2,9 +2,12 @@ name: Illidari Blood Lord
 
 origin: black-temple-raid-037
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Traitor Hero Required When Illidari Blood Lord enters play, each player turns one of his face-up resources face down.
 
 regulation:

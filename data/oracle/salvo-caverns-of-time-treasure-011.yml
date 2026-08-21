@@ -2,9 +2,12 @@ name: Salvo
 
 origin: caverns-of-time-treasure-011
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 4 ranged damage to each of up to three target heroes and/or allies.
 
 regulation:

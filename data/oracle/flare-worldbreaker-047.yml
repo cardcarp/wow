@@ -2,9 +2,12 @@ name: Flare
 
 origin: worldbreaker-047
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '0'
 

@@ -2,9 +2,12 @@ name: Branu Wildbloom
 
 origin: through-the-dark-portal-202
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Branu Wildbloom enters play, put the top card of your deck into your resource row face down and exhausted.
 
 regulation:

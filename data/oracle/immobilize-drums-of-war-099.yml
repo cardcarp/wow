@@ -2,9 +2,12 @@ name: Immobilize
 
 origin: drums-of-war-099
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target ability, ally, equipment, or resource and exhaust it. Ongoing : Attached card can't ready during its controller's ready step."
 
 regulation:

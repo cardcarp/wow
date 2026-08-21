@@ -2,9 +2,11 @@ name: Zarus
 
 origin: hogger-demo-019
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

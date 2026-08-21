@@ -2,9 +2,12 @@ name: Call the Void
 
 origin: war-of-the-ancients-057
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Put target Demon ally from your graveyard into your hand.
 
 regulation:

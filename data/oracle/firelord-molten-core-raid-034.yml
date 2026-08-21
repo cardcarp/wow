@@ -2,9 +2,12 @@ name: Firelord
 
 origin: molten-core-raid-034
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 2
 
@@ -13,7 +16,7 @@ health: 2
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Firelord enters play, put a Lava Spawn into play.
 
 regulation:

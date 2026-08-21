@@ -2,9 +2,11 @@ name: Grips of the Leviathan
 
 origin: into-the-mists-272
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,17 +2,20 @@ name: Witch Doctor Koo'zar
 
 origin: blood-of-gladiators-018
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 26
 
 faction: Horde
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 1 , Flip Koo'zar → Ready up to three target resources.
 
 regulation:

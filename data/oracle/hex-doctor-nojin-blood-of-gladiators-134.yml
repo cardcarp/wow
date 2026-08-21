@@ -2,9 +2,12 @@ name: Hex Doctor No'jin
 
 origin: blood-of-gladiators-134
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: No'jin has +3 ATK while you have fewer resources than an opponent.
 
 regulation:

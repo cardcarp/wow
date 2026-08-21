@@ -2,9 +2,12 @@ name: Kjaran the Callous
 
 origin: icecrown-015
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 class:
   - Paladin
@@ -13,11 +16,11 @@ class:
 type: Raid
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: Flip Kjaran, remove a Scourge ally in your graveyard from the game → Kjaran deals 1 melee damage and 1 ranged damage to target attacker.
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: "Deckbuilding : You can only include abilities, equipment, allies with ally type Death Knight, neutral quests and locations, and Scourge cards. You can't include cards with reputations or other text restrictions (like Beast Mastery Hero Required ) ."
 
 regulation:

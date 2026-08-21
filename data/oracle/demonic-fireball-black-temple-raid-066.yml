@@ -2,14 +2,17 @@ name: Demonic Fireball
 
 origin: black-temple-raid-066
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 stage: 1
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Choose an opponent, and he chooses one: The Betrayer deals 5 fire damage to that player's hero; or The Betrayer deals 15 fire damage to a raiding hero of that player's choice. Ongoing : 2 → The Betrayer deals 1 fire damage to target opposing hero."
 
 regulation:

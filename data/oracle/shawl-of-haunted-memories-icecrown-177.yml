@@ -2,9 +2,12 @@ name: Shawl of Haunted Memories
 
 origin: icecrown-177
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: "1 , , Destroy this armor → Destroy target ability, ally, or equipment that shares a name with a card in its controller's graveyard. Death Rattle : Target opponent puts the top three cards of his deck into his graveyard."
 
 regulation:

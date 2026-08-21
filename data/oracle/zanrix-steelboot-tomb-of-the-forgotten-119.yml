@@ -2,9 +2,12 @@ name: Zanrix Steelboot
 
 origin: tomb-of-the-forgotten-119
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 , Exhaust an equipment you control → Exhaust target ally.
 
 regulation:

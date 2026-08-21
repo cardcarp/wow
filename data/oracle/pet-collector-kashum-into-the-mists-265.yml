@@ -2,9 +2,11 @@ name: Pet Collector Kashum
 
 origin: into-the-mists-265
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

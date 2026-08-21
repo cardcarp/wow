@@ -2,9 +2,12 @@ name: Bearlady Brala
 
 origin: servants-of-the-betrayer-132
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -15,7 +18,7 @@ health: 1
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Brala enters play, make up a name. At the start of your turn, put a unique Bear ally token with that name and 1 ATK / 1 health into play.
 
 regulation:

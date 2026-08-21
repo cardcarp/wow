@@ -2,9 +2,11 @@ name: Icy Fear
 
 origin: siege-of-orgrimmar-010
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,17 +2,20 @@ name: Deacon Markus Hallow
 
 origin: fires-of-outland-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 26
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 6 , Flip Deacon Markus Hallow → Gain control of target opposing ally if its controller has no cards in his hand. Use only on your turn.
 
 regulation:

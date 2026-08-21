@@ -2,12 +2,15 @@ name: In Nightmares
 
 origin: fields-of-honor-194
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn, pay 8 to complete this quest. Reward : Target opponent discards three cards.'
 
 regulation:

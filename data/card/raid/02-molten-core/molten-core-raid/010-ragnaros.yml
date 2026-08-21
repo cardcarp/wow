@@ -1,3 +1,5 @@
+oracle: ragnaros-molten-core-raid-010
+
 index: '010'
 
 rarity: Rare
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor:
-
-oracle: ragnaros-molten-core-raid-010
 
 set: Molten Core Raid

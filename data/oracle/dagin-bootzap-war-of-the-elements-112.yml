@@ -2,9 +2,12 @@ name: Dagin Bootzap
 
 origin: war-of-the-elements-112
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Arcane
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he deals 1 arcane damage to target hero or ally.
 
 regulation:

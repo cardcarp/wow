@@ -2,9 +2,12 @@ name: Naxxramas Worshipper
 
 origin: naxxramas-token-002
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 1
 
@@ -15,7 +18,7 @@ combat: Fire
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Any raider: Exhaust a Priest you control → Gain control of this ally. Any raider who controls this ally: Destroy this ally → Flip Faerlina face up.'
 
 regulation:

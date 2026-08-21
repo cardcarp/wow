@@ -2,9 +2,12 @@ name: Avenging Wrath
 
 origin: servants-of-the-betrayer-068
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

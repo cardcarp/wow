@@ -2,9 +2,12 @@ name: Neferset Runecaster
 
 origin: tomb-of-the-forgotten-128
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Holy
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector , Sentinel
 
 regulation:

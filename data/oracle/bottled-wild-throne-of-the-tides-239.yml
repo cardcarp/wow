@@ -2,9 +2,12 @@ name: Bottled Wild
 
 origin: throne-of-the-tides-239
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -21,7 +24,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'When this item enters play, target hero or ally has Long-Range this turn. On your turn: Exhaust a Hunter hero or ally you control and destroy this item → Target hero or ally has Long-Range this turn.'
 
 regulation:

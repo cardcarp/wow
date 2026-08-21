@@ -2,9 +2,12 @@ name: Windfury Totem
 
 origin: heroes-of-azeroth-118
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 

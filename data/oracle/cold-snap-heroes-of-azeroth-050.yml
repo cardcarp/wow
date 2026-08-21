@@ -2,9 +2,12 @@ name: Cold Snap
 
 origin: heroes-of-azeroth-050
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: 2+X
 

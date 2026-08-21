@@ -2,9 +2,12 @@ name: Turn the Blade
 
 origin: drums-of-war-033
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally or weapon. Ongoing : Attached card has -3 ATK.'
 
 regulation:

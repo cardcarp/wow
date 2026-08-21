@@ -2,9 +2,12 @@ name: Ixiya the Attuned
 
 origin: wrathgate-117
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector , Mend 1
 
 regulation:

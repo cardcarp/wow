@@ -2,9 +2,12 @@ name: Guardian of the Light
 
 origin: war-of-the-ancients-032
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

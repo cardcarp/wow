@@ -2,9 +2,12 @@ name: Hellfire
 
 origin: through-the-dark-portal-108
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero deals 5 fire damage to each hero and ally.
 
 regulation:

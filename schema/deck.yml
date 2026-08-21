@@ -1,20 +1,27 @@
+# A preconstructed product as sold.
+
 name:
   type: string
   required: true
 
-collection:
-  type: string
-  required: true  
+format: # Pulls double duty:
+        # - When a value names one of the formats:
+        # -- it is the format this product was designated to be played in — an intent, not a legality claim; 
+        # -- "legal" is computed during compile.
+        # - When a value names no format:
+        # -- it is the product type instead ('Starter', 'Raid').
+  type: list
+  required: true
+  nullable: true
+  schema:
+    type: string
 
-credit:
+group: # The release grouping this product belongs to. Named for its role rather
+       # than for this game's word for it: here it holds a set.
   type: string
   required: true
 
-category:
-  type: string
-  required: true
-
-facet:
+theme: # A catch-all to categorize/tag
   type: list
   required: true
   nullable: true
@@ -22,17 +29,32 @@ facet:
     type: string
     coerce: str
 
-highlight:
+complexity: # Attempts to define how difficult deck is to pilot.
+  type: string
+  required: true
+  nullable: true
+  allowed: ["Casual", "Attentive", "Demanding"]
+
+division: # Attempts to define fair/fun matchups;
+          # Learn more on cardcarp.com/resources/deck-divisions
+  type: string
+  required: true
+  nullable: true
+  allowed: ["Strawweight", "Flyweight", "Lightweight", "Middleweight", "Heavyweight"]
+
+highlight:  # Card which best represents the deck.
   type: string
   required: true
   nullable: true
 
-description:
+tagline:  # Succint one line pitch text.
   type: string
   required: true
   nullable: true
 
-context:
+description:  # Paragraph text;
+              # Explains how to pilot deck,
+              # Details how the engine is intented to run.
   type: list
   required: true
   nullable: true
@@ -46,20 +68,31 @@ context:
         type: string
         required: true
 
-total:
-  type: integer
-  required: true
-  
-list:
+list: # card id to how many copies;
+      # zones mirror format.list_limit: 
+      # - 'hero' is the hero slot, 
+      # - 'main' is the deck proper, 
+      # - 'side' the sideboard, 
+      # - 'auxiliary' catch-all for token or rules-cards
   type: dict
   required: true
   schema:
-    hero: 
+    hero:
       type: dict
       valuesrules:
         type: integer
         min: 1
     main:
+      type: dict
+      valuesrules:
+        type: integer
+        min: 1
+    side:
+      type: dict
+      valuesrules:
+        type: integer
+        min: 1
+    auxiliary:
       type: dict
       valuesrules:
         type: integer

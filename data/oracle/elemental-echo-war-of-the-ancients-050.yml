@@ -2,9 +2,12 @@ name: Elemental Echo
 
 origin: war-of-the-ancients-050
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -12,7 +15,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target ally you control. Ongoing : When attached ally deals combat damage to a defending hero, put a token copy of that ally into play exhausted.'
 
 regulation:

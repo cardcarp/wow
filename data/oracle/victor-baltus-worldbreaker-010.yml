@@ -2,20 +2,23 @@ name: Victor Baltus
 
 origin: worldbreaker-010
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 2 → Flip Victor
-  - type: ability
-    position: reverse
+  - type: Ability
+    position: Reverse
     text: Demons you control have +1 / +1.
 
 regulation:

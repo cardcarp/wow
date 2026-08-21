@@ -2,9 +2,12 @@ name: Eyes of the Beast
 
 origin: wrathgate-039
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : 1 , Exhaust your hero → Ready target Pet you control.'
 
 regulation:

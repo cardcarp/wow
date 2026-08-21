@@ -2,9 +2,12 @@ name: Warden Tonarin
 
 origin: heroes-of-azeroth-222
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Elusive
 
 regulation:

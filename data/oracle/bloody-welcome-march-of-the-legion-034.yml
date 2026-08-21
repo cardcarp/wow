@@ -2,9 +2,12 @@ name: Bloody Welcome
 
 origin: march-of-the-legion-034
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

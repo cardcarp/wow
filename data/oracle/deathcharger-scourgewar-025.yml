@@ -2,9 +2,12 @@ name: Deathcharger
 
 origin: scourgewar-025
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -18,7 +21,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 1 less to complete quests. When you place a resource face up, target opposing hero or ally has -3 this turn. (Mounts can't attack or be attacked.)
 
 regulation:

@@ -2,9 +2,12 @@ name: Horn of Winter
 
 origin: war-of-the-elements-028
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: Heroes and allies you control have Assault 1 this turn.
 
 regulation:

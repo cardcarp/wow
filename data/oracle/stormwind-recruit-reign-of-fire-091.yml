@@ -2,9 +2,12 @@ name: Stormwind Recruit
 
 origin: reign-of-fire-091
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 

@@ -2,9 +2,12 @@ name: Crimson Guard
 
 origin: crown-of-the-heavens-006
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

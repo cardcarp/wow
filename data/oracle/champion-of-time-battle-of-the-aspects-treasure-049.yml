@@ -2,9 +2,12 @@ name: Champion of Time
 
 origin: battle-of-the-aspects-treasure-049
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ health: 1
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, if you control no ready resources, ready up to three resources you control.
 
 regulation:

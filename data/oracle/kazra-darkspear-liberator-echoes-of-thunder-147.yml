@@ -2,9 +2,11 @@ name: Kazra Darkspear Liberator
 
 origin: echoes-of-thunder-147
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,14 +2,17 @@ name: Unleash the Swarm!
 
 origin: throne-of-the-tides-091
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
 rule:
-  - type: ability
+  - type: Ability
     text: Reveal the top seven cards of your deck. Put all revealed Murloc allies with cost 1 or less into play and the rest on the bottom of your deck.
 
 regulation:

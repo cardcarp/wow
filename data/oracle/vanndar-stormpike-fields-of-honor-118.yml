@@ -2,9 +2,12 @@ name: Vanndar Stormpike
 
 origin: fields-of-honor-118
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '14'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector You pay 1 less to play Vanndar for each honor counter on cards you control. 1 , Remove an honor counter from a card you control → Each player destroys one of his resources.
 
 regulation:

@@ -2,9 +2,12 @@ name: Thunderfury, Blessed Blade of the Windseeker
 
 origin: through-the-dark-portal-283
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '9'
 
@@ -15,7 +18,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with Thunderfury, choose up to five heroes and/or allies. Your hero deals 5, 4, 3, 2, and 1 nature damage to them, respectively.
 
 regulation:

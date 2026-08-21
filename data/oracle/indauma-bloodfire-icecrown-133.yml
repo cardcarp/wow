@@ -2,9 +2,12 @@ name: Indauma Bloodfire
 
 origin: icecrown-133
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 

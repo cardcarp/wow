@@ -2,9 +2,12 @@ name: Ky'lai Darkblood
 
 origin: reign-of-fire-086
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: While you control another ally with Elusive , this ally has Elusive . While you control another ally with Spellshield , this ally has Spellshield .
 
 regulation:

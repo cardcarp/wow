@@ -2,9 +2,11 @@ name: Golden Lion
 
 origin: warlords-crafted-069
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,11 @@ name: Horned Mace of the Old Ones
 
 origin: siege-of-orgrimmar-treasure-045
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

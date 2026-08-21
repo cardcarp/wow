@@ -2,9 +2,12 @@ name: Kelvor Valorshine
 
 origin: fires-of-outland-168
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Combat damage that this ally would deal is unpreventable.
 
 regulation:

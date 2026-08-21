@@ -2,9 +2,12 @@ name: High Tinker Mekkatorque
 
 origin: drums-of-war-130
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '9'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start and end of your turn, draw a card for each Gnome in your party.
 
 regulation:

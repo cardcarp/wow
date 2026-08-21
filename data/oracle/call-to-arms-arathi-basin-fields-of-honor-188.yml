@@ -2,9 +2,11 @@ name: Call To Arms Arathi Basin
 
 origin: fields-of-honor-188
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

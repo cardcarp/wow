@@ -2,9 +2,11 @@ name: Transmute
 
 origin: warlords-crafted-017
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

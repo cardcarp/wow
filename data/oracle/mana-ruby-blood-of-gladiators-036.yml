@@ -2,9 +2,12 @@ name: Mana Ruby
 
 origin: blood-of-gladiators-036
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : 2 , Destroy Mana Ruby → Draw cards until you reach your maximum hand size.'
 
 regulation:

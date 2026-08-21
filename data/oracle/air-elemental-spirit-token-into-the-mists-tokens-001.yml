@@ -2,9 +2,11 @@ name: Air Elemental Spirit Token
 
 origin: into-the-mists-tokens-001
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

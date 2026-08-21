@@ -2,9 +2,12 @@ name: Latros Shifting Sword
 
 origin: fires-of-outland-215
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Your hero has Dual Wield . You pay 2 less to strike with other Swords.
 
 regulation:

@@ -2,9 +2,12 @@ name: Odos Ley Staff
 
 origin: dungeon-treasure-053
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you draw a card, your hero heals 1 damage from target hero or ally.
 
 regulation:

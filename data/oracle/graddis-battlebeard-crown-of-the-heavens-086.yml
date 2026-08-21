@@ -2,9 +2,12 @@ name: Graddis Battlebeard
 
 origin: crown-of-the-heavens-086
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally enters play, he deals 4 nature damage divided as you choose to up to four target heroes and/or allies. At the start of your turn, this ally heals 4 damage divided as you choose from up to four target heroes and/or allies.
 
 regulation:

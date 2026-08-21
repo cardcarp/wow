@@ -2,9 +2,11 @@ name: Kil'ruks Furious Blade
 
 origin: echoes-of-thunder-283
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

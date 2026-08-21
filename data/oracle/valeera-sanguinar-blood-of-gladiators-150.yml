@@ -2,9 +2,12 @@ name: Valeera Sanguinar
 
 origin: blood-of-gladiators-150
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: You may discard an Arena card rather than pay Valeera's cost.
 
 regulation:

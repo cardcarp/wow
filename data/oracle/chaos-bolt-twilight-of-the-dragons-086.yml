@@ -2,9 +2,12 @@ name: Chaos Bolt
 
 origin: twilight-of-the-dragons-086
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Destruction Talent Reveal the top card of target opponent's deck and remove it from the game. If it's an ability, ally, or equipment, your hero deals shadow damage to that opponent's hero equal to the cost of that revealed card, and you may play it this turn. (Pay costs as normal.)
 
 regulation:

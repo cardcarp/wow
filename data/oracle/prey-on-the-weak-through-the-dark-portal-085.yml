@@ -2,9 +2,12 @@ name: Prey on the Weak
 
 origin: through-the-dark-portal-085
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

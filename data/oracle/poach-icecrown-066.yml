@@ -2,9 +2,12 @@ name: Poach
 
 origin: icecrown-066
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: Look at target player's hand and choose an ability, ally, or equipment with cost 4 or less. He discards that card.
 
 regulation:

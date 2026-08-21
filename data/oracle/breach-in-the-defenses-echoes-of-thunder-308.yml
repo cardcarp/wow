@@ -2,9 +2,11 @@ name: Breach in the Defenses
 
 origin: echoes-of-thunder-308
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

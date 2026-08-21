@@ -1,3 +1,5 @@
+oracle: overseer-savryn-icecrown-007
+
 index: '007'
 
 rarity: Uncommon
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: "\"The Cult of the Damned will not rest until the Lich King's plans have been fulfilled.\""
-
-oracle: overseer-savryn-icecrown-007
 
 set: Icecrown

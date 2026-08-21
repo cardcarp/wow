@@ -1,6 +1,6 @@
 name: Arena Grand Melee Blank
 
-type: promo
+type: Promo
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 6
 
 total: 6
 
-date_release: 2009-05
+date: 2009-05
 
 collection: Arena Grand Melee

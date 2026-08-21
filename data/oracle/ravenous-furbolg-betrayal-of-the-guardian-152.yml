@@ -2,9 +2,12 @@ name: Ravenous Furbolg
 
 origin: betrayal-of-the-guardian-152
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Melee
 type: Monster
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally attacks, target player puts the top card of his deck into his graveyard.
 
 regulation:

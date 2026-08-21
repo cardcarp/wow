@@ -2,9 +2,12 @@ name: Orc Flamecaller
 
 origin: betrayal-of-the-guardian-101
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '6'
 

@@ -2,9 +2,11 @@ name: Bad Blood
 
 origin: echoes-of-thunder-305
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

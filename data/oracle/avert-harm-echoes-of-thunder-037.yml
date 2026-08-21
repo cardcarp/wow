@@ -2,9 +2,11 @@ name: Avert Harm
 
 origin: echoes-of-thunder-037
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

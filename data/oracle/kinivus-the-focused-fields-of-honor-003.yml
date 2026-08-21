@@ -2,17 +2,20 @@ name: Kinivus the Focused
 
 origin: fields-of-honor-003
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Kinivus → You can't discard cards this turn.
 
 regulation:

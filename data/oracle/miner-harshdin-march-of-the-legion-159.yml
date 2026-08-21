@@ -2,9 +2,12 @@ name: Miner Harshdin
 
 origin: march-of-the-legion-159
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of your turn, target player puts the top card of his deck into his graveyard.
 
 regulation:

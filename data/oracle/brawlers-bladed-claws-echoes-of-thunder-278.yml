@@ -2,9 +2,11 @@ name: 'Brawlers Bladed Claws '
 
 origin: echoes-of-thunder-278
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

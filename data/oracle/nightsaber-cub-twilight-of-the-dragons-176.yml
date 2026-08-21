@@ -2,9 +2,12 @@ name: Nightsaber Cub
 
 origin: twilight-of-the-dragons-176
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -15,7 +18,7 @@ health: 2
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ferocity
 
 regulation:

@@ -2,17 +2,20 @@ name: Moonshadow
 
 origin: heroes-of-azeroth-006
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 27
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 3 , Flip Moonshadow → Shuffle your hand into your deck, then draw that many cards.
 
 regulation:

@@ -2,17 +2,20 @@ name: Prometha
 
 origin: scourgewar-007
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'If you control another Shaman: Flip Prometha → Ready target Melee weapon.'
 
 regulation:

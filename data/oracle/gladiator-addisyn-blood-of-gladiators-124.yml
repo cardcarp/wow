@@ -2,9 +2,12 @@ name: Gladiator Addisyn
 
 origin: blood-of-gladiators-124
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -19,7 +22,7 @@ faction: Horde
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: As Addisyn enters play, choose arcane, fire, frost, nature, or shadow. Arena allies in your party have the chosen resistance .
 
 regulation:

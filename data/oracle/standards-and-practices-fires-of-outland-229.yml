@@ -2,14 +2,17 @@ name: Standards and Practices
 
 origin: fires-of-outland-229
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: "While more allies are in an opponent's party than in yours, pay 2 to complete this quest. Reward : Draw a card."
 
 regulation:

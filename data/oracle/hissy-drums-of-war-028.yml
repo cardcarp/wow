@@ -2,9 +2,12 @@ name: Hissy
 
 origin: drums-of-war-028
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 

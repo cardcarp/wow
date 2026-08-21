@@ -2,9 +2,12 @@ name: Wild Attunement
 
 origin: war-of-the-ancients-014
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '5'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : If one or more token allies with the same type would be put into play under your control, put that many +1 into play instead.'
 
 regulation:

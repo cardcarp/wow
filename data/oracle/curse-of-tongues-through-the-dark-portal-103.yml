@@ -2,9 +2,12 @@ name: Curse of Tongues
 
 origin: through-the-dark-portal-103
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target hero. Ongoing : Attached hero's controller pays 1 more to play abilities."
 
 regulation:

@@ -2,9 +2,12 @@ name: Home Lair Advantage
 
 origin: onyxias-lair-raid-018
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

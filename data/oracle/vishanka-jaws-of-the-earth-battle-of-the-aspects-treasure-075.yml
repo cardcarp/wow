@@ -2,9 +2,12 @@ name: Vishanka, Jaws of the Earth
 
 origin: battle-of-the-aspects-treasure-075
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: Long-Range This weapon enters play with five +1 ATK counters. At the start of your turn, remove a +1 ATK counter from this weapon. If none remain, destroy it.
 
 regulation:

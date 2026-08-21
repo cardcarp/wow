@@ -2,9 +2,11 @@ name: Draenethyst Wand
 
 origin: warlords-of-the-iron-horde-238
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Jarius Blackwood
 
 origin: tomb-of-the-forgotten-085
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: When 1 or more damage is healed from a hero or ally you control, you may pay 1 . If you do, put a 1 / 1 Treant ally token into play.
 
 regulation:

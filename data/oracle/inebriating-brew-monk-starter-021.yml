@@ -2,9 +2,11 @@ name: Inebriating Brew
 
 origin: monk-starter-021
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

@@ -2,9 +2,12 @@ name: Shadowy Construct
 
 origin: black-temple-token-002
 
-layout: standard
+layout: Standard
 
-category: Token
+category:
+  - Token
+
+theme:
 
 damage: 2
 
@@ -15,7 +18,7 @@ combat: Melee
 type: Ally
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Teron Gorefiend is destroyed, destroy Shadowy Construct. (This ally is a ghost, but it can attack only non-ghosts. See ghost rules.)
 
 regulation:

@@ -2,9 +2,11 @@ name: Shattered Hand Flayer
 
 origin: warlords-of-the-iron-horde-184
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

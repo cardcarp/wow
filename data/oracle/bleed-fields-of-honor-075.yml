@@ -2,9 +2,12 @@ name: Bleed
 
 origin: fields-of-honor-075
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target hero or ally. Ongoing : At the start of your turn, destroy Bleed if attached character is undamaged. Otherwise, your hero deals 2 melee damage to it.'
 
 regulation:

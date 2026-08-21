@@ -2,9 +2,12 @@ name: Broxigar The Red
 
 origin: timewalkers-012
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 rule: []
 

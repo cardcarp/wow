@@ -2,9 +2,12 @@ name: Benedictus, the Twilight Father
 
 origin: battle-of-the-aspects-treasure-047
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -15,7 +18,7 @@ health: 8
 combat: Shadow
 
 rule:
-  - type: ability
+  - type: Ability
     text: At the start of each player's turn, put a 0 / 1 Cultist ally token into play. Exhaust a Cultist you control → That ally heals 2 damage from Benedictus. Exhaust five Cultists you control → Benedictus deals 20 shadow damage to target opposing hero.
 
 regulation:

@@ -1,3 +1,5 @@
+oracle: highlord-tirion-fordring-wrathgate-021
+
 index: '021'
 
 rarity: Rare
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"No more lives will be consumed by your hatred!"'
-
-oracle: highlord-tirion-fordring-wrathgate-021
 
 set: Wrathgate

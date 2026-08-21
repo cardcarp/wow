@@ -2,9 +2,12 @@ name: Selora
 
 origin: alliance-warlock-2011-010
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '2'
 
@@ -18,7 +21,7 @@ class:
   - Warlock
 
 rule:
-  - type: ability
+  - type: Ability
     text: Elusive When this ally enters play, target ally has +1 / -1 this turn.
 
 regulation:

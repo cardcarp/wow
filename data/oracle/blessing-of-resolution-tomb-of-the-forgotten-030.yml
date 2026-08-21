@@ -2,9 +2,12 @@ name: Blessing of Resolution
 
 origin: tomb-of-the-forgotten-030
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target Monster ally you control. Ongoing : Attached ally has +2 / +2 for this and each other ability attached to it.'
 
 regulation:

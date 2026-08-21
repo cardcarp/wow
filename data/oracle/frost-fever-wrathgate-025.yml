@@ -2,9 +2,12 @@ name: Frost Fever
 
 origin: wrathgate-025
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 1 frost damage to attached hero. Allies in attached hero's party lose and can't have Assault and Mend ."
 
 regulation:

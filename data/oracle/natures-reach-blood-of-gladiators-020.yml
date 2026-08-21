@@ -2,9 +2,12 @@ name: Natures Reach
 
 origin: blood-of-gladiators-020
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Druid
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Balance Hero Required Ongoing : Ally tokens in your party have +1 ATK / +1 health. 3 , → Put a Treant ally token into play with 1 ATK / 1 health.'
 
 regulation:

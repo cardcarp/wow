@@ -2,9 +2,11 @@ name: Farsight
 
 origin: siege-of-orgrimmar-treasure-009
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

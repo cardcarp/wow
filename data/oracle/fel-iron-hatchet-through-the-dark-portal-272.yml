@@ -2,9 +2,12 @@ name: Fel Iron Hatchet
 
 origin: through-the-dark-portal-272
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 

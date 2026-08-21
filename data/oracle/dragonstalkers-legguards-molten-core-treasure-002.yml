@@ -2,9 +2,12 @@ name: Dragonstalkers Legguards
 
 origin: molten-core-treasure-002
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you play a ability, you may pay 1 . If you do, target Ranged weapon has +2 ATK this turn.
 
 regulation:

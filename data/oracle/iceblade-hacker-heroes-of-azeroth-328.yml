@@ -2,9 +2,12 @@ name: Iceblade Hacker
 
 origin: heroes-of-azeroth-328
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When your hero deals combat damage to an ally, that ally can't ready during its controller's next ready step.
 
 regulation:

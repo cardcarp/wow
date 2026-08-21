@@ -2,9 +2,12 @@ name: Girdle of Uther
 
 origin: heroes-of-azeroth-289
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '4'
 
@@ -13,7 +16,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 4 , → Ready your hero and one of your Melee weapons.
 
 regulation:

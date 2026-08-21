@@ -2,9 +2,11 @@ name: Mogushan Palace
 
 origin: echoes-of-thunder-328
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

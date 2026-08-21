@@ -2,14 +2,17 @@ name: Kor'kron Vanguard
 
 origin: wrathgate-219
 
-layout: standard
+layout: Standard
 
-category: Location
+category:
+  - Location
+
+theme:
 
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: '→ Target hero or ally you control has Assault 1 this turn. If you control an ally with Saurfang in its name: → Target hero or ally you control has Assault 3 this turn.'
 
 regulation:

@@ -2,9 +2,12 @@ name: Adenda Lighthaven
 
 origin: icecrown-123
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 

@@ -2,9 +2,12 @@ name: Prayer of Shadow Protection
 
 origin: scourgewar-075
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

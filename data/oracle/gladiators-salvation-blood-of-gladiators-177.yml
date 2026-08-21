@@ -2,9 +2,12 @@ name: Gladiators Salvation
 
 origin: blood-of-gladiators-177
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: x , Exhaust your hero → Prevent the next X damage that would be dealt to target hero or ally this turn.
 
 regulation:

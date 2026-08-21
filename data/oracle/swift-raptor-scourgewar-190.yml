@@ -2,9 +2,12 @@ name: Swift Raptor
 
 origin: scourgewar-190
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: Troll Hero Required You pay 1 less to complete quests. When you place a resource face up, your hero heals 2 damage from itself. (Mounts can't attack or be attacked.)
 
 regulation:

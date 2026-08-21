@@ -2,12 +2,15 @@ name: Wartime Efforts
 
 origin: arena-grand-melee-event-109
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: If you're at a convention, draw three cards. If you're in a store, draw two cards. If you're at home, draw a card. If you're at work, all players discard their cards. (You should be working!)
 
 regulation:

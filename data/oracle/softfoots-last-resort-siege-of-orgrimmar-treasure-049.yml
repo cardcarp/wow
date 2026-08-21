@@ -2,9 +2,11 @@ name: Softfoots Last Resort
 
 origin: siege-of-orgrimmar-treasure-049
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

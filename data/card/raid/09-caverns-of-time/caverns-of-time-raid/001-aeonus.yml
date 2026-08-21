@@ -1,3 +1,5 @@
+oracle: aeonus-caverns-of-time-raid-001
+
 index: '001'
 
 rarity: Rare
@@ -8,7 +10,5 @@ variation:
   - transform
 
 flavor: '"Let us see what fate has in store ..."'
-
-oracle: aeonus-caverns-of-time-raid-001
 
 set: Caverns of Time Raid

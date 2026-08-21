@@ -2,9 +2,12 @@ name: Holy Vengeance
 
 origin: war-of-the-elements-057
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -12,7 +15,7 @@ class:
   - Paladin
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : When an ally you control is destroyed, you may pay 1 . If you do, your hero deals 2 unpreventable holy damage to target hero.'
 
 regulation:

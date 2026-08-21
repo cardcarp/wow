@@ -2,9 +2,11 @@ name: Tooga
 
 origin: heroes-of-azeroth-tokens-009
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

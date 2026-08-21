@@ -2,9 +2,12 @@ name: Arced War Axe
 
 origin: dungeon-treasure-045
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -15,7 +18,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: You pay 3 less to strike with this weapon while you control three or more allies.
 
 regulation:

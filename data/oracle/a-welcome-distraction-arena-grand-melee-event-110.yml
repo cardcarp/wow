@@ -2,12 +2,15 @@ name: A Welcome Distraction
 
 origin: arena-grand-melee-event-110
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : Players skip flipping Arena cards. All heroes have " Sabotage : A Welcome Distraction." When this card is sabotaged, put it into the Arena graveyard, and the turn player flips a new Arena card.'
 
 regulation:

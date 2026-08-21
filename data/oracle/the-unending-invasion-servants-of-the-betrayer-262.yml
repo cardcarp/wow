@@ -2,12 +2,15 @@ name: The Unending Invasion
 
 origin: servants-of-the-betrayer-262
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 4 to complete this quest. Reward : Draw a card, then draw another one for each 10 damage on your hero.'
 
 regulation:

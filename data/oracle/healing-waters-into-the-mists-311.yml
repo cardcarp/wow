@@ -2,9 +2,11 @@ name: Healing Waters
 
 origin: into-the-mists-311
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

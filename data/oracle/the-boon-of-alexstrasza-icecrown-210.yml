@@ -2,12 +2,15 @@ name: The Boon of Alexstrasza
 
 origin: icecrown-210
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: "On an opponent's turn: Pay 4 to complete this quest. Reward : Draw two cards."
 
 regulation:

@@ -2,9 +2,12 @@ name: Gutgore Ripper
 
 origin: molten-core-treasure-023
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Rogue
 
 rule:
-  - type: ability
+  - type: Ability
     text: When you strike with Gutgore Ripper, target opposing ally has -1 health this turn.
 
 regulation:

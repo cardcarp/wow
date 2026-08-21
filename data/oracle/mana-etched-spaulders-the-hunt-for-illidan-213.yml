@@ -2,9 +2,12 @@ name: Mana-Etched Spaulders
 
 origin: the-hunt-for-illidan-213
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: → Your hero heals 1 damage from itself for each of your armor with Mana-Etched in its name.
 
 regulation:

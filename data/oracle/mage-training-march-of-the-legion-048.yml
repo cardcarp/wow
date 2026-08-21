@@ -2,9 +2,12 @@ name: Mage Training
 
 origin: march-of-the-legion-048
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to target friendly ally. Ongoing : Attached ally has " → This ally deals 1 arcane damage to each opposing hero and ally."'
 
 regulation:

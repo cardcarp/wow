@@ -2,9 +2,12 @@ name: Golem Skull Helm
 
 origin: heroes-of-azeroth-290
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 

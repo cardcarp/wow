@@ -2,9 +2,12 @@ name: Ancient Core Hound
 
 origin: molten-core-raid-033
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 damage: 3
 
@@ -13,7 +16,7 @@ health: 3
 combat: Melee
 
 rule:
-  - type: ability
+  - type: Ability
     text: "When Ancient Core Hound enters play, roll a die. 1-2: Exhaust all opposing allies. 3-4: Ancient Core Hound deals 2 fire damage to each ally in a party of your choice. 5-6: Put an opposing ally into its owner's hand."
 
 regulation:

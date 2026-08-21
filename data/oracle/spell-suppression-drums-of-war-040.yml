@@ -2,9 +2,12 @@ name: Spell Suppression
 
 origin: drums-of-war-040
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: "Attach to target ability, ally, equipment, or resource. Ongoing : Attached card loses and can't have powers."
 
 regulation:

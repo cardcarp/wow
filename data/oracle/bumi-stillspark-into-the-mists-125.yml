@@ -2,9 +2,11 @@ name: Bumi Stillspark
 
 origin: into-the-mists-125
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

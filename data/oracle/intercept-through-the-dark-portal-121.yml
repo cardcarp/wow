@@ -2,9 +2,12 @@ name: Intercept
 
 origin: through-the-dark-portal-121
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

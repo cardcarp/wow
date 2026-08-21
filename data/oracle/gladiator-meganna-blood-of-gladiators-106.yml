@@ -2,9 +2,12 @@ name: Gladiator Meganna
 
 origin: blood-of-gladiators-106
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '5'
 
@@ -19,7 +22,7 @@ faction: Alliance
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: Arena allies in your party have Stealth .
 
 regulation:

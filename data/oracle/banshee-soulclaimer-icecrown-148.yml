@@ -2,9 +2,12 @@ name: Banshee Soulclaimer
 
 origin: icecrown-148
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '4'
 
@@ -17,7 +20,7 @@ combat: Shadow
 type: Raid
 
 rule:
-  - type: ability
+  - type: Ability
     text: Scourge Hero Required and allies have -1 / -1.
 
 regulation:

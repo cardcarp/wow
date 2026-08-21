@@ -2,9 +2,12 @@ name: Gladiator Emek
 
 origin: blood-of-gladiators-127
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -19,7 +22,7 @@ faction: Horde
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: When an Arena ally in your party is destroyed, you may discard a card. If you do, target player discards a card.
 
 regulation:

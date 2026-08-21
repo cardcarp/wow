@@ -2,9 +2,12 @@ name: Fading Glow
 
 origin: wrathgate-188
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: When combat damage is dealt with this weapon, your hero heals 2 damage from itself.
 
 regulation:

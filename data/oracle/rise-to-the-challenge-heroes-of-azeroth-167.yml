@@ -2,14 +2,17 @@ name: Rise to the Challenge
 
 origin: heroes-of-azeroth-167
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '15'
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Attach to your hero and remove all damage from it. Draw cards until you reach your maximum hand size. Ongoing : Attached hero has +10 health.'
 
 regulation:

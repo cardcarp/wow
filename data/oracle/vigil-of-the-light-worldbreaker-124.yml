@@ -2,9 +2,12 @@ name: Vigil of the Light
 
 origin: worldbreaker-124
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '6'
 
@@ -13,7 +16,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Put target ally from your graveyard into play. If you do, attach this ability to it. Ongoing : At the start of each turn, your hero heals all damage from attached ally.'
 
 regulation:

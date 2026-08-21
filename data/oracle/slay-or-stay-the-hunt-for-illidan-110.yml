@@ -2,9 +2,12 @@ name: Slay or Stay
 
 origin: the-hunt-for-illidan-110
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 
@@ -12,7 +15,7 @@ class:
   - Warrior
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Choose one: Destroy target damaged ally; or attach to target ally. Ongoing : Attached ally is a Protector .'
 
 regulation:

@@ -2,12 +2,15 @@ name: A Voice in the Dark
 
 origin: scourgewar-250
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 2 to complete this quest. Reward : An opponent chooses one: Put a random card from your graveyard into your hand; or draw a card.'
 
 regulation:

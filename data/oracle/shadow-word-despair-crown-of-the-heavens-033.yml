@@ -2,9 +2,12 @@ name: 'Shadow Word: Despair'
 
 origin: crown-of-the-heavens-033
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '1'
 

@@ -2,9 +2,12 @@ name: Grumdur Bladebane
 
 origin: wrathgate-114
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Frost
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Protector Each opposing ally has -1 ATK on its controller's turn.
 
 regulation:

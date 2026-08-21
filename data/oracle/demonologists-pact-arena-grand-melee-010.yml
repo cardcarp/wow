@@ -2,9 +2,12 @@ name: Demonologists Pact
 
 origin: arena-grand-melee-010
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 
@@ -14,7 +17,7 @@ class:
 type: Arena
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Preparation Ongoing : You pay 1 less to play Pets.'
 
 regulation:

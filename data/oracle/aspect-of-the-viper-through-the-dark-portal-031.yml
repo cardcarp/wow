@@ -2,9 +2,12 @@ name: Aspect of the Viper
 
 origin: through-the-dark-portal-031
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '8'
 
@@ -12,7 +15,7 @@ class:
   - Hunter
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : At the end of your turn, you may ready all of your resources.'
 
 regulation:

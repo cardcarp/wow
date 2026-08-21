@@ -2,9 +2,12 @@ name: Daroka Venomfist
 
 origin: throne-of-the-tides-144
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Nature
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this ally attacks, exhaust target opposing ally. (A protector exhausted this way can't protect this combat.)
 
 regulation:

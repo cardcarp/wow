@@ -1,6 +1,6 @@
 name: Mists of Pandaria Starter
 
-type: starter
+type: Starter
 
 index:
 
@@ -8,6 +8,6 @@ subtotal: 10
 
 total: 10
 
-date_release: 2022-07
+date: 2022-07
 
 collection: Mists of Pandaria

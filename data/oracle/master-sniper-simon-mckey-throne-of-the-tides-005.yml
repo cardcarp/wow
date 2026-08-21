@@ -2,17 +2,20 @@ name: Master Sniper Simon McKey
 
 origin: throne-of-the-tides-005
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 health: 28
 
 faction: Alliance
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'On your turn: 2 , Flip Simon → Simon deals ranged damage to target hero or ally equal to the ATK of a pet you control.'
 
 regulation:

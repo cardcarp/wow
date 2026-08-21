@@ -2,9 +2,12 @@ name: Tremor Shock
 
 origin: blood-of-gladiators-067
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '3'
 

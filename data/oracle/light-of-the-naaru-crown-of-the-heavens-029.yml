@@ -2,9 +2,12 @@ name: Light of the Naaru
 
 origin: crown-of-the-heavens-029
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '2'
 

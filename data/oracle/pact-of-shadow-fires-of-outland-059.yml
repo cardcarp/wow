@@ -2,9 +2,12 @@ name: Pact of Shadow
 
 origin: fires-of-outland-059
 
-layout: standard
+layout: Standard
 
-category: Ability
+category:
+  - Ability
+
+theme:
 
 cost: '7'
 
@@ -12,7 +15,7 @@ class:
   - Priest
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Ongoing : When an opponent discards a card, your hero deals 3 shadow damage to target hero or ally.'
 
 regulation:

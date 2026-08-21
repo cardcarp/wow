@@ -2,12 +2,15 @@ name: Appeal to a Higher Power
 
 origin: arena-grand-melee-event-003
 
-layout: standard
+layout: Standard
 
-category: Event
+category:
+  - Event
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: Ask someone not playing in this game to choose which player he thinks is winning. Each player not chosen may draw a card.
 
 regulation:

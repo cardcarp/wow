@@ -2,12 +2,15 @@ name: Terror of the Tides
 
 origin: reign-of-fire-195
 
-layout: standard
+layout: Standard
 
-category: Quest
+category:
+  - Quest
+
+theme:
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'Pay 3 to complete this quest. Reward : Reveal the top five cards of your deck. Put a revealed ability, ally, or equipment with cost 3 or more into your hand and the rest on the bottom of your deck.'
 
 regulation:

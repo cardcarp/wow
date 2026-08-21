@@ -2,9 +2,11 @@ name: Massacre Greatsword
 
 origin: echoes-of-thunder-284
 
-layout: standard
+layout: Standard
 
 category:
+
+theme:
 
 rule: []
 

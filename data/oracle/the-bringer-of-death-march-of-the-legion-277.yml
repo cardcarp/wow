@@ -2,9 +2,12 @@ name: The Bringer of Death
 
 origin: march-of-the-legion-277
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '5'
 
@@ -14,7 +17,7 @@ class:
   - Mage
 
 rule:
-  - type: ability
+  - type: Ability
     text: 3 , , Destroy The Bringer of Death → Destroy all abilities, allies, and equipment. Use only on your turn.
 
 regulation:

@@ -2,9 +2,12 @@ name: Helm of Setesh
 
 origin: tomb-of-the-forgotten-170
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -14,7 +17,7 @@ class:
   - Death Knight
 
 rule:
-  - type: ability
+  - type: Ability
     text: 'On your turn: 4 , → Put a 2 / 2 Void Seeker ally token into play. Token allies you control have Assault 1 .'
 
 regulation:

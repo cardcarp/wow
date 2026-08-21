@@ -2,9 +2,12 @@ name: '"Fungus Face" McGillicutty'
 
 origin: march-of-the-legion-183
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '3'
 
@@ -17,7 +20,7 @@ combat: Holy
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: When Fungus Face is destroyed, you may destroy target ability.
 
 regulation:

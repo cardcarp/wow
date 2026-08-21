@@ -2,9 +2,12 @@ name: Lord Godfrey - Level 1
 
 origin: shadowfang-keep-001
 
-layout: transform
+layout: Transform
 
-category: Hero
+category:
+  - Hero
+
+theme:
 
 damage: 0
 
@@ -15,8 +18,8 @@ combat: Shadow
 type: Dungeon
 
 rule:
-  - type: ability
-    position: front
+  - type: Ability
+    position: Front
     text: 'Level Up: 10 Flip 1 Assault 5 , Long-Range'
 
 regulation:

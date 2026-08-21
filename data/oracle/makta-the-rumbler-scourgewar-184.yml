@@ -2,9 +2,12 @@ name: Makta the Rumbler
 
 origin: scourgewar-184
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '7'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Horde
 
 rule:
-  - type: ability
+  - type: Ability
     text: While you control a Shout, allies you control have +1 / +1, and opposing allies have -1 / -1.
 
 regulation:

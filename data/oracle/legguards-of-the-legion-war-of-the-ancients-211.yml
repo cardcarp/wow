@@ -2,9 +2,12 @@ name: Legguards of the Legion
 
 origin: war-of-the-ancients-211
 
-layout: standard
+layout: Standard
 
-category: Equipment
+category:
+  - Equipment
+
+theme:
 
 cost: '3'
 
@@ -13,7 +16,7 @@ class:
   - Shaman
 
 rule:
-  - type: ability
+  - type: Ability
     text: When this armor enters play, name "Demon", a race, or an race. You pay 1 less to play allies of the named race, to a minimum of 1 . Your hero has Assault 1 for each ally you control of the named race.
 
 regulation:

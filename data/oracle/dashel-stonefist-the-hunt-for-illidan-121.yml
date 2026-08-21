@@ -2,9 +2,12 @@ name: Dashel Stonefist
 
 origin: the-hunt-for-illidan-121
 
-layout: standard
+layout: Standard
 
-category: Ally
+category:
+  - Ally
+
+theme:
 
 cost: '1'
 
@@ -17,7 +20,7 @@ combat: Melee
 faction: Alliance
 
 rule:
-  - type: ability
+  - type: Ability
     text: Dashel can attack friendly heroes and allies (including other characters in your party) .
 
 regulation:
