@@ -64,11 +64,31 @@ Cross-references are written as human-readable names (`set: Heroes of Azeroth`, 
 
 ## 🐍 Scripts
  
+### Primary
+
+The build loop: edit YAML, compile, and optionally round-trip back to YAML.
+
 - `python script/compile.py`: Validates every source YAML against `schema/`, checks that all cross-references resolve, and writes the joined JSON to `dist/`. **This is the build** — edit YAML, run this, done.<br>
   
 - `python script/split.py`: Re-generates `data/card`, `data/oracle`, `data/set`, `data/collection` and `data/deck` from the compiled JSON — the exact inverse of `compile.py`. Useful for bulk structural changes and for normalising formatting. `data/format` is hand-authored and is never touched.<br>
 
 <br>  
+  
+
+
+### Secondary
+
+Optional, and outside the main loop. Each one reads `dist/` and writes another
+file back into it; none of them touch `data/`, `schema/`, or each other, so they
+are never needed for data editing. Run `compile.py` first.
+
+- `python script/sets.py`: Builds `dist/sets.json`, the set hierarchy — {type} to {collection} to {set}, with card totals summed at every level.<br>
+
+- `python script/manifest.py`: Builds `dist/manifest.json`, every card and deck record keyed by id with `id` carried inside the record. Written compact, since it is fetched per route downstream.<br>
+
+- `python script/properties.py`: Builds `dist/properties.json`, every distinct value of the properties worth filtering on. Feeds select-option lists; a reference to hand-order from, not a finished ordering.<br>
+
+<br>
   
 
 ## 🐝 Community & Contributing

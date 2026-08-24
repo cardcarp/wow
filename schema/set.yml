@@ -24,3 +24,10 @@ date:
 collection:
   type: string
   required: true
+
+publisher: # who printed this set, not who holds the licence. Lives here rather
+           # than on the collection because promo and catch-all collections
+           # group by kind, not era, and run straight through a handoff.
+  type: string
+  required: true
+  allowed: ['Upper Deck', 'Cryptozoic', 'Reborn']

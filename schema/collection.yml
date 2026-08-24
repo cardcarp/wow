@@ -11,7 +11,3 @@ index: # release order across all collections
   type: string
   nullable: true
   coerce: str
-
-publisher:
-  type: string
-  allowed: ['Blizzard', 'Reborn']
