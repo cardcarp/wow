@@ -1,0 +1,30 @@
+name: Magnus Longbarrel
+
+origin: drums-of-war-136
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 1 , Destroy Marcus → Turn target resource face down.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

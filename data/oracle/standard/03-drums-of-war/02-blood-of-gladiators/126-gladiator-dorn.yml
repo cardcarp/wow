@@ -1,0 +1,32 @@
+name: Gladiator Dorn
+
+origin: blood-of-gladiators-126
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Nature
+
+faction: Horde
+
+type: Arena
+
+rule:
+  - type: Ability
+    text: When an Arena ally in your party attacks, it heals 1 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

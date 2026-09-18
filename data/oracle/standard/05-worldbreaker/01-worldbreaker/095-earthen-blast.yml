@@ -1,0 +1,25 @@
+name: Earthen Blast
+
+origin: worldbreaker-095
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 'Your hero deals 5 nature damage to target ally. Stash : Your hero deals 2 nature damage to target hero.'
+
+regulation:
+
+errata: []
+
+temp: Elemental

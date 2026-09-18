@@ -1,0 +1,26 @@
+name: Instructor Razuvious
+
+origin: naxxramas-raid-011
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+type: Boss
+
+rule:
+  - type: Ability
+    position: Front
+    text: Assault 4 When a Death Knight Understudy leaves your control, flip Razuvious face down.
+  - type: Ability
+    position: Reverse
+    text: Assault 10 Razuvious must attack if able and can attack only a Death Knight Understudy if able.
+
+regulation:
+
+errata: []
+
+temp: Human Death Knight 6

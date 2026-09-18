@@ -1,0 +1,30 @@
+name: Alchemist Norrin'thal
+
+origin: servants-of-the-betrayer-158
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 0 → Norrin'thal becomes an ally this turn. Use only once per turn. 0 → Norrin'thal becomes an ally this turn. Use only once per turn.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

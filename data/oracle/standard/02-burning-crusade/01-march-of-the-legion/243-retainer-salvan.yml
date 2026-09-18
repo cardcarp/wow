@@ -1,0 +1,28 @@
+name: Retainer Salvan
+
+origin: march-of-the-legion-243
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: "Scryer Reputation Sabotage: Armor When Salvan sabotages a player's armor, exhaust all of that player's armor."
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

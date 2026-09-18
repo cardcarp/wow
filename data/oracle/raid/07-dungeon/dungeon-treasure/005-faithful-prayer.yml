@@ -1,0 +1,22 @@
+name: Faithful Prayer
+
+origin: dungeon-treasure-005
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+rule:
+  - type: Ability
+    text: "Ongoing : When a Priest ally enters play under your control or a friendly player's control, it heals 1 damage from each friendly hero and ally."
+
+regulation:
+
+errata: []
+
+temp: ''

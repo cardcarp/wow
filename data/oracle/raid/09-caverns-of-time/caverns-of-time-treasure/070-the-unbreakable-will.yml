@@ -1,0 +1,28 @@
+name: The Unbreakable Will
+
+origin: caverns-of-time-treasure-070
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+  - Rogue
+
+rule:
+  - type: Ability
+    text: This weapon enters play with a +1 ATK counter for each face-up resource you control.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

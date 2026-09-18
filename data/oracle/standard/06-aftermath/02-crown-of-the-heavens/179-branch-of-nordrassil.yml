@@ -1,0 +1,29 @@
+name: Branch of Nordrassil
+
+origin: crown-of-the-heavens-179
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: When you draw a card, you may put a 1 / 1 Treant ally token into play.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

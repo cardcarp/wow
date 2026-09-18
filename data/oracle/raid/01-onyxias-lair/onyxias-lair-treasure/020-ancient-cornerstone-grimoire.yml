@@ -1,0 +1,28 @@
+name: Ancient Cornerstone Grimoire
+
+origin: onyxias-lair-treasure-020
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: 2 , → Put a Skeleton ally token into play with 1 ATK / 1 health, Ferocity , Protector , and "At end of turn, destroy this ally."
+
+regulation:
+
+errata: []
+
+temp: Item Off-Hand

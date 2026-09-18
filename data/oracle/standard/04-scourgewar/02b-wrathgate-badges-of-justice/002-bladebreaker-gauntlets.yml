@@ -1,0 +1,27 @@
+name: Bladebreaker Gauntlets
+
+origin: wrathgate-badges-of-justice-002
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: When this armor enters play, you may destroy target armor or weapon. Opposing weapons have -1 ATK. Opposing armor have -1 .
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

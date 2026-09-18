@@ -1,0 +1,31 @@
+name: Super Mana Potion
+
+origin: magtheridons-lair-treasure-016
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '5'
+
+class:
+  - Priest
+  - Hunter
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 4 , Destroy Super Mana Potion → Draw four cards.
+
+regulation:
+
+errata: []
+
+temp: Item Potion

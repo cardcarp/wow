@@ -1,0 +1,25 @@
+name: Hidden Weaponry
+
+origin: fields-of-honor-056
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Destroy Hidden Weaponry → When target opposing ally is next dealt combat damage this turn, destroy it.'
+
+regulation:
+
+errata: []
+
+temp: Combat Combo

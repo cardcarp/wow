@@ -1,0 +1,25 @@
+name: Human Shield
+
+origin: scourgewar-107
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: If damage would be dealt to an ally you control this turn, it's dealt to your hero instead.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

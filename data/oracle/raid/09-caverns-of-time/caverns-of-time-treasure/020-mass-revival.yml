@@ -1,0 +1,25 @@
+name: Mass Revival
+
+origin: caverns-of-time-treasure-020
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '6'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: Put up to three target allies from your graveyard into your hand.
+
+regulation:
+
+errata: []
+
+temp: Holy

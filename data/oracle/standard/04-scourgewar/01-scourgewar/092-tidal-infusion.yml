@@ -1,0 +1,25 @@
+name: Tidal Infusion
+
+origin: scourgewar-092
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 'Attach to target ally or weapon you control. Ongoing : When attached card exhausts, you may draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Restoration

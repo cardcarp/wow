@@ -1,0 +1,25 @@
+name: Cone of Cold
+
+origin: icecrown-041
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: Your hero deals 1 frost damage to each of up to three target heroes and/or allies. A character dealt damage this way can't attack this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost

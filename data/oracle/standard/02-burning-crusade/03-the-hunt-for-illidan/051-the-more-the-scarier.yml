@@ -1,0 +1,25 @@
+name: The More, the Scarier
+
+origin: the-hunt-for-illidan-051
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: X
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: Your hero deals X fire damage to each of X target allies.
+
+regulation:
+
+errata: []
+
+temp: Fire

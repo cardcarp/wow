@@ -1,0 +1,27 @@
+name: Axe of the Eclipse
+
+origin: twilight-of-the-dragons-189
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: This weapon has +2 ATK while an opponent controls more allies than you.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

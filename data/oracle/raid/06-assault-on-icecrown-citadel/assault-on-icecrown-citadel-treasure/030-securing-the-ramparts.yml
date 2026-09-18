@@ -1,0 +1,20 @@
+name: Securing the Ramparts
+
+origin: assault-on-icecrown-citadel-treasure-030
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'If you control an armor, item, and weapon: Pay 1 to complete this quest. Reward : Draw two cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

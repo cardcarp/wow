@@ -1,0 +1,30 @@
+name: Neferset Frostbringer
+
+origin: tomb-of-the-forgotten-127
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Frost
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: Sentinel
+
+regulation:
+
+errata: []
+
+temp: Tol'vir Mage Shaman

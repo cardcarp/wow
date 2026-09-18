@@ -1,0 +1,28 @@
+name: Deathsmasher Mogdar
+
+origin: crown-of-the-heavens-130
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 6
+
+health: 4
+
+combat: Frost
+
+type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ogre Death Knight

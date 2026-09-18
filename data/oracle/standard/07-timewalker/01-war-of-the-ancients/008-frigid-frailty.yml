@@ -1,0 +1,25 @@
+name: Frigid Frailty
+
+origin: war-of-the-ancients-008
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Death Knight
+
+instant: Target ally has 0 ATK and can't gain ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost

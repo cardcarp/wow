@@ -1,0 +1,24 @@
+name: Glory to the Alliance!
+
+origin: war-of-the-ancients-076
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Put two 1 / 1 Human Warrior ally tokens into play with Protector .
+
+regulation:
+
+errata: []
+
+temp: ''

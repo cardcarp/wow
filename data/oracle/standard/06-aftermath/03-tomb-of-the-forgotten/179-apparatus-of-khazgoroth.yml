@@ -1,0 +1,27 @@
+name: Apparatus of Khaz'goroth
+
+origin: tomb-of-the-forgotten-179
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: Your hero has Assault 1 .
+
+regulation:
+
+errata: []
+
+temp: Item

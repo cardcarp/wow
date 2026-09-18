@@ -1,0 +1,30 @@
+name: Rakala Deathsmash
+
+origin: twilight-of-the-dragons-146
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally is destroyed, target opposing ally has -3 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Orc Death Knight

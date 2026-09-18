@@ -1,0 +1,25 @@
+name: Blazing Debris
+
+origin: twilight-of-the-dragons-046
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Mage
+
+instant: Your hero deals 3 fire damage to each of up to two target heroes and/or allies.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fire

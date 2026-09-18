@@ -1,0 +1,25 @@
+name: Death Grip
+
+origin: death-knight-starter-007
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: 'Ongoing : → This turn, target opposing hero or ally must attack if able and can attack only your hero if able.'
+
+regulation:
+
+errata: []
+
+temp: Unholy

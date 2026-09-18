@@ -1,0 +1,30 @@
+name: Aesadonna Al'mere
+
+origin: servants-of-the-betrayer-157
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 5
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Stealth When Aesadonna attacks, destroy target exhausted ally.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

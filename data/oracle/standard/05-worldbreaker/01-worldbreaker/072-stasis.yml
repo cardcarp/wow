@@ -1,0 +1,25 @@
+name: Stasis
+
+origin: worldbreaker-072
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: "Attach to target equipment and exhaust it. Ongoing : Attached equipment can't ready during its controller's ready step."
+
+regulation:
+
+errata: []
+
+temp: Protection

@@ -1,0 +1,20 @@
+name: Your Fortune Awaits You
+
+origin: heroes-of-azeroth-360
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Pay 3 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,22 @@
+name: Scarlet Blades
+
+origin: scarlet-monastery-034
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+type: Dungeon
+
+rule:
+  - type: Ability
+    text: When Mograine deals combat damage to a Raiding hero this turn, he also deals that much melee damage to each ally in that hero's party.
+
+regulation:
+
+errata: []
+
+temp: ''

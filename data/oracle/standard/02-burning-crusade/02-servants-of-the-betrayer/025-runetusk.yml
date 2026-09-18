@@ -1,0 +1,25 @@
+name: Runetusk
+
+origin: servants-of-the-betrayer-025
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 26
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Runetusk → Target opponent discards a card. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Troll Priest

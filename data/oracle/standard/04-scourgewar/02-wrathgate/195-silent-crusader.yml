@@ -1,0 +1,28 @@
+name: Silent Crusader
+
+origin: wrathgate-195
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+  - Rogue
+
+rule:
+  - type: Ability
+    text: When an opponent's hero is dealt combat damage with this weapon, exhaust all cards he controls.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

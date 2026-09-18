@@ -1,0 +1,25 @@
+name: Paralyze
+
+origin: icecrown-065
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Choose "ability," "ally," or "equipment." Target player can't play cards of that kind during his next turn.
+
+regulation:
+
+errata: []
+
+temp: Subtlety

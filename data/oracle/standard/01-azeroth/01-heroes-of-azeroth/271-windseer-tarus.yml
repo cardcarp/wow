@@ -1,0 +1,30 @@
+name: Windseer Tarus
+
+origin: heroes-of-azeroth-271
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Windseer Tarus attacks for the first time each turn, you may pay 1 . If you do, ready him.
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

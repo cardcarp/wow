@@ -1,0 +1,30 @@
+name: Boki Earthgaze
+
+origin: worldbreaker-165
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 6
+
+health: 2
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Ferocity
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

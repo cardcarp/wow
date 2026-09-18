@@ -1,0 +1,25 @@
+name: Invocation
+
+origin: servants-of-the-betrayer-062
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: 'Ongoing : 2 , Destroy Invocation → This turn, your resources have " → Draw a card."'
+
+regulation:
+
+errata: []
+
+temp: Arcane

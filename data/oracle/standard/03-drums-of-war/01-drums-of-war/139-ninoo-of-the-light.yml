@@ -1,0 +1,30 @@
+name: Ninoo of the Light
+
+origin: drums-of-war-139
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 3
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Ninoo can't attack. → Ninoo heals 1 damage from each hero and ally in your party.
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

@@ -1,0 +1,25 @@
+name: Sudden Death
+
+origin: servants-of-the-betrayer-123
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: Traitor Hero Required Destroy target ally without damage.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Traitor

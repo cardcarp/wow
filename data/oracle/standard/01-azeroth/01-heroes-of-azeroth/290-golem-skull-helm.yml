@@ -1,0 +1,24 @@
+name: Golem Skull Helm
+
+origin: heroes-of-azeroth-290
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

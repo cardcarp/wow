@@ -1,0 +1,27 @@
+name: God-Grinding Grips
+
+origin: war-of-the-elements-181
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: 4 , Exhaust your hero → Your hero deals 2 arcane damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

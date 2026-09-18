@@ -1,0 +1,30 @@
+name: Branu Wildbloom
+
+origin: through-the-dark-portal-202
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 2
+
+health: 3
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Branu Wildbloom enters play, put the top card of your deck into your resource row face down and exhausted.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

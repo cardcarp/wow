@@ -1,0 +1,25 @@
+name: Prayer of the Ages
+
+origin: betrayal-of-the-guardian-035
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '7'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: Rift Put target ally from your graveyard into play.
+
+regulation:
+
+errata: []
+
+temp: Holy

@@ -1,0 +1,30 @@
+name: Zorus the Judicator
+
+origin: the-hunt-for-illidan-144
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '8'
+
+damage: 8
+
+health: 1
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector Zorus can't be destroyed by fatal damage.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

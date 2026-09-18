@@ -1,0 +1,30 @@
+name: Kozik Skullcracker
+
+origin: icecrown-136
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Stealth
+
+regulation:
+
+errata: []
+
+temp: Orc Rogue

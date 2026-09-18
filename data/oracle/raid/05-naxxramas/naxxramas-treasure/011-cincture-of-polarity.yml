@@ -1,0 +1,27 @@
+name: Cincture of Polarity
+
+origin: naxxramas-treasure-011
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: Heroes and allies you control have +2 while you control an even number of heroes and allies.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

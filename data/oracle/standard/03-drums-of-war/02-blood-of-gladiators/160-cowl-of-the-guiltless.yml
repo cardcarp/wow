@@ -1,0 +1,26 @@
+name: Cowl of the Guiltless
+
+origin: blood-of-gladiators-160
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: Ability
+    text: When you play an ability, target hero or ally has Stealth this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

@@ -1,0 +1,27 @@
+name: Faerlinas Madness
+
+origin: naxxramas-treasure-013
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: 'On your turn: , Turn a resource you control face down → Turn target opposing resource face down.'
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

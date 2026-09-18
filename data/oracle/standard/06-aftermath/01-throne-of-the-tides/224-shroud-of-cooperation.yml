@@ -1,0 +1,34 @@
+name: Shroud of Cooperation
+
+origin: throne-of-the-tides-224
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 'As this armor enters play, choose a class. On your turn: 2 , → Put a 1 / 1 ally token of the chosen class into play.'
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

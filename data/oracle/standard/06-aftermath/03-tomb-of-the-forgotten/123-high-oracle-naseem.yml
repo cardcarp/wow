@@ -1,0 +1,30 @@
+name: High Oracle Naseem
+
+origin: tomb-of-the-forgotten-123
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 5
+
+combat: Holy
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: Protector This ally has all standard classes in all zones.
+
+regulation:
+
+errata: []
+
+temp: Tol'vir

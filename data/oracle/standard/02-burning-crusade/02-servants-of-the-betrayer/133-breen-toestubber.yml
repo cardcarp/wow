@@ -1,0 +1,30 @@
+name: Breen Toestubber
+
+origin: servants-of-the-betrayer-133
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Opposing allies have -1 ATK.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warrior

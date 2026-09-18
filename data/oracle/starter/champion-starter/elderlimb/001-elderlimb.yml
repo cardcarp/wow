@@ -1,0 +1,26 @@
+name: Elderlimb
+
+origin: elderlimb-001
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+type: Monster
+
+rule:
+  - type: Ability
+    position: Front
+    text: 4 → Flip Elderlimb face down.
+  - type: Ability
+    position: Reverse
+    text: "Ancient's Lore : At the start of your turn, Elderlimb heals 4 damage from himself if you control a Treant. Deckbuilding: You can't put or cards in your deck."
+
+regulation:
+
+errata: []
+
+temp: Ancient Druid 27

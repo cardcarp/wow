@@ -1,0 +1,27 @@
+name: Girdle of the Queens Champion
+
+origin: war-of-the-ancients-208
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+  - Death Knight
+  - Warrior
+
+rule:
+  - type: Ability
+    text: This armor enters play exhausted.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

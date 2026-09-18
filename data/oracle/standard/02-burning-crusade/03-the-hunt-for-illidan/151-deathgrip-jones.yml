@@ -1,0 +1,30 @@
+name: '"Deathgrip" Jones'
+
+origin: the-hunt-for-illidan-151
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector Your weapons can't be targeted by opponents.
+
+regulation:
+
+errata: []
+
+temp: Undead Warrior

@@ -1,0 +1,30 @@
+name: Sergeant Pugg
+
+origin: fields-of-honor-144
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Other allies have -1 health.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

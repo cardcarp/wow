@@ -1,0 +1,26 @@
+name: Masquerade Gown
+
+origin: drums-of-war-210
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Druid
+  - Priest
+
+rule:
+  - type: Ability
+    text: → Target ally in your party becomes a copy of a second target ally in your party this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

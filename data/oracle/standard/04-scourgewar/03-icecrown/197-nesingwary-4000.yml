@@ -1,0 +1,25 @@
+name: Nesingwary 4000
+
+origin: icecrown-197
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: When you strike with this weapon, your hero has Long-Range this combat. While there are four or more allies with the same name in one opposing graveyard, this weapon's ATK becomes 4000.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Gun

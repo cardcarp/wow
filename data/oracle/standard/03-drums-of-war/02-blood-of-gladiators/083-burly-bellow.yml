@@ -1,0 +1,26 @@
+name: Burly Bellow
+
+origin: blood-of-gladiators-083
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Druid
+  - Warrior
+
+instant: Opposing allies have -5 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral Fury

@@ -1,0 +1,23 @@
+name: Mannoroth the Destructor
+
+origin: timewalkers-025
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+type: Boss
+
+rule:
+  - type: Ability
+    position: Front
+    text: Flip 1 , Assault 8 , Smash Mannoroth has +5 and an additional Assault 2 for each Caverns hero that has been defeated. Mannoroth must attack the ally with the lowest remaining health if able.
+
+regulation:
+
+errata: []
+
+temp: Pit Lord Demon Warrior 30

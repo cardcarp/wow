@@ -1,0 +1,20 @@
+name: A Donation of Mageweave
+
+origin: fires-of-outland-232
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Pay 3 to complete this quest. Reward : Draw three cards, then discard three cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

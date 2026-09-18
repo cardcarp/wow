@@ -1,0 +1,30 @@
+name: Unstoppable Abyssal
+
+origin: war-of-the-ancients-200
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Fire
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: When this ally enters play, target opposing ally can't protect this turn.
+
+regulation:
+
+errata: []
+
+temp: Abyssal Demon

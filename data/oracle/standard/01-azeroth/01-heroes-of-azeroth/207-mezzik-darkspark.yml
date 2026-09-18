@@ -1,0 +1,30 @@
+name: Mezzik Darkspark
+
+origin: heroes-of-azeroth-207
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: ', Destroy an ally in your party → Mezzik Darkspark deals X shadow damage to target hero or ally, where X is the ATK of the destroyed ally.'
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

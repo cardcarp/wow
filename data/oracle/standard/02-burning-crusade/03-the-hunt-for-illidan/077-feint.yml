@@ -1,0 +1,25 @@
+name: Feint
+
+origin: the-hunt-for-illidan-077
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '0'
+
+class:
+  - Rogue
+
+instant: Remove target attacker from combat.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Combat

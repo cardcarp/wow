@@ -1,0 +1,20 @@
+name: Rule of Thumb
+
+origin: arena-grand-melee-event-087
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+rule:
+  - type: Ability
+    text: All abilities, allies, equipment, and quests are unique this turn.
+
+regulation:
+
+errata: []
+
+temp: ''

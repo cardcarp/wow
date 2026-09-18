@@ -1,0 +1,25 @@
+name: Pain Suppression
+
+origin: fires-of-outland-060
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: 'Discipline Hero Required Ongoing : If your hero would be dealt damage, prevent 1 of that damage.'
+
+regulation:
+
+errata: []
+
+temp: Discipline Talent

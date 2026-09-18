@@ -1,0 +1,25 @@
+name: Fama'sin the Lifeseer
+
+origin: throne-of-the-tides-012
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 27
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: "On your turn: 5 , Flip Fama'sin → Put three 1 / 1 Treant ally tokens into play."
+
+regulation:
+
+errata: []
+
+temp: Troll Druid

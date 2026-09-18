@@ -1,0 +1,30 @@
+name: Dorladris Spellfire
+
+origin: worldbreaker-169
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Arcane
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 4 → Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

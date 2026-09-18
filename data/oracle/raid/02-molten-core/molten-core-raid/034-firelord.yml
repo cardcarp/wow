@@ -1,0 +1,26 @@
+name: Firelord
+
+origin: molten-core-raid-034
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: When Firelord enters play, put a Lava Spawn into play.
+
+regulation:
+
+errata: []
+
+temp: Elemental Minion

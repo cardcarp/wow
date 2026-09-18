@@ -1,0 +1,27 @@
+name: Demonologists Pact
+
+origin: arena-grand-melee-010
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warlock
+
+type: Arena
+
+rule:
+  - type: Ability
+    text: 'Preparation Ongoing : You pay 1 less to play Pets.'
+
+regulation:
+
+errata: []
+
+temp: ''

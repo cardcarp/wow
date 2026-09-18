@@ -1,0 +1,25 @@
+name: Skumm the Pillager
+
+origin: fields-of-honor-017
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 27
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 'On your turn: 3 , Flip Skumm → Turn target resource face down.'
+
+regulation:
+
+errata: []
+
+temp: Troll Rogue

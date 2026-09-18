@@ -1,0 +1,28 @@
+name: Staff of Silence
+
+origin: reign-of-fire-187
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: When an opponent plays an ability, add a silence counter to this weapon. Opponents pay 1 more to play abilities for each silence counter on this weapon.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

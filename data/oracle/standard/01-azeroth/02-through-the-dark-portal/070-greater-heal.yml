@@ -1,0 +1,25 @@
+name: Greater Heal
+
+origin: through-the-dark-portal-070
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: Your hero heals 14 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Holy

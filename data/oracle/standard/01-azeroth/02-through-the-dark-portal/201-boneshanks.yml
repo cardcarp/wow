@@ -1,0 +1,30 @@
+name: Boneshanks
+
+origin: through-the-dark-portal-201
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Boneshanks is destroyed, destroy target ally.
+
+regulation:
+
+errata: []
+
+temp: Undead Warrior

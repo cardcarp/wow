@@ -1,0 +1,25 @@
+name: Shadow and Flame
+
+origin: servants-of-the-betrayer-116
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: 'Destruction Hero Required Ongoing : 1 , Destroy an ability you control → Your hero deals 2 shadow or fire damage to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Destruction Talent

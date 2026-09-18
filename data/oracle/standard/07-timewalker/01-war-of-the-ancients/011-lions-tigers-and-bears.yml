@@ -1,0 +1,25 @@
+name: Lions, Tigers, and Bears
+
+origin: war-of-the-ancients-011
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: Put a 2 / 2 Lion ally token into play with Ferocity . Put a 2 / 2 Tiger ally token into play with Stealth . Put a 2 / 2 Bear ally token into play with Protector .
+
+regulation:
+
+errata: []
+
+temp: Feral

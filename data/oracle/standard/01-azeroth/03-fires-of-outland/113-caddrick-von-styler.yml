@@ -1,0 +1,30 @@
+name: Caddrick Von Styler
+
+origin: fires-of-outland-113
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 2
+
+health: 7
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 5 , → Each player destroys one of his resources.
+
+regulation:
+
+errata: []
+
+temp: Human Warlock

@@ -1,0 +1,25 @@
+name: Bloodtusk
+
+origin: servants-of-the-betrayer-034
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 26
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 5 , Flip Bloodtusk → Discard your hand. Each opponent discards a card for each card you discarded this way. Use only on your turn. Hakkari
+
+regulation:
+
+errata: []
+
+temp: Troll Priest

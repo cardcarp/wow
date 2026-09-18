@@ -1,0 +1,25 @@
+name: Sacred Moment
+
+origin: blood-of-gladiators-046
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: Cards in play can't ready until after your next turn.
+
+regulation:
+
+errata: []
+
+temp: Protection

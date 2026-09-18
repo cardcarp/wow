@@ -1,0 +1,25 @@
+name: Katianna the Shrouded
+
+origin: fields-of-honor-001
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 26
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 1 , Flip Katianna → Heroes and allies in your party are Elusive this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

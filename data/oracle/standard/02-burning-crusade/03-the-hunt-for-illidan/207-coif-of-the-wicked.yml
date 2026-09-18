@@ -1,0 +1,26 @@
+name: Coif of the Wicked
+
+origin: the-hunt-for-illidan-207
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '5'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: Ability
+    text: ': When you place a quest, ready your hero and all of your Ranged weapons. : When you place a quest, ready your hero and all of your Melee weapons.'
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

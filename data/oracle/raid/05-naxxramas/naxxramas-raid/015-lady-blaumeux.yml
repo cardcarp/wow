@@ -1,0 +1,32 @@
+name: Lady Blaumeux
+
+origin: naxxramas-raid-015
+
+layout: Standard
+
+category:
+  - Token
+
+trait:
+
+damage: 3
+
+health: 10
+
+combat: Shadow
+
+type: Ally
+
+rule:
+  - type: Ability
+    position: Front
+    text: Long-Range At the end of your turn, the raid leader chooses a raiding ability or equipment. Remove it from the game.
+  - type: Ability
+    position: Reverse
+    text: Long-Range At the end of your turn, remove all raiding abilities and equipment from the game.
+
+regulation:
+
+errata: []
+
+temp: Human Death Knight Horseman

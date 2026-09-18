@@ -1,0 +1,22 @@
+name: Demonic Fury
+
+origin: magtheridons-lair-raid-012
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+rule:
+  - type: Ability
+    text: 'Demonic Fury enters play exhausted. Ongoing : → You pay 2 less to play your next card this turn.'
+
+regulation:
+
+errata: []
+
+temp: ''

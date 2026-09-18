@@ -1,0 +1,30 @@
+name: Anastina, Herald of the Fel
+
+origin: throne-of-the-tides-141
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 2
+
+health: 6
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 'Empower Warlock : When this ally enters play, if you control another Warlock hero or ally, this ally deals 2 shadow damage to each opposing hero and ally.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Warlock

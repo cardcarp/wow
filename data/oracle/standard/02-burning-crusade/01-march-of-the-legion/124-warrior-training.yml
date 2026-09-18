@@ -1,0 +1,25 @@
+name: Warrior Training
+
+origin: march-of-the-legion-124
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: 'Attach to target friendly ally. Ongoing : Opposing heroes and allies can attack only attached ally if able.'
+
+regulation:
+
+errata: []
+
+temp: Protection

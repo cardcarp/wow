@@ -1,0 +1,30 @@
+name: Tommi Spazzratchet
+
+origin: crown-of-the-heavens-096
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Stealth
+
+regulation:
+
+errata: []
+
+temp: Gnome Rogue

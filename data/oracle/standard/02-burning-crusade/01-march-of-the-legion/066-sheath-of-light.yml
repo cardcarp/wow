@@ -1,0 +1,25 @@
+name: Sheath of Light
+
+origin: march-of-the-legion-066
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: 'Ongoing : → Prevent the next 2 damage that would be dealt to target ally this turn.'
+
+regulation:
+
+errata: []
+
+temp: Protection

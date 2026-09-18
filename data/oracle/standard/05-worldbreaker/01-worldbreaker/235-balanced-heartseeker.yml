@@ -1,0 +1,25 @@
+name: Balanced Heartseeker
+
+origin: worldbreaker-235
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 'While your hero is attacking a hero, this equipment has +2 ATK for each heirloom counter on it. Stash : Add an heirloom counter to target equipment you control.'
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

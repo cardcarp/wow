@@ -1,0 +1,25 @@
+name: Requite
+
+origin: wrathgate-091
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Your hero deals 4 melee damage to target damaged hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Fury

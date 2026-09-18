@@ -1,0 +1,28 @@
+name: Invulnerable Mail
+
+origin: heroes-of-azeroth-296
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '7'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Destroy two of your resources → Ready Invulnerable Mail.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

@@ -1,0 +1,25 @@
+name: Crackling Purge
+
+origin: the-hunt-for-illidan-085
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Destroy target ability. If it wasn't attached to a friendly hero or ally, your hero may deal nature damage to its controller's hero equal to its cost.
+
+regulation:
+
+errata: []
+
+temp: Elemental

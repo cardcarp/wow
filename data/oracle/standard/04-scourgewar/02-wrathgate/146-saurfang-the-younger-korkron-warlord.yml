@@ -1,0 +1,30 @@
+name: Saurfang the Younger, Kor'kron Warlord
+
+origin: wrathgate-146
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: "Ferocity When this ally enters play, you may search your deck for a card named Kor'kron Vanguard, reveal it, and put it into your hand. Death Rattle : Turn all locations you control face down."
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

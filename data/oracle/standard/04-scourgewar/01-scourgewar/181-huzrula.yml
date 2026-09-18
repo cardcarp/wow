@@ -1,0 +1,30 @@
+name: Huzrula
+
+origin: scourgewar-181
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Mend 2
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

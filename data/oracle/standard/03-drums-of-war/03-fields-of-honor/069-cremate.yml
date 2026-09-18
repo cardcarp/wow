@@ -1,0 +1,25 @@
+name: Cremate
+
+origin: fields-of-honor-069
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: Your hero deals 2 fire damage to target hero or ally. If that character would be destroyed this turn, remove it from the game instead.
+
+regulation:
+
+errata: []
+
+temp: Destruction

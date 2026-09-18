@@ -1,0 +1,30 @@
+name: Daniel Soortan
+
+origin: drums-of-war-120
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 1
+
+health: 1
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 'Diplomacy: Dwarves → Target player puts the top two cards of his deck into his graveyard.'
+
+regulation:
+
+errata: []
+
+temp: Human Priest

@@ -1,0 +1,27 @@
+name: Devil-Stitched Leggings
+
+origin: march-of-the-legion-259
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: 3 , Exhaust your hero → Target hero or ally has -3 health this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

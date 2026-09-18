@@ -1,0 +1,22 @@
+name: The Missing Diplomat
+
+origin: heroes-of-azeroth-342
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 'During your turn, pay 4 to complete this quest. Reward : Search your deck for an ally card, reveal it, and put it into your hand.'
+
+regulation:
+
+errata: []
+
+temp: ''

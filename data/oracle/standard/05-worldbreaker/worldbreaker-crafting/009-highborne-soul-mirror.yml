@@ -1,0 +1,34 @@
+name: Highborne Soul Mirror
+
+origin: worldbreaker-crafting-009
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '7'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 'When an ally you control is destroyed, destroy each other ally you control with the same name as that ally. On your turn: → Put a token copy of target ally you control into play.'
+
+regulation:
+
+errata: []
+
+temp: Item

@@ -1,0 +1,30 @@
+name: Justicar Johanna Rastol
+
+origin: icecrown-106
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector When an opposing Shaman deals damage to a hero or ally you control, that Shaman also deals that much nature damage to himself.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

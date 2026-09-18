@@ -1,0 +1,25 @@
+name: Despair of Winter
+
+origin: war-of-the-ancients-005
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: Destroy all allies.
+
+regulation:
+
+errata: []
+
+temp: Frost

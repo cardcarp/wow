@@ -1,0 +1,25 @@
+name: Brainsplinter
+
+origin: crown-of-the-heavens-178
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Dual Wield When your hero strikes with this weapon, target ally has Stealth this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

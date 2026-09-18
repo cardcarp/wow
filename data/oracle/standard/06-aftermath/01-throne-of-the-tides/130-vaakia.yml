@@ -1,0 +1,30 @@
+name: Vaakia
+
+origin: throne-of-the-tides-130
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: When this ally attacks, she deals 1 fire damage to target hero.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

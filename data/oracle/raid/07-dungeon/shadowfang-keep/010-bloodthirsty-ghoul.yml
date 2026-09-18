@@ -1,0 +1,28 @@
+name: Bloodthirsty Ghoul
+
+origin: shadowfang-keep-010
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+damage: 8
+
+health: 4
+
+combat: Melee
+
+type: Dungeon
+
+rule:
+  - type: Ability
+    text: When this ally enters play, put all Bloodthirsty Ghouls from the graveyard into play.
+
+regulation:
+
+errata: []
+
+temp: Ghoul

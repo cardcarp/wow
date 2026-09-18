@@ -1,0 +1,30 @@
+name: Legion Fel Reaver
+
+origin: war-of-the-ancients-188
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 8
+
+health: 8
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: As an additional cost to play, choose and destroy a Demon ally you control.
+
+regulation:
+
+errata: []
+
+temp: Construct Demon

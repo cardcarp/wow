@@ -1,0 +1,30 @@
+name: Torkar the Bloodsworn
+
+origin: caverns-of-time-treasure-051
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 5
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector When your hero is dealt combat damage, destroy this ally.
+
+regulation:
+
+errata: []
+
+temp: Orc Death Knight

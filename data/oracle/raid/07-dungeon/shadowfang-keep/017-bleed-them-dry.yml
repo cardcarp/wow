@@ -1,0 +1,22 @@
+name: Bleed Them Dry
+
+origin: shadowfang-keep-017
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+type: Dungeon
+
+rule:
+  - type: Ability
+    text: "Attach to the MARKED hero, and Godfrey deals 4 shadow damage to it. Ongoing : Attached hero can't be healed."
+
+regulation:
+
+errata: []
+
+temp: ''

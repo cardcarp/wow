@@ -1,0 +1,25 @@
+name: Soulshatter
+
+origin: fires-of-outland-089
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: "Ongoing : When your hero defends against an ally, that ally's controller exhausts all allies in his party."
+
+regulation:
+
+errata: []
+
+temp: Demonology

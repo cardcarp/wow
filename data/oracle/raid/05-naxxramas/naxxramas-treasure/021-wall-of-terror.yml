@@ -1,0 +1,26 @@
+name: Wall of Terror
+
+origin: naxxramas-treasure-021
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: When this armor enters play, put each other ability, ally, and equipment into it's owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

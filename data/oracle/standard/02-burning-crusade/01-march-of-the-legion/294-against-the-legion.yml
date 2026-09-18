@@ -1,0 +1,20 @@
+name: Against the Legion
+
+origin: march-of-the-legion-294
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'If an opponent has more resources than you, pay 1 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

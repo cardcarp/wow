@@ -1,0 +1,25 @@
+name: Maleo the Blur
+
+origin: drums-of-war-013
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Maleo → This turn, Maleo is in Cat Form and has Form (1) until you strike with a weapon or play a non-Feral ability.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

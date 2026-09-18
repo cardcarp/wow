@@ -1,0 +1,30 @@
+name: Orc Shaman
+
+origin: reign-of-fire-108
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 3 → Heroes and allies you control have +2 ATK while attacking heroes this turn.
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

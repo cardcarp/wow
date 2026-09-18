@@ -1,0 +1,25 @@
+name: Deafening Shout
+
+origin: servants-of-the-betrayer-120
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '7'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Opposing allies have -3 ATK / -3 health.'
+
+regulation:
+
+errata: []
+
+temp: Fury Shout

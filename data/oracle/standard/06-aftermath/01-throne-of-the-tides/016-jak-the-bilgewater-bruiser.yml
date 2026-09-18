@@ -1,0 +1,25 @@
+name: Jak the Bilgewater Bruiser
+
+origin: throne-of-the-tides-016
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 30
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 'On your turn: 4 , Flip Jak → Ready Jak and target weapon you control. You pay 4 less to strike with it this turn.'
+
+regulation:
+
+errata: []
+
+temp: Goblin Warrior

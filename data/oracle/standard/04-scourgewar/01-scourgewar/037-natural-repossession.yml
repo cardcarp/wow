@@ -1,0 +1,25 @@
+name: Natural Repossession
+
+origin: scourgewar-037
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: 'Choose one or both: Destroy target ability; or destroy target equipment.'
+
+regulation:
+
+errata: []
+
+temp: Balance

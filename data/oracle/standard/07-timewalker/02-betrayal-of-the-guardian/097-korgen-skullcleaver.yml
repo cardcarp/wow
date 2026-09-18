@@ -1,0 +1,30 @@
+name: Korgen Skullcleaver
+
+origin: betrayal-of-the-guardian-097
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Destroy another ally you control → Target Orc ally has Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: Orc Death Knight

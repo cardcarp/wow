@@ -1,0 +1,30 @@
+name: Malistra the Demonmistress
+
+origin: fires-of-outland-173
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Friendly Pets have +2 ATK.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Warlock

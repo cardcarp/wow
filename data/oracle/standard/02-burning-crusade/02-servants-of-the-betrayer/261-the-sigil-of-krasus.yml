@@ -1,0 +1,20 @@
+name: The Sigil of Krasus
+
+origin: servants-of-the-betrayer-261
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'If an opponent played an ally this turn, pay 1 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

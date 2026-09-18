@@ -1,0 +1,30 @@
+name: Kronore
+
+origin: servants-of-the-betrayer-141
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '7'
+
+damage: 4
+
+health: 6
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: → Ready all other allies in your party.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

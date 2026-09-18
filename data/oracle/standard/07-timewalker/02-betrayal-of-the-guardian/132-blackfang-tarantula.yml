@@ -1,0 +1,30 @@
+name: Blackfang Tarantula
+
+origin: betrayal-of-the-guardian-132
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Nature
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: Monster Hero Required Elusive Stealth
+
+regulation:
+
+errata: []
+
+temp: Spider Beast

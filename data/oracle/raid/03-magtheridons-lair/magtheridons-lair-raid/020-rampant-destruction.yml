@@ -1,0 +1,22 @@
+name: Rampant Destruction
+
+origin: magtheridons-lair-raid-020
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+rule:
+  - type: Ability
+    text: Destroy an opposing ability or equipment for each Blood in play. When an opposing card or effect causes you to discard Rampant Destruction, you may put it from your graveyard into your hand.
+
+regulation:
+
+errata: []
+
+temp: ''

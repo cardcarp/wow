@@ -1,0 +1,25 @@
+name: Gyro of the Ring
+
+origin: blood-of-gladiators-005
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 'On your turn: 2 , Flip Gyro → If Gyro has Stealth , destroy target exhausted ally.'
+
+regulation:
+
+errata: []
+
+temp: Gnome Rogue

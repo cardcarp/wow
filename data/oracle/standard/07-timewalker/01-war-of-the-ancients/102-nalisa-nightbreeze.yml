@@ -1,0 +1,30 @@
+name: Nalisa Nightbreeze
+
+origin: war-of-the-ancients-102
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+instant: Elusive When this ally enters play, target Night Elf ally you control has Spellshield this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

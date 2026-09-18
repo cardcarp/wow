@@ -1,0 +1,25 @@
+name: Obfuscate
+
+origin: march-of-the-legion-084
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Target hero or ally has +2 ATK while attacking and has Stealth this turn.
+
+regulation:
+
+errata: []
+
+temp: Subtlety Combo

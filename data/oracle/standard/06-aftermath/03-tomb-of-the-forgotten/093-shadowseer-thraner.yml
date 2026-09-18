@@ -1,0 +1,30 @@
+name: Shadowseer Thraner
+
+origin: tomb-of-the-forgotten-093
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 4
+
+health: 6
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: When this ally enters play, reveal the top card of your deck. If it's an ability, ally, or equipment, target opponent removes cards from the top of his deck from the game equal to that revealed card's cost.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Priest

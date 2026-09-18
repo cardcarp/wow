@@ -1,0 +1,25 @@
+name: Fork Lightning
+
+origin: blood-of-gladiators-063
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Your hero deals 5 nature damage to target hero and 5 nature damage to target ally.
+
+regulation:
+
+errata: []
+
+temp: Elemental

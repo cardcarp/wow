@@ -1,0 +1,28 @@
+name: Fraznak the Furious
+
+origin: war-of-the-elements-012
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 30
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 5 → Flip Fraznak
+  - type: Ability
+    position: Reverse
+    text: Allies you control have Assault 1 .
+
+regulation:
+
+errata: []
+
+temp: Goblin Warrior

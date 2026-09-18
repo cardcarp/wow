@@ -1,0 +1,32 @@
+name: Gladiator Keward
+
+origin: blood-of-gladiators-101
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+type: Arena
+
+rule:
+  - type: Ability
+    text: Arena allies in your party are Protector s.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior

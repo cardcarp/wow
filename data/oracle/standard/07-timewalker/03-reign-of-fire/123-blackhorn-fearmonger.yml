@@ -1,0 +1,30 @@
+name: Blackhorn Fearmonger
+
+origin: reign-of-fire-123
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: When this ally enters play, he deals 3 shadow damage to target opposing hero unless its controller puts an ally he controls into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Satyr Demon Warlock

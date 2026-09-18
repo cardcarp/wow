@@ -1,0 +1,30 @@
+name: Eye of the Legion
+
+origin: war-of-the-ancients-173
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Fire
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: 1 → Look at a random card in target opponent's hand.
+
+regulation:
+
+errata: []
+
+temp: Demon

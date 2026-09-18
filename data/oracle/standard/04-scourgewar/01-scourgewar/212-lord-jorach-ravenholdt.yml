@@ -1,0 +1,28 @@
+name: Lord Jorach Ravenholdt
+
+origin: scourgewar-212
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 5
+
+health: 4
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: 1 , Exhaust a Rogue you control → Exhaust target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Human Rogue

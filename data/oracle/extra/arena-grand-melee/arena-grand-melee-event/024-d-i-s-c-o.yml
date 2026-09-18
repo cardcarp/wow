@@ -1,0 +1,20 @@
+name: D.I.S.C.O.
+
+origin: arena-grand-melee-event-024
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+rule:
+  - type: Ability
+    text: "Ongoing : At the end of each player's turn, he readies all heroes and allies in his party if he can hear music."
+
+regulation:
+
+errata: []
+
+temp: ''

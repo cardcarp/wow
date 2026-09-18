@@ -1,0 +1,25 @@
+name: Vengeful Gladiators Felshroud
+
+origin: blood-of-gladiators-167
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '7'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: On your turn, you can play ability cards that are removed from the game. → Put target opposing ally into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Arena Armor Set Cloth

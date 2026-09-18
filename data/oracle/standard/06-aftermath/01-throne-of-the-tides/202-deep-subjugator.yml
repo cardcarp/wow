@@ -1,0 +1,30 @@
+name: Deep Subjugator
+
+origin: throne-of-the-tides-202
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: Elusive This ally has +2 / +2 while you control another Merciless One.
+
+regulation:
+
+errata: []
+
+temp: Merciless One

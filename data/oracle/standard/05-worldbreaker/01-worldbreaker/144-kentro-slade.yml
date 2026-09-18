@@ -1,0 +1,30 @@
+name: Kentro Slade
+
+origin: worldbreaker-144
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: At the start of your turn, if you control an armor, item, and weapon, destroy this ally. If you do, search your deck and/or hand for a master hero and put it into play.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

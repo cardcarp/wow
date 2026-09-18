@@ -1,0 +1,30 @@
+name: Ror Tramplehoof
+
+origin: war-of-the-ancients-144
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '7'
+
+damage: 7
+
+health: 7
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Smash
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

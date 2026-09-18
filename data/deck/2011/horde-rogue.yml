@@ -1,0 +1,58 @@
+name: Horde Rogue
+
+format:
+  - Starter
+
+group: '2011'
+
+theme:
+  - Horde
+  - Starter
+  - '2011'
+
+complexity:
+
+division:
+
+highlight: horde-rogue-2011-001
+
+tagline: 2011 Horde Rogue Preconstructed
+
+description:
+  - title: ''
+    body: Introduction to the 2011 Horde Rogue
+
+list:
+  hero:
+    horde-rogue-2011-001: 1  # Frizlix of Kezan
+  main:
+    horde-rogue-2011-002: 1  # Adrenaline Rush
+    horde-rogue-2011-003: 2 # Aggressive Exploitation
+    horde-rogue-2011-004: 1 # Carnage
+    horde-rogue-2011-005: 1 # Deadly Poison
+    horde-rogue-2011-006: 1 # Dismantle
+    horde-rogue-2011-007: 1 # Distract
+    horde-rogue-2011-008: 1 # Fan of Knives
+    horde-rogue-2011-009: 2 # Gouge
+    horde-rogue-2011-010: 2 # Infiltrate
+    horde-rogue-2011-011: 2 # Prey on the Weak
+    horde-rogue-2011-012: 2 # Sinister Strike
+    horde-rogue-2011-013: 2 # Bloodblade
+    horde-rogue-2011-014: 2 # Captain Swash
+    horde-rogue-2011-015: 2 # Drizzie Steelslam
+    horde-rogue-2011-016: 2 # Firewarden Wyland Kaslinth
+    horde-rogue-2011-017: 3 # Kozik Skullcracker
+    horde-rogue-2011-018: 1 # Lu'ka de Wall
+    horde-rogue-2011-019: 2 # Oruk Starstorm
+    horde-rogue-2011-020: 3 # Skronk Skullseeker
+    horde-rogue-2011-021: 3 # Wysko
+    horde-rogue-2011-022: 2 # Zakis Trickstab
+    horde-rogue-2011-023: 2 # Barman Shanker
+    horde-rogue-2011-024: 1 # Perditions Blade
+    horde-rogue-2011-025: 2 # Scarlet Kris
+    horde-rogue-2011-026: 2 # A Bird in Hand
+    horde-rogue-2011-027: 1 # Blueleaf Tubers
+    horde-rogue-2011-028: 4 # Entrenched
+    horde-rogue-2011-029: 4 # The Essence of Enmity
+    horde-rogue-2011-030: 2 # The Grimtotem Weapon
+    horde-rogue-2011-031: 4 # The Key to Freedom

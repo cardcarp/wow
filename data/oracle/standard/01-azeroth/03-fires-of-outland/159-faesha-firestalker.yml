@@ -1,0 +1,30 @@
+name: Faesha Firestalker
+
+origin: fires-of-outland-159
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Destroy one of your resources → Faesha Firestalker has Long-Range this turn.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Hunter

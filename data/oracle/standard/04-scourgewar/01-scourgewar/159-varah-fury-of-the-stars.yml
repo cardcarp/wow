@@ -1,0 +1,30 @@
+name: Varah, Fury of the Stars
+
+origin: scourgewar-159
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 6
+
+health: 5
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Assault 2
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

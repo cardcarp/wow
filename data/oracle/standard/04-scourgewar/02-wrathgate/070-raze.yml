@@ -1,0 +1,25 @@
+name: Raze
+
+origin: wrathgate-070
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Finishing Move Destroy each opposing ally and equipment with cost X.
+
+regulation:
+
+errata: []
+
+temp: Assassination

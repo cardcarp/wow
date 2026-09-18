@@ -1,0 +1,30 @@
+name: Routeen
+
+origin: march-of-the-legion-163
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: → This ally deals 1 fire damage to target hero or ally that was dealt damage this turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Mage

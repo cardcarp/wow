@@ -1,0 +1,22 @@
+name: Cleave Apart
+
+origin: magtheridons-lair-raid-010
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+instant: Destroy an ability, ready ally, and equipment controlled by target raiding player.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

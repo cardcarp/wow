@@ -1,0 +1,30 @@
+name: Raztu'jor
+
+origin: scourgewar-187
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 5
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally attacks, you may destroy target weapon.
+
+regulation:
+
+errata: []
+
+temp: Troll Warrior

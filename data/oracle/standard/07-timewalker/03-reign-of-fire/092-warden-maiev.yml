@@ -1,0 +1,30 @@
+name: Warden Maiev
+
+origin: reign-of-fire-092
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '10'
+
+damage: 5
+
+health: 1
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Elusive , Ferocity , Long-Range , Protector , Spellshield , Stealth Haste X , where X is the highest cost among allies you controlled that dealt damage to an opposing hero this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Rogue

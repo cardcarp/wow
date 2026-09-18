@@ -1,0 +1,30 @@
+name: Karazhan Concubine
+
+origin: betrayal-of-the-guardian-147
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 1
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: When this ally enters play, you may exhaust target ally. If can't ready during its controller's next ready step.
+
+regulation:
+
+errata: []
+
+temp: Succubus Demon

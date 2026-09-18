@@ -1,0 +1,25 @@
+name: Claws of Attack
+
+origin: reign-of-fire-181
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Dual Wield Assault 6
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Fist

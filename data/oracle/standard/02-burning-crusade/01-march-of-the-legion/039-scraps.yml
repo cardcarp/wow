@@ -1,0 +1,31 @@
+name: Scraps
+
+origin: march-of-the-legion-039
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 4
+
+health: 3
+
+combat: Melee
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: At the start of your turn, destroy Scraps unless you remove an ally card in any graveyard from the game.
+
+regulation:
+
+errata: []
+
+temp: Carrion Bird

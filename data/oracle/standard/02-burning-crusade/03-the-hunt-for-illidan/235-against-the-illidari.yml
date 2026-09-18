@@ -1,0 +1,20 @@
+name: Against the Illidari
+
+origin: the-hunt-for-illidan-235
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'If you control an ability, pay 2 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,26 @@
+name: Felstriker
+
+origin: through-the-dark-portal-273
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 5 , Destroy Felstriker → Destroy target ally.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

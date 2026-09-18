@@ -1,0 +1,25 @@
+name: Aspect of the Wild
+
+origin: worldbreaker-043
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: 'Ongoing : allies you control have +2 / +2. 2 → Target ally you control has Nature Resistance this turn.'
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery

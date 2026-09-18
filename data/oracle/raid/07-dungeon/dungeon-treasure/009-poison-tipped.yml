@@ -1,0 +1,25 @@
+name: Poison Tipped
+
+origin: dungeon-treasure-009
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: "Ongoing : When a Rogue ally enters play under your control or a friendly player's control, your hero deals 2 nature damage to each opposing hero."
+
+regulation:
+
+errata: []
+
+temp: ''

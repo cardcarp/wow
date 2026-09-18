@@ -1,0 +1,24 @@
+name: Premature Departure
+
+origin: naxxramas-raid-053
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+type: Raid
+
+stage: 13
+
+rule:
+  - type: Ability
+    text: The raid leader destroys a raiding ability, ally, and equipment.
+
+regulation:
+
+errata: []
+
+temp: ''

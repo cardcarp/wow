@@ -1,0 +1,30 @@
+name: Voss Treebender
+
+origin: heroes-of-azeroth-266
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally attacks, you may exhaust target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

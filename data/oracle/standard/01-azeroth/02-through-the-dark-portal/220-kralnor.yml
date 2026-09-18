@@ -1,0 +1,30 @@
+name: Kralnor
+
+origin: through-the-dark-portal-220
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Kralnor enters play, you may search your deck for a Staff card and let everyone LOOK IT OVER. If you do, shuffle your deck and put that card on top.
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

@@ -1,0 +1,25 @@
+name: Stalwart Protector
+
+origin: heroes-of-azeroth-148
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: 'Ongoing : Your hero has Protector .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

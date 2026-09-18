@@ -1,0 +1,25 @@
+name: Leap of Faith
+
+origin: war-of-the-elements-067
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: Remove target ability, ally, or equipment you own from the game. Then, put it into play under your control. (It enters play ready and undamaged.)
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

@@ -1,0 +1,30 @@
+name: Festergut
+
+origin: assault-on-icecrown-citadel-raid-014
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 5
+
+health: 10
+
+combat: Melee
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: 'Protector Vile Gas : When Festergut enters play, he deals 5 shadow damage to each opposing hero.'
+
+regulation:
+
+errata: []
+
+temp: Mutated Abomination

@@ -1,0 +1,22 @@
+name: Silvermoon City
+
+origin: blood-of-gladiators-208
+
+layout: Standard
+
+category:
+  - Location
+
+trait:
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Blood Elf Hero Required As Silvermoon City enters play, choose arcane, fire, frost, nature, or shadow. → Target Blood Elf in your party has the chosen resistance this turn.
+
+regulation:
+
+errata: []
+
+temp: City

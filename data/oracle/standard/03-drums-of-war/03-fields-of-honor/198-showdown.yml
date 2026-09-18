@@ -1,0 +1,20 @@
+name: Showdown
+
+origin: fields-of-honor-198
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: "On your turn, pay 3 to complete this quest. Reward : Put a unique Mok'Nathal Beastmaster ally token named Rexxar into play with 4 ATK / 4 health and \"At the start of your turn, destroy target Gronn.\" Each opponent may put a Gronn ally token into play with 5 ATK / 5 health."
+
+regulation:
+
+errata: []
+
+temp: ''

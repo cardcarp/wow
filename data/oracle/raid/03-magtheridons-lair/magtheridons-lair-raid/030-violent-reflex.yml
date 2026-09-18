@@ -1,0 +1,22 @@
+name: Violent Reflex
+
+origin: magtheridons-lair-raid-030
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+rule:
+  - type: Ability
+    text: 'Ongoing : When Magtheridon is dealt damage, he deals 1 melee damage to the source of that damage.'
+
+regulation:
+
+errata: []
+
+temp: ''

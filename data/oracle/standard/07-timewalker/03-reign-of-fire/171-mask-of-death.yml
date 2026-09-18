@@ -1,0 +1,27 @@
+name: Mask of Death
+
+origin: reign-of-fire-171
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: 1 , , Destroy this armor → Target ally and all other opposing allies with the same name as that ally have - equal to this armor's this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

@@ -1,0 +1,25 @@
+name: Flash of Brilliance
+
+origin: wrathgate-045
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: 'Ongoing : At the start of your turn, you may destroy this ability. If you do, search your collection for an Ongoing ability, reveal it, and put it into your hand.'
+
+regulation:
+
+errata: []
+
+temp: Arcane

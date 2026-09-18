@@ -1,0 +1,22 @@
+name: Pray for Death
+
+origin: scarlet-monastery-031
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+type: Dungeon
+
+rule:
+  - type: Ability
+    text: When a Dungeon ally deals damage while attacking this turn, it also heals that much damage from Mograine.
+
+regulation:
+
+errata: []
+
+temp: ''

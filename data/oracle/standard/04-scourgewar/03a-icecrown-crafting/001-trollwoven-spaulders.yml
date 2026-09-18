@@ -1,0 +1,26 @@
+name: Trollwoven Spaulders
+
+origin: icecrown-crafting-001
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '5'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: Ability
+    text: At the start of your turn, your hero has Berserking and Conspicuous this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

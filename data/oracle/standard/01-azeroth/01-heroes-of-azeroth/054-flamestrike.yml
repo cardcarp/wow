@@ -1,0 +1,25 @@
+name: Flamestrike
+
+origin: heroes-of-azeroth-054
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '7'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: Your hero deals 3 fire damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Fire

@@ -1,0 +1,30 @@
+name: Hugh Mann
+
+origin: war-of-the-ancients-094
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 5
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Other Human allies you control have +1 / +1.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

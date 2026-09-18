@@ -1,0 +1,25 @@
+name: Fire Blast
+
+origin: heroes-of-azeroth-052
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Mage
+
+instant: Your hero deals 2 fire damage to target hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fire

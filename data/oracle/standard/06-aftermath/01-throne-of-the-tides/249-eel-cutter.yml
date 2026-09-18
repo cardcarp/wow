@@ -1,0 +1,28 @@
+name: Eel Cutter
+
+origin: throne-of-the-tides-249
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 1 , → Allies you control have Assault 1 this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

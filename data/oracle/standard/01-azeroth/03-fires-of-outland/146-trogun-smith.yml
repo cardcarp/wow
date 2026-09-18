@@ -1,0 +1,30 @@
+name: Trogun Smith
+
+origin: fires-of-outland-146
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: At the start of your turn, you may exhaust target armor.
+
+regulation:
+
+errata: []
+
+temp: Human Paladin

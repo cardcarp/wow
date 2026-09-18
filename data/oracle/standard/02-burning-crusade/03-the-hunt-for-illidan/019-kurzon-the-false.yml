@@ -1,0 +1,28 @@
+name: Kurzon the False
+
+origin: the-hunt-for-illidan-019
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 1 , Put three allies from your party into their owner's hands → Flip Kurzon face down.
+  - type: Ability
+    position: Reverse
+    text: allies in your party have Elusive .
+
+regulation:
+
+errata: []
+
+temp: Eredar Demon

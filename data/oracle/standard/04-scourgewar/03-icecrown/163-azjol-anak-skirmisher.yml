@@ -1,0 +1,28 @@
+name: Azjol-anak Skirmisher
+
+origin: icecrown-163
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: Nerubian Reputation At the start of your turn, discard a card.
+
+regulation:
+
+errata: []
+
+temp: Nerubian

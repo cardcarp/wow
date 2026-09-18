@@ -1,0 +1,30 @@
+name: Kuatha Mornhoof
+
+origin: war-of-the-elements-138
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

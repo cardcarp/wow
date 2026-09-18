@@ -1,0 +1,25 @@
+name: Hex
+
+origin: icecrown-070
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: "Attach to target ally. Ongoing : Attached ally becomes 1 / 1, can't gain or lose ATK or , and is also a Frog."
+
+regulation:
+
+errata: []
+
+temp: Elemental Curse

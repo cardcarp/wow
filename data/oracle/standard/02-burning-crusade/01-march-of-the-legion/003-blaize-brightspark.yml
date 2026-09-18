@@ -1,0 +1,25 @@
+name: Blaize Brightspark
+
+origin: march-of-the-legion-003
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 25
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 1 , Flip Blaize → Blaize deals 3 fire damage to target hero or ally that was dealt fire ( ) damage this turn.
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

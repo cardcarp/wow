@@ -1,0 +1,30 @@
+name: Quenlan Lifeboon
+
+origin: fields-of-honor-114
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Destroy Quenlan → Quenlan heals 3 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

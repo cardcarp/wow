@@ -1,0 +1,22 @@
+name: Lessons in Lurking
+
+origin: through-the-dark-portal-146
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+rule:
+  - type: Ability
+    text: 'Attach to target ally. Ongoing : Attached ally has Stealth .'
+
+regulation:
+
+errata: []
+
+temp: ''

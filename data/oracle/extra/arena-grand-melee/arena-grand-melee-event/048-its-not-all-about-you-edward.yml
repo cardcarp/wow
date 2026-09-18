@@ -1,0 +1,20 @@
+name: '"Its Not All about You, Edward!"'
+
+origin: arena-grand-melee-event-048
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+rule:
+  - type: Ability
+    text: "Ongoing : Players can't pay even costs (including 0 ) ."
+
+regulation:
+
+errata: []
+
+temp: ''

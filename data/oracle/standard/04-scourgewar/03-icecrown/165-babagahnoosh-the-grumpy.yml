@@ -1,0 +1,28 @@
+name: Babagahnoosh the Grumpy
+
+origin: icecrown-165
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '0'
+
+damage: 5
+
+health: 5
+
+combat: Frost
+
+rule:
+  - type: Ability
+    text: When this ally enters play, turn all resources you control face down and discard your hand.
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

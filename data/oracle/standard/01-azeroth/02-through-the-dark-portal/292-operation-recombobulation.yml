@@ -1,0 +1,22 @@
+name: Operation Recombobulation
+
+origin: through-the-dark-portal-292
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 'Gnome Hero Required Pay 4 to complete this quest. Reward : When an opposing non-token ally is destroyed this turn, you may put an ally card from your graveyard into your hand.'
+
+regulation:
+
+errata: []
+
+temp: ''

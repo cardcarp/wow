@@ -1,0 +1,25 @@
+name: Reckless Abandon
+
+origin: fields-of-honor-080
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: "Ongoing : → If target friendly ally would be dealt damage this turn, it's dealt to your hero instead."
+
+regulation:
+
+errata: []
+
+temp: Fury

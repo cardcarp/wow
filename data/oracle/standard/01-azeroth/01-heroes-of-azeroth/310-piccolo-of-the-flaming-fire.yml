@@ -1,0 +1,33 @@
+name: Piccolo of the Flaming Fire
+
+origin: heroes-of-azeroth-310
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 1 , → Exhaust all heroes and allies. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

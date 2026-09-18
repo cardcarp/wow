@@ -1,0 +1,30 @@
+name: Moro Wildmesa
+
+origin: throne-of-the-tides-163
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally enters play, target ally has +3 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

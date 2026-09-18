@@ -1,0 +1,22 @@
+name: Mulgore
+
+origin: reign-of-fire-197
+
+layout: Standard
+
+category:
+  - Location
+
+trait:
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 'Tribe : When a Tauren ally enters play under your control, add a spirit counter to this location. , Remove three spirit counters from this location → Tauren allies in your hand are this turn until you play a Tauren ally.'
+
+regulation:
+
+errata: []
+
+temp: ''

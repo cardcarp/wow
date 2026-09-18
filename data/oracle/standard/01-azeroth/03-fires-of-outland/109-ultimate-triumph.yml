@@ -1,0 +1,22 @@
+name: Ultimate Triumph
+
+origin: fires-of-outland-109
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '6'
+
+instant: Destroy target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

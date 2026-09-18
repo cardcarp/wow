@@ -1,0 +1,25 @@
+name: Path of Frost
+
+origin: worldbreaker-029
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '0'
+
+class:
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: Put target ally from your graveyard on top of your deck.
+
+regulation:
+
+errata: []
+
+temp: Frost

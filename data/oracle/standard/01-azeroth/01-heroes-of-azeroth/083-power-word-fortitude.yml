@@ -1,0 +1,25 @@
+name: 'Power Word: Fortitude'
+
+origin: heroes-of-azeroth-083
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: 'Attach to target hero or ally. Ongoing : Attached character has +5 health.'
+
+regulation:
+
+errata: []
+
+temp: Discipline

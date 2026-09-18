@@ -1,0 +1,30 @@
+name: Naliss the Silencer
+
+origin: blood-of-gladiators-140
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 6
+
+health: 7
+
+combat: Arcane
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Blood Elf Hero Required Arcane Torrent 1 → Target opposing card in play loses and can't have powers this turn.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

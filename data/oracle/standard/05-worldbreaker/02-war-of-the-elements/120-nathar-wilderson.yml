@@ -1,0 +1,30 @@
+name: Nathar Wilderson
+
+origin: war-of-the-elements-120
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 2
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector Aberration
+
+regulation:
+
+errata: []
+
+temp: Worgen Druid

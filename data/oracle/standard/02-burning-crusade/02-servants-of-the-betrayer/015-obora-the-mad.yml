@@ -1,0 +1,25 @@
+name: Obora the Mad
+
+origin: servants-of-the-betrayer-015
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 25
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Obora → When an opponent draws a card this turn, Obora deals 1 arcane damage to target hero or ally in that opponent's party. Auchenai
+
+regulation:
+
+errata: []
+
+temp: Draenei Mage

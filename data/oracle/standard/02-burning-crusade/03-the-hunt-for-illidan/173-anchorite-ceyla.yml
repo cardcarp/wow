@@ -1,0 +1,28 @@
+name: Anchorite Ceyla
+
+origin: the-hunt-for-illidan-173
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '7'
+
+damage: 6
+
+health: 7
+
+combat: Holy
+
+rule:
+  - type: Ability
+    text: Aldor Reputation When another ally in your party is destroyed, its owner may put it from his graveyard into hand at the start of the next turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

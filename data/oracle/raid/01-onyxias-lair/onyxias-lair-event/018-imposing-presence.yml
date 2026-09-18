@@ -1,0 +1,22 @@
+name: Imposing Presence
+
+origin: onyxias-lair-event-018
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: Put the top X cards of the event deck into your resource row face down, where X is the current stage.
+
+regulation:
+
+errata: []
+
+temp: ''

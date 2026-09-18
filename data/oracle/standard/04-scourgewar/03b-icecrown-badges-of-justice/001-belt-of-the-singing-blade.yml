@@ -1,0 +1,27 @@
+name: Belt of the Singing Blade
+
+origin: icecrown-badges-of-justice-001
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: When you draw a card, add a verse counter. , Remove three verse counters → Target weapon has Assault 3 this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

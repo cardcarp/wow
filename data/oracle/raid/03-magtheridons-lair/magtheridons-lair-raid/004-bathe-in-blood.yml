@@ -1,0 +1,22 @@
+name: Bathe in Blood
+
+origin: magtheridons-lair-raid-004
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '0'
+
+rule:
+  - type: Ability
+    text: Magtheridon deals 2 melee damage to target hero or ally. If Magtheridon is Unleashed, gain a Blood.
+
+regulation:
+
+errata: []
+
+temp: ''

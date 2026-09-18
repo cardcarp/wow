@@ -1,0 +1,29 @@
+name: Lothars Edge
+
+origin: betrayal-of-the-guardian-182
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+faction: Alliance
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: When this weapon enters play, if an opponent controls a hero, you pay 3 less to strike with this weapon this turn.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Axe

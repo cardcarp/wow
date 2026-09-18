@@ -1,0 +1,28 @@
+name: Nautilus Ring
+
+origin: throne-of-the-tides-240
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Druid
+  - Shaman
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: You have no maximum hand size. At the start of your turn, your hero heals damage from itself equal to the number of cards in your hand.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

@@ -1,0 +1,26 @@
+name: Emerald-Scale Greaves
+
+origin: fires-of-outland-196
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 2 , Destroy Emerald-Scale Greaves → Ready target friendly ally.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

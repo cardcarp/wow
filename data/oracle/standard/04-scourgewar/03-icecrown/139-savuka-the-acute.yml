@@ -1,0 +1,33 @@
+name: Savuka the Acute
+
+origin: icecrown-139
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Ranged
+
+faction: Horde
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: While you control a Ranged weapon, this ally has Assault X and Long-Range , where X is the highest ATK among Ranged weapons you control.
+
+regulation:
+
+errata: []
+
+temp: Orc Hunter

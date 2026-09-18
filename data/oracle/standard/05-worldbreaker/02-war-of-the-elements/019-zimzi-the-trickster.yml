@@ -1,0 +1,28 @@
+name: Zimzi the Trickster
+
+origin: war-of-the-elements-019
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 27
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 → Flip Zimzi
+  - type: Ability
+    position: Reverse
+    text: Zimzi and allies you control with Stealth also have Assault 1 .
+
+regulation:
+
+errata: []
+
+temp: Goblin Rogue

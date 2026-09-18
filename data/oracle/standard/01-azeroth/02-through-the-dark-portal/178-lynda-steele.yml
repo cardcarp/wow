@@ -1,0 +1,30 @@
+name: Lynda Steele
+
+origin: through-the-dark-portal-178
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 3
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector 1 → Target ally must attack this turn if able.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

@@ -1,0 +1,26 @@
+name: Master Cannoneer Boots
+
+origin: fires-of-outland-200
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: 2 , Destroy Master Cannoneer Boots → Your hero deals 2 melee damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

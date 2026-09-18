@@ -1,0 +1,30 @@
+name: Raezi
+
+origin: crown-of-the-heavens-117
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Harmonize
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

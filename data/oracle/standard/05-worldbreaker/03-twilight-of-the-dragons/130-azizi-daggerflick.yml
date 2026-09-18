@@ -1,0 +1,30 @@
+name: Azizi Daggerflick
+
+origin: twilight-of-the-dragons-130
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 5
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Time is Money → Exhaust target ally with cost 4 or less.
+
+regulation:
+
+errata: []
+
+temp: Goblin Rogue

@@ -1,0 +1,28 @@
+name: Retainer Cara
+
+origin: servants-of-the-betrayer-203
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 6
+
+health: 4
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: 'Scryer Reputation Sabotage: Equipment When Cara sabotages an equipment, gain control of it.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

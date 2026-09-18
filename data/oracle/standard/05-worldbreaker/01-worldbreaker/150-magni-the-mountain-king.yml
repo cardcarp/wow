@@ -1,0 +1,30 @@
+name: Magni, the Mountain King
+
+origin: worldbreaker-150
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 'Protector Dwarf heroes and allies you control have additional equal to the combined of armor you control. Stash : Put a 1 / 1 Dwarf Warrior ally token into play.'
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior King

@@ -1,0 +1,30 @@
+name: Wysko
+
+origin: march-of-the-legion-209
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Weapons you control have +1 ATK while your hero is attacking.
+
+regulation:
+
+errata: []
+
+temp: Troll Warrior

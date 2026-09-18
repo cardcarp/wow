@@ -1,0 +1,30 @@
+name: Shattered Hand Assassin
+
+origin: dungeon-treasure-022
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Stealth When this ally enters play, exhaust target opposing ally. It can't ready during it's controller's next ready step.
+
+regulation:
+
+errata: []
+
+temp: Orc Rogue

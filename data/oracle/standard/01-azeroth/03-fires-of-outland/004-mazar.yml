@@ -1,0 +1,25 @@
+name: Mazar
+
+origin: fires-of-outland-004
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 3 , Flip Mazar, remove a Pet card in your graveyard from the game → Destroy target ally. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

@@ -1,0 +1,25 @@
+name: Castigate
+
+origin: servants-of-the-betrayer-077
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: Your hero deals 2 unpreventable holy damage to target hero or ally, or 6 if your hero is undamaged.
+
+regulation:
+
+errata: []
+
+temp: Holy

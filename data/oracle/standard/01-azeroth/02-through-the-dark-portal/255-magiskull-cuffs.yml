@@ -1,0 +1,27 @@
+name: Magiskull Cuffs
+
+origin: through-the-dark-portal-255
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: → You pay 1 less to play your next ability this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

@@ -1,0 +1,25 @@
+name: Boris Brightbeard
+
+origin: heroes-of-azeroth-001
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 26
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: x , Flip Boris Brightbeard → Boris heals X damage from target hero or ally. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Priest

@@ -1,0 +1,30 @@
+name: Wyndarr Shadefist
+
+origin: wrathgate-128
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: This ally has Stealth while an opponent controls an ally with cost 4 or less.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Rogue

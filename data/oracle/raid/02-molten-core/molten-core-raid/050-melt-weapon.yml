@@ -1,0 +1,22 @@
+name: Melt Weapon
+
+origin: molten-core-raid-050
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+rule:
+  - type: Ability
+    text: Destroy all of target opponent's equipment.
+
+regulation:
+
+errata: []
+
+temp: Ragnaros

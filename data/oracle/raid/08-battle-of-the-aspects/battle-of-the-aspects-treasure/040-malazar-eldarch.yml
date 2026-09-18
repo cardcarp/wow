@@ -1,0 +1,30 @@
+name: Malazar Eldarch
+
+origin: battle-of-the-aspects-treasure-040
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 4
+
+health: 4
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: You pay 3 less to play this ally if you control a pet.
+
+regulation:
+
+errata: []
+
+temp: Undead Hunter

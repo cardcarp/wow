@@ -1,0 +1,25 @@
+name: Mark of Elderlimb
+
+origin: crown-of-the-heavens-013
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: 'Attach to target ally. Ongoing : When attached ally deals damage to an opposing hero, put two 1 / 1 Treant ally tokens into play.'
+
+regulation:
+
+errata: []
+
+temp: Balance

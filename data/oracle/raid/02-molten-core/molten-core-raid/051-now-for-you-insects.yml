@@ -1,0 +1,22 @@
+name: '"NOW FOR YOU, INSECTS!"'
+
+origin: molten-core-raid-051
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+instant: Interrupt target ability, ally, or equipment card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ragnaros

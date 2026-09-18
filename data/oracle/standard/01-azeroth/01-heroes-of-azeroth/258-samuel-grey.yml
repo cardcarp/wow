@@ -1,0 +1,30 @@
+name: Samuel Grey
+
+origin: heroes-of-azeroth-258
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Samuel Grey deals combat damage to a defending hero, that hero's controller discards a card.
+
+regulation:
+
+errata: []
+
+temp: Undead Rogue

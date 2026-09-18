@@ -1,0 +1,28 @@
+name: Tauren Deathwalker
+
+origin: betrayal-of-the-guardian-106
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 3
+
+health: 7
+
+combat: Frost
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Tauren Death Knight

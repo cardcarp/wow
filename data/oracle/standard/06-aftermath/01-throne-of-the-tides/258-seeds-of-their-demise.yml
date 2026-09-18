@@ -1,0 +1,20 @@
+name: Seeds of Their Demise
+
+origin: throne-of-the-tides-258
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Pay 0 to complete this quest. Reward : Delve'
+
+regulation:
+
+errata: []
+
+temp: ''

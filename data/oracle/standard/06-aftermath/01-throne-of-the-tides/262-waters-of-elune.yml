@@ -1,0 +1,20 @@
+name: Waters of Elune
+
+origin: throne-of-the-tides-262
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'On your turn: Pay 4 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

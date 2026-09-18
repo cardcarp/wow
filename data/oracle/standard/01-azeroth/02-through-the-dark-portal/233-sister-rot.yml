@@ -1,0 +1,30 @@
+name: Sister Rot
+
+origin: through-the-dark-portal-233
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 5
+
+health: 2
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally enters play, you may destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: Undead Priest

@@ -1,0 +1,25 @@
+name: The Lights Largess
+
+origin: march-of-the-legion-060
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: "Ongoing : Destroy The Light's Largess → Your hero heals 6 damage from target hero or ally."
+
+regulation:
+
+errata: []
+
+temp: Holy

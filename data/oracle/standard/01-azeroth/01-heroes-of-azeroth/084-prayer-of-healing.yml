@@ -1,0 +1,25 @@
+name: Prayer of Healing
+
+origin: heroes-of-azeroth-084
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: Your hero heals 3 damage from each hero and ally you control.
+
+regulation:
+
+errata: []
+
+temp: Holy

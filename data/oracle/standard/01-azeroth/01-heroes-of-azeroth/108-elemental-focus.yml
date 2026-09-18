@@ -1,0 +1,25 @@
+name: Elemental Focus
+
+origin: heroes-of-azeroth-108
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 'Elemental Hero Required Ongoing : You pay 1 less to play Elemental abilities, to a minimum of 1 .'
+
+regulation:
+
+errata: []
+
+temp: Elemental Talent

@@ -1,0 +1,30 @@
+name: Skibis Pendant
+
+origin: onyxias-lair-treasure-028
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+rule:
+  - type: Ability
+    text: You pay 1 less to strike with weapons.
+
+regulation:
+
+errata: []
+
+temp: Item Neck

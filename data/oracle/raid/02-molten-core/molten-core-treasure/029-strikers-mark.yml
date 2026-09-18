@@ -1,0 +1,27 @@
+name: Strikers Mark
+
+origin: molten-core-treasure-029
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Your Melee weapons have +1 ATK. When you strike with Striker's Mark, your hero has Long-Range this combat.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Bow

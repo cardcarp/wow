@@ -1,0 +1,27 @@
+name: Darklight Torch
+
+origin: twilight-of-the-dragons-196
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: When this weapon is destroyed, you may destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Wand

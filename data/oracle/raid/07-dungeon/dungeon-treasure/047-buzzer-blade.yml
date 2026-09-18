@@ -1,0 +1,25 @@
+name: Buzzer Blade
+
+origin: dungeon-treasure-047
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Dual Wield When your hero deals fatal damage to an ally while attacking, you may destroy target equipment.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

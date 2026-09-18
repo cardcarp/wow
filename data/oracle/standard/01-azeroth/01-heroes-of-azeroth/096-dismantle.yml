@@ -1,0 +1,25 @@
+name: Dismantle
+
+origin: heroes-of-azeroth-096
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Destroy target equipment.
+
+regulation:
+
+errata: []
+
+temp: Combat

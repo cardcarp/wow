@@ -1,0 +1,30 @@
+name: Lor'themar Theron
+
+origin: fires-of-outland-171
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '9'
+
+damage: 8
+
+health: 7
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Exhaust a Blood Elf in your party → Interrupt target ability card.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

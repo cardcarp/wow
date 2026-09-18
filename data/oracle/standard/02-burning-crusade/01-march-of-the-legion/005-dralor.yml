@@ -1,0 +1,23 @@
+name: Dralor
+
+origin: march-of-the-legion-005
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 4 , Flip Dralor → Look at target player's hand and choose an ally card. He discards that card. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Human Rogue

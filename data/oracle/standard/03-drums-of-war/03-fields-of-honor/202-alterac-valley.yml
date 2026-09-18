@@ -1,0 +1,20 @@
+name: Alterac Valley
+
+origin: fields-of-honor-202
+
+layout: Standard
+
+category:
+  - Location
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'When you play a card, add an honor counter. On your turn: , Remove eight honor counters → Put target ally card from your graveyard into play if its cost is less than or equal to the number of resources you control.'
+
+regulation:
+
+errata: []
+
+temp: Battleground

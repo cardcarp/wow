@@ -1,0 +1,30 @@
+name: Kazbaz
+
+origin: throne-of-the-tides-156
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector Elusive
+
+regulation:
+
+errata: []
+
+temp: Goblin Warrior

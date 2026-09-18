@@ -1,0 +1,30 @@
+name: Goldenmoon
+
+origin: through-the-dark-portal-165
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Elusive You can have an additional Pet while your Pets have different names.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Rogue

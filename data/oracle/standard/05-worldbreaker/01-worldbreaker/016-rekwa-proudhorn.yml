@@ -1,0 +1,28 @@
+name: Rekwa Proudhorn
+
+origin: worldbreaker-016
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 30
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 → Flip Rekwa
+  - type: Ability
+    position: Reverse
+    text: Damage that Rekwa and allies you control would deal is unpreventable.
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

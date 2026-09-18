@@ -1,0 +1,26 @@
+name: The Perforator
+
+origin: war-of-the-elements-200
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Shaman
+  - Rogue
+
+rule:
+  - type: Ability
+    text: This weapon has +X ATK, where X is the highest cost among Dragonkin allies you control.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Fist

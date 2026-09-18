@@ -1,0 +1,26 @@
+name: Overpowered Chicken Splitter
+
+origin: tomb-of-the-forgotten-191
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: When this weapon enters play, you pay 4 less to strike with it this turn.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Bow

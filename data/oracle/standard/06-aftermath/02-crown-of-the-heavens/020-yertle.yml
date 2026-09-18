@@ -1,0 +1,33 @@
+name: Yertle
+
+origin: crown-of-the-heavens-020
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 4
+
+health: 0
+
+combat: Melee
+
+class:
+  - Hunter
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: Protector , Eternal This ally has +1 for each resource you control. When this ally is destroyed, put a Shell armor token into play with equal to the number of resources you controlled as this ally way destroyed.
+
+regulation:
+
+errata: []
+
+temp: Turtle

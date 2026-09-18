@@ -1,0 +1,25 @@
+name: Boundless Winter
+
+origin: tomb-of-the-forgotten-011
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: Eternal Your hero has +1 ATK this turn for each resource you control.
+
+regulation:
+
+errata: []
+
+temp: Frost

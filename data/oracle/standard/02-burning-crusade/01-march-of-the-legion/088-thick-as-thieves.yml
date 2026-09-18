@@ -1,0 +1,25 @@
+name: Thick as Thieves
+
+origin: march-of-the-legion-088
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Allies with stealth in your party are Elusive and Untargetable .'
+
+regulation:
+
+errata: []
+
+temp: Subtlety

@@ -1,0 +1,30 @@
+name: Zygore Bladebreaker
+
+origin: heroes-of-azeroth-275
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 4
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally enters play, you may destroy target armor or weapon.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

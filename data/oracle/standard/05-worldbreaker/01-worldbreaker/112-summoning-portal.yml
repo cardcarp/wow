@@ -1,0 +1,25 @@
+name: Summoning Portal
+
+origin: worldbreaker-112
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: Search your deck for an ally, reveal it, and put it into your hand.
+
+regulation:
+
+errata: []
+
+temp: Demonology

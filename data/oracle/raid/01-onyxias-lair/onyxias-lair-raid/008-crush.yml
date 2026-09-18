@@ -1,0 +1,22 @@
+name: Crush
+
+origin: onyxias-lair-raid-008
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+instant: Destroy target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

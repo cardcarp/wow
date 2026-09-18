@@ -1,0 +1,26 @@
+name: Wyrmwing Treads
+
+origin: worldbreaker-228
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 1 , Exhaust a Dragonkin you control → Ready target exhausted ally.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

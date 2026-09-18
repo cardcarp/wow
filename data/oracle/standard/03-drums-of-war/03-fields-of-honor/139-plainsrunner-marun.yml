@@ -1,0 +1,30 @@
+name: Plainsrunner Marun
+
+origin: fields-of-honor-139
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Ferocity When Marun attacks, you pay 1 less to complete your next quest this turn.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

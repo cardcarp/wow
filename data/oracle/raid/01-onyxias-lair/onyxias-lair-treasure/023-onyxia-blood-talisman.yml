@@ -1,0 +1,27 @@
+name: Onyxia Blood Talisman
+
+origin: onyxias-lair-treasure-023
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Friendly allies have +2 health.
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

@@ -1,0 +1,31 @@
+name: Illidan Stormrage
+
+origin: black-temple-treasure-001
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+cost: '11'
+
+damage: 5
+
+health: 35
+
+combat: Melee
+
+type: Master
+
+rule:
+  - type: Ability
+    position: Front
+    text: Traitor Hero Required At the start of your turn, you may put a Traitor ally card from your collection into play.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Demon Demonhunter Traitor

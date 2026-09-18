@@ -1,0 +1,58 @@
+name: Horde Hunter
+
+format:
+  - Starter
+
+group: '2011'
+
+theme:
+  - Horde
+  - Starter
+  - '2011'
+
+complexity:
+
+division:
+
+highlight: horde-hunter-2011-001
+
+tagline: 2011 Horde Hunter Preconstructed
+
+description:
+  - title: ''
+    body: Introduction to the 2011 Horde Hunter
+
+list:
+  hero:
+    horde-hunter-2011-001: 1  # Zunjo of Sen'jin
+  main:
+    horde-hunter-2011-002: 3  # Arcane Shot
+    horde-hunter-2011-003: 2 # Bogspike
+    horde-hunter-2011-004: 1 # Chops
+    horde-hunter-2011-005: 2 # Crippling Shot
+    horde-hunter-2011-006: 1 # Crusty
+    horde-hunter-2011-007: 1 # Explosive Shot
+    horde-hunter-2011-008: 1 # Favor of the Hunt
+    horde-hunter-2011-009: 1 # Fury
+    horde-hunter-2011-010: 1 # Kill Command
+    horde-hunter-2011-011: 1 # Spoils of the Hunt
+    horde-hunter-2011-012: 2 # Steady Shot
+    horde-hunter-2011-013: 2 # Turn the Blade
+    horde-hunter-2011-014: 2 # Zip
+    horde-hunter-2011-015: 3 # Benethor Draigo
+    horde-hunter-2011-016: 3 # Claemora Amberglare
+    horde-hunter-2011-017: 1 # Drizzie Steelslam
+    horde-hunter-2011-018: 3 # Kagra of the Crossroads
+    horde-hunter-2011-019: 2 # Kalnuf Eagleheart
+    horde-hunter-2011-020: 1 # Moko Hunts-at-Dawn
+    horde-hunter-2011-021: 2 # Nikka Blastbor
+    horde-hunter-2011-022: 2 # Taz'dingo
+    horde-hunter-2011-023: 2 # Zulanji
+    horde-hunter-2011-024: 2 # Blackcrow
+    horde-hunter-2011-025: 2 # Stakethrower
+    horde-hunter-2011-026: 3 # A Bird in Hand
+    horde-hunter-2011-027: 1 # Blueleaf Tubers
+    horde-hunter-2011-028: 3 # Entrenched
+    horde-hunter-2011-029: 4 # The Essence of Enmity
+    horde-hunter-2011-030: 4 # The Key to Freedom
+    horde-hunter-2011-031: 2 # Mystery Goo

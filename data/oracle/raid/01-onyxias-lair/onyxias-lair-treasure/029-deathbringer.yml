@@ -1,0 +1,28 @@
+name: Deathbringer
+
+origin: onyxias-lair-treasure-029
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Shaman
+
+rule:
+  - type: Ability
+    text: When your hero deals combat damage with Deathbringer to an ally, your hero deals that amount of shadow damage to target hero in that ally's party.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

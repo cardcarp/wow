@@ -1,0 +1,26 @@
+name: The Hands of Fate
+
+origin: the-hunt-for-illidan-211
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: The Hands of Fate enters play with three +1 DEF counters if an opponent went first this game.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

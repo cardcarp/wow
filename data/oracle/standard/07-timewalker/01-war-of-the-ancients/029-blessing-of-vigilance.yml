@@ -1,0 +1,25 @@
+name: Blessing of Vigilance
+
+origin: war-of-the-ancients-029
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: 'Attach to target ally you control. Ongoing : Attached ally has +5 and Protector .'
+
+regulation:
+
+errata: []
+
+temp: Protection Blessing Attachment

@@ -1,0 +1,25 @@
+name: Brainwash
+
+origin: through-the-dark-portal-067
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Priest
+
+instant: Gain control of target attacking ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Shadow

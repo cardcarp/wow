@@ -1,0 +1,30 @@
+name: Lifemistress Tanagra
+
+origin: servants-of-the-betrayer-168
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: allies in your party have +1 ATK for each other ally in your party.
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

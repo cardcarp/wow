@@ -1,0 +1,25 @@
+name: Devouring Plague
+
+origin: scourgewar-070
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: "Attach to target hero. Ongoing : At the start of your turn, your hero deals 3 shadow damage to attached hero. Attached hero's controller discards a card for each damage dealt this way."
+
+regulation:
+
+errata: []
+
+temp: Shadow

@@ -1,0 +1,25 @@
+name: Feral Dominance
+
+origin: icecrown-025
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: 'Ongoing : 1 , → Target Druid you control has Assault 1 or Protector this turn.'
+
+regulation:
+
+errata: []
+
+temp: Feral

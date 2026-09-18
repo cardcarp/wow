@@ -1,0 +1,28 @@
+name: Masterwork Stormhammer
+
+origin: fires-of-outland-216
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 5 , → Your hero deals 1 nature damage to each of up to three target heroes and/or allies.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

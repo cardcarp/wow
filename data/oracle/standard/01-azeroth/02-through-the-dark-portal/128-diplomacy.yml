@@ -1,0 +1,24 @@
+name: Diplomacy
+
+origin: through-the-dark-portal-128
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 'Human Hero Required Ongoing : You pay 1 less to play allies, to a minimum of 1 .'
+
+regulation:
+
+errata: []
+
+temp: ''

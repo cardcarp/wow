@@ -1,0 +1,30 @@
+name: Azamoth Deathfang
+
+origin: scourgewar-163
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 2 , Discard a card → This ally deals 1 shadow damage to target ally.
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

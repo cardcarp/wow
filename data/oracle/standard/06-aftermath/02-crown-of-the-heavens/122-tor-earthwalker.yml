@@ -1,0 +1,30 @@
+name: Tor Earthwalker
+
+origin: crown-of-the-heavens-122
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When you attach an ability to a hero or ally, you may put two 1 / 1 Treant ally tokens into play.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

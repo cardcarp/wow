@@ -1,0 +1,25 @@
+name: Deep Freeze
+
+origin: through-the-dark-portal-049
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: "Attach to target ally, and your hero deals 2 frost damage to it. Ongoing : Attached ally can't attack."
+
+regulation:
+
+errata: []
+
+temp: Frost

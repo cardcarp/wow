@@ -1,0 +1,26 @@
+name: Double Attack Handguards
+
+origin: twilight-of-the-dragons-179
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 3 , → Target ally has Assault X this turn, where X is its ATK.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

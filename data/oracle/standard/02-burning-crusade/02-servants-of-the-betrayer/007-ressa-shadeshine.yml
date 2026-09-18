@@ -1,0 +1,25 @@
+name: Ressa Shadeshine
+
+origin: servants-of-the-betrayer-007
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Ressa → Ressa deals melee damage to target ally equal to the ATK of one of your weapons.
+
+regulation:
+
+errata: []
+
+temp: Gnome Rogue

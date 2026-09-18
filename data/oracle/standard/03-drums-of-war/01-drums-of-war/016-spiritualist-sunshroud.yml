@@ -1,0 +1,25 @@
+name: Spiritualist Sunshroud
+
+origin: drums-of-war-016
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 26
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 'On your turn: 3 , Flip Sunshroud → Target player destroys an ally in his party.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Priest

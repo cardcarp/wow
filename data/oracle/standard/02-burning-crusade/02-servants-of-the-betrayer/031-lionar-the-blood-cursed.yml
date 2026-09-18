@@ -1,0 +1,25 @@
+name: Lionar the Blood Cursed
+
+origin: servants-of-the-betrayer-031
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 30
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Lionar → Destroy target ally with Protector . Use only on your turn. Shattered Hand
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

@@ -1,0 +1,28 @@
+name: Ring of Flowing Light
+
+origin: march-of-the-legion-272
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: Ability
+    text: ', Exhaust X of your equipment → Your hero heals X damage from itself.'
+
+regulation:
+
+errata: []
+
+temp: Item Ring

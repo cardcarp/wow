@@ -1,0 +1,28 @@
+name: Eris Havenfire
+
+origin: wrathgate-168
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 5
+
+combat: Holy
+
+rule:
+  - type: Ability
+    text: When this or another Priest ally enters play under your control, prevent all damage that would be dealt to target hero or ally this turn.
+
+regulation:
+
+errata: []
+
+temp: Human Spirit Priest

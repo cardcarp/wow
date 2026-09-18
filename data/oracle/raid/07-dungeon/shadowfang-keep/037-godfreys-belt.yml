@@ -1,0 +1,20 @@
+name: Godfreys Belt
+
+origin: shadowfang-keep-037
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+rule:
+  - type: Ability
+    text: This armor exhausts to prevent the first damage Godfrey would be dealt each turn. When this armor enters play, Godfrey has +5 ATK this turn for each equipment in his party (including this) .
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

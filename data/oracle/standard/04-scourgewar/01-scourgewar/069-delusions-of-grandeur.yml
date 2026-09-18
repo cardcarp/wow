@@ -1,0 +1,25 @@
+name: Delusions of Grandeur
+
+origin: scourgewar-069
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: Target opponent puts an ability, ally, and equipment he controls into their owners' hands.
+
+regulation:
+
+errata: []
+
+temp: Shadow

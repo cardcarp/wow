@@ -1,0 +1,25 @@
+name: Psychic Scream
+
+origin: heroes-of-azeroth-085
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '6'
+
+class:
+  - Priest
+
+instant: Each opponent puts three allies from his party into their owners' hands.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Shadow

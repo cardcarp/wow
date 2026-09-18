@@ -1,0 +1,26 @@
+name: Sacrificial Vengeance
+
+origin: fields-of-honor-089
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warlock
+
+rule:
+  - type: Ability
+    text: 'Attach to target ally in your party. Ongoing : When attached ally is destroyed, target opponent destroys an ally in his party.'
+
+regulation:
+
+errata: []
+
+temp: Retribution Demonology

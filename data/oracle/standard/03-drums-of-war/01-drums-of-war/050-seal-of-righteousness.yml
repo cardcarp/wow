@@ -1,0 +1,25 @@
+name: Seal of Righteousness
+
+origin: drums-of-war-050
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Your Melee weapons have +1 ATK. Destroy Seal of Righteousness → Your hero deals 2 holy damage to target ally.'
+
+regulation:
+
+errata: []
+
+temp: Holy

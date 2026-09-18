@@ -1,0 +1,30 @@
+name: Void Brute
+
+origin: reign-of-fire-160
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 1
+
+health: 6
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: Opposing heroes and allies can attack only this ally if able.
+
+regulation:
+
+errata: []
+
+temp: Voidwalker Demon

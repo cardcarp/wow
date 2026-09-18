@@ -1,0 +1,25 @@
+name: Inquisition
+
+origin: war-of-the-elements-059
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: Target ally deals unpreventable holy damage to itself equal to its ATK.
+
+regulation:
+
+errata: []
+
+temp: Holy

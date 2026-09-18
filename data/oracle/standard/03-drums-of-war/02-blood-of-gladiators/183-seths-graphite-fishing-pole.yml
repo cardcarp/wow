@@ -1,0 +1,33 @@
+name: Seths Graphite Fishing Pole
+
+origin: blood-of-gladiators-183
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: → Put the card tenth from the top of your deck into hand.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Fishing Pole

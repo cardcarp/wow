@@ -1,0 +1,26 @@
+name: Victimize
+
+origin: blood-of-gladiators-090
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Warlock
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Target player discards two cards and you draw two cards.
+
+regulation:
+
+errata: []
+
+temp: Subtlety Affliction

@@ -1,0 +1,59 @@
+name: Alliance Death Knight
+
+format:
+  - Starter
+
+group: '2011'
+
+theme:
+  - Alliance
+  - Starter
+  - '2011'
+
+complexity:
+
+division:
+
+highlight: alliance-death-knight-2011-001
+
+tagline: 2011 Alliance Death Knight Preconstructed
+
+description:
+  - title: ''
+    body: Introduction to the Alliance's Death Knight class
+
+list:
+  hero:
+    alliance-death-knight-2011-001: 1  # Davron of Stormwind
+  main:
+    alliance-death-knight-2011-002: 1  # Black Blood
+    alliance-death-knight-2011-003: 2 # Blood Chill
+    alliance-death-knight-2011-004: 1 # Chains of Ice
+    alliance-death-knight-2011-005: 2 # Frost Fever
+    alliance-death-knight-2011-006: 2 # Glacial Strike
+    alliance-death-knight-2011-007: 3 # Horn of Winter
+    alliance-death-knight-2011-008: 1 # Hungering Cold
+    alliance-death-knight-2011-009: 1 # Outbreak
+    alliance-death-knight-2011-010: 1 # Path of Frost
+    alliance-death-knight-2011-011: 2 # Surge of Blood
+    alliance-death-knight-2011-012: 2 # Jinie Swizzleshade
+    alliance-death-knight-2011-013: 3 # Kelsa Wildfire
+    alliance-death-knight-2011-014: 2 # Knight Karia
+    alliance-death-knight-2011-015: 1 # Koeus
+    alliance-death-knight-2011-016: 3 # Latro Abiectus
+    alliance-death-knight-2011-017: 2 # Olaf Steelbreaker
+    alliance-death-knight-2011-018: 2 # Patricia Potter
+    alliance-death-knight-2011-019: 2 # Petreus Roffe
+    alliance-death-knight-2011-020: 3 # Scaramanga
+    alliance-death-knight-2011-021: 2 # Stargazer Ronal
+    alliance-death-knight-2011-022: 1 # Terina Calin
+    alliance-death-knight-2011-023: 1 # Bloodbanes Fall
+    alliance-death-knight-2011-024: 2 # Angry Dread
+    alliance-death-knight-2011-025: 1 # Colossal Skull-Clad Cleaver
+    alliance-death-knight-2011-026: 2 # Brothers in Death
+    alliance-death-knight-2011-027: 2 # A Bird in Hand
+    alliance-death-knight-2011-028: 3 # Entrenched
+    alliance-death-knight-2011-029: 3 # The Essence of Enmity
+    alliance-death-knight-2011-030: 1 # The Grimtotem Weapon
+    alliance-death-knight-2011-031: 4 # The Key to Freedom
+    alliance-death-knight-2011-032: 2 # Mystery Goo

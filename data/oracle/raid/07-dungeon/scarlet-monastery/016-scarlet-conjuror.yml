@@ -1,0 +1,28 @@
+name: Scarlet Conjuror
+
+origin: scarlet-monastery-016
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+damage: 3
+
+health: 2
+
+combat: Fire
+
+type: Dungeon
+
+rule:
+  - type: Ability
+    text: Ferocity
+
+regulation:
+
+errata: []
+
+temp: Human Conjuror

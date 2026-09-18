@@ -1,0 +1,30 @@
+name: Tilu Plainstalker
+
+origin: war-of-the-ancients-153
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When an opposing ally with cost 4 or more attacks, this ally deals 1 ranged damage to it.
+
+regulation:
+
+errata: []
+
+temp: Tauren Hunter

@@ -1,0 +1,30 @@
+name: Nazuk Darkblood
+
+origin: throne-of-the-tides-164
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 5
+
+health: 3
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 2 → This ally has Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

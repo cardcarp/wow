@@ -1,0 +1,28 @@
+name: Baron Silverlaine
+
+origin: shadowfang-keep-006
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+damage: 1
+
+health: 16
+
+combat: Melee
+
+type: Dungeon
+
+rule:
+  - type: Ability
+    text: 'Boss Summon Worgen Spirit : When Silverlaine attacks, search the Dungeon deck for an ally named Razorclaw the Butcher and put him into play. If Razorclaw is not in the Dungeon deck, search for an ally named Odo the Blindwatcher and put him into play instead.'
+
+regulation:
+
+errata: []
+
+temp: Spirit Priest

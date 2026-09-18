@@ -1,0 +1,27 @@
+name: Band of Bees
+
+origin: worldbreaker-badges-of-justice-005
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: Your hero has Protector . When your hero protects, you may put a 1 / 1 Bee ally token into play.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

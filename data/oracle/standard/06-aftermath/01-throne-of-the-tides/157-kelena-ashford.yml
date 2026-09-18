@@ -1,0 +1,30 @@
+name: Kelena Ashford
+
+origin: throne-of-the-tides-157
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 1
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally enters play, if you control a Demon or a Pet, she deals 4 fire damage to target hero.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

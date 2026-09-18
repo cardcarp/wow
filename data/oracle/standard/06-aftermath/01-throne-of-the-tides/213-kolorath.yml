@@ -1,0 +1,30 @@
+name: Kolorath
+
+origin: throne-of-the-tides-213
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '8'
+
+damage: 6
+
+health: 12
+
+combat: Frost
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: When Kolorath enters play, put all non- allies into their owners' hands.
+
+regulation:
+
+errata: []
+
+temp: Kraken

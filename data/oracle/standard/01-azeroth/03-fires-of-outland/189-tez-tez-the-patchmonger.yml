@@ -1,0 +1,30 @@
+name: Tez Tez the Patchmonger
+
+origin: fires-of-outland-189
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 2
+
+health: 1
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally enters play, target opposing ally has -3 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Troll Priest

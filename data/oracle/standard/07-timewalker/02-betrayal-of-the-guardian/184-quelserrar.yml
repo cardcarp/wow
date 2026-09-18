@@ -1,0 +1,25 @@
+name: Quelserrar
+
+origin: betrayal-of-the-guardian-184
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Your hero has +5 .
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

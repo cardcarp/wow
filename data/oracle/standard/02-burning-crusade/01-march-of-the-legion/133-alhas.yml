@@ -1,0 +1,30 @@
+name: Alhas
+
+origin: march-of-the-legion-133
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: At the start of your turn, Alhas heals 2 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Draenai Priest

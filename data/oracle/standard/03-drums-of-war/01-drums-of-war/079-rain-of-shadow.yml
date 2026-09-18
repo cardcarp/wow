@@ -1,0 +1,25 @@
+name: Rain of Shadow
+
+origin: drums-of-war-079
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: Your hero deals 1 shadow damage to each opposing hero and ally. When a character dealt damage this way is destroyed this turn, its controller discards a card.
+
+regulation:
+
+errata: []
+
+temp: Affliction

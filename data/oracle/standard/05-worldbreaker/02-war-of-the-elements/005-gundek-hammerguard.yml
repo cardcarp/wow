@@ -1,0 +1,28 @@
+name: Gundek Hammerguard
+
+origin: war-of-the-elements-005
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 4 → Flip Gundek
+  - type: Ability
+    position: Reverse
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

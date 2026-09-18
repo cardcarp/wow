@@ -1,0 +1,22 @@
+name: Moonstrike
+
+origin: caverns-of-time-raid-035
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+type: Boss
+
+rule:
+  - type: Ability
+    text: The Caverns hero deals 10 arcane damage to the Raiding heroes divided as the Raiders choose. If Tyrande is the Caverns hero, she deals 30 arcane damage to the Raiding heroes divided as the Raiders choose instead.
+
+regulation:
+
+errata: []
+
+temp: Echo of Tyrande

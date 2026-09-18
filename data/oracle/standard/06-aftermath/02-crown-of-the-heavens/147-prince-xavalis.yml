@@ -1,0 +1,30 @@
+name: Prince Xavalis
+
+origin: crown-of-the-heavens-147
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 3
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: At the end of your turn, if an opposing hero has 15 or more damage on it, put a 1 / 1 Terror Fiend Demon Monster ally token into play with "When this ally deals combat damage to a hero, destroy that hero."
+
+regulation:
+
+errata: []
+
+temp: Satyr Demon Rogue

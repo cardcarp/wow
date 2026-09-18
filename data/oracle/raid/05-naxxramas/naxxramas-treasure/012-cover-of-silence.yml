@@ -1,0 +1,26 @@
+name: Cover of Silence
+
+origin: naxxramas-treasure-012
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Your hero has Stealth . Opponents can't play cards on your turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

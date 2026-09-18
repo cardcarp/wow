@@ -1,0 +1,26 @@
+name: Legacy of Lordaeron
+
+origin: reign-of-fire-066
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '7'
+
+class:
+  - Paladin
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: Put up to one target ally from your graveyard into play under your control. Put up to one target ally from an opposing graveyard into play under your control.
+
+regulation:
+
+errata: []
+
+temp: ''

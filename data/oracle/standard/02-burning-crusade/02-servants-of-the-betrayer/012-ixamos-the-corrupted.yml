@@ -1,0 +1,25 @@
+name: Ixamos the Corrupted
+
+origin: servants-of-the-betrayer-012
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Ixamos, destroy a friendly Totem → Ready Ixamos and all of your weapons. Auchenai
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

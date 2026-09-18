@@ -1,0 +1,28 @@
+name: Skullstealer Greataxe
+
+origin: crown-of-the-heavens-189
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+  - Shaman
+
+rule:
+  - type: Ability
+    text: This weapon has +1 ATK for each Monster hero and ally you control.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Axe

@@ -1,0 +1,24 @@
+name: All Aboard for Undercity!
+
+origin: scourgewar-124
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+faction: Horde
+
+instant: Each player puts an ally from his graveyard into his hand.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

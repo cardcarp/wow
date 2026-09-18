@@ -1,0 +1,25 @@
+name: Plague Demonsoul
+
+origin: servants-of-the-betrayer-033
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Plague → If a Demon in your party would be dealt damage this turn, it's dealt to Plague instead. Shadowsworn
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

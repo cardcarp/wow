@@ -1,0 +1,30 @@
+name: Doom
+
+origin: icecrown-130
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 2
+
+health: 6
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Assault 4
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

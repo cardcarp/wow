@@ -1,0 +1,27 @@
+name: Band of Vile Aggression
+
+origin: blood-of-gladiators-168
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 5 , → Destroy target resource.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

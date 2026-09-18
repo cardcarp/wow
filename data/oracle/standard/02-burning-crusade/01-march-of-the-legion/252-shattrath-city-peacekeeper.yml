@@ -1,0 +1,28 @@
+name: Shattrath City Peacekeeper
+
+origin: march-of-the-legion-252
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: Protector Allies not named Shattrath City Peacekeeper have -1 ATK.
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

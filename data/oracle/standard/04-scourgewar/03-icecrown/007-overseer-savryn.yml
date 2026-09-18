@@ -1,0 +1,29 @@
+name: Overseer Savryn
+
+origin: icecrown-007
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+class:
+  - Rogue
+
+type: Raid
+
+rule:
+  - type: Ability
+    position: Front
+    text: 'On your turn: Flip Savryn, remove a Rogue in your graveyard from the game → This turn, Melee weapons you control have Assault 1 , and combat damage your hero would deal is unpreventable.'
+  - type: Ability
+    position: Reverse
+    text: "Deckbuilding : You can only include either or cards, cards, Combat talents, neutral cards, and Scourge cards. You can't include cards with reputations or other text restrictions."
+
+regulation:
+
+errata: []
+
+temp: Human Rogue 27

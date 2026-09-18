@@ -1,0 +1,28 @@
+name: Warbringer Arix'amal
+
+origin: march-of-the-legion-254
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: Other Demons have +2 ATK.
+
+regulation:
+
+errata: []
+
+temp: Demon

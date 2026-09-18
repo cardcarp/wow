@@ -1,0 +1,30 @@
+name: Timewalker Guard
+
+origin: war-of-the-ancients-116
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: When this ally enters play, put a 1 / 1 Human Warrior ally token into play with Protector .
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

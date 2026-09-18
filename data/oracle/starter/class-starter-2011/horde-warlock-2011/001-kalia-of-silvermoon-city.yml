@@ -1,0 +1,25 @@
+name: Kalia of Silvermoon City
+
+origin: horde-warlock-2011-001
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 'On your turn: 3 , Flip Kalia → Target player discards a card at random.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Warlock

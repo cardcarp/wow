@@ -1,0 +1,25 @@
+name: Warmaster Bo'jo
+
+origin: the-hunt-for-illidan-018
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 30
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Bo'jo → Bo'jo has +2 ATK while attacking this turn.
+
+regulation:
+
+errata: []
+
+temp: Troll Warrior

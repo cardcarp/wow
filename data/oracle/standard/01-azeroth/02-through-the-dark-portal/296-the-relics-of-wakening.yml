@@ -1,0 +1,22 @@
+name: The Relics of Wakening
+
+origin: through-the-dark-portal-296
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: "Night Elf Hero Required During your turn, pay 3 to complete this quest. Reward : Ready all allies in your party that haven't attacked this turn."
+
+regulation:
+
+errata: []
+
+temp: ''

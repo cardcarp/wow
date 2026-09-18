@@ -1,0 +1,30 @@
+name: Lady Deathwhisper
+
+origin: assault-on-icecrown-citadel-raid-011
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 6
+
+combat: Frost
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: 'Frostbolt Volley : When Lady Deathwhisper enters play, she deals 2 frost damage to each opposing hero and ally.'
+
+regulation:
+
+errata: []
+
+temp: Lich

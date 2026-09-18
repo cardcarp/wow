@@ -1,0 +1,25 @@
+name: Deathblow
+
+origin: drums-of-war-059
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Rogue
+
+instant: Finishing Move Your hero deals 1 plus X melee damage to target hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Assassination Combo

@@ -1,0 +1,20 @@
+name: A Unique Perspective
+
+origin: arena-grand-melee-event-105
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+rule:
+  - type: Ability
+    text: You may destroy a non-hero card for each unique card in play.
+
+regulation:
+
+errata: []
+
+temp: ''

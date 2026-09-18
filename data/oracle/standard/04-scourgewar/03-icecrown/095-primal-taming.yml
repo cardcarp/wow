@@ -1,0 +1,26 @@
+name: Primal Taming
+
+origin: icecrown-095
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 'Attach to target ally or weapon. Ongoing : Attached card has -X ATK, where X is the highest cost among Hunter and Shaman allies you control.'
+
+regulation:
+
+errata: []
+
+temp: Survival Restoration

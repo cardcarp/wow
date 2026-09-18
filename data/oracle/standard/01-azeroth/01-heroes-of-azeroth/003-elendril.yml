@@ -1,0 +1,25 @@
+name: Elendril
+
+origin: heroes-of-azeroth-003
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 1 , Flip Elendril → Your Ranged weapons have +3 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

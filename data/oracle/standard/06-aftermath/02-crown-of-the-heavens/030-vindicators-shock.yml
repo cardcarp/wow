@@ -1,0 +1,25 @@
+name: Vindicators Shock
+
+origin: crown-of-the-heavens-030
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: Your hero deals 1 unpreventable holy damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Holy

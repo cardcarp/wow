@@ -1,0 +1,30 @@
+name: Dark Cleric Jocasta
+
+origin: heroes-of-azeroth-233
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 3
+
+health: 5
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally enters play, you may put target ally from your graveyard into your hand.
+
+regulation:
+
+errata: []
+
+temp: Undead Priest

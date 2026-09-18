@@ -1,0 +1,25 @@
+name: Infusion of Earth
+
+origin: wrathgate-076
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: 'Attach to target ally or weapon you control. Ongoing : Attached card has Assault 3 .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement

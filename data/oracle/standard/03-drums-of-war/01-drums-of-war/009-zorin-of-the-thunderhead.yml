@@ -1,0 +1,25 @@
+name: Zorin of the Thunderhead
+
+origin: drums-of-war-009
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 'On your turn: 5 , Flip Zorin → Zorin deals 3 nature damage divided as you choose to any number of target heroes and/or allies.'
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

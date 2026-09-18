@@ -1,0 +1,30 @@
+name: Priestess of Ruin
+
+origin: reign-of-fire-149
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 5
+
+health: 2
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: When this ally enters play, Portal .
+
+regulation:
+
+errata: []
+
+temp: Shivarra Demon

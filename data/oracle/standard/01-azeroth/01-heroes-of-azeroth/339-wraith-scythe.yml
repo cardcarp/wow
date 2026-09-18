@@ -1,0 +1,28 @@
+name: Wraith Scythe
+
+origin: heroes-of-azeroth-339
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Shaman
+
+rule:
+  - type: Ability
+    text: When your hero deals combat damage, it heals that amount of damage from itself.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

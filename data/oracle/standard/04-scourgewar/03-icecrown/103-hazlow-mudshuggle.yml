@@ -1,0 +1,30 @@
+name: Hazlow Mudshuggle
+
+origin: icecrown-103
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: At the start of your turn, you may destroy this ally. If you do, destroy target equipment.
+
+regulation:
+
+errata: []
+
+temp: Gnome Rogue

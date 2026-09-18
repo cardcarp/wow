@@ -1,0 +1,30 @@
+name: Ya'za the Vandal
+
+origin: the-hunt-for-illidan-172
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Ya'za enters play, you may destroy target armor or item.
+
+regulation:
+
+errata: []
+
+temp: Troll Rogue

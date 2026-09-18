@@ -1,0 +1,25 @@
+name: Grim Reach
+
+origin: blood-of-gladiators-071
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: Affliction Hero Required Opposing heroes and allies have -1 health this turn for each ongoing ability you control.
+
+regulation:
+
+errata: []
+
+temp: Affliction Talent

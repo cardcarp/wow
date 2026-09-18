@@ -1,0 +1,25 @@
+name: Thunderstrike Weapon
+
+origin: worldbreaker-102
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 'Attach to target equipment you control. Ongoing : When attached equipment exhausts, you may pay 1 . If you do, your hero deals 1 nature damage to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Enhancement

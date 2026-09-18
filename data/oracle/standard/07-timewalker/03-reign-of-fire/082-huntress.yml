@@ -1,0 +1,30 @@
+name: Huntress
+
+origin: reign-of-fire-082
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: When this ally deals combat damage to a defender, she may deal 1 ranged damage to a second target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

@@ -1,0 +1,25 @@
+name: Life Tap
+
+origin: heroes-of-azeroth-128
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warlock
+
+instant: As an additional cost to play, put 2 damage on your hero. Draw two cards.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Affliction

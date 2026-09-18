@@ -1,0 +1,30 @@
+name: Katsin Bloodoath
+
+origin: through-the-dark-portal-218
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 5
+
+health: 3
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector 3 → Prevent all combat damage that would be dealt to and dealt by target friendly ally this turn.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

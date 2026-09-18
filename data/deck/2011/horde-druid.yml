@@ -1,0 +1,59 @@
+name: Horde Druid
+
+format:
+  - Starter
+
+group: '2011'
+
+theme:
+  - Horde
+  - Starter
+  - '2011'
+
+complexity:
+
+division:
+
+highlight: horde-druid-2011-001
+
+tagline: 2011 Horde Druid Preconstructed
+
+description:
+  - title: ''
+    body: Introduction to the 2011 Horde Druid
+
+list:
+  hero:
+    horde-druid-2011-001: 1  # Kamu of Thunder Bluff
+  main:
+    horde-druid-2011-002: 1  # Brutal Bear Form
+    horde-druid-2011-003: 1 # Celestial Moonfire
+    horde-druid-2011-004: 1 # Earth and Moon
+    horde-druid-2011-005: 2 # Earth Mothers Blessing
+    horde-druid-2011-006: 2 # Entangling Roots
+    horde-druid-2011-007: 2 # Mark of the Wild
+    horde-druid-2011-008: 2 # Natural Selection
+    horde-druid-2011-009: 1 # Rebirth
+    horde-druid-2011-010: 1 # Starfire
+    horde-druid-2011-011: 2 # Tears of Aessina
+    horde-druid-2011-012: 3 # Wrath
+    horde-druid-2011-013: 2 # Besora Galefeather
+    horde-druid-2011-014: 2 # Burom Bladeseer
+    horde-druid-2011-015: 2 # Forager Cloudbloom
+    horde-druid-2011-016: 2 # Ka'tali Stonetusk
+    horde-druid-2011-017: 2 # Kirga Earthguard
+    horde-druid-2011-018: 2 # Kistix Shockvat
+    horde-druid-2011-019: 2 # Nikka Blastbor
+    horde-druid-2011-020: 2 # Oruk Starstorm
+    horde-druid-2011-021: 1 # Vala Carville
+    horde-druid-2011-022: 2 # Valytha Colton
+    horde-druid-2011-023: 1 # Vanda Skydaughter
+    horde-druid-2011-024: 2 # Voss Treebender
+    horde-druid-2011-025: 2 # Yazli Earthspark
+    horde-druid-2011-026: 1 # Hersirs Greatspear
+    horde-druid-2011-027: 3 # A Bird in Hand
+    horde-druid-2011-028: 1 # Blueleaf Tubers
+    horde-druid-2011-029: 3 # Entrenched
+    horde-druid-2011-030: 4 # The Essence of Enmity
+    horde-druid-2011-031: 4 # The Key to Freedom
+    horde-druid-2011-032: 2 # Mystery Goo

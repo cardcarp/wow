@@ -1,0 +1,26 @@
+name: Poof!
+
+origin: blood-of-gladiators-088
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Rogue
+  - Mage
+
+instant: Target ally's controller removes it from the game. At the start of the next turn, he puts it into his party.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane Subtlety

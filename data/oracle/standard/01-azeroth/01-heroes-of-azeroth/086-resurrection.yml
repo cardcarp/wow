@@ -1,0 +1,25 @@
+name: Resurrection
+
+origin: heroes-of-azeroth-086
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: Put target ally from your graveyard into play if its cost is less than or equal to the number of resources you control.
+
+regulation:
+
+errata: []
+
+temp: Holy

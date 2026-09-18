@@ -1,0 +1,30 @@
+name: Chumly
+
+origin: throne-of-the-tides-185
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Frost
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: This and other Murloc allies you control have +1 / +1.
+
+regulation:
+
+errata: []
+
+temp: Murloc Warrior

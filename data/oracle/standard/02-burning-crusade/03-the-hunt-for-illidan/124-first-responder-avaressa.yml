@@ -1,0 +1,30 @@
+name: First Responder Avaressa
+
+origin: the-hunt-for-illidan-124
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 1
+
+health: 5
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector At the start of your turn, Avaressa heals 2 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

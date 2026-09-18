@@ -1,0 +1,28 @@
+name: Scepter of Power
+
+origin: tomb-of-the-forgotten-193
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Exhaust an ally you control → Add a tone counter to this weapon. While this weapon has four or more tone counters on it, it has Harmonize .
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

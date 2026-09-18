@@ -1,0 +1,27 @@
+name: Argent Defender
+
+origin: through-the-dark-portal-248
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+rule:
+  - type: Ability
+    text: When Argent Defender becomes exhausted, you may remove target card in a graveyard from the game.
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

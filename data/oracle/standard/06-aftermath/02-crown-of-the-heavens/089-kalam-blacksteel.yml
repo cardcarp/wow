@@ -1,0 +1,30 @@
+name: Kalam Blacksteel
+
+origin: crown-of-the-heavens-089
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Worgen Death Knight

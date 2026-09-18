@@ -1,0 +1,32 @@
+name: High Warlords Cleaver
+
+origin: war-of-the-ancients-226
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+faction: Horde
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Shaman
+
+rule:
+  - type: Ability
+    text: While your hero is attacking an hero, this weapon has +3 ATK.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

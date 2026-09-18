@@ -1,0 +1,22 @@
+name: Zalazane
+
+origin: through-the-dark-portal-310
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 'Troll Hero Required During your turn, pay 3 to complete this quest. Reward : Target player discards a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

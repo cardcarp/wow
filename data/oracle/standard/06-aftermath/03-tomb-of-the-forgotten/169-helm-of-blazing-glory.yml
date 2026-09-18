@@ -1,0 +1,27 @@
+name: Helm of Blazing Glory
+
+origin: tomb-of-the-forgotten-169
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '8'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: While your hero has 5 or more remaining health, double the ATK of weapons you control and double the of armor you control.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

@@ -1,0 +1,27 @@
+name: Power Generator Hood
+
+origin: crown-of-the-heavens-173
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: When this armor enters play, Delve .
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

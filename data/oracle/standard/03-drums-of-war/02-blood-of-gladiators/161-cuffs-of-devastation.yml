@@ -1,0 +1,27 @@
+name: Cuffs of Devastation
+
+origin: blood-of-gladiators-161
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: When Cuffs of Devastation enters play, your hero deals 4 arcane damage to target opposing ally.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

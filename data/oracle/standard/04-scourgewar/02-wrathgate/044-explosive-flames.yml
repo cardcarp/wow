@@ -1,0 +1,25 @@
+name: Explosive Flames
+
+origin: wrathgate-044
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: 'Ongoing : If an opposing ally was destroyed this turn: 1 , → Your hero deals 1 fire damage to each opposing hero and ally.'
+
+regulation:
+
+errata: []
+
+temp: Fire

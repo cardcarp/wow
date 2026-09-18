@@ -1,0 +1,25 @@
+name: Keward the Ravager
+
+origin: fields-of-honor-002
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 30
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 3 , Flip Keward → Opposing allies have -1 health while Keward is defending this turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior

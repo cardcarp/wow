@@ -1,0 +1,26 @@
+name: Footwraps of Vile Deceit
+
+origin: naxxramas-treasure-014
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: Ability
+    text: When this armor enters play, target an opposing equipment. You control it while this armor remains under your control.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

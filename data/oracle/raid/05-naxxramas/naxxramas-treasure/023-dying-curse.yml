@@ -1,0 +1,27 @@
+name: Dying Curse
+
+origin: naxxramas-treasure-023
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+
+rule:
+  - type: Ability
+    text: 1 , → Destroy target attachment. If you do, it's controller draws a card.
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

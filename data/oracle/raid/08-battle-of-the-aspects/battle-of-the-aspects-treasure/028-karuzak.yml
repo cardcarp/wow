@@ -1,0 +1,33 @@
+name: Karuzak
+
+origin: battle-of-the-aspects-treasure-028
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 6
+
+health: 6
+
+combat: Shadow
+
+class:
+  - Warlock
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: 'At the start of your turn, each opponent chooses one: This ally deals 6 shadow damage to his hero; or you draw two cards.'
+
+regulation:
+
+errata: []
+
+temp: Doomguard Demon

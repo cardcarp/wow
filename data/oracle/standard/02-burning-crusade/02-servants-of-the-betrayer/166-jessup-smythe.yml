@@ -1,0 +1,30 @@
+name: Jessup Smythe
+
+origin: servants-of-the-betrayer-166
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Jessup readies, you may remove an ally card in your graveyard from the game. If you do, destroy target ally.
+
+regulation:
+
+errata: []
+
+temp: Undead Rogue

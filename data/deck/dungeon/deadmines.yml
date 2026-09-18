@@ -1,0 +1,72 @@
+name: Deadmines
+
+format:
+  - Raid
+
+group: dungeon
+
+theme:
+  - Dungeon
+  - Raid
+
+complexity:
+
+division:
+
+highlight: the-deadmines-001
+
+tagline: Deadmines
+
+description:
+  - title: ''
+    body: Introduction to the Deadmines
+
+list:
+  hero:
+    the-deadmines-001: 1  # Captain Cookie - Level 1
+    the-deadmines-002: 1 # Captain Cookie - Level 2
+    the-deadmines-003: 1 # Captain Cookie - Level 3
+    the-deadmines-004: 1 # Vanessa VanCleef
+  main:
+    the-deadmines-005: 1  # Admiral Ripsnarl
+    the-deadmines-006: 1 # Foe Reaper 5000
+    the-deadmines-007: 1 # Glubtok
+    the-deadmines-008: 1 # Helix Gearbreaker
+    the-deadmines-009: 1 # Lumbering Oaf
+    the-deadmines-010: 4 # Defias Envoker
+    the-deadmines-011: 4 # Defias Pirate
+    the-deadmines-012: 4 # Defias Squallshaper
+    the-deadmines-013: 4 # Defias Watcher
+    the-deadmines-014: 4 # Kobold Digger
+    the-deadmines-015: 4 # Mine Bunny
+    the-deadmines-016: 4 # Ogre Bodyguard
+    the-deadmines-017: 4 # Vapor
+    the-deadmines-018: 1 # A Potent Plan
+    the-deadmines-019: 1 # Biding Her Time
+    the-deadmines-020: 1 # Brotherhood Assembles
+    the-deadmines-021: 1 # Building Her Forces
+    the-deadmines-022: 1 # Captains Command
+    the-deadmines-023: 1 # Casualties of War
+    the-deadmines-024: 1 # Defias to the Core
+    the-deadmines-025: 1 # The Die Is Cast
+    the-deadmines-026: 1 # Do or Die
+    the-deadmines-027: 1 # "Enjoy Your Fiery Deaths!"
+    the-deadmines-028: 1 # Hope is Lost
+    the-deadmines-029: 1 # I Always Excelled at Poisons...
+    the-deadmines-030: 1 # "I'm Taking You All With Me!"
+    the-deadmines-031: 1 # Life... and Death
+    the-deadmines-032: 1 # Marked for Death
+    the-deadmines-033: 1 # "MY FATE IS MY OWN!"
+    the-deadmines-034: 1 # Nightmare Elixir
+    the-deadmines-035: 1 # Sneak Attack
+    the-deadmines-036: 1 # "Your Tale Ends Here!"
+    the-deadmines-037: 1 # Cookies Cauldron
+    the-deadmines-038: 1 # Defias Gunpowder
+    the-deadmines-039: 1 # Defias Cannon
+    the-deadmines-040: 1 # Cookies Stirring Stick
+    the-deadmines-041: 1 # Deadmine Sweeper
+    the-deadmines-042: 1 # Defias on Defias
+    the-deadmines-043: 1 # Hell Hath No Furry
+    the-deadmines-044: 1 # Its a Sabotage
+    the-deadmines-045: 1 # Pile High Club
+    the-deadmines-046: 1 # 'Tis But a Flesh Wound

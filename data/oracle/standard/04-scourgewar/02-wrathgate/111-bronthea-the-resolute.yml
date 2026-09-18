@@ -1,0 +1,33 @@
+name: Bronthea the Resolute
+
+origin: wrathgate-111
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Holy
+
+faction: Alliance
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: You can strike with weapons while this ally is in combat. armor can prevent damage that would be dealt to this ally.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

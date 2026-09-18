@@ -1,0 +1,25 @@
+name: Track Hidden
+
+origin: fields-of-honor-032
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: 'Ongoing : At the start of your turn, you may have target opponent reveal the top card of his deck. If you do, you may have him put that card on the bottom of his deck.'
+
+regulation:
+
+errata: []
+
+temp: Survival

@@ -1,0 +1,30 @@
+name: Shade of Arugal
+
+origin: icecrown-157
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 5
+
+health: 3
+
+combat: Shadow
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: 'Scourge Hero Required Death Rattle : You may destroy an Unlimited Scourge ally you control. If you do, put this ally from your graveyard into play.'
+
+regulation:
+
+errata: []
+
+temp: Shade

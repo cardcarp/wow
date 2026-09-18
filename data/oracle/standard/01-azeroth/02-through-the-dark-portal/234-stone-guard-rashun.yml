@@ -1,0 +1,30 @@
+name: Stone Guard Rashun
+
+origin: through-the-dark-portal-234
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Tauren Hero Required When an opposing ally enters play, exhaust it.
+
+regulation:
+
+errata: []
+
+temp: Tauren Shaman

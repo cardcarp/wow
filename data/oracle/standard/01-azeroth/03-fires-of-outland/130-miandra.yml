@@ -1,0 +1,30 @@
+name: Miandra
+
+origin: fires-of-outland-130
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Miandra enters play with a divine shield counter. While Miandra has a divine shield counter, prevent all damage that would be dealt to her. When damage is prevented this way, remove her divine shield counter.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

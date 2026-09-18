@@ -1,0 +1,30 @@
+name: Huruk Lightvow
+
+origin: worldbreaker-177
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 5
+
+health: 3
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

@@ -1,0 +1,26 @@
+name: Loatheb
+
+origin: naxxramas-raid-021
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+type: Boss
+
+rule:
+  - type: Ability
+    position: Front
+    text: Assault 8 At the end of your turn, Loatheb deals 3 shadow damage to each raiding hero. Flip Loatheb.
+  - type: Ability
+    position: Reverse
+    text: Assault 8 At the end of your turn, Loatheb deals 3 shadow damage to each raiding ally. Destroy Fungal Creep, put Spore into play, and flip Loatheb.
+
+regulation:
+
+errata: []
+
+temp: Bog Beast 30

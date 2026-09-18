@@ -1,0 +1,25 @@
+name: Mana Ruby
+
+origin: blood-of-gladiators-036
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: 'Ongoing : 2 , Destroy Mana Ruby → Draw cards until you reach your maximum hand size.'
+
+regulation:
+
+errata: []
+
+temp: Arcane

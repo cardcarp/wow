@@ -1,0 +1,33 @@
+name: Tempest Elemental
+
+origin: reign-of-fire-048
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 5
+
+health: 5
+
+combat: Nature
+
+class:
+  - Shaman
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: At the start of your turn, put an ally you control into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Air Elemental

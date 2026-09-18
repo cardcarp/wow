@@ -1,0 +1,61 @@
+name: Alliance Shaman
+
+format:
+  - Starter
+
+group: '2011'
+
+theme:
+  - Alliance
+  - Starter
+  - '2011'
+
+complexity:
+
+division:
+
+highlight: alliance-shaman-2011-001
+
+tagline: 2011 Alliance Shaman Preconstructed
+
+description:
+  - title: ''
+    body: Introduction to the 2011 Alliance Shaman
+
+list:
+  hero:
+    alliance-shaman-2011-001: 1  # Edaan of the Exodar
+  main:
+    alliance-shaman-2011-002: 1  # Ancestral Recovery
+    alliance-shaman-2011-003: 1 # Breath of the Elements
+    alliance-shaman-2011-004: 1 # Chain Heal
+    alliance-shaman-2011-005: 2 # Elements' Fury
+    alliance-shaman-2011-006: 1 # Energized
+    alliance-shaman-2011-007: 2 # Frost Shock
+    alliance-shaman-2011-008: 1 # Greater Chain Lightning
+    alliance-shaman-2011-009: 1 # Inferno Totem
+    alliance-shaman-2011-010: 2 # Lightning Bolt
+    alliance-shaman-2011-011: 2 # Primal Strike
+    alliance-shaman-2011-012: 2 # Arvos Jadestone
+    alliance-shaman-2011-013: 2 # Bella Wilder
+    alliance-shaman-2011-014: 2 # Dagin Bootzap
+    alliance-shaman-2011-015: 2 # Haratha Hammerflame
+    alliance-shaman-2011-016: 2 # Kalek Deepearth
+    alliance-shaman-2011-017: 2 # Latro Abiectus
+    alliance-shaman-2011-018: 2 # Roger Ulric
+    alliance-shaman-2011-019: 2 # Shanis Bladefall
+    alliance-shaman-2011-020: 1 # Terina Calin
+    alliance-shaman-2011-021: 1 # Tinker Casey Springlock
+    alliance-shaman-2011-022: 2 # Trixie Boltclunker
+    alliance-shaman-2011-023: 3 # Windspeaker Nuvu
+    alliance-shaman-2011-024: 1 # Zuur
+    alliance-shaman-2011-025: 1 # Bloodbanes Fall
+    alliance-shaman-2011-026: 1 # Abomination Knuckles
+    alliance-shaman-2011-027: 2 # Claws of Torment
+    alliance-shaman-2011-028: 1 # Crul'korak, the Lightnings Arc
+    alliance-shaman-2011-029: 3 # A Bird in Hand
+    alliance-shaman-2011-030: 1 # Blueleaf Tubers
+    alliance-shaman-2011-031: 3 # Entrenched
+    alliance-shaman-2011-032: 3 # The Essence of Enmity
+    alliance-shaman-2011-033: 4 # The Key to Freedom
+    alliance-shaman-2011-034: 3 # Mystery Goo

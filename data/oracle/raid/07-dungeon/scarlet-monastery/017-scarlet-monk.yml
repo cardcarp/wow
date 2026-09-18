@@ -1,0 +1,28 @@
+name: Scarlet Monk
+
+origin: scarlet-monastery-017
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+damage: 3
+
+health: 1
+
+combat: Melee
+
+type: Dungeon
+
+rule:
+  - type: Ability
+    text: Untargetable When this ally attacks, he deals 3 melee damage to a random Raiding hero.
+
+regulation:
+
+errata: []
+
+temp: Human Monk

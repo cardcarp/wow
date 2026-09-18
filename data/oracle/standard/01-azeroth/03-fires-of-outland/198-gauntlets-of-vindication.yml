@@ -1,0 +1,26 @@
+name: Gauntlets of Vindication
+
+origin: fires-of-outland-198
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Your Melee weapons have +1 ATK. If your hero would deal damage with an ability, it deals that much damage +1 instead.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

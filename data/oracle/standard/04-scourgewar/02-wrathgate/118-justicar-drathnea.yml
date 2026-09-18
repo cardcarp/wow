@@ -1,0 +1,30 @@
+name: Justicar Drathnea
+
+origin: wrathgate-118
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 1
+
+health: 8
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: When this ally deals damage to a Paladin, that Paladin's controller discards a card.
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

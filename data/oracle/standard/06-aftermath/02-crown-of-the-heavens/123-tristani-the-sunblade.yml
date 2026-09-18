@@ -1,0 +1,30 @@
+name: Tristani the Sunblade
+
+origin: crown-of-the-heavens-123
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 5
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Stealth When this ally deals combat damage to an opposing hero, that hero's controller reveals a random card from his hand. This ally deals melee damage to that hero equal to that revealed card's cost unless its controller discards that card.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Rogue

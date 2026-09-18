@@ -1,0 +1,25 @@
+name: Crusaders Armament
+
+origin: battle-of-the-aspects-treasure-016
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: 'Attach to target armor. Ongoing : Attached armor has +10 .'
+
+regulation:
+
+errata: []
+
+temp: Protection

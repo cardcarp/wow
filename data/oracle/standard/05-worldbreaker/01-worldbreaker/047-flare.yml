@@ -1,0 +1,25 @@
+name: Flare
+
+origin: worldbreaker-047
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '0'
+
+class:
+  - Hunter
+
+instant: Opposing heroes and allies lose and can't have Elusive , Stealth , and Untargetable this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

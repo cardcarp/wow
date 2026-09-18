@@ -1,0 +1,25 @@
+name: Rotten to the Spore
+
+origin: the-hunt-for-illidan-032
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: "Exhaust any number of target allies in target opponent's party. Ongoing : Each of them can't ready during its controller's ready step."
+
+regulation:
+
+errata: []
+
+temp: Balance

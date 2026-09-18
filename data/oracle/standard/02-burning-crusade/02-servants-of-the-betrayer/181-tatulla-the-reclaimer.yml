@@ -1,0 +1,30 @@
+name: Tatulla the Reclaimer
+
+origin: servants-of-the-betrayer-181
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Tatulla enters play, target player destroys an ability or equipment he controls.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

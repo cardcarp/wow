@@ -1,0 +1,25 @@
+name: Bo'ja, Arcanist Absolute
+
+origin: march-of-the-legion-011
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 25
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 5 , Flip Bo'ja → Target player readies all of his resources.
+
+regulation:
+
+errata: []
+
+temp: Troll Mage

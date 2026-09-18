@@ -1,0 +1,28 @@
+name: Gavel of the Fleshcrafter
+
+origin: scourgewar-238
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '5'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Your hero has Mend 3 .
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

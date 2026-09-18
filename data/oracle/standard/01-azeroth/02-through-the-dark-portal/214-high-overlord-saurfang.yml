@@ -1,0 +1,30 @@
+name: High Overlord Saurfang
+
+origin: through-the-dark-portal-214
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '8'
+
+damage: 9
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector When an ally enters combat with High Overlord Saurfang, destroy that ally.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

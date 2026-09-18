@@ -1,0 +1,28 @@
+name: Lyra, Timewalker Embermage
+
+origin: betrayal-of-the-guardian-118
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Fire
+
+rule:
+  - type: Ability
+    text: 'Spellshield While you control two or more allies that share a or race: → This ally deals 5 fire damage to target hero.'
+
+regulation:
+
+errata: []
+
+temp: Night Elf Mage

@@ -1,0 +1,22 @@
+name: Magma Shackles
+
+origin: molten-core-raid-028
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+rule:
+  - type: Ability
+    text: "Attach to target ally and exhaust it. Ongoing : Attached ally can't ready during its controller's ready step. While your hero is Garr, each ally in that ally's party can't ready during its controller's ready step."
+
+regulation:
+
+errata: []
+
+temp: Molten Core

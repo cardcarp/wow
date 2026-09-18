@@ -1,0 +1,25 @@
+name: Fel Immolation
+
+origin: twilight-of-the-dragons-089
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Warlock
+
+instant: 'Attach to target hero, and your hero deals 2 fire damage to it. Ongoing : At the start of your turn, your hero deals 2 fire damage to attached hero.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Destruction

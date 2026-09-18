@@ -1,0 +1,25 @@
+name: Unholy Power
+
+origin: drums-of-war-082
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: Demonology Hero Required Demons in your party have +3 ATK / +3 health.
+
+regulation:
+
+errata: []
+
+temp: Demonology Talent

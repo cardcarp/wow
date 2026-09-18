@@ -1,0 +1,30 @@
+name: '"Chipper" Ironbane'
+
+origin: through-the-dark-portal-160
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 3
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: x , Destroy "Chipper" Ironbane → Destroy target ability or equipment with cost X.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior

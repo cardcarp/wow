@@ -1,0 +1,30 @@
+name: Gok Stormhammer
+
+origin: servants-of-the-betrayer-162
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 5
+
+health: 3
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Long-Range When Gok enters play, he deals 3 nature damage divided as you choose to any number of target heroes and/or allies.
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

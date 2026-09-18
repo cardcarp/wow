@@ -1,0 +1,30 @@
+name: Crankston Deathspark
+
+origin: tomb-of-the-forgotten-078
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Elusive , Protector
+
+regulation:
+
+errata: []
+
+temp: Gnome Death Knight

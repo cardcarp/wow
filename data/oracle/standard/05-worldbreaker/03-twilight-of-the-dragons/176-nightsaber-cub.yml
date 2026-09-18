@@ -1,0 +1,28 @@
+name: Nightsaber Cub
+
+origin: twilight-of-the-dragons-176
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 4
+
+health: 2
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: Ferocity
+
+regulation:
+
+errata: []
+
+temp: Cat

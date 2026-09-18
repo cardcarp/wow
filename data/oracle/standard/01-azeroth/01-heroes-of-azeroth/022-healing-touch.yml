@@ -1,0 +1,25 @@
+name: Healing Touch
+
+origin: heroes-of-azeroth-022
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: Your hero heals 10 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Restoration

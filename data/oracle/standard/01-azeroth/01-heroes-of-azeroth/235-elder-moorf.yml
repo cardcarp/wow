@@ -1,0 +1,30 @@
+name: Elder Moorf
+
+origin: heroes-of-azeroth-235
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 1 → Target ally has +2 ATK this turn. Use only once per turn.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

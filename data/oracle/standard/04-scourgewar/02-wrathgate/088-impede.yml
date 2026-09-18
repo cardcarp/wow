@@ -1,0 +1,25 @@
+name: Impede
+
+origin: wrathgate-088
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Put target , , or ally or weapon on top of its owner's deck.
+
+regulation:
+
+errata: []
+
+temp: Arms

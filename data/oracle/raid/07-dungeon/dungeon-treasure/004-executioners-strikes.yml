@@ -1,0 +1,22 @@
+name: Executioners Strikes
+
+origin: dungeon-treasure-004
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+rule:
+  - type: Ability
+    text: "Ongoing : When a Warrior ally enters play under your control or a friendly player's control, you may destroy target damaged ally."
+
+regulation:
+
+errata: []
+
+temp: ''

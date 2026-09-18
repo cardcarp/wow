@@ -1,0 +1,30 @@
+name: Lissie Spizfrat
+
+origin: icecrown-110
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 'On your turn: → This ally deals 3 shadow damage to each hero and ally.'
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

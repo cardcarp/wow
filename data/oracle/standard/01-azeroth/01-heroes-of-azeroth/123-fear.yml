@@ -1,0 +1,25 @@
+name: Fear
+
+origin: heroes-of-azeroth-123
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: Put target opposing ally into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Affliction

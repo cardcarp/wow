@@ -1,0 +1,30 @@
+name: Goetia
+
+origin: tomb-of-the-forgotten-082
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Fire
+
+faction: Alliance
+
+instant: You pay 3 less to play this ally if you played an ability this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Draenei Mage

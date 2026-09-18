@@ -1,0 +1,22 @@
+name: Trample
+
+origin: onyxias-lair-raid-030
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Onyxia has +2 ATK while attacking. When Onyxia attacks, you may exhaust target ally.'
+
+regulation:
+
+errata: []
+
+temp: ''

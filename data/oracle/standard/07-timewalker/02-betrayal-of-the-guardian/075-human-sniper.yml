@@ -1,0 +1,30 @@
+name: Human Sniper
+
+origin: betrayal-of-the-guardian-075
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 5
+
+health: 4
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 'Unity : When this ally enters play, if you control three or more Human allies, target ally you control has Long-Range this turn.'
+
+regulation:
+
+errata: []
+
+temp: Human Hunter

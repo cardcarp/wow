@@ -1,0 +1,25 @@
+name: Soul Inversion
+
+origin: march-of-the-legion-111
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: 'Attach to target ally. Ongoing : Attached ally has +2 / -2.'
+
+regulation:
+
+errata: []
+
+temp: Affliction

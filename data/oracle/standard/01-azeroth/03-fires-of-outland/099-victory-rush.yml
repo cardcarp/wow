@@ -1,0 +1,25 @@
+name: Victory Rush
+
+origin: fires-of-outland-099
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: If your hero has dealt fatal combat damage to an ally this turn, destroy another target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury

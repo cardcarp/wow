@@ -1,0 +1,30 @@
+name: Bloodsoul
+
+origin: march-of-the-legion-177
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 3
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: This ally can attack only heroes.
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

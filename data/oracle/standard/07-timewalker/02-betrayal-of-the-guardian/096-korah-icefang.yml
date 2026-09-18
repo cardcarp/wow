@@ -1,0 +1,30 @@
+name: Korah Icefang
+
+origin: betrayal-of-the-guardian-096
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally enters play, double the ATK of target ally this turn.
+
+regulation:
+
+errata: []
+
+temp: Orc Mage

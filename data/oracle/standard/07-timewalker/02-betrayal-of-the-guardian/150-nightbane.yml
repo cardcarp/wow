@@ -1,0 +1,30 @@
+name: Nightbane
+
+origin: betrayal-of-the-guardian-150
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '10'
+
+damage: 10
+
+health: 10
+
+combat: Fire
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: When Nightbane enters play, he deals 10 fire damage divided as you choose to any number of target opposing heroes and/or allies.
+
+regulation:
+
+errata: []
+
+temp: Skeleton Dragonkin

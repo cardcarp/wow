@@ -1,0 +1,30 @@
+name: '"Poison Tongue" McGillicutty'
+
+origin: march-of-the-legion-199
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 3
+
+health: 3
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Poison Tongue is destroyed, you may destroy target resource.
+
+regulation:
+
+errata: []
+
+temp: Undead Priest

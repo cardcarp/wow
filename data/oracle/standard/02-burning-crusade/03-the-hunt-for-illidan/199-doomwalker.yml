@@ -1,0 +1,28 @@
+name: Doomwalker
+
+origin: the-hunt-for-illidan-199
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '11'
+
+damage: 11
+
+health: 11
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: When an opposing ability, ally, or equipment becomes exhausted, destroy it.
+
+regulation:
+
+errata: []
+
+temp: Mechanical

@@ -1,0 +1,25 @@
+name: Arcane Focus
+
+origin: servants-of-the-betrayer-057
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: "Arcane Hero Required Ongoing : → Ready one of your resources. Use only if you've played another Arcane or card this turn."
+
+regulation:
+
+errata: []
+
+temp: Arcane Talent

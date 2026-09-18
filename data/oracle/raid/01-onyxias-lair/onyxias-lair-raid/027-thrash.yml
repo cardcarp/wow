@@ -1,0 +1,22 @@
+name: Thrash
+
+origin: onyxias-lair-raid-027
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Destroy Thrash → Ready Onyxia.'
+
+regulation:
+
+errata: []
+
+temp: ''

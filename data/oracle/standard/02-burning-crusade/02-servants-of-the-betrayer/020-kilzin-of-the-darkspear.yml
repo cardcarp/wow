@@ -1,0 +1,25 @@
+name: Kil'zin of the Darkspear
+
+origin: servants-of-the-betrayer-020
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Kil'zin → Target opponent chooses an ally in his party, and Kil'zin deals 3 nature damage to it. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

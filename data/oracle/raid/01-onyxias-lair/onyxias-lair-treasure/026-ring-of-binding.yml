@@ -1,0 +1,33 @@
+name: Ring of Binding
+
+origin: onyxias-lair-treasure-026
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Opponents pay 1 more to play abilities that target your hero.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

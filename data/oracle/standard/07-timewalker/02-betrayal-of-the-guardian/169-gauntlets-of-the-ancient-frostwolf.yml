@@ -1,0 +1,26 @@
+name: Gauntlets of the Ancient Frostwolf
+
+origin: betrayal-of-the-guardian-169
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '5'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 2 , → Target ally you control has +2 ATK and Smash this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

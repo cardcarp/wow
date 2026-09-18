@@ -1,0 +1,20 @@
+name: Last of Her Kind
+
+origin: twilight-of-the-dragons-213
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Pay 3 to complete this quest. Reward : Put target Dragonkin from your graveyard into your hand.'
+
+regulation:
+
+errata: []
+
+temp: ''

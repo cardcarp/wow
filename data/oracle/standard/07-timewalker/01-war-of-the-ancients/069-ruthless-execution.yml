@@ -1,0 +1,25 @@
+name: Ruthless Execution
+
+origin: war-of-the-ancients-069
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Destroy target damaged ally. Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Fury

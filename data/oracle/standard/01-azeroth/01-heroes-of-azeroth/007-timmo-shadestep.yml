@@ -1,0 +1,25 @@
+name: Timmo Shadestep
+
+origin: heroes-of-azeroth-007
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 'On your turn: 5 , Flip Timmo → Destroy target exhausted ally.'
+
+regulation:
+
+errata: []
+
+temp: Gnome Rogue

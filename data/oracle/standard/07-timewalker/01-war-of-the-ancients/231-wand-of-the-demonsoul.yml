@@ -1,0 +1,27 @@
+name: Wand of the Demonsoul
+
+origin: war-of-the-ancients-231
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: When your hero deals combat damage with this weapon, it also heals 1 damage from itself.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Wand

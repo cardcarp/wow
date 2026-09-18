@@ -1,0 +1,25 @@
+name: Pacify
+
+origin: caverns-of-time-treasure-021
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: "Attach to target ally. Ongoing : You control attached ally. Attached ally can't attack."
+
+regulation:
+
+errata: []
+
+temp: Discipline Attachment

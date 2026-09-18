@@ -1,0 +1,34 @@
+name: Platinum Disks of Swiftness
+
+origin: wrathgate-184
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: → You pay 1 less to play your next ally that shares a class with your hero this turn.
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

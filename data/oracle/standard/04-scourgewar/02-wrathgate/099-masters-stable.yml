@@ -1,0 +1,26 @@
+name: Masters Stable
+
+origin: wrathgate-099
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Warlock
+  - Hunter
+
+rule:
+  - type: Ability
+    text: 'Ongoing : You can control an additional Pet. Pets you control have +1 / +1 for each Hunter and Warlock you control.'
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery Demonology

@@ -1,0 +1,22 @@
+name: Volcanic Lair
+
+origin: molten-core-raid-032
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+rule:
+  - type: Ability
+    text: 'Ongoing : At the start of your turn, if you have five or more resources, destroy target opposing hero.'
+
+regulation:
+
+errata: []
+
+temp: Molten Core

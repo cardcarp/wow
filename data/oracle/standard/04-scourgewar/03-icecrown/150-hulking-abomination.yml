@@ -1,0 +1,30 @@
+name: Hulking Abomination
+
+origin: icecrown-150
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 2
+
+health: 6
+
+combat: Melee
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: Scourge Hero Required Protector 1 , Remove an Unlimited card in your graveyard from the game → This ally heals all damage from itself.
+
+regulation:
+
+errata: []
+
+temp: Abomination

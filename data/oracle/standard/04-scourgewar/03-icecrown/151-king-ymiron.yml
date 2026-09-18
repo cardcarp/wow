@@ -1,0 +1,30 @@
+name: King Ymiron
+
+origin: icecrown-151
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 5
+
+health: 4
+
+combat: Shadow
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: Scourge Hero Required When this ally enters play, for each Unlimited ally you control, you may search your deck for an ally with the same name as that Unlimited ally and put it into play.
+
+regulation:
+
+errata: []
+
+temp: Vrykul Death Knight

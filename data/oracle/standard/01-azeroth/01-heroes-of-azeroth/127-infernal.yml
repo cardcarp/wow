@@ -1,0 +1,31 @@
+name: Infernal
+
+origin: heroes-of-azeroth-127
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 6
+
+health: 6
+
+combat: Fire
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: At the start of your turn, discard a card, or target opponent gains control of Infernal. At the end of your turn, Infernal deals 1 fire damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Infernal Demon

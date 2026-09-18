@@ -1,0 +1,30 @@
+name: Northshire Cleric
+
+origin: war-of-the-ancients-103
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 2
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 'Unity : While you control three or more Human allies, damage that would be dealt by heroes and allies you control is unpreventable.'
+
+regulation:
+
+errata: []
+
+temp: Human Priest

@@ -1,0 +1,30 @@
+name: Gollom Skybang
+
+origin: twilight-of-the-dragons-139
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally is destroyed, you may turn target face-up resource face down.
+
+regulation:
+
+errata: []
+
+temp: Goblin Hunter

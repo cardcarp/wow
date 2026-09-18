@@ -1,0 +1,28 @@
+name: Vindicator Vasha
+
+origin: the-hunt-for-illidan-183
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Holy
+
+rule:
+  - type: Ability
+    text: Aldor Reputation Cards in play with reputation other than Aldor lose and can't have powers.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

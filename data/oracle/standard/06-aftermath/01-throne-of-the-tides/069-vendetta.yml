@@ -1,0 +1,25 @@
+name: Vendetta
+
+origin: throne-of-the-tides-069
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Assassination Talent Destroy target exhausted ally, or gain control of it if you have no cards in your hand.
+
+regulation:
+
+errata: []
+
+temp: Assassination

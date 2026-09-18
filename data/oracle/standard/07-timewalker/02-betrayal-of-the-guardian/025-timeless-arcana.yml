@@ -1,0 +1,25 @@
+name: Timeless Arcana
+
+origin: betrayal-of-the-guardian-025
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Mage
+
+instant: Echo Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

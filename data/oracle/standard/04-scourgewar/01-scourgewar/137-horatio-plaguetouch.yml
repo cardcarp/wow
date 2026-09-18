@@ -1,0 +1,30 @@
+name: Horatio Plaguetouch
+
+origin: scourgewar-137
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Assault 2
+
+regulation:
+
+errata: []
+
+temp: Human Warlock

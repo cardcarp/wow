@@ -1,0 +1,25 @@
+name: Hail of Arrows
+
+origin: wrathgate-040
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: Your hero deals ranged damage to each of up to three target heroes and/or allies equal to the ATK of a Ranged weapon you control.
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

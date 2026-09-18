@@ -1,0 +1,25 @@
+name: Lifeblade of Belgaristrasz
+
+origin: wrathgate-193
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 'Finishing Move: Rogue When this weapon enters play, your hero deals X melee damage to target hero or ally and heals X damage from himself.'
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

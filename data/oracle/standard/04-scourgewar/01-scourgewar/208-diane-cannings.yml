@@ -1,0 +1,28 @@
+name: Diane Cannings
+
+origin: scourgewar-208
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 4
+
+combat: Nature
+
+rule:
+  - type: Ability
+    text: This ally has Assault X , where X is the combined of Leather and Mail armor you control.
+
+regulation:
+
+errata: []
+
+temp: Human Leatherworking Master

@@ -1,0 +1,30 @@
+name: Kark Baneblood
+
+origin: war-of-the-elements-135
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 5
+
+health: 4
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally enters play, you may destroy another ability, ally, or equipment you control. If you do, put target equipment on the bottom of its owner's deck.
+
+regulation:
+
+errata: []
+
+temp: Orc Death Knight

@@ -1,0 +1,20 @@
+name: A Traitor Among Us
+
+origin: march-of-the-legion-317
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'If an ally in your party was destroyed this turn, pay 2 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

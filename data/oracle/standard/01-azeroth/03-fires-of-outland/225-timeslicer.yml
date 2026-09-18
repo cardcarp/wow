@@ -1,0 +1,28 @@
+name: Timeslicer
+
+origin: fires-of-outland-225
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Warrior
+  - Shaman
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Your hero has Dual Wield .
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

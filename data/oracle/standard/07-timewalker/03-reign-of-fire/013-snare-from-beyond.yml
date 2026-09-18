@@ -1,0 +1,25 @@
+name: Snare from Beyond
+
+origin: reign-of-fire-013
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: "Warp Attach to target ability, ally, or equipment and exhaust it. Ongoing : Attached card can't ready during it's controller's ready step."
+
+regulation:
+
+errata: []
+
+temp: Balance Attachment

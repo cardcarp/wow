@@ -1,0 +1,25 @@
+name: Stranglevine
+
+origin: wrathgate-036
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: "Attach to target opposing ability, ally, or equipment. Ongoing : Attached card can't ready during its controller's ready step. On your turn: 2 → Attach this ability to target opposing ability, ally, or equipment."
+
+regulation:
+
+errata: []
+
+temp: Balance

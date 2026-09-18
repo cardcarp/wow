@@ -1,0 +1,28 @@
+name: High Nethermancer Zerevor
+
+origin: black-temple-token-005
+
+layout: Standard
+
+category:
+  - Token
+
+trait:
+
+damage: 4
+
+health: 4
+
+combat: Arcane
+
+type: Ally
+
+rule:
+  - type: Ability
+    text: At the start of your turn, Zerevor deals 3 arcane damage to each hero and ally in target player's party.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

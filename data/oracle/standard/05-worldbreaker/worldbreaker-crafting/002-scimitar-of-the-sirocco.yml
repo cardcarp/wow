@@ -1,0 +1,27 @@
+name: Scimitar of the Sirocco
+
+origin: worldbreaker-crafting-002
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: Artifact When you strike with this weapon, allies you control have Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

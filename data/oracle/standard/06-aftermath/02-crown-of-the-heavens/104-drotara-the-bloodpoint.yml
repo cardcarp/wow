@@ -1,0 +1,30 @@
+name: Drotara the Bloodpoint
+
+origin: crown-of-the-heavens-104
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Ferocity
+
+regulation:
+
+errata: []
+
+temp: Orc Hunter

@@ -1,0 +1,26 @@
+name: Staunch Reprisal
+
+origin: scourgewar-121
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Your hero has Protector . When your hero protects, it may deal 2 melee damage to target attacker.'
+
+regulation:
+
+errata: []
+
+temp: Frost Protection

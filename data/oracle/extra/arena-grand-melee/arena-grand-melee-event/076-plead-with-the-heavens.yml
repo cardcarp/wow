@@ -1,0 +1,20 @@
+name: Plead With the Heavens
+
+origin: arena-grand-melee-event-076
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+rule:
+  - type: Ability
+    text: Each player may make a phone call. The first player to get someone to say "Draw a card" on speakerphone may draw a card.
+
+regulation:
+
+errata: []
+
+temp: ''

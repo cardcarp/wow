@@ -1,0 +1,25 @@
+name: Feral Spirit
+
+origin: scourgewar-086
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Enhancement Hero Required Put two 4 / 4 Spirit Wolf ally tokens into play with Protector .
+
+regulation:
+
+errata: []
+
+temp: Enhancement Talent

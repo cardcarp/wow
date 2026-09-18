@@ -1,0 +1,28 @@
+name: Eitrigg
+
+origin: wrathgate-162
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '7'
+
+damage: 8
+
+health: 7
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: Argent Crusade Reputation Protector Cards everywhere are Unique.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

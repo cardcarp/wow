@@ -1,0 +1,27 @@
+name: Spellstrike Hood
+
+origin: azeroth-crafting-007
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '5'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: 2 , → When you next play a non-ongoing ability this turn, copy it. (You may choose new targets for the copy.)
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

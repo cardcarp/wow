@@ -1,0 +1,25 @@
+name: Frost Presence
+
+origin: death-knight-starter-008
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Opposing cards and effects must target your hero if able. Your hero has +10 health and is a Protector .'
+
+regulation:
+
+errata: []
+
+temp: Frost

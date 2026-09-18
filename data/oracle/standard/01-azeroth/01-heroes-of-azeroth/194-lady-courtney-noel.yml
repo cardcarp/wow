@@ -1,0 +1,30 @@
+name: Lady Courtney Noel
+
+origin: heroes-of-azeroth-194
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 1
+
+health: 4
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: → This ally heals 1 damage from each hero and ally you control.
+
+regulation:
+
+errata: []
+
+temp: Human Priest

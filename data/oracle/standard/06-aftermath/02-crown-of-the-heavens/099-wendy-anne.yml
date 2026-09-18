@@ -1,0 +1,30 @@
+name: Wendy Anne
+
+origin: crown-of-the-heavens-099
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: When this ally enters play, Delve .
+
+regulation:
+
+errata: []
+
+temp: Human Mage

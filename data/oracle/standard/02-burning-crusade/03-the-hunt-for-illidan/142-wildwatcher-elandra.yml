@@ -1,0 +1,30 @@
+name: Wildwatcher Elandra
+
+origin: the-hunt-for-illidan-142
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: When Elandra enters play, target player shuffles his graveyard into his deck.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

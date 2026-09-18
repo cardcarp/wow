@@ -1,0 +1,26 @@
+name: Frozen Frenzy
+
+origin: twilight-of-the-dragons-102
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '6'
+
+class:
+  - Death Knight
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Allies you control have Assault 6 this turn.
+
+regulation:
+
+errata: []
+
+temp: Frost Enhancement

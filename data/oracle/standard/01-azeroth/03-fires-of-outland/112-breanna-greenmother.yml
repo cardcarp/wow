@@ -1,0 +1,30 @@
+name: Breanna Greenmother
+
+origin: fires-of-outland-112
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 4
+
+health: 5
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Allies in your party can use activated ( ) powers from the turn they enter your party.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

@@ -1,0 +1,22 @@
+name: Take Cover
+
+origin: onyxias-lair-event-029
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: Opponents choose a player. Prevent all damage that would be dealt to heroes and allies in that player's party this turn.
+
+regulation:
+
+errata: []
+
+temp: ''

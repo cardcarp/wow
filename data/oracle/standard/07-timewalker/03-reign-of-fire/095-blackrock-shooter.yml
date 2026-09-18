@@ -1,0 +1,30 @@
+name: Blackrock Shooter
+
+origin: reign-of-fire-095
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 4
+
+health: 3
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 'Bloodrush : When this ally enters play, if an opposing hero has more damage on it than your hero, this ally deals 4 ranged damage to target opposing hero.'
+
+regulation:
+
+errata: []
+
+temp: Orc Hunter

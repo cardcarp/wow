@@ -1,0 +1,28 @@
+name: Vindicator Kaldel
+
+origin: march-of-the-legion-222
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Holy
+
+rule:
+  - type: Ability
+    text: 'Aldor Reputation Inspire: Ally'
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

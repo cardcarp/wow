@@ -1,0 +1,25 @@
+name: Trackers Blade
+
+origin: caverns-of-time-treasure-069
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Dual Wield Stealth
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

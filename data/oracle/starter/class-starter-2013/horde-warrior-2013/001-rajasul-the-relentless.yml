@@ -1,0 +1,25 @@
+name: Rajasul the Relentless
+
+origin: horde-warrior-2013-001
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 30
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 4 , Flip Raja'sul → Heroes and allies you control have +1 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Troll Warrior

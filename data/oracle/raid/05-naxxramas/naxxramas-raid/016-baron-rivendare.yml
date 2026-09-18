@@ -1,0 +1,32 @@
+name: Baron Rivendare
+
+origin: naxxramas-raid-016
+
+layout: Standard
+
+category:
+  - Token
+
+trait:
+
+damage: 5
+
+health: 10
+
+combat: Melee
+
+type: Ally
+
+rule:
+  - type: Ability
+    position: Front
+    text: At the end of your turn, the raid leader chooses a raider. That raider discards a random card.
+  - type: Ability
+    position: Reverse
+    text: At the end of your turn, each raider discards a random card.
+
+regulation:
+
+errata: []
+
+temp: Human Death Knight Horseman

@@ -1,0 +1,25 @@
+name: Divine Illumination
+
+origin: fires-of-outland-048
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: Holy Hero Required You pay 1 less to play abilities this turn, to a minimum of 1 . Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Holy Talent

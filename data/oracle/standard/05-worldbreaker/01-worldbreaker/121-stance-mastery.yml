@@ -1,0 +1,25 @@
+name: Stance Mastery
+
+origin: worldbreaker-121
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: 'Ongoing : → Your hero has +1 ATK this combat.'
+
+regulation:
+
+errata: []
+
+temp: Protection

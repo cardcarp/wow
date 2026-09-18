@@ -1,0 +1,25 @@
+name: Tomb of Ice
+
+origin: servants-of-the-betrayer-066
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: "Traitor Hero Required Ongoing : At the end of each opponent's turn, destroy each ally in his party that neither attacked nor entered play this turn."
+
+regulation:
+
+errata: []
+
+temp: Traitor

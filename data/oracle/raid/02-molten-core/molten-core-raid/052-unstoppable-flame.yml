@@ -1,0 +1,22 @@
+name: Unstoppable Flame
+
+origin: molten-core-raid-052
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: 1+X
+
+rule:
+  - type: Ability
+    text: This turn, Ragnaros has +X ATK, is untargetable, and can't be protected against.
+
+regulation:
+
+errata: []
+
+temp: Ragnaros

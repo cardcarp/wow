@@ -1,0 +1,28 @@
+name: Emerald Tree Warder
+
+origin: worldbreaker-208
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Nature
+
+rule:
+  - type: Ability
+    text: When a resource you control is turned face down, you may draw a card.
+
+regulation:
+
+errata: []
+
+temp: Green Dragonkin

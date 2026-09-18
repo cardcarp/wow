@@ -1,0 +1,30 @@
+name: '"Batter Brains" McGillicutty'
+
+origin: drums-of-war-starter-005
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally is destroyed, target player discards a card.
+
+regulation:
+
+errata: []
+
+temp: Undead Rogue

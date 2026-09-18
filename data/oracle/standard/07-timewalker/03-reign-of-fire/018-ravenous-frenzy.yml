@@ -1,0 +1,25 @@
+name: Ravenous Frenzy
+
+origin: reign-of-fire-018
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Hunter
+
+instant: Target ally has +4 ATK this turn. Target ally has -4 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery

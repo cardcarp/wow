@@ -1,0 +1,25 @@
+name: Ruthlessness
+
+origin: fields-of-honor-060
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Assassination Hero Required Put up to five Combo cards from your removed from game zone into hand.
+
+regulation:
+
+errata: []
+
+temp: Assassination Talent

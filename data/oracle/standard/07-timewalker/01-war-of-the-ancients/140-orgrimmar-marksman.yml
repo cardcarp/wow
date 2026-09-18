@@ -1,0 +1,30 @@
+name: Orgrimmar Marksman
+
+origin: war-of-the-ancients-140
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 3
+
+health: 3
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Ferocity When this ally enters play, put a 2 / 2 Orc Warrior token into play with Ferocity and "This ally can attack only heroes."
+
+regulation:
+
+errata: []
+
+temp: Orc Hunter

@@ -1,0 +1,26 @@
+name: Riot Shield
+
+origin: scourgewar-223
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: When your hero is dealt combat damage, you may add a +1 counter.
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

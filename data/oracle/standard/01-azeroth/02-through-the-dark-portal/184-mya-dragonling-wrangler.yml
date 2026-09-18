@@ -1,0 +1,30 @@
+name: Mya, Dragonling Wrangler
+
+origin: through-the-dark-portal-184
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: When Mya enters play, put a Mechanical Dragonling ally token with 1 ATK and 1 health into play.
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

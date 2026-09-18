@@ -1,0 +1,30 @@
+name: Freya Lightsworn
+
+origin: heroes-of-azeroth-183
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: → Freya Lightsworn heals 3 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Priest

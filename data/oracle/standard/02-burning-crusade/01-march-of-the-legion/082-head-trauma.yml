@@ -1,0 +1,25 @@
+name: Head Trauma
+
+origin: march-of-the-legion-082
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Destroy target resource.
+
+regulation:
+
+errata: []
+
+temp: Assassination

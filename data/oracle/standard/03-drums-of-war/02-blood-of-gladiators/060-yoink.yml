@@ -1,0 +1,25 @@
+name: Yoink!
+
+origin: blood-of-gladiators-060
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 'Attach to target equipment. Ongoing : You control attached equipment.'
+
+regulation:
+
+errata: []
+
+temp: Subtlety

@@ -1,0 +1,30 @@
+name: Koringar the Heavy
+
+origin: through-the-dark-portal-219
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '7'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 3 → This turn, Koringar has all the payment powers of all other allies.
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

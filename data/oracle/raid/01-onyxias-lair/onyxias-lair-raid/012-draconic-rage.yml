@@ -1,0 +1,22 @@
+name: Draconic Rage
+
+origin: onyxias-lair-raid-012
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Onyxia has +X ATK while attacking, where X is the current stage.'
+
+regulation:
+
+errata: []
+
+temp: ''

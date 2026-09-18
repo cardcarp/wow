@@ -1,0 +1,28 @@
+name: Magistrix Fyalenn
+
+origin: march-of-the-legion-235
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 3
+
+health: 6
+
+combat: Arcane
+
+rule:
+  - type: Ability
+    text: Scryer Reputation You can't discard cards.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

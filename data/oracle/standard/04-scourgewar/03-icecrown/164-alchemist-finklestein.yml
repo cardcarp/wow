@@ -1,0 +1,28 @@
+name: Alchemist Finklestein
+
+origin: icecrown-164
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Fire
+
+rule:
+  - type: Ability
+    text: Argent Crusade Reputation 1 , Discard a Unique card → Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Undead Alchemist

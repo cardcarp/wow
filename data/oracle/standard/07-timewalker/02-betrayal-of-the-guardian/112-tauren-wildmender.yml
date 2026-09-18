@@ -1,0 +1,30 @@
+name: Tauren Wildmender
+
+origin: betrayal-of-the-guardian-112
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally enters play, she heals 3 damage from your hero.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

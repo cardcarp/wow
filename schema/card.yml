@@ -1,0 +1,31 @@
+oracle: # the original first appearance of this card's exact mechanicals
+  type: string
+  required: true
+  
+index:
+  type: string
+  required: true
+  coerce: str
+
+rarity:
+  type: string
+  required: true
+  nullable: true
+
+artist:
+  type: string
+  required: true
+  nullable: true
+
+variation: # how this printing differs physically, e.g. Flip for a double-faced card
+  type: list
+  schema:
+    type: string
+
+flavor:
+  type: string
+  nullable: true
+
+set:
+  type: string
+  required: true

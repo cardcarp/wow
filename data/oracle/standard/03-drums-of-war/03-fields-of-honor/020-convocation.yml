@@ -1,0 +1,25 @@
+name: Convocation
+
+origin: fields-of-honor-020
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '6'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: "Ongoing : When you play an ally, your hero either deals nature damage to or heals damage from target hero equal to that ally's cost."
+
+regulation:
+
+errata: []
+
+temp: Restoration

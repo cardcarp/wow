@@ -1,0 +1,25 @@
+name: Dead Weight
+
+origin: scourgewar-079
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 'Attach to target ally or equipment. Ongoing : When attached card exhausts, destroy it.'
+
+regulation:
+
+errata: []
+
+temp: Assassination Combo

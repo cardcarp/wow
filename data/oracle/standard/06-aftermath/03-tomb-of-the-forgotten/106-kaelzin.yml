@@ -1,0 +1,30 @@
+name: Kaelzin
+
+origin: tomb-of-the-forgotten-106
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Mend 2
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

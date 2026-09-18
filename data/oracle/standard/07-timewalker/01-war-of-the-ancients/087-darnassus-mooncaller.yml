@@ -1,0 +1,30 @@
+name: Darnassus Mooncaller
+
+origin: war-of-the-ancients-087
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Haste 2
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

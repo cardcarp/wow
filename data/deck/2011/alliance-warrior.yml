@@ -1,0 +1,55 @@
+name: Alliance Warrior
+
+format:
+  - Starter
+
+group: '2011'
+
+theme:
+  - Alliance
+  - Starter
+  - '2011'
+
+complexity:
+
+division:
+
+highlight: alliance-warrior-2011-001
+
+tagline: 2011 Alliance Warrior Preconstructed
+
+description:
+  - title: ''
+    body: Introduction to the 2011 Alliance Warrior
+
+list:
+  hero:
+    alliance-warrior-2011-001: 1  # Stromdak of Ironforge
+  main:
+    alliance-warrior-2011-002: 2  # Armed to the Teeth
+    alliance-warrior-2011-003: 3 # Battle Shout
+    alliance-warrior-2011-004: 1 # Enraged Regeneration
+    alliance-warrior-2011-005: 3 # Execute
+    alliance-warrior-2011-006: 2 # Heroic Leap
+    alliance-warrior-2011-007: 2 # Rend
+    alliance-warrior-2011-008: 1 # Stance Mastery
+    alliance-warrior-2011-009: 2 # Darktwister Kern
+    alliance-warrior-2011-010: 3 # Kelsa Wildfire
+    alliance-warrior-2011-011: 3 # Knight Karia
+    alliance-warrior-2011-012: 2 # Laenthor Shademoon
+    alliance-warrior-2011-013: 2 # Liba Wobblebonk
+    alliance-warrior-2011-014: 1 # Mooncaller Jynalla Nightpath
+    alliance-warrior-2011-015: 3 # Nakistis, Exodar Armorer
+    alliance-warrior-2011-016: 4 # Patricia Potter
+    alliance-warrior-2011-017: 2 # Shanis Bladefall
+    alliance-warrior-2011-018: 1 # Terina Calin
+    alliance-warrior-2011-019: 1 # Bloodbanes Fall
+    alliance-warrior-2011-020: 1 # Golem Skull Helm
+    alliance-warrior-2011-021: 3 # Fel Iron Hatchet
+    alliance-warrior-2011-022: 1 # Warmace of Menethil
+    alliance-warrior-2011-023: 3 # A Bird in Hand
+    alliance-warrior-2011-024: 1 # Blueleaf Tubers
+    alliance-warrior-2011-025: 4 # Entrenched
+    alliance-warrior-2011-026: 3 # Forged of Shadow and Flame
+    alliance-warrior-2011-027: 2 # The Grimtotem Weapon
+    alliance-warrior-2011-028: 4 # The Key to Freedom

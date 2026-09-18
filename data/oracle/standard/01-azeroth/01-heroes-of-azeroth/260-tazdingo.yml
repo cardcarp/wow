@@ -1,0 +1,30 @@
+name: Taz'dingo
+
+origin: heroes-of-azeroth-260
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Taz'dingo enters play, he deals 1 ranged damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Troll Hunter

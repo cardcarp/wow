@@ -1,0 +1,25 @@
+name: Butcher
+
+origin: icecrown-060
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Finishing Move Choose X from among "ability," "ally," "equipment," "location," and "quest." Target player reveals his hand and discards a card of each of the chosen kinds.
+
+regulation:
+
+errata: []
+
+temp: Assassination

@@ -1,0 +1,34 @@
+name: Landros Hitching Post
+
+origin: war-of-the-elements-189
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: You can control any number of Mounts.
+
+regulation:
+
+errata: []
+
+temp: Item

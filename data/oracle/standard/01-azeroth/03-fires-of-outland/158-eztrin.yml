@@ -1,0 +1,30 @@
+name: Ez'trin
+
+origin: fires-of-outland-158
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Ez'trin enters play, you may exhaust target weapon.
+
+regulation:
+
+errata: []
+
+temp: Troll Warrior

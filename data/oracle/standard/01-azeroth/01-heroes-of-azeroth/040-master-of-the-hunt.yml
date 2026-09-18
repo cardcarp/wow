@@ -1,0 +1,25 @@
+name: Master of the Hunt
+
+origin: heroes-of-azeroth-040
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Pets you control have +2 / +2.'
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery

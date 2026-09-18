@@ -1,0 +1,27 @@
+name: Mooncloth Robe
+
+origin: heroes-of-azeroth-298
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: 2 , , Exhaust your hero → Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

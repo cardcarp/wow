@@ -1,0 +1,27 @@
+name: Staff of the Ashtongue Deathsworn
+
+origin: the-hunt-for-illidan-229
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Druid
+  - Priest
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Loyal Hero Required Text that refers to the start of a turn refers to the end of that turn instead.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

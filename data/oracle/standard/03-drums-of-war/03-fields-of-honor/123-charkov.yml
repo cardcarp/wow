@@ -1,0 +1,30 @@
+name: Charkov
+
+origin: fields-of-honor-123
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 3
+
+health: 4
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Will of the Forsaken When Charkov enters play, each player puts an ally from his party into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Undead Priest

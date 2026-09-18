@@ -1,0 +1,25 @@
+name: Glaciate
+
+origin: twilight-of-the-dragons-050
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Mage
+
+instant: Target opposing ally can't attack this turn. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Frost

@@ -1,0 +1,22 @@
+name: Monstrous Strength
+
+origin: tomb-of-the-forgotten-070
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+rule:
+  - type: Ability
+    text: Monster heroes and allies you control have +2 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,25 @@
+name: Ruby Gemsparkle
+
+origin: through-the-dark-portal-005
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 25
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 5 , Flip Ruby Gemsparkle → Draw two cards.
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

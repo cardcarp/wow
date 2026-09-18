@@ -1,0 +1,22 @@
+name: Shattering Blow
+
+origin: heroes-of-azeroth-168
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+rule:
+  - type: Ability
+    text: Destroy target equipment.
+
+regulation:
+
+errata: []
+
+temp: ''

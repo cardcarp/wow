@@ -1,0 +1,13 @@
+name:
+  type: string
+  required: true
+
+type: # capitalize
+  type: string
+  required: true
+  allowed: ['Standard', 'Raid', 'Promo', 'Starter', 'Token', 'Extra']
+
+index: # release order across all collections
+  type: string
+  nullable: true
+  coerce: str

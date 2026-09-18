@@ -1,0 +1,30 @@
+name: '"Eyeball" Jones'
+
+origin: the-hunt-for-illidan-153
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Eyeball deals combat damage to a hero or ally, exhaust that character, and it can't ready during its controller's next ready step.
+
+regulation:
+
+errata: []
+
+temp: Undead Rogue

@@ -1,0 +1,26 @@
+name: Gothik the Harvester
+
+origin: naxxramas-raid-012
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+type: Boss
+
+rule:
+  - type: Ability
+    position: Front
+    text: 'Immune When Gothik enters play, see Gothik rules. Once per game: At the start of your turn, put two Unrelenting Riders into play. When the last Spectral ally leaves your control, flip Gothik.'
+  - type: Ability
+    position: Reverse
+    text: 'On your turn: → Gothik deals 4 shadow damage to target ally. When Gothik is destroyed, he deals 4 shadow damage to each raiding hero.'
+
+regulation:
+
+errata: []
+
+temp: Human Necromancer 6

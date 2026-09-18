@@ -1,0 +1,26 @@
+name: Thundering Greathelm
+
+origin: magtheridons-lair-treasure-007
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: When you play an ally, your weapons have +1 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

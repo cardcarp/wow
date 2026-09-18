@@ -1,0 +1,28 @@
+name: Razorclaw the Butcher
+
+origin: shadowfang-keep-015
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+damage: 10
+
+health: 3
+
+combat: Melee
+
+type: Dungeon
+
+rule:
+  - type: Ability
+    text: Ferocity , Stealth
+
+regulation:
+
+errata: []
+
+temp: Worgen Spirit

@@ -1,0 +1,27 @@
+name: Gurubashi Dwarf Destroyer
+
+origin: through-the-dark-portal-274
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: When you strike with Gurubashi Dwarf Destroyer, your hero has Long-Range this combat. 2 , Destroy Gurubashi Dwarf Destroyer → Destroy target Dwarf ally.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Gun

@@ -1,0 +1,22 @@
+name: Vanquish
+
+origin: heroes-of-azeroth-171
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+rule:
+  - type: Ability
+    text: Destroy target ally.
+
+regulation:
+
+errata: []
+
+temp: ''

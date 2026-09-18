@@ -1,0 +1,26 @@
+name: Cobrascale Hood
+
+origin: azeroth-crafting-002
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: Ability
+    text: At the start of your turn, your hero deals 2 nature damage to each opposing hero for each face-up resource its controller has.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

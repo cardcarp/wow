@@ -1,0 +1,30 @@
+name: Melissa Gerrard
+
+origin: blood-of-gladiators-139
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Melissa attacks, target hero or ally has -1 health this turn.
+
+regulation:
+
+errata: []
+
+temp: Undead Warlock

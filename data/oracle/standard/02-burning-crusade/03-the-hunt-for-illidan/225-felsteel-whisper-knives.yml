@@ -1,0 +1,25 @@
+name: Felsteel Whisper Knives
+
+origin: the-hunt-for-illidan-225
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Thrown
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Knife

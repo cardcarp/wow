@@ -1,0 +1,30 @@
+name: Priestess of Horror
+
+origin: reign-of-fire-148
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: Absorb
+
+regulation:
+
+errata: []
+
+temp: Shivarra Demon

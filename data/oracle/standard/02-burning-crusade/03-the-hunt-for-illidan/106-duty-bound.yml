@@ -1,0 +1,25 @@
+name: Duty Bound
+
+origin: the-hunt-for-illidan-106
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Your hero is a Protector . When your hero protects, ready it.'
+
+regulation:
+
+errata: []
+
+temp: Protection

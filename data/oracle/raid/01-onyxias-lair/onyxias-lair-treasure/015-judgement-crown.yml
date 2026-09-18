@@ -1,0 +1,25 @@
+name: Judgement Crown
+
+origin: onyxias-lair-treasure-015
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: 1 , → Prevent the next 1 damage that would be dealt to target ally this turn. When you play a ability, ready Judgement Crown.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

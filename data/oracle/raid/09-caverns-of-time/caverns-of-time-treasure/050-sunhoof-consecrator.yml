@@ -1,0 +1,30 @@
+name: Sunhoof Consecrator
+
+origin: caverns-of-time-treasure-050
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Ready allies you control have +2 ATK and Spellshield .
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

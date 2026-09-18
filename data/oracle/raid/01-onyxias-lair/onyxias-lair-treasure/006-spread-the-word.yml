@@ -1,0 +1,25 @@
+name: Spread the Word
+
+origin: onyxias-lair-treasure-006
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: "Ongoing : Damage dealt by friendly heroes can't be prevented."
+
+regulation:
+
+errata: []
+
+temp: Holy

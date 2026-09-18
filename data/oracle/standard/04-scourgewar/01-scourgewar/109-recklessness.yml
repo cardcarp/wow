@@ -1,0 +1,25 @@
+name: Recklessness
+
+origin: scourgewar-109
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: 'Ongoing : At the start of your turn, add an abandon counter. If your hero would deal or be dealt damage, that much +X is dealt instead, where X is the number of abandon counters.'
+
+regulation:
+
+errata: []
+
+temp: Fury

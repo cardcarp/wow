@@ -1,0 +1,30 @@
+name: Sindragosa
+
+origin: assault-on-icecrown-citadel-raid-021
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '7'
+
+damage: 10
+
+health: 20
+
+combat: Frost
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: 'Icy Grip : If an opposing hero or ally attacks, it must attack Sindragosa if able.'
+
+regulation:
+
+errata: []
+
+temp: Frost Wyrm

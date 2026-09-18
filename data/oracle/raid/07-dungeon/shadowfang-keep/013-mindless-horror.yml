@@ -1,0 +1,28 @@
+name: Mindless Horror
+
+origin: shadowfang-keep-013
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+damage: 10
+
+health: 10
+
+combat: Melee
+
+type: Dungeon
+
+rule:
+  - type: Ability
+    text: Conspicuous Untargetable
+
+regulation:
+
+errata: []
+
+temp: Horror

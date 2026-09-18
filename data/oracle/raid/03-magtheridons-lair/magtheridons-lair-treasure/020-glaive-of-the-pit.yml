@@ -1,0 +1,27 @@
+name: Glaive of the Pit
+
+origin: magtheridons-lair-treasure-020
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '7'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+
+rule:
+  - type: Ability
+    text: Opposing heroes have -5 health.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Polearm

@@ -1,0 +1,25 @@
+name: Heartening Arrival
+
+origin: march-of-the-legion-069
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: 'Ongoing : When an ally enters play under your control, your hero heals 2 damage from target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Holy

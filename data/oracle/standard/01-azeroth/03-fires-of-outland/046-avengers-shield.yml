@@ -1,0 +1,25 @@
+name: Avengers Shield
+
+origin: fires-of-outland-046
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: Protection Hero Required Exhaust up to three target heroes and/or allies, and each of them can't ready during its controller's next ready step. Your hero deals 1 holy damage to each of those characters.
+
+regulation:
+
+errata: []
+
+temp: Protection Talent

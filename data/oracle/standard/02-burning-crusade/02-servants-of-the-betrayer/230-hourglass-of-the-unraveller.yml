@@ -1,0 +1,28 @@
+name: Hourglass of the Unraveller
+
+origin: servants-of-the-betrayer-230
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: You pay 1 less to play equipment, to a minimum of 1 .
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

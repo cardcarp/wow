@@ -1,0 +1,22 @@
+name: Gone Fishin'
+
+origin: fires-of-outland-106
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+rule:
+  - type: Ability
+    text: 'Ongoing : 2 , → Draw three cards and skip your next turn. Use only on your turn.'
+
+regulation:
+
+errata: []
+
+temp: ''

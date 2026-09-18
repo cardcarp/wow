@@ -1,0 +1,22 @@
+name: Tuskarr Kite
+
+origin: scourgewar-113
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+rule:
+  - type: Ability
+    text: 'Ongoing : , Exhaust an ally you control → Put the card tenth from the top of your deck into your hand.'
+
+regulation:
+
+errata: []
+
+temp: ''

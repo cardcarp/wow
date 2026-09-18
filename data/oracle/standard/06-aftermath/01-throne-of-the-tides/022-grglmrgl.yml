@@ -1,0 +1,26 @@
+name: Grglmrgl
+
+origin: throne-of-the-tides-022
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+type: Monster
+
+rule:
+  - type: Ability
+    position: Front
+    text: 8 → Flip Grglmrgl face down. You pay 8 less to flip Grglmrgl if an opposing hero was dealt 8 or more damage this turn.
+  - type: Ability
+    position: Reverse
+    text: "Monster allies you control have Ferocity . Deckbuilding: You can't put or cards in your deck."
+
+regulation:
+
+errata: []
+
+temp: Murloc Hunter 28

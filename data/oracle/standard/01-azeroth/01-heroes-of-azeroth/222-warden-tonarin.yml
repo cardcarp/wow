@@ -1,0 +1,30 @@
+name: Warden Tonarin
+
+origin: heroes-of-azeroth-222
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector Elusive
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

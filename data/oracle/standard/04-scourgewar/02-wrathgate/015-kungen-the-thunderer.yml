@@ -1,0 +1,25 @@
+name: Kungen the Thunderer
+
+origin: wrathgate-015
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 31
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: "On your turn: Flip Kungen, discard a Warrior → Opposing cards can't exhaust this turn."
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

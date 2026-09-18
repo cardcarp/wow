@@ -1,0 +1,25 @@
+name: Elements' Fury
+
+origin: march-of-the-legion-095
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Your hero deals 3 nature damage to target hero and 3 nature damage to target ally.
+
+regulation:
+
+errata: []
+
+temp: Elemental

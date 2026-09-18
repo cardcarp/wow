@@ -1,0 +1,27 @@
+name: Nexus Torch
+
+origin: march-of-the-legion-286
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: When combat damage is dealt with Nexus Torch to a defending hero, that hero's controller discards a card.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Wand

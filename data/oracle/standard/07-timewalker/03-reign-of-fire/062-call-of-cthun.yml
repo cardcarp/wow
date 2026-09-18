@@ -1,0 +1,22 @@
+name: Call of C'Thun
+
+origin: reign-of-fire-062
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '9'
+
+rule:
+  - type: Ability
+    text: 'Monster Hero Required Ongoing : → Cards in your deck have Warp this turn until you use a Warp power that was granted this way.'
+
+regulation:
+
+errata: []
+
+temp: ''

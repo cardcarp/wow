@@ -1,0 +1,25 @@
+name: Guardians Shield
+
+origin: caverns-of-time-treasure-017
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: 'Ongoing : If an ally you control would be dealt non-fatal damage, prevent it.'
+
+regulation:
+
+errata: []
+
+temp: Protection

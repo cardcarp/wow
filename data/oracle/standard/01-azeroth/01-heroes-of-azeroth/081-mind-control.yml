@@ -1,0 +1,25 @@
+name: Mind Control
+
+origin: heroes-of-azeroth-081
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: 2+X
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: 'Attach to target ally with cost X. Ongoing : You control attached ally. When you play a card, destroy Mind Control.'
+
+regulation:
+
+errata: []
+
+temp: Shadow

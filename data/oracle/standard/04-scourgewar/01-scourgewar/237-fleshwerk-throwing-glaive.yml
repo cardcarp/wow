@@ -1,0 +1,26 @@
+name: Fleshwerk Throwing Glaive
+
+origin: scourgewar-237
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 'Thrown Hero : This weapon has +1 ATK. Hero : You pay 1 less to strike with this weapon.'
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Shuriken

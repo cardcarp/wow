@@ -1,0 +1,28 @@
+name: Amani Dragonhawk
+
+origin: twilight-of-the-dragons-175
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '7'
+
+damage: 8
+
+health: 5
+
+combat: Fire
+
+rule:
+  - type: Ability
+    text: As this ally enters play, choose "ability," "ally," or "equipment." Opposing cards of the chosen type lose and can't have powers.
+
+regulation:
+
+errata: []
+
+temp: Dragonhawk

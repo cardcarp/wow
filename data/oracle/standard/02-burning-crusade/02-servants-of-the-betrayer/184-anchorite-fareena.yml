@@ -1,0 +1,28 @@
+name: Anchorite Fareena
+
+origin: servants-of-the-betrayer-184
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Holy
+
+rule:
+  - type: Ability
+    text: Aldor Reputation 0 → Attach target attachment to Fareena. Use only once per turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

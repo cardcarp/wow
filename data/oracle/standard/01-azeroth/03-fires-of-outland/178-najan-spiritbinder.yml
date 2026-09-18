@@ -1,0 +1,30 @@
+name: Najan Spiritbinder
+
+origin: fires-of-outland-178
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 3
+
+health: 4
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Ferocity When Najan Spiritbinder deals combat damage to a hero, you may destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

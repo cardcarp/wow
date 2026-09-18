@@ -1,0 +1,25 @@
+name: Flawless Defense
+
+origin: wrathgate-087
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Your hero has Protector . Your hero has +1 ATK while defending.'
+
+regulation:
+
+errata: []
+
+temp: Protection

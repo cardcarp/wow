@@ -1,0 +1,22 @@
+name: Deathwhisper
+
+origin: assault-on-icecrown-citadel-raid-007
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '5'
+
+rule:
+  - type: Ability
+    text: 'Long-Range Heartstrike : If Sylvanas would deal damage with this weapon to a damaged Scourge, she deals double that much instead.'
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Bow

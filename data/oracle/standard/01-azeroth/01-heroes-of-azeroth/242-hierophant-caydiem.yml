@@ -1,0 +1,30 @@
+name: Hierophant Caydiem
+
+origin: heroes-of-azeroth-242
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 3 → Hierophant Caydiem deals 1 nature damage to target hero or ally and heals 1 damage from another target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

@@ -1,0 +1,22 @@
+name: Interest You in a Pint?
+
+origin: heroes-of-azeroth-162
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+rule:
+  - type: Ability
+    text: "Attach to target ally. Ongoing : Attached ally can't attack."
+
+regulation:
+
+errata: []
+
+temp: ''

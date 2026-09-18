@@ -1,0 +1,30 @@
+name: Zerzu
+
+origin: worldbreaker-200
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally enters play, she heals all damage from allies you control.
+
+regulation:
+
+errata: []
+
+temp: Troll Druid

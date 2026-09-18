@@ -1,0 +1,30 @@
+name: Aileen the Thunderblessed
+
+origin: worldbreaker-128
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 1
+
+health: 6
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 1 , Exhaust a card you control → This ally deals nature damage to target hero or ally equal to that card's ATK.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Shaman

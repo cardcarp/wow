@@ -1,0 +1,33 @@
+name: Major Healing Potion
+
+origin: through-the-dark-portal-265
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 1 , Destroy Major Healing Potion → Your hero heals 5 damage from itself.
+
+regulation:
+
+errata: []
+
+temp: Item Potion

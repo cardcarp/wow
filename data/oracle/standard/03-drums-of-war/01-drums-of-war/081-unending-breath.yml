@@ -1,0 +1,25 @@
+name: Unending Breath
+
+origin: drums-of-war-081
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Play with the top card of your deck revealed. You may complete quest cards from the top of your deck. As you do, remove them from the game as an additional cost.'
+
+regulation:
+
+errata: []
+
+temp: Demonology

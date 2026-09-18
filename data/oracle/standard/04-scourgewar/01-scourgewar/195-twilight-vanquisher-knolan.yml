@@ -1,0 +1,30 @@
+name: Twilight Vanquisher Knolan
+
+origin: scourgewar-195
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Shadow Resistance You may play this ally without paying its cost if a hero or ally you controlled dealt shadow ( ) damage to an opposing hero this turn.
+
+regulation:
+
+errata: []
+
+temp: Undead Priest

@@ -1,0 +1,30 @@
+name: Dawnstrider Sunward
+
+origin: reign-of-fire-098
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 1
+
+health: 4
+
+combat: Holy
+
+faction: Horde
+
+instant: Protector
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

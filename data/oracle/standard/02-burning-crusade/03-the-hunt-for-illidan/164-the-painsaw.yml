@@ -1,0 +1,30 @@
+name: '"The Painsaw"'
+
+origin: the-hunt-for-illidan-164
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When The Painsaw enters play, you may destroy target ready weapon.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

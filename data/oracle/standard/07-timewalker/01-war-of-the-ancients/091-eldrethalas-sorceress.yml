@@ -1,0 +1,30 @@
+name: Eldre'Thalas Sorceress
+
+origin: war-of-the-ancients-091
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 3
+
+health: 3
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Haste 3 When this ally enters play, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Mage

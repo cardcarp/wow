@@ -1,0 +1,25 @@
+name: Blessing of Kings
+
+origin: fields-of-honor-041
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: 'Protection Hero Required Ongoing : Each ally in your party has +X ATK / +X health, where X is its cost.'
+
+regulation:
+
+errata: []
+
+temp: Protection Talent Blessing

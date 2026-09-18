@@ -1,0 +1,22 @@
+name: Face of Fear
+
+origin: throne-of-the-tides-092
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+rule:
+  - type: Ability
+    text: Put target ally into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: ''

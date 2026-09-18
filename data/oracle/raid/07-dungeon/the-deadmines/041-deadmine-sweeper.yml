@@ -1,0 +1,20 @@
+name: Deadmine Sweeper
+
+origin: the-deadmines-041
+
+layout: Standard
+
+category:
+  - Achievement
+
+trait:
+
+rule:
+  - type: Ability
+    text: Defeat The Deadmines without losing a player OR defeat The Deadmines despite losing two players.
+
+regulation:
+
+errata: []
+
+temp: ''

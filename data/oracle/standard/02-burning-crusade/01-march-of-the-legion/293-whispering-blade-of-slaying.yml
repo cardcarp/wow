@@ -1,0 +1,27 @@
+name: Whispering Blade of Slaying
+
+origin: march-of-the-legion-293
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Warrior
+  - Shaman
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Your other Daggers have +1 ATK. Your hero has Dual Wield .
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

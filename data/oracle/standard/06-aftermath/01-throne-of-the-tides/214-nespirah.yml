@@ -1,0 +1,30 @@
+name: Nespirah
+
+origin: throne-of-the-tides-214
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '8'
+
+damage: 9
+
+health: 9
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: If Nespirah would deal damage to an opposing hero, she deals that much divided as you choose among any number of opposing heroes and/or allies instead.
+
+regulation:
+
+errata: []
+
+temp: Demigod

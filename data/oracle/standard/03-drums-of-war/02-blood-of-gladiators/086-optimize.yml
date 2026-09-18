@@ -1,0 +1,26 @@
+name: Optimize
+
+origin: blood-of-gladiators-086
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+  - Hunter
+
+rule:
+  - type: Ability
+    text: 'Ongoing : → You may ready or exhaust target resource.'
+
+regulation:
+
+errata: []
+
+temp: Survival Discipline

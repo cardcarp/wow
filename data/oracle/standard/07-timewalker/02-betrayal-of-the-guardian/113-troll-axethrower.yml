@@ -1,0 +1,30 @@
+name: Troll Axethrower
+
+origin: betrayal-of-the-guardian-113
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 1
+
+health: 6
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Ferocity This ally has +1 ATK for each damage on it.
+
+regulation:
+
+errata: []
+
+temp: Troll Hunter

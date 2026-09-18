@@ -1,0 +1,25 @@
+name: Demoralizing Strike
+
+origin: twilight-of-the-dragons-095
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: Target ally or weapon has -3 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury

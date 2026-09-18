@@ -1,0 +1,27 @@
+name: Aldori Legacy Defender
+
+origin: fires-of-outland-194
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+rule:
+  - type: Ability
+    text: → Target hero or ally has -2 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

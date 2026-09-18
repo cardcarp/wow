@@ -1,0 +1,25 @@
+name: Convalescence
+
+origin: through-the-dark-portal-069
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: Your hero heals all damage from target ally. You may destroy an ability attached to that ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

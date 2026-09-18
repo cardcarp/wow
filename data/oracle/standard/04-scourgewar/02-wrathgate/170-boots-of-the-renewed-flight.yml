@@ -1,0 +1,26 @@
+name: Boots of the Renewed Flight
+
+origin: wrathgate-170
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: Ability
+    text: When this armor prevents damage, you may pay 4 . If you do, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

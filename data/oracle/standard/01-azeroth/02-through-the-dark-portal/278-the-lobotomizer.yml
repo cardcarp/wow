@@ -1,0 +1,28 @@
+name: The Lobotomizer
+
+origin: through-the-dark-portal-278
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '5'
+
+class:
+  - Warrior
+  - Shaman
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: When The Lobotomizer enters play, each player destroys one of his resources.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

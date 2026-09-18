@@ -1,0 +1,25 @@
+name: Taerinar, Fang of Goldrinn
+
+origin: alliance-rogue-2013-001
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 3 , Flip Taerinar → Weapons you control have +2 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Rogue

@@ -1,0 +1,30 @@
+name: Dorric the Martyr
+
+origin: heroes-of-azeroth-182
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 2
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 1 , Destroy Dorric → Dorric heals all damage from target ally.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

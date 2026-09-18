@@ -1,0 +1,30 @@
+name: Thunder Bluff Wildheart
+
+origin: war-of-the-ancients-152
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 'Tribe : When this or another Tauren ally enters play under your control, this ally heals 2 damage from target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

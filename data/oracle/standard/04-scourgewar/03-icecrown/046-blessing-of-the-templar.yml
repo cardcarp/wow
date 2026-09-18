@@ -1,0 +1,25 @@
+name: Blessing of the Templar
+
+origin: icecrown-046
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: 'Attach to target hero. Ongoing : Attached hero has Assault 3 and Mend 3 .'
+
+regulation:
+
+errata: []
+
+temp: Holy Blessing

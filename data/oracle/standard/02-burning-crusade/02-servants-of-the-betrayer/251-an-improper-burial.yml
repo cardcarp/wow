@@ -1,0 +1,20 @@
+name: An Improper Burial
+
+origin: servants-of-the-betrayer-251
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Remove any number of ally cards in your graveyard from the game and pay 2 to complete this quest. Reward : Draw a card for each three ally cards removed this way.'
+
+regulation:
+
+errata: []
+
+temp: ''

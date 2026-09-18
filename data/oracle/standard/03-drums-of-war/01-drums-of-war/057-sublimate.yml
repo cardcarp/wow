@@ -1,0 +1,25 @@
+name: Sublimate
+
+origin: drums-of-war-057
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: Put each opposing ability and equipment into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Shadow

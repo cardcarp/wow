@@ -1,0 +1,25 @@
+name: Tigers Fury
+
+origin: blood-of-gladiators-024
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: 'Ongoing : 1 → Your hero has an additional +1 ATK while attacking in Cat Form this turn.'
+
+regulation:
+
+errata: []
+
+temp: Feral

@@ -1,0 +1,22 @@
+name: Dodge
+
+origin: reign-of-fire-064
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '15'
+
+instant: Prevent the next 1 damage that would be dealt to target hero or ally this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

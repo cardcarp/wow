@@ -1,0 +1,25 @@
+name: Mark of the Wild
+
+origin: heroes-of-azeroth-024
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: 'Attach to target ally. Ongoing : Attached ally has +2 / +2.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

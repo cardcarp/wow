@@ -1,0 +1,25 @@
+name: Warrax
+
+origin: heroes-of-azeroth-008
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 30
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 1 , Flip Warrax → Warrax has Protector this turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior

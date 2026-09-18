@@ -1,0 +1,25 @@
+name: Firestarter
+
+origin: tomb-of-the-forgotten-026
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: Fire Talent Your hero deals 1 fire damage to each opposing hero and ally, or 4 if that character was dealt fire damage this turn.
+
+regulation:
+
+errata: []
+
+temp: Fire

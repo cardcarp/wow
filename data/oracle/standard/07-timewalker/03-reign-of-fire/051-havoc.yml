@@ -1,0 +1,25 @@
+name: Havoc
+
+origin: reign-of-fire-051
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: "Destruction Talent Attach to target ally. Ongoing : When attached ally is dealt damage, your hero deals that much fire damage to that ally's controller's hero. When attached ally is destroyed, you may put this ability from its owner's graveyard into his hand."
+
+regulation:
+
+errata: []
+
+temp: Destruction Attachment

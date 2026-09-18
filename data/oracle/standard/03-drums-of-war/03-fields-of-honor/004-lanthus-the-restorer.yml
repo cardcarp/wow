@@ -1,0 +1,25 @@
+name: Lanthus the Restorer
+
+origin: fields-of-honor-004
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Lanthus → Exhaust target ally.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

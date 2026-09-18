@@ -1,0 +1,25 @@
+name: Evocation
+
+origin: through-the-dark-portal-050
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: 'Ongoing : 2 → Draw a card. When a card leaves your hand, destroy Evocation.'
+
+regulation:
+
+errata: []
+
+temp: Arcane

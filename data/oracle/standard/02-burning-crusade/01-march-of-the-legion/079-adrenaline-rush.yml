@@ -1,0 +1,25 @@
+name: Adrenaline Rush
+
+origin: march-of-the-legion-079
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '7'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Combat Talent Ready all resources you control. Draw cards until you reach your maximum hand size. At the next end of turn, discard your hand.
+
+regulation:
+
+errata: []
+
+temp: Combat

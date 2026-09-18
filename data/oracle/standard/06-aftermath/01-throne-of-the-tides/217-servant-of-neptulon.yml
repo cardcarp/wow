@@ -1,0 +1,30 @@
+name: Servant of Neptulon
+
+origin: throne-of-the-tides-217
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 0
+
+health: 1
+
+combat: Frost
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: Elusive → You pay 1 less to play your next Frost or card this turn. (A card is one with in its lower-left corner.)
+
+regulation:
+
+errata: []
+
+temp: Water Elemental

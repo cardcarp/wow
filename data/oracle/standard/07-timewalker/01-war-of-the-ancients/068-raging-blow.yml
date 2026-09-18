@@ -1,0 +1,25 @@
+name: Raging Blow
+
+origin: war-of-the-ancients-068
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '9'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Fury Talent Your hero deals 15 melee damage to target opposing hero.
+
+regulation:
+
+errata: []
+
+temp: Fury

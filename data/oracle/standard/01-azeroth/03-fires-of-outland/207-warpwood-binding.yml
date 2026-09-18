@@ -1,0 +1,25 @@
+name: Warpwood Binding
+
+origin: fires-of-outland-207
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: You pay 1 less to strike with Ranged weapons.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

@@ -1,0 +1,28 @@
+name: Vorix Zorbuzz
+
+origin: worldbreaker-019
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 27
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 3 → Flip Vorix
+  - type: Ability
+    position: Reverse
+    text: If Vorix would deal melee damage, he deals that much nature damage +1 instead.
+
+regulation:
+
+errata: []
+
+temp: Goblin Rogue

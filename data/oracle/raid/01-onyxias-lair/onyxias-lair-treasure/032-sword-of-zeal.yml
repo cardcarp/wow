@@ -1,0 +1,28 @@
+name: Sword of Zeal
+
+origin: onyxias-lair-treasure-032
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: When your hero deals combat damage with Sword of Zeal, target player may ready that many of his resources.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

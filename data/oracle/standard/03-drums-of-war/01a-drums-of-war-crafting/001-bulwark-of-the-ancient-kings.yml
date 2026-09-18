@@ -1,0 +1,26 @@
+name: Bulwark of the Ancient Kings
+
+origin: drums-of-war-crafting-001
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Blacksmithing Hero Required Your hero has +5 health. Destroy Bulwark of the Ancient Kings → Your hero has +25 health until the end of your next turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

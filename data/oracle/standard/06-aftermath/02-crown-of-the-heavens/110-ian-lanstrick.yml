@@ -1,0 +1,30 @@
+name: Ian Lanstrick
+
+origin: crown-of-the-heavens-110
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When an opponent completes a quest, this ally deals 2 fire damage to his hero.
+
+regulation:
+
+errata: []
+
+temp: Undead Mage

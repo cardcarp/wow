@@ -1,0 +1,25 @@
+name: Lust for Battle
+
+origin: heroes-of-azeroth-154
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: Allies you control have +2 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement

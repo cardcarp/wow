@@ -1,0 +1,25 @@
+name: Terrifying Shout
+
+origin: tomb-of-the-forgotten-062
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Put target ally or equipment on top of it's owner's deck.
+
+regulation:
+
+errata: []
+
+temp: Fury Shout

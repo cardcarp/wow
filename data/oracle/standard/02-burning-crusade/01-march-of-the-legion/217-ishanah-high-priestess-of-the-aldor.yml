@@ -1,0 +1,28 @@
+name: Ishanah, High Priestess of the Aldor
+
+origin: march-of-the-legion-217
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '8'
+
+damage: 5
+
+health: 8
+
+combat: Holy
+
+rule:
+  - type: Ability
+    text: Aldor Reputation At the start of each opponent's turn, he chooses an ally in his party. Gain control of that ally.
+
+regulation:
+
+errata: []
+
+temp: Draenei Priest

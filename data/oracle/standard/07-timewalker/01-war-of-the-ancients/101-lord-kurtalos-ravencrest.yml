@@ -1,0 +1,30 @@
+name: Lord Kur'talos Ravencrest
+
+origin: war-of-the-ancients-101
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 1
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Spellshield Kur'talos has +ATK equal to the combined cost of other allies you control.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

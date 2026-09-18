@@ -1,0 +1,25 @@
+name: Reclusion
+
+origin: march-of-the-legion-063
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: 'Attach to target ally. Ongoing : Prevent all damage that attached ally would deal.'
+
+regulation:
+
+errata: []
+
+temp: Protection

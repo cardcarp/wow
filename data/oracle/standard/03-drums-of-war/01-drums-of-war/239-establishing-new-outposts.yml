@@ -1,0 +1,22 @@
+name: Establishing New Outposts
+
+origin: drums-of-war-239
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 'Pay 2 to complete this quest. Reward : Reveal the top three cards of your deck. Put a revealed card into your hand and the rest on the bottom of your deck.'
+
+regulation:
+
+errata: []
+
+temp: ''

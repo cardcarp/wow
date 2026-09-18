@@ -1,0 +1,22 @@
+name: Strike
+
+origin: war-of-the-ancients-081
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+rule:
+  - type: Ability
+    text: Your hero deals 1 melee damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: ''

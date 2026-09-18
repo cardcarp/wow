@@ -1,0 +1,30 @@
+name: Rek'gar
+
+origin: fires-of-outland-182
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Frost
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector When one of your Totems is destroyed, Rek'gar deals 1 frost damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

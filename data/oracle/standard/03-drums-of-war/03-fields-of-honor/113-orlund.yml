@@ -1,0 +1,30 @@
+name: Orlund
+
+origin: fields-of-honor-113
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 1
+
+health: 6
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Find Treasure When an opponent discards a card, Orlund deals 3 shadow damage to that opponent's hero.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Priest

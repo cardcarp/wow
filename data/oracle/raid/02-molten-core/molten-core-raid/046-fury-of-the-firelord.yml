@@ -1,0 +1,22 @@
+name: Fury of the Firelord
+
+origin: molten-core-raid-046
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '15'
+
+rule:
+  - type: Ability
+    text: Ragnaros deals 50 fire damage to each opposing hero and ally. That damage can't be prevented. Fury of the Firelord can't be interrupted.
+
+regulation:
+
+errata: []
+
+temp: Ragnaros

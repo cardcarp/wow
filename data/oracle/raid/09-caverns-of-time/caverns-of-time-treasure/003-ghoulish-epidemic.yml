@@ -1,0 +1,25 @@
+name: Ghoulish Epidemic
+
+origin: caverns-of-time-treasure-003
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: When a non-token ally is destroyed this turn, put a 3 / 3 Ghoul ally token into play.
+
+regulation:
+
+errata: []
+
+temp: Unholy

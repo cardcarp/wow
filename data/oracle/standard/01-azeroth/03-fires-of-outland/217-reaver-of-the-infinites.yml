@@ -1,0 +1,27 @@
+name: Reaver of the Infinites
+
+origin: fires-of-outland-217
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+
+rule:
+  - type: Ability
+    text: 15 → Reaver of the Infinites has +∞ ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Axe

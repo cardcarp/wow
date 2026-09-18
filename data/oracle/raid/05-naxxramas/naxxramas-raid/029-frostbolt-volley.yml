@@ -1,0 +1,22 @@
+name: Frostbolt Volley
+
+origin: naxxramas-raid-029
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+instant: The Boss deals 3 frost damage to each raiding hero and ally. A character dealt damage this way can't attack this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Naxxramas

@@ -1,0 +1,30 @@
+name: Marcus Dominar
+
+origin: worldbreaker-151
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 5
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector Aberration
+
+regulation:
+
+errata: []
+
+temp: Worgen Warrior

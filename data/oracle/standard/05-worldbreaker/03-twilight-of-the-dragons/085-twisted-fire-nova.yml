@@ -1,0 +1,25 @@
+name: Twisted Fire Nova
+
+origin: twilight-of-the-dragons-085
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: As an additional cost to play this ability, destroy an ability, ally, or equipment you control. Your hero deals 7 fire damage divided as you choose to any number of target heroes and/or allies.
+
+regulation:
+
+errata: []
+
+temp: Elemental

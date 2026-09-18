@@ -1,0 +1,31 @@
+name: Rhuunom
+
+origin: scourgewar-100
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 2
+
+combat: Shadow
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: At the end of your turn, you may destroy target attachment. If you do, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Felhunter Demon

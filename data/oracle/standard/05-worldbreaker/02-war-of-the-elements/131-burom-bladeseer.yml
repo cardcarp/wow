@@ -1,0 +1,28 @@
+name: Burom Bladeseer
+
+origin: war-of-the-elements-131
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Nature
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

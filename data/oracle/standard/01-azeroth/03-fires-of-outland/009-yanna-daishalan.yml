@@ -1,0 +1,25 @@
+name: Yanna Daishalan
+
+origin: fires-of-outland-009
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 3 , Flip Yanna Dai'shalan → Yanna deals 1 nature damage to target ally for each ally in your party. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

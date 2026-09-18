@@ -1,0 +1,29 @@
+name: Captain Cookie - Level 1
+
+origin: the-deadmines-001
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+damage: 0
+
+health: 50
+
+combat: Nature
+
+type: Dungeon
+
+rule:
+  - type: Ability
+    position: Front
+    text: 'Level Up: 10 Flip 2 Assault 3 , Long-Range'
+
+regulation:
+
+errata: []
+
+temp: Murloc Cook

@@ -1,0 +1,33 @@
+name: Frenzied Doomguard
+
+origin: tomb-of-the-forgotten-056
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 8
+
+health: 6
+
+combat: Shadow
+
+class:
+  - Warlock
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: Smash If this ally would deal Smash damage, it deals that much +2 instead.
+
+regulation:
+
+errata: []
+
+temp: Doomguard Demon

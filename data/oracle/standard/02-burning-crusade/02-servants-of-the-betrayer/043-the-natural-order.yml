@@ -1,0 +1,25 @@
+name: The Natural Order
+
+origin: servants-of-the-betrayer-043
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: Destroy target ability or equipment.
+
+regulation:
+
+errata: []
+
+temp: Balance

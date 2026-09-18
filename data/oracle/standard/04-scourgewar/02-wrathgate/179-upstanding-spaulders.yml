@@ -1,0 +1,26 @@
+name: Upstanding Spaulders
+
+origin: wrathgate-179
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Each player can't ready more than three resources during his ready step.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

@@ -1,0 +1,28 @@
+name: Unrelenting Rider
+
+origin: naxxramas-token-008
+
+layout: Standard
+
+category:
+  - Token
+
+trait:
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+type: Ally
+
+rule:
+  - type: Ability
+    text: Ferocity When this ally leaves play, the Boss player puts a Spectral Rider into play.
+
+regulation:
+
+errata: []
+
+temp: Human Death Knight

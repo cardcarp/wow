@@ -1,0 +1,26 @@
+name: Frigid Winds
+
+origin: fields-of-honor-086
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+  - Mage
+
+instant: Target hero or ally can't attack this turn. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Balance Frost

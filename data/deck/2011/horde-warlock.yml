@@ -1,0 +1,55 @@
+name: Horde Warlock
+
+format:
+  - Starter
+
+group: '2011'
+
+theme:
+  - Horde
+  - Starter
+  - '2011'
+
+complexity:
+
+division:
+
+highlight: horde-warlock-2011-001
+
+tagline: 2011 Horde Warlock Preconstructed
+
+description:
+  - title: ''
+    body: Introduction to the 2011 Horde Warlock
+
+list:
+  hero:
+    horde-warlock-2011-001: 1  # Kalia of Silvermoon City
+  main:
+    horde-warlock-2011-002: 3  # Drain Essence
+    horde-warlock-2011-003: 1 # Dread Infernal
+    horde-warlock-2011-004: 2 # Fear
+    horde-warlock-2011-005: 2 # Fel Blaze
+    horde-warlock-2011-006: 1 # Fel Flame
+    horde-warlock-2011-007: 2 # Immolate
+    horde-warlock-2011-008: 2 # Life Tap
+    horde-warlock-2011-009: 2 # Maazhum
+    horde-warlock-2011-010: 2 # Sarmoth
+    horde-warlock-2011-011: 2 # Shadow Bolt
+    horde-warlock-2011-012: 1 # Siphon Life
+    horde-warlock-2011-013: 3 # Benethor Draigo
+    horde-warlock-2011-014: 2 # Doom
+    horde-warlock-2011-015: 2 # Garell Strout
+    horde-warlock-2011-016: 2 # Karkas Deathhowl
+    horde-warlock-2011-017: 2 # Malistra the Demonmistress
+    horde-warlock-2011-018: 3 # Onnekra Bloodfang
+    horde-warlock-2011-019: 2 # Tarn Darkwalker
+    horde-warlock-2011-020: 2 # Tez Tez the Patchmonger
+    horde-warlock-2011-021: 3 # Waz'luk
+    horde-warlock-2011-022: 2 # Crimson Shocker
+    horde-warlock-2011-023: 3 # A Bird in Hand
+    horde-warlock-2011-024: 1 # Blueleaf Tubers
+    horde-warlock-2011-025: 3 # Entrenched
+    horde-warlock-2011-026: 4 # The Essence of Enmity
+    horde-warlock-2011-027: 4 # The Key to Freedom
+    horde-warlock-2011-028: 2 # What Illidan Wants, Illidan Gets ...

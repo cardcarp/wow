@@ -1,0 +1,25 @@
+name: Rhok'delar, Longbow of the Ancient Keepers
+
+origin: molten-core-treasure-026
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '7'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: When you strike with Rokh'delar, your hero has Long-Range this combat.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Bow

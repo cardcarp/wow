@@ -1,0 +1,22 @@
+name: Disco Inferno!
+
+origin: the-hunt-for-illidan-115
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+rule:
+  - type: Ability
+    text: 'Ongoing : At the end of your turn, ready all exhausted heroes and allies in your party, then exhaust all other heroes and allies in your party.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,25 @@
+name: Boundless Shadows
+
+origin: throne-of-the-tides-059
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: Eternal Target player removes a card from the top of his deck from the game for each resource you control.
+
+regulation:
+
+errata: []
+
+temp: Shadow

@@ -1,0 +1,20 @@
+name: Voidwalkers Gone Wild
+
+origin: fires-of-outland-244
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'If your hero dealt combat damage to an ally this turn, pay 1 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

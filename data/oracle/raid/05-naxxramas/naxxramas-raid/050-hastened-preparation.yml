@@ -1,0 +1,24 @@
+name: Hastened Preparation
+
+origin: naxxramas-raid-050
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+type: Raid
+
+stage: 10
+
+rule:
+  - type: Ability
+    text: 'The raid leader chooses one: He readies all of his resources, or each raider readies two of his resources.'
+
+regulation:
+
+errata: []
+
+temp: ''

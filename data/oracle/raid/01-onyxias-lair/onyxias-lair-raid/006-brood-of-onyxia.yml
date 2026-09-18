@@ -1,0 +1,22 @@
+name: Brood of Onyxia
+
+origin: onyxias-lair-raid-006
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+rule:
+  - type: Ability
+    text: Stage 2 Only Put ten Whelps into play.
+
+regulation:
+
+errata: []
+
+temp: ''

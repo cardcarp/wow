@@ -1,0 +1,28 @@
+name: Soul-Eater Morgania
+
+origin: twilight-of-the-dragons-007
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 → Flip Morgania face down.
+  - type: Ability
+    position: Reverse
+    text: When an opposing ally is destroyed, Morgania heals 1 damage from herself.
+
+regulation:
+
+errata: []
+
+temp: Worgen Warlock

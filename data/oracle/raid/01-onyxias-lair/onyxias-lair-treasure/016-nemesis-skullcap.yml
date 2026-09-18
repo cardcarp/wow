@@ -1,0 +1,25 @@
+name: Nemesis Skullcap
+
+origin: onyxias-lair-treasure-016
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: → Your hero heals 1 damage from itself. When you play a ability, ready Nemesis Skullcap.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

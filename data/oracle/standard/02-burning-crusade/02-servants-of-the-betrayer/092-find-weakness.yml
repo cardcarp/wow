@@ -1,0 +1,25 @@
+name: Find Weakness
+
+origin: servants-of-the-betrayer-092
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 'Assassination Hero Required Ongoing : When you remove one or more Combo cards from your graveyard to play a Finishing Move, your hero deals that much melee damage to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Assassination Talent

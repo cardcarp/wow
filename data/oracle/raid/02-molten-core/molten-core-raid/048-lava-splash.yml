@@ -1,0 +1,22 @@
+name: Lava Splash
+
+origin: molten-core-raid-048
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+rule:
+  - type: Ability
+    text: Ragnaros deals 1 fire damage to each hero and ally in target player's party for each rune you have.
+
+regulation:
+
+errata: []
+
+temp: Ragnaros

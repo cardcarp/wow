@@ -1,0 +1,25 @@
+name: Totemic Cleanse
+
+origin: battle-of-the-aspects-treasure-025
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Shaman
+
+instant: Play only if you control a Totem. Destroy target ability.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

@@ -1,0 +1,25 @@
+name: Restitution
+
+origin: icecrown-051
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: Put target ally with Assault , Mend , or Protector and cost less than or equal to the number of resources you control from your graveyard into play. Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Holy

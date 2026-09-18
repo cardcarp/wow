@@ -1,0 +1,29 @@
+name: Hypnotic Blade
+
+origin: heroes-of-azeroth-327
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 3 , , Exhaust your hero → Target player discards a card. Use only on your turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

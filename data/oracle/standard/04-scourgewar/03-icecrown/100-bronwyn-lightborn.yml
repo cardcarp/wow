@@ -1,0 +1,30 @@
+name: Bronwyn Lightborn
+
+origin: icecrown-100
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Frost Resistance At the start of your turn, you may destroy this ally. If you do, destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

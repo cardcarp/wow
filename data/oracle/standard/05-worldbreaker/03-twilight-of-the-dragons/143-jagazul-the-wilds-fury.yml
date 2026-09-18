@@ -1,0 +1,30 @@
+name: Jaga'zul the Wilds Fury
+
+origin: twilight-of-the-dragons-143
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 5
+
+health: 1
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally is destroyed, you may put him from the graveyard into his owner's resource row face down and exhausted.
+
+regulation:
+
+errata: []
+
+temp: Troll Druid

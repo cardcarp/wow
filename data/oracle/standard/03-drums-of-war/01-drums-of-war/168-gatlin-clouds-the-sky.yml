@@ -1,0 +1,30 @@
+name: Gatlin Clouds-the-Sky
+
+origin: drums-of-war-168
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 2
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Gatlin has Long-Range while attacking exhausted heroes and allies.
+
+regulation:
+
+errata: []
+
+temp: Tauren Hunter

@@ -1,0 +1,27 @@
+name: Essence Gatherer
+
+origin: servants-of-the-betrayer-236
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: When an opposing ally is destroyed, you may pay 1 . If you do, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Wand

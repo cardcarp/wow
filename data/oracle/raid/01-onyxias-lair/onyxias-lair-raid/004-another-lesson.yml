@@ -1,0 +1,22 @@
+name: Another Lesson
+
+origin: onyxias-lair-raid-004
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+rule:
+  - type: Ability
+    text: When Onyxia deals combat damage to an ally this turn, ready Onyxia.
+
+regulation:
+
+errata: []
+
+temp: ''

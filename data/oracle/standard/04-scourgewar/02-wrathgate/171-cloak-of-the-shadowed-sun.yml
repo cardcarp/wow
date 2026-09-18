@@ -1,0 +1,26 @@
+name: Cloak of the Shadowed Sun
+
+origin: wrathgate-171
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Druid
+  - Warrior
+
+rule:
+  - type: Ability
+    text: 'Your hero has Protector . Hero : Opposing allies have -1 ATK. Hero : Opposing allies have -1 .'
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

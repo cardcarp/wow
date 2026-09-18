@@ -1,0 +1,20 @@
+name: The Vainglorious
+
+origin: war-of-the-ancients-238
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Pay 2 to complete this quest. Reward : Your hero heals 3 damage from itself.'
+
+regulation:
+
+errata: []
+
+temp: ''

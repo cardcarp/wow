@@ -1,0 +1,26 @@
+name: Nurturing Spirit
+
+origin: wrathgate-100
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Druid
+  - Priest
+
+rule:
+  - type: Ability
+    text: 'Attach to your hero. Ongoing : Attached hero has Mend 1 for each Druid and Priest you control.'
+
+regulation:
+
+errata: []
+
+temp: Restoration Holy

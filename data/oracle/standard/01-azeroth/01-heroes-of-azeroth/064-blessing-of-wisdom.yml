@@ -1,0 +1,25 @@
+name: Blessing of Wisdom
+
+origin: heroes-of-azeroth-064
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Paladin
+
+instant: 'Attach to target hero or ally. Ongoing : Attached character has " → Draw a card."'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy Blessing

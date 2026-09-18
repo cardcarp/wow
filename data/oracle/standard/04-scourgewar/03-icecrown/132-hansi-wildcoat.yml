@@ -1,0 +1,30 @@
+name: Hansi Wildcoat
+
+origin: icecrown-132
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector Heroes and allies you control with Mend also have Assault 1 .
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

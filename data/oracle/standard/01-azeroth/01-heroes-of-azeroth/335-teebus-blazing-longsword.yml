@@ -1,0 +1,28 @@
+name: Teebus Blazing Longsword
+
+origin: heroes-of-azeroth-335
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 2 → Teebu's Blazing Longsword has +1 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

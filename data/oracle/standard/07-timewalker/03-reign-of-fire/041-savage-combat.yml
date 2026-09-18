@@ -1,0 +1,25 @@
+name: Savage Combat
+
+origin: reign-of-fire-041
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Combat Talent This turn, when your hero deals combat damage to a hero, it also deals that much melee damage to each opposing ally.
+
+regulation:
+
+errata: []
+
+temp: Combat

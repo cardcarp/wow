@@ -1,0 +1,20 @@
+name: Timbermaw Ally
+
+origin: fires-of-outland-241
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Remove three ability cards in your graveyard from the game and pay 1 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,25 @@
+name: Victoria Jaton
+
+origin: through-the-dark-portal-008
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 30
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Victoria Jaton → Weapon cards in your hand are instant this turn.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

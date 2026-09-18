@@ -1,0 +1,25 @@
+name: Dark Penance
+
+origin: scourgewar-068
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: Target opponent discards a random card and destroys a random ally he controls.
+
+regulation:
+
+errata: []
+
+temp: Shadow

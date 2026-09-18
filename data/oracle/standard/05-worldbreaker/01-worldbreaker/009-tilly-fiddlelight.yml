@@ -1,0 +1,28 @@
+name: Tilly Fiddlelight
+
+origin: worldbreaker-009
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 26
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 3 → Flip Tilly
+  - type: Ability
+    position: Reverse
+    text: Each ally you control has Mend 1 .
+
+regulation:
+
+errata: []
+
+temp: Gnome Priest

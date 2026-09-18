@@ -1,0 +1,30 @@
+name: Orderkeeper Henley
+
+origin: servants-of-the-betrayer-148
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 5
+
+health: 3
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Opponents play 2 more to play abilities.
+
+regulation:
+
+errata: []
+
+temp: Human Mage

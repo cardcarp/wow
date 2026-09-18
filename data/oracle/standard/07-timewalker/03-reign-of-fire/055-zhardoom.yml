@@ -1,0 +1,33 @@
+name: Zhar'doom
+
+origin: reign-of-fire-055
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Shadow
+
+class:
+  - Warlock
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: 1 , Remove three ability cards in your graveyard from the game → This ally deals 3 shadow damage to target hero and heals 3 damage from your hero.
+
+regulation:
+
+errata: []
+
+temp: Felhunter Demon

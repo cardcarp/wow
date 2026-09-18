@@ -1,0 +1,25 @@
+name: Puncture
+
+origin: march-of-the-legion-118
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Destroy target ally or equipment.
+
+regulation:
+
+errata: []
+
+temp: Protection

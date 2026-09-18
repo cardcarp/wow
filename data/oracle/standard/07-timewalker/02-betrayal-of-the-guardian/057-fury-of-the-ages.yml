@@ -1,0 +1,25 @@
+name: Fury of the Ages
+
+origin: betrayal-of-the-guardian-057
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '7'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: 'Rift Ongoing : Allies you control have Ferocity .'
+
+regulation:
+
+errata: []
+
+temp: Fury

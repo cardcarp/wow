@@ -1,0 +1,30 @@
+name: Muruna the Savage
+
+origin: wrathgate-143
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 5
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector Allies you control have +2 while you control a Form.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

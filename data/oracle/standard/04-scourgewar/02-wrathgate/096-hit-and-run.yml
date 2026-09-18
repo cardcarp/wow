@@ -1,0 +1,26 @@
+name: Hit and Run
+
+origin: wrathgate-096
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Shaman
+  - Rogue
+
+instant: Exhaust up to X target opposing cards, where X is the number of Rogues and Shaman you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Combat Enhancement Combo

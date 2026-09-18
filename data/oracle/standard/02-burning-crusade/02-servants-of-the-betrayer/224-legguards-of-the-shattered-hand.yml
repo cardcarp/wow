@@ -1,0 +1,26 @@
+name: Legguards of the Shattered Hand
+
+origin: servants-of-the-betrayer-224
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: → Destroy target ally with damage.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

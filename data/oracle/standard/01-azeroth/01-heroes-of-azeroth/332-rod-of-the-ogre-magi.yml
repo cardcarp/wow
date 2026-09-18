@@ -1,0 +1,29 @@
+name: Rod of the Ogre Magi
+
+origin: heroes-of-azeroth-332
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 2 , , Exhaust your hero → Your hero deals 1 damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

@@ -1,0 +1,25 @@
+name: Sepirion the Poised
+
+origin: fields-of-honor-016
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 3 , Flip Sepirion → Ready Sepirion and one of your weapons.
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

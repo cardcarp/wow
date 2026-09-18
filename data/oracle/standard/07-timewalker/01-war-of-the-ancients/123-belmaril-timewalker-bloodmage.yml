@@ -1,0 +1,30 @@
+name: Belmaril, Timewalker Bloodmage
+
+origin: war-of-the-ancients-123
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '7'
+
+damage: 7
+
+health: 7
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: At the start of your turn, you may put a token copy of another target ally you control into play.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

@@ -1,0 +1,25 @@
+name: Krog the Deathfist
+
+origin: wrathgate-014
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 29
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: "On your turn: Flip Krog, discard a Death Knight → Put target equipment on the bottom of its owner's deck."
+
+regulation:
+
+errata: []
+
+temp: Orc Death Knight

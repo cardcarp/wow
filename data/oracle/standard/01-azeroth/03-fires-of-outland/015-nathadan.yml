@@ -1,0 +1,25 @@
+name: Nathadan
+
+origin: fires-of-outland-015
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 29
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 3 , Flip Nathadan → If target ally in your party is defending, remove it from combat.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

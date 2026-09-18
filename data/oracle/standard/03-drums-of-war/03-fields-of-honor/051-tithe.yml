@@ -1,0 +1,25 @@
+name: Tithe
+
+origin: fields-of-honor-051
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: Ready target opposing ally. This turn, it's a Protector and you control it.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Shadow

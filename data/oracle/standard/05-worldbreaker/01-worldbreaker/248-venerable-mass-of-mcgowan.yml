@@ -1,0 +1,28 @@
+name: Venerable Mass of McGowan
+
+origin: worldbreaker-248
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+  - Death Knight
+  - Shaman
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 'While your hero is attacking an ally, this equipment has +2 ATK for each heirloom counter on it. Stash : Add an heirloom counter to target equipment you control.'
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

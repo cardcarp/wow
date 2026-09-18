@@ -1,0 +1,22 @@
+name: First to Fall
+
+origin: through-the-dark-portal-141
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+instant: Destroy target protecting ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

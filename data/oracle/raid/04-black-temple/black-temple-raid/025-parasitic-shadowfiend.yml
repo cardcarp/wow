@@ -1,0 +1,22 @@
+name: Parasitic Shadowfiend
+
+origin: black-temple-raid-025
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+instant: Interrupt target ability, ally, or equipment card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Black Temple

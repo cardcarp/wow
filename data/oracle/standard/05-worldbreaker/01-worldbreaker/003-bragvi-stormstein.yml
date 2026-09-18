@@ -1,0 +1,28 @@
+name: Bragvi Stormstein
+
+origin: worldbreaker-003
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 4 → Flip Bragvi
+  - type: Ability
+    position: Reverse
+    text: When an opposing hero is dealt nature ( ) damage, Bragvi may deal 1 nature damage to target ally.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Shaman

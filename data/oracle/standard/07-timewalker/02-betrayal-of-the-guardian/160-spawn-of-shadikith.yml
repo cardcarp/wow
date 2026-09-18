@@ -1,0 +1,30 @@
+name: Spawn of Shadikith
+
+origin: betrayal-of-the-guardian-160
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 5
+
+combat: Nature
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: 4 → Exhaust all opposing heroes and allies.
+
+regulation:
+
+errata: []
+
+temp: Bat Beast

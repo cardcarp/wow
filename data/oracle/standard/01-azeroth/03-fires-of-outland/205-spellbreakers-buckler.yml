@@ -1,0 +1,26 @@
+name: Spellbreakers Buckler
+
+origin: fires-of-outland-205
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 1 , , Discard an equipment card → Interrupt target ability card.
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

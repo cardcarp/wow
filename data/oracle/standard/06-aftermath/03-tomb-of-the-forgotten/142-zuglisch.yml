@@ -1,0 +1,28 @@
+name: Zuglisch
+
+origin: tomb-of-the-forgotten-142
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 6
+
+health: 2
+
+combat: Melee
+
+type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ogre Warrior

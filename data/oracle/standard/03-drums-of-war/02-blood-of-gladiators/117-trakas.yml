@@ -1,0 +1,30 @@
+name: Trakas
+
+origin: blood-of-gladiators-117
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 3 , Destroy Trakas → Destroy target ally or equipment.
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

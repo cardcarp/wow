@@ -1,0 +1,30 @@
+name: Grumdak, Herald of the Hunt
+
+origin: throne-of-the-tides-111
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 'Empower Hunter : When this ally enters play, if you control another Hunter hero or ally, this ally has +2 ATK, Ferocity , and Long-Range this turn.'
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

@@ -1,0 +1,25 @@
+name: Furor
+
+origin: the-hunt-for-illidan-029
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: 'Restoration Hero Required Ongoing : When you play a Form, you may ready up to X of your resources, where X is its cost.'
+
+regulation:
+
+errata: []
+
+temp: Restoration Talent

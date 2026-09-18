@@ -1,0 +1,34 @@
+name: The Last Relic of Argus
+
+origin: timewalkers-crafting-006
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: You pay 1 less to complete quests. When you complete a quest, your hero heals 3 damage from itself.
+
+regulation:
+
+errata: []
+
+temp: Item

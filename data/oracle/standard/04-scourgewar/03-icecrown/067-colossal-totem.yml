@@ -1,0 +1,25 @@
+name: Colossal Totem
+
+origin: icecrown-067
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: "Ongoing : If a friendly hero or ally would be dealt damage, it's dealt to this ability instead. (Totems can be attacked or targeted like allies.)"
+
+regulation:
+
+errata: []
+
+temp: Enhancement 10

@@ -1,0 +1,20 @@
+name: Far from the Nest
+
+origin: twilight-of-the-dragons-210
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'On your turn: Pay 6 to complete this quest. Reward : Put target ally with cost 3 or less from your graveyard into play.'
+
+regulation:
+
+errata: []
+
+temp: ''

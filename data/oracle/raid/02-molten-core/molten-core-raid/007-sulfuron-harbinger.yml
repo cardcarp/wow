@@ -1,0 +1,26 @@
+name: Sulfuron Harbinger
+
+origin: molten-core-raid-007
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 10
+
+rule:
+  - type: Ability
+    position: Front
+    text: Sulfuron Harbinger has +4 ATK while attacking and can attack only heroes. → Flip Sulfuron Harbinger. Use only on your turn.
+  - type: Ability
+    position: Reverse
+    text: Sulfuron Harbinger has +8 ATK while attacking and can attack only heroes.
+
+regulation:
+
+errata: []
+
+temp: Flamewaker

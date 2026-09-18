@@ -1,0 +1,26 @@
+name: Doomplate Shoulderguards
+
+origin: the-hunt-for-illidan-208
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Each of your other equipment is Untargetable while you have five or more equipment.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

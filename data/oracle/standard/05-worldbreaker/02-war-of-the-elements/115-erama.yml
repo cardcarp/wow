@@ -1,0 +1,28 @@
+name: Erama
+
+origin: war-of-the-elements-115
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 6
+
+health: 5
+
+combat: Holy
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

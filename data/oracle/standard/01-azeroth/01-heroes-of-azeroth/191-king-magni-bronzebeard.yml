@@ -1,0 +1,30 @@
+name: King Magni Bronzebeard
+
+origin: heroes-of-azeroth-191
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '9'
+
+damage: 6
+
+health: 8
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: At the end of each turn, put an Alliance Dwarf Warrior ally token with 1 ATK and 1 health into play. Dwarves in your party have Protector .
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior

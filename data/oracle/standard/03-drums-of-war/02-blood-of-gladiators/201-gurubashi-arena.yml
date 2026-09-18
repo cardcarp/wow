@@ -1,0 +1,20 @@
+name: Gurubashi Arena
+
+origin: blood-of-gladiators-201
+
+layout: Standard
+
+category:
+  - Location
+
+trait:
+
+rule:
+  - type: Ability
+    text: → Target ally in your party is an Arena ally this turn.
+
+regulation:
+
+errata: []
+
+temp: Arena

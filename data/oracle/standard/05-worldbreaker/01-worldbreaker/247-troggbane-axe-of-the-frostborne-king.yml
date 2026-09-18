@@ -1,0 +1,27 @@
+name: Troggbane, Axe of the Frostborne King
+
+origin: worldbreaker-247
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: x → This equipment has +X ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

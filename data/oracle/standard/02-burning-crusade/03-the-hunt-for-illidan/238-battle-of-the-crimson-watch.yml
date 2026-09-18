@@ -1,0 +1,20 @@
+name: Battle of the Crimson Watch
+
+origin: the-hunt-for-illidan-238
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Pay 3 or more to complete this quest. Reward : Draw a card for each 3 paid this way.'
+
+regulation:
+
+errata: []
+
+temp: ''

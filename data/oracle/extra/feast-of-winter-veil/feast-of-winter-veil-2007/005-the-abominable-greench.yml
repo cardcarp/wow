@@ -1,0 +1,28 @@
+name: The Abominable Greench
+
+origin: feast-of-winter-veil-2007-005
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '9'
+
+damage: 7
+
+health: 5
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: If an opponent would draw a card, you draw one instead.
+
+regulation:
+
+errata: []
+
+temp: Yeti

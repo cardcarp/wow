@@ -1,0 +1,25 @@
+name: Aspect of the Viper
+
+origin: through-the-dark-portal-031
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '8'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: 'Ongoing : At the end of your turn, you may ready all of your resources.'
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery

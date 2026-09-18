@@ -1,0 +1,22 @@
+name: Fel Ruination
+
+origin: magtheridons-lair-raid-013
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+rule:
+  - type: Ability
+    text: Play only if seven or more Bloods are in play. Raiding players destroy an ability, ally, or equipment they control for each Blood in play.
+
+regulation:
+
+errata: []
+
+temp: ''

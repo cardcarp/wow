@@ -1,0 +1,28 @@
+name: Infinite Warden
+
+origin: caverns-of-time-raid-027
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+type: Boss
+
+rule:
+  - type: Ability
+    text: This ally attacks the Raiding ally with the lowest remaining health if able.
+
+regulation:
+
+errata: []
+
+temp: Infinite Dragonkin

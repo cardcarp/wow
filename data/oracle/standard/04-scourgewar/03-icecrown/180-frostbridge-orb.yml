@@ -1,0 +1,26 @@
+name: Frostbridge Orb
+
+origin: icecrown-180
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '0'
+
+class:
+  - Druid
+  - Mage
+
+rule:
+  - type: Ability
+    text: 'Hero : Cards you control with Mend have an additional Mend 1 . Hero : Cards you control with Assault have an additional Assault 1 .'
+
+regulation:
+
+errata: []
+
+temp: Item Off-Hand

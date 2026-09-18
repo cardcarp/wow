@@ -1,0 +1,25 @@
+name: Hymn of Hope
+
+origin: war-of-the-elements-066
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: Your hero heals 3 damage from each friendly hero and ally. For each character healed this way, ready a resource you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

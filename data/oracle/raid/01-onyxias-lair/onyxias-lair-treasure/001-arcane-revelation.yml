@@ -1,0 +1,25 @@
+name: Arcane Revelation
+
+origin: onyxias-lair-treasure-001
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: Each friendly player draws a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

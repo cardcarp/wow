@@ -1,0 +1,30 @@
+name: Nyala Shadefury
+
+origin: war-of-the-ancients-105
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Elusive Other Night Elf allies you control have Assault 2 .
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

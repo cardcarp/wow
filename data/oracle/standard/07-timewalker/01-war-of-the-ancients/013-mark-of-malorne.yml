@@ -1,0 +1,25 @@
+name: Mark of Malorne
+
+origin: war-of-the-ancients-013
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: 'Attach to target ally. Ongoing : Attached ally has +2 / +3.'
+
+regulation:
+
+errata: []
+
+temp: Restoration Attachment

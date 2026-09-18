@@ -1,0 +1,30 @@
+name: Darkshire Deathsworn
+
+origin: war-of-the-ancients-085
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Human Death Knight

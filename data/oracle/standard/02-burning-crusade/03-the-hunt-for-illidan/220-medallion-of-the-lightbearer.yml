@@ -1,0 +1,33 @@
+name: Medallion of the Lightbearer
+
+origin: the-hunt-for-illidan-220
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Aldor Reputation Heroes and allies in your party with inspire are also Protector s.
+
+regulation:
+
+errata: []
+
+temp: Item Neck

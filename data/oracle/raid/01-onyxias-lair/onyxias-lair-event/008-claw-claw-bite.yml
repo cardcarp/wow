@@ -1,0 +1,22 @@
+name: Claw, Claw, Bite
+
+origin: onyxias-lair-event-008
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: Onyxia deals 1 melee damage to each hero and ally in target player's party.
+
+regulation:
+
+errata: []
+
+temp: ''

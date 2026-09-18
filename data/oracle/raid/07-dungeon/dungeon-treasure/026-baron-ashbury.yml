@@ -1,0 +1,28 @@
+name: Baron Ashbury
+
+origin: dungeon-treasure-026
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 1
+
+health: 5
+
+combat: Shadow
+
+rule:
+  - type: Ability
+    text: When Ashbury enters play, he deals shadow damage to each opposing ally equal to that ally's remaining -1.
+
+regulation:
+
+errata: []
+
+temp: Undead Priest

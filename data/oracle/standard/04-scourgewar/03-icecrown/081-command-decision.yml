@@ -1,0 +1,25 @@
+name: Command Decision
+
+origin: icecrown-081
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: 'Ongoing : 1 , → Target ally you control has Protector this turn.'
+
+regulation:
+
+errata: []
+
+temp: Protection

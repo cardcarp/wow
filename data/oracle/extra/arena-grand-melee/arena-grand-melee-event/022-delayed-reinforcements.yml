@@ -1,0 +1,20 @@
+name: Delayed Reinforcements
+
+origin: arena-grand-melee-event-022
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Ongoing : If an ally card would enter play, remove it from the game instead. When Delayed Reinforcements leaves play, the owner of each card removed this way puts that card into his party.'
+
+regulation:
+
+errata: []
+
+temp: ''

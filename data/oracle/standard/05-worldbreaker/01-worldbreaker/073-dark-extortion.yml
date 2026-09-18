@@ -1,0 +1,25 @@
+name: Dark Extortion
+
+origin: worldbreaker-073
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: Target player chooses an ally he controls. Gain control of that ally.
+
+regulation:
+
+errata: []
+
+temp: Shadow

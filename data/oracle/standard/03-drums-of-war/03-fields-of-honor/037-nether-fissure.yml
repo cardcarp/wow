@@ -1,0 +1,25 @@
+name: Nether Fissure
+
+origin: fields-of-honor-037
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Mage
+
+instant: Nether Fissure can't be interrupted. Interrupt target card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

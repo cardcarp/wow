@@ -1,0 +1,25 @@
+name: Boundless Agony
+
+origin: blood-of-gladiators-174
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Damage can't be healed. Damage is unpreventable.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

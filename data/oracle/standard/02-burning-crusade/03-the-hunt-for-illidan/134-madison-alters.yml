@@ -1,0 +1,30 @@
+name: Madison Alters
+
+origin: the-hunt-for-illidan-134
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 3
+
+health: 3
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Untargetable Madison has +1 ATK / +1 health for each hero in play.
+
+regulation:
+
+errata: []
+
+temp: Human Mage

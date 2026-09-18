@@ -1,0 +1,30 @@
+name: Child of Goldrinn
+
+origin: war-of-the-ancients-168
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 1
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: Ferocity Stealth
+
+regulation:
+
+errata: []
+
+temp: Wolf Beast

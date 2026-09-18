@@ -1,0 +1,30 @@
+name: Hadrack the Devoted
+
+origin: throne-of-the-tides-112
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 5
+
+health: 2
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: If this ally would be dealt damage, prevent all but 1 of it.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

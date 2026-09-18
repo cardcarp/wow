@@ -1,0 +1,25 @@
+name: Dark Transformation
+
+origin: crown-of-the-heavens-007
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: 'Unholy Talent Attach to target Ghoul. Ongoing : Attached Ghoul has +7 / +7. When attached Ghoul deals damage to an opposing hero, destroy target opposing ally.'
+
+regulation:
+
+errata: []
+
+temp: Unholy Attachment

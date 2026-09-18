@@ -1,0 +1,28 @@
+name: Emerald Emissary
+
+origin: worldbreaker-205
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Nature
+
+rule:
+  - type: Ability
+    text: You pay 1 less to complete quests for each Druid and Hunter you control.
+
+regulation:
+
+errata: []
+
+temp: Green Dragonkin

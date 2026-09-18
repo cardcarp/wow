@@ -1,0 +1,26 @@
+name: Claws of Torment
+
+origin: alliance-shaman-2011-027
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Shaman
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Your hero has Dual Wield .
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Fist

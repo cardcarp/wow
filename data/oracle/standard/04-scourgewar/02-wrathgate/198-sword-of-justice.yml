@@ -1,0 +1,27 @@
+name: Sword of Justice
+
+origin: wrathgate-198
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: This weapon enters play with a +1 ATK counter for each card in your hand. Remove a +1 ATK counter → Exhaust target ally.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Sword

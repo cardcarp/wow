@@ -1,0 +1,22 @@
+name: Rune of Mazj
+
+origin: molten-core-raid-015
+
+layout: Standard
+
+category:
+  - Misc
+
+trait:
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: When an opponent plays an ability card, interrupt it.
+
+regulation:
+
+errata: []
+
+temp: Shazzrah Boss 6

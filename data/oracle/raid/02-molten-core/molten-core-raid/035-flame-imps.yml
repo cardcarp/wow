@@ -1,0 +1,24 @@
+name: Flame Imps
+
+origin: molten-core-raid-035
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Elemental Minion

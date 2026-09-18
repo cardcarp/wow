@@ -1,0 +1,28 @@
+name: Azure Emissary
+
+origin: war-of-the-elements-156
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Arcane
+
+rule:
+  - type: Ability
+    text: When you play an ability, this ally deals 1 arcane damage to target hero for each Mage and Warlock you control.
+
+regulation:
+
+errata: []
+
+temp: Blue Dragonkin

@@ -1,0 +1,30 @@
+name: Orc Peon
+
+origin: betrayal-of-the-guardian-104
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally enters play, you may turn a face up resource you control face down. If you do, target ally has +2 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Orc Peon

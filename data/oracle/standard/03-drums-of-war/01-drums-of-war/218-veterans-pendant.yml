@@ -1,0 +1,33 @@
+name: Veterans Pendant
+
+origin: drums-of-war-218
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: If you win this game, you decide who goes first next game.
+
+regulation:
+
+errata: []
+
+temp: Item Neck

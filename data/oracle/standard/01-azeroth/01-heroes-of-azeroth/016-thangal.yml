@@ -1,0 +1,25 @@
+name: Thangal
+
+origin: heroes-of-azeroth-016
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 3 , Flip Thangal → Ready Thangal. Use only while he's in bear form.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

@@ -1,0 +1,28 @@
+name: Lupine Spectre
+
+origin: shadowfang-keep-012
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+type: Dungeon
+
+rule:
+  - type: Ability
+    text: 'Ferocity Level 3+ : When this ally enters play, exhaust all opposing allies.'
+
+regulation:
+
+errata: []
+
+temp: Ghost Wolf

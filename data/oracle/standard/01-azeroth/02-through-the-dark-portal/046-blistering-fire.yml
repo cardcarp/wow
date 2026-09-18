@@ -1,0 +1,25 @@
+name: Blistering Fire
+
+origin: through-the-dark-portal-046
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: Your hero deals 3 fire damage to target hero.
+
+regulation:
+
+errata: []
+
+temp: Fire

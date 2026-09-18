@@ -1,0 +1,22 @@
+name: Sigil of the Legion
+
+origin: betrayal-of-the-guardian-061
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+rule:
+  - type: Ability
+    text: 'Attach to target ally. Ongoing : Attached ally has +1 / +1, or +2 / +2 if its a Demon.'
+
+regulation:
+
+errata: []
+
+temp: Attachment

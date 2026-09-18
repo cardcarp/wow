@@ -1,0 +1,25 @@
+name: Taste for Blood
+
+origin: the-hunt-for-illidan-112
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+
+instant: Draw a card for each damaged opposing hero and ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Fury

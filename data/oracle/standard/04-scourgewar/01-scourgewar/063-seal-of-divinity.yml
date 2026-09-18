@@ -1,0 +1,25 @@
+name: Seal of Divinity
+
+origin: scourgewar-063
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: 'Ongoing : When your hero deals combat damage with a weapon, prevent all damage that would be dealt to target friendly ally this turn.'
+
+regulation:
+
+errata: []
+
+temp: Protection

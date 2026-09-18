@@ -1,0 +1,24 @@
+name: Infest
+
+origin: assault-on-icecrown-citadel-raid-027
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+type: Boss
+
+rule:
+  - type: Ability
+    text: The Lich King deals 3 shadow damage to target ally. When that ally is destroyed this turn, its controller discards a card.
+
+regulation:
+
+errata: []
+
+temp: ''

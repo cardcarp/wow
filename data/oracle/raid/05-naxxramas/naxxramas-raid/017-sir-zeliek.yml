@@ -1,0 +1,32 @@
+name: Sir Zeliek
+
+origin: naxxramas-raid-017
+
+layout: Standard
+
+category:
+  - Token
+
+trait:
+
+damage: 3
+
+health: 10
+
+combat: Holy
+
+type: Ally
+
+rule:
+  - type: Ability
+    position: Front
+    text: Long-Range At the end of your turn, the raid leader chooses a raiding hero. This ally deals 5 unpreventable holy damage to it.
+  - type: Ability
+    position: Reverse
+    text: Long-Range At the end of your turn, this ally deals 5 unpreventable holy damage to each raiding hero.
+
+regulation:
+
+errata: []
+
+temp: Human Death Knight Horseman

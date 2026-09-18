@@ -1,0 +1,25 @@
+name: Monstrous Boon
+
+origin: crown-of-the-heavens-015
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: Reveal cards from the top of your deck equal to the number of Monster heroes and allies you control, then place them into your resource row exhausted as additional resources.
+
+regulation:
+
+errata: []
+
+temp: Balance

@@ -1,0 +1,20 @@
+name: Critter Creation
+
+origin: arena-grand-melee-event-020
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Ongoing : All face-down resources are also Critter allies with 1 ATK / 1 health, Elusive , and Untargetable .'
+
+regulation:
+
+errata: []
+
+temp: ''

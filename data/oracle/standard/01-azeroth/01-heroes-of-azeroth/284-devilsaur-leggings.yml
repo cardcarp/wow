@@ -1,0 +1,27 @@
+name: Devilsaur Leggings
+
+origin: heroes-of-azeroth-284
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Druid
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: When your hero deals combat damage to an ally, destroy that ally.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

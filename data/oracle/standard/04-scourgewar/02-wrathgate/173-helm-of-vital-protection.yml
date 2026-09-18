@@ -1,0 +1,27 @@
+name: Helm of Vital Protection
+
+origin: wrathgate-173
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: Weapons you control have +1 ATK. Other armor you control have +1 .
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

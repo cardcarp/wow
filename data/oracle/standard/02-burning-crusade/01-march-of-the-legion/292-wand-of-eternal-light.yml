@@ -1,0 +1,27 @@
+name: Wand of Eternal Light
+
+origin: march-of-the-legion-292
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: Damage that would be dealt with this weapon is unpreventable.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Wand

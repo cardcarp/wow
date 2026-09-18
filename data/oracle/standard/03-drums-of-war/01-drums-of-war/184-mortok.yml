@@ -1,0 +1,30 @@
+name: Mortok
+
+origin: drums-of-war-184
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Mortok can attack only exhausted heroes and allies.
+
+regulation:
+
+errata: []
+
+temp: Orc Rogue

@@ -1,0 +1,25 @@
+name: Aggressive Infiltration
+
+origin: scourgewar-077
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Your hero deals 3 melee damage to each exhausted opposing hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Combat Combo

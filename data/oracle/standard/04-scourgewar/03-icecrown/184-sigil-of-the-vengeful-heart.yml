@@ -1,0 +1,25 @@
+name: Sigil of the Vengeful Heart
+
+origin: icecrown-184
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: 1 , → Ready target Ghoul. When you play a Weapon, ready this item.
+
+regulation:
+
+errata: []
+
+temp: Item Relic

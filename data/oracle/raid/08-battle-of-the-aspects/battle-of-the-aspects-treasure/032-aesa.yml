@@ -1,0 +1,30 @@
+name: Aesa
+
+origin: battle-of-the-aspects-treasure-032
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: When this ally enters play, you may reveal an ally from your hand. This ally heals damage from your hero equal to the cost of that revealed ally.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

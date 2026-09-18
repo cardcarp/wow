@@ -1,0 +1,28 @@
+name: Merithra
+
+origin: twilight-of-the-dragons-167
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Nature
+
+rule:
+  - type: Ability
+    text: When a resource you control is turned face down, this ally deals nature damage to target hero or ally equal to the number of Green Dragonkin you control.
+
+regulation:
+
+errata: []
+
+temp: Green Dragonkin

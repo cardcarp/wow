@@ -1,0 +1,29 @@
+name: Karaborian Talisman
+
+origin: magtheridons-lair-treasure-012
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: When you complete a quest, you may destroy Karaborian Talisman. If you do, turn that quest face up.
+
+regulation:
+
+errata: []
+
+temp: Item Off-Hand

@@ -1,0 +1,30 @@
+name: Gnash
+
+origin: throne-of-the-tides-212
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 4
+
+health: 6
+
+combat: Frost
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: When Gnash enters play, destroy all allies with cost 3 or less.
+
+regulation:
+
+errata: []
+
+temp: Sea Giant Warrior

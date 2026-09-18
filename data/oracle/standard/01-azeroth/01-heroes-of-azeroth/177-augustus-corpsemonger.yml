@@ -1,0 +1,30 @@
+name: Augustus Corpsemonger
+
+origin: heroes-of-azeroth-177
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 3
+
+health: 4
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: ', Remove three ally cards in your graveyard from the game → Destroy target ally.'
+
+regulation:
+
+errata: []
+
+temp: Human Warlock

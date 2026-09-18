@@ -1,0 +1,30 @@
+name: Torr'nag
+
+origin: crown-of-the-heavens-139
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '7'
+
+damage: 6
+
+health: 6
+
+combat: Frost
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: Enrage When you reveal an ally this way, this ally has +2 ATK and Ferocity this turn. Smash
+
+regulation:
+
+errata: []
+
+temp: Ogre Shaman

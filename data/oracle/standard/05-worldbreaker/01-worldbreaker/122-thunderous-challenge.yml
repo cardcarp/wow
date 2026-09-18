@@ -1,0 +1,25 @@
+name: Thunderous Challenge
+
+origin: worldbreaker-122
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Warrior
+
+instant: Your hero deals 2 melee damage to each opposing hero and ally. A character dealt damage this way has -2 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

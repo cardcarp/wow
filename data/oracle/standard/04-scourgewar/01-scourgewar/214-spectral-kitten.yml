@@ -1,0 +1,28 @@
+name: Spectral Kitten
+
+origin: scourgewar-214
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: allies you control have +1 ATK. allies you control have +1 . Other non- , non- allies you control have +1 / +1.
+
+regulation:
+
+errata: []
+
+temp: Tiger

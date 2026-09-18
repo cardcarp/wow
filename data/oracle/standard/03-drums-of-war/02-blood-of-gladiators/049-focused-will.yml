@@ -1,0 +1,25 @@
+name: Focused Will
+
+origin: blood-of-gladiators-049
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '7'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: 'Discipline Hero Required Ongoing : At the start of your turn, switch all damage on your hero with the damage on target opposing hero.'
+
+regulation:
+
+errata: []
+
+temp: Discipline Talent

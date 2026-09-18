@@ -1,0 +1,28 @@
+name: Magistrix Larynna
+
+origin: servants-of-the-betrayer-201
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '7'
+
+damage: 3
+
+health: 8
+
+combat: Fire
+
+rule:
+  - type: Ability
+    text: 'Scryer Reputation Sabotage: Graveyard When Layrnna sabotages a graveyard, she deals 1 fire damage to target hero or ally for each card in it.'
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

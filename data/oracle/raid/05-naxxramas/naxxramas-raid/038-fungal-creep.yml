@@ -1,0 +1,20 @@
+name: Fungal Creep
+
+origin: naxxramas-raid-038
+
+layout: Standard
+
+category:
+  - Misc
+
+trait:
+
+rule:
+  - type: Ability
+    text: "Ongoing : If a hero or ally in attached hero's party would deal or heal damage, it deals or heals that much +2 instead. When Loatheb is destroyed, destroy Fungal Creep."
+
+regulation:
+
+errata: []
+
+temp: Token

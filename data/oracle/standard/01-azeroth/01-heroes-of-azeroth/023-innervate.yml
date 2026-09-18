@@ -1,0 +1,25 @@
+name: Innervate
+
+origin: heroes-of-azeroth-023
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Druid
+
+instant: Target player draws three cards.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

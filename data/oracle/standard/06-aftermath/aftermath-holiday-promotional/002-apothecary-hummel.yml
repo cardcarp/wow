@@ -1,0 +1,28 @@
+name: Apothecary Hummel
+
+origin: aftermath-holiday-promotional-002
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 1
+
+health: 1
+
+combat: Nature
+
+rule:
+  - type: Ability
+    text: Hummel has Resistance to each opposing ally's damage type.
+
+regulation:
+
+errata: []
+
+temp: Undead Apothecary

@@ -1,0 +1,22 @@
+name: Focused Assault
+
+origin: battle-of-the-aspects-raid-029
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+type: Boss
+
+rule:
+  - type: Ability
+    text: Deathwing and allies he controls attack the Raiding ally with the lowest remaining health if able this turn. Flip an additional Deathwing card.
+
+regulation:
+
+errata: []
+
+temp: ''

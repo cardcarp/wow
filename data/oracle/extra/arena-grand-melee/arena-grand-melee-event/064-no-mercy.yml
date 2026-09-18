@@ -1,0 +1,20 @@
+name: No Mercy
+
+origin: arena-grand-melee-event-064
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+rule:
+  - type: Ability
+    text: "Ongoing : Allies can attack only allies with lower cost. (They can't attack heroes.) Heroes can attack only heroes with more damage. (They can't attack allies.)"
+
+regulation:
+
+errata: []
+
+temp: ''

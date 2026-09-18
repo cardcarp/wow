@@ -1,0 +1,30 @@
+name: Aaron Goodchilde
+
+origin: tomb-of-the-forgotten-073
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 1
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Eternal , Protector When this ally is destroyed, your hero may deal 1 melee damage to target damaged ally for each resource you control.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

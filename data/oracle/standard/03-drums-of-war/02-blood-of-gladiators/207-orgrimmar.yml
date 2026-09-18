@@ -1,0 +1,22 @@
+name: Orgrimmar
+
+origin: blood-of-gladiators-207
+
+layout: Standard
+
+category:
+  - Location
+
+trait:
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Orc Hero Required → Target Orc in your party has Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: City

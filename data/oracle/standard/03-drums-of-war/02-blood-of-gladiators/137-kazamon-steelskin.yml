@@ -1,0 +1,30 @@
+name: Kazamon Steelskin
+
+origin: blood-of-gladiators-137
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 5
+
+health: 1
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Orc Hero Required Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness Hardiness
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

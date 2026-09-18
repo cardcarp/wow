@@ -1,0 +1,22 @@
+name: Assault on Blackrock Spire
+
+origin: betrayal-of-the-guardian-192
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 'If you control three or more allies: Pay 1 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

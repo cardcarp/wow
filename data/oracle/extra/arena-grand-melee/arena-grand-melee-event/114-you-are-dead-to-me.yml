@@ -1,0 +1,20 @@
+name: '"You Are Dead to Me!"'
+
+origin: arena-grand-melee-event-114
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Ongoing : When a card is destroyed, its owner may rip it up. If he does, he may draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,25 @@
+name: Hammer of the Zealot
+
+origin: throne-of-the-tides-057
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: Exhaust target ally. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

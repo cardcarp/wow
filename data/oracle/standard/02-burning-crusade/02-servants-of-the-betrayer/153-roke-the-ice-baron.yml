@@ -1,0 +1,30 @@
+name: Roke the Ice Baron
+
+origin: servants-of-the-betrayer-153
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 2
+
+health: 1
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Elusive allies you control have " → Target ally can't attack this turn."
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

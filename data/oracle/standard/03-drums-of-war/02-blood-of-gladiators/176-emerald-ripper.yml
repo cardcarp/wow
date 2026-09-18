@@ -1,0 +1,26 @@
+name: Emerald Ripper
+
+origin: blood-of-gladiators-176
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Your hero has Dual Wield . 3 → Emerald Ripper has +X ATK this turn, where X is its ATK.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

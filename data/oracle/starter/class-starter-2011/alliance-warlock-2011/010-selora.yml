@@ -1,0 +1,31 @@
+name: Selora
+
+origin: alliance-warlock-2011-010
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Shadow
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: Elusive When this ally enters play, target ally has +1 / -1 this turn.
+
+regulation:
+
+errata: []
+
+temp: Succubus Demon

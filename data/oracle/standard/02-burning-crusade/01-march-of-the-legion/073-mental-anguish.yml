@@ -1,0 +1,25 @@
+name: Mental Anguish
+
+origin: march-of-the-legion-073
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: Target player discards two cards.
+
+regulation:
+
+errata: []
+
+temp: Shadow

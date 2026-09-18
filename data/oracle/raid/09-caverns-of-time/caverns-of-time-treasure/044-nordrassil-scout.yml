@@ -1,0 +1,30 @@
+name: Nordrassil Scout
+
+origin: caverns-of-time-treasure-044
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: When this ally enters play, you pay 3 less to complete your next quest this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

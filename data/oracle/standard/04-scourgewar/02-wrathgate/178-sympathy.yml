@@ -1,0 +1,27 @@
+name: Sympathy
+
+origin: wrathgate-178
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: If an ally you control would be dealt damage, 1 of it is dealt to your hero instead.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

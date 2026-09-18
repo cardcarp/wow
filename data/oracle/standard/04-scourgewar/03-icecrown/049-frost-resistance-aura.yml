@@ -1,0 +1,25 @@
+name: Frost Resistance Aura
+
+origin: icecrown-049
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+
+instant: 'Ongoing : Friendly allies have Frost Resistance while ready.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

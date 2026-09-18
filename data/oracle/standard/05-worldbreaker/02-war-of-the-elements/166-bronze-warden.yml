@@ -1,0 +1,28 @@
+name: Bronze Warden
+
+origin: war-of-the-elements-166
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 2
+
+combat: Arcane
+
+rule:
+  - type: Ability
+    text: Protector When this ally enters play, if you control no ready resources, he may heal 3 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Bronze Dragonkin

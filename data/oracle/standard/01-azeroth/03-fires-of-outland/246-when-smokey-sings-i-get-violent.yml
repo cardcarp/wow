@@ -1,0 +1,20 @@
+name: When Smokey Sings, I Get Violent
+
+origin: fires-of-outland-246
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'During your turn, destroy When Smokey Sings, I Get Violent and pay 5 to complete this quest. Reward : Target opponent destroys one of his resources.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,25 @@
+name: Cleanse
+
+origin: heroes-of-azeroth-065
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Paladin
+
+instant: Destroy any number of abilities attached to target friendly hero or ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

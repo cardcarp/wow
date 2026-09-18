@@ -1,0 +1,24 @@
+name: War Stomp
+
+origin: through-the-dark-portal-137
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+faction: Horde
+
+instant: Tauren Hero Required Exhaust all opposing heroes and allies.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,22 @@
+name: Spellweaving
+
+origin: gift-of-the-aspects-006
+
+layout: Standard
+
+category:
+  - Misc
+
+trait:
+
+type: Gift
+
+rule:
+  - type: Ability
+    text: 'If Deathwing controlled two or more Bosses at the same time, gain this Gift. Use this Gift: Destroy target damaged Boss ally.'
+
+regulation:
+
+errata: []
+
+temp: ''

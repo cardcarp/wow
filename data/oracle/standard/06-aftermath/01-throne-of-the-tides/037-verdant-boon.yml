@@ -1,0 +1,25 @@
+name: Verdant Boon
+
+origin: throne-of-the-tides-037
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: Put a 1 / 1 Treant ally token into play, or three if you control an ally token.
+
+regulation:
+
+errata: []
+
+temp: Balance

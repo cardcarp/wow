@@ -1,0 +1,26 @@
+name: Noth the Plaguebringer
+
+origin: naxxramas-raid-019
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+type: Boss
+
+rule:
+  - type: Ability
+    position: Front
+    text: Assault 3 At the end of your turn, put a Plagued Warrior into play and flip Noth.
+  - type: Ability
+    position: Reverse
+    text: Elusive Noth can't attack. At the end of your turn, put a Plagued Champion into play and flip Noth.
+
+regulation:
+
+errata: []
+
+temp: Human Necromancer 4

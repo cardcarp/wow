@@ -1,0 +1,22 @@
+name: Guard Duty
+
+origin: heroes-of-azeroth-161
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+instant: 'Attach to target ally. Ongoing : Attached ally has Protector .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

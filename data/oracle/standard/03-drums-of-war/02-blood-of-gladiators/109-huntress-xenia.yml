@@ -1,0 +1,30 @@
+name: Huntress Xenia
+
+origin: blood-of-gladiators-109
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 1
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Inspiring Presence At the start of each opponent's turn, target ally is a Protector this turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Hunter

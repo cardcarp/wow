@@ -1,0 +1,25 @@
+name: The Aim of Eagles
+
+origin: blood-of-gladiators-026
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: Your hero deals 1 ranged damage to target hero or ally. Ready one of your resources for each damage dealt this way.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

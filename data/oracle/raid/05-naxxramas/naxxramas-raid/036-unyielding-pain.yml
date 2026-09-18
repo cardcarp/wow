@@ -1,0 +1,22 @@
+name: Unyielding Pain
+
+origin: naxxramas-raid-036
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+rule:
+  - type: Ability
+    text: 'Ongoing : → This turn, target hero or ally you control has Assault 2 , and combat damage that it would deal is unpreventable.'
+
+regulation:
+
+errata: []
+
+temp: Naxxramas

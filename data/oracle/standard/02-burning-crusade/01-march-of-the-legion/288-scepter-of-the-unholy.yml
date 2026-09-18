@@ -1,0 +1,25 @@
+name: Scepter of the Unholy
+
+origin: march-of-the-legion-288
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: If a card or effect you control would cause an opponent to discard a card, he discards a random card instead.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

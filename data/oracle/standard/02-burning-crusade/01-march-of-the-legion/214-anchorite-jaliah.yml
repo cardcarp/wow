@@ -1,0 +1,28 @@
+name: Anchorite Jaliah
+
+origin: march-of-the-legion-214
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 2
+
+health: 7
+
+combat: Holy
+
+rule:
+  - type: Ability
+    text: Aldor Reputation When an ally in your party is destroyed, Jaliah heals 2 damage from each hero and ally in your party.
+
+regulation:
+
+errata: []
+
+temp: Draenai Priest

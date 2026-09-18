@@ -1,0 +1,22 @@
+name: Path of Ruin
+
+origin: magtheridons-lair-raid-018
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+rule:
+  - type: Ability
+    text: Choose a number. Destroy all opposing abilities, allies, and equipment with cost equal to that number.
+
+regulation:
+
+errata: []
+
+temp: ''

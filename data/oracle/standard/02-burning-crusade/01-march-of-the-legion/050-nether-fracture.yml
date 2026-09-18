@@ -1,0 +1,25 @@
+name: Nether Fracture
+
+origin: march-of-the-legion-050
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: Interrupt target ability, ally, or equipment card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

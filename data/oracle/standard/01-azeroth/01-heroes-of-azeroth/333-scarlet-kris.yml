@@ -1,0 +1,26 @@
+name: Scarlet Kris
+
+origin: heroes-of-azeroth-333
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+  - Shaman
+  - Hunter
+  - Rogue
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

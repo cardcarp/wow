@@ -1,0 +1,22 @@
+name: Journey to the Crossroads
+
+origin: class-starter-2010-004
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 'Pay 5 to complete this quest. Reward : Draw a card for each different race among heroes and allies you control.'
+
+regulation:
+
+errata: []
+
+temp: ''

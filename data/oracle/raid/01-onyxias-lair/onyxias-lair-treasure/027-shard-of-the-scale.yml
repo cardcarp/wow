@@ -1,0 +1,31 @@
+name: Shard of the Scale
+
+origin: onyxias-lair-treasure-027
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+  - Hunter
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 2 , Destroy Shard of the Scale → Put the top card of your deck into your resource row face down and exhausted.
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

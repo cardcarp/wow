@@ -1,0 +1,25 @@
+name: Infectious Brutality
+
+origin: crown-of-the-heavens-056
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: 'Ongoing : On your turn: → Target ally has +2 ATK this turn.'
+
+regulation:
+
+errata: []
+
+temp: Fury

@@ -1,0 +1,30 @@
+name: Rampaging Furbolg
+
+origin: war-of-the-ancients-194
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 3
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: When this ally enters play, put the top two cards of target player's deck into his graveyard.
+
+regulation:
+
+errata: []
+
+temp: Furbolg Warrior

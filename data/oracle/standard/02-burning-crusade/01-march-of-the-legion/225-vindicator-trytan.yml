@@ -1,0 +1,28 @@
+name: Vindicator Trytan
+
+origin: march-of-the-legion-225
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: 'Aldor Reputation Protector Inspire: Armor'
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

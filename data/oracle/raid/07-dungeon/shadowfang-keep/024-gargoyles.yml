@@ -1,0 +1,22 @@
+name: Gargoyles
+
+origin: shadowfang-keep-024
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+type: Dungeon
+
+rule:
+  - type: Ability
+    text: For each Raider who controls no ready resources, put a 5 / 5 Gargoyle ally token into play with Ferocity .
+
+regulation:
+
+errata: []
+
+temp: ''

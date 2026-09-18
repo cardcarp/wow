@@ -1,0 +1,25 @@
+name: Nether Rip
+
+origin: reign-of-fire-053
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: Portal , Portal
+
+regulation:
+
+errata: []
+
+temp: Demonology

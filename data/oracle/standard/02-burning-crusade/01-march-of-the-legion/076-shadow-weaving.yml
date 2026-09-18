@@ -1,0 +1,25 @@
+name: Shadow Weaving
+
+origin: march-of-the-legion-076
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: "Shadow Hero Required Attach to target opposing hero or ally. Ongoing : If attached character would be dealt shadow ( ) damage, it's dealt that much +2 instead."
+
+regulation:
+
+errata: []
+
+temp: Shadow Talent

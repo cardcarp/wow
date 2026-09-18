@@ -1,0 +1,34 @@
+name: Bloodbanes Fall
+
+origin: scourgewar-216
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Your hero has Assault 1 .
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

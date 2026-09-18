@@ -1,0 +1,22 @@
+name: Meeting Stone
+
+origin: march-of-the-legion-129
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '10'
+
+rule:
+  - type: Ability
+    text: 'Ongoing : , Exhaust two allies in your party → Search your deck for an ally card and put it into play.'
+
+regulation:
+
+errata: []
+
+temp: ''

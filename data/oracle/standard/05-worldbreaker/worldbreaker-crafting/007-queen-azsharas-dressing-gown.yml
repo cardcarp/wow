@@ -1,0 +1,27 @@
+name: Queen Azsharas Dressing Gown
+
+origin: worldbreaker-crafting-007
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: When an Elf you control is destroyed, it may deal arcane damage equal to its ATK to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

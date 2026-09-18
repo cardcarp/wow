@@ -1,0 +1,25 @@
+name: Gifted Heal
+
+origin: war-of-the-ancients-036
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+
+instant: Your hero heals 4 damage from itself. Then, if your hero is undamaged, draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

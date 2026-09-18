@@ -1,0 +1,22 @@
+name: The Perfect Stout
+
+origin: through-the-dark-portal-293
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: "Pay 3 to complete this quest. Reward : Choose one: Target ally can't attack this turn; or draw a card. If your hero is a Dwarf, you may choose both."
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,28 @@
+name: Soridormi
+
+origin: war-of-the-elements-167
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 5
+
+health: 6
+
+combat: Ranged
+
+rule:
+  - type: Ability
+    text: 1 → Target ally you control has Protector , Elusive , Stealth , or Untargetable this turn.
+
+regulation:
+
+errata: []
+
+temp: Bronze Dragonkin Consort

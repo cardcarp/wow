@@ -1,0 +1,25 @@
+name: Haku, Son of Morning
+
+origin: horde-paladin-2013-001
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 30
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 7 , Flip Haku → Haku deals unpreventable holy damage to target hero or ally equal to the cost of an ally you control.
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

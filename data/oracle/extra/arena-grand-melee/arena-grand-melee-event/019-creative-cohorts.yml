@@ -1,0 +1,20 @@
+name: Creative Cohorts
+
+origin: arena-grand-melee-event-019
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+rule:
+  - type: Ability
+    text: Each player may draw a card if he shares a first, middle, or last initial with the artist of a card in play he controls.
+
+regulation:
+
+errata: []
+
+temp: ''

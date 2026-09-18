@@ -1,0 +1,31 @@
+name: Kil'jaeden the Deceiver
+
+origin: reign-of-fire-002
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+cost: '10'
+
+damage: 2
+
+health: 40
+
+combat: Shadow
+
+type: Master
+
+rule:
+  - type: Ability
+    position: Front
+    text: At the start of your turn, each player draws a card. Opponents play with their hands revealed and can't play cards during your turn. You can play cards in opposing hands during your turn.
+
+regulation:
+
+errata: []
+
+temp: Eredar Demon Warlock

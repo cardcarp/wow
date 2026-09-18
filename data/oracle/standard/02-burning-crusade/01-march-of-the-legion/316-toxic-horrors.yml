@@ -1,0 +1,20 @@
+name: Toxic Horrors
+
+origin: march-of-the-legion-316
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Pay 3 to complete this quest. Reward : Choose up to two players. Each of them draws a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,25 @@
+name: Mark of Goldrinn
+
+origin: throne-of-the-tides-035
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: 'Attach to target ally. Ongoing : Attached ally has +5 / +5.'
+
+regulation:
+
+errata: []
+
+temp: Restoration

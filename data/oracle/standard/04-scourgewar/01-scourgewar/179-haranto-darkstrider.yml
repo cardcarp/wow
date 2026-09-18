@@ -1,0 +1,30 @@
+name: Haranto Darkstrider
+
+origin: scourgewar-179
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 5
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector This ally can't attack unless an opponent controls more allies than you.
+
+regulation:
+
+errata: []
+
+temp: Tauren Death Knight

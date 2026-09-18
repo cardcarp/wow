@@ -1,0 +1,25 @@
+name: Kaniya the Steadfast
+
+origin: fields-of-honor-014
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 31
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 3 , Flip Kaniya → Heroes and allies in your party are Protectors this turn.
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

@@ -1,0 +1,25 @@
+name: Aspect of the Cheetah
+
+origin: march-of-the-legion-031
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: "Ongoing : You pay 1 less to complete quests, to a minimum of 1 . When your hero is dealt damage, put Aspect of the Cheetah from play into its owner's hand."
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery

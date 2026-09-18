@@ -1,0 +1,30 @@
+name: Champion Zosimuus
+
+origin: march-of-the-legion-143
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 5
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: When a ally in your party is dealt damage, it deals 2 holy damage to the source of that damage.
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

@@ -1,0 +1,30 @@
+name: Joru the Blinding Light
+
+origin: reign-of-fire-104
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 3
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Discard a card → Remove this ally from the game. At end of turn, its owner puts it into play. (It enters play ready and undamaged.)
+
+regulation:
+
+errata: []
+
+temp: Tauren Priest

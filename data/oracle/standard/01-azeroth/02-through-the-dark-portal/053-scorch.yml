@@ -1,0 +1,25 @@
+name: Scorch
+
+origin: through-the-dark-portal-053
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '0'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: Your hero deals 1 fire damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Fire

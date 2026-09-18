@@ -1,0 +1,22 @@
+name: Dragonkin Menace
+
+origin: heroes-of-azeroth-341
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: "During an opponent's turn, pay 3 to complete this quest. Reward : Ready a hero or ally in your party."
+
+regulation:
+
+errata: []
+
+temp: ''

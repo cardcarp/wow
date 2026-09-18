@@ -1,0 +1,25 @@
+name: Will from Beyond
+
+origin: reign-of-fire-008
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: 'Warp Ongoing : Your hero has +10 and Protector .'
+
+regulation:
+
+errata: []
+
+temp: Blood

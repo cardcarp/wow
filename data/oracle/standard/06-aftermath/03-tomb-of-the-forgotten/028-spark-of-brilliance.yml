@@ -1,0 +1,25 @@
+name: Spark of Brilliance
+
+origin: tomb-of-the-forgotten-028
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: Draw two cards, then put a card from your hand on top of your deck.
+
+regulation:
+
+errata: []
+
+temp: Arcane

@@ -1,0 +1,26 @@
+name: Protective Barricade of the Light
+
+origin: wrathgate-176
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 'Hero : This armor has +2 . Hero : You pay 2 less to play this armor.'
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

@@ -1,0 +1,26 @@
+name: Cursed Vision of Sargeras
+
+origin: black-temple-treasure-002
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: Ability
+    text: → If you completed a quest this turn, turn target resource face down.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

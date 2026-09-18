@@ -1,0 +1,26 @@
+name: Vindicators Brand
+
+origin: the-hunt-for-illidan-231
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Aldor Reputation When Vindicator's Brand is destroyed, you may destroy target ability or equipment.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

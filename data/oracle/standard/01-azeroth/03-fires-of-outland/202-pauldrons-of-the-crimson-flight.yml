@@ -1,0 +1,26 @@
+name: Pauldrons of the Crimson Flight
+
+origin: fires-of-outland-202
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: At the end of your turn, ready one of your armor.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

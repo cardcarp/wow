@@ -1,0 +1,25 @@
+name: Blustering Winds
+
+origin: wrathgate-030
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: Target up to three heroes and/or allies. They can't attack or protect this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Balance

@@ -1,0 +1,25 @@
+name: Steelhawk Crossbow
+
+origin: fields-of-honor-179
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: When you strike with Steelhawk Crossbow, your hero has Long-Range this combat. At the start of your turn, exhaust Steelhawk Crossbow unless you pay 1 .
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Crossbow

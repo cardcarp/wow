@@ -1,0 +1,25 @@
+name: Disarm
+
+origin: the-hunt-for-illidan-105
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Destroy all of target player's weapons.
+
+regulation:
+
+errata: []
+
+temp: Protection

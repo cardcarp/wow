@@ -1,0 +1,26 @@
+name: Blade of Wizardry
+
+origin: servants-of-the-betrayer-234
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: 1 , , Discard an ability card → Destroy target ally.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

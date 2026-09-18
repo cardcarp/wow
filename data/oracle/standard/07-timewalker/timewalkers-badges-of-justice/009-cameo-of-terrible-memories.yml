@@ -1,0 +1,28 @@
+name: Cameo of Terrible Memories
+
+origin: timewalkers-badges-of-justice-009
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Druid
+  - Shaman
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: At the end of each player's turn, he discards his hand and draws seven cards. If a player would draw from an empty deck, he shuffles his graveyard into his deck, then draws a card instead.
+
+regulation:
+
+errata: []
+
+temp: Item Neck

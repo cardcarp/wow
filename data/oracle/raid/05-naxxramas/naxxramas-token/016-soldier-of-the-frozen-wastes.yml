@@ -1,0 +1,28 @@
+name: Soldier of the Frozen Wastes
+
+origin: naxxramas-token-016
+
+layout: Standard
+
+category:
+  - Token
+
+trait:
+
+damage: 3
+
+health: 1
+
+combat: Melee
+
+type: Ally
+
+rule:
+  - type: Ability
+    text: When this ally enters play, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Skeleton

@@ -1,0 +1,25 @@
+name: Gushing Totem
+
+origin: wrathgate-075
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 'Ongoing : When an opposing ability, ally, or equipment enters play, you may draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Restoration 1

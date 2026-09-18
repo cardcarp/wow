@@ -1,0 +1,30 @@
+name: Roktar Blackfist
+
+origin: drums-of-war-190
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Roktar enters play, destroy target resource if its controller has more resources than you.
+
+regulation:
+
+errata: []
+
+temp: Orc Rogue

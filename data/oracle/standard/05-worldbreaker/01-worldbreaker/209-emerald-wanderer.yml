@@ -1,0 +1,28 @@
+name: Emerald Wanderer
+
+origin: worldbreaker-209
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 5
+
+combat: Nature
+
+rule:
+  - type: Ability
+    text: When a resource you control is turned face down, this ally has Assault 3 this turn.
+
+regulation:
+
+errata: []
+
+temp: Green Dragonkin

@@ -1,0 +1,23 @@
+name: Mogdar the Frozenheart
+
+origin: tomb-of-the-forgotten-008
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+type: Monster
+
+rule:
+  - type: Ability
+    position: Front
+    text: "Deckbuilding: You can't put , , or Talent cards in your deck."
+
+regulation:
+
+errata: []
+
+temp: Ogre Death Knight Shaman 25

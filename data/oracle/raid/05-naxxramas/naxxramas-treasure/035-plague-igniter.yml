@@ -1,0 +1,27 @@
+name: Plague Igniter
+
+origin: naxxramas-treasure-035
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: When your hero deals shadow ( ) damage to a hero, allies in its party have -1 this turn.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Wand

@@ -1,0 +1,25 @@
+name: March of the Treants
+
+origin: caverns-of-time-treasure-007
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: 'Ongoing : At the start of your turn, put a 1 / 1 Treant ally token into play.'
+
+regulation:
+
+errata: []
+
+temp: Balance

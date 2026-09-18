@@ -1,0 +1,20 @@
+name: The Last Living Lorekeeper
+
+origin: throne-of-the-tides-255
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'On your turn: Pay 5 to complete this quest. Reward : Your hero heals 3 damage from itself. Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

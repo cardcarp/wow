@@ -1,0 +1,28 @@
+name: Arygos
+
+origin: twilight-of-the-dragons-168
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 7
+
+combat: Arcane
+
+rule:
+  - type: Ability
+    text: You pay 1 less to play abilities for each Blue Dragonkin you control, to a minimum of 1 .
+
+regulation:
+
+errata: []
+
+temp: Blue Dragonkin

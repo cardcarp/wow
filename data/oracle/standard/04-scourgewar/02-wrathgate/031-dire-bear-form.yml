@@ -1,0 +1,25 @@
+name: Dire Bear Form
+
+origin: wrathgate-031
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Druid
+
+instant: 'Ongoing : Your hero has Bear Form . Your hero has +5 for each ally you control.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral

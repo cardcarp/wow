@@ -1,0 +1,30 @@
+name: Hur Shieldsmasher
+
+origin: heroes-of-azeroth-243
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Hur Shieldsmasher enters play, you may destroy target armor.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

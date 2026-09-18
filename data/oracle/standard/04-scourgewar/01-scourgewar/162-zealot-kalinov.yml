@@ -1,0 +1,30 @@
+name: Zealot Kalinov
+
+origin: scourgewar-162
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: While this ally is in your graveyard, your hero has Mend 1 .
+
+regulation:
+
+errata: []
+
+temp: Human Priest

@@ -1,0 +1,25 @@
+name: Muddle
+
+origin: worldbreaker-108
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: "Ongoing : When this ability enters play, you may put target opposing ability into its owner's hand. Opponents pay 1 more to play abilities."
+
+regulation:
+
+errata: []
+
+temp: Affliction

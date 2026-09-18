@@ -1,0 +1,25 @@
+name: Fillet, Kneecapper Extraordinaire
+
+origin: fires-of-outland-002
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 30
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 3 , Flip Fillet → Allies you control have +1 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warrior

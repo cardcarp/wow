@@ -1,0 +1,30 @@
+name: Scout Kurgo
+
+origin: fields-of-honor-143
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 1
+
+health: 1
+
+combat: Ranged
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When you play Kurgo, you may search your deck and hand for any number of cards named Scout Kurgo and put them into play.
+
+regulation:
+
+errata: []
+
+temp: Orc Hunter

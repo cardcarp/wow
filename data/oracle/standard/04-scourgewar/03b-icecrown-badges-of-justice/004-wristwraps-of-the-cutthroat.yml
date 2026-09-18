@@ -1,0 +1,26 @@
+name: Wristwraps of the Cutthroat
+
+origin: icecrown-badges-of-justice-004
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: Ability
+    text: At the end of each opponent's turn, if a card didn't enter his graveyard this turn, he discards a card.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

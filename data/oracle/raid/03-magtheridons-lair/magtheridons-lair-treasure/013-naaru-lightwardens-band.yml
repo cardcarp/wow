@@ -1,0 +1,28 @@
+name: Naaru Lightwardens Band
+
+origin: magtheridons-lair-treasure-013
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Friendly heroes have +5 health.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

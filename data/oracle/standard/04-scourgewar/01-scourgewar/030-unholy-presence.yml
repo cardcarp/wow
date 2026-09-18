@@ -1,0 +1,25 @@
+name: Unholy Presence
+
+origin: scourgewar-030
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: 'Ongoing : You pay 1 less to play and strike with weapons.'
+
+regulation:
+
+errata: []
+
+temp: Unholy

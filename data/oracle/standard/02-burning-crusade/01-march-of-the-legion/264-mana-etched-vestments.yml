@@ -1,0 +1,27 @@
+name: Mana-Etched Vestments
+
+origin: march-of-the-legion-264
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: → Your hero deals 1 arcane damage to target hero or ally. Use only if you have seven or more cards in hand.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

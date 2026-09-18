@@ -1,0 +1,28 @@
+name: Dar the Beastmaster
+
+origin: crown-of-the-heavens-079
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 7
+
+combat: Melee
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Worgen Hunter

@@ -1,0 +1,27 @@
+name: Belt of Blasting
+
+origin: azeroth-crafting-009
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: x , Exhaust your hero → Your hero deals X arcane damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

@@ -1,0 +1,26 @@
+name: Skinned Whelp Shoulders
+
+origin: worldbreaker-225
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Your hero has Assault 2 for each Dragonkin you control.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

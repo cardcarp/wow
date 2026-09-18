@@ -1,0 +1,22 @@
+name: Arena Grandmaster
+
+origin: blood-of-gladiators-190
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+type: Arena
+
+rule:
+  - type: Ability
+    text: "Pay 4 to complete this quest. Reward : If an ally is in your party and the combined ATK of allies in your party is greater than the combined ATK of allies in an opponent's party, draw two cards."
+
+regulation:
+
+errata: []
+
+temp: ''

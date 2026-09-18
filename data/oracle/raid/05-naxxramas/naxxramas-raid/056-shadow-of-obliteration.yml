@@ -1,0 +1,24 @@
+name: Shadow of Obliteration
+
+origin: naxxramas-raid-056
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+type: Raid
+
+stage: 16
+
+rule:
+  - type: Ability
+    text: Remove all cards in raiding graveyards from the game.
+
+regulation:
+
+errata: []
+
+temp: ''

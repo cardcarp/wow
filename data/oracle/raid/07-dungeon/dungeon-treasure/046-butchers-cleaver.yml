@@ -1,0 +1,30 @@
+name: Butchers Cleaver
+
+origin: dungeon-treasure-046
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Paladin
+  - Death Knight
+  - Shaman
+
+rule:
+  - type: Ability
+    text: This weapon has +2 ATK while your hero is attacking a hero with 15 or more damage.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

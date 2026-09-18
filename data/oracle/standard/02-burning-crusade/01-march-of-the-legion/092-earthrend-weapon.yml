@@ -1,0 +1,25 @@
+name: Earthrend Weapon
+
+origin: march-of-the-legion-092
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '7'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 'Attach to one of your Melee weapons. Ongoing : Attached weapon has +7 ATK.'
+
+regulation:
+
+errata: []
+
+temp: Enhancement

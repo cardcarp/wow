@@ -1,0 +1,28 @@
+name: Kalaan
+
+origin: tomb-of-the-forgotten-086
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 1
+
+health: 5
+
+combat: Nature
+
+faction: Alliance
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Draenei Hunter

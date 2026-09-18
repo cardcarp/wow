@@ -1,0 +1,25 @@
+name: Frozen Nerves
+
+origin: worldbreaker-058
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: "Attach to target non-hero card. Ongoing : Attached card can't attack or exhaust."
+
+regulation:
+
+errata: []
+
+temp: Frost

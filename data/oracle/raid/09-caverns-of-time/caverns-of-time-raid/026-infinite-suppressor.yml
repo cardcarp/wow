@@ -1,0 +1,28 @@
+name: Infinite Suppressor
+
+origin: caverns-of-time-raid-026
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+damage: 1
+
+health: 5
+
+combat: Arcane
+
+type: Boss
+
+rule:
+  - type: Ability
+    text: Raiding allies lose and can't have powers.
+
+regulation:
+
+errata: []
+
+temp: Infinite Dragonkin

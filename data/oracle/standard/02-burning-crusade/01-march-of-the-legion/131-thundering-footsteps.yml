@@ -1,0 +1,22 @@
+name: Thundering Footsteps
+
+origin: march-of-the-legion-131
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '8'
+
+rule:
+  - type: Ability
+    text: As an additional cost to play Thundering Footsteps, stomp your feet. Put a Mechanical ally token named Fel Reaver with 10 ATK / 10 health into play.
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,33 @@
+name: Tempest Totem
+
+origin: war-of-the-elements-084
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+damage: 0
+
+health: 4
+
+combat: Frost
+
+class:
+  - Shaman
+
+type: Ally
+
+rule:
+  - type: Ability
+    text: "Ongoing : When this card enters play, you may put target Totem from your graveyard into your hand. You pay 1 less to play Totems, to a minimum of 1 . (Totems can't attack.)"
+
+regulation:
+
+errata: []
+
+temp: Restoration

@@ -1,0 +1,31 @@
+name: Tesla
+
+origin: worldbreaker-049
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Nature
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: Assault 2 Ferocity
+
+regulation:
+
+errata: []
+
+temp: Wind Serpent

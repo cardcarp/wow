@@ -1,0 +1,25 @@
+name: Arcane Shot
+
+origin: heroes-of-azeroth-033
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Hunter
+
+instant: Your hero deals 1 arcane damage to target hero or ally. Draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Marksmanship

@@ -1,0 +1,30 @@
+name: Miner Steelwhiskers
+
+origin: servants-of-the-betrayer-144
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector When Steelwhiskers protects, put the top two cards of target opponent's deck into his graveyard.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior

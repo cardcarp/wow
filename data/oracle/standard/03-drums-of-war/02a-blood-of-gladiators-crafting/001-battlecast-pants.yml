@@ -1,0 +1,27 @@
+name: Battlecast Pants
+
+origin: blood-of-gladiators-crafting-001
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: → Cards in your hand are instant this turn until you play a card.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

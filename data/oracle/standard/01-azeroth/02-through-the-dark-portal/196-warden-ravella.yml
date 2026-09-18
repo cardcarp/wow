@@ -1,0 +1,30 @@
+name: Warden Ravella
+
+origin: through-the-dark-portal-196
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector , Untargetable
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

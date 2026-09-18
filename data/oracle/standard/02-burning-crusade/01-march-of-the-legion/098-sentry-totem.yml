@@ -1,0 +1,25 @@
+name: Sentry Totem
+
+origin: march-of-the-legion-098
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 'Ongoing : When an opposing ally enters play, exhaust it. (Totems can be attacked or targeted like allies.)'
+
+regulation:
+
+errata: []
+
+temp: Enhancement 1

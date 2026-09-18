@@ -1,0 +1,25 @@
+name: Temporal Shift
+
+origin: reign-of-fire-026
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Mage
+
+instant: Remove target defending ally from combat. It has Elusive this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

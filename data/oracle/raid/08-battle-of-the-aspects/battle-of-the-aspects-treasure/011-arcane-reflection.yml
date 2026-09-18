@@ -1,0 +1,25 @@
+name: Arcane Reflection
+
+origin: battle-of-the-aspects-treasure-011
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: Put a token copy of target ally you control into play.
+
+regulation:
+
+errata: []
+
+temp: Arcane

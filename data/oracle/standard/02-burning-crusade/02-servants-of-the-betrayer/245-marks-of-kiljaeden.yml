@@ -1,0 +1,20 @@
+name: Marks of Kil'jaeden
+
+origin: servants-of-the-betrayer-245
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Aldor Reputation If an ally with inspire is in your party, pay 1 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

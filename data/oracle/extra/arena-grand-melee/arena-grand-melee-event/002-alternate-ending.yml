@@ -1,0 +1,20 @@
+name: Alternate Ending
+
+origin: arena-grand-melee-event-002
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Ongoing : If a player would draw a card from completing a quest, he may put a card from his graveyard into his hand instead.'
+
+regulation:
+
+errata: []
+
+temp: ''

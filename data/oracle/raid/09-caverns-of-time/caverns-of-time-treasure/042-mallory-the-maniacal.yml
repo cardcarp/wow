@@ -1,0 +1,30 @@
+name: Mallory the Maniacal
+
+origin: caverns-of-time-treasure-042
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 6
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: This ally enters play with 2 damage on her. This ally has Assault 4 and Spellshield while undamaged.
+
+regulation:
+
+errata: []
+
+temp: Human Warlock

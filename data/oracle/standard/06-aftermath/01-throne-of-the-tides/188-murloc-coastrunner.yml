@@ -1,0 +1,28 @@
+name: Murloc Coastrunner
+
+origin: throne-of-the-tides-188
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Frost
+
+type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Murloc Rogue

@@ -1,0 +1,33 @@
+name: Sparkington the Abrupt
+
+origin: icecrown-115
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 2
+
+combat: Arcane
+
+faction: Alliance
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: Mages and cards in your hand are instant.
+
+regulation:
+
+errata: []
+
+temp: Gnome Mage

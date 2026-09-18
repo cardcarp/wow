@@ -1,0 +1,25 @@
+name: Ancient Bone Bow
+
+origin: heroes-of-azeroth-311
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: When you strike with this weapon, your hero has Long-Range this combat.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Bow

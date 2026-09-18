@@ -1,0 +1,26 @@
+name: Girdle of the Endless Pit
+
+origin: magtheridons-lair-treasure-003
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: At the start of your turn, put 1 damage on your hero.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

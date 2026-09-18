@@ -1,0 +1,38 @@
+name: Kel'Thuzad
+
+origin: scourgewar-021
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+cost: '10'
+
+damage: 3
+
+health: 33
+
+combat: Frost
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Mage
+  - Warlock
+
+type: Master
+
+rule:
+  - type: Ability
+    position: Front
+    text: ", , , , or Hero Required When your hero becomes Kel'Thuzad, target an opponent. Gain control of an ally he controls. Search his zones for one ally each and put any number of them into play."
+
+regulation:
+
+errata: []
+
+temp: Lich

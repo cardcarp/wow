@@ -1,0 +1,26 @@
+name: Truesilver Breastplate
+
+origin: heroes-of-azeroth-301
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: When your hero defends, it heals 1 damage from itself.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

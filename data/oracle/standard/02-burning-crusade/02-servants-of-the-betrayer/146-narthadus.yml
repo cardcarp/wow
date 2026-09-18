@@ -1,0 +1,30 @@
+name: Narthadus
+
+origin: servants-of-the-betrayer-146
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 3
+
+health: 6
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Elusive At the end of your turn, you may destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

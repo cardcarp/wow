@@ -1,0 +1,30 @@
+name: Gor'la Wrathbolt
+
+origin: caverns-of-time-treasure-046
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 1
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 'This ally can attack only heroes. Bloodrush : While an opposing hero has more damage on it than your hero, this ally has Ferocity .'
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

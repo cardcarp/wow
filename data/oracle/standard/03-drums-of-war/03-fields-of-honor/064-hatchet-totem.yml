@@ -1,0 +1,25 @@
+name: Hatchet Totem
+
+origin: fields-of-honor-064
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 'Ongoing : When Hatchet Totem enters play, put an Axe weapon token into play with 4 ATK, 1 strike cost, and Melee (1) if Hatchet Totem is in play. When Hatchet Totem leaves play, remove that Axe from the game.'
+
+regulation:
+
+errata: []
+
+temp: Enhancement 1

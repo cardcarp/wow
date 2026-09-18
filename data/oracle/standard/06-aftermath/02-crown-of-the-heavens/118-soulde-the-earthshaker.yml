@@ -1,0 +1,30 @@
+name: Soulde the Earthshaker
+
+origin: crown-of-the-heavens-118
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Allies you control with cost 4 or more have +2 / +2 and Protector .
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

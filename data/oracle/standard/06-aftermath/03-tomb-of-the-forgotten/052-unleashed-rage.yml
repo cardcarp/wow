@@ -1,0 +1,25 @@
+name: Unleashed Rage
+
+origin: tomb-of-the-forgotten-052
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: "Enhancement Talent Attach to target ally you control. Ongoing : Your hero has Assault X , where X is attached ally's ATK."
+
+regulation:
+
+errata: []
+
+temp: Enhancement

@@ -1,0 +1,30 @@
+name: Kresss, Herald of the Hunt
+
+origin: tomb-of-the-forgotten-149
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: 'Empower Hunter : When this ally enters play, if you control another Hunter hero or ally, this ally deals 2 ranged damage to each of up to two target heroes and/or allies.'
+
+regulation:
+
+errata: []
+
+temp: Naga Hunter

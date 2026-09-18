@@ -1,0 +1,27 @@
+name: Shadow Tactics
+
+origin: arena-grand-melee-008
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Rogue
+
+type: Arena
+
+rule:
+  - type: Ability
+    text: 'Preparation Ongoing : You pay 1 less to play Combos and Finishing Move s, to a minimum of 1 .'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,24 @@
+name: Sneak
+
+origin: heroes-of-azeroth-152
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+faction: Alliance
+
+instant: Target ally has Elusive this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

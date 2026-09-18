@@ -1,0 +1,25 @@
+name: Blind Faith
+
+origin: fields-of-honor-047
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: 'Ongoing : At the start of your turn, you may discard your hand. If you do, reveal the top three cards of your deck. Put a revealed ability card into hand and the rest on the bottom of your deck.'
+
+regulation:
+
+errata: []
+
+temp: Discipline

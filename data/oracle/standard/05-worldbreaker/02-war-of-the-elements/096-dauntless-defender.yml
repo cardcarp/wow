@@ -1,0 +1,25 @@
+name: Dauntless Defender
+
+origin: war-of-the-elements-096
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Warrior
+
+instant: Target ally has Protector this turn. It also has +4 ATK while defending this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Protection

@@ -1,0 +1,28 @@
+name: Bloodlust Brooch
+
+origin: azeroth-badges-of-justice-001
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Warrior
+  - Shaman
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: When your hero deals combat damage, put that many Fanatic ally tokens into play with 1 ATK / 1 health.
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

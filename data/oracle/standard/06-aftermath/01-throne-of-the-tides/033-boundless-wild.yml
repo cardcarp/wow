@@ -1,0 +1,25 @@
+name: Boundless Wild
+
+origin: throne-of-the-tides-033
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '6'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: Eternal For each resource you control, put a 1 / 1 Treant ally token into play.
+
+regulation:
+
+errata: []
+
+temp: Balance

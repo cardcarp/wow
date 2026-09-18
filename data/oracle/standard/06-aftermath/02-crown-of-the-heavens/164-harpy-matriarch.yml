@@ -1,0 +1,30 @@
+name: Harpy Matriarch
+
+origin: crown-of-the-heavens-164
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Frost
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: 'Empower Monster : When this ally enters play, if you control another Monster hero or ally, target player chooses an ability he controls. Destroy that ability.'
+
+regulation:
+
+errata: []
+
+temp: Harpy Mage

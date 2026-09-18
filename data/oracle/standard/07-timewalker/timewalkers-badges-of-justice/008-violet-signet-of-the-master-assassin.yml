@@ -1,0 +1,28 @@
+name: Violet Signet of the Master Assassin
+
+origin: timewalkers-badges-of-justice-008
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Druid
+  - Shaman
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: x , , Destroy this item → Destroy all abilities, allies, and equipment with cost X.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

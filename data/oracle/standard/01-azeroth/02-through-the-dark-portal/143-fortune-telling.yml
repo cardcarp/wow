@@ -1,0 +1,22 @@
+name: Fortune Telling
+
+origin: through-the-dark-portal-143
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '8'
+
+rule:
+  - type: Ability
+    text: Turn your deck over.
+
+regulation:
+
+errata: []
+
+temp: ''

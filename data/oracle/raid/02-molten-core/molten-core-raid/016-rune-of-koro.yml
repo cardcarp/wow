@@ -1,0 +1,22 @@
+name: Rune of Koro
+
+origin: molten-core-raid-016
+
+layout: Standard
+
+category:
+  - Misc
+
+trait:
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: Opposing allies have -2 ATK.
+
+regulation:
+
+errata: []
+
+temp: Sulfuron Harbinger Boss 7

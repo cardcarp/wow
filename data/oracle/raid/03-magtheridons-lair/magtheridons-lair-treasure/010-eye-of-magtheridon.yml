@@ -1,0 +1,30 @@
+name: Eye of Magtheridon
+
+origin: magtheridons-lair-treasure-010
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: If 1 would be rolled on a die, you may change it to any value on that die instead.
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

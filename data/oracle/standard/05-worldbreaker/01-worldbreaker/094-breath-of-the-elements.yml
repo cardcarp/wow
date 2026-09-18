@@ -1,0 +1,25 @@
+name: Breath of the Elements
+
+origin: worldbreaker-094
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Shaman
+
+instant: Ready each ally you control.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement

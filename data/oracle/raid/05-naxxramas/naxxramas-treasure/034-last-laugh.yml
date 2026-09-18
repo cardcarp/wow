@@ -1,0 +1,26 @@
+name: Last Laugh
+
+origin: naxxramas-treasure-034
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '5'
+
+class:
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: When this weapon enters play, target opponent gains control of it until the start of your next turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

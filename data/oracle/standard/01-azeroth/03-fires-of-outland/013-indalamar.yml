@@ -1,0 +1,25 @@
+name: Indalamar
+
+origin: fires-of-outland-013
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 30
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 3 , Flip Indalamar → Heroes and allies in your party have Protector this turn.
+
+regulation:
+
+errata: []
+
+temp: Troll Warrior

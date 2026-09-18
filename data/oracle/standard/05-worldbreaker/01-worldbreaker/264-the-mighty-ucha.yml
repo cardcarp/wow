@@ -1,0 +1,20 @@
+name: The Mighty U'cha
+
+origin: worldbreaker-264
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: "On your turn: Pay 2 to complete this quest. Reward : Put a 1 / 1 Gorilla ally token named U'cha into play."
+
+regulation:
+
+errata: []
+
+temp: ''

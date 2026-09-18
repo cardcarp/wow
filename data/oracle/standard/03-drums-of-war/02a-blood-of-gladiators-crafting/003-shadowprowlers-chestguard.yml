@@ -1,0 +1,26 @@
+name: Shadowprowlers Chestguard
+
+origin: blood-of-gladiators-crafting-003
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Your hero has +1 ATK while attacking for each hero and ally in your party with Stealth .
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

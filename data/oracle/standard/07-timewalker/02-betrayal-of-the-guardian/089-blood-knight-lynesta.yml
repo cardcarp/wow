@@ -1,0 +1,30 @@
+name: Blood Knight Lynesta
+
+origin: betrayal-of-the-guardian-089
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 4
+
+health: 3
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Absorb This ally has +3 / +4 while an opponent controls an or Monster hero.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

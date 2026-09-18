@@ -1,0 +1,25 @@
+name: Final Voyage
+
+origin: wrathgate-189
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: When you strike with this weapon, your hero has Long-Range this combat. This weapon has Assault 1 for each card in opposing hands.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Crossbow

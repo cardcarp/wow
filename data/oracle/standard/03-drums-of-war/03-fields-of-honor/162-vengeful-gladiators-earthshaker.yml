@@ -1,0 +1,25 @@
+name: Vengeful Gladiators Earthshaker
+
+origin: fields-of-honor-162
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '7'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: When combat damage is dealt with one or more of your weapons, ready all of your weapons. → Your hero deals 2 frost damage to target hero or ally. A character dealt damage this way can't attack or protect this turn.
+
+regulation:
+
+errata: []
+
+temp: Arena Armor Set Mail

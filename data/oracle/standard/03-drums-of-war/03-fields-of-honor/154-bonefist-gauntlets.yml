@@ -1,0 +1,27 @@
+name: Bonefist Gauntlets
+
+origin: fields-of-honor-154
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: → You pay 2 less the next time you strike with a weapon this turn.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

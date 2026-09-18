@@ -1,0 +1,22 @@
+name: Dragonslayers
+
+origin: onyxias-lair-event-010
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: Opposing allies have Ferocity until your next turn.
+
+regulation:
+
+errata: []
+
+temp: ''

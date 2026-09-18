@@ -1,0 +1,25 @@
+name: Fel Inversion
+
+origin: betrayal-of-the-guardian-050
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warlock
+
+instant: Target ally has +4 / -2 this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Affliction

@@ -1,0 +1,25 @@
+name: Kalatine Carmichael
+
+origin: blood-of-gladiators-006
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 26
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 1 , Flip Kalatine → The next time Kalatine would be dealt damage this turn, prevent it.
+
+regulation:
+
+errata: []
+
+temp: Human Priest

@@ -1,0 +1,27 @@
+name: Unearthed Broadsword
+
+origin: scourgewar-248
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: At the start of your turn, if this weapon is in your graveyard, you may pay 1 . If you do, put it into your hand.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Sword

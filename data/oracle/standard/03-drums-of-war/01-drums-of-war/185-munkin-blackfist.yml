@@ -1,0 +1,30 @@
+name: Munkin Blackfist
+
+origin: drums-of-war-185
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector When Munkin enters play, destroy target equipment if its controller has more equipment than you.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

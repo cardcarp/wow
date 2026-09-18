@@ -1,0 +1,25 @@
+name: Moala Stonebinder
+
+origin: fires-of-outland-005
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Moala Stonebinder → Your weapons can't be destroyed this turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

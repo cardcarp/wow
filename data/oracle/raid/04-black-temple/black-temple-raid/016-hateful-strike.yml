@@ -1,0 +1,25 @@
+name: Hateful Strike
+
+origin: black-temple-raid-016
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Rogue
+
+instant: Traitor Hero Required If target player has exactly one ally in his party, destroy it.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Combo Traitor

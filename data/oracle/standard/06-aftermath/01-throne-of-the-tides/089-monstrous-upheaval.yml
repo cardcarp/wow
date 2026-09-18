@@ -1,0 +1,22 @@
+name: Monstrous Upheaval
+
+origin: throne-of-the-tides-089
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+rule:
+  - type: Ability
+    text: Your hero deals 2 melee damage to target hero or ally for each Monster hero and ally you control.
+
+regulation:
+
+errata: []
+
+temp: ''

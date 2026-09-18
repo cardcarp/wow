@@ -1,0 +1,30 @@
+name: Masons Fraternity Ring
+
+origin: heroes-of-azeroth-307
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Your hero has +1 ATK while attacking.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

@@ -1,0 +1,20 @@
+name: Tanks for Everything, Dalaran
+
+origin: scourgewar-270
+
+layout: Standard
+
+category:
+  - Location
+
+trait:
+
+rule:
+  - type: Ability
+    text: → Ready up to X target Plate armor you control, where X is the number of Blacksmithing heroes and allies you control.
+
+regulation:
+
+errata: []
+
+temp: ''

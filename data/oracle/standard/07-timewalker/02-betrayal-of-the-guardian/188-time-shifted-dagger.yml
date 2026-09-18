@@ -1,0 +1,29 @@
+name: Time-Shifted Dagger
+
+origin: betrayal-of-the-guardian-188
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: When this weapon enters play, switch the ATK and of target ally this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

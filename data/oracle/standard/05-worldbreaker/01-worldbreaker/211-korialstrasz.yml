@@ -1,0 +1,28 @@
+name: Korialstrasz
+
+origin: worldbreaker-211
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 5
+
+health: 6
+
+combat: Fire
+
+rule:
+  - type: Ability
+    text: When you play an ally, put X 1 / 1 Red Dragonkin ally tokens into play, where X is that ally's cost.
+
+regulation:
+
+errata: []
+
+temp: Red Dragonkin Consort

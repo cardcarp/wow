@@ -1,0 +1,29 @@
+name: Soul Casket
+
+origin: worldbreaker-badges-of-justice-012
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: ', Discard an ally → Your hero deals 2 shadow damage to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

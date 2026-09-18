@@ -1,0 +1,26 @@
+name: Shazzrah
+
+origin: molten-core-raid-006
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 13
+
+rule:
+  - type: Ability
+    position: Front
+    text: Shazzrah has +2 ATK while attacking and can attack only heroes. 1 → Flip Shazzrah. Use only once per turn.
+  - type: Ability
+    position: Reverse
+    text: When Shazzrah flips to this side, drop him from at least three feet above play. He deals 5 arcane damage to each opposing hero and ally he lands on. At the start of your turn, flip Shazzrah.
+
+regulation:
+
+errata: []
+
+temp: Flamewaker

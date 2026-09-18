@@ -1,0 +1,25 @@
+name: Gramm Thunderjaw
+
+origin: wrathgate-005
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: Flip Gramm, discard a Hunter → This turn, target ally has +2 ATK, and a second target ally has -2 ATK.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

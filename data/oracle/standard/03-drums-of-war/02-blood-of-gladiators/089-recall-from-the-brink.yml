@@ -1,0 +1,26 @@
+name: Recall from the Brink
+
+origin: blood-of-gladiators-089
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Paladin
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Put target ally or weapon card from your graveyard into play if its cost is less than or equal to the number of resources you control.
+
+regulation:
+
+errata: []
+
+temp: Holy Restoration

@@ -1,0 +1,33 @@
+name: Conqueror Jarano
+
+origin: scourgewar-168
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 6
+
+health: 6
+
+combat: Melee
+
+faction: Horde
+
+class:
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: When this ally enters play, you may destroy target ability or equipment.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

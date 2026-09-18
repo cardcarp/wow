@@ -1,0 +1,25 @@
+name: A Taste of Divinity
+
+origin: fields-of-honor-050
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: Your hero deals 2 unpreventable holy damage to target ally. If that ally doesn't have fatal damage, put A Taste of Divinity into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Holy

@@ -1,0 +1,25 @@
+name: Poach
+
+origin: icecrown-066
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Look at target player's hand and choose an ability, ally, or equipment with cost 4 or less. He discards that card.
+
+regulation:
+
+errata: []
+
+temp: Subtlety

@@ -1,0 +1,34 @@
+name: Deadmans Hand
+
+origin: dungeon-treasure-042
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Allies you control have Assault 1 while an opponent controls more allies than you.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

@@ -1,0 +1,22 @@
+name: Deadly Sweep
+
+origin: magtheridons-lair-raid-011
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+rule:
+  - type: Ability
+    text: For each raiding player, destroy up to one target ability, ally, or equipment he controls.
+
+regulation:
+
+errata: []
+
+temp: ''

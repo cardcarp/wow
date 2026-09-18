@@ -1,0 +1,25 @@
+name: 'Shadow Word: Agony'
+
+origin: the-hunt-for-illidan-073
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: "Attach to target hero. Ongoing : At the start of your turn, attached hero's controller discards a card."
+
+regulation:
+
+errata: []
+
+temp: Shadow

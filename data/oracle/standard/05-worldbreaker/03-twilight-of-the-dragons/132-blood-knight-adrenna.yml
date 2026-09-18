@@ -1,0 +1,30 @@
+name: Blood Knight Adrenna
+
+origin: twilight-of-the-dragons-132
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector When this ally is destroyed, prevent all damage that would be dealt to target ally you control this turn.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

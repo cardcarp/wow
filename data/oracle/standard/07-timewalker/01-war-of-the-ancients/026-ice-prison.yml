@@ -1,0 +1,25 @@
+name: Ice Prison
+
+origin: war-of-the-ancients-026
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: "Attach to target opposing ally. Draw a card. Ongoing : Attached ally can't ready."
+
+regulation:
+
+errata: []
+
+temp: Frost Attachment

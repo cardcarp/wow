@@ -1,0 +1,22 @@
+name: Cursed Bullets
+
+origin: shadowfang-keep-019
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+type: Dungeon
+
+rule:
+  - type: Ability
+    text: 'Godfrey deals 5 shadow damage to each Raiding hero. Level 3+ : Then, Godfrey heals damage from himself equal to the damage dealt this way.'
+
+regulation:
+
+errata: []
+
+temp: ''

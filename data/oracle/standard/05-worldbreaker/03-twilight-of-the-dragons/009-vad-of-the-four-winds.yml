@@ -1,0 +1,28 @@
+name: Vad of the Four Winds
+
+origin: twilight-of-the-dragons-009
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 30
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 4 → Flip Vad face down.
+  - type: Ability
+    position: Reverse
+    text: At the end of your turn, you may ready Vad.
+
+regulation:
+
+errata: []
+
+temp: Worgen Warrior

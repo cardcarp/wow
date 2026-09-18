@@ -1,0 +1,25 @@
+name: Blizzard
+
+origin: blood-of-gladiators-033
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: "Ongoing : At the start of each opponent's turn, your hero deals 1 frost damage to each hero and ally in that opponent's party. A character dealt damage this way can't attack this turn. When a card leaves your hand, destroy Blizzard."
+
+regulation:
+
+errata: []
+
+temp: Frost

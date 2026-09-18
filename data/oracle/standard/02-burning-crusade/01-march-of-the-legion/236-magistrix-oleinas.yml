@@ -1,0 +1,28 @@
+name: Magistrix Oleinas
+
+origin: march-of-the-legion-236
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Arcane
+
+rule:
+  - type: Ability
+    text: Scryer Reputation Ally cards in your hand are instant.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

@@ -1,0 +1,30 @@
+name: Tuskmender Jan'zu
+
+origin: wrathgate-152
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 3
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: This ally has Mend 2 while she's damaged.
+
+regulation:
+
+errata: []
+
+temp: Troll Priest

@@ -1,0 +1,22 @@
+name: Second Wind
+
+origin: onyxias-lair-event-026
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: Each player draws cards until he reaches his maximum hand size.
+
+regulation:
+
+errata: []
+
+temp: ''

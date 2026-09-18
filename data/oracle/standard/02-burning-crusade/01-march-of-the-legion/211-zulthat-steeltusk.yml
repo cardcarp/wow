@@ -1,0 +1,30 @@
+name: Zul'that Steeltusk
+
+origin: march-of-the-legion-211
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Damage that allies in your party would deal is unpreventable.
+
+regulation:
+
+errata: []
+
+temp: Troll Priest

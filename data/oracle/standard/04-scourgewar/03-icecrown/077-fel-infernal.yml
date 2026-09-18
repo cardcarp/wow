@@ -1,0 +1,31 @@
+name: Fel Infernal
+
+origin: icecrown-077
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Fire
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: When you discard a card, you may pay 1 . If you do, this ally deals 1 fire damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Infernal Demon

@@ -1,0 +1,30 @@
+name: Jaroth Lightguard
+
+origin: scourgewar-182
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector Mend 1
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

@@ -1,0 +1,30 @@
+name: Jadefire Trickster
+
+origin: crown-of-the-heavens-146
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 4
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: This ally can attack only heroes.
+
+regulation:
+
+errata: []
+
+temp: Satyr Demon Rogue

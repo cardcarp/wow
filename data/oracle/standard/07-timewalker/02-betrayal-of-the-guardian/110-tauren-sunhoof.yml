@@ -1,0 +1,30 @@
+name: Tauren Sunhoof
+
+origin: betrayal-of-the-guardian-110
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 5
+
+health: 5
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Tauren Paladin

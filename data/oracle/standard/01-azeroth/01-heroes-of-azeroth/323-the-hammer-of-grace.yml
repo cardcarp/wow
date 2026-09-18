@@ -1,0 +1,28 @@
+name: The Hammer of Grace
+
+origin: heroes-of-azeroth-323
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 1 , , Exhaust your hero → Your hero heals 2 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

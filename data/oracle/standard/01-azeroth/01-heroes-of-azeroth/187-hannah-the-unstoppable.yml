@@ -1,0 +1,30 @@
+name: Hannah the Unstoppable
+
+origin: heroes-of-azeroth-187
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Opposing heroes and allies can't protect.
+
+regulation:
+
+errata: []
+
+temp: Human Rogue

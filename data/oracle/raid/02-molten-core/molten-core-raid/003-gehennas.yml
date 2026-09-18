@@ -1,0 +1,26 @@
+name: Gehennas
+
+origin: molten-core-raid-003
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 11
+
+rule:
+  - type: Ability
+    position: Front
+    text: Gehennas has +2 ATK while attacking and can attack only heroes. At the end of your turn, Gehennas deals 3 shadow damage to target opposing hero chosen at random. That hero's controller discards a card. Flip Gehennas.
+  - type: Ability
+    position: Reverse
+    text: Gehennas has +2 ATK while attacking and can attack only heroes. At the end of your turn, Gehennas deals 1 fire damage to each opposing ally. Flip Gehennas.
+
+regulation:
+
+errata: []
+
+temp: Flamewaker

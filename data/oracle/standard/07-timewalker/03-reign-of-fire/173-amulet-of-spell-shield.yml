@@ -1,0 +1,27 @@
+name: Amulet of Spell Shield
+
+origin: reign-of-fire-173
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: Your hero has Spellshield .
+
+regulation:
+
+errata: []
+
+temp: Item Neck

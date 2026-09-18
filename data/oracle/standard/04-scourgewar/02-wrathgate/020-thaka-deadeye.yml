@@ -1,0 +1,25 @@
+name: Thaka Deadeye
+
+origin: wrathgate-020
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: Flip Thaka, discard a Hunter → Ready up to two resources you control.
+
+regulation:
+
+errata: []
+
+temp: Orc Hunter

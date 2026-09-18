@@ -1,0 +1,32 @@
+name: Gladiator Katianna
+
+origin: blood-of-gladiators-100
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 3
+
+health: 1
+
+combat: Holy
+
+faction: Alliance
+
+type: Arena
+
+rule:
+  - type: Ability
+    text: Arena allies in your party are Elusive .
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

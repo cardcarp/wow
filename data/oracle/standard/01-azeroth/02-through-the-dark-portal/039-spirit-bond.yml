@@ -1,0 +1,25 @@
+name: Spirit Bond
+
+origin: through-the-dark-portal-039
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: 'Beast Mastery Hero Required Ongoing : At the start of your turn, if you have a Pet, your hero heals 2 damage from itself and each of your Pets.'
+
+regulation:
+
+errata: []
+
+temp: Beast Mastery Talent

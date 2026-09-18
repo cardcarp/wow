@@ -1,0 +1,20 @@
+name: Elemental Energy
+
+origin: war-of-the-elements-208
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Pay 5 to complete this quest. Reward : Draw a card, or two if you control an Elemental.'
+
+regulation:
+
+errata: []
+
+temp: ''

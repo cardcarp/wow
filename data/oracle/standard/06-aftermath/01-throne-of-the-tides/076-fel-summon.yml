@@ -1,0 +1,25 @@
+name: Fel Summon
+
+origin: throne-of-the-tides-076
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: Delve Reveal the top two cards of your deck. Put all revealed allies into your hand and the rest on the bottom of your deck.
+
+regulation:
+
+errata: []
+
+temp: Demonology

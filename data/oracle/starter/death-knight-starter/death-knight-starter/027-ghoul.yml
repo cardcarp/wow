@@ -1,0 +1,26 @@
+name: Ghoul
+
+origin: death-knight-starter-027
+
+layout: Standard
+
+category:
+  - Token
+
+trait:
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+type: Ally
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ghoul

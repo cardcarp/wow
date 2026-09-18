@@ -1,0 +1,20 @@
+name: Gahz'ridian
+
+origin: fires-of-outland-235
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Pay 5 to complete this quest. Reward : Draw two cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

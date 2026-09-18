@@ -1,0 +1,25 @@
+name: Elemental Purge
+
+origin: war-of-the-ancients-051
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: Destroy target ability. If you do, your hero deals 3 nature damage to that ability's controller's hero.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Restoration

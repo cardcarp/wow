@@ -1,0 +1,22 @@
+name: Decrepit Fever
+
+origin: naxxramas-raid-026
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+rule:
+  - type: Ability
+    text: "Attach to target raiding hero. Ongoing : If a hero or ally in attached hero's party would deal damage, it deals that much -3 instead. When a hero or ally in attached hero's party deals damage, destroy this ability."
+
+regulation:
+
+errata: []
+
+temp: Naxxramas

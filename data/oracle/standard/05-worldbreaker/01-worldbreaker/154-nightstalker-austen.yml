@@ -1,0 +1,30 @@
+name: Nightstalker Austen
+
+origin: worldbreaker-154
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 6
+
+health: 5
+
+combat: Ranged
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Opposing allies lose and can't have Elusive .
+
+regulation:
+
+errata: []
+
+temp: Human Hunter

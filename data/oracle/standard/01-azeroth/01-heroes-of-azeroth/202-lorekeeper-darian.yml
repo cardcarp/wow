@@ -1,0 +1,30 @@
+name: Lorekeeper Darian
+
+origin: heroes-of-azeroth-202
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 2
+
+health: 6
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: x , → Target player puts the top X cards of his deck into his graveyard.
+
+regulation:
+
+errata: []
+
+temp: Human Mage

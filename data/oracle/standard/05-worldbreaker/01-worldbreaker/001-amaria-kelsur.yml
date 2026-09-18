@@ -1,0 +1,28 @@
+name: Amaria Kelsur
+
+origin: worldbreaker-001
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 4 → Flip Amaria
+  - type: Ability
+    position: Reverse
+    text: Opposing allies have -1 ATK while in combat with Amaria.
+
+regulation:
+
+errata: []
+
+temp: Human Hunter

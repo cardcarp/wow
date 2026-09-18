@@ -1,0 +1,22 @@
+name: Thunder Bluff
+
+origin: drums-of-war-262
+
+layout: Standard
+
+category:
+  - Location
+
+trait:
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Tauren Hero Required Tauren in your party have +1 health.
+
+regulation:
+
+errata: []
+
+temp: City

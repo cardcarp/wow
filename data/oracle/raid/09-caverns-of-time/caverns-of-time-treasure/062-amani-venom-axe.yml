@@ -1,0 +1,26 @@
+name: Amani Venom-Axe
+
+origin: caverns-of-time-treasure-062
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Shaman
+  - Rogue
+
+rule:
+  - type: Ability
+    text: You pay 1 more to strike with this weapon for each card in your hand.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

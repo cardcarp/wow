@@ -1,0 +1,25 @@
+name: Dispel Magic
+
+origin: heroes-of-azeroth-077
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+
+instant: Destroy target ability.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Discipline

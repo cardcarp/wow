@@ -1,0 +1,28 @@
+name: Edwin Blademark
+
+origin: war-of-the-elements-003
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 4 → Flip Edwin
+  - type: Ability
+    position: Reverse
+    text: Allies you control have Stealth .
+
+regulation:
+
+errata: []
+
+temp: Worgen Rogue

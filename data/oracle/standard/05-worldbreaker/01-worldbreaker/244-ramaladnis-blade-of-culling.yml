@@ -1,0 +1,27 @@
+name: Ramaladnis Blade of Culling
+
+origin: worldbreaker-244
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: Opposing heroes and allies have Protector .
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Axe

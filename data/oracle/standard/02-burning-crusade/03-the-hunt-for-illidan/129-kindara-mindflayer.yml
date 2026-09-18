@@ -1,0 +1,30 @@
+name: Kindara Mindflayer
+
+origin: the-hunt-for-illidan-129
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Kindara has +2 ATK / +2 health while an opposing hero is face up.
+
+regulation:
+
+errata: []
+
+temp: Draenai Priest

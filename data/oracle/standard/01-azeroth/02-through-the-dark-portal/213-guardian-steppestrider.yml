@@ -1,0 +1,30 @@
+name: Guardian Steppestrider
+
+origin: through-the-dark-portal-213
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 5
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector Guardian Steppestrider can't attack.
+
+regulation:
+
+errata: []
+
+temp: Tauren Warrior

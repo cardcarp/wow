@@ -1,0 +1,28 @@
+name: Harrison Jones
+
+origin: tomb-of-the-forgotten-162
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 2
+
+health: 9
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: At the start of your turn, target an ability or equipment you control. Then target an opposing card that shares a type with that targeted card. You and that opposing card's controller exchange control of those cards.
+
+regulation:
+
+errata: []
+
+temp: Human Archeologist

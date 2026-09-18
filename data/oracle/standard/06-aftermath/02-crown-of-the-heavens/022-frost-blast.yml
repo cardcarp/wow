@@ -1,0 +1,20 @@
+name: Frost Blast
+
+origin: crown-of-the-heavens-022
+
+layout: Standard
+
+category:
+  - Token
+
+trait:
+
+rule:
+  - type: Ability
+    text: "Ongoing : Attached hero can't attack, exhaust, or be dealt damage. At the start of your turn, destroy Frost Blast, and then Kel'Thuzad deals 10 frost damage to attached hero."
+
+regulation:
+
+errata: []
+
+temp: Token

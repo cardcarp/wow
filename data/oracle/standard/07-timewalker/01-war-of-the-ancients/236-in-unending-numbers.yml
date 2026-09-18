@@ -1,0 +1,20 @@
+name: In Unending Numbers
+
+origin: war-of-the-ancients-236
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Pay 4 to complete this quest. Reward : Name a race. Shuffle each ally of the named race from your graveyard into your deck, then draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

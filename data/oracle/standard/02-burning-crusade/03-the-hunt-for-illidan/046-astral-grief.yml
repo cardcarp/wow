@@ -1,0 +1,25 @@
+name: Astral Grief
+
+origin: the-hunt-for-illidan-046
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Mage
+
+instant: Interrupt target quest reward effect.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

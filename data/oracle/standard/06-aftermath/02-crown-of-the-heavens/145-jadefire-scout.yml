@@ -1,0 +1,30 @@
+name: Jadefire Scout
+
+origin: crown-of-the-heavens-145
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 3
+
+health: 2
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: This ally can attack only heroes.
+
+regulation:
+
+errata: []
+
+temp: Satyr Demon Hunter

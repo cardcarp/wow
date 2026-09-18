@@ -1,0 +1,22 @@
+name: Legend of Mount Hyjal
+
+origin: through-the-dark-portal-145
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '10'
+
+rule:
+  - type: Ability
+    text: Destroy all allies.
+
+regulation:
+
+errata: []
+
+temp: ''

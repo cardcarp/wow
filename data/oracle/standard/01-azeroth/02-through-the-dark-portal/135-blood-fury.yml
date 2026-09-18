@@ -1,0 +1,24 @@
+name: Blood Fury
+
+origin: through-the-dark-portal-135
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: 4+X
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 'Orc Hero Required Blood Fury enters play with X fury counters on it. Ongoing : Your hero has +1 ATK while attacking for each fury counter on Blood Fury.'
+
+regulation:
+
+errata: []
+
+temp: ''

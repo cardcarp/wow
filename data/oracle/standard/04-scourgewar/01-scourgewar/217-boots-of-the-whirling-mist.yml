@@ -1,0 +1,26 @@
+name: Boots of the Whirling Mist
+
+origin: scourgewar-217
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: Ability
+    text: "Hero : → Remove your hero from combat. Hero : → Interrupt target ability that's targeting your hero."
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

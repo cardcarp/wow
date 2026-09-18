@@ -1,0 +1,25 @@
+name: Roaring Blaze
+
+origin: fields-of-honor-038
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: Your hero deals 1 fire damage to each opposing ally for each card in your hand.
+
+regulation:
+
+errata: []
+
+temp: Fire

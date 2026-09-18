@@ -1,0 +1,26 @@
+name: Fel Iron Hatchet
+
+origin: through-the-dark-portal-272
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Hunter
+  - Shaman
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

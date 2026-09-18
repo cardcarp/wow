@@ -1,0 +1,25 @@
+name: Libram of Radiance
+
+origin: wrathgate-182
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: 1 , → Your hero deals 1 unpreventable holy damage to target hero or ally. When you play a armor, ready this item.
+
+regulation:
+
+errata: []
+
+temp: Item Ranged

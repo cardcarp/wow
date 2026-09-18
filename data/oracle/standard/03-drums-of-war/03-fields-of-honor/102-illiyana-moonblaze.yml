@@ -1,0 +1,30 @@
+name: Illiyana Moonblaze
+
+origin: fields-of-honor-102
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '8'
+
+damage: 9
+
+health: 9
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: At the start of your turn, each opponent destroys a card he controls.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Rogue

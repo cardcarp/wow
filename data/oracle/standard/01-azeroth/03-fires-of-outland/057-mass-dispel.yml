@@ -1,0 +1,25 @@
+name: Mass Dispel
+
+origin: fires-of-outland-057
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: Destroy any number of abilities.
+
+regulation:
+
+errata: []
+
+temp: Discipline

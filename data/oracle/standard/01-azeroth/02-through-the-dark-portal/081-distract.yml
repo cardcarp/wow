@@ -1,0 +1,25 @@
+name: Distract
+
+origin: through-the-dark-portal-081
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Exhaust all allies controlled by target player. They can't ready during his next ready step.
+
+regulation:
+
+errata: []
+
+temp: Subtlety

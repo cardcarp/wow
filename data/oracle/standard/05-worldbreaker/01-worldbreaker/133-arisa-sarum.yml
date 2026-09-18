@@ -1,0 +1,30 @@
+name: Arisa Sarum
+
+origin: worldbreaker-133
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 5
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector Opponents can't place quests face up.
+
+regulation:
+
+errata: []
+
+temp: Human Death Knight

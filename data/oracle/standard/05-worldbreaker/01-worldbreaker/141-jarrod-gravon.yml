@@ -1,0 +1,30 @@
+name: Jarrod Gravon
+
+origin: worldbreaker-141
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 1
+
+health: 6
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector 2 → Ready this ally.
+
+regulation:
+
+errata: []
+
+temp: Worgen Death Knight

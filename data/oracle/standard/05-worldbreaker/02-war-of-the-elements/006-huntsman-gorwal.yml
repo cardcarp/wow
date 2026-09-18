@@ -1,0 +1,28 @@
+name: Huntsman Gorwal
+
+origin: war-of-the-elements-006
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 5 → Flip Gorwal
+  - type: Ability
+    position: Reverse
+    text: Pets you control have Ferocity .
+
+regulation:
+
+errata: []
+
+temp: Worgen Hunter

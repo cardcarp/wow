@@ -1,0 +1,26 @@
+name: Bracers of the Green Fortress
+
+origin: azeroth-crafting-006
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Each of your face-down resources is also an armor with 1 DEF.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

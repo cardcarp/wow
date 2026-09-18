@@ -1,0 +1,30 @@
+name: Traxel Emberklik
+
+origin: worldbreaker-196
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 1
+
+health: 7
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Time is Money → This ally deals 1 fire damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Goblin Warlock

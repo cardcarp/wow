@@ -1,0 +1,30 @@
+name: Harudu Cloudshot
+
+origin: tomb-of-the-forgotten-104
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 1
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: This ally has +4 ATK while attacking an ally with cost 4 or more.
+
+regulation:
+
+errata: []
+
+temp: Tauren Hunter

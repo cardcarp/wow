@@ -1,0 +1,22 @@
+name: Trample Underfoot
+
+origin: magtheridons-lair-raid-029
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+rule:
+  - type: Ability
+    text: 'Magtheridon deals 2 melee damage to target hero or ally. Ongoing : When Magtheridon becomes exhausted, he deals 2 melee damage to target hero or ally.'
+
+regulation:
+
+errata: []
+
+temp: ''

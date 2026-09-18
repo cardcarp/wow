@@ -1,0 +1,28 @@
+name: Scepter of Azshara
+
+origin: war-of-the-ancients-228
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '7'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: Ability
+    text: At the start of your turn, you may choose a or race and destroy this weapon. If you do, destroy all allies not of that race.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Mace

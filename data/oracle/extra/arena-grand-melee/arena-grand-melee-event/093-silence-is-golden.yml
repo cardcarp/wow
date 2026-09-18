@@ -1,0 +1,20 @@
+name: Silence Is Golden
+
+origin: arena-grand-melee-event-093
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Players must whisper while speaking. When a player fails to do so, the Arena deals 1 library damage to his hero for each word not whispered.'
+
+regulation:
+
+errata: []
+
+temp: ''

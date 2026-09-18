@@ -1,0 +1,22 @@
+name: Tail Swipe
+
+origin: onyxias-lair-raid-026
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+rule:
+  - type: Ability
+    text: Destroy target ability, ally, or equipment.
+
+regulation:
+
+errata: []
+
+temp: ''

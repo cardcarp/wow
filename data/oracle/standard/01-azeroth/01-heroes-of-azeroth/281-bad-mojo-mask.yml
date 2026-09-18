@@ -1,0 +1,26 @@
+name: Bad Mojo Mask
+
+origin: heroes-of-azeroth-281
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+  - Warlock
+
+rule:
+  - type: Ability
+    text: At the start of each player's turn, that player discards a card.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

@@ -1,0 +1,25 @@
+name: Claws of the Dead
+
+origin: throne-of-the-tides-027
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: Opposing allies have -3 ATK this turn. Delve
+
+regulation:
+
+errata: []
+
+temp: Unholy

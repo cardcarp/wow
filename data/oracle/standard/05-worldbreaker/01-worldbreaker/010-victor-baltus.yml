@@ -1,0 +1,28 @@
+name: Victor Baltus
+
+origin: worldbreaker-010
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 → Flip Victor
+  - type: Ability
+    position: Reverse
+    text: Demons you control have +1 / +1.
+
+regulation:
+
+errata: []
+
+temp: Worgen Warlock

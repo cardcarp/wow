@@ -1,0 +1,28 @@
+name: Aric Stonejack
+
+origin: war-of-the-elements-002
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 7 → Flip Aric
+  - type: Ability
+    position: Reverse
+    text: At the end of your turn, if you do not control a Ghoul, put a 3 / 3 Ghoul ally token into play.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Death Knight

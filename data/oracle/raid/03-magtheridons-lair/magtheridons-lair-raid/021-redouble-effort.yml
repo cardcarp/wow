@@ -1,0 +1,22 @@
+name: Redouble Effort
+
+origin: magtheridons-lair-raid-021
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+rule:
+  - type: Ability
+    text: "Ongoing : → Ready Magtheridon. He can't attack the same hero more than once this turn."
+
+regulation:
+
+errata: []
+
+temp: ''

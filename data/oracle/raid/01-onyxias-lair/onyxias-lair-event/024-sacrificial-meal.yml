@@ -1,0 +1,22 @@
+name: Sacrificial Meal
+
+origin: onyxias-lair-event-024
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: Each opponent destroys one of his abilities, allies, or equipment.
+
+regulation:
+
+errata: []
+
+temp: ''

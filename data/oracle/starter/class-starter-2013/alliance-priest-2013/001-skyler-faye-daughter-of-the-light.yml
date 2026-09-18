@@ -1,0 +1,25 @@
+name: Skyler Faye, Daughter of the Light
+
+origin: alliance-priest-2013-001
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 26
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 1 , Flip Skyler → Skyler heals 3 damage from target ally you control.
+
+regulation:
+
+errata: []
+
+temp: Human Priest

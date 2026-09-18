@@ -1,0 +1,30 @@
+name: Kelvor Valorshine
+
+origin: fires-of-outland-168
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Combat damage that this ally would deal is unpreventable.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

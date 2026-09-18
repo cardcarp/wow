@@ -1,0 +1,30 @@
+name: Violet Signet of the Archmage
+
+origin: timewalkers-badges-of-justice-005
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 2 , , Turn a face-up resource you control face down → Add a charge counter to this item. → You pay 1 less to play your next ability this turn for each charge counter on this item.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

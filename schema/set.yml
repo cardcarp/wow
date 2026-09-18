@@ -1,0 +1,33 @@
+name:
+  type: string
+  required: true
+  
+type:
+  type: string
+  required: true
+  allowed: ['Standard', 'Raid', 'Starter', 'Promo', 'Craft', 'Dungeon', 'Badge', 'Token']
+
+index: # release order within the collection
+  type: string
+  nullable: true
+
+subtotal: # total as printed on the card (new sets lie to have 'surprise' secret art cards)
+  type: integer
+
+total:
+  type: integer
+
+date:
+  type: string
+  regex: '^[0-9]{4}-[0-9]{2}$'
+
+collection:
+  type: string
+  required: true
+
+publisher: # who printed this set, not who holds the licence. Lives here rather
+           # than on the collection because promo and catch-all collections
+           # group by kind, not era, and run straight through a handoff.
+  type: string
+  required: true
+  allowed: ['Upper Deck', 'Cryptozoic', 'Reborn']

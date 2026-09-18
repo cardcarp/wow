@@ -1,0 +1,22 @@
+name: Rune of Mohn
+
+origin: molten-core-raid-012
+
+layout: Standard
+
+category:
+  - Misc
+
+trait:
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: Opposing heroes and allies can't be healed.
+
+regulation:
+
+errata: []
+
+temp: Gehennas Boss 3

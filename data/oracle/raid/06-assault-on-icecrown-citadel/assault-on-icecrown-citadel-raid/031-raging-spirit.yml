@@ -1,0 +1,24 @@
+name: Raging Spirit
+
+origin: assault-on-icecrown-citadel-raid-031
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+type: Boss
+
+rule:
+  - type: Ability
+    text: 'Target opponent reveals his hand, and you put an ally from it into play under your control with this ability attached to it. Ongoing : Attached ally has Assault 2 and is also a Scourge ally.'
+
+regulation:
+
+errata: []
+
+temp: ''

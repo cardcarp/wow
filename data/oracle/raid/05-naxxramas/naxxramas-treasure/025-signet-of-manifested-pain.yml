@@ -1,0 +1,29 @@
+name: Signet of Manifested Pain
+
+origin: naxxramas-treasure-025
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: At the start of your turn, you may put 2 damage on your hero. If you do, put a 2 / 2 ally token into play with the same class and race as your hero.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

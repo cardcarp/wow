@@ -1,0 +1,30 @@
+name: Zindalan
+
+origin: tomb-of-the-forgotten-120
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 1
+
+health: 6
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 'Harmonize When this ally enters play, put a 0 / 3 Earth Totem token into play with " Ongoing : Harmonize ".'
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

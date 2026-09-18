@@ -1,0 +1,30 @@
+name: Underking Talonox
+
+origin: icecrown-160
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 6
+
+health: 6
+
+combat: Melee
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: Scourge Hero Required This ally has -1 / -1 while there is an ability in an opposing graveyard. This ally has -1 / -1 while there is an ally in an opposing graveyard. This ally has -1 / -1 while there is an equipment in an opposing graveyard.
+
+regulation:
+
+errata: []
+
+temp: Crypt Lord

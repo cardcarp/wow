@@ -1,0 +1,25 @@
+name: Brittilize
+
+origin: fields-of-honor-033
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: "Ongoing : When Brittilize enters play, you may destroy target armor. Destroy Brittilize → Your hero deals 2 frost damage to target hero or ally. A character dealt damage this way can't attack this turn."
+
+regulation:
+
+errata: []
+
+temp: Frost

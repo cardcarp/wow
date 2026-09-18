@@ -1,0 +1,25 @@
+name: Prayer of Vitality
+
+origin: icecrown-058
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: 'Your hero heals all damage from allies you control. Ongoing : Allies you control have +1 .'
+
+regulation:
+
+errata: []
+
+temp: Discipline

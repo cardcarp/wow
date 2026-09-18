@@ -1,0 +1,30 @@
+name: Furbolg Firecaller
+
+origin: war-of-the-ancients-180
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 4
+
+combat: Fire
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: While you have four or more cards in your graveyard, this ally has Assault 2 and Smash .
+
+regulation:
+
+errata: []
+
+temp: Furbolg Shaman

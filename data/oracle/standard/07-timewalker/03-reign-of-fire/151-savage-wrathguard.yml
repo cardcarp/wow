@@ -1,0 +1,30 @@
+name: Savage Wrathguard
+
+origin: reign-of-fire-151
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: Smash
+
+regulation:
+
+errata: []
+
+temp: Wrathguard Demon

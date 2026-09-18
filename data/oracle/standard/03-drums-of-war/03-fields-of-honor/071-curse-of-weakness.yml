@@ -1,0 +1,25 @@
+name: Curse of Weakness
+
+origin: fields-of-honor-071
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: "Attach to target hero or ally. Ongoing : At the start of attached character's controller's turn, exhaust it unless he pays 4 ."
+
+regulation:
+
+errata: []
+
+temp: Affliction Curse

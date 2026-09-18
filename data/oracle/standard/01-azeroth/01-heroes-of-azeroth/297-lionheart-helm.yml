@@ -1,0 +1,26 @@
+name: Lionheart Helm
+
+origin: heroes-of-azeroth-297
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Damage dealt by your hero can't be prevented.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

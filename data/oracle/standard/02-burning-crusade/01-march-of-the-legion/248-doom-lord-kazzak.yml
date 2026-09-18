@@ -1,0 +1,28 @@
+name: Doom Lord Kazzak
+
+origin: march-of-the-legion-248
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '13'
+
+damage: 13
+
+health: 13
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: At the end of your turn, destroy all non-Demon allies.
+
+regulation:
+
+errata: []
+
+temp: Demon

@@ -1,0 +1,30 @@
+name: Loate Grimtusk
+
+origin: icecrown-138
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Long-Range When this ally attacks, put him into his owner's hand at the end of this turn.
+
+regulation:
+
+errata: []
+
+temp: Troll Rogue

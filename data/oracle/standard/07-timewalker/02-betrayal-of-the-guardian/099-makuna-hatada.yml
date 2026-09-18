@@ -1,0 +1,30 @@
+name: Makuna Hatada
+
+origin: betrayal-of-the-guardian-099
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 5 → This and other allies you control have +5 ATK, Absorb , and Smash this turn.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

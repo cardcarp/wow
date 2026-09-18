@@ -1,0 +1,28 @@
+name: Arturius Hathrow
+
+origin: worldbreaker-002
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 3 → Flip Arturius
+  - type: Ability
+    position: Reverse
+    text: When Arturius heals damage for the first time each turn, he may deal 1 nature damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Worgen Druid

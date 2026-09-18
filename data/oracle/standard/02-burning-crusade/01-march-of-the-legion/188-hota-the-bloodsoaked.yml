@@ -1,0 +1,30 @@
+name: Hota the Bloodsoaked
+
+origin: march-of-the-legion-188
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Hota has Protector while an opponent has more allies than you.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

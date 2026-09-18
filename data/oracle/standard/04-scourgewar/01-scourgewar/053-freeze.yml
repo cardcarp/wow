@@ -1,0 +1,25 @@
+name: Freeze
+
+origin: scourgewar-053
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: "Attach to target opposing ally or weapon. Ongoing : Attached card can't attack or exhaust. Death Rattle : Target opposing ally or weapon can't attack or exhaust this turn."
+
+regulation:
+
+errata: []
+
+temp: Frost

@@ -1,0 +1,28 @@
+name: Vindicator Agran
+
+origin: servants-of-the-betrayer-193
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: 'Aldor Reputation Protector Inspire: Protector'
+
+regulation:
+
+errata: []
+
+temp: Draenei Warrior

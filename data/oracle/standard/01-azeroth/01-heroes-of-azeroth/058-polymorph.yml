@@ -1,0 +1,25 @@
+name: Polymorph
+
+origin: heroes-of-azeroth-058
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: "Attach to target ally. Ongoing : Attached ally can't attack or protect, loses and can't have powers, and is also a Sheep."
+
+regulation:
+
+errata: []
+
+temp: Arcane

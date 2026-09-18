@@ -1,0 +1,25 @@
+name: Hunting Preparations
+
+origin: caverns-of-time-treasure-010
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: Ready up to three face-up resources you control.
+
+regulation:
+
+errata: []
+
+temp: Survival

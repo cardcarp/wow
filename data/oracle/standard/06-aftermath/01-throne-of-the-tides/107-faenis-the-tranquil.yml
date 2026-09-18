@@ -1,0 +1,30 @@
+name: Faenis the Tranquil
+
+origin: throne-of-the-tides-107
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 6
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: At the end of your turn, this ally heals 1 damage from each hero and ally you control for each ally you control.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

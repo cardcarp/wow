@@ -1,0 +1,25 @@
+name: Annihilate
+
+origin: wrathgate-065
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Destroy target exhausted ally or exhausted equipment.
+
+regulation:
+
+errata: []
+
+temp: Combat Combo

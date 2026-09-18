@@ -1,0 +1,25 @@
+name: Carnage
+
+origin: fields-of-honor-055
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Destroy each opposing ally with cost 4 or less.
+
+regulation:
+
+errata: []
+
+temp: Assassination Combo

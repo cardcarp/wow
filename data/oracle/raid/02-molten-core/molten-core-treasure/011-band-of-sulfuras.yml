@@ -1,0 +1,30 @@
+name: Band of Sulfuras
+
+origin: molten-core-treasure-011
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: If a friendly hero or ally would deal damage to an Elemental, it deals that much damage +1 instead.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

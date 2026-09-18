@@ -1,0 +1,30 @@
+name: Scaramanga
+
+origin: through-the-dark-portal-189
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 2 , Destroy this ally → Draw a card.
+
+regulation:
+
+errata: []
+
+temp: Human Warlock

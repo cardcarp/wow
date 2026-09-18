@@ -1,0 +1,25 @@
+name: Fallingstar
+
+origin: servants-of-the-betrayer-002
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 30
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 1 , Flip Fallingstar → Allies in your party with damage have +2 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Warrior

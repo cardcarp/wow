@@ -1,0 +1,25 @@
+name: Gale Winds
+
+origin: icecrown-026
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: 'Balance Hero Required Ongoing : Abilities you control can be exhausted to pay costs as though they were resources.'
+
+regulation:
+
+errata: []
+
+temp: Balance Talent

@@ -1,0 +1,25 @@
+name: Timepiece of the Bronze Flight
+
+origin: battle-of-the-aspects-treasure-065
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '5'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: When this armor enters play, your hero deals unpreventable holy damage to target ally equal to the combined of this and other armor you control.
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

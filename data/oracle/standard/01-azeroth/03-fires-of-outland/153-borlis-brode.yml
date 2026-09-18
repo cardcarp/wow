@@ -1,0 +1,30 @@
+name: Borlis Brode
+
+origin: fires-of-outland-153
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 3
+
+health: 4
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Borlis Brode can't ready during your ready step.
+
+regulation:
+
+errata: []
+
+temp: Undead Priest

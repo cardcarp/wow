@@ -1,0 +1,26 @@
+name: Magtheridon
+
+origin: magtheridons-lair-raid-001
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 100
+
+rule:
+  - type: Ability
+    position: Front
+    text: Magtheridon has +1 ATK while attacking for each Blood in play. When the tenth Blood enters play, flip Magtheridon.
+  - type: Ability
+    position: Reverse
+    text: Magtheridon has +2 ATK while attacking for each Blood in play.
+
+regulation:
+
+errata: []
+
+temp: Pit Lord

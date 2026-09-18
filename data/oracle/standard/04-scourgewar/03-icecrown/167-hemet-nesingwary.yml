@@ -1,0 +1,28 @@
+name: Hemet Nesingwary
+
+origin: icecrown-167
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Ranged
+
+rule:
+  - type: Ability
+    text: Hunters you control can be exhausted to pay costs as though they were resources.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

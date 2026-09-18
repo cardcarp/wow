@@ -1,0 +1,30 @@
+name: Broderick Langforth
+
+origin: scourgewar-165
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: While this ally is in your graveyard, your hero has Assault 1 .
+
+regulation:
+
+errata: []
+
+temp: Undead Mage

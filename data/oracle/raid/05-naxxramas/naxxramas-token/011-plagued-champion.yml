@@ -1,0 +1,28 @@
+name: Plagued Champion
+
+origin: naxxramas-token-011
+
+layout: Standard
+
+category:
+  - Token
+
+trait:
+
+damage: 1
+
+health: 1
+
+combat: Shadow
+
+type: Ally
+
+rule:
+  - type: Ability
+    text: Protector
+
+regulation:
+
+errata: []
+
+temp: Skeleton

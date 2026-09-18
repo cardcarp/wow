@@ -1,0 +1,28 @@
+name: Ring of the Great Whale
+
+origin: throne-of-the-tides-241
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: Ability
+    text: If damage would be healed from a hero or ally you control, that much +2 is healed instead.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

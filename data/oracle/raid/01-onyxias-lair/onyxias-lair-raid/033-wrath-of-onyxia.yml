@@ -1,0 +1,22 @@
+name: Wrath of Onyxia
+
+origin: onyxias-lair-raid-033
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '6'
+
+rule:
+  - type: Ability
+    text: Destroy all opposing allies.
+
+regulation:
+
+errata: []
+
+temp: ''

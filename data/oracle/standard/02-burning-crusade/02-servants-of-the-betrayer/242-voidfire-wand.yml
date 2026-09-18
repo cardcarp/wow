@@ -1,0 +1,27 @@
+name: Voidfire Wand
+
+origin: servants-of-the-betrayer-242
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: When combat damage is dealt by with Voidfire Wand to a hero, the next time that hero's controller would draw a card, he skips drawing it instead.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Wand

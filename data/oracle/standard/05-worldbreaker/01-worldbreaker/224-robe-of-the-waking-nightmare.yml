@@ -1,0 +1,27 @@
+name: Robe of the Waking Nightmare
+
+origin: worldbreaker-224
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: Dragonkin you control have +1 / +1.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

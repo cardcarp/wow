@@ -1,0 +1,27 @@
+name: Dual Wield
+
+origin: through-the-dark-portal-127
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+
+instant: 'Ongoing : Your hero has Dual Wield .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

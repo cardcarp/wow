@@ -1,0 +1,30 @@
+name: Prazo Whiptrick
+
+origin: throne-of-the-tides-166
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: You pay 3 less to play this ally if you played an equipment this turn.
+
+regulation:
+
+errata: []
+
+temp: Goblin Rogue

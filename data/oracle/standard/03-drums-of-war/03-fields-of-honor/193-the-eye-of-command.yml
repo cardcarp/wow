@@ -1,0 +1,20 @@
+name: The Eye of Command
+
+origin: fields-of-honor-193
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'On your turn, pay 7 to complete this quest. Reward : Draw three cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

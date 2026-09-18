@@ -1,0 +1,25 @@
+name: Two-Handed Weapon Specialization
+
+origin: march-of-the-legion-122
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: 'Arms Hero Required Ongoing : Your Two-Handed weapons have +5 ATK.'
+
+regulation:
+
+errata: []
+
+temp: Arms Talent

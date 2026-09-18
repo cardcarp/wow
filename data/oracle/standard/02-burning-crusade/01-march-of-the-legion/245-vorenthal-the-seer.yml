@@ -1,0 +1,28 @@
+name: Voren'thal the Seer
+
+origin: march-of-the-legion-245
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '8'
+
+damage: 5
+
+health: 8
+
+combat: Fire
+
+rule:
+  - type: Ability
+    text: Scryer Reputation If you would draw a card, draw two instead.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Mage

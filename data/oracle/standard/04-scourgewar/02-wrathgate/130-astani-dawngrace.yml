@@ -1,0 +1,30 @@
+name: Astani Dawngrace
+
+origin: wrathgate-130
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 1
+
+health: 4
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector , Assault 1 , Mend 1
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

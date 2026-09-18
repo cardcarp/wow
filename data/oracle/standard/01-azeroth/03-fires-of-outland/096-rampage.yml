@@ -1,0 +1,25 @@
+name: Rampage
+
+origin: fires-of-outland-096
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: 'Fury Hero Required Ongoing : When your hero deals combat damage with a weapon, put a slaughter counter on Rampage. Your hero has +1 ATK while attacking for each slaughter counter on Rampage.'
+
+regulation:
+
+errata: []
+
+temp: Fury Talent

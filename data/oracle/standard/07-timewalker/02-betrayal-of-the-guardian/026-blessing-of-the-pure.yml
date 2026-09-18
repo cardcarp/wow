@@ -1,0 +1,25 @@
+name: Blessing of the Pure
+
+origin: betrayal-of-the-guardian-026
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: 'Attach to target ally you control. Ongoing : When this ability enters play, you may destroy target ability. Attached ally has +2 / +2.'
+
+regulation:
+
+errata: []
+
+temp: Holy Blessing Attachment

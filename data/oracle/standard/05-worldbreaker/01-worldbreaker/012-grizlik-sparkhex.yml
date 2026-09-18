@@ -1,0 +1,28 @@
+name: Grizlik Sparkhex
+
+origin: worldbreaker-012
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 → Flip Grizlik
+  - type: Ability
+    position: Reverse
+    text: You can control an additional Pet.
+
+regulation:
+
+errata: []
+
+temp: Goblin Warlock

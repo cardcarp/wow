@@ -1,0 +1,25 @@
+name: Lesson of the Arcane
+
+origin: wrathgate-048
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Mage
+
+instant: You may exhaust a non-hero Mage you control rather than pay this ability's cost. If a Mage you control is defending, remove it from combat and draw a card.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Arcane

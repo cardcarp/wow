@@ -1,0 +1,28 @@
+name: Jin'dos Evil Eye
+
+origin: through-the-dark-portal-264
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Druid
+  - Priest
+  - Paladin
+  - Shaman
+
+rule:
+  - type: Ability
+    text: At the start of each player's turn, the first opponent to that player's left names a card. That card can't be played this turn.
+
+regulation:
+
+errata: []
+
+temp: Item Neck

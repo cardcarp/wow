@@ -1,0 +1,30 @@
+name: Seva Shadowdancer
+
+origin: heroes-of-azeroth-216
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 1
+
+combat: Holy
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Elusive x , → This ally heals X damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Priest

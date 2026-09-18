@@ -1,0 +1,30 @@
+name: Kiani De'nara
+
+origin: fires-of-outland-169
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '7'
+
+damage: 6
+
+health: 5
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: You may destroy four of your resources rather than pay Kiani De'nara's cost.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

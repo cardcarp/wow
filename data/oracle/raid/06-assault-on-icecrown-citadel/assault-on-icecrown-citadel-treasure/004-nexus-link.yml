@@ -1,0 +1,25 @@
+name: Nexus Link
+
+origin: assault-on-icecrown-citadel-treasure-004
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: 'Ongoing : When you or a friendly player plays a fire or card, your hero may deal 1 fire damage to target hero. When you or a friendly player plays a frost or card, your hero may deal 1 frost damage to target ally.'
+
+regulation:
+
+errata: []
+
+temp: Arcane

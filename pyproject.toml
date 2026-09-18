@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cardcarp-wow"
+version = "0.0.0"
+description = "The World of Warcraft TCG card dataset."
+requires-python = ">=3.10"
+
+# The build itself is cardcarp/compile, shared by every game dataset. This repo is
+# data and schema; `pip install .` fetches the pipeline that reads them.
+dependencies = [
+    "cardcarp-compile-core @ git+https://github.com/cardcarp/compile.git",
+]
+
+# A data repo, not a library: there is no Python here to package. Without this,
+# setuptools auto-discovery sees data/ and schema/ as packages and refuses to build.
+[tool.setuptools]
+packages = []

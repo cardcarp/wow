@@ -1,0 +1,30 @@
+name: Grok Goreblade
+
+origin: tomb-of-the-forgotten-103
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: This ally has +2 / +2 while you control an equipment.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

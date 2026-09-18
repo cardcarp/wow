@@ -1,0 +1,25 @@
+name: Fingers of Frost
+
+origin: icecrown-042
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: Frost Hero Required If you have ten or more cards in your hand, opposing cards can't attack or exhaust until the start of your next turn.
+
+regulation:
+
+errata: []
+
+temp: Frost Talent

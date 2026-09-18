@@ -1,0 +1,26 @@
+name: Abomination Knuckles
+
+origin: worldbreaker-233
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Shaman
+  - Rogue
+
+rule:
+  - type: Ability
+    text: When this weapon enters play, you may destroy target armor or item.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Fist

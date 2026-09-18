@@ -1,0 +1,28 @@
+name: Dark Lady Sylvanas Windrunner
+
+origin: assault-on-icecrown-citadel-raid-002
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 5 → Flip Sylvanas face down.
+  - type: Ability
+    position: Reverse
+    text: 'Song of Sylvanas : Sylvanas and allies you control have Assault 1 .'
+
+regulation:
+
+errata: []
+
+temp: Undead Hunter

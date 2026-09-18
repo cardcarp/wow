@@ -1,0 +1,25 @@
+name: Elemental Balance
+
+origin: battle-of-the-aspects-treasure-023
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 'Choose one: Your hero deals 5 nature damage to each hero; or your hero heals 5 damage from each hero.'
+
+regulation:
+
+errata: []
+
+temp: Elemental

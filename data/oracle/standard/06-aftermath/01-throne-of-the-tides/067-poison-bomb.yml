@@ -1,0 +1,25 @@
+name: Poison Bomb
+
+origin: throne-of-the-tides-067
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 'Your hero deals 3 nature damage to each opposing hero and ally. Ongoing : This ability enters play with three gas counters on it. At the start of your turn, remove a gas counter from this ability. If you do, your hero deals 1 nature damage to each opposing hero and ally. Then, if no gas counters remain, destroy this ability.'
+
+regulation:
+
+errata: []
+
+temp: Assassination

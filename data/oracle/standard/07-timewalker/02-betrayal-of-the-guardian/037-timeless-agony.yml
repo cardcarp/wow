@@ -1,0 +1,25 @@
+name: Timeless Agony
+
+origin: betrayal-of-the-guardian-037
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: Echo Target opponent removes the top three cards of his deck from the game.
+
+regulation:
+
+errata: []
+
+temp: Shadow

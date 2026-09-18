@@ -1,0 +1,29 @@
+name: Arch Druid Lilliandra
+
+origin: icecrown-001
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 27
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    position: Front
+    text: Argent Crusade Reputation Flip Lilliandra, remove a Druid in your graveyard from the game → When Lilliandra is dealt combat damage this turn, she deals 1 nature damage to the source of that damage.
+  - type: Ability
+    position: Reverse
+    text: "Deckbuilding : You can only include either or cards, cards, Balance talents, neutral cards, and Argent Crusade cards. You can't include cards with other reputations or other text restrictions."
+
+regulation:
+
+errata: []
+
+temp: Night Elf Druid

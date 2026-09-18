@@ -1,0 +1,22 @@
+name: Wisdom
+
+origin: tomb-of-the-forgotten-072
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+rule:
+  - type: Ability
+    text: Draw two cards.
+
+regulation:
+
+errata: []
+
+temp: ''

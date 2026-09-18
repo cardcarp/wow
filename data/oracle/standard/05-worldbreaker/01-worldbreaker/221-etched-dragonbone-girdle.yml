@@ -1,0 +1,27 @@
+name: Etched Dragonbone Girdle
+
+origin: worldbreaker-221
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: ', Destroy a Dragonkin you control → Draw two cards.'
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

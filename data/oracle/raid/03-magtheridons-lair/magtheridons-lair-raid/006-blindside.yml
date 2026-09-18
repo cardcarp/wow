@@ -1,0 +1,22 @@
+name: Blindside
+
+origin: magtheridons-lair-raid-006
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+rule:
+  - type: Ability
+    text: Each raiding player removes his hand from the game. At the end of your next turn, put each card removed this way into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: ''

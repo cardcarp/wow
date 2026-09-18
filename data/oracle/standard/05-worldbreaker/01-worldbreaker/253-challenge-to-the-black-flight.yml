@@ -1,0 +1,20 @@
+name: Challenge to the Black Flight
+
+origin: worldbreaker-253
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Pay 2 to complete this quest. Reward : Draw a card if a Dragonkin entered play this turn. Draw a card if a Dragonkin left play this turn.'
+
+regulation:
+
+errata: []
+
+temp: ''

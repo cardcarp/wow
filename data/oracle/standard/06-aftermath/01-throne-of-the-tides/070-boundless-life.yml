@@ -1,0 +1,25 @@
+name: Boundless Life
+
+origin: throne-of-the-tides-070
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Eternal Your hero heals 1 damage from itself and each ally you control for each resource you control.
+
+regulation:
+
+errata: []
+
+temp: Restoration

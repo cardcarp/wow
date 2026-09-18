@@ -1,0 +1,30 @@
+name: Durdin Hammerhand
+
+origin: through-the-dark-portal-162
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Destroy Durdin Hammerhand → Exhaust target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

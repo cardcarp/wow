@@ -1,0 +1,25 @@
+name: '"Bonewall" Simms'
+
+origin: blood-of-gladiators-011
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 30
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Bonewall → Target hero or ally is a Protector this turn.
+
+regulation:
+
+errata: []
+
+temp: Undead Warrior

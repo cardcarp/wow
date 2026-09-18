@@ -1,0 +1,25 @@
+name: Bildros Nullvoid
+
+origin: march-of-the-legion-002
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Bildros → Pet cards in your hand are instant this turn.
+
+regulation:
+
+errata: []
+
+temp: Gnome Warlock

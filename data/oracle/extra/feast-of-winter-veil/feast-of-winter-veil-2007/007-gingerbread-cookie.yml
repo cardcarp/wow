@@ -1,0 +1,33 @@
+name: Gingerbread Cookie
+
+origin: feast-of-winter-veil-2007-007
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Destroy Gingerbread Cookie → Each hero heals 7 damage from itself.
+
+regulation:
+
+errata: []
+
+temp: Item Cookie

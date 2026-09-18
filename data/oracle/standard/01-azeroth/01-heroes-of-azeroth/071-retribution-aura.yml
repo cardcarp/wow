@@ -1,0 +1,25 @@
+name: Retribution Aura
+
+origin: heroes-of-azeroth-071
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Paladin
+
+rule:
+  - type: Ability
+    text: 'Ongoing : When a hero or ally in your party is dealt combat damage, it deals 1 holy damage to the source of that combat damage.'
+
+regulation:
+
+errata: []
+
+temp: Retribution

@@ -1,0 +1,26 @@
+name: Frost-bound Chain Bracers
+
+origin: icecrown-171
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 'When you strike with a weapon, your hero may deal 1 frost damage to target hero or ally. Death Rattle : You pay 2 less to strike with weapons this turn.'
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

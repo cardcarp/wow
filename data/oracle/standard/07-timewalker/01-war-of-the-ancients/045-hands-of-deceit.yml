@@ -1,0 +1,25 @@
+name: Hands of Deceit
+
+origin: war-of-the-ancients-045
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Target opponent chooses a number. Then you choose "higher", "equal", or "lower. That opponent reveals his hand and discards all cards with cost higher than, equal to, or lower than the choosen cost, accordingly.
+
+regulation:
+
+errata: []
+
+temp: Subtlety

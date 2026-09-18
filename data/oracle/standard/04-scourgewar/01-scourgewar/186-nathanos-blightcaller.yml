@@ -1,0 +1,28 @@
+name: Nathanos Blightcaller
+
+origin: scourgewar-186
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 2
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally enters play, put two 2 / 2 Blighthound ally tokens into play with Protector . This ally can't be destroyed while you control a Blighthound.
+
+regulation:
+
+errata: []
+
+temp: Undead Ranger

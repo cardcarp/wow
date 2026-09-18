@@ -1,0 +1,30 @@
+name: Dagin Bootzap
+
+origin: war-of-the-elements-112
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 2
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: When this ally enters play, he deals 1 arcane damage to target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

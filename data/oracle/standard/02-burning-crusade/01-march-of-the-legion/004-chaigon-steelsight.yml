@@ -1,0 +1,25 @@
+name: Chaigon Steelsight
+
+origin: march-of-the-legion-004
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 1 , Flip Chaigon → Target ally has -3 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

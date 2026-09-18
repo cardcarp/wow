@@ -1,0 +1,30 @@
+name: Ubel Sternbrow
+
+origin: fires-of-outland-148
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 1
+
+health: 6
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector Ubel Sternbrow can protect himself.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Paladin

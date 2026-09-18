@@ -1,0 +1,30 @@
+name: Muradin Bronzebeard
+
+origin: assault-on-icecrown-citadel-treasure-011
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 4
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: At the end of your turn, this ally deals 4 melee damage to each damaged opposing hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warrior

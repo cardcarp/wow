@@ -1,0 +1,25 @@
+name: Desperate Plea
+
+origin: icecrown-054
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+
+instant: If your hero has 15 or more damage, it heals 10 damage from itself.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Holy

@@ -1,0 +1,25 @@
+name: Haruka Skycaller
+
+origin: through-the-dark-portal-014
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Haruka Skycaller → Ready target Melee weapon.
+
+regulation:
+
+errata: []
+
+temp: Orc Shaman

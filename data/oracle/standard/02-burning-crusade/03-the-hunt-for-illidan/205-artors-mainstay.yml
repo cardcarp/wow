@@ -1,0 +1,26 @@
+name: Ar'tors Mainstay
+
+origin: the-hunt-for-illidan-205
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: Ability
+    text: When your hero deals damage with an ability, you may ready one of your resources.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

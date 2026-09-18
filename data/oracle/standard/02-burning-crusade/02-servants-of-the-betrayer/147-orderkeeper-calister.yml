@@ -1,0 +1,30 @@
+name: Orderkeeper Calister
+
+origin: servants-of-the-betrayer-147
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 5
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector Opponents pay 2 more to play equipment.
+
+regulation:
+
+errata: []
+
+temp: Human Warrior

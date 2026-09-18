@@ -1,0 +1,31 @@
+name: 'Darkmoon Card: Hurricane'
+
+origin: twilight-of-the-dragons-187
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Shaman
+
+rule:
+  - type: Ability
+    text: When this item enters or leaves play, your hero deals 1 nature damage to each opposing ally.
+
+regulation:
+
+errata: []
+
+temp: Item Trinket

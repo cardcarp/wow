@@ -1,0 +1,30 @@
+name: Ra'chee
+
+origin: through-the-dark-portal-230
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 1
+
+health: 2
+
+combat: Holy
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Ra'chee enters play, he heals 2 damage from target hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Troll Priest

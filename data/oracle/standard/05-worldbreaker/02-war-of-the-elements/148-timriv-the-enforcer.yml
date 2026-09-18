@@ -1,0 +1,30 @@
+name: Timriv the Enforcer
+
+origin: war-of-the-elements-148
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 3
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Time is Money → Destroy all opposing damaged allies.
+
+regulation:
+
+errata: []
+
+temp: Goblin Warrior

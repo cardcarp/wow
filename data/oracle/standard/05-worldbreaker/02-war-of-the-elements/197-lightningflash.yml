@@ -1,0 +1,25 @@
+name: Lightningflash
+
+origin: war-of-the-elements-197
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: Long-Range Ranged Dual Wield
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Gun

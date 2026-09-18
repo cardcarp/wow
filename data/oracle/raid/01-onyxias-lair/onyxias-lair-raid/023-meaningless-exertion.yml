@@ -1,0 +1,22 @@
+name: Meaningless Exertion
+
+origin: onyxias-lair-raid-023
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+instant: 'Choose one: Destroy target ability; or interrupt target ability card.'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

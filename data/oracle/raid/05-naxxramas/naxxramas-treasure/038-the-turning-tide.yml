@@ -1,0 +1,27 @@
+name: The Turning Tide
+
+origin: naxxramas-treasure-038
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: You pay 2 less to play allies while you control fewer allies than an opponent.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Sword

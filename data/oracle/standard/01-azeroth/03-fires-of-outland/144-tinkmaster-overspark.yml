@@ -1,0 +1,30 @@
+name: Tinkmaster Overspark
+
+origin: fires-of-outland-144
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '8'
+
+damage: 5
+
+health: 6
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: At the start of your turn, you may put an equipment card from your graveyard into play.
+
+regulation:
+
+errata: []
+
+temp: Gnome Engineer

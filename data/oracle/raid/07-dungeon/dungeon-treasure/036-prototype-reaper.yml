@@ -1,0 +1,30 @@
+name: Prototype Reaper
+
+origin: dungeon-treasure-036
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 1
+
+health: 1
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: When this ally enters play, leaves play, exhausts, or readies, it may deal 1 melee damage to target ally.
+
+regulation:
+
+errata: []
+
+temp: Mechanical Reaper

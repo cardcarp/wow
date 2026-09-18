@@ -1,0 +1,26 @@
+name: Fists of Mukoa
+
+origin: blood-of-gladiators-162
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Hunter
+  - Shaman
+
+rule:
+  - type: Ability
+    text: While you have no weapons, your hero has +1 ATK while attacking.
+
+regulation:
+
+errata: []
+
+temp: Armor Mail

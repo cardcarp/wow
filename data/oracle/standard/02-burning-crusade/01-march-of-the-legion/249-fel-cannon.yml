@@ -1,0 +1,28 @@
+name: Fel Cannon
+
+origin: march-of-the-legion-249
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 1
+
+health: 4
+
+combat: Fire
+
+rule:
+  - type: Ability
+    text: When a player plays a card, Fel Cannon deals 2 fire damage to that player's hero.
+
+regulation:
+
+errata: []
+
+temp: Mechanical

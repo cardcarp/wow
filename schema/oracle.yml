@@ -1,0 +1,118 @@
+# A card as the rules know it, independent of printing,
+# shared by every reprint and by both faces of a two-sided card.
+
+name:
+  type: string
+  required: true
+
+origin: # The printing this oracle first appeared in, as '{set}-{index}'. 
+        # Name alone cannot identify an oracle (six cards are called "Deathwing the Destroyer"), 
+        # So the id is derived from name + origin. 
+        # Anchored to the earliest printing so it stays stable as reprints are added.
+  type: string
+  required: true
+
+layout:
+  type: string
+  required: true
+  nullable: false
+  allowed: ['Standard']
+
+category:
+  type: list
+  required: true
+  nullable: true
+  schema:
+    type: string
+    allowed: ['Ally', 'Hero', 'Master Hero', 'Ability', 'Equipment', 'Location', 'Event', 'Quest', 'Achievement', 'Token', 'Craft', 'Dungeon', 'Badge', 'Misc']
+
+trait: # A catch-all to categorize/tag. Kept disjoint from category: a trait
+       # never reuses a category's name, so oracle_exception can match on either.
+  type: list
+  required: true
+  nullable: true
+  schema:
+    type: string
+
+cost:
+  type: string
+  required: false
+  min: 0 
+  coerce: str
+
+damage:
+  type: integer
+  required: false
+  min: 0
+  coerce: int
+
+health:
+  type: integer
+  required: false
+  min: 0
+  coerce: int
+
+combat:
+  type: string
+  required: false
+
+faction:
+  type: string
+  required: false
+
+class:
+  type: list
+  required: false
+  schema:
+    type: string
+
+instant:
+  type: string
+  required: false
+
+type:
+  type: string
+  required: false
+
+stage:
+  type: integer
+  required: false
+
+rule:
+  type: list
+  required: false
+  schema:
+    type: dict
+    schema:
+      type:
+        type: string
+        required: false
+      position: # which face of a flip card the rule sits on
+        type: string
+        required: false
+      text:
+        type: string
+        required: false
+
+regulation:
+  type: string
+  required: true
+  nullable: true
+
+errata:
+  type: list
+  required: false
+  nullable: true
+  schema:
+    type: dict
+    schema:
+      date:
+        type: string
+        required: false
+      text:
+        type: string
+        required: false
+
+temp: # Data normalized from other sources, Intended to be cleaned up.
+  type: string
+  required: false

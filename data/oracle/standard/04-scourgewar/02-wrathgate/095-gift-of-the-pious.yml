@@ -1,0 +1,26 @@
+name: Gift of the Pious
+
+origin: wrathgate-095
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '6'
+
+class:
+  - Druid
+  - Paladin
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Allies you control have +1 / +1 for each Druid and Paladin you control.'
+
+regulation:
+
+errata: []
+
+temp: Restoration Protection Blessing

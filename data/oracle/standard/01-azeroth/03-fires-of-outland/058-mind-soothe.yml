@@ -1,0 +1,25 @@
+name: Mind Soothe
+
+origin: fires-of-outland-058
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: "Attach to target ally. Ongoing : Attached ally can't attack your hero."
+
+regulation:
+
+errata: []
+
+temp: Shadow

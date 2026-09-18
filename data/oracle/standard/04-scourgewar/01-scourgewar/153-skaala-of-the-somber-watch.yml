@@ -1,0 +1,30 @@
+name: Skaala of the Somber Watch
+
+origin: scourgewar-153
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 1
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Opposing heroes have "This hero has -1 ATK for each damage on it."
+
+regulation:
+
+errata: []
+
+temp: Draenei Death Knight

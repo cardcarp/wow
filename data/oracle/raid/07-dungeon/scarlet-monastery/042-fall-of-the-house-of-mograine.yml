@@ -1,0 +1,20 @@
+name: Fall of the House of Mograine
+
+origin: scarlet-monastery-042
+
+layout: Standard
+
+category:
+  - Achievement
+
+trait:
+
+rule:
+  - type: Ability
+    text: Defeat Mograine without any Raiding heroes being destroyed.
+
+regulation:
+
+errata: []
+
+temp: ''

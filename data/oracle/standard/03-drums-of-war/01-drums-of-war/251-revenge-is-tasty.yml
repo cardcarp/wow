@@ -1,0 +1,20 @@
+name: Revenge Is Tasty
+
+origin: drums-of-war-251
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Revenge Is Tasty enters play exhausted. Pay 2 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

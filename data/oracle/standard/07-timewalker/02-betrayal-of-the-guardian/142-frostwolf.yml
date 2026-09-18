@@ -1,0 +1,30 @@
+name: Frostwolf
+
+origin: betrayal-of-the-guardian-142
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 3
+
+health: 2
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: This and other allies you control have +1 ATK while attacking heroes and allies.
+
+regulation:
+
+errata: []
+
+temp: Wolf Beast

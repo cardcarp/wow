@@ -1,0 +1,25 @@
+name: Demonic Torrent
+
+origin: battle-of-the-aspects-treasure-027
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: Your hero deals 3 shadow damage to each non-Demon hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Demonology

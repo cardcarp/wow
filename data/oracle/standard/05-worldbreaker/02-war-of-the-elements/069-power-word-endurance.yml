@@ -1,0 +1,25 @@
+name: 'Power Word: Endurance'
+
+origin: war-of-the-elements-069
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: 'Ongoing : Friendly heroes and allies have +2 .'
+
+regulation:
+
+errata: []
+
+temp: Discipline

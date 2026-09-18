@@ -1,0 +1,27 @@
+name: Wall of the Dead
+
+origin: heroes-of-azeroth-302
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Remove an ally card in your graveyard from the game → Put a bone counter on Wall of the Dead. Wall of the Dead has +1 DEF for each bone counter on it.
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

@@ -1,0 +1,20 @@
+name: Thats Abominable!
+
+origin: icecrown-218
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Pay 3 to complete this quest. Reward : Draw two cards. Then, if you have three or more cards in your hand, discard two cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,30 @@
+name: Archduke Franklin Pearce
+
+origin: scourgewar-127
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 5
+
+health: 4
+
+combat: Shadow
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 3 , Discard a card → Put target equipment on the bottom of its owner's deck.
+
+regulation:
+
+errata: []
+
+temp: Human Death Knight

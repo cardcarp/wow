@@ -1,0 +1,30 @@
+name: Cholda Wildbloom
+
+origin: march-of-the-legion-180
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 1
+
+health: 3
+
+combat: Nature
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When Cholda enters play, you and target opponent each put the top card of your decks into your resource rows face down and exhausted.
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

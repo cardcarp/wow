@@ -1,0 +1,24 @@
+name: Ruthless Precision
+
+origin: naxxramas-raid-055
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+type: Raid
+
+stage: 15
+
+rule:
+  - type: Ability
+    text: Destroy target raiding equipment. If you're in the Military Wing, the Boss deals melee damage to that equipment's controller's hero equal to its cost.
+
+regulation:
+
+errata: []
+
+temp: ''

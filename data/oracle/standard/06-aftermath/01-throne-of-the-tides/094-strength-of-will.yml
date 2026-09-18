@@ -1,0 +1,22 @@
+name: Strength of Will
+
+origin: throne-of-the-tides-094
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+rule:
+  - type: Ability
+    text: 'Attach to target ally. Ongoing : Attached ally has +2 / +2.'
+
+regulation:
+
+errata: []
+
+temp: ''

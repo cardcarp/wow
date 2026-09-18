@@ -1,0 +1,28 @@
+name: Ambassador Jerrikar
+
+origin: the-hunt-for-illidan-196
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: Jerrikar has Ferocity if an opponent went first this game.
+
+regulation:
+
+errata: []
+
+temp: Satyr Demon

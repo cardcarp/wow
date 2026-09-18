@@ -1,0 +1,30 @@
+name: Warlord Goretooth
+
+origin: heroes-of-azeroth-268
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 3
+
+health: 4
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Orcs in your party have Ferocity .
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

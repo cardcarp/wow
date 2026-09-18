@@ -1,0 +1,25 @@
+name: Ona Skyshot
+
+origin: fires-of-outland-016
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 29
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Ona Skyshot → Ready target Ranged weapon.
+
+regulation:
+
+errata: []
+
+temp: Tauren Hunter

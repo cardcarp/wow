@@ -1,0 +1,25 @@
+name: Bloodthirsty Shout
+
+origin: war-of-the-ancients-065
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Heroes and allies you control have +2 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Fury Shout

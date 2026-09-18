@@ -1,0 +1,25 @@
+name: Nathressa Darkstrider
+
+origin: through-the-dark-portal-003
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 1 , Flip Nathressa Darkstrider → Nathressa has Stealth this turn.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Rogue

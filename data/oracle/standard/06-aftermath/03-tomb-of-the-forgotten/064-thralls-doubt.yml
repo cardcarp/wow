@@ -1,0 +1,22 @@
+name: Thralls Doubt
+
+origin: tomb-of-the-forgotten-064
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+rule:
+  - type: Ability
+    text: 'Ongoing : On your turn: Exhaust an Aspect of Thrall ability you control → Draw a card, then discard a card.'
+
+regulation:
+
+errata: []
+
+temp: Aspect of Thrall

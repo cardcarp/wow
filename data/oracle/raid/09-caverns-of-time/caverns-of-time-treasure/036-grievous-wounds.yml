@@ -1,0 +1,25 @@
+name: Grievous Wounds
+
+origin: caverns-of-time-treasure-036
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: Double the damage on each opposing ally.
+
+regulation:
+
+errata: []
+
+temp: Fury

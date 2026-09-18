@@ -1,0 +1,30 @@
+name: Valak the Vortex
+
+origin: throne-of-the-tides-131
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Arcane
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: When this ally attacks, you may discard an ability. If you do, he deals arcane damage to target ally equal to the cost of that ability.
+
+regulation:
+
+errata: []
+
+temp: Worgen Mage

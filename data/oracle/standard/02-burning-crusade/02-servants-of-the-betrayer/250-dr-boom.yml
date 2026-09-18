@@ -1,0 +1,20 @@
+name: Dr. Boom!
+
+origin: servants-of-the-betrayer-250
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Pay 1 to complete this quest. Reward : Reveal the top card of your deck, put damage on your hero equal to its cost, and put it into your hand.'
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,25 @@
+name: Savage Roar
+
+origin: icecrown-031
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: 'Finishing Move Ongoing : This ability enters play with X roar counters. While you control a Form, your hero has Assault 1 for each roar counter.'
+
+regulation:
+
+errata: []
+
+temp: Feral

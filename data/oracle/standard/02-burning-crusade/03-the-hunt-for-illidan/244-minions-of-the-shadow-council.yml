@@ -1,0 +1,20 @@
+name: Minions of the Shadow Council
+
+origin: the-hunt-for-illidan-244
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'When an opposing ally is destroyed, put a corpse counter on Minions of the Shadow Council. Remove all corpse counters and pay 3 to complete this quest. Reward : If you removed three or more counters this way, draw three cards.'
+
+regulation:
+
+errata: []
+
+temp: ''

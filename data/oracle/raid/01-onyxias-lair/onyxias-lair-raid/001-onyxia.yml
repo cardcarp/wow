@@ -1,0 +1,24 @@
+name: Onyxia
+
+origin: onyxias-lair-raid-001
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+rule:
+  - type: Ability
+    position: Front
+    text: Onyxia has +3 ATK while attacking. 20 , Flip Onyxia → Destroy all opposing heroes.
+  - type: Ability
+    position: Reverse
+    text: Onyxia has +3 ATK while attacking.
+
+regulation:
+
+errata: []
+
+temp: Black Dragon Stage 3

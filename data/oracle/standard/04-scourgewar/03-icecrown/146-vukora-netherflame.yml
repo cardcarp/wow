@@ -1,0 +1,30 @@
+name: Vukora Netherflame
+
+origin: icecrown-146
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 2
+
+health: 4
+
+combat: Fire
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Opposing allies with Resistance have -1 .
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

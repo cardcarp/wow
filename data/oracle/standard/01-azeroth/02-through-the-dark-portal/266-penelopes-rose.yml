@@ -1,0 +1,28 @@
+name: Penelopes Rose
+
+origin: through-the-dark-portal-266
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Druid
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: When you complete a quest, draw a card.
+
+regulation:
+
+errata: []
+
+temp: Item Off-Hand

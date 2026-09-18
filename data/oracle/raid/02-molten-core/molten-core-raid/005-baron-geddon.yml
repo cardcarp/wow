@@ -1,0 +1,26 @@
+name: Baron Geddon
+
+origin: molten-core-raid-005
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 15
+
+rule:
+  - type: Ability
+    position: Front
+    text: When Baron Geddon enters play, each opponent destroys all but five of his resources. At the end of your turn, Baron Geddon deals 1 fire damage to each opposing hero and ally for each resource you have. → Flip Baron Geddon
+  - type: Ability
+    position: Reverse
+    text: Destroy Baron Geddon → Baron Geddon deals 12 fire damage to each opposing hero and ally. Use only if Baron Geddon has 12 or more damage.
+
+regulation:
+
+errata: []
+
+temp: Elemental

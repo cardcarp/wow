@@ -1,0 +1,28 @@
+name: Haedis
+
+origin: worldbreaker-005
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 29
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 5 → Flip Haedis
+  - type: Ability
+    position: Reverse
+    text: If Haedis would deal damage, he deals that much +1 instead.
+
+regulation:
+
+errata: []
+
+temp: Draenei Death Knight

@@ -1,0 +1,30 @@
+name: Haratha Hammerflame
+
+origin: alliance-shaman-2011-015
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 3
+
+health: 2
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: When this ally is destroyed, she may deal 3 fire damage to target opposing hero.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Shaman

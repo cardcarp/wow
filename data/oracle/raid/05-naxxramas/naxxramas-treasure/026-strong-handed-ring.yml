@@ -1,0 +1,29 @@
+name: Strong-Handed Ring
+
+origin: naxxramas-treasure-026
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '5'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Paladin
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: Your hero has Assault 5 while you have five or more cards in your hand.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

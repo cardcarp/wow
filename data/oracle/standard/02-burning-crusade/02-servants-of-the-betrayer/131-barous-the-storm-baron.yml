@@ -1,0 +1,30 @@
+name: Barous the Storm Baron
+
+origin: servants-of-the-betrayer-131
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 4
+
+health: 5
+
+combat: Nature
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: allies in your party have " → This ally deals nature damage equal to its ATK, divided as you choose, to any number of target allies."
+
+regulation:
+
+errata: []
+
+temp: Draenei Shaman

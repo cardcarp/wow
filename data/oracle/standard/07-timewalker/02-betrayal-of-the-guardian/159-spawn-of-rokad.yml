@@ -1,0 +1,30 @@
+name: Spawn of Rokad
+
+origin: betrayal-of-the-guardian-159
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '6'
+
+damage: 2
+
+health: 6
+
+combat: Melee
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: When this ally enters play, if an opponent controls an ally with 6 or more, this ally has +4 ATK and Ferocity this turn.
+
+regulation:
+
+errata: []
+
+temp: Hound Beast

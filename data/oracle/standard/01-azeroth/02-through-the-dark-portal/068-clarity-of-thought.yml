@@ -1,0 +1,25 @@
+name: Clarity of Thought
+
+origin: through-the-dark-portal-068
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: 'Ongoing : → Draw a card. Use only if your hero has no damage on it.'
+
+regulation:
+
+errata: []
+
+temp: Holy

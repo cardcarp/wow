@@ -1,0 +1,30 @@
+name: Soulrender Keldah
+
+origin: war-of-the-ancients-146
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 3
+
+health: 3
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally attacks, choose and destroy a resource you control.
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

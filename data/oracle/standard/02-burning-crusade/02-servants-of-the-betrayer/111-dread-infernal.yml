@@ -1,0 +1,31 @@
+name: Dread Infernal
+
+origin: servants-of-the-betrayer-111
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 5
+
+health: 5
+
+combat: Fire
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: When this ally enters or leaves play, he deals 1 fire damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Infernal Demon

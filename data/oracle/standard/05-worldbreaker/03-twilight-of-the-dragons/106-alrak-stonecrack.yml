@@ -1,0 +1,30 @@
+name: Alrak Stonecrack
+
+origin: twilight-of-the-dragons-106
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 4
+
+health: 3
+
+combat: Fire
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: When this ally is destroyed, put target opposing ally into its owner's hand.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Warlock

@@ -1,0 +1,27 @@
+name: Mana-Etched Crown
+
+origin: servants-of-the-betrayer-225
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: → Put target ability card from your graveyard into your resource row face down and exhausted. Use only if you have seven or more cards in hand.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

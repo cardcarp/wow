@@ -1,0 +1,30 @@
+name: Huroshal Gutwrench
+
+origin: scourgewar-180
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 5
+
+health: 3
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally is dealt damage, you may destroy target ability.
+
+regulation:
+
+errata: []
+
+temp: Troll Shaman

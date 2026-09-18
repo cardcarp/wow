@@ -1,0 +1,27 @@
+name: Girdle of Ruination
+
+origin: azeroth-crafting-003
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: At the start of your turn, destroy the ability, ally, or equipment with the lowest cost. If two or more are tied, destroy all with that cost.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

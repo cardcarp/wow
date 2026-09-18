@@ -1,0 +1,30 @@
+name: Kaal Soulreaper
+
+origin: heroes-of-azeroth-245
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '7'
+
+damage: 5
+
+health: 6
+
+combat: Shadow
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 7 , Remove Kaal Soulreaper from the game → Players put all ally cards from their graveyards into play.
+
+regulation:
+
+errata: []
+
+temp: Orc Warlock

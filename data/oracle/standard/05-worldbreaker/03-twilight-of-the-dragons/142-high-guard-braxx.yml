@@ -1,0 +1,30 @@
+name: High Guard Braxx
+
+origin: twilight-of-the-dragons-142
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 2
+
+health: 5
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector When this ally enters play, he may deal 2 melee damage to target damaged hero or ally.
+
+regulation:
+
+errata: []
+
+temp: Goblin Warrior

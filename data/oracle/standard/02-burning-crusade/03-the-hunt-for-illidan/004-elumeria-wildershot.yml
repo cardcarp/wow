@@ -1,0 +1,25 @@
+name: Elumeria Wildershot
+
+origin: the-hunt-for-illidan-004
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 1 , Flip Elumeria → Elumeria heals all damage from all of your Pets.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Hunter

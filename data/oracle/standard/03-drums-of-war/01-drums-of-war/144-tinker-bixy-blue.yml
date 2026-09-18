@@ -1,0 +1,30 @@
+name: Tinker Bixy Blue
+
+origin: drums-of-war-144
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 1
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: 'If Bixy is undamaged: → Target player discards a card and you draw a card.'
+
+regulation:
+
+errata: []
+
+temp: Gnome Rogue

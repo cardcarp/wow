@@ -1,0 +1,26 @@
+name: Hood of the Exodus
+
+origin: wrathgate-174
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: Ability
+    text: When an ally you control with Assault deals combat damage to an opponent's hero, he discards a card.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

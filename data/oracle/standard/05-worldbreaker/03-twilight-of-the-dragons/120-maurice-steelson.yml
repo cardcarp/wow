@@ -1,0 +1,30 @@
+name: Maurice Steelson
+
+origin: twilight-of-the-dragons-120
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 1
+
+health: 4
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Protector When this ally enters play, your hero and allies you control have Assault 1 this turn.
+
+regulation:
+
+errata: []
+
+temp: Worgen Warrior

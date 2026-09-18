@@ -1,0 +1,25 @@
+name: Drain Will
+
+origin: drums-of-war-076
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: Target player discards a card and you draw a card.
+
+regulation:
+
+errata: []
+
+temp: Affliction

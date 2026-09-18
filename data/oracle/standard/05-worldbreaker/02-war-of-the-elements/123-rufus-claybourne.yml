@@ -1,0 +1,30 @@
+name: Rufus Claybourne
+
+origin: war-of-the-elements-123
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '2'
+
+damage: 2
+
+health: 2
+
+combat: Nature
+
+faction: Alliance
+
+instant: Aberration When this ally enters play, target hero or ally has Aberration and becomes a Worgen this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Worgen Druid

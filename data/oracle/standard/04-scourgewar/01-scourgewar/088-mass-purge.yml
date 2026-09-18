@@ -1,0 +1,25 @@
+name: Mass Purge
+
+origin: scourgewar-088
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Destroy any number of abilities that aren't attached to friendly cards.
+
+regulation:
+
+errata: []
+
+temp: Elemental

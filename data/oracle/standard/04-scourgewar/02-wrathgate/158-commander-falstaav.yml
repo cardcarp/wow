@@ -1,0 +1,28 @@
+name: Commander Falstaav
+
+origin: wrathgate-158
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '4'
+
+damage: 2
+
+health: 5
+
+combat: Melee
+
+rule:
+  - type: Ability
+    text: 'Argent Crusade Reputation Protector Once per turn: 2 → Target Unique ally has +X ATK this turn, where X is its ATK.'
+
+regulation:
+
+errata: []
+
+temp: Draenei Paladin

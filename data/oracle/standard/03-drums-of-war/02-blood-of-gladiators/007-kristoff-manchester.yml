@@ -1,0 +1,25 @@
+name: Kristoff Manchester
+
+origin: blood-of-gladiators-007
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Kristoff → When Kristoff deals damage with an attachment this turn, he heals that much from himself.
+
+regulation:
+
+errata: []
+
+temp: Human Warlock

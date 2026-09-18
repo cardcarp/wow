@@ -1,0 +1,30 @@
+name: Terestian Illhoof
+
+origin: betrayal-of-the-guardian-161
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 2
+
+health: 6
+
+combat: Shadow
+
+type: Monster
+
+rule:
+  - type: Ability
+    text: When this ally enters play, Portal . At the end of your turn, you may destroy another Demon ally you control. If you do, Terestian deals shadow damage to target opposing hero or ally equal to the cost of that destroyed Demon.
+
+regulation:
+
+errata: []
+
+temp: Satyr Demon Warlock

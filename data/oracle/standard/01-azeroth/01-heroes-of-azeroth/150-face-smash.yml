@@ -1,0 +1,24 @@
+name: Face Smash
+
+origin: heroes-of-azeroth-150
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+faction: Alliance
+
+instant: Target ally has " → Destroy target ally." this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

@@ -1,0 +1,25 @@
+name: Energized
+
+origin: drums-of-war-067
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Shaman
+
+instant: Ready target ally.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Enhancement

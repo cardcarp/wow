@@ -1,0 +1,27 @@
+name: Kaz'rogals Hardened Heart
+
+origin: caverns-of-time-treasure-057
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Opposing allies enter play exhausted.
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

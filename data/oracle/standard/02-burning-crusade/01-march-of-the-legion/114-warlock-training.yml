@@ -1,0 +1,25 @@
+name: Warlock Training
+
+origin: march-of-the-legion-114
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Warlock
+
+rule:
+  - type: Ability
+    text: "Attach to target friendly ally. Ongoing : When attached ally attacks, you may put target opposing ally into its owner's hand."
+
+regulation:
+
+errata: []
+
+temp: Affliction

@@ -1,0 +1,25 @@
+name: Savage Bear Form
+
+origin: worldbreaker-041
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+
+instant: 'Ongoing : Your hero has Protector and +5 .'
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Feral Bear Form

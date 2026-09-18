@@ -1,0 +1,22 @@
+name: Caught Off-Guard
+
+origin: heroes-of-azeroth-158
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+instant: Target hero or ally has -2 ATK this turn.
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: ''

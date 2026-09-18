@@ -1,0 +1,22 @@
+name: Growing Rage
+
+origin: onyxias-lair-event-014
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: Draw X cards, where X is the current stage.
+
+regulation:
+
+errata: []
+
+temp: ''

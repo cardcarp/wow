@@ -1,0 +1,28 @@
+name: Oruk Starstorm
+
+origin: worldbreaker-187
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 3
+
+combat: Arcane
+
+faction: Horde
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Tauren Druid

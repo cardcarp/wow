@@ -1,0 +1,28 @@
+name: Malaxia Wizwhirl
+
+origin: worldbreaker-015
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Horde
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 → Flip Malaxia
+  - type: Ability
+    position: Reverse
+    text: When an opposing ally is dealt nature ( ) damage, Malaxia may deal 1 nature damage to target hero.
+
+regulation:
+
+errata: []
+
+temp: Goblin Shaman

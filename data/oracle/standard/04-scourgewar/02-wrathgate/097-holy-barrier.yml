@@ -1,0 +1,26 @@
+name: Holy Barrier
+
+origin: wrathgate-097
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Priest
+
+rule:
+  - type: Ability
+    text: 'Ongoing : → Prevent the next X damage that would be dealt to target ally this turn, where X is the number of Paladins and Priests you control.'
+
+regulation:
+
+errata: []
+
+temp: Protection Discipline

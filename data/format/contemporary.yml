@@ -1,0 +1,39 @@
+set_allow:
+
+regulation_allow:
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+
+oracle_ban:
+  - ashenvale-reign-of-fire-196
+  - bottled-light-throne-of-the-tides-234
+  - etched-dragonbone-girdle-worldbreaker-221
+  - grglmrgl-throne-of-the-tides-022
+  - leader-of-the-pack-worldbreaker-251
+  - legacy-of-the-horde-reign-of-fire-065
+  - lord-kurtalos-ravencrest-war-of-the-ancients-101
+  - mazukon-throne-of-the-tides-162
+  - savagin-the-reckless-worldbreaker-190
+  - the-last-relic-of-argus-timewalkers-crafting-006
+  - viewless-wings-aftermath-badges-of-justice-008
+  - winter-veil-disguise-kit-aftermath-holiday-promotional-001
+
+oracle_restrict:
+
+oracle_exception:
+  Hero: 1
+
+oracle_limit: 4
+
+list_limit:
+  hero:
+    minimum: 1
+    maximum: 1
+  main:
+    minimum: 60
+    maximum: 60
+  side:
+    maximum: 10

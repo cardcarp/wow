@@ -1,0 +1,27 @@
+name: Wand of the Forgotten Star
+
+origin: blood-of-gladiators-188
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: When combat damage is dealt with this weapon to a hero, that hero's controller puts that many cards from the top of his deck into his graveyard.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Wand

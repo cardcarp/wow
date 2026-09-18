@@ -1,0 +1,25 @@
+name: Vengeful Gladiators Vestments
+
+origin: drums-of-war-215
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '7'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: When you play a finishing move , you may interrupt target card. → Put the top card of your deck into your resource row face down and ready.
+
+regulation:
+
+errata: []
+
+temp: Arena Armor Set Leather

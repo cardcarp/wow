@@ -1,0 +1,22 @@
+name: 'The Ring of Blood: Rokdar the Sundered Lord'
+
+origin: blood-of-gladiators-197
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+type: Arena
+
+rule:
+  - type: Ability
+    text: 'As a cost to place this quest face up, remove 2 damage from an opposing hero. Pay 2 to complete this quest. Reward : Draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

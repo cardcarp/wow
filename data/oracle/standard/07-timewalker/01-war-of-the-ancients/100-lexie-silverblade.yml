@@ -1,0 +1,30 @@
+name: Lexie Silverblade
+
+origin: war-of-the-ancients-100
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 2
+
+health: 2
+
+combat: Melee
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Haste 2 When this ally enters play, you may destroy target ally with cost 2 or less.
+
+regulation:
+
+errata: []
+
+temp: Night Elf Rogue

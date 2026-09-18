@@ -1,0 +1,27 @@
+name: Mana-Etched Pantaloons
+
+origin: fires-of-outland-199
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '5'
+
+class:
+  - Priest
+  - Warlock
+  - Mage
+
+rule:
+  - type: Ability
+    text: → Draw a card. Use only if you have seven or more cards in your hand.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

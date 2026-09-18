@@ -1,0 +1,28 @@
+name: Shadowmoon Mage
+
+origin: betrayal-of-the-guardian-155
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '5'
+
+damage: 9
+
+health: 1
+
+combat: Arcane
+
+type: Monster
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: Ogre Mage

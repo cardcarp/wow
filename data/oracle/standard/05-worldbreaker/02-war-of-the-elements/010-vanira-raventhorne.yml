@@ -1,0 +1,28 @@
+name: Vanira Raventhorne
+
+origin: war-of-the-elements-010
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 27
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 5 → Flip Vanira
+  - type: Ability
+    position: Reverse
+    text: Vanira has Assault 2 while you control a Form.
+
+regulation:
+
+errata: []
+
+temp: Worgen Druid

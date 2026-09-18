@@ -1,0 +1,25 @@
+name: Arathar, the Eye of Flame
+
+origin: war-of-the-ancients-221
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: Long-Range When this weapon enters play, it has +2 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Bow

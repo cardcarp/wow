@@ -1,0 +1,30 @@
+name: Jae'va the Relentless
+
+origin: servants-of-the-betrayer-165
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '7'
+
+damage: 3
+
+health: 7
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: Protector Exhaust a hero or ally in your party → Ready Jae'va. Use only once per turn.
+
+regulation:
+
+errata: []
+
+temp: Blood Elf Paladin

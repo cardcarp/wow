@@ -1,0 +1,31 @@
+name: Time-Bending Gem
+
+origin: betrayal-of-the-guardian-175
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '1'
+
+class:
+  - Warrior
+  - Hunter
+  - Rogue
+  - Druid
+  - Paladin
+  - Death Knight
+  - Shaman
+
+rule:
+  - type: Ability
+    text: When you place a resource face up into your resource row, your hero has Assault 1 this turn.
+
+regulation:
+
+errata: []
+
+temp: Item Ring

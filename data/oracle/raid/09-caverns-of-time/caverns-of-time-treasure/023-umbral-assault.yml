@@ -1,0 +1,25 @@
+name: Umbral Assault
+
+origin: caverns-of-time-treasure-023
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: "Ongoing : If one or more cards from the top of an opponent's deck would be removed from the game, remove that many +1 instead."
+
+regulation:
+
+errata: []
+
+temp: Shadow

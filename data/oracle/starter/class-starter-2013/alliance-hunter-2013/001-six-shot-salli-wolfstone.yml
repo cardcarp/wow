@@ -1,0 +1,25 @@
+name: 'six-Shot: Salli Wolfstone'
+
+origin: alliance-hunter-2013-001
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+health: 28
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    position: Front
+    text: 2 , Flip Salli → Pets you control have +2 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Hunter

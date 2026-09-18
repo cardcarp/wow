@@ -1,0 +1,29 @@
+name: Bloodfire Greatstaff
+
+origin: betrayal-of-the-guardian-178
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Priest
+  - Druid
+  - Mage
+  - Warlock
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 3 , → Exhaust target ally.
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Staff

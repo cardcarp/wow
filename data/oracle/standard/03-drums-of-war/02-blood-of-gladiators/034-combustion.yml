@@ -1,0 +1,25 @@
+name: Combustion
+
+origin: blood-of-gladiators-034
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '4'
+
+class:
+  - Mage
+
+rule:
+  - type: Ability
+    text: Fire Hero Required Your hero deals X fire damage to each hero and ally, where X is target ally's health.
+
+regulation:
+
+errata: []
+
+temp: Fire Talent

@@ -1,0 +1,25 @@
+name: Enlightenment
+
+origin: servants-of-the-betrayer-080
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '25'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: 'Discipline Hero Required You pay 1 less to play Enlightenment for each ability card in your graveyard. Ongoing : At the start of your turn, you win the game.'
+
+regulation:
+
+errata: []
+
+temp: Discipline Talent

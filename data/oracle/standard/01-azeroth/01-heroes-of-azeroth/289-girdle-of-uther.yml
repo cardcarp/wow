@@ -1,0 +1,26 @@
+name: Girdle of Uther
+
+origin: heroes-of-azeroth-289
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+
+rule:
+  - type: Ability
+    text: 4 , → Ready your hero and one of your Melee weapons.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

@@ -1,0 +1,26 @@
+name: Bracers of the Eclipse
+
+origin: through-the-dark-portal-250
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Druid
+  - Rogue
+
+rule:
+  - type: Ability
+    text: 1 , Remove Bracers of the Eclipse from the Game → Remove your deck from the game. Shuffle your graveyard face down. It is now your deck.
+
+regulation:
+
+errata: []
+
+temp: Armor Leather

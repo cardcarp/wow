@@ -1,0 +1,28 @@
+name: Viewless Wings
+
+origin: aftermath-badges-of-justice-008
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '5'
+
+class:
+  - Druid
+  - Shaman
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Allies you control have Assault 1 for each ally you control.
+
+regulation:
+
+errata: []
+
+temp: Armor Cloth

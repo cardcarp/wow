@@ -1,0 +1,32 @@
+name: Thane Korth'azz
+
+origin: naxxramas-raid-014
+
+layout: Standard
+
+category:
+  - Token
+
+trait:
+
+damage: 5
+
+health: 10
+
+combat: Melee
+
+type: Ally
+
+rule:
+  - type: Ability
+    position: Front
+    text: At the end of your turn, the raid leader chooses a raiding ally. This ally deals 5 fire damage to it.
+  - type: Ability
+    position: Reverse
+    text: At the end of your turn, this ally deals 5 fire damage to each raiding ally.
+
+regulation:
+
+errata: []
+
+temp: Dwarf Death Knight Horseman

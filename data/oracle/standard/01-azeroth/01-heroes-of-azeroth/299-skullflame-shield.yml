@@ -1,0 +1,27 @@
+name: Skullflame Shield
+
+origin: heroes-of-azeroth-299
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '6'
+
+class:
+  - Paladin
+  - Warrior
+  - Shaman
+
+rule:
+  - type: Ability
+    text: When your hero defends, it deals 1 fire damage to each opposing hero and ally.
+
+regulation:
+
+errata: []
+
+temp: Armor Shield

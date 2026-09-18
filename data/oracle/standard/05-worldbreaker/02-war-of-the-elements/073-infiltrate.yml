@@ -1,0 +1,25 @@
+name: Infiltrate
+
+origin: war-of-the-elements-073
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Up to two target heroes and/or allies have Assault 2 and Stealth this turn.
+
+regulation:
+
+errata: []
+
+temp: Subtlety

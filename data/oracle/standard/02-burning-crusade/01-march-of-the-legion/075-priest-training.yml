@@ -1,0 +1,25 @@
+name: Priest Training
+
+origin: march-of-the-legion-075
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Priest
+
+rule:
+  - type: Ability
+    text: 'Attach to target friendly ally. Ongoing : Attached ally has " → This ally heals 5 damage from target hero or ally."'
+
+regulation:
+
+errata: []
+
+temp: Holy

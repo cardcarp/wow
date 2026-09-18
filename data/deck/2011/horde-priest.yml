@@ -1,0 +1,57 @@
+name: Horde Priest
+
+format:
+  - Starter
+
+group: '2011'
+
+theme:
+  - Horde
+  - Starter
+  - '2011'
+
+complexity:
+
+division:
+
+highlight: horde-priest-2011-001
+
+tagline: 2011 Horde Priest Preconstructed
+
+description:
+  - title: ''
+    body: Introduction to the 2011 Horde Priest
+
+list:
+  hero:
+    horde-priest-2011-001: 1  # Teretha of the Undercity
+  main:
+    horde-priest-2011-002: 2  # Chasten
+    horde-priest-2011-003: 1 # Dark Extortion
+    horde-priest-2011-004: 2 # Expel
+    horde-priest-2011-005: 2 # Favor of Spirit
+    horde-priest-2011-006: 2 # Flash Heal
+    horde-priest-2011-007: 1 # Mind Melt
+    horde-priest-2011-008: 2 # Mind Spike
+    horde-priest-2011-009: 2 # Power Word: Vigor
+    horde-priest-2011-010: 1 # Prayer of Fortitude
+    horde-priest-2011-011: 2 # Alecia Hall
+    horde-priest-2011-012: 2 # Burom Bladeseer
+    horde-priest-2011-013: 2 # Falixia Frizzleblast
+    horde-priest-2011-014: 2 # Karkas Deathhowl
+    horde-priest-2011-015: 2 # Kuatha Mornhoof
+    horde-priest-2011-016: 3 # Nikka Blastbor
+    horde-priest-2011-017: 2 # Oruk Starstorm
+    horde-priest-2011-018: 2 # Ra'chee
+    horde-priest-2011-019: 2 # Raztu'jor
+    horde-priest-2011-020: 2 # Vesh'ral
+    horde-priest-2011-021: 2 # Waz'luk
+    horde-priest-2011-022: 2 # Yazli Earthspark
+    horde-priest-2011-023: 2 # Zulbraka
+    horde-priest-2011-024: 1 # Crimson Shocker
+    horde-priest-2011-025: 3 # The Ichor of Undeath
+    horde-priest-2011-026: 2 # A Bird in Hand
+    horde-priest-2011-027: 2 # Entrenched
+    horde-priest-2011-028: 4 # The Essence of Enmity
+    horde-priest-2011-029: 4 # The Key to Freedom
+    horde-priest-2011-030: 2 # Mystery Goo

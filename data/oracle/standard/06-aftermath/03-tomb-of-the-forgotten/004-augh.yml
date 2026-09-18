@@ -1,0 +1,23 @@
+name: Augh
+
+origin: tomb-of-the-forgotten-004
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+type: Monster
+
+rule:
+  - type: Ability
+    position: Front
+    text: "Deckbuilding: You can't put , or Talent cards in your deck."
+
+regulation:
+
+errata: []
+
+temp: Pygmy Mage Warrior 25

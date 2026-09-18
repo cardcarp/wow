@@ -1,0 +1,25 @@
+name: Totemic Vigor
+
+origin: war-of-the-elements-085
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '3'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: 'Enhancement Talent Ongoing : Totems you control have +2 . Your hero has Assault 1 for each Totem you control.'
+
+regulation:
+
+errata: []
+
+temp: Enhancement

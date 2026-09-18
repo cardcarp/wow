@@ -1,0 +1,25 @@
+name: Citadel Enforcers Claymore
+
+origin: worldbreaker-238
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule: []
+
+regulation:
+
+errata: []
+
+temp: 2H Weapon Sword

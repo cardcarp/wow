@@ -1,0 +1,26 @@
+name: The Four Horsemen
+
+origin: naxxramas-raid-013
+
+layout: Standard
+
+category:
+  - Hero
+
+trait:
+
+type: Boss
+
+rule:
+  - type: Ability
+    position: Front
+    text: Immune At the start of your turn, the raid leader flips a Horseman face down. Each Horseman can't leave play until all four have fatal damage. When a Horseman is dealt fatal damage, flip this card face down.
+  - type: Ability
+    position: Reverse
+    text: Immune At the start of your turn, the raid leader flips a Horseman face down. Each Horseman can't leave play until all four have fatal damage. Each Horseman has 0 ATK and can't gain ATK while it has fatal damage. When all four Horsemen leave play, destroy this card.
+
+regulation:
+
+errata: []
+
+temp: Horsemen

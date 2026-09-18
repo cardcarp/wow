@@ -1,0 +1,27 @@
+name: Belt of Absolute Zero
+
+origin: crown-of-the-heavens-170
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '3'
+
+class:
+  - Paladin
+  - Warrior
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: Weapons you control have +1 ATK.
+
+regulation:
+
+errata: []
+
+temp: Armor Plate

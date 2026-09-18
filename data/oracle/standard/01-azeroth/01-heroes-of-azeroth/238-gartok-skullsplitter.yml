@@ -1,0 +1,30 @@
+name: Gartok Skullsplitter
+
+origin: heroes-of-azeroth-238
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '1'
+
+damage: 2
+
+health: 1
+
+combat: Melee
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: When this ally attacks, you may exhaust target armor.
+
+regulation:
+
+errata: []
+
+temp: Orc Warrior

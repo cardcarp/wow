@@ -1,0 +1,25 @@
+name: Frenzy
+
+origin: worldbreaker-027
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Death Knight
+
+rule:
+  - type: Ability
+    text: 'Ongoing : → Target ally you control has Assault 1 this turn.'
+
+regulation:
+
+errata: []
+
+temp: Blood

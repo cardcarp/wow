@@ -1,0 +1,25 @@
+name: Earthen Flurry
+
+origin: fields-of-honor-062
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '5'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Target a hero or ally, and you may target an additional character for each Totem you control. Your hero deals 4 melee damage to each target.
+
+regulation:
+
+errata: []
+
+temp: Enhancement

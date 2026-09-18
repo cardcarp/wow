@@ -1,0 +1,27 @@
+name: Nifflevar Bearded Axe
+
+origin: aftermath-crafting-006
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Shaman
+  - Hunter
+  - Rogue
+
+rule:
+  - type: Ability
+    text: When your hero deals damage with this weapon, you pay 4 less to complete your next quest this turn.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

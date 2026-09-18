@@ -1,0 +1,25 @@
+name: Dwarven Hand Cannon
+
+origin: heroes-of-azeroth-319
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Hunter
+
+rule:
+  - type: Ability
+    text: When you strike with Dwarven Hand Cannon, your hero has Long-Range this combat. 2 → Dwarven Hand Cannon has +1 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Ranged Weapon Gun

@@ -1,0 +1,25 @@
+name: Invigorating Touch
+
+origin: march-of-the-legion-025
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Druid
+
+rule:
+  - type: Ability
+    text: Your hero heals 6 damage from target hero.
+
+regulation:
+
+errata: []
+
+temp: Restoration

@@ -1,0 +1,20 @@
+name: '"I AM THE LAWGIVER!"'
+
+origin: arena-grand-melee-event-044
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+rule:
+  - type: Ability
+    text: Put a 4 x 4 (4 ATK / 4 health) Lawbringer Truck ally token into play.
+
+regulation:
+
+errata: []
+
+temp: ''

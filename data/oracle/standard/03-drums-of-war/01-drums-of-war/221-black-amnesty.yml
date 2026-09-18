@@ -1,0 +1,26 @@
+name: Black Amnesty
+
+origin: drums-of-war-221
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '2'
+
+class:
+  - Shaman
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Your hero has Dual Wield . 1 , → If your hero is defending against an ally, remove your hero from combat.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Dagger

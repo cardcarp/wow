@@ -1,0 +1,25 @@
+name: Overpower
+
+origin: fields-of-honor-079
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '6'
+
+class:
+  - Warrior
+
+rule:
+  - type: Ability
+    text: "Ongoing : Opposing cards can't be exhausted on your turn."
+
+regulation:
+
+errata: []
+
+temp: Arms

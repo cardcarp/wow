@@ -1,0 +1,26 @@
+name: Maimgors Bite
+
+origin: crown-of-the-heavens-185
+
+layout: Standard
+
+category:
+  - Equipment
+
+trait:
+
+cost: '4'
+
+class:
+  - Shaman
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Dual Wield Double the ATK of this and other weapons you control.
+
+regulation:
+
+errata: []
+
+temp: 1H Weapon Axe

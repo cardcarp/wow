@@ -1,0 +1,22 @@
+name: Smoke and Ash
+
+origin: onyxias-lair-event-028
+
+layout: Standard
+
+category:
+  - Event
+
+trait:
+
+type: Raid
+
+rule:
+  - type: Ability
+    text: You may destroy target ability, ally, or equipment.
+
+regulation:
+
+errata: []
+
+temp: ''

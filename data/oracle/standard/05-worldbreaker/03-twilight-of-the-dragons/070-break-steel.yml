@@ -1,0 +1,25 @@
+name: Break Steel
+
+origin: twilight-of-the-dragons-070
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '1'
+
+class:
+  - Rogue
+
+rule:
+  - type: Ability
+    text: Destroy target exhausted equipment. If you do, your hero deals 2 melee damage to its controller's hero.
+
+regulation:
+
+errata: []
+
+temp: Assassination

@@ -1,0 +1,28 @@
+name: Rhonin
+
+origin: icecrown-168
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 4
+
+health: 3
+
+combat: Frost
+
+rule:
+  - type: Ability
+    text: 2 , Discard a Mage with cost X → Interrupt target card with cost X.
+
+regulation:
+
+errata: []
+
+temp: Human Mage

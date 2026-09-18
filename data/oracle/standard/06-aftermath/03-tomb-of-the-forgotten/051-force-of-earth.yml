@@ -1,0 +1,25 @@
+name: Force of Earth
+
+origin: tomb-of-the-forgotten-051
+
+layout: Standard
+
+category:
+  - Ability
+
+trait:
+
+cost: '2'
+
+class:
+  - Shaman
+
+rule:
+  - type: Ability
+    text: Target hero or ally has +1 ATK and Sentinel this turn.
+
+regulation:
+
+errata: []
+
+temp: Enhancement

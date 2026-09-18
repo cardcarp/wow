@@ -1,0 +1,22 @@
+name: Test of Faith
+
+origin: through-the-dark-portal-308
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+faction: Horde
+
+rule:
+  - type: Ability
+    text: 'Pay 1 to complete this quest. Reward : Discard your hand, then draw a card.'
+
+regulation:
+
+errata: []
+
+temp: ''

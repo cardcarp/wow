@@ -1,0 +1,20 @@
+name: The Essence of Enmity
+
+origin: worldbreaker-258
+
+layout: Standard
+
+category:
+  - Quest
+
+trait:
+
+rule:
+  - type: Ability
+    text: 'Pay 3 to complete this quest. Reward : Reveal the top five cards of your deck. Put a revealed ally into your hand and the rest on the bottom of your deck.'
+
+regulation:
+
+errata: []
+
+temp: ''

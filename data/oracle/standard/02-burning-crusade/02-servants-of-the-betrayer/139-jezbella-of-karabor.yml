@@ -1,0 +1,30 @@
+name: Jezbella of Karabor
+
+origin: servants-of-the-betrayer-139
+
+layout: Standard
+
+category:
+  - Ally
+
+trait:
+
+cost: '3'
+
+damage: 1
+
+health: 3
+
+combat: Frost
+
+faction: Alliance
+
+rule:
+  - type: Ability
+    text: Long-Range Exhaust an ally in your party → Jezbella has +1 ATK this turn.
+
+regulation:
+
+errata: []
+
+temp: Draenei Mage
